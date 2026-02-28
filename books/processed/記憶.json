@@ -1,0 +1,48 @@
+{
+  "id": "記憶",
+  "title": "記憶",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "記憶",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "記憶",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　記憶をたとへてみれば\n\n記憶は雪のふるやうなもので\n\nしづかに生活の過去につもるうれしさ。\n\n記憶は見知らぬ波止場をあるいて\n\nにぎやかな夜霧の海に\n\nぽうぽうと鳴る汽笛をきいた。\n\n記憶はほの白む汽車の窓に\n\nわびしい東雲をながめるやうで\n\n過ぎさる生活の景色のはてを",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ほのかに消えてゆく月のやうだ。\n\n記憶は雪のふる都會の夜に\n\nしづかな建築の家根を這ひまはる\n\nさびしい青猫の影の影\n\n記憶は分身のやうなものだ。",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

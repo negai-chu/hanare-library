@@ -1,0 +1,48 @@
+{
+  "id": "古盃",
+  "title": "古盃",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "古盃",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "古盃",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　小人若うて道に倦《う》んじ\n\n走りて隱者を得しが如く\n\n今われ山路の歸さ來つつ\n\n木蔭に形《かた》よき汝をえたり。\n\n表面《おもて》は蛟龍雲を吐《は》いて\n\n神有《じんう》の祕密をそめて見るや\n\n裏面《うら》には伶人額《ぬか》をたれて\n\n物思《ものも》ひ煩ふなよび姿\n\n才華悧悧たる眼《まな》ざしには",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "工匠《たくみ》が怨《うら》みもこもりけんよ。\n\nこは君逸品《いつぴん》古色ありと\n\n抱いて歸れば有情なりや\n\n味よきしづくの淺紫《せんし》なるに\n\nけ高き千古の春を知りぬ。",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "感謝",
+  "title": "感謝",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "感謝",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "感謝",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "野のはて夕暮雲かへりて\n\nしだいに落ちくる夕雲雀の\n\n有心《うしん》の調さへしづみゆけば\n\nかすかに頬《ほほ》うつ香ひありて\n\n夜の闇頒ちて幕《とばり》くだる。\n\n自然は地にみつ光なりや\n\n今日はめぐりて山に入れど\n\n見よかの大空姿優《いう》に\n\n夜の守月姫宮をいでて",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "唱ふをきかずや人の子等は。\n\nああ君倦《う》んずる額をあげて\n\n不滅の生命《いのち》をさとり得なば\n\n胸うちたたいて大神には\n\n讚美と感謝をささげてずや。",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

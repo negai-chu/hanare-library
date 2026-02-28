@@ -1,0 +1,54 @@
+{
+  "id": "ぎたる弾くひと",
+  "title": "ぎたる弾くひと",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ぎたる弾くひと",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ぎたる弾くひと",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ぎたる彈く、\n\nぎたる彈く、\n\nひとりしおもへば、\n\nたそがれは音なくあゆみ、\n\n石造の都會、\n\nまたその上を走る汽車、電車のたぐひ、\n\nそれら音なくして過ぎゆくごとし、\n\nわが愛のごときも永遠の歩行をやめず、\n\nゆくもかへるも、",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "やさしくなみだにうるみ、\n\nひとびとの瞳は街路にとぢらる。\n\nああ　いのちの孤獨、\n\nわれより出でて徘徊し、\n\n歩道に種を蒔きてゆく、\n\n種を蒔くひと、\n\nみづを撒くひと、\n\n光るしやつぽのひと、そのこども、\n\nしぬびあるきのたそがれに、",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "眼もおよばぬ東京の、\n\nいはんかたなきはるけさおぼえ、\n\nぎたる彈く、\n\nぎたる彈く。",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

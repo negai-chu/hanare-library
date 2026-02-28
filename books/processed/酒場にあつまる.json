@@ -1,0 +1,42 @@
+{
+  "id": "酒場にあつまる",
+  "title": "酒場にあつまる",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "酒場にあつまる",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "酒場にあつまる",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　酒をのんでゐるのはたのしいことだ、\n\nすべての善良な心をもつひとびとのために、\n\n酒場の卓はみがかれてゐる、\n\n酒場の女たちの愛らしく見えることは、\n\nどんなに君たちの心を正直にし、\n\n君たちの良心をはつきりさせるか、\n\nすでにさくらの咲くころとなり、\n\nわがよき心の友等は、多く街頭の酒場にあつまる。",
+      "characters": 152,
+      "ruby": []
+    }
+  ]
+}

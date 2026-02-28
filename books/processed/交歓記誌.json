@@ -1,0 +1,48 @@
+{
+  "id": "交歓記誌",
+  "title": "交歓記誌",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "交歓記誌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "交歓記誌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　みどりに深き手を泳がせ\n\n涼しきところに齒をかくせ\n\nいま風ながれ\n\n風景は白き帆をはらむ\n\nきみはふんすゐのほとりに家畜を先導し\n\nきみは舞妓たちを配列し\n\nきみはあづまやに銀のタクトをとれ\n\n夫人よ、おんみらはまた\n\nとく水色の籐椅子《といす》に酒をそそぎてよ",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "みよ、ひとびときたる\n\n遠方より魚を光らし\n\n淫樂の戲奴は靴先に鈴を鳴らせり。\n\nああ、いま新らしき遊戲は行はれ\n\n遠望の海さんさんたるに\n\nわれ諸君とゆびさし\n\n眺望してながく塔下に演説す。",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

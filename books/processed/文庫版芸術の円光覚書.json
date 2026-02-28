@@ -1,0 +1,42 @@
+{
+  "id": "文庫版芸術の円光覚書",
+  "title": "文庫版「芸術の円光」覚書",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "文庫版「芸術の円光」覚書",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 160,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "文庫版「芸術の円光」覚書",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「芸術の円光」は昭和二年三月、アルスより刊行された。詩論集として、わたくしの「詩と音楽」時代を代表するものである。\n\n　初版は四六判本文五百三十頁、その装幀は自身の考案になつて、漆黒の、独逸製カンヴアス・クロースに、フアブル昆虫記の中から選んだ蜜蜂図を金押ししたものである。たゞ題字の類のみはすべて恩地孝四郎画伯を煩した。\n\n　内容については、すでに初版の後記に述べたごとくであるが、この文庫版に於ては、最後の章「山荘より」竝に「山荘主人手記」の二篇を割愛した。一は雑誌「詩と音楽」の鵞ペンであり、一は大震災前後の手記であつて、詩論集としてはいさゝかこれと趣きを異にしてゐるからである。\n\n昭和十三年二月十一日\n白秋",
+      "characters": 308,
+      "ruby": []
+    }
+  ]
+}

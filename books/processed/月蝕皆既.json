@@ -1,0 +1,48 @@
+{
+  "id": "月蝕皆既",
+  "title": "月蝕皆既",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月蝕皆既",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月蝕皆既",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　みなそこに魚の哀傷、\n\nわれに涙のいちじるく、\n\nきみはきみとて、\n\nましろき乳房をぬらさむとする。\n\nこの日ごろつかふことなく、\n\nひさしくわれら靈智にひたる、\n\nすでに長き祈祷ををへ、\n\nいまみれば月も皆既なり、\n\n魚の性はせんちめんたる、",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "みよ、うみはみどりをたたへ、\n\n肉青らみ、\n\nいんいんとして二人あひ抱く、\n\n齒と齒と合し、\n\n手は手をつがひ、\n\nもつれつつからまりにつつ、\n\nいんよくきはまり、\n\n魚の浪におよぎて、\n\nよるの海に青き死の光れるをみる。",
+      "characters": 111,
+      "ruby": []
+    }
+  ]
+}

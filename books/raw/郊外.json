@@ -1,0 +1,48 @@
+{
+  "id": "郊外",
+  "title": "郊外",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "郊外",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "郊外",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "かしこに煙の流るる\n\n空はつめたくして\n\n草はあたたかに萌えたり\n\n手はくみて歩めども\n\nよそゆきの着物のにほひ侘しきに\n\n秋はうららに落ち來り\n\n日向に幹木の愁ちらばふ\n\n晝餉どき\n\n停車場のほとりに出で",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "わづかなる水をたうべしに\n\n工人の居て\n\n遠き麥畑を指させり\n\n（一九一三、九、二四）",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

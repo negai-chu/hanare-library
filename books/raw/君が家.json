@@ -1,0 +1,54 @@
+{
+  "id": "君が家",
+  "title": "君が家",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "君が家",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "君が家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ああ戀人の家なれば\n\n幾度そこを行ききずり\n\n空しくかへるたそがれの\n\n雲つれなきを恨みんや\n\n水は流れて南する\n\nゆかしき庭にそそげども\n\nたが放ちたる花中の\n\n艶なる戀もしらでやは\n\n垣間み見ゆるほほづきの",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "赤きを人の脣に\n\n情なくふくむ日もあらば\n\n悲しき子等はいかにせん\n\n例へば森に烏《からす》なき\n\n朝ざむ告ぐる冬の日も\n\nさびしき興に言《こと》よせて\n\n行く子ありとは知るやしらずや\n\nああ空しくて往來《いきき》ずり\n\n狂者《きやうさ》に似たるふりは知るも",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "からたちの垣深うして\n\n君がうれひのとどきあへず。",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

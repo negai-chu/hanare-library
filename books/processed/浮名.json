@@ -1,0 +1,48 @@
+{
+  "id": "浮名",
+  "title": "浮名",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "浮名",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "浮名",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　浮名《うきな》をいとはば舟《ふね》にのれ、\n\n舟はながれゆく、\n\nいま櫓櫂《ろかい》の音《おと》を絶え、\n\n風も雨も晴れしあけぼのに、\n\nよしあしぐさのみだるる渚をすぎ、\n\n舟はすいすいと流れゆくなり。\n\nああ舟にのりて行かば、\n\nくるほしきなみの亂れもここちよく、\n\nちのみごの夜びえする、",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あやしきこゑもきかであるべきに、\n\nふるとせひとにかくれて、\n\nわがはぐくみしいろぐさのはや涸れぬとぞ、\n\nけふきけば薄葉《うすえふ》に涙しをるる、\n\nよしゑやし、\n\n悲しきものはあだがたき、君ならなくに、\n\nはやも我が世をのがれいでばや。",
+      "characters": 120,
+      "ruby": []
+    }
+  ]
+}

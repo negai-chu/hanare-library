@@ -1,0 +1,42 @@
+{
+  "id": "風見",
+  "title": "風見",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "風見",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "風見",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ほのぼのと軋《きし》むは\n\n屋根の風見《かざみ》か、矢ぐるま、\n\nまんじりともせぬわがこころ、\n\nわかれた夜から、夜もすがら、\n\nまだ、あかつきの空かけて、\n\nきりやきり、きりやほろろ。",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

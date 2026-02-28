@@ -1,0 +1,60 @@
+{
+  "id": "庭園の雨",
+  "title": "庭園の雨",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "庭園の雨",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "庭園の雨",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "松の葉の青きに\n\nしとしとと雨はふる。\n\n凄まじき暴風雨《あらし》の後に\n\n針のごと雨はふる。\n\n色黄なる毛虫は\n\n土に沁みつき、\n\n月見草は\n\n萎れて白し。\n\n桐、樅、無花果、",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人工の盆栽の梅、\n\n犯されし小娘か、みな、\n\n泣き伏して声もなし。\n\nしとしとと雨はふる。\n\n浜の砂庭に吹き散り、\n\n陸橋《からばし》の下には\n\n傷つきし犬瞳を凝らす。\n\nあまりにも静かなり、ただ、\n\n腹切りし苦しさに",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "肩衣《かたぎぬ》をはねのけし瀬尾《せのを》、\n\nその青き松の震慄《わななき》。\n\nかくて、わが終日《ひねもす》、\n\n針のごと雨はふる。\n\n海見ゆる涼台《すずみ》の破風に\n\n光り、かつ、をぐらく。\n\n雨はふる、しとしとと、\n\n雨はやむ、またしばし、\n\n夕されば血の如き虹",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "遂にまた海と空とに。",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

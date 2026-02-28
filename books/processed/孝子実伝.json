@@ -1,0 +1,48 @@
+{
+  "id": "孝子実伝",
+  "title": "孝子実伝",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "孝子実伝",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 93,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "孝子実伝",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ちちのみの父を負ふもの、\n\nひとのみの肉と骨とを負ふもの、\n\nああ、なんぢの精氣をもて、\n\nこの師走中旬《なかば》を超え、\n\nゆくゆく靈魚を獲んとはするか、\n\nみよ水底にひそめるものら、\n\nその瞳はひらかれ、\n\nそのいろこは凍り、\n\nしきりに靈徳の孝子を待てるにより、",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "きみはゆくゆく涙をながし、\n\nそのあつき氷を蹈み、\n\nそのあつき氷を喰み、\n\nそのあつき氷をやぶらんとして、\n\nいたみ切齒《はがみ》なし、\n\nゆくゆくちちのみの骨を負へるもの、\n\n光る銀緑の魚を抱きて合掌し、\n\n夜あけんとする故郷に、\n\nあらゆるものを血まみれとする。——十一月作——",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

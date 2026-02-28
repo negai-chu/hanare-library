@@ -1,0 +1,48 @@
+{
+  "id": "鉱夫の歌",
+  "title": "鉱夫の歌",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鉱夫の歌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鉱夫の歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　めざめよ、\n\nみ空の金鑛、\n\nかなしくうたうたひ、\n\nなみだたれ、\n\nわれのみ土地を掘らんとす、\n\n土地は黥青、\n\nなやましきしやべるぞ光る。\n\nああくらき緑をやぶり、\n\n天上よりきたるの光、",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いま秋ふかみ、\n\nあふげば、\n\n一脈の金は空にあり。\n\nめざめよ、\n\nみ空の金鑛、\n\nかなしくうたうたひ、\n\nなみだたれ、\n\nわれなほ土地を掘らんとす。\n\n—九月二日—",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

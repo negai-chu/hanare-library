@@ -1,0 +1,48 @@
+{
+  "id": "岩魚",
+  "title": "岩魚",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "岩魚",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "岩魚",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "瀬川ながれを早み、\n\nしんしんと魚らくだる、\n\nああ岩魚《いはな》ぞはしる、\n\n谷あひふかに、秋の風光り、\n\n紫苑はなしぼみ、\n\n木末《こずゑ》にうれひをかく、\n\nえれなよ、\n\n信仰は空に影さす、\n\nかならずみよ、おんみが靜けき額にあり、",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "よしやここは遠くとも、\n\nわが巡禮は鈴ならしつつ君にいたらむ、\n\nいまうれひは瀧をとどめず、\n\nかなしみ山路をくだり、\n\nせちにせちにおんみをしたひ、\n\nひさしく手を岩魚《いはな》のうへにおく。\n\n——一九一四、八、八——",
+      "characters": 111,
+      "ruby": []
+    }
+  ]
+}

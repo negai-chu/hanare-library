@@ -1,0 +1,48 @@
+{
+  "id": "合唱",
+  "title": "合唱",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "合唱",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "合唱",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "にくしん、\n\nにくしん、\n\nたれか肉身をおとろへしむ、\n\n既にうぐひす落ちてやぶれ、\n\n石やぶれ、\n\n地はするどき白金なるに、\n\nにくしん、\n\nにくしん、\n\nにくしんは蒼天にいぢらしき涙をながす、",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ああ、なんぢの肉身。\n\n——八月作——",
+      "characters": 19,
+      "ruby": []
+    }
+  ]
+}

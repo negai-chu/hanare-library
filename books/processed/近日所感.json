@@ -1,0 +1,42 @@
+{
+  "id": "近日所感",
+  "title": "近日所感",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "近日所感",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 21,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "近日所感",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　朝鮮人あまた殺され\n\nその血百里の間に連なれり\n\nわれ怒りて視る、何の慘虐ぞ",
+      "characters": 39,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "遠望",
+  "title": "遠望",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "遠望",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "遠望",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　さばかり悲しみたまふとや、\n\nわが長く叫べること、\n\n煉瓦の門に入りしこと、\n\n路上に草をかみしこと、\n\nなべてその日を忘れえず、\n\nいはむや君が來し方を指さし、\n\nかの遠望をしたたむる、\n\nあはれ、あはれ、\n\nわが古き街の午後の風見よ。（厩橋暮日篇より）",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

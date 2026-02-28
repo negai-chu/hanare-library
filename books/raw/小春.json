@@ -1,0 +1,42 @@
+{
+  "id": "小春",
+  "title": "小春",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小春",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小春",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "やはらかい、土壤の上に、\n\nじつと私《わたし》が坐つて居る、\n\n涙ぐましい日だまりに、\n\n白い羽蟲のちらちらもえ、\n\n遠い春日のちらちらもえ。\n\n麥よ芽を出せ。",
+      "characters": 80,
+      "ruby": []
+    }
+  ]
+}

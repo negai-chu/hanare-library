@@ -1,0 +1,42 @@
+{
+  "id": "真実",
+  "title": "真実",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "真実",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "真実",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "自ラノ真実ヲ真実トスルコト、\n\n金《キン》ヲ金トシ悲シムコト、\n\n吹ク風ノオノレソヨギ、\n\n薔薇ト野菜ノムキムキニ咲キ、\n\n鳥ノ飛ビ、魚ノオヨギ、虫ノ匍フコト、\n\n男ヲンナノツツマシク連レ添フコト、\n\nミナアハレナリ、シンジツニ。\n\nミナアハレナリ。",
+      "characters": 125,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "山頂",
+  "title": "山頂",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "山頂",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "山頂",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かなしければぞ、\n\n眺め一時にひらかれ、\n\nあがつまの山なみ青く、\n\nいただきは額《ひたひ》に光る。\n\nああ尾ばな藤ばかますでに色あせ、\n\n手にも料紙はおもたくさげられ、\n\n夏はやおとろへ、\n\n山頂《いただき》は風に光る。\n\n——一九一四、八、吾妻ニテ——",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

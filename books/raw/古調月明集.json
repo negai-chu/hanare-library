@@ -1,0 +1,76 @@
+{
+  "id": "古調月明集",
+  "title": "古調月明集",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "古調月明集",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "春",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "秋",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 35,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "古調月明集",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "春",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "鶯《うぐひす》眠《ねむ》る花楮《はなかうぞ》\n\n月《つき》は翁《おきな》の面《めん》のうへ\n\n皷《つづみ》うてうておもしろく\n\n春《はる》はふたたび花楮《はなかうぞ》",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "秋",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "秋《あき》はほのかに寢《ね》ざめして\n\nあはれと思《おも》ふ幾夜《いくよ》さぞ\n\nとすれば白《しろ》う吹《ふ》き立《た》ちて\n\n月夜《つきよ》の風《かぜ》も消《き》えゆけり",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "くさばな",
+  "title": "くさばな",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "くさばな",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "くさばな",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "君はそれとも知らざれど\n\n我が手に持てる草ばなの\n\n薄くにじめる涙にも\n\n男ごころのやるせなき\n\n愁の節《ふし》はこもりたり",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

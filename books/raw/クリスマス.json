@@ -1,0 +1,48 @@
+{
+  "id": "クリスマス",
+  "title": "クリスマス",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "クリスマス",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "クリスマス",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "クリスマスとは何ぞや\n\n我が隣の子の羨ましきに\n\nそが高き窓をのぞきたり。\n\n飾れる部屋部屋\n\n我が知らぬ西洋の怪しき玩具と\n\n銀紙のかがやく星星。\n\n我れにも欲しく\n\n我が家にもクリスマスのあればよからん。\n\n耶蘇教の家の羨ましく",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "風琴《おるがん》の唱歌する聲をききつつ\n\n冬の夜幼なき眼《め》に涙ながしぬ。",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

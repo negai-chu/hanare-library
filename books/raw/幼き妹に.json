@@ -1,0 +1,48 @@
+{
+  "id": "幼き妹に",
+  "title": "幼き妹に",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "幼き妹に",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "幼き妹に",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "いもうとよ、\n\nそのいぢらしき顏をあげ。\n\nみよ兄は手に水桃《みづもも》をささげもち、\n\nいつさんにきみがかたへにしたひよる、\n\nこの東京の日くれどき、\n\n兄の戀魚は青らみてゆきて、\n\n日毎にいたみしたたり、\n\nいまいきもたえだえ、\n\nあい子よ、",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ふたり哀しき日のしたに、\n\nひとしれず草木《さうもく》の種を研ぐとても、\n\nさびしきはげに我等の素脚ならずや。\n\nああいとけなきおんみよ。\n\n—一九一四、五、三—",
+      "characters": 81,
+      "ruby": []
+    }
+  ]
+}

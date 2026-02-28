@@ -1,0 +1,42 @@
+{
+  "id": "うすやみ",
+  "title": "うすやみ",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "うすやみ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "うすやみ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "うすやみに光れる皿あり\n\n皿の底に蟲かくれ居て啜り鳴く\n\n晝はさびしく居間にひそみて\n\n鉛筆の心をけづるに疲れ\n\n夜は酒場の椅子にもたれて\n\n想ひにひたせる我が身の上こそ悲しけれ",
+      "characters": 89,
+      "ruby": []
+    }
+  ]
+}

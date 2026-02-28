@@ -1,0 +1,42 @@
+{
+  "id": "三人目の患者",
+  "title": "三人目の患者",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "三人目の患者",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 104,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "三人目の患者",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "三人目の患者は、\nいかにもつかれきつた風をして、\nべろりと舌をたらした、\nお醫者が小鼻をとんがらして、\n『氣分はどうです』\n『よろしい』\n『食物は』\n『おいしい』\n『それから……』\n『それからすべてよろしい』\nそして患者は椅子からとびあがつた、\nみろ、歪んだ脊髓のへんから、\nひものやうにぶらさがつた、\nなめくじの神經だの、くさつたくらげの手くびだの……。\nそいつは眞赤《まつか》の殺人者《ひとごろし》だ。",
+      "characters": 203,
+      "ruby": []
+    }
+  ]
+}

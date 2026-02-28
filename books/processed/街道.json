@@ -1,0 +1,42 @@
+{
+  "id": "街道",
+  "title": "街道",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街道",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街道",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　俥にゆられつつ\n\n夕ぐれ時の街道を\n\n新町街道を急ぐ女よ\n\n眞赤な夕日は山の上\n\n白粉のゑりがさむしかろ\n\n今宵\n\nおん身の上に幸あれかし\n\n（一九一三・一〇・二〇）",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

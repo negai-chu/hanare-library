@@ -1,0 +1,42 @@
+{
+  "id": "雪と花火献辞",
+  "title": "「雪と花火」献辞",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「雪と花火」献辞",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「雪と花火」献辞",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　わかき日の饗宴を忍びてこの怪しき黄と緑との\n\n詩集を“PAN”とわが「屋上庭園」の友にささぐ",
+      "characters": 47,
+      "ruby": []
+    }
+  ]
+}

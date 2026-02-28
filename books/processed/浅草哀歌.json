@@ -1,0 +1,114 @@
+{
+  "id": "浅草哀歌",
+  "title": "浅草哀歌",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 9
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "浅草哀歌",
+        "startPage": 1,
+        "endPage": 9,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "１",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "２",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "３",
+            "startPage": 6,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "４",
+            "startPage": 8,
+            "endPage": 9
+          }
+        ]
+      }
+    ],
+    "totalPages": 9,
+    "averageCharsPerPage": 122,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "浅草哀歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　われは思ふ、浅草の青き夜景を、\n仲見世の裏に洩るる短夜の葱のむせびを、\n公園の便所の瓦斯を、はた、澄めるアルボースの香を。\n\nあはれなる蛇小屋の畸形児を、かつは知れりや、\n怪しげの二階より寥《さみ》しらに顔いだす玉乗の若き女を、\nあるはまた曲馬の場《には》に息喘ぎ、うちならぶ馬のつかれを。\n\n新しきペンキに沁みる薄暮《くれがた》の空の青さよ。\nまた臭き花屋敷の側に腐れつつ暗《くら》みゆく溝の青さは\n夜もふけて銘酒屋の硝子うち覗くかなしき男のみや知りぬらん。\n\nわれは思ふ、かかる夜景に漂浪《さすら》へる者のうれひを、\n馬肉屋のにうつる広告の幻燈を見て蓄音機きけるやからを、\nかくてまた堂のうしろに病める者、尺八の追分ふし。",
+      "characters": 314,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "２",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "さは思へ、さは思へ、一時《ひととき》ののち……\n\n五時過ぎの夕日黄色く、溝板《どぶいた》に、髪床の硝子障子に、\n料理屋の軒の点《とも》らぬ角燈に、露台《バルコン》の青くさき芥子のにほひに、\n照りあかり、羽虫ぞ舞へる、\n甘げなる線の粘《ねば》りのうちもつれやはらかに交《つが》へるかれら。\n\nさは思へ、さは思へ、一時《ひととき》ののち………\nここにかの三味線弾きの下司女《げすをんな》寒げに坐り、\n破《やれ》むしろ籍きたる上に、\nかの暗き魚燈のけぶり頬にうけて、\nはらは髪賤民の児ぞ調子をかしきかつぽれを頼りなげにも踊るらむ。\n\nさあれいま羽虫ぞ舞へる。\n公園のけふのひと日を立ちつくす男の手より、\nかすり絵板はひるがへり、黄なる日に暫しかがやく。",
+      "characters": 323,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "３",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "わが友よ、わがわかき羅曼底の友よ、\n日は暮れて薔薇いろの光《かげ》薄《うす》き弧燈のしめり、\n水の面《も》と空気とにしみじみとにほひいでたる。\nそを見つつ暮れてゆくよるべなきわれのねたみよ。\n君もまた思ひ知りしや、あはれ夜《よ》のクラリオネツト、\nうち囃す銀のうれひはそことなく楽しけれども、\n——いかにせむ、髪の毛すぢに沁み入りて幽かにも顫ふ香料。",
+      "characters": 175,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "４",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "奥山の四時過ぎの日こそさみしけれ。\nあたたかにうち黄ばむ写真屋の古きならびは、\n半盲目の病児らの日向ぼこをば見るごとく、\n掲げたる鈍き写真のうちにくはせ者の女役者の顔のみ白く、\n罎《びん》ならぶのそば、露台《バルコン》にダアリヤの花ただひとつ赤けれども、\nなべてみな色もなし、入口の静かなる空椅子のうへに、\nみよりなき黒猫ぞひとりまた背を高めたる。\n\n見るものの凡てみな『過ぎし日』のごとくさびしく、\n疎《うと》ましき『忘却』の腐蝕よりのこされしものの痛さよ。\nげに、白き横文字はその屋根に、いかがはしけれ、\nThe Art Photograph とぞ読まれぬる。",
+      "characters": 282,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "からたちの垣根",
+  "title": "からたちの垣根",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "からたちの垣根",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "からたちの垣根",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "からたちの垣根の中に\n\n女のはしやぐ聲のする\n\n夕餉の葱のにほひする\n\n灯ともしごろ\n\nからたちの垣根を過ぐる侘しさよ。",
+      "characters": 60,
+      "ruby": []
+    }
+  ]
+}

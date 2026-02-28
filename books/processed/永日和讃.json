@@ -1,0 +1,42 @@
+{
+  "id": "永日和讃",
+  "title": "永日和讃",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "永日和讃",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "永日和讃",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ひとのいのりはみなみをむき、\n\nむぎはいつしん、\n\nうをはいつしん、\n\nわれはしんじつ、\n\nそらにうかびて、\n\nゆびとゆびと哀しみつれ、\n\nたましひは\n\nねもごろにほとけをしたふ。",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

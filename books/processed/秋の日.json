@@ -1,0 +1,66 @@
+{
+  "id": "秋の日",
+  "title": "秋の日",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋の日",
+        "startPage": 1,
+        "endPage": 6
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋の日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　眼を惱《なや》む山雀《やまがら》の\n\n愁を分けて、秋の日\n\n乳母《うば》の里、梨寺に\n\n稚日《ちじつ》想《おもひ》をなやみぬ\n\n花びら\n\n地に落つる音\n\n芥子《けし》ちるか\n\n秋なるに\n\nはた山なるに",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いと淋しや\n\n宵《よひ》、また籠をいだいて\n\n憂《うれ》ひぬ、鳥の病に\n\nああ疑ふ\n\n死せざらんや、いかで\n\nさて風ふかば、いかで\n\n聞かざらんや\n\n豆の葉の鳴る日を\n\n野面《のもせ》、雪に埋れし",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "木枯あらばいかに\n\n淋しとて\n\n泣くこころ、鳥にかあらまし\n\n人なればとて、いはんや\n\nかばかりいたむ心ぞ、君\n\n口籠《くごも》る男を癖《くせ》とみしも\n\n（昨日か）\n\n思ふに涙はかくこそ流れん\n\nわりなや",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "秋風《あきかぜ》、肌《はだへ》に寒しとてや山雀\n\nいといと切《せち》なる振《ふり》に鳴《な》くも\n\nなにかは\n\n我は山住み\n\n今《こ》の日笑顏《ゑがほ》の乳母《うば》を見て\n\n知んぬ平和の愛着\n\n目を病むも\n\n老いたるも\n\n人たるも鳥たるも",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "（さはいへ）\n\nさびしからまし\n\n日は照るに\n\nとこしなへ\n\n籠を抱いて\n\n夜すがら\n\n鳥と愁へぬ。\n\nあかつき\n\n覺《さ》めにけり菊の露",
+      "characters": 69,
+      "ruby": []
+    }
+  ]
+}

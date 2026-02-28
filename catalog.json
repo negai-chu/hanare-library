@@ -1,0 +1,5410 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-02-27T10:25:51.199Z",
+  "totalWorks": 463,
+  "works": [
+    {
+      "id": "a-letter-from-prison",
+      "title": "A LETTER FROM PRISON",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "aki",
+      "title": "秋",
+      "author": "芥川龍之介",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "恋愛",
+        "女性"
+      ],
+      "publicationYear": 1920,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "aruaho",
+      "title": "或阿呆の一生",
+      "author": "芥川龍之介",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "私小説",
+        "遺作",
+        "断章形式"
+      ],
+      "publicationYear": 1927,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "aruonna",
+      "title": "或る女",
+      "author": "有島武郎",
+      "readingTime": "4時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "白樺派",
+        "女性像"
+      ],
+      "publicationYear": 1919,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "bokutokidan",
+      "title": "濹東綺譚",
+      "author": "永井荷風",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "私小説",
+        "東京",
+        "耽美派"
+      ],
+      "publicationYear": 1937,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "book",
+      "title": "足跡",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "book-2",
+      "title": "新しい歌の味ひ",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "book-3",
+      "title": "郁雨に与ふ",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "book-4",
+      "title": "一日中の楽しき時刻",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "botchan",
+      "title": "坊っちゃん",
+      "author": "夏目漱石",
+      "readingTime": "2.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "青春小説",
+        "教師",
+        "ユーモア"
+      ],
+      "publicationYear": 1906,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "brothers-karamazov",
+      "title": "カラマーゾフの兄弟（上）",
+      "author": "フョードル・ドストエフスキー（米川正夫訳）",
+      "readingTime": "16時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "long",
+      "originalLanguage": "ru",
+      "translator": "米川正夫",
+      "tags": [
+        "心理小説",
+        "ロシア文学",
+        "宗教"
+      ],
+      "publicationYear": 1880,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "butoukai",
+      "title": "舞踏会",
+      "author": "芥川龍之介",
+      "readingTime": "15分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "鹿鳴館",
+        "舞踏会"
+      ],
+      "publicationYear": 1920,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "cha-no-hon",
+      "title": "茶の本",
+      "author": "岡倉覚三",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "era": "meiji",
+      "length": "medium",
+      "originalLanguage": "en",
+      "translator": "村岡博",
+      "tags": [
+        "思想",
+        "茶道",
+        "日本文化論"
+      ],
+      "publicationYear": 1906,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "christmas-carol",
+      "title": "クリスマス・カロル",
+      "author": "チャールズ・ディケンズ（森田草平訳）",
+      "readingTime": "2.5時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "medium",
+      "originalLanguage": "en",
+      "translator": "森田草平",
+      "tags": [
+        "幻想文学",
+        "イギリス文学",
+        "クリスマス"
+      ],
+      "publicationYear": 1843,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "chumon",
+      "title": "注文の多い料理店",
+      "author": "宮沢賢治",
+      "readingTime": "20分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "童話",
+        "風刺"
+      ],
+      "publicationYear": 1924,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "crime-and-punishment",
+      "title": "罪と罰",
+      "author": "フョードル・ドストエフスキー（米川正夫訳）",
+      "readingTime": "12時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "long",
+      "originalLanguage": "ru",
+      "translator": "米川正夫",
+      "tags": [
+        "心理小説",
+        "ロシア文学"
+      ],
+      "publicationYear": 1866,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "darakuron",
+      "title": "堕落論",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "評論",
+        "戦後思想",
+        "無頼派"
+      ],
+      "publicationYear": 1946,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "dzaka",
+      "title": "D坂の殺人事件",
+      "author": "江戸川乱歩",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "推理小説",
+        "明智小五郎"
+      ],
+      "publicationYear": 1925,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "faust",
+      "title": "ファウスト",
+      "author": "ゲーテ（森鷗外訳）",
+      "readingTime": "8時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "long",
+      "originalLanguage": "de",
+      "translator": "森鷗外",
+      "tags": [
+        "戯曲",
+        "ドイツ文学",
+        "古典"
+      ],
+      "publicationYear": 1808,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "fugaku",
+      "title": "富嶽百景",
+      "author": "太宰治",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "富士山",
+        "自伝的"
+      ],
+      "publicationYear": 1939,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "gakumon-no-susume",
+      "title": "学問のすすめ",
+      "author": "福沢諭吉",
+      "readingTime": "4時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "啓蒙思想",
+        "教育",
+        "独立自尊"
+      ],
+      "publicationYear": 1872,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "gan",
+      "title": "雁",
+      "author": "森鷗外",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "恋愛小説",
+        "明治東京"
+      ],
+      "publicationYear": 1911,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "genji",
+      "title": "源氏物語",
+      "author": "紫式部",
+      "readingTime": "40時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-classic",
+      "era": "heian",
+      "length": "long",
+      "originalLanguage": "ja",
+      "translator": "与謝野晶子",
+      "tags": [
+        "古典文学",
+        "平安文学",
+        "長編小説",
+        "恋愛"
+      ],
+      "publicationYear": 1008,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ginga",
+      "title": "銀河鉄道の夜",
+      "author": "宮沢賢治",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "童話",
+        "幻想文学"
+      ],
+      "publicationYear": 1934,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "gojunoto",
+      "title": "五重塔",
+      "author": "幸田露伴",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "歴史小説",
+        "職人",
+        "明治文学"
+      ],
+      "publicationYear": 1891,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "goriot",
+      "title": "ゴリオ爺さん",
+      "author": "バルザック（中島英之訳）",
+      "readingTime": "6時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "long",
+      "originalLanguage": "fr",
+      "translator": "中島英之",
+      "tags": [
+        "小説",
+        "フランス文学",
+        "人間喜劇"
+      ],
+      "publicationYear": 1835,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "haguruma",
+      "title": "歯車",
+      "author": "芥川龍之介",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "私小説",
+        "遺作",
+        "心理描写"
+      ],
+      "publicationYear": 1927,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "hakai",
+      "title": "破戒",
+      "author": "島崎藤村",
+      "readingTime": "5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "自然主義",
+        "社会小説"
+      ],
+      "publicationYear": 1906,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "hana",
+      "title": "鼻",
+      "author": "芥川龍之介",
+      "readingTime": "20分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "今昔物語"
+      ],
+      "publicationYear": 1916,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "hashire-melos",
+      "title": "走れメロス",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "友情",
+        "信義"
+      ],
+      "publicationYear": 1940,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "henshin",
+      "title": "変身",
+      "author": "カフカ（原田義人訳）",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "20c",
+      "length": "medium",
+      "originalLanguage": "de",
+      "translator": "原田義人",
+      "tags": [
+        "不条理文学",
+        "ドイツ文学",
+        "変身譚"
+      ],
+      "publicationYear": 1915,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "hojoki",
+      "title": "方丈記",
+      "author": "鴨長明",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-classic",
+      "era": "medieval",
+      "length": "short",
+      "originalLanguage": "ja",
+      "translator": "佐藤春夫",
+      "tags": [
+        "随筆",
+        "無常",
+        "鎌倉時代"
+      ],
+      "publicationYear": 1212,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "iki-no-kozo",
+      "title": "「いき」の構造",
+      "author": "九鬼周造",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "哲学",
+        "美学",
+        "日本文化"
+      ],
+      "publicationYear": 1930,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "imogayu",
+      "title": "芋粥",
+      "author": "芥川龍之介",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "平安時代",
+        "風刺"
+      ],
+      "publicationYear": 1916,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ineiraisan",
+      "title": "陰翳礼讃",
+      "author": "谷崎潤一郎",
+      "readingTime": "1.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "随筆",
+        "日本美",
+        "建築"
+      ],
+      "publicationYear": 1933,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "irezumi",
+      "title": "刺青",
+      "author": "谷崎潤一郎",
+      "readingTime": "20分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "耽美派",
+        "芸術"
+      ],
+      "publicationYear": 1910,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ivan",
+      "title": "イワンの馬鹿",
+      "author": "トルストイ（菊池寛訳）",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "short",
+      "originalLanguage": "ru",
+      "translator": "菊池寛",
+      "tags": [
+        "民話",
+        "ロシア文学",
+        "寓話"
+      ],
+      "publicationYear": 1886,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "jigokuhen",
+      "title": "地獄変",
+      "author": "芥川龍之介",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "芸術家",
+        "王朝物"
+      ],
+      "publicationYear": 1918,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "joseito",
+      "title": "女生徒",
+      "author": "太宰治",
+      "readingTime": "1.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "少女",
+        "日記体"
+      ],
+      "publicationYear": 1939,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kamome",
+      "title": "かもめ",
+      "author": "チェーホフ（神西清訳）",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "medium",
+      "originalLanguage": "ru",
+      "translator": "神西清",
+      "tags": [
+        "戯曲",
+        "ロシア文学",
+        "近代"
+      ],
+      "publicationYear": 1896,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kanikosen",
+      "title": "蟹工船",
+      "author": "小林多喜二",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "プロレタリア文学"
+      ],
+      "publicationYear": 1929,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kappa",
+      "title": "河童",
+      "author": "芥川龍之介",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "風刺小説",
+        "幻想文学"
+      ],
+      "publicationYear": 1927,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kazenosaburo",
+      "title": "風の又三郎",
+      "author": "宮沢賢治",
+      "readingTime": "1.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "童話",
+        "少年",
+        "風"
+      ],
+      "publicationYear": 1934,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kazetachinu",
+      "title": "風立ちぬ",
+      "author": "堀辰雄",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "恋愛小説",
+        "抒情"
+      ],
+      "publicationYear": 1936,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kikai",
+      "title": "機械",
+      "author": "横光利一",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "新感覚派",
+        "実験小説"
+      ],
+      "publicationYear": 1930,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kokoro",
+      "title": "こころ",
+      "author": "夏目漱石",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "心理小説",
+        "明治の知識人"
+      ],
+      "publicationYear": 1914,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "konjiki-yasha",
+      "title": "金色夜叉",
+      "author": "尾崎紅葉",
+      "readingTime": "8時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "小説",
+        "明治文学",
+        "恋愛小説"
+      ],
+      "publicationYear": 1897,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "koyahijiri",
+      "title": "高野聖",
+      "author": "泉鏡花",
+      "readingTime": "1.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "幻想文学",
+        "怪奇小説"
+      ],
+      "publicationYear": 1900,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kumo-no-ito",
+      "title": "蜘蛛の糸",
+      "author": "芥川龍之介",
+      "readingTime": "15分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "童話",
+        "仏教"
+      ],
+      "publicationYear": 1918,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "kusamakura",
+      "title": "草枕",
+      "author": "夏目漱石",
+      "readingTime": "5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "美学",
+        "随筆的小説"
+      ],
+      "publicationYear": 1906,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "lemon",
+      "title": "檸檬",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "心象風景"
+      ],
+      "publicationYear": 1925,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "maihime",
+      "title": "舞姫",
+      "author": "森鴎外",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "浪漫主義",
+        "留学"
+      ],
+      "publicationYear": 1890,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "meian",
+      "title": "明暗",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "meotozenzai",
+      "title": "夫婦善哉",
+      "author": "織田作之助",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "大阪文学",
+        "庶民小説"
+      ],
+      "publicationYear": 1940,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "mikan",
+      "title": "蜜柑",
+      "author": "芥川龍之介",
+      "readingTime": "10分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "列車",
+        "少女"
+      ],
+      "publicationYear": 1919,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "mon",
+      "title": "門",
+      "author": "夏目漱石",
+      "readingTime": "6時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "心理小説",
+        "三部作"
+      ],
+      "publicationYear": 1910,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "morugu",
+      "title": "モルグ街の殺人事件",
+      "author": "エドガー・アラン・ポー（佐々木直次郎訳）",
+      "readingTime": "1.5時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "medium",
+      "originalLanguage": "en",
+      "translator": "佐々木直次郎",
+      "tags": [
+        "推理小説",
+        "アメリカ文学",
+        "密室"
+      ],
+      "publicationYear": 1841,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "musashino",
+      "title": "武蔵野",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "随筆",
+        "自然文学"
+      ],
+      "publicationYear": 1898,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ningen-shikkaku",
+      "title": "人間失格",
+      "author": "太宰治",
+      "readingTime": "2.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "私小説",
+        "無頼派"
+      ],
+      "publicationYear": 1948,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ningenisu",
+      "title": "人間椅子",
+      "author": "江戸川乱歩",
+      "readingTime": "45分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "推理小説",
+        "怪奇",
+        "告白"
+      ],
+      "publicationYear": 1925,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "nogikunohaka",
+      "title": "野菊の墓",
+      "author": "伊藤左千夫",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "恋愛小説",
+        "悲恋",
+        "自然主義"
+      ],
+      "publicationYear": 1906,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "okunohosomichi",
+      "title": "おくのほそ道",
+      "author": "松尾芭蕉",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-classic",
+      "era": "edo",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "紀行文",
+        "俳諧",
+        "江戸時代"
+      ],
+      "publicationYear": 1702,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "pandora",
+      "title": "パンドラの匣",
+      "author": "太宰治",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "長編",
+        "書簡体",
+        "療養所",
+        "青春"
+      ],
+      "publicationYear": 1945,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "rashomon",
+      "title": "羅生門",
+      "author": "芥川龍之介",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "歴史小説"
+      ],
+      "publicationYear": 1915,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "rokugoshitsu",
+      "title": "六号室",
+      "author": "チェーホフ（神西清訳）",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "medium",
+      "originalLanguage": "ru",
+      "translator": "神西清",
+      "tags": [
+        "短編",
+        "ロシア文学",
+        "近代"
+      ],
+      "publicationYear": 1892,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "romeo",
+      "title": "ロミオとジュリエット",
+      "author": "シェイクスピア（坪内逍遙訳）",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "16c",
+      "length": "medium",
+      "originalLanguage": "en",
+      "translator": "坪内逍遙",
+      "tags": [
+        "戯曲",
+        "イギリス文学",
+        "悲劇"
+      ],
+      "publicationYear": 1597,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sakura-no-sono",
+      "title": "桜の園",
+      "author": "アントン・チェーホフ",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "20c",
+      "length": "medium",
+      "originalLanguage": "ru",
+      "translator": "神西清",
+      "tags": [
+        "戯曲",
+        "ロシア文学",
+        "没落"
+      ],
+      "publicationYear": 1904,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sakuranomori",
+      "title": "桜の森の満開の下",
+      "author": "坂口安吾",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "幻想文学",
+        "無頼派"
+      ],
+      "publicationYear": 1947,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sangetsuki",
+      "title": "山月記",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "変身譚",
+        "中国古典"
+      ],
+      "publicationYear": 1942,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sanshiro",
+      "title": "三四郎",
+      "author": "夏目漱石",
+      "readingTime": "6時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "青春小説",
+        "東京",
+        "恋愛"
+      ],
+      "publicationYear": 1908,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sanshoudayu",
+      "title": "山椒大夫",
+      "author": "森鷗外",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "歴史小説",
+        "古典翻案"
+      ],
+      "publicationYear": 1915,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sero",
+      "title": "セロ弾きのゴーシュ",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "童話",
+        "音楽"
+      ],
+      "publicationYear": 1934,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "shayou",
+      "title": "斜陽",
+      "author": "太宰治",
+      "readingTime": "2.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "没落貴族",
+        "戦後文学",
+        "無頼派"
+      ],
+      "publicationYear": 1947,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "shikeishu",
+      "title": "死刑囚最後の日",
+      "author": "ユゴー（豊島与志雄訳）",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "19c",
+      "length": "medium",
+      "originalLanguage": "fr",
+      "tags": [
+        "小説",
+        "フランス文学",
+        "社会派"
+      ],
+      "publicationYear": 1829,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "shinpan",
+      "title": "審判",
+      "author": "カフカ（原田義人訳）",
+      "readingTime": "5時間",
+      "available": true,
+      "region": "foreign",
+      "category": "foreign",
+      "era": "20c",
+      "length": "long",
+      "originalLanguage": "de",
+      "translator": "原田義人",
+      "tags": [
+        "不条理文学",
+        "ドイツ文学",
+        "近代"
+      ],
+      "publicationYear": 1925,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "shunkinsho",
+      "title": "春琴抄",
+      "author": "谷崎潤一郎",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "耽美派",
+        "恋愛"
+      ],
+      "publicationYear": 1933,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "sorekara",
+      "title": "それから",
+      "author": "夏目漱石",
+      "readingTime": "7時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "心理小説",
+        "三部作"
+      ],
+      "publicationYear": 1909,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "takasebune",
+      "title": "高瀬舟",
+      "author": "森鷗外",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "歴史小説",
+        "安楽死"
+      ],
+      "publicationYear": 1916,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "takekurabe",
+      "title": "たけくらべ",
+      "author": "樋口一葉",
+      "readingTime": "1.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "明治文学",
+        "少女"
+      ],
+      "publicationYear": 1895,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "tensai-to-kokubo",
+      "title": "天災と国防",
+      "author": "寺田寅彦",
+      "readingTime": "20分",
+      "available": true,
+      "region": "japanese",
+      "category": "non-fiction",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "科学随筆",
+        "防災",
+        "自然災害"
+      ],
+      "publicationYear": 1934,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "torokko",
+      "title": "トロッコ",
+      "author": "芥川龍之介",
+      "readingTime": "15分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "少年",
+        "郷愁"
+      ],
+      "publicationYear": 1922,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "toshishun",
+      "title": "杜子春",
+      "author": "芥川龍之介",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "童話",
+        "中国古典"
+      ],
+      "publicationYear": 1920,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "tsurezuregusa",
+      "title": "徒然草",
+      "author": "兼好法師",
+      "readingTime": "4時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-classic",
+      "era": "medieval",
+      "length": "long",
+      "originalLanguage": "ja",
+      "translator": "佐藤春夫",
+      "tags": [
+        "随筆",
+        "処世訓",
+        "鎌倉時代"
+      ],
+      "publicationYear": 1330,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ugetsu",
+      "title": "雨月物語",
+      "author": "上田秋成（鵜月洋訳）",
+      "readingTime": "5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-classic",
+      "era": "edo",
+      "length": "long",
+      "originalLanguage": "ja",
+      "translator": "鵜月洋",
+      "tags": [
+        "怪異小説",
+        "幻想文学",
+        "江戸時代"
+      ],
+      "publicationYear": 1776,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ukigumo",
+      "title": "浮雲",
+      "author": "二葉亭四迷",
+      "readingTime": "3時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "写実主義",
+        "言文一致"
+      ],
+      "publicationYear": 1887,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "umarei",
+      "title": "生まれ出づる悩み",
+      "author": "有島武郎",
+      "readingTime": "2時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "白樺派",
+        "芸術家",
+        "北海道"
+      ],
+      "publicationYear": 1918,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "villon-no-tsuma",
+      "title": "ヴィヨンの妻",
+      "author": "太宰治",
+      "readingTime": "45分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "夫婦",
+        "無頼派"
+      ],
+      "publicationYear": 1947,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "vita",
+      "title": "ヰタ・セクスアリス",
+      "author": "森鷗外",
+      "readingTime": "2.5時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "自伝的小説",
+        "性の目覚め"
+      ],
+      "publicationYear": 1909,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "wagahaiwa",
+      "title": "吾輩は猫である",
+      "author": "夏目漱石",
+      "readingTime": "10時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "ユーモア小説",
+        "風刺",
+        "猫"
+      ],
+      "publicationYear": 1905,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "yabu-no-naka",
+      "title": "藪の中",
+      "author": "芥川龍之介",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "短編",
+        "心理小説",
+        "多視点"
+      ],
+      "publicationYear": 1922,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "yaneura",
+      "title": "屋根裏の散歩者",
+      "author": "江戸川乱歩",
+      "readingTime": "1時間",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "taisho",
+      "length": "medium",
+      "originalLanguage": "ja",
+      "tags": [
+        "推理小説",
+        "犯罪心理",
+        "明智小五郎"
+      ],
+      "publicationYear": 1925,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "yodaka",
+      "title": "よだかの星",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "era": "showa",
+      "length": "short",
+      "originalLanguage": "ja",
+      "tags": [
+        "童話",
+        "幻想文学",
+        "星"
+      ],
+      "publicationYear": 1934,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "zen-no-kenkyu",
+      "title": "善の研究",
+      "author": "西田幾多郎",
+      "readingTime": "6時間",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "era": "meiji",
+      "length": "long",
+      "originalLanguage": "ja",
+      "tags": [
+        "哲学",
+        "純粋経験",
+        "京都学派"
+      ],
+      "publicationYear": 1911,
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "あきまろに答ふ",
+      "title": "あきまろに答ふ",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "あやかしの鼓",
+      "title": "あやかしの鼓",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "あらくれ",
+      "title": "あらくれ",
+      "author": "徳田秋声",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ありや二曲",
+      "title": "ありや二曲",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ウォーソン夫人の黒猫",
+      "title": "ウォーソン夫人の黒猫",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "うすやみ",
+      "title": "うすやみ",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "うつせみ",
+      "title": "うつせみ",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "おさん",
+      "title": "おさん",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "オツベルと象",
+      "title": "オツベルと象",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "お伽草紙",
+      "title": "お伽草紙",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "お月さまいくつ",
+      "title": "お月さまいくつ",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "カインの末裔",
+      "title": "カインの末裔",
+      "author": "有島武郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "かけはしの記",
+      "title": "かけはしの記",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "かめれおん日記",
+      "title": "かめれおん日記",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "からたちの垣根",
+      "title": "からたちの垣根",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ぎたる弾くひと",
+      "title": "ぎたる弾くひと",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "きりぎりす",
+      "title": "きりぎりす",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "くさばな",
+      "title": "くさばな",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "グスコーブドリの伝記",
+      "title": "グスコーブドリの伝記",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "くだもの",
+      "title": "くだもの",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "グッドバイ",
+      "title": "グッド・バイ",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "クリスマス",
+      "title": "クリスマス",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "すゞし",
+      "title": "すゞし",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ダスゲマイネ",
+      "title": "ダス・ゲマイネ",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "つゆのあとさき",
+      "title": "つゆのあとさき",
+      "author": "永井荷風",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "トカトントン",
+      "title": "トカトントン",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ドグラマグラ",
+      "title": "ドグラ・マグラ",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "どんぐりと山猫",
+      "title": "どんぐりと山猫",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "とんぼの眼玉",
+      "title": "とんぼの眼玉",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "なめとこ山の熊",
+      "title": "なめとこ山の熊",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "にごりえ",
+      "title": "にごりえ",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ひかりの素足",
+      "title": "ひかりの素足",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "フレップトリップ",
+      "title": "フレップ・トリップ",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ベースボール",
+      "title": "ベースボール",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ポラーノの広場",
+      "title": "ポラーノの広場",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "まぼろし",
+      "title": "まぼろし",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "みだれ髪",
+      "title": "みだれ髪",
+      "author": "与謝野晶子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ゆく雲",
+      "title": "ゆく雲",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ラムネ氏のこと",
+      "title": "ラムネ氏のこと",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ラムプの影",
+      "title": "ラムプの影",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "ランプの影",
+      "title": "ランプの影",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "わかれ道",
+      "title": "わかれ道",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "わが敬愛する人々に",
+      "title": "わが敬愛する人々に",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "わが幼時の美感",
+      "title": "わが幼時の美感",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "わすれなぐさはしがき",
+      "title": "「わすれなぐさ」はしがき",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "愛の詩集",
+      "title": "愛の詩集",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "愛撫",
+      "title": "愛撫",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "闇汁図解",
+      "title": "闇汁図解",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "易者の哲理",
+      "title": "易者の哲理",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "一握の砂",
+      "title": "一握の砂",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "一兵卒",
+      "title": "一兵卒",
+      "author": "田山花袋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "一房の葡萄",
+      "title": "一房の葡萄",
+      "author": "有島武郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "陰獣",
+      "title": "陰獣",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "烏の北斗七星",
+      "title": "烏の北斗七星",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雨の降る日",
+      "title": "雨の降る日",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雨瀟瀟",
+      "title": "雨瀟瀟",
+      "author": "永井荷風",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "運命",
+      "title": "運命",
+      "author": "幸田露伴",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "運命論者",
+      "title": "運命論者",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雲の日記",
+      "title": "雲の日記",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雲は天才である",
+      "title": "雲は天才である",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雲母集",
+      "title": "雲母集",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "永遠の詩人",
+      "title": "永遠の詩人",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "永日小品",
+      "title": "永日小品",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "永日和讃",
+      "title": "永日和讃",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "遠望",
+      "title": "遠望",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "押絵と旅する男",
+      "title": "押絵と旅する男",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "押絵の奇蹟",
+      "title": "押絵の奇蹟",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "横山",
+      "title": "横山",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "牡丹句録",
+      "title": "牡丹句録",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "恩讐の彼方に",
+      "title": "恩讐の彼方に",
+      "author": "菊池寛",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "化銀杏",
+      "title": "化銀杏",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "仮装人物",
+      "title": "仮装人物",
+      "author": "徳田秋声",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夏の夜の音",
+      "title": "夏の夜の音",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "家",
+      "title": "家",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "家庭の痛恨",
+      "title": "家庭の痛恨",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "歌よみに与ふる書",
+      "title": "歌よみに与ふる書",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "花枕",
+      "title": "花枕",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "我等の一団と彼",
+      "title": "我等の一団と彼",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "怪人二十面相",
+      "title": "怪人二十面相",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "海阪",
+      "title": "海阪",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "海神別荘",
+      "title": "海神別荘",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "海豹と雲",
+      "title": "海豹と雲",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "芥川君との交際について",
+      "title": "芥川君との交際について",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "芥川竜之介の死",
+      "title": "芥川竜之介の死",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "芥川竜之介の追憶",
+      "title": "芥川竜之介の追憶",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "貝の火",
+      "title": "貝の火",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "外科室",
+      "title": "外科室",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "街道",
+      "title": "街道",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "蒲原有明に帰れ",
+      "title": "蒲原有明に帰れ",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "蒲原有明氏の近況を聞いて",
+      "title": "蒲原有明氏の近況を聞いて",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "蒲団",
+      "title": "蒲団",
+      "author": "田山花袋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "鎌倉一見の記",
+      "title": "鎌倉一見の記",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "感謝",
+      "title": "感謝",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "感傷の塔",
+      "title": "感傷の塔",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "感傷品",
+      "title": "感傷品",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "歓魚夜曲",
+      "title": "歓魚夜曲",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "環礁",
+      "title": "環礁",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "観画談",
+      "title": "観画談",
+      "author": "幸田露伴",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "観想の時",
+      "title": "観想の時",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "観相の秋",
+      "title": "観相の秋",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "丸の内",
+      "title": "丸の内",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "玩具箱",
+      "title": "玩具箱",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "岩魚",
+      "title": "岩魚",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "岩清水",
+      "title": "岩清水",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雁の童子",
+      "title": "雁の童子",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "祈祷",
+      "title": "祈祷",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "記憶",
+      "title": "記憶",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "菊池君",
+      "title": "菊池君",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "吉野葛",
+      "title": "吉野葛",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "喫茶店にて",
+      "title": "喫茶店にて",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "旧主人",
+      "title": "旧主人",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "牛肉と馬鈴薯",
+      "title": "牛肉と馬鈴薯",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "魚服記",
+      "title": "魚服記",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "供養",
+      "title": "供養",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "競漕",
+      "title": "競漕",
+      "author": "久米正雄",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "橋上",
+      "title": "橋上",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "郷愁の詩人与謝蕪村",
+      "title": "郷愁の詩人　与謝蕪村",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "鏡地獄",
+      "title": "鏡地獄",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "桐の花",
+      "title": "桐の花",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "桐の花とカステラ",
+      "title": "桐の花とカステラ",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "近日所感",
+      "title": "近日所感",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "金色の死",
+      "title": "金色の死",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "九月十四日の朝",
+      "title": "九月十四日の朝",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "句合の月",
+      "title": "句合の月",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "虞美人草",
+      "title": "虞美人草",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "空知川の岸辺",
+      "title": "空知川の岸辺",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "熊手と提灯",
+      "title": "熊手と提灯",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "君が家",
+      "title": "君が家",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "決闘",
+      "title": "決闘",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "月に吠える",
+      "title": "月に吠える",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "月蝕皆既",
+      "title": "月蝕皆既",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "権助の恋",
+      "title": "権助の恋",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "軒もる月",
+      "title": "軒もる月",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "幻影の盾",
+      "title": "幻影の盾",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "現代日本の開化",
+      "title": "現代日本の開化",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "古江",
+      "title": "古江",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "古池の句の弁",
+      "title": "古池の句の弁",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "古調月明集",
+      "title": "古調月明集",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "古盃",
+      "title": "古盃",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "五百句",
+      "title": "五百句",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "五百五十句",
+      "title": "五百五十句",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "悟浄出世",
+      "title": "悟浄出世",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "悟浄歎異",
+      "title": "悟浄歎異",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "交歓記誌",
+      "title": "交歓記誌",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "光と風と夢",
+      "title": "光と風と夢",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "光ノミ",
+      "title": "光ノミ",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "坑夫",
+      "title": "坑夫",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "孝子実伝",
+      "title": "孝子実伝",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "行人",
+      "title": "行人",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "郊外",
+      "title": "郊外",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "鉱夫の歌",
+      "title": "鉱夫の歌",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "香ひの狩猟者",
+      "title": "香ひの狩猟者",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "高尾紀行",
+      "title": "高尾紀行",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "号外",
+      "title": "号外",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "合唱",
+      "title": "合唱",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "黒壁",
+      "title": "黒壁",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "黒檜",
+      "title": "黒檜",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "黒蜥蜴",
+      "title": "黒蜥蜴",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "再び歌よみに与ふる書",
+      "title": "再び歌よみに与ふる書",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "歳末に近き或る冬の日の日記",
+      "title": "歳末に近き或る冬の日の日記",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "細雪",
+      "title": "細雪",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "桜の樹の下には",
+      "title": "桜の樹の下には",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "桜桃",
+      "title": "桜桃",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "三人目の患者",
+      "title": "三人目の患者",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "山頂",
+      "title": "山頂",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "刺客蚊公之墓碑銘",
+      "title": "刺客蚊公之墓碑銘",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "四百年後の東京",
+      "title": "四百年後の東京",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "子規居士と余",
+      "title": "子規居士と余",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "思い出す事など",
+      "title": "思い出す事など",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "思ひ出",
+      "title": "思ひ出",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "死後",
+      "title": "死後",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "死後の恋",
+      "title": "死後の恋",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "私の個人主義",
+      "title": "私の個人主義",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "字余りの和歌俳句",
+      "title": "字余りの和歌俳句",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "七百五十句",
+      "title": "七百五十句",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "車上の春光",
+      "title": "車上の春光",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "邪宗門",
+      "title": "邪宗門",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "若菜集",
+      "title": "若菜集",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "酒に就いて",
+      "title": "酒に就いて",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "酒場にあつまる",
+      "title": "酒場にあつまる",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "受験生の手記",
+      "title": "受験生の手記",
+      "author": "久米正雄",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "修禅寺物語",
+      "title": "修禅寺物語",
+      "author": "岡本綺堂",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "秋と漫歩",
+      "title": "秋と漫歩",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "秋の日",
+      "title": "秋の日",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "十三夜",
+      "title": "十三夜",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "従軍紀事",
+      "title": "従軍紀事",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "重右衛門の最後",
+      "title": "重右衛門の最後",
+      "author": "田山花袋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "縮図",
+      "title": "縮図",
+      "author": "徳田秋声",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "春の暗示",
+      "title": "春の暗示",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "春の鳥",
+      "title": "春の鳥",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "春昼",
+      "title": "春昼",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "春昼後刻",
+      "title": "春昼後刻",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "初夢",
+      "title": "初夢",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "曙覧の歌",
+      "title": "曙覧の歌",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "書斎と星",
+      "title": "書斎と星",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "小さき者へ",
+      "title": "小さき者へ",
+      "author": "有島武郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "小さな王国",
+      "title": "小さな王国",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "小園の記",
+      "title": "小園の記",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "小春",
+      "title": "小春",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "小泉八雲の家庭生活",
+      "title": "小泉八雲の家庭生活",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "少女地獄",
+      "title": "少女地獄",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "少女病",
+      "title": "少女病",
+      "author": "田山花袋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "少年",
+      "title": "少年",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "少年の悲哀",
+      "title": "少年の悲哀",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "沼夫人",
+      "title": "沼夫人",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "照葉狂言",
+      "title": "照葉狂言",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "硝子戸の中",
+      "title": "硝子戸の中",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "城のある町にて",
+      "title": "城のある町にて",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "常識",
+      "title": "常識",
+      "author": "小泉八雲",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "foreign",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "心理試験",
+      "title": "心理試験",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "新橋",
+      "title": "新橋",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "新生",
+      "title": "新生",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "真実",
+      "title": "真実",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "真珠抄",
+      "title": "真珠抄",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "真珠夫人",
+      "title": "真珠夫人",
+      "author": "菊池寛",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "神に捧ぐる歌",
+      "title": "神に捧ぐる歌",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "神童の死",
+      "title": "神童の死",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "親子",
+      "title": "親子",
+      "author": "有島武郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "進むべき俳句の道",
+      "title": "進むべき俳句の道",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "人々に答ふ",
+      "title": "人々に答ふ",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "人間腸詰",
+      "title": "人間腸詰",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "水郷柳河",
+      "title": "水郷柳河",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雀の卵",
+      "title": "雀の卵",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "青いゆき",
+      "title": "青いゆき",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "青蛙堂鬼談",
+      "title": "青蛙堂鬼談",
+      "author": "岡本綺堂",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "青鬼の褌を洗う女",
+      "title": "青鬼の褌を洗う女",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "青猫",
+      "title": "青猫",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "石段上りの街",
+      "title": "石段上りの街",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雪と花火献辞",
+      "title": "「雪と花火」献辞",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雪と花火余言",
+      "title": "雪と花火余言",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雪女",
+      "title": "雪女",
+      "author": "小泉八雲",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "foreign",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "雪渡り",
+      "title": "雪渡り",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "千曲川のスケッチ",
+      "title": "千曲川のスケッチ",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "川端茅舎句集",
+      "title": "川端茅舎句集",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "戦争と一人の女",
+      "title": "戦争と一人の女",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "浅草哀歌",
+      "title": "浅草哀歌",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "全都覚醒賦",
+      "title": "全都覚醒賦",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "双子の星",
+      "title": "双子の星",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "足利尊氏",
+      "title": "足利尊氏",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "続俳諧師",
+      "title": "続俳諧師",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "大つごもり",
+      "title": "大つごもり",
+      "author": "樋口一葉",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "大船駅で",
+      "title": "大船駅で",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "第二海豹と雲",
+      "title": "第二海豹と雲",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "第二邪宗門",
+      "title": "第二邪宗門",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "第二真珠抄",
+      "title": "第二真珠抄",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "痴人の愛",
+      "title": "痴人の愛",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "竹の木戸",
+      "title": "竹の木戸",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "竹林生活",
+      "title": "竹林生活",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "忠直卿行状記",
+      "title": "忠直卿行状記",
+      "author": "菊池寛",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "超人鬚野博士",
+      "title": "超人鬚野博士",
+      "author": "夢野久作",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "津軽",
+      "title": "津軽",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "椿子物語",
+      "title": "椿子物語",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "停車場にて",
+      "title": "停車場にて",
+      "author": "小泉八雲",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "foreign",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "庭園の雨",
+      "title": "庭園の雨",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "弟子",
+      "title": "弟子",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "泥濘",
+      "title": "泥濘",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "溺れかけた兄妹",
+      "title": "溺れかけた兄妹",
+      "author": "有島武郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "天守物語",
+      "title": "天守物語",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "田舎教師",
+      "title": "田舎教師",
+      "author": "田山花袋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "徒歩旅行を読む",
+      "title": "徒歩旅行を読む",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "土神ときつね",
+      "title": "土神ときつね",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "土達磨を毀つ辞",
+      "title": "土達磨を毀つ辞",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "冬の日",
+      "title": "冬の日",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "冬の蠅",
+      "title": "冬の蠅",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "東京景物詩及其他",
+      "title": "東京景物詩及其他",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "東西南北序",
+      "title": "東西南北序",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "湯島詣",
+      "title": "湯島詣",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "藤十郎の恋",
+      "title": "藤十郎の恋",
+      "author": "菊池寛",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "藤村詩抄",
+      "title": "藤村詩抄",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "頭ならびに腹",
+      "title": "頭ならびに腹",
+      "author": "横光利一",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "道化の華",
+      "title": "道化の華",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "道草",
+      "title": "道草",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "読書弁",
+      "title": "読書弁",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "南国太平記",
+      "title": "南国太平記",
+      "author": "直木三十五",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "二銭銅貨",
+      "title": "二銭銅貨",
+      "author": "江戸川乱歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "二百十日",
+      "title": "二百十日",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "二百二十日",
+      "title": "二百二十日",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "日光の紅葉",
+      "title": "日光の紅葉",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "日本ライン",
+      "title": "日本ライン",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "日本文化私観",
+      "title": "日本文化私観",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "japanese-thought",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "日輪",
+      "title": "日輪",
+      "author": "横光利一",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "日和下駄",
+      "title": "日和下駄",
+      "author": "永井荷風",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "入れ札",
+      "title": "入れ札",
+      "author": "菊池寛",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "入江のほとり",
+      "title": "入江のほとり",
+      "author": "正宗白鳥",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "猫の事務所",
+      "title": "猫の事務所",
+      "author": "宮沢賢治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳句とはどんなものか",
+      "title": "俳句とはどんなものか",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳句の作りよう",
+      "title": "俳句の作りよう",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳句の初歩",
+      "title": "俳句の初歩",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳句はかく解しかく味う",
+      "title": "俳句はかく解しかく味う",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳句への道",
+      "title": "俳句への道",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳句上の京と江戸",
+      "title": "俳句上の京と江戸",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳人蕪村",
+      "title": "俳人蕪村",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳諧師",
+      "title": "俳諧師",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "俳諧大要",
+      "title": "俳諧大要",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "白秋詩集序",
+      "title": "「白秋詩集」序",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "白秋詩集第一巻解題",
+      "title": "「白秋詩集」第一巻解題",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "白秋詩集第二巻解題",
+      "title": "「白秋詩集」第二巻解題",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "白痴",
+      "title": "白痴",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "白帝城",
+      "title": "白帝城",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "白南風",
+      "title": "白南風",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "畑の祭",
+      "title": "畑の祭",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "発行所の庭木",
+      "title": "発行所の庭木",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "半七捕物帳",
+      "title": "半七捕物帳",
+      "author": "岡本綺堂",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "斑鳩物語",
+      "title": "斑鳩物語",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "煩悶",
+      "title": "煩悶",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "飯待つ間",
+      "title": "飯待つ間",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "番町皿屋敷",
+      "title": "番町皿屋敷",
+      "author": "岡本綺堂",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "卑怯者",
+      "title": "卑怯者",
+      "author": "有島武郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "彼岸過迄",
+      "title": "彼岸過迄",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "悲しい新宿",
+      "title": "悲しい新宿",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "悲しき玩具",
+      "title": "悲しき玩具",
+      "author": "石川啄木",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "悲しき決闘",
+      "title": "悲しき決闘",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "疲レ",
+      "title": "疲レ",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "皮膚と心",
+      "title": "皮膚と心",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "秘密",
+      "title": "秘密",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "眉かくしの霊",
+      "title": "眉かくしの霊",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "百日紅",
+      "title": "百日紅",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "病牀苦語",
+      "title": "病牀苦語",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "病牀六尺",
+      "title": "病牀六尺",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "病牀瑣事",
+      "title": "病牀瑣事",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "病牀譫語",
+      "title": "病牀譫語",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "不連続殺人事件",
+      "title": "不連続殺人事件",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "婦系図",
+      "title": "婦系図",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "富士登山",
+      "title": "富士登山",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "浮名",
+      "title": "浮名",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "父帰る",
+      "title": "父帰る",
+      "author": "菊池寛",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "風隠集",
+      "title": "風隠集",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "風見",
+      "title": "風見",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "風博士",
+      "title": "風博士",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "文庫版芸術の円光覚書",
+      "title": "文庫版「芸術の円光」覚書",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "文庫版雀の卵覚書",
+      "title": "文庫版『雀の卵』覚書",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "文字禍",
+      "title": "文字禍",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "文鳥",
+      "title": "文鳥",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "平凡",
+      "title": "平凡",
+      "author": "二葉亭四迷",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "別府温泉",
+      "title": "別府温泉",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "忘れえぬ人々",
+      "title": "忘れえぬ人々",
+      "author": "国木田独歩",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "墨汁一滴",
+      "title": "墨汁一滴",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "万葉集を読む",
+      "title": "万葉集を読む",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "万葉集巻十六",
+      "title": "万葉集巻十六",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "満韓ところどころ",
+      "title": "満韓ところどころ",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "蜜柑山散策",
+      "title": "蜜柑山散策",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夢十夜",
+      "title": "夢十夜",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夢殿",
+      "title": "夢殿",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "名人伝",
+      "title": "名人伝",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "明治卅三年十月十五日記事",
+      "title": "明治卅三年十月十五日記事",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "孟宗と七面鳥",
+      "title": "孟宗と七面鳥",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "木曾川",
+      "title": "木曾川",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夜寒十句",
+      "title": "夜寒十句",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夜叉ヶ池",
+      "title": "夜叉ヶ池",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夜長姫と耳男",
+      "title": "夜長姫と耳男",
+      "author": "坂口安吾",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "夜明け前",
+      "title": "夜明け前",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "野分",
+      "title": "野分",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "幼き妹に",
+      "title": "幼き妹に",
+      "author": "萩原朔太郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "葉",
+      "title": "葉",
+      "author": "太宰治",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "落葉降る下にて",
+      "title": "落葉降る下にて",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "嵐",
+      "title": "嵐",
+      "author": "島崎藤村",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "李陵",
+      "title": "李陵",
+      "author": "中島敦",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "竜潭譚",
+      "title": "竜潭譚",
+      "author": "泉鏡花",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "旅の旅の旅",
+      "title": "旅の旅の旅",
+      "author": "正岡子規",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "旅愁",
+      "title": "旅愁",
+      "author": "横光利一",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "緑の種子",
+      "title": "緑の種子",
+      "author": "北原白秋",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "倫敦塔",
+      "title": "倫敦塔",
+      "author": "夏目漱石",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "路上",
+      "title": "路上",
+      "author": "梶井基次郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "六百句",
+      "title": "六百句",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "六百五十句",
+      "title": "六百五十句",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "卍",
+      "title": "卍",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "漱石氏と私",
+      "title": "漱石氏と私",
+      "author": "高浜虚子",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "蓼喰う虫",
+      "title": "蓼喰う虫",
+      "author": "谷崎潤一郎",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "蠅",
+      "title": "蠅",
+      "author": "横光利一",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    },
+    {
+      "id": "黴",
+      "title": "黴",
+      "author": "徳田秋声",
+      "readingTime": "30分",
+      "available": true,
+      "region": "japanese",
+      "category": "modern-japanese",
+      "processedAt": "2026-02-27T10:25:51.199Z"
+    }
+  ]
+}

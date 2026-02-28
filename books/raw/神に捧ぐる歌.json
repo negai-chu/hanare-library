@@ -1,0 +1,48 @@
+{
+  "id": "神に捧ぐる歌",
+  "title": "神に捧ぐる歌",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "神に捧ぐる歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "神に捧ぐる歌",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "あしきおこなひをする勿れ\n\nわれはやさしきひとなれば\n\nよるも楊柳《やなぎ》の木影にうち伏し\n\nひとり居てダビテの詩《うた》をうたひなむ\n\nわれは巡禮\n\n悲しき旅路にあるとも\n\nわが身にそへる星をたのみて\n\nよこしまの道をな歩みそ\n\nたとしへなく寂しけれども",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "よきひとはみなかくある者ぞかし\n\nわれはいとし子\n\nみ神よ、めぐみをたれさせ給へ",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "歓魚夜曲",
+  "title": "歓魚夜曲",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "歓魚夜曲",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "歓魚夜曲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　光り蟲しげく跳びかへる\n\n夜の海の青き面をや眺むらむ\n\nあてなき瞳遠く放たれ\n\n息らひたまふ君が側へに寄りそへるに\n\n浪はやさしくさしきたり\n\nまたひき去る浪\n\n遠き渚に海月のひもはうちふるへ\n\n月しらみわたる夜なれや\n\n言葉なくふたりさしより",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "涙ぐましき露臺の椅子にうち向ふ\n\nこのにほふ潮風にしばなく鴎\n\n鱗光の青きに水流れ散りて\n\nやまずせかれぬ戀魚の身ともなりぬれば\n\n今こそわが手ひらかれ\n\n手はかたくあふるるものを押へたり。\n\nああかの高きに星あり\n\n……………\n\nしづかに蛇の這ひ行くごとし。",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

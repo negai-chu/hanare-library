@@ -1,0 +1,48 @@
+{
+  "id": "ありや二曲",
+  "title": "ありや二曲",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ありや二曲",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ありや二曲",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "×\n\nえこそ忘れめや\n\nそのくちづけのあとやさき\n\n流るる水をせき止めし\n\nわかれの際の青き月の出\n\n　　　×\n\n雨落し來らんとして\n\n沖につばなの花咲き\n\n海月《くらげ》は渚にきて青く光れり",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "砂丘《をか》に登りて遠きを望む\n\nいま我が身の上に\n\n好しと思ふことのありけり",
+      "characters": 39,
+      "ruby": []
+    }
+  ]
+}

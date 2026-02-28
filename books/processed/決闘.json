@@ -1,0 +1,54 @@
+{
+  "id": "決闘",
+  "title": "決闘",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "決闘",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 107,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "決闘",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　空《そら》と地《つち》とに緑はうまる、\n\n緑をふみてわが行くところ、\n\n靴は光る魚ともなり、\n\nよろこび樹蔭におよぎ、\n\n手に輕き薄刃《やいば》はさげられたり。\n\nああ、するどき薄刃《やいば》をさげ、\n\n左手をもつて敵手《かたき》に揖す、\n\nはや東雲《しののめ》あくる楢の林に、\n\n小鳥うたうたひ、",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "きよらにわれの血はながれ、\n\nましろき朝餉をうみなむとす。\n\nみよ我がてぶくろのうへにしも、\n\n愛のくちづけあざやかなれども、\n\nいまはやみどりはみどりを生み、\n\nわがたましひは芽ばえ光をかんず、\n\nすでに伸長し、\n\nつるぎをぬきておごりたかぶるのわれ、\n\nをさな兒の怒り昇天し、",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "烈しくして空氣をやぶらんとす、\n\n土地《つち》より生るる敵手のまへ、\n\nわが肉の歡喜《よろこび》ふるへ、\n\n感傷のひとみ、あざやかに空にひらかる。\n\nああ、いまするどく鋭刃《やいば》を合せ、\n\n手はしろがねとなり、\n\nわれの額きずつき、\n\n劍術は青らみつひにらじうむとなる。",
+      "characters": 137,
+      "ruby": []
+    }
+  ]
+}

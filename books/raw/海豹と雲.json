@@ -1,0 +1,2823 @@
+{
+  "id": "海豹と雲",
+  "title": "海豹と雲",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 296
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "序",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-2",
+        "title": "古代新頌",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "水上",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "独神",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "言問",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-4",
+            "number": "猟夫",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-5",
+            "number": "青野",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-6",
+            "number": "蛍に",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-7",
+            "number": "狼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-8",
+            "number": "岩礁",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-9",
+            "number": "噛む",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-10",
+            "number": "木蘭吟",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-11",
+            "number": "早春",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-3",
+        "title": "白き花鳥図",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-3-section-1",
+            "number": "水禽",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-2",
+            "number": "奉悼曲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-3",
+            "number": "白鷺",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-4",
+            "number": "白牡丹",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-5",
+            "number": "辛夷",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-6",
+            "number": "白",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-7",
+            "number": "柳鷺",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-8",
+            "number": "和み",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-9",
+            "number": "鮎鷹",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-10",
+            "number": "蓮の実",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-11",
+            "number": "鵲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-12",
+            "number": "珠数かけ鳩",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-13",
+            "number": "鳩",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-14",
+            "number": "黎明",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-15",
+            "number": "雀と雪",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-16",
+            "number": "二月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-17",
+            "number": "鴛鴦",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-18",
+            "number": "老鶏",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-4",
+        "title": "冬眠",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-4-section-1",
+            "number": "冬眠",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-2",
+            "number": "雑木",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-3",
+            "number": "靄かとも",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-4",
+            "number": "小閑",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-5",
+            "number": "秋の日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-6",
+            "number": "花を活けつつ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-7",
+            "number": "観想の冬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-8",
+            "number": "ひなた",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-9",
+            "number": "冬の夜",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-5",
+        "title": "月光の谿",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-5-section-1",
+            "number": "緑ヶ丘夜景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-2",
+            "number": "月映",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-3",
+            "number": "月光の谿",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-4",
+            "number": "夜ごろ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-5",
+            "number": "庭さき",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-6",
+            "number": "沼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-7",
+            "number": "影",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-8",
+            "number": "泉石",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-9",
+            "number": "山峡",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-10",
+            "number": "野菜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-11",
+            "number": "初冬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-12",
+            "number": "童女",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-13",
+            "number": "われは見き",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-14",
+            "number": "月夜の池",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-15",
+            "number": "渚",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-6",
+        "title": "風を祭る",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-6-section-1",
+            "number": "羽虫",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-2",
+            "number": "真昼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-3",
+            "number": "架橋風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-4",
+            "number": "鳶",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-5",
+            "number": "七月の朝",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-6",
+            "number": "やや黄なる風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-7",
+            "number": "草の香",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-8",
+            "number": "水盤の夏",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-9",
+            "number": "風を祭る",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-10",
+            "number": "鋼鉄風景",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-7",
+        "title": "珠数工の夜",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-7-section-1",
+            "number": "猫の乳",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-2",
+            "number": "五月の朝",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-3",
+            "number": "珠数工の夜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-4",
+            "number": "父と母",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-5",
+            "number": "朴と月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-6",
+            "number": "池畔の撮影",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-7",
+            "number": "夜露",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-8",
+            "number": "天王寺の朝涼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-9",
+            "number": "朝なさな",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-10",
+            "number": "墓地",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-11",
+            "number": "蝶",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-12",
+            "number": "ラヂオ風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-13",
+            "number": "蕚の花",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-14",
+            "number": "不忍の晩涼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-15",
+            "number": "墓地の散歩者",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-16",
+            "number": "五月の夜の空",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-17",
+            "number": "煤",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-18",
+            "number": "椎の葉",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-8",
+        "title": "童話の月",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-8-section-1",
+            "number": "月から見た地球",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-2",
+            "number": "雪と狩猟者",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-3",
+            "number": "童話の月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-4",
+            "number": "月と美童",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-5",
+            "number": "昔の月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-6",
+            "number": "方丈",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-7",
+            "number": "鵲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-8",
+            "number": "子の鵲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-9",
+            "number": "蕾",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-10",
+            "number": "田家の月夜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-11",
+            "number": "猟季",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-9",
+        "title": "海豹と雲",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-9-section-1",
+            "number": "汐首岬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-2",
+            "number": "曇り日のオホーツク海",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-3",
+            "number": "樺太の山中にて",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-4",
+            "number": "老いしアイヌの歌",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-5",
+            "number": "樺太風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-6",
+            "number": "ある人の庭",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-7",
+            "number": "朝",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-8",
+            "number": "かはらははこ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-9",
+            "number": "トラピストの牛",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-10",
+            "number": "鴨",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-11",
+            "number": "熊人",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "春の蚊",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-10-section-1",
+            "number": "幼童",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-2",
+            "number": "春",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-3",
+            "number": "日なか",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-4",
+            "number": "春の蚊",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-5",
+            "number": "白藤",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-6",
+            "number": "魚の里",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "月夜孟宗の図",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-11-section-1",
+            "number": "竹林幽居",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-2",
+            "number": "雀と童",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-3",
+            "number": "月夜孟宗の図",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-4",
+            "number": "朝顔",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-5",
+            "number": "吾が秋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-6",
+            "number": "母と子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-7",
+            "number": "かまつか",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-8",
+            "number": "わたしが竹を",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-9",
+            "number": "竹に交りて",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-10",
+            "number": "十七日の月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-11",
+            "number": "かほよどり",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-11-section-12",
+            "number": "あてのない消息",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-12",
+        "title": "花楮",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-12-section-1",
+            "number": "白蛾",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-2",
+            "number": "月夜の風",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-3",
+            "number": "秋立つ浜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-4",
+            "number": "匂の秋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-5",
+            "number": "鵜匠",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-6",
+            "number": "鷹匠",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-7",
+            "number": "胡蝶",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-8",
+            "number": "翁",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-9",
+            "number": "冬の日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-10",
+            "number": "草仮名",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-11",
+            "number": "春朝",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-12",
+            "number": "ぢいさまばあさま",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-12-section-13",
+            "number": "花楮",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-13",
+        "title": "水郷の早春",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-13-section-1",
+            "number": "朝靄の中",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-13-section-2",
+            "number": "沼べり",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-13-section-3",
+            "number": "牛",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-13-section-4",
+            "number": "水村の春",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-14",
+        "title": "金粉の靄",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-14-section-1",
+            "number": "おだやかな冬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-2",
+            "number": "早春の朝飯",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-3",
+            "number": "落葉松林の中",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-4",
+            "number": "ことりのひな",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-5",
+            "number": "冬の日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-6",
+            "number": "良夜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-7",
+            "number": "かげ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-14-section-8",
+            "number": "樹",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-15",
+        "title": "後記",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 296,
+    "averageCharsPerPage": 109,
+    "chapterTitles": [
+      "序",
+      "古代新頌",
+      "白き花鳥図",
+      "冬眠",
+      "月光の谿",
+      "風を祭る",
+      "珠数工の夜",
+      "童話の月",
+      "海豹と雲",
+      "春の蚊",
+      "月夜孟宗の図",
+      "花楮",
+      "水郷の早春",
+      "金粉の靄",
+      "後記"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海豹と雲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "序",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　風格高うして貴く、気韻清明にして、初めて徹る。虚にして満ち、実にしてまた空しきを以て、詩を専に幻術の秘義となすであらう。\n\n　鳥のる、ただに尋常の行であらうか。海豹の水に遊ぶ、誰かまた険難の業とのみ判じよう。雲は太古にして若く、波は近う飜つて、かへつて帰する際涯を知らない。\n\n　詩は我が生来の道である。その表現の玄微に好んで骨を鏤る。畢竟は我がふたつなき楽みを我と楽むのである。ただ志して未だ風韻の神に到らず、境涯整はずして、また未だ苦吟の傷痕を脱し得ざるを恥づる。\n\n　望んであまりに遼遠なるが故に、深く頭を垂れるのである。\n\n昭和四年　立秋\n白秋",
+      "characters": 277,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "古代新頌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "水上\n\n水上《みなかみ》は思ふべきかな。\n\n苔清水湧きしたたり、\n\n日の光透きしたたり、\n\n橿《かし》、馬酔木《あしび》、枝さし蔽ひ、\n\n鏡葉《かがみは》の湯津真椿《ゆづまつばき》の真洞《まほら》なす\n\n水上《みなかみ》は思ふべきかな。\n\n水上《みなかみ》は思ふべきかな。\n\n山の気の神処《こころど》の澄み、",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "岩が根の言問《ことと》ひ止み、\n\nかいかがむ荒素膚《あらすはだ》の\n\n荒魂《あらみたま》の神魂《かみむす》び、神つどへる\n\n水上《みなかみ》は思ふべきかな。\n\n水上《みなかみ》は思ふべきかな。\n\n雲、狭霧、立ちはばかり、\n\n丹《に》の雉子《きぎし》立ちはばかり、\n\n白き猪《ゐ》の横伏し喘《あへ》ぎ、\n\n毛の荒物《あらもの》のことごとに道塞《ふた》ぎ寝《ぬ》る",
+      "characters": 180,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "水上《みなかみ》は思ふべきかな。\n\n水上《みなかみ》は思ふべきかな。\n\n清清《さわさわ》に湧きしたたり、\n\nいやさやに透きしたたり、\n\n神ながら神寂《さ》び古る\n\nうづの、をを、うづの幣帛《みてぐら》の緒の鎮《しづ》もる\n\n水上《みなかみ》は思ふべきかな。\n\n水上《みなかみ》は思ふべきかな。\n\n青水沫《あをみなわ》とよたぎち、",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "うろくづの堰《せ》かれたぎち、\n\nたまきはる命の渦の\n\n渦巻の湯津石村《ゆづいはむら》をとどろき揺る\n\n水上《みなかみ》は思ふべきかな。\n\n独神\n\n天地《あめつち》の初発《はじめ》の時、\n\nかぎりなく虚《むな》しき時、\n\n独神《ひとりがみ》、成《な》り坐《ま》しにけり。\n\n　萠え騰《あが》る葦牙《あしかび》の",
+      "characters": 155,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "　鮮緑《さみどり》の神よ。こをろ。\n\n国稚《わか》く、浮脂《うきあぶら》なす、\n\n海月《くらげ》なす漂へる時、\n\n独神《ひとりがみ》、ひと柱のみ。\n\n　萠え騰《あが》る葦牙《あしかび》の\n\n　鮮緑《さみどり》の神よ。こをろ。\n\n万象《よろづ》無し、光すら、\n\n影すらも、頼む影、\n\n独神《ひとりがみ》、ただ幽かにて。",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "　萠え騰《あが》る葦牙《あしかび》の\n\n　鮮緑《さみどり》の神よ。こをろ。\n\n窮《きは》みなし、常久《とことは》に、\n\n窮《きは》みなし、文《あや》もなし、\n\n独神《ひとりがみ》、御身《みみ》隠します。\n\n　萠え騰《あが》る葦牙《あしかび》の\n\n　鮮緑《さみどり》の神よ。こをろ。\n\n昼もなし、夜もなし、\n\n寒しとも、暑しとも、まだ、",
+      "characters": 167,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "独神《ひとりがみ》、ただ徹《とほ》ります。\n\n　萠え騰《あが》る葦牙《あしかび》の\n\n　鮮緑《さみどり》の神よ。こをろ。\n\n言問\n\n岩が根に言問《ことと》はむ、\n\nいにしへもかかりしやと。\n\n　苔水のしみいづる\n\n　かそけさ、このしたたり。\n\n草に木に言問《ことと》はむ、",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "いにしへもかかりしやと。\n\n　おのづから染みいづる\n\n　わびしさ、このあかるさ。\n\n小さき日に言問《ことと》はむ、\n\nいにしへもかかりしやと。\n\n　かがやきの空わたる\n\n　わりなさ、このはるけさ。\n\n神神に言問《ことと》はむ、\n\nいにしへもかかりしやと。",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "　はればれとひびき合ふ\n\n　松かぜ、このさわさわ。\n\n猟夫\n\n神神、\n\nいざ、起《た》たせ、\n\n照り満つ蘇枋《すはう》の実の、\n\nこよなし、よく染みぬ。\n\n神神、\n\nみそなはせ、",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "はららぐ鷲の羽の、\n\nこよなし、よく飛びぬ。\n\n神神、\n\nああ、神神、\n\n吾《あ》も起《た》つ、向剥矢《むかはぎや》の、\n\nこよなし、よく鳴りぬ。\n\n神神、\n\nああ、神神、\n\nこの恋の、鳴《な》り鏑《かぶら》の、",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "こよなし、よく鳴りぬ。\n\n青野\n\nさわさわや、ひきまとふ\n\n我が荒絹《あらぎぬ》、\n\n　鴉の、青鴉の\n\n　後《あと》に蹤《つ》きて。\n\n雑草《あらくさ》や、行き行けば\n\n雲立ち立つ、\n\n　曠野《あらの》の、鳴る沢の",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "　音ひそめて。\n\nはてなさや、しづけさや、\n\n風、小嵐《さあらし》。\n\n　こもらふ神神の\n\n　素足見せて。\n\n昼や、げに、息はずむ\n\n毛の柔物《にこもの》、\n\n　少女《をとめ》よ、ひと飛びに\n\n　飛びかくれぬ。",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "蛍に\n\n昼は沸き、\n\n蒼蠅《さばへ》なすもの、\n\n夜は夜とて\n\n光る神神。\n\n　　（ほうたるよ）\n\n言問《ことと》ひぬ、\n\n遠つ神代は\n\n青水沫《あをみなわ》、",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "石根《いはね》、木の立。\n\n　　（ほうたるよ）\n\n神なりき、\n\nかがやきの秘所《ひそ》、\n\n稚《をさな》きは\n\n驚《おどろ》きぬ。皆。\n\n　　（ほうたるよ）\n\n精霊《いきすだま》、\n\n我や何とも、",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "誰《た》か、わかむ、\n\n善きと、悪しきと。\n\n　　（ほうたるよ）\n\n夜は蒼《あを》し、\n\n災《わざわひ》は満つ。\n\nただ光る\n\n美しき神。\n\n　　（ほうたるよ）\n\nとらふなし、",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "この夢、現《うつつ》、\n\nなにを、さは\n\n払はむぞ、また。\n\n　　（ほうたるよ）\n\nああ、保て、\n\n雨を山子（さんざし）、\n\nにほひのみ\n\n溜めよ、この闇。\n\n　　（ほうたるよ）",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "狼\n\n荒魂《あらみたま》\n\nまどろまず。\n\n大き月\n\n満ちて、照りぬ。\n\n何を澄む\n\n夜《よ》の蒼《さを》ぞ。\n\nとりよろふ\n\n山の真洞《まほら》。",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "草も木も\n\n押し靡け、\n\n疾《と》く、野分《のわき》\n\n吹きすさむを。\n\n安からず、\n\nまた、寝《い》ねず、\n\n千速振《ちはやふ》る\n\n神ことごと。\n\nたづたづし、",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "隈《くま》ふかし、\n\n山河《やまがは》の\n\n瀬に鳴りつつ。\n\n直向《ただむか》ふ\n\n月にのみ、\n\n耳は裂け、\n\n地に喚《おら》べば。\n\n雪かとも\n\n身は白し、",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "大口《おほぐち》の\n\n真神《まがみ》、狼。\n\n岩礁\n\n月面《げつめん》に墨噴《ふ》きて、\n\n飛び羽搏《はう》つもの。\n\nあきらかにこの夜《よ》こそ\n\n鵜は宿らじ。\n\n波は荒れ、\n\n紫のこごし巌《いはほ》。",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "凍《し》みるなり。\n\n立ち凝《こご》る夜霧なり。\n\n和《なご》みなし、この世界\n\nただ響きて。\n\n耿耿《かうかう》と、目には見え、\n\n罅《ひ》び裂《さ》くるなり。\n\n噛む\n\n氷柱《つらら》噛む、\n\n白き犬",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "月かげを噛む。\n\n砕くなり。\n\nこの光\n\n痛烈に光るなり。\n\n何ぞ。誰《た》ぞ。\n\nこの犬の怖るるもの。\n\n蒼蠅《さばへ》なす神は澄む、\n\n水にも岩にも。\n\n光るなり、",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "氷柱《つらら》の神。\n\n犬は噛む。\n\n月かげを噛む、\n\nかりかりと噛む。\n\n木蘭吟\n\n木蘭よ。我れ言はむ。\n\n杯は我が童《わらべ》なり。\n\n木蘭よ。酒、酒、酒。\n\n酒は我がいみじ和魂《にぎたま》。",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "木蘭よ。また言はむ。\n\n日こそ我が父。\n\n木蘭よ。\n\n月はまた母。\n\n木蘭よ。\n\n山の木蘭。\n\n木蘭よ。\n\n空は我が神。\n\n木蘭よ。",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "我れは歌なり。\n\n木蘭よ。我れ飲まむ。\n\n酒よ。また、酒よ酒よと。\n\n木蘭よ。\n\n深め、汝《な》が春。\n\n木蘭よ。\n\n琥珀。我が酒。\n\n早春\n\n香取神宮",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "槙《まき》のこずゑに、青鷺の\n\n群れて巣をもつ幽《かそ》けさよ。\n\n空のはるかを、日の暈《かさ》の\n\n凝《こご》りかけつつ行き消えぬ。",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "白き花鳥図",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 32,
+      "content": "水禽\n\nさながらや、一片《ひとひら》の\n\n蓮華《れんげ》、浮舟《うきふね》。\n\n息づかし、黄の嘴《くちばし》\n\n尾に反《そ》りて、白き水禽《みづどり》。\n\n楚楚として、うしろ向く\n\n細首の、その長さ。\n\n眼の聡《さと》さ、悩《なや》ましさ。\n\n七八月、",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "後《あと》ざまの水掻《みづかき》や、\n\nやや乱れて。\n\n江の撓《たを》り、とどまらず、\n\nまた淀めば。\n\nたさよ、はてなさよ、\n\nああ、水禽《みづどり》。\n\n紫よ、\n\n雲は午《ひる》。\n\nくわうくわうと声は放て、",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "月に対《むか》つて。\n\n奉悼曲\n\n冷《ひ》えとほる白き鳥\n\n翼《は》うち（と）ばず。\n\n凍《し》みこほる白き華《はな》、\n\n今朝《けさ》、現《うつつ》なし。\n\n十善のみくらゐに\n\n君はおはすを。\n\nまたいつかみそなはす、",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "冬の日の白き花鳥図。\n\n白鷺\n\n白鷺は、その一羽、\n\n睡蓮の花を食《は》み、\n\n水を食《は》み、\n\nかうかうとありくなり。\n\n白鷺は貴くて、\n\n身のほそり煙るなり、\n\n冠毛《かむりげ》の払子《ほつす》曳く白、",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "へうとして、空にあるなり。\n\n白鷺はまじろがず、\n\n日をあさり、おのれ啼くなり、\n\n幽《かす》かなり、脚《あし》のひとつに\n\n蓮の実を超えて立つなり。\n\n白牡丹\n\n白牡丹《はくぼたん》、大き籠《こ》に満ち、\n\n照り層《かさ》む内紫《うちむらさき》、\n\n豊かなり、芬華《かがやき》の奥、",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "とどろきぬ、閑《しづ》けき春に。\n\n蝶は超ゆ、この現《うつつ》より、\n\nうつら舞ふ髭長《ひげなが》の影。\n\n昼闌《た》けぬ。花びらの外《そと》、\n\n歎かじな、雲の驕溢《おごり》を。\n\n白牡丹《はくぼたん》、宇宙なり。\n\nまた　薫《かを》す、専《もはら》なる白。\n\nこの坐《すわり》、ふたつなし、ただ。\n\n位のみ。ああ、にほひのみ。",
+      "characters": 165,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "辛夷\n\n唐画\n\n黄鳥《うぐひす》は辛夷《こぶし》に触れぬ。\n\n辛夷《こぶし》こそ深山《みやま》の妃《きさき》、\n\n清《すが》しくも白き掌《て》の指、\n\n『開け、指。』\n\n黄鳥《うぐひす》歌ふ。\n\n黄鳥《うぐひす》は萠黄の翼《つばさ》、\n\n飛《と》びうつる、金星の皇子《みこ》、",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "『過ぎよ、雨。』\n\n萼《うてな》をつつく。\n\n霧雨《きりさめ》の朝明《あさけ》の辛夷《こぶし》、\n\n雫して、\n\nああ、雫して、\n\n声もなき白き声して燃えあがるなり。\n\n白\n\n目ざましきもの、花辛夷《はなこぶし》、\n\n白き胸毛《むなげ》の百千鳥。",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "夏は岩が根、白牡丹《しろぼたん》、\n\n白光《びやくくわう》放つ番ひ鳩。\n\n秋は月夜の白かんば、\n\n白き鹿立つ杣《そま》の霧。\n\nへうと飛びゆく雲は冬、\n\n鶴に身をかる幻術師。\n\n何か坐《ま》します、山《やま》の秀《ほ》に、\n\n雪の気韻は澄みのぼる。\n\n柳鷺",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "鷺は棲む、正身《さうじみ》の\n\n白き聖《ひじり》。\n\nしづりうつ雪の柳に\n\nやや燻《くす》みて。\n\nつくづくと、うち見やる\n\n水、枯葦、\n\nまさしくもみ冬なり。\n\n白ひと色。\n\n鷺は棲む、羽ごろもの、",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "笠の翁。\n\nいとどしく、薄墨の\n\n空飛ぶもの、\n\n雀かと、眼は放て、\n\nまた眺めず。\n\n言問《ことと》はず、立ち舞はず、\n\n日のくれぐれ。\n\n鷺は燃ゆ、白毫《びやくがう》の\n\n明《あか》る眉間《みけん》。",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "和み\n\nにぎみたま、\n\nそは童《わらはべ》。\n\n香に和《なご》む\n\n影の、野茨《のばら》や。\n\n日の文《あや》よ、\n\nそよかぜよ、ただ。\n\nなづさはず、\n\n行きも過《す》がはず。",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "かげろふよ、\n\nさざなみよ、ただ。\n\n水の紋、\n\n幼な息づき。\n\nにほふのみ、\n\nゆらぐのみ、ただ。\n\n無為よ、ああ、\n\n白き水鳥。\n\n遊ぶのみ、",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "潜《かづ》くのみ、ただ。\n\n鮎鷹\n\n鮎鷹は多摩の千鳥よ、\n\n梨の果《み》の雫《しづ》く切口、\n\nちちら、ちち、\n\n白う飛ぶそな。\n\n鮎の子は澄みてさばしり、\n\n調布《たづくり》の瀬瀬《せぜ》のかみしも、\n\n砧うち、",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "砧うつそな。\n\n鮎鷹は初夜に眼の冴え、\n\n夜をひと夜、あさりするそな。\n\nちちら、ちち、\n\n鮎の若鮎。\n\n水の色、香《かを》る泡沫《うたかた》、\n\n眉引のをさな月夜を\n\nああ、誰か、\n\n影にうかがふ。",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "註　多摩川のほとりには梨畑多し\n\n蓮の実\n\n唐画\n\n夏はよし、\n\n君が水のべ。\n\n皆すずし、\n\n石の、濡れ色。\n\n白き蓮\n\n半ばくづれて、",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "かはせみの\n\nねらひ澄ますと、\n\n早や、そよぐ\n\n蓮の実の蕋《しべ》。\n\n折れ曲る\n\n影の、一茎《ひとくき》。\n\n鵲\n\n唐画\n\n鵲のつどへる見れば、",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "黒き羽や、尾白鵲《をじろかささぎ》。\n\n車前草《おほばこ》の花に粉《こ》はふき、\n\n夏はゆく、野づかさの照り。\n\n現《うつつ》なし、銀河の真昼、\n\n流らふは霞のみかは。\n\nうらがなし、おだやかながら、\n\nこもらへり、風もそこここ。\n\n老いやすし、この草深野《くさふかの》、\n\n鵲の幾羽居りとも。",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "揺れやすし、幾羽居りとも、\n\n黄の、嘴《はし》の、そよろ化粧毛《けはひげ》。\n\n珠数かけ鳩\n\n唐画\n\n珠数かけ鳩はむきむきに\n\n落ちし杏《あんず》をつつくなり。\n\nしめりまだ乾《ひ》ぬ土のうへ、\n\n杏《あんず》はあかし、そこここに。\n\n珠数かけ鳩の虔《つつ》ましさ、",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "脚《あし》にひろひぬ。飛び飛びに。\n\n空に杏《あんず》の葉はにほひ、\n\n羽根に雫の色涼し。\n\n珠数かけ鳩は行き過ぎて、\n\nあかき杏《あんず》につまづきぬ。\n\n鳩\n\n元画\n\n鳩なり、よき紫、\n\n両脚《もろあし》や。よきももいろ、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "水盤のへりに、ああ、\n\nうつむけぬ、法師あたま。\n\n柔かさ、かがやかさ、\n\n尾は立てぬ、斑雪《はだれ》矢羽根、\n\n鳩なり、よき紫、\n\n閑《しづ》かさや、そのかたち、\n\n水の輪の紋織や、\n\n嘴を、\n\n嘴を、",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "嘴をふれ、\n\n聴くともなし、春雷《はるいかづち》。\n\n鳩なり、よき紫、\n\n午《ひる》なり、このしじま。\n\n突き入れぬ、\n\nあ、突き入れぬ、瞳を、\n\n水に、\n\n水に、水に、水に。\n\n黎明",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "印度画趣\n\n白き鷺、空に闘ひ、\n\n沛然と雨はしるなり。\n\n時は夏、青しののめ、\n\n濛濛と雨はしるなり。\n\n早や空《むな》し、かの蓮華色《れんげしよく》。\n\n二塊《ふたくれ》の、夢に似る雲。\n\nくつがへせ、地軸はめぐる。\n\n凄まじき銀と緑に。",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "白き鷺空に飛び連れ、\n\n濛濛と雨はしるなり。\n\n雀と雪\n\n陽《ひ》は薄し、\n\n庭の雪、\n\n凍《し》みこほり、\n\nこはばりぬ。\n\nきびしきは\n\n寒《かん》の冴え、",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "木のかげも\n\n貧しくて。\n\n足跡よ、\n\n誰《た》がつけし、\n\n雪の窪、\n\n早や光らず。\n\nいとど急《せ》く、\n\n声や、ただ、\n\nひとり啄《つ》む、",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "その窪み。\n\n雀なり、\n\n煤けたる。\n\n目につきし、\n\n目を去らず。\n\n二月\n\n息つがず、\n\n冬のひばり、\n\nさへづりの",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "短くて。\n\n氷張る\n\n河のうへ、\n\nぴしりうつ\n\n欠片《かけら》、氷。\n\nとりどりに\n\n子らは行く、\n\nむら消えの\n\n雪を、田を。",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 59,
+      "content": "ちちら、ちち\n\n空のこゑ、\n\nまだ辛《つら》し、\n\n春は来ず、\n\n匂ひだつ\n\n畦《あぜ》の土、\n\nまた、今朝《けさ》は\n\n凍《し》みこほりぬ。\n\n鴛鴦",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "冬の日の、鴛鴦《おしどり》の\n\nつきほなさ、\n\nひとみの黒さ。\n\n根白葦《ねじろあし》、蓮の根の\n\n氷にも\n\n寄り添ふ身の。\n\n老いてなほ、うつくしき\n\n飾り羽《ば》や、\n\nたのめなき陽《ひ》や。",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 61,
+      "content": "さむざむし池の面《も》や、\n\n行けば行き、\n\nとめぐればただめぐりて。\n\nすべはなし、朱《しゆ》のうすき\n\n水かきや、\n\nちらら見せて。\n\nつれづれと、頬《ほ》に並《なら》ぶ\n\n番《つが》ひ鳥《どり》、\n\n薄日《うすび》、鴛鴦《おしどり》。",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "老鶏\n\nさわさわと起《た》つ風の\n\n音響けば、\n\n鶏は羽ばたきぬ。はたはた、ああ、はたはた、\n\n白檮《しらがし》の、葉広檮《はびろがし》の\n\nかがやく陽《ひ》を目ざして。\n\n鶏冠《とさか》や、猛猛《たけたけ》し\n\n眼の稜稜《かどかど》、\n\n尾羽、翼《つばさ》、はららぎぬ、はたはた、ああ、はたはた、",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 63,
+      "content": "岩根の、白羽蟻の\n\n吹雪と舞ふ柱を。\n\n力よ、荒魂《あらみたま》\n\n飛び搏《はた》くと、\n\n勢《きほ》ひ蹴るひと空や、はたはた、ああ、はたはた、\n\n光の、陽《ひ》のしじまの\n\n耿《かう》たる幅《はば》乱すと。\n\n凄まじ、身は重し、\n\n青《さを》の夏《なつ》を、",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "朱の古りし鶏よ。はたはた、ああ、はたはた、\n\nすべなし、飛び羽うつと\n\nいくばくも飛ばず落ちぬ。",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 65,
+      "content": "冬眠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 66,
+      "content": "冬眠\n\nねむれよ、やすらかに、\n\n冬のあひだ、\n\nまどろめよ、和魂《にぎみたま》の\n\n香《か》にとろみて。\n\nねむれよ、おだやかに、\n\n蛇よ、かはづ、\n\nまどろめよ、おのが肉\n\n食《は》み足らひて。",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 67,
+      "content": "ねむれよ、このもしく、\n\n夢も欲《ほ》らず、\n\nまどろめよ、土《つち》の室《むろ》\n\n塗りとざして。\n\nねむれよ、息の緒の\n\nあるかなしに、\n\nまどろめよ、ゆるぎなく\n\n酔ひほうけて。\n\nねむれよ、やはらかに、",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "日ももとめず、\n\nまどろめよ、こごり凍《し》む\n\n地をいとひて。\n\nねむれよ、神ごころ、\n\n冬のあひだ、\n\nまどろめよ、ほろと、ただ、\n\nああ、とろみて。\n\n雑木\n\n雑木《ざふき》こそうれしけれ、",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "そのもみぢも、\n\nこもごもに、日のひかり\n\nさしかひつつ。\n\n雑木《ざふき》こそうれしけれ、\n\nそのにほひも。\n\nほのぼのと。靄と雨\n\nなづさひつつ。\n\n雑木《ざふき》こそうれしけれ、\n\nそのこずゑも。",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 70,
+      "content": "さむざむと、雀など。\n\nかい寄りつつ。\n\n雑木《ざふき》こそうれしけれ、\n\nその枝（しもと）も。\n\nほきほきと、ゐろり火に\n\n折りくべつつ。\n\n靄かとも\n\n靄かとも、\n\nしろい雪の気《け》。",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 71,
+      "content": "枯枝に\n\n露とむすんで。\n\n庭石に\n\nぬれて、にじんで。\n\nたほたほと\n\n空に見えても。\n\nちらちらと\n\n雨にしみても。\n\nつもるでも、",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "ひかるでもなし。\n\nあかるでも、\n\n暮るるでもなし。\n\nにほひのみ、\n\nしろい夕かげ。\n\nもの柔《やは》い、\n\n泣けもせぬ雪。\n\n　よいや、ほう。\n\n　よいや、ほう。",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 73,
+      "content": "小閑\n\nながめあかるきをりをりを\n\nほそりと影は通るなり。\n\nなにかわびしき日向《ひなた》ぼこ\n\n物の穂などもはかなさよ。\n\n秋の日\n\nしづかさよ、\n\n秋日向《あきひなた》、\n\nなにかしら香《か》に咲きつつ。",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "かがやきの\n\n影までも、\n\n浮彫の黄《き》に、新《あらた》に。\n\n飛ぶ虫の\n\n粉《こ》にまぎれ、\n\nをりふしの目に宿れば、\n\n思ふこと\n\n皆親し、\n\nかかる日の香《か》に咲きつつ。",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 75,
+      "content": "花を活けつつ\n\n世のつねの\n\n花にはあらず。\n\nこの匂\n\n寂びてこよなし。\n\nしかもなほ、\n\nゆめに、うつつに\n\nいまだ見ぬ\n\n花は多かる。",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "われ想《も》はむ、\n\n壺のまろみの\n\n幽かなる\n\nいぶしねずみに。\n\nよく省《はぶ》き、\n\nいよよながめむ。\n\n花ひとつ\n\nしろく明《あか》るを。\n\n観想の冬",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 77,
+      "content": "飛びちらふ\n\n落葉もあらず、\n\n庭は早や、\n\nか広くなりぬ。\n\n凍《し》みこごる\n\n残んの日かげ、\n\nかさりとも\n\n移る音なし。\n\nいとせめて、",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "沙羅のほづえに、\n\n霜と咲け、\n\n白き吾が冬。\n\nひなた\n\n石の面《おも》に\n\nほのとぬくみて。\n\n菊の香や、\n\n保つ日向や。\n\nこよなくも",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 79,
+      "content": "冬はなごむを。\n\n　なにか倦む\n\n　童《わらはべ》ごころ。\n\n冬の夜\n\n浪の音だ。まさしく、\n\nざざんさと寄せてる。\n\nねむれよ、ねむれよと。\n\nねむれよ、息づかひも、\n\n毛帽子のをさな児、",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "耳たぶの紅《あか》さ見せて。\n\n深めよ、日のまぼろし、\n\n冬はただ寂びるを、\n\nまた、風よ光よと。\n\nああ、それに月の蟹、\n\n茶の花も白かつたに、\n\n父と子とが観てたに。\n\n潮ぐもりの燻《いぶ》しが\n\nさむざむと満ちる、これから、",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 81,
+      "content": "蜆いろの沖にも。\n\n過ぎたよ、星の座に、\n\n照りはえた火の渦、\n\n昨夜《ゆうべ》のうつくしい野火も。\n\nねむれよ、円《まろ》きくるぶし、\n\nちひさな毛のくつした、\n\n腕椅子の揺り床。\n\n浪の音だ。まさしく、\n\nざざんさと寄せてる。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "ねむれよ、ねむれよと。\n\n註　西の国にては、月面の影をば蟹と観る習俗あり。",
+      "characters": 37,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
+      "content": "月光の谿",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 84,
+      "content": "緑ヶ丘夜景\n\n角の月\n\n黄にしめる横雲のうへ、\n\n燦爛とうちあがる青《あを》きぬがさ。\n\n花火なり、\n\nまた紅《あか》くひろごりぬ。玉の投網《とあみ》、\n\nほど近し、みづみづし、溶けちりつつ。\n\n闇はよし、\n\nしばしばも目に新《あら》たに、",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 85,
+      "content": "梟と木菟《みみづく》のこゑかはして。\n\nまこと見よ、\n\nかの森と、丘の萠黄《もえぎ》と、\n\nかがやきの時《とき》の間《ま》も夜のふくるを。\n\n透かせ、また、\n\n梧桐《あをぎり》の穂にさく蕾、\n\n窓ちかき幹立《みきだち》の濃きあはひを。\n\n夜空なり、\n\nうつくしき、かがやきやすき、",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "明けやすき光なり、この真夏の。\n\n聴けよ、ただ、\n\n微塵数《みぢんず》の満ち満つ露に、\n\n歎け、はた、あざやけき色の現《うつつ》を。\n\n角の月\n\n黄にしめる横雲のうへ、\n\n燦爛とうちあがる青きぬがさ。\n\n月映\n\n雲はいま",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 87,
+      "content": "白孔雀、\n\n月をはらみぬ。\n\n耀やかし、卵なすもの、\n\n影は透く、\n\n雛の孔雀の。\n\nかうかうと照るものは\n\nうるはしきかな。\n\n尾羽ひろげ、\n\n雲はいま、",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "羽ばたきにけり。\n\n月光の谿\n\n夜の月映《つくばえ》に流るるは\n\nすずしき秋の縹雲《はなだぐも》。\n\n（月こそ神よ、\n\n　まどかにて。）\n\nひまらや杉の葉は繊《ほそ》く、\n\nとすればそよぐそのこずゑ。\n\n（月こそ神よ、",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 89,
+      "content": "　まどかにて。）\n\n現《うつつ》ならぬか、観るものの\n\n青みやすらふ寂《さ》びと光沢《つや》。\n\n（月こそ神よ、\n\n　まどかにて。）\n\n灯《ひ》あしの蕊《しん》の黄に燃えて、\n\nみながら湿《しめ》る谿《たに》の戸や。\n\n（月こそ神よ、\n\n　まどかにて。）",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 90,
+      "content": "童《わらべ》よねむれ。虫の音の\n\n降るかにすだくやはらぎを。\n\n（月こそ神よ、\n\n　まどかにて。）\n\n湧き来る狭霧、むらさきの\n\n地球はかをる、土《つち》の息。\n\n（月こそ神よ、\n\n　まどかにて。）\n\nかの月映《つくばえ》に流るるは",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 91,
+      "content": "豊けき秋の縹雲《はなだぐも》。\n\n（月こそ神よ、\n\n　まどかにて。）\n\n夜ごろ\n\n紫の\n\n靄と雲、\n\n月はあり、ありかのみ。\n\nほのぼのと\n\nまた開く、",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 92,
+      "content": "雨あとや、吾がとぼそ。\n\n見え来つつ、\n\nまた消ゆる\n\n声と色、影と艶《つや》。\n\nこの夜ごろ。\n\nあはあはし、\n\n花と葉と、花うるし。\n\n庭さき\n\n月の光は椎の葉と",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 93,
+      "content": "山いもの葉に宿るなり。\n\n思へ、幽かにかかる夜を\n\n眼にもつかねど咲く花を。\n\n夕立つ雲の雨ふらで\n\n土に蒸し来るしづけさや。\n\nちろめく谷地《やち》の燈火《ともしび》も、\n\n木の間がくりに線《すぢ》ひきぬ。\n\n沼\n\nいゆきもとほる腰の蓑、",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "霞はわびし、金の粉《こな》。\n\n隠れて赤き月ゆゑに\n\n光は立ちぬ、雲のうへ。\n\n食めよ、白鷺、沼のぬし、\n\nかのさざなみの揺り波を。\n\nすなどりびとはまづしくて、\n\nむなしく水になげかひぬ。\n\n影\n\n月のひかりはそよかぜの",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 95,
+      "content": "風並《かざなみ》遠く楽みぬ。\n\n月のひかりはさざなみに\n\nさらに満しぬ、金の亀。\n\n放て、心を、へうべうと、\n\n空と水とのなまめきに。\n\nはかなかれども雲に鳥、\n\n誰《た》ぞや遥けく影を追ふ。\n\n泉石\n\n萠黄《もえぎ》の月の眉引に",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "鶴は啼くなり、土のうへ。\n\n水に揺れあふ風のかげ、\n\n花はこもらふひつじぐさ。\n\nにほひをさなき泉石《せんせき》の\n\n色のあひさにまじらへば、\n\n蒼き夜ごろは貴くて、\n\nほのかなるものみな愛《かな》し。\n\n山峡\n\n流らふ風は朴の葉の",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 97,
+      "content": "炎を洗ふごとくなり。\n\n幽かにあをき川海苔よ、\n\n岩のぬめりを越す水よ。\n\n歎け、河鹿よ。爽やかに\n\n青きひと夜の物さびを。\n\n動きてやまぬむら雲に\n\n月のひかりは噴きいでぬ。\n\n野菜\n\n月にかがやくひと束は",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 98,
+      "content": "紫うすき根の蓮《はちす》。\n\n群れよ、白鷺、この空の\n\n霜の夜あけの濃き青を。\n\nなにか貧しき、いよいよに\n\n心ととのふ世の母よ。\n\n白き野菜も籠ながら\n\n燃えて豊かに息づきぬ。\n\n初冬\n\n雲のさざなみ、月しろの",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 99,
+      "content": "流と移るすみやかさ。\n\n黄の鈴懸のこずゑにも\n\n風はそよげり、あきらかに。\n\n童《わらべ》と踊《をど》る波斯猫\n\n豹の児のごと燃えたてど、\n\nすべなや、父は眼も冴えて、\n\n鮎のうるかをはかなみぬ。\n\n童女\n\n匂ひだちつつ、うつつには",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "揺れしづまらぬ靄のいろ。\n\n月のありかは見えながら\n\nおぼめきまろし、水のうへ。\n\n童女よ、坐れ、むらさきの\n\nまつげにやどる露ならば。\n\nはかなけれども、ほのぼのと\n\n地球も燃えて行きめぐる。\n\nわれは見き\n\nわれは見き、さざめ雪かと、",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 101,
+      "content": "人蔘の花の月夜を。\n\nうゑはてし人の倒れて、\n\n道の幅いとど照りしを。\n\n湧きのぼる沖べの煙\n\nむらさきに消えもやらずて、\n\n神のごと美しきもの\n\n鉄塔のうへに坐《ま》ししを。\n\n月夜の池\n\nわしは観た、月のおもてに",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "げつそりと痩せた笑を。\n\n尖帽のしろい人かげ、\n\n夜はふけて池をまはるを。\n\nリンデンの枝は枯れ、\n\n冬はまた貧しくなるを。\n\n光れ、鶴、\n\n雪が軋つた。\n\n渚\n\nたさよ、しろき月",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 103,
+      "content": "炎《ほのほ》しろく、\n\n雲の翼《はね》はろばろに\n\n行きながれぬ。\n\n釣舟の漕ぎいづる\n\n入り江ちかく、\n\nさざなみの彩織《あやおり》に\n\n魚籠《びく》ひたせば。\n\n光るなし、かげるなし、\n\n夕満ち汐、",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 104,
+      "content": "うらもなし、うつつなし、\n\n膝、くるぶし。\n\n夕暮よ、黄金虫\n\nうなり過ぎて、\n\nさんごじゆの花の香《か》のみ\n\n蒸しにほひぬ。",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 105,
+      "content": "風を祭る",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 106,
+      "content": "羽虫\n\n蜆花《しじみばな》、通草《あけび》咲き満ち、\n\n質素なり、この門《かど》の夏、\n\n放射線——醸《かも》す虫なり。\n\n　　６と９と\n\n　　３と２と８。\n\n微塵数《みぢんず》のかがやく翅《つばさ》、\n\n誰か知らむ、口にかゆきを。\n\n童《わらべ》のみ辛《つら》く立つなり。",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 107,
+      "content": "　　６と９と\n\n　　３と２と８。\n\nうらがなし、待つも待たずも。\n\n小さき鐘軒につるして、\n\n撞木あり。——かうとうつなり。\n\n　　６と９と\n\n　　３と２と８。\n\n洗へ妻、蝦蛄《しやこ》のひと籠、\n\n吹く風は緑に煙り、",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 108,
+      "content": "「時」はよし、照り移るなり。\n\n　　６と９と\n\n　　３と２と８。\n\n真昼\n\n神は誰《た》ぞ、蒼蠅《さばへ》なすもの、\n\n息づきぬ、野に妙《たへ》にまどろみつつ。\n\n何かまた、えならぬかをり\n\n咲き満ちぬ、あざやけき黄と白とに。\n\n言問はむ、ウインネツケよ、",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 109,
+      "content": "月のごと大きなる、その在処《ありか》を。\n\n思へみな、遥かなる慈悲。\n\n貧しきは幸《さいはひ》なり、うらがなしき。\n\n田にはいま、声あはすもの\n\nうち騰《あが》る蒼穹《あをぞら》によくひびきて。\n\n草生《くさぶ》には出で没《い》る帯の\n\n美しき童《わらべ》らのゆりうごくを。\n\nすべてよし、陽炎は行く、\n\n鉄橋の朱を桁を靡かしつつ。",
+      "characters": 166,
+      "ruby": []
+    },
+    {
+      "pageNumber": 110,
+      "content": "真昼なり、夏は閑《しづ》かに\n\n日に焼くるあはれのみにほひ満ちぬ。\n\n架橋風景\n\n鉄工は鉄をうつ。\n\nかんかんとうつ。\n\n光なり。白南風《しらばえ》の\n\n樹木なり。\n\n朱なり、明るき\n\n橋材なり。",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 111,
+      "content": "斜面なり。いきれたつ\n\n雑草なり。\n\n蛙なり、\n\n盆地に燥《いら》つ。\n\n童《わらべ》なり、\n\n童《わらべ》と憎む。\n\n聴けよ、この\n\n満ち満つ熱を。\n\n聴けよ、ただ",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 112,
+      "content": "こらゆる息を。\n\n一つなり、\n\n憤るもの。\n\n鉄工は強くうつ。\n\nかんかんとうつ。\n\n鳶\n\n鳶《とんび》よ、\n\n晴天の喇叭卒、鳶《とんび》よ。\n\n鳶《とんび》よ、",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 113,
+      "content": "栗の木の花は噴《ふ》き出《で》る、\n\n鮮かに緑はそよぐ。\n\n鳶《とんび》よ、飛べ、\n\n低空《ていくう》に大きく。\n\n鳶《とんび》よ、木菟《づく》の童顔、\n\n平凡な、善いたましひ。\n\n鳶《とんび》よ、黝朱《うるみ》と金と、\n\nなんと豊かな肩胛骨、\n\n色めく翼のつけね。",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 114,
+      "content": "鳶《とんび》よ、悠揚たる、\n\n流るる重《おも》み。\n\n鳶《とんび》よ、乗れ、微風に、\n\n真にかがやく世界の良心をもつて。\n\n鳶《とんび》よ、民衆的な。\n\n貧しく、しかも真率なる。\n\n鳶《とんび》よ、ふるへ、搏力、\n\nああ、この童話の赤屋根を超えて。\n\n鳶《とんび》よ、強慾は、暴圧は、",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 115,
+      "content": "かの乱擾は何から来る。\n\n鳶《とんび》よ、進め、\n\n光は氾濫する。\n\n鳶《とんび》よ、\n\n栗の木の花は噴《ふ》き出《で》る、\n\n鮮かに緑はそよぐ。\n\n鳶《とんび》よ、\n\nこの俺も街頭に立つ、\n\n昂然と",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 116,
+      "content": "悪と闘ふ。\n\n七月の朝\n\n木木は花季《はなどき》、\n\nすずやかに、\n\n風は光を\n\nそよがする。\n\n昨日《きのふ》は過ぎぬ。\n\nまたさらに、\n\n朝は童《わらべ》の",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 117,
+      "content": "眼に匂ふ。\n\n明れ、煙よ、\n\n逃水《にげみづ》よ。\n\n明日《あす》の地平は\n\nうちゆらぐ。\n\nやや黄なる風景\n\n白き猫枝にかがやき、\n\nゆりの木の病葉《わくらば》黄なり。\n\n梢にはいささかの風、",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 118,
+      "content": "光線はいつか秋なり。\n\n飛べよ、子よ、大き窓より、\n\n硝子戸はとく押しあげぬ。\n\n午《ひる》はいま、すべて美し、\n\n軽気球向うにあがる。\n\nしかも、黄のドレスは歩む。\n\n電柱は彎《ゆが》み続けり。\n\n菜園の斜面よ、阪よ、\n\n風景は近く動けり。",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 119,
+      "content": "草の香\n\n草の香《か》は\n\n道を彎《ゆが》める。\n\n風景は\n\n絶えず流れる。\n\n白い家\n\n窓をあけてる。\n\n鵲は\n\n木の上に居る。",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 120,
+      "content": "巻雲《けんうん》の下は\n\n照つてる。\n\n満ちて澄む\n\n地響《ぢひびき》である。\n\n草の香は\n\nはずみ、闌《ふ》けてる。\n\n子供らは\n\n子供らと来る。\n\n濃緑《こみどり》だ、",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 121,
+      "content": "空は高まる。\n\nおそろしく\n\n美しくなる。\n\n水盤の夏\n\n光は曲ぐる\n\n薔薇《ばら》の枝、\n\n水には光る水の影。\n\n夏は来れり、\n\n薄玻璃《うすはり》に。",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 122,
+      "content": "強く寂しくわれ居らむ。\n\n風を祭る\n\n風を祭る、\n\n太陽の光に祭る。\n\n風を祭る、\n\n草と木の緑に祭る。\n\n風を祭る、\n\n蒼空《あをぞら》の玻璃宮に祭る。\n\n風を祭る、",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 123,
+      "content": "新潮《にひじほ》のとよみに祭る。\n\n風を祭る、\n\n川と洲の魚鱗に祭る。\n\n風を祭る、\n\n菜園の斜面に祭る。\n\n風を祭る、\n\n海港のブイに祭る。\n\n風を祭る、\n\n浴泉のフラフに祭る。",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 124,
+      "content": "風を祭る、\n\n鉄工の腕《かひな》に祭る。\n\n風を祭る、\n\n軽羅《うすもの》の女体《によたい》に祭る。\n\n風を祭る、\n\nありとある花に祭る。\n\n鋼鉄風景\n\n神は在る、鉄塔の碍子に在る。\n\n神は在る、起重機の斜線に在る。",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 125,
+      "content": "神は在る、鉄柱の頂点に在る。\n\n神は在る、鉄橋の弧線に在る。\n\n神は在る、晴天と共に在る。\n\n神は在る、鋼鉄の光に在る。\n\n神は在る、近代の風景と在る。\n\n神は在る、鉄板の響と在る。\n\n神は在る、怪奇な汽鑵に在る。\n\n神は在る、モオタアと廻転する。\n\n神は在る、装甲車《タンク》と駛《はし》る。",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 126,
+      "content": "神は在る、砲弾と炸裂する。\n\n神は在る、円形の利刃に在る。\n\n截音は空をも削る。\n\n神は在る、ダイナモの霊音に在る。\n\n神は在る、一瞬に電光を放つ。\n\n神は在る、鉄筋の劇場に在る。\n\n神は在る、鉄工のメーデーに在る。\n\n神は在る、車輪のわだちに在る。\n\n轣音は野菜を啖《くら》ふ。",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 127,
+      "content": "神は在る、はてしなき軌道に在る。\n\n神は在る、雷雲に反響する。\n\n神は在る、立体の、キュビズムに在る。\n\n表現派は都市を彎曲する。\n\n神は在る、颯爽と牽引する。\n\n神は在る、鮮麗に磁気を生む。\n\n神は在る、天体は鉄鉱である。\n\n神は在る、炎炎と熾《おこ》つてゐる。",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 128,
+      "content": "珠数工の夜",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 129,
+      "content": "猫の乳\n\n古風の門《かど》よ、ほどほどに\n\n霧雨《きりさめ》かかれ、あたらしく、\n\n檀《まゆみ》よ、青い「猫の乳」よ、\n\n微塵の花のさみどりよ、\n\n此処は墓地《ぼち》うら、夏は朝、\n\n散れよ、細《こま》かに、このしめり。\n\n五月の朝\n\n厨《くりや》のそとの",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "朝光《あさかげ》。\n\n白藤垂りたり、\n\n短く。\n\n谷中の天王寺、\n\n十八。\n\nまだ住みつかね、\n\n吾が妻。\n\n五月よ、塔の\n\n反《そ》り見て。",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 131,
+      "content": "早や干す、白き\n\n子の衣《きぬ》。\n\n珠数工の夜\n\n青い月夜の七分《しちぶ》がた、\n\n影が持つてる、紺のかげ。\n\n　ああ、ひたすら、\n\n　珠数のたま磨る響がする。\n\n空に息づむ稚わか葉。\n\n白う幅だつ墓地の露路。",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 132,
+      "content": "　ああ、かすかに、\n\n　珠数のたま磨る円鑪《まるやすり》。\n\n現《うつつ》ならぬか、蒸しつつも\n\n面《おもて》なまめく石の靄。\n\n　ああ、ひとすぢ、\n\n　珠数のたま磨る窓あかり。\n\n飛ぶは蝙蝠、金の縁《へり》。\n\n月は五重《ごぢゆう》の塔のうへ。\n\n　ああ、ひたすら、",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 133,
+      "content": "　珠数のたま磨る人が居る。\n\n父と母\n\n樟《くす》の若葉は朱に青に、\n\n日かげは椎の黝黒葉《かぐろば》や。\n\n　ああ、その下を父と母。\n\n五月なかばの午《ひる》過ぎは\n\n湿りにあかる日の黄金《こがね》。\n\n　ああ、閑《しづ》けさや、塔の空。\n\n谷中は墓地の石だたみ、",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 134,
+      "content": "現《うつつ》は散らふ蟆子《ぶよ》の羽《は》や。\n\n　ああ、うちけぶる藍の香《かう》。\n\n父は宣《の》らしぬ、よき母よ、\n\nかかる安けき地をこそと。\n\n　ああ、墓石や、そのふたつ。\n\n母も笑ましぬ、よき父よ、\n\nまこと扇骨木《かなめ》のすずしさと。\n\n　ああ、よき鳩や、連《つれ》の鳩。\n\n父の垂髯《たりひげ》寂びがちに、",
+      "characters": 160,
+      "ruby": []
+    },
+    {
+      "pageNumber": 135,
+      "content": "母はいや増す鬢の霜。\n\n　ああ、ねもごろや、老《おい》の影。\n\n桐の紫、また更に\n\n曇《くもり》ににほふ暮あひや。\n\n　ああ、暮あひや、父と母。\n\n朴と月\n\n朴の木の濃き影見れば、\n\n弦月の黄に明るなり。\n\n花過ぎて、啼くや、幾夜さ、",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 136,
+      "content": "ほととぎす、\n\n　　薄墨の鳥。\n\n池畔の撮影\n\n小石川の植物園にて\n\n睡蓮の\n\n葉を、水の\n\n池に満ちて。\n\n　ひろびろと照る日や。\n\n眩《まぶ》しよ、",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 137,
+      "content": "ああ、はつはつ、\n\n華か、白き。\n\n　昼闌《た》けし泛《うか》びや。\n\n夏はいま、\n\n空のいろ\n\n燻《た》きふかめて、\n\n　つやつやし潤《うる》みや。\n\n映れよ、\n\n蛙のこゑも、",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 138,
+      "content": "黄に、緑に、\n\n　うつつなきレンズや。\n\n子は父の\n\nおもざし、\n\nなにか求《と》めて、\n\n　安らけき笑ひや。\n\n夜露\n\n朱に円き\n\n朴の木の月、",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 139,
+      "content": "墓の上《へ》に\n\n湿る夜露や。\n\n売卜者\n\n算木をさめて、\n\n昼顔の\n\n香《か》は蒸しにけり。\n\n安けかれ、\n\n十字路の霧、\n\n亡き霊《たま》の",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 140,
+      "content": "知るも知らぬも。\n\n愛《いと》し子よ、\n\nめでよ、足音、\n\n息の緒の\n\nすこやけき揺り。\n\n紫の\n\n汽車の煙も\n\n日暮里の\n\n灯《ひ》に噴けるなり。",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 141,
+      "content": "天王寺の朝涼\n\n朴の木に白き花群れ、\n\n塔はあり、ひむがしの方。\n\n月落ちて、吹きはらふもの、\n\nまさしくも風は夏なり。\n\n波だつや、空の朝涼、\n\n抛物線、小鳥飛ぶ、飛ぶ。\n\n紅《べに》くすむ扇骨木《かなめ》いけがき、\n\n刈りそめてなんぞすがしき。",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 142,
+      "content": "露はあり、石に音して、\n\nしかもこは幽世《かくりよ》ならず。\n\n愚かなり、死にし、幽けき。\n\nげに、現《うつつ》、生くるに如かず。\n\n朴の木に白き花群れ、\n\n鐘が鳴る。鐘が鳴るなり。\n\n朝なさな\n\nわれかかはらず、朝なさな、\n\nひとり（つゑ）ひく墓地の道、",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 143,
+      "content": "夏は花樫、樟わか葉、\n\n命愛《かな》しく聴きほけぬ。\n\nわれをとがめそ、朝なさな、\n\n見る目すがしき鉄の柵、\n\nひとつふたつと新墓《にひばか》の\n\n日に殖《ふ》ゆるすら楽みぬ。\n\n墓地\n\n墓地は嗟歎《なげき》の、愛の園、\n\nまた、思ひ出の樫の森。",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 144,
+      "content": "墓地は現《うつつ》の露の原、\n\nまた、幽世《かくりよ》の苔の土。\n\n墓地は童《わらべ》の草の庭、\n\nまた、あひびきの青葉垣。\n\n墓地はそよ風しめじめと、\n\nまた、透き明る日のこぼれ。\n\n墓地は幽けき花だまり、\n\nまた、むら鳥の木のたむろ。\n\n墓地は薄黄の石だたみ、",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 145,
+      "content": "また、奥ふかき朴の門。\n\n墓地は銀杏の片かげり、\n\nまた、白毫の濡れ仏。\n\n墓地は香華の色の海、\n\nまた、象《すがた》なき声の網。\n\n墓地は無縁の草いきれ、\n\nまた、ねもごろの水かげろふ。\n\n墓地に光るは虫のはね、\n\nまた、手相見の天眼鏡。",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 146,
+      "content": "墓地の迷ひ路《ぢ》、間《あひ》の辻、\n\nまた、横の柵、裏の道。\n\n墓地の遊歩は爽やかに、\n\nまた、行きつまる石の寂。\n\n墓地にも目だつ世の流行《はやり》、\n\nまた、消えのこる江戸のふり。\n\n墓地を通ふは女靴、\n\nまた、ゆきずりの製図工。\n\n墓地の円屋根、納骨堂、",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 147,
+      "content": "また、反《そり》青き塔のつま。\n\n墓地は息づく靄の胎、\n\nまた、たましひの巣のしじま。\n\n墓地は欠けゆく月の道、\n\nまた、太陽の眼のやどり。\n\n墓地は乳屋の朝の時、\n\nまた、ちゃるめらの暮の時。\n\n墓地はよき森、よき廊下、\n\nまた、なぐさめの（つゑ）の道。",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 148,
+      "content": "墓地はよき庭、わが門べ、\n\nわが賓客《まろうど》のよき小径。\n\n蝶\n\n風にながるる\n\n白の蝶、\n\n陰影《かげ》は翅《は》うらの\n\n紫や。\n\n揺れてかがよふ\n\n白の蝶、",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 149,
+      "content": "花の扇骨木《かなめ》を\n\nすれすれに。\n\nつかず、はなれず、\n\n白の蝶、\n\n飛ぶは無縁の\n\n墓の間《あひ》。\n\n匂ひ明れよ。\n\n白の蝶、\n\nそぞろ吹きたつ",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 150,
+      "content": "涼しさを。\n\n飛べよ、たよらに、\n\n白の蝶、\n\n保て、翅《は》うらの\n\n藍微塵。\n\nラヂオ風景\n\n黄ろい月、\n\n花は碧梧桐《あをぎり》、\n\n　　蝶蝶だ、まるで、奴らは。",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 151,
+      "content": "宵だ、まだ、\n\n墓地を抜けると、\n\n　　下町は灯《ひ》の海だ、ほら。\n\n見ろ、屋根を、\n\n雲も、星座も、\n\n　　アンテナで包囲されてる。\n\nやあ、あれだ、\n\nラヂオ風景、\n\n　　ばびぶべぼ、おなじ小唄だ。",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 152,
+      "content": "贋《まが》ひ玉、\n\n鱚《きす》も、メロンも、\n\n　　どこの子も耳のお化けだ。\n\nちぇ、やめろ、\n\nＪ・Ｏ・Ａ・Ｋ。\n\n　　蝶蝶がジヤズでお飛びだ。\n\n蕚の花\n\n蕚の花雨に浮きたり。\n\n呼びそめぬ、ラヂオのニュース、",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 153,
+      "content": "フラン落ち、巴里暴動す、\n\nポアンカレーまた世に出でむ。\n\n子らよ、よし、冷麦《ひやむぎ》食べむ、\n\n実山椒は奴《やつこ》につけむ、\n\n蕚の花暮るるに間《ま》あり。\n\n涼し、涼し、庭の夕立。\n\n不忍の晩涼\n\n青春老い易し、さきの日の歓会いづくにかある\n\nさ緑の",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 154,
+      "content": "まろき波、\n\nみな、蓮の葉。\n\n鮮かに\n\n暮れのこる\n\nこは不忍。\n\nみな、涼し、\n\n朱の楼も、\n\n灯《ひ》も水ぎはに。\n\n安けさや。",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 155,
+      "content": "この空や、\n\n来て眺めて。\n\nほのけさよ、\n\nかすけさよ、\n\nかの鵠の羽。\n\n早やむなし、\n\nただ遠し、\n\nまた求めず。\n\nさ緑の",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 156,
+      "content": "まろき波、\n\nみな、蓮の葉。\n\n墓地の散歩者\n\n雲は、白く、\n\n飄飄と飛ぶ。\n\n梢には寝《ぬ》るものがある。\n\nほのぼのと\n\n呼びける風、\n\n電波だけそれに触れてる。",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "悪神よ、\n\n月が出るのだ。\n\n短夜《みじかよ》の墓地になるのだ。\n\n止せよ、おい、\n\n赤いネクタイ。\n\nだから、君は夢遊病者だ。\n\n聴け、音が\n\nしきりと揺れる。\n\n碧梧桐《あをぎり》の花房が鳴る。",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 158,
+      "content": "何と、また\n\n動く夜空だ。\n\nほう、青いサァチライトだ。\n\n雲は、ぢき、\n\n曙になる。\n\n梢から待つものがある。\n\n五月の夜の空\n\n星だ、あ、\n\n緑《グリーン》、",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 159,
+      "content": "緑《グリーン》、\n\n緑《グリーン》、\n\n緑《グリーン》。\n\n星だ、あ、\n\n濃紅《クリムソン》、\n\n濃紅《クリムソン》、\n\n緑《グリーン》、\n\n緑《グリーン》、\n\n緑《グリーン》。",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 160,
+      "content": "や、飛行機だ、灯《ひ》だ、灯《ひ》だ、灯《ひ》だ、\n\nや、一台だ、二台だ。三台、四台、五台。\n\n夜《よ》空だ、突如として襲ひ去る\n\n囂囂音、囂囂音、囂囂音、囂囂音。\n\nほれ、と、わが子《こ》をさしあげる。\n\n菩提樹よ、闇の葉よ、\n\n覆輪の金の椎、\n\n花よ、木よ、朴よ、漆よ。\n\n孔雀羽根、梧桐《あをぎり》の芽《め》よ。",
+      "characters": 159,
+      "ruby": []
+    },
+    {
+      "pageNumber": 161,
+      "content": "鬱蒼と、陰陰と、\n\n圧《あつ》する、押しかぶさる——\n\n緑《グリーン》、\n\n緑《グリーン》、\n\n緑《グリーン》、\n\n緑《グリーン》。\n\n濃紅《クリムソン》、\n\n濃紅《クリムソン》、\n\n緑《グリーン》、",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 162,
+      "content": "緑《グリーン》、\n\n緑《グリーン》。\n\nああ、見える、見える、見える、さうして\n\nなんとぼやけた黄の弦月、水蒸気。\n\n香海の爆音。\n\nコトリともせぬ、また、\n\n水盤の金魚である。\n\n煤\n\n煤がふります、菩提樹《リンデン》に、",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 163,
+      "content": "朝のタオルに、籐椅子に。\n\n煤がふります、庭石に、\n\n桜落葉の霜じみに。\n\n煤がふります、硝子戸に、\n\n燃えてしなへた葉鶏頭に。\n\n煤がふります、雉子馬に、\n\n睫毛擦る子がまろい眼に。\n\n煤がふります、つんとして\n\n妻が物干す鼻のうへ。",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 164,
+      "content": "煤がふります、パン皿に、\n\n紅茶茶碗に、樽柿に。\n\n煤がふります、巻煙草\n\nのべつまさぐる朱の鉢に。\n\n煤がふります、原稿紙に、\n\n銅銭のやうな赤い煤。\n\n煤がふります、月の夜も、\n\n隕石のやうに、黒い煤。\n\n煤がふります、灯《ひ》のしたを",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 165,
+      "content": "こほろぎのやうに歩《ある》く煤。\n\n煤がふります、脳味噌に、\n\nマグネシユームの燃え滓《かす》に。\n\n煤がふります、昼も夜も、\n\n絶えぬお客の黒ソフト。\n\n煤がふります、桃いろの\n\n扁桃腺に、肺の腑に。\n\nああ、ああ、いやだ。おい、酒だ。\n\n酒にも黒い蠅の煤。",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 166,
+      "content": "まざあ・ぐうすのお婆さん、\n\n天の煤掃き、それ、頼む。\n\n椎の葉\n\n日の光漣なして\n\n椎の葉を越ゆるに似たり。\n\n早や来る春らしきもの\n\n魚のごと喜びあそぶ。",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "童話の月",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 168,
+      "content": "月から見た地球\n\n月から観た地球は、円《まど》かな、\n\n紫の光であつた、\n\n深いにほひの。\n\nわたしは立つてゐた、海の渚に。\n\n地球こそは夜空に\n\nをさなかつた、生れたばかりで。\n\n大きく、のぼつてゐた、地球は。\n\nその肩に空気が燃えた。",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 169,
+      "content": "雲が別れた。\n\n潮鳴を、わたしは、草木と\n\n火を噴く山の地動を聴いた。\n\n人の呼吸を。\n\nわたしは夢見てゐたのか、\n\n紫のその光を、\n\nわが東に。\n\nいや、すでに知つてゐたのだ。地球人が\n\n早くも神を求めてゐたのを、",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 170,
+      "content": "また創《つく》つてゐたのを。\n\n雪と狩猟者\n\n呼んでゐた、雪は雪を、幽かに。\n\n紫の空であつた——曇つた。\n\nわたしはさがしてゐた。日の在処《ありか》を、\n\n日は円くぼやけてゐた、あどけなかつた。\n\nわたしせつないわ、と、女が言つた。\n\nこんなコルセット、子供のぢやなくつて。\n\n僕も困るよ、こんな帽子は、",
+      "characters": 153,
+      "ruby": []
+    },
+    {
+      "pageNumber": 171,
+      "content": "こんな玩具《おもちや》の猟銃で射《う》てるものかい。\n\n新しかつた、雪は雪と、匂つて、\n\nちかちかと、光つたり、消えたりして。\n\nみんなまだ、ねんねえなのだ、立春の沼に、\n\n鸛《こふのとり》の雛の笑ふやうな声もするのだ。\n\n童話の月\n\n大きな黄色の月、\n\n童話の中の月、\n\nおお、浜辺へ出て、手をあげて呼ぶのは誰だ。",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 172,
+      "content": "吠えてる、吠えてる。\n\nおお、をどつてる。\n\nをさない愛着、白いけもの。\n\nおお、あの空だ。海の向うの向うだ。\n\n煙がひとすぢあがつてゐる。\n\n月と美童\n\n月映《つくばえ》の、露の野道の\n\nほんの濃い、向うの靄で。\n\n　　　ぼうわう、ぼうわう、",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "あ、なにかしろく吠えてる。\n\n水芋のてらてらの葉の\n\nその前を、音はしてたが、\n\n　　　ぼうわう、ぼうわう。\n\nお、誰か、ひきかへしてる。\n\n美しい童《わらべ》よ、角髪《つのがみ》の子よ、\n\n怖がるでない、怖がるでない。\n\n　　　ぼうわう、ぼうわう、\n\nあれはただ吠えるだけだよ。",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 174,
+      "content": "月がまた雲を呼ぶのだ、\n\nぼうとした紫なのだ。\n\n　　　ぼうわう、ぼうわう、\n\n小さい蛾までが輝くのだ。\n\nな、みんなが思ひ出すのだ、かうした晩は、\n\n美しい童《わらべ》よ、童《わらべ》のむかしを。\n\n　　　ぼうわう、ぼうわう、\n\n前《さき》の世の聖母《マドンナ》の、円《まど》かな肩を。\n\n匂やかであつた、世界は。ふじぎぬのやうな",
+      "characters": 166,
+      "ruby": []
+    },
+    {
+      "pageNumber": 175,
+      "content": "光と空気とに織られてゐた。\n\n　　　ぼうわう、ぼうわう、\n\nああした夜靄にも吠えてゐた何かだつたよ。\n\n昔の月\n\n驚いた、大きい月に。\n\n汐がさし、汐がさしてた。\n\n葦の葉が緑に燃えた。\n\nよしきりがぎょぎょしと鳴いた。\n\nうゑはてて、わたしは噛んだ。",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 176,
+      "content": "秀《ほ》の髄《ずゐ》の露の初毛《うぶげ》を。\n\n声がした。舟がとほつた。\n\n水棹《みづさを》がとぼんと鳴つた。\n\nちやうど夏、宵の間《ま》だつた、\n\n辛《つら》かつた。死なれなかつた。\n\n湧きのぼる、湧きのぼる霞、\n\n中空で光となつた。\n\n紫の鋏の蟹も\n\n生きてゐて泡をふいてた。",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 177,
+      "content": "方丈\n\n幻の月夜なり、\n\n方丈の、燈《ひ》の現《うつつ》の。\n\n虚《こ》の、満つる世界なり、\n\n微塵数《みぢんず》の、香《か》の、ひびきの。\n\nありとある雑色《ざふしき》の\n\n紫に和《な》ぎかすみて。\n\nかぎりなき貴さの\n\n鮎のごと揺りあそぶを。",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 178,
+      "content": "煌として光る顔、\n\n我や誰《た》ぞ、この童《わらべ》は。\n\nああ、母よ、我は在り、\n\nへうへうとうち騰《あが》りつつ。\n\n鵲\n\nわれは筑後の国に生れぬ\n\nふるさとの合歓の木かげを\n\nながれゆく水の音なり。\n\n鵲のしろき下羽根、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 179,
+      "content": "月の夜と移る空なり。\n\nおぎろなし、おもほへば、そは\n\n眉に立つかげろふのごと。\n\n童《わらべ》みな鵲を追ひ、\n\n鵲と影をうしなふ。\n\n子の鵲\n\n飛ぶ\n\n一羽、\n\n子の鵲。",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 180,
+      "content": "蓮の田の\n\n空《くう》を、いま。\n\n脚ちぢめ\n\n飛ぶゆゑに、\n\n蓮のはな\n\n白く見え、\n\n露の音\n\n白く見え、\n\nひたむきや、",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 181,
+      "content": "まじろがず。\n\nまだ、童《わらべ》、\n\n黒鵲。\n\n七夕の\n\nこの浅夜《あさよ》。\n\n三つ星の\n\n光る星。\n\n蕾\n\n蓮《はす》の蕾のはなびらは、",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 182,
+      "content": "なかふくらみの紅《あか》いすぢ、\n\nさざなみ立てそ、月夜には、\n\n蕋《しべ》のにほひも張りつめる。\n\n鳰のたまごの鳰のこゑ、\n\n生れぬまへの息もする。\n\n田家の月夜\n\n青鷺は\n\n薤《おほにら》ぬすむ。\n\n月に矢を",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 183,
+      "content": "童《わらべ》は番《つが》ふ。\n\n賽《さい》の神。\n\n田の、田の田螺。\n\nをとめ子は\n\n影を知りそむ。\n\n註　薤は傷痍にきく。月夜に青鷺が盗みに来て射られた話がある。\n\n猟季\n\n月は梢を光らせる。\n\n月は小《ちひ》さな角の月。",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 184,
+      "content": "月は野末を煙らせる。\n\n月に軽鴨《かるがも》飛んで来る。\n\n月に火銃《ほづつ》の火は赤い。\n\n月は風より冴えてゐる。",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "海豹と雲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 186,
+      "content": "汐首岬\n\nたうたうと波騒《さや》ぐ汐首岬《しほくびざき》、\n\n鮮《あざ》やけし、雑草《あらくさ》の青《さを》、さみどり、\n\n　　ああ、げに、いにしへのアイヌ・モシリ、\n\n　　言問へよ、今にして辺《へ》の岬岬《さきざき》。\n\n味鳧《あぢがも》の浮きなづむ海越え来て、\n\n噴《ふ》き騰《あが》る縦雲《たてぐも》の秀《ほ》をあふげば、\n\n　　夏よ、げに、声はあり、カムイ・ユカラ、\n\n　　その声は風と満ち、照り響けり。",
+      "characters": 206,
+      "ruby": []
+    },
+    {
+      "pageNumber": 187,
+      "content": "朗らかや、すがし葉の大広葉の\n\n蕗の葉の下つ人、コロポックル、\n\n　　呼べよ、げに、神はあり、オイナ・カムイ、\n\n　　さながらに立つ影の素《す》の裸男《はだかを》。\n\nここ過ぎて、神ながら身は新らし、\n\nここ過ぎて、我が息吹《いぶき》蘇らむ。\n\n　　人よ、げに、ひたごころ直《すぐ》なる神、\n\n　　白雲の噴《ふ》き騰《あが》る国思へや。\n\nたうたうと波騒《さや》ぐ汐首岬、",
+      "characters": 186,
+      "ruby": []
+    },
+    {
+      "pageNumber": 188,
+      "content": "鮮やけし、雑草《あらくさ》の青《さを》、さみどり。\n\n　　ああ、げに、いにしへのアイヌ・モシリ、\n\n　　言問へよ、今にして辺《へ》の岬岬《さきざき》。\n\n註　アイヌ・モシリ　　　蝦夷島（アイヌ語）\n\n　　カムイ・ユカラ　　　神謡（　同　　）\n\n　　オイナ・カムイ　　　古伝神（　同　　）\n\n曇り日のオホーツク海\n\n光なし、燻《いぶ》し空には\n\n日の在処《ありど》、ただ明るのみ。",
+      "characters": 189,
+      "ruby": []
+    },
+    {
+      "pageNumber": 189,
+      "content": "かがやかず、秀《ほ》に明るのみ、\n\nオホーツク海の黒きさざなみ。\n\n影は無し、通風筒《つうふうとう》の\n\n帆の綱が辺《へ》に揺るるのみ。\n\n眺めやり、うち見やるのみ、\n\n海豹《あざらし》のうかぶ潮（しほなわ）。\n\n寒しとし、暑しとし、ただ、\n\n霧と風、過《す》がひ舞ふのみ。\n\nわれは誰《た》ぞ、あるかなきのみ、",
+      "characters": 156,
+      "ruby": []
+    },
+    {
+      "pageNumber": 190,
+      "content": "酔はむとも、醒めむとも、まだ。\n\n燻《いぶ》し空、かがやかぬ波、\n\n見はるかす円《まろ》き涯《はて》のみ。\n\n樺太の山中にて\n\n尾白鷲眼を放つ梢には\n\n横雲の縹雲《はなだぐも》ほのあかりぬ。\n\nああ、蒼し、黒椴《くろとど》のさるをがせ、\n\nいつの日か花咲かむ、香《か》も幽《かす》かや。\n\n校倉《あぜくら》よ、露西亜びとの住み棄てし小舎、",
+      "characters": 169,
+      "ruby": []
+    },
+    {
+      "pageNumber": 191,
+      "content": "駅逓のフラフにも朱《しゆ》は褪せたり。\n\n霧は飛ぶ、霧は飛ぶ、山高きに\n\n夏もなほ気流のみ冷えまさるを。\n\n雲の上《へ》に棲む魚よ、みづうみの鱒、\n\n縹渺とふりあふぐ人いくらぞ。\n\n凛として将た思ふ、カムイ・エカシ、\n\n旅行けば我すらや神《しん》に入るなり。\n\n註　カムイ・エカシ。　　　神神の祖先（アイヌ語）\n\n老いしアイヌの歌",
+      "characters": 165,
+      "ruby": []
+    },
+    {
+      "pageNumber": 192,
+      "content": "アイヌはよ、\n\n老いしアイヌ、\n\n神アヱオイナ、\n\nアイヌ・ラクグル（アイヌの臭ひある人）の後、\n\n神《かん》ながら（はこべ）の頭《かしら》、\n\n土の体《たい》、柳の脊骨、\n\nシネ・シツキ・プイコロクル（眼窩の人）\n\n神神の髪の毛の人、彼こそはげに、\n\nカムイ・オトプ・ウシユ・グルなれ。",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 193,
+      "content": "彼アイヌ、眉毛かがやき、\n\n白き髯胸にかき垂り、\n\n家屋《チセ》の外《と》に萱畳敷き、\n\nさやさやと敷き、\n\n厳《いつ》かしきアツシシ、\n\nマキリ持ち、研ぎ、あぐらゐ、\n\nふかぶかとその眼凝《こ》れり。\n\n彼アイヌ。\n\n蝦夷島《アイヌモシリ》の神、",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 194,
+      "content": "古伝神《オイナカムイ》、オキクルミの裔《すゑ》。\n\nほろびゆく生ける屍《ライグル》。\n\n夏の日を、\n\n白き日射を、\n\nうなぶし、ただに息のみにけり。\n\n彼アイヌ、\n\n家屋《チセ》の空見ず、\n\nさやら葉の青の長葉の、\n\nアイサク・ピヤパ（髯なき稷）",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 195,
+      "content": "フレ・ピヤパ（赤き稷）\n\nチヤク・ピヤパ（はぜ稷）\n\nヤムライタ・ヨコアマム（藪虱に似し稷）、また、\n\n脚高の熊檻《ペウレツプチセ》、\n\n仔《こ》の熊の赤き舌見ず、\n\n汗垂らし、拭ひもあへず。\n\n彼アイヌ、\n\n老いたる鷲、\n\n古り皺み、",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 196,
+      "content": "病み倦んずる者。\n\nましら髯、\n\n厳《いつ》かしきアツシシ、\n\nマキリ持ち、研ぎ、あぐらゐ、\n\nオンコ（水松）そぎ、心恍《ほ》れり。\n\n彼アイヌ、\n\nよく黙《もだ》し、\n\n念じ、かつ、しかく黙《もだ》せり。\n\n彼、キム・ヲ・チパスクマ（山の教義）の徒、",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 197,
+      "content": "チクニ・アコシラツキ・オルシユペ（樹の守護の教義）の徒、\n\n地上の者、聖シランパの子、\n\n黙想者、聖トボチの僕《しもべ》。\n\n彼はかく念ずらし。\n\nアトニ・ウエンユク（悪楡）よ去れ。\n\nニ・アシユ・ランゲ・グル（をを、汝立木人よ）\n\nキサラハ・ランゲ・シヌブル・カムイ（をを、汝木の皮の尊き鬼神よ）\n\nオー・トイヤン・クツタリ（汝地上に拡張せる者よ）\n\n総て善し、吾《あ》は拝せり。",
+      "characters": 191,
+      "ruby": []
+    },
+    {
+      "pageNumber": 198,
+      "content": "吾《あ》は老い、吾《あ》は嘆けり。\n\n吾《あ》は白し、早や輝けり。\n\n吾《あ》は消えむ、ああ早や。\n\n吾《あ》が妻、吾《あ》が子、吾《あ》が弟《いろと》、\n\n吾《あ》が族《ぞう》の、残れる者、\n\nことごとく滅《めつ》せん。\n\nオンコよ、吾が削る\n\n紅柔《べにやは》き兎の肉《ししむら》なす\n\nオンコよ、しかく光らん。",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 199,
+      "content": "彼アイヌ、\n\n老いたる鷲。\n\n蝦夷島《アイヌモシリ》の神、\n\n古伝神《オイナカムイ》、オキクルミの裔《すゑ》。\n\nほろびゆく生ける屍《ライグル》\n\n光り、かつ白き屍《ライグル》。\n\n彼アイヌ、眉毛かがやき、\n\n白き髯胸にかき垂り、\n\n厳《いつ》かしきアツシシ、",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 200,
+      "content": "マキリ持ち、研ぎ、あぐらゐ、\n\n真夜なす眼《め》の窩《くぼ》のアイヌ、\n\n今は善し、オンコ削ると\n\n息長《おきなが》に息吹《いぶ》き沈み、\n\n恍《ほ》れ、遊び、心足らふと、\n\nそのオンコ、\n\nたらりたらりと削りけるかも。\n\n樺太風景\n\n神こそはおそらくは",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 201,
+      "content": "童形《どうげう》ならむ。\n\n神殿は野茨《のばら》なり、\n\n風、そを祝ふ。\n\n燦爛と木は笑ふ、\n\n楡《にれ》、やちだも、\n\n恍《くわう》として、夢ならず。\n\nまだ、うつつに。\n\n観よ、小さき朱《しゆ》の馬車に\n\n草は満ちて、",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 202,
+      "content": "子らと猫うちさやぎ、\n\n行き進むを。\n\n聴けよ、また、燕麦《えんばく》と\n\n白虹《びやくこう》とに、\n\n押し移る緬羊の\n\n日にとろむを。\n\nげに太初《はじめ》道《ことば》あり、\n\n響は若し。\n\n貧しきはいとなみぬ、",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 203,
+      "content": "空あふぎて。\n\nこの地平かぎりなし、\n\n照りかすみて、\n\n愚かしく、麗《うつ》くしく\n\n野は笑ひぬ。\n\nある人の庭\n\n石狩にて\n\n蜜蜂の\n\nおとなひに",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 204,
+      "content": "響く小池。\n\nみぎはには\n\n黄の一重、\n\nとろろあふひ。\n\n君が園\n\n閑《しづ》けしや、\n\n夏を、照りを。\n\nはるけくも\n\n来し北か、",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 205,
+      "content": "ここは音江。\n\n見ず知らず、\n\nまた会はず、\n\nこの日かぎり。\n\n散る散らぬ、\n\nまだ薄し、\n\n林檎もみぢ。\n\n朝\n\nトラピスト修道院",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 206,
+      "content": "揺りいづる鐸《すず》のかずの\n\n六《む》つあまり、七《なな》つか、八《や》つ。\n\n夜はあけぬ、麺麭種《パンだね》の\n\n粉《こな》かとも花は咲きて。\n\n露ながら、人はあり、\n\nいのりつつ、野に刈りつつ。\n\nしづけさや、よき寺や、\n\nカトリコの朝弥撒《あさミサ》や。\n\n鷹のごと光るもの",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 207,
+      "content": "山の気に吹きながれて、\n\n美しき八月や、\n\n翼《つばさ》ただ海を指《さ》しぬ。\n\nかはらははこ\n\nこは愛《かな》し、\n\nかはらははこ、\n\n月《つき》のしづく。\n\nここ過ぎて、\n\nトラピスト",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 208,
+      "content": "修道院なれ。\n\n空ちかし、\n\n青《さを》の昴《すばる》。\n\nかはらははこ。\n\n修道士の\n\nまた、月に、\n\n絞《くび》れ死にぬ。\n\nトラピストの牛\n\n月夜であります。",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 209,
+      "content": "月夜であります。\n\n月夜である。\n\n甘藍《キヤベツ》がはらりと一皮《ひとかは》はねた、\n\n重い羽ばたき、梟だ。\n\n七面鳥は朱に青に、\n\n膨れかへつて焦《あせ》つてる。\n\nとても明《あか》るい山独活だ、\n\n雌蕋の花粉は唸つてる。\n\nバタの香《かをり》も新鮮だ。",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 210,
+      "content": "燕麦《えんばく》、漆姑草《つめくさ》、青蓬、\n\n裸の子供のにほひもする。\n\nさら、\n\nさら、\n\nさら、さら、さら、さら、唐黍だ。\n\n紅《あか》い垂毛《たりげ》は目がさめて、\n\n誰か来ぬかと待つてゐる。\n\n暑い、暑い、暑い、暑い、\n\nへえほう。と",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 211,
+      "content": "虫も啼いてる、草むらで。\n\nかあん。\n\n　　　と、空鳴《からな》り、空の鐘。\n\n月夜であります。\n\n月夜であります。\n\n月夜である。\n\n「神父さん。」トントン。\n\n「神父さん。」トントン。\n\n「神父さん。」トントン。",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 212,
+      "content": "「神父さん。」トントン。\n\n「神父さん。」トントン。\n\n「神父さん。」トントン。\n\n「神父さん。」トントン。\n\n「副院長さん。」トントントン。\n\n「院長さん。」トン。\n\n「しつ。」\n\n「しつ。」\n\n「しつ。」",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 213,
+      "content": "「しつ。」\n\n「しつ。」\n\n「しつ。」\n\n「しつ。」\n\nさうした声がするやうで、\n\nじつはしませぬ。牛舎《ぎうしや》です。\n\n暗さは暗し、静かです。\n\n腐れたにほひ、乳のにほひ、\n\n燦燦《きらきら》ひそむ黄金虫《こがねむし》、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 214,
+      "content": "ひつそりとうつ尻尾《しつぽ》の尖《さき》、\n\n草のちり屑、\n\n尿のにほひ、\n\nまた食べかけの向日葵の\n\n花も何処《どこ》かに燃えてる筈。\n\n眼。\n\n眼。\n\n眼。\n\n眼。",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 215,
+      "content": "眼。\n\n眼。\n\n眼。\n\n月夜であります。\n\n月夜であります。\n\n月夜である。\n\n「お乳が張つたあ。マリヤさま。」\n\nトン。\n\n「しつしつ。」",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 216,
+      "content": "「しつ。」\n\n後《あと》はひつそり、\n\n牛舎です。\n\n鴨\n\n鴨だ。鴨だ。鴨が\n\nすべりあがる。おお、\n\n大きいうねりの窪《くぼ》みから——\n\n深い深い底の奥から、\n\nもこりもこりと盛《も》りあがる部厚な波、",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 217,
+      "content": "そのうねりの阪へかかつた、揺り揺られて。\n\n鴨の、なんと、\n\n黄色い嘴だ、鮮《あざや》かな、\n\n横を向いて、\n\n留る、と、高みきつたうねり波の峰が\n\n飛沫《しぶき》ひとつ立てずに、広くなだれる。\n\n平《たひら》かに\n\nはるばるとした世界が見える。\n\n鴨はすべる。",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 218,
+      "content": "すうつと落ちてゆく、大きいうねりの窪《くぼ》みへ、\n\n風も無い穏かなうねりだ、尾羽根を立てて、\n\nなんとまた、光つた\n\n叡智の瞳。\n\n鴨が、あつ、かくれた、\n\n大きいうねり波に、さうして、\n\n見えない向うの渓間にゐる\n\nあの姿勢。——\n\nわたしは直感する、",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 219,
+      "content": "おそろしく冥《くら》い、冥《くら》い、動いてゐる\n\n波の丘陵を透《とほ》して、\n\n全くの静謐、\n\n虔ましい頬《ほ》の紫。\n\n鴨がまた、揺られて、\n\n見えて来る、あ、出た、出た、\n\n大きい、すばらしいうねりに乗つて来る。\n\n「おうおう。」とでも呼びかけたい。\n\nいいかたちで、浮んで。",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 220,
+      "content": "ブラボウ、万歳。\n\n鴨はまかせる。\n\n大きいうねりの意志に。\n\nはてしもない韃靼海のただなかだ、\n\n小《ちひ》さい鴨の水掻、\n\nぴつたりとつけた胸毛《むなげ》の\n\n燃えるやうな濃い青。\n\n鴨は一羽だ。\n\n北へゆくほど遠くなる日の光だ。",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 221,
+      "content": "空の世界も寒いが、\n\n雲は深いが、また、\n\n波は光らぬ、\n\n見わたすかぎり光らぬ波、\n\n平《たひら》かに平《たひら》かに見えても、また、\n\nそのじつ、\n\n大きく大きくうねつてゐるのだ、（かげ）つて。\n\n鴨は啼かない。\n\nまつたく黄色い嘴だ、さうして、",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 222,
+      "content": "おお、おお、揺れてる、乗つてる、辷つてゐる、\n\n小さい、整つた、\n\n美しい、きつちりした\n\n鴨の象《すがた》、\n\n箇の叡智、\n\nああ、一つの正しい存在。\n\nあ、かくれた。向うへ落ちてゆく。\n\nあ、出た出た。\n\nぴゆう——",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 223,
+      "content": "指笛だ、俺のだ。\n\n鴨はまかせる。\n\n大きいうねりに坐つて\n\n盛りあがる、盛りあがる、部厚な\n\n底ぢからに揺られる。\n\n鴨は開《あ》けてる、閑《しづ》かな眼を。\n\n劫初からの海、韃靼の寒空、\n\nしかも、夏、夏、夏、\n\nどちら向いても、",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 224,
+      "content": "うねりの\n\n絶間もないうねりの、\n\n冥《くら》い、光らぬ、\n\nおそろしく、また、穏かな、\n\n波濤と波濤と波濤の連続。\n\nええ、ちきしょう、\n\n鴨の尻《けつ》、\n\n夜が来る。夜が来る。\n\n熊人",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 225,
+      "content": "白き熊、幽《かす》かなり。\n\n極光を載《いただ》けり。\n\n　　人かとも、白き熊。\n\n白き熊、凍《こご》え立ち、\n\n氷原にひとり在り。\n\n　　見はるかし、白き影。\n\n白き熊　飢迫れり。\n\n荒天の雪に、ああ、\n\n　　吹きつつむ白き雪。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 226,
+      "content": "白き熊　聴けり、今、\n\n声の無き声のうち、\n\n　　繁《しみ》み澄む白き色。\n\n白き熊　まじろがず、\n\nひたと立ち、息つがず、\n\n　　神去ると、白き息。\n\n白き熊　輝けり。\n\n氷原や、涯《はて》知らず、\n\n　　夢は飛ぶ、白く飛ぶ。",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 227,
+      "content": "春の蚊",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 228,
+      "content": "幼童\n\n物は観て、うつつならぬか、\n\n紋しろのてふてふか、汝《なれ》。\n\n　（ああ、\n\n　　わが子や。）\n\n日は闌《た》けて、風もひかるを、\n\n陽炎《かげろふ》とわれとわかぬか。\n\n　（ああ、\n\n　　わが子や。）",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 229,
+      "content": "頭《あたま》がち、ゆらぎ遊ぶと、\n\nまだ飽かず、虫よ花よと。\n\n　（ああ、\n\n　　わが子や。）\n\n荒地菊《あれちぎく》むせぶいきれを、\n\nおのづから催すか、また。\n\n　（ああ、\n\n　　わが子や。）\n\n幽《かす》けかる、あへて小《ちひ》さき、——",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 230,
+      "content": "ひとすぢに尿《しし》放つなり。\n\n春\n\n木いちごは\n\n花に現れ、\n\n幼児《をさなご》は\n\n身がろく走り、\n\n笹ごもり、\n\n光りつぶやき、\n\n蜂は巣を",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 231,
+      "content": "営みそめぬ。\n\n閑《しづ》かなる\n\n春や、この朝、\n\n我がこころ\n\nこよなく遊ぶ。\n\n日なか\n\n櫨の花\n\n珠《たま》はみどりに、\n\n塗畦の",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 232,
+      "content": "ぬめり青めば、\n\n水田には籾も蒔かれぬ。\n\n　　われや、はた、\n\n　　うつつの蝶や。\n\nまさしくも春はいぬるか、\n\n首欠けし道陸神《だうろくじん》よ。\n\n春の蚊\n\nなにならぬ\n\nつぶやきよ、ああ、",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 233,
+      "content": "篁の\n\n靄のこもりや。\n\nなにならぬ\n\nつぶやきよ、ああ、\n\n墨を磨る\n\nこころゆらぎや。\n\nなにならぬ\n\nつぶやきよ、ああ、\n\n昼闌《た》けし",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 234,
+      "content": "むらさきの地や。\n\nなにならぬ\n\nつぶやきよ、ああ、\n\n春の蚊を\n\nふとし叩きぬ。\n\n白藤\n\n藤のはな軒ににほへり、\n\n日の暮れて白き藤なみ。\n\n松田にもほど近からし、",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 235,
+      "content": "田舎馬車角《かく》吹きにけり。\n\nまかで来《こ》し道了薩陀《だうれうさつた》、\n\n紫雲英田《げんげだ》もうしろになりぬ。\n\n草の香や、遊ぶ子どもや、\n\n頭《あたま》がち、跳《は》ぬる足《あな》うら。\n\nこの柔《やは》し、小糠たつ杵、\n\nそれすらや、さみし、このごろ。\n\nうらがなし、田螺《たにし》ころころ、\n\n夜の昴宿《すばる》しぶく泡だち。",
+      "characters": 171,
+      "ruby": []
+    },
+    {
+      "pageNumber": 236,
+      "content": "いづれよし、余光の微塵、\n\n脚《あし》垂れて蜂もあがれり。\n\n常無しや、為すなしや、ああ、\n\n春はゆく、かかはらず、また。\n\n日の暮れて白き藤なみ、\n\n酒匂川《さかわがは》見えそめにけり。\n\n魚の里\n\n酒匂川《さかわがは》ちかづきぬらし、\n\n色、匂、またさま変へぬ。",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 237,
+      "content": "葦の根に水気《すゐき》たつもの、\n\nややにして（やまめ）光らむ。\n\n薄あかり、かがむ童《わらべ》も\n\nなにかよき鮎の色沢《つや》あり。\n\n年増づれ、眉根剃りたる、\n\n燈《とも》さねば、青き鮠《はや》らし。\n\n足柄の山をくだりて、\n\nいくばくも道はあらぬを。\n\nほのぼのと東へ行くと、",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 238,
+      "content": "月しろの火立《ほだち》に行くと、\n\n身ははやも現身《うつしみ》はなし、\n\n心はや世のこころなし。\n\n酒の仙、黄金亀《こがねかめ》の子《こ》、\n\n我まさに唐の李太白《リイタイペー》。",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 239,
+      "content": "月夜孟宗の図",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 240,
+      "content": "竹林幽居\n\nひとりかくれた篁に\n\n茗荷もしろく香《か》ににほふ。\n\n酔うてほろりとする日でも\n\nわしやさびしいぞ、青雀。\n\n雀と童\n\n羽ばたきぬ、\n\n頬の白きもの。\n\n光りつつ、",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 241,
+      "content": "風なき昼。\n\n父よ、父、\n\n呼ぶわらはべ。\n\n竹のうへ、\n\nまた竹の葉。\n\n羽ばたきぬ、\n\n頬の白きもの。\n\n空や空、\n\nかたわれ月。",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 242,
+      "content": "月夜孟宗の図\n\n孟宗よ。\n\nとうからわたしは思つてゐた。\n\nこのやうなことがあらうかと。\n\n円月は黄色くなる。\n\n影と影とは遊んでゐる。\n\n山水《やまみづ》の音もきこえる。\n\n孟宗よ。\n\nちやうどこのとほりだ。",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 243,
+      "content": "この明るさだ。\n\n竹と竹との透かし画だ。\n\n蒼うなつた、蒼うなつた、童《わらべ》よ。\n\nあの露を、\n\nあの影を拾はうよ。\n\n朝顔\n\n今朝はとなりの藪にさく\n\n花朝顔のちひささよ。\n\n貧しい庭の花なれば、",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 244,
+      "content": "となりへ行《い》てもちひささよ。\n\n吾が秋\n\nまだ青いのは松笠、\n\nこんこ小松のしたぐさ、\n\n秋はただつかまへて見て、\n\n日に透かすこほろぎの黝朱《うるみ》いろです。\n\n母と子\n\n母は子に乳房与ふと、\n\n月輪の光を額《ぬか》にかざすなり。",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 245,
+      "content": "子は母の垂乳《たりち》ふくむと、\n\nそのかうべ星の息づき保つなり。\n\nああ、秋よ、飾りなき野辺といふとも、\n\nかかる日の閑《しづ》けさも世にはあるなり。\n\n日かげには茗荷のしろき花咲きて、\n\n虫の音に湧きいづる幸《さいはひ》は満ち、\n\n母のまみ子のまみと会ふ。\n\nああ、今よ、\n\n母は子に乳をふくますと",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 246,
+      "content": "子の父のその母のこと思ふらむ。\n\nはたや、子は母にすがると、\n\nその母のをさな姿の早や現れぬ。\n\nかまつか\n\n日の道のやや離《さか》るにか。\n\n秋は早やつくつくほうし鳴きいでぬ。\n\n葉鶏頭《かまつか》も紅《あか》うのり来ぬ。\n\nしかも、葉鶏頭《かまつか》\n\nいまは我が子の肩を越えたり。",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 247,
+      "content": "ああ、妻よ、\n\n常住むは幻ならず、\n\n現身《うつしみ》のうつしごころのあはれなり。\n\nその現《うつつ》こそ、\n\nその現《うつつ》こそ。\n\nわたしが竹を\n\nわたしが竹を愛するのは\n\n陽《ひ》のちらちらがうれしいのだ。\n\n幽かなは竹、",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 248,
+      "content": "親しいも竹、\n\nなにかそこらのちらちらが、\n\n蓼や藜《あかざ》を明るくする。\n\n竹はいい、\n\n篁はいい、\n\n奥ぶかいゆゑ、\n\n冷えるゆゑ、\n\nなにかそこらのちらちらが、\n\n蝶や小蟻を明るくする。",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 249,
+      "content": "わたしが竹を愛するのは\n\nこのちらちらがうれしいのだ。\n\n竹に交りて\n\n竹に交りて幾秋ぞ。\n\n竹のはやしにもとゐして、\n\n竹にもたれて、日を浴びて、\n\n空のはるけさ、まがなしさ、\n\n見よや日なかの雲に鳥。\n\n十七日の月",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 250,
+      "content": "欠けそめて、\n\nほんの二夜《ふたよ》の月なれど、\n\nとてもちひさく見えまする。\n\n竹のそよぎも澄みまする。\n\nから面《つら》を出す子ゆゑ\n\n雲に小鳥も翔けまする。\n\nかほよどり\n\n山住の秋も深むを、\n\nすべもなや、かほよどりの、",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 251,
+      "content": "　　けけっちょうよ、けけっちょう、\n\n　　けけっちょうよ、けけっちょう、と、\n\n時雨れこそせね、枯枇杷に\n\n額《ひたひ》あつむるあでやかさよ、\n\n日がななにがなせはしさよ。\n\nあてのない消息\n\nあてのない詩でも書かうよ。\n\n渡鳥来る日和なら、\n\nに音する時雨なら、",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 252,
+      "content": "竹にじねんじよ、蔦のはな、\n\nとりとめもない秋なれば。",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 253,
+      "content": "花楮",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 254,
+      "content": "白蛾\n\n眉の毛深い白の蛾は\n\n熊の翁を思はする。\n\n浅夜《あさよ》の白い花生薑、\n\n香《か》には立つとも、白の蛾よ。\n\n月に舞うては、飛ぶものの\n\nいつか萎《しな》ゆる翅《はね》の色沢《つや》。\n\nとすれば明る脚《あし》ぼその\n\n朱の寂びがちの胸の粉《こな》。",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 255,
+      "content": "なうなう、留まれ、白の蛾よ、\n\n秋はほのかなものながら。\n\n観る目はうつつ、飛ぶは夢、\n\n月も闌《ふ》くれば小《ち》さうなるはよ。\n\n月夜の風\n\n秋はほのかに寝ざめして、\n\nあはれと思ふ幾夜《いくよ》さぞ。\n\nとすれば白う吹きたちて、\n\n月夜の風も消えゆけり。",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 256,
+      "content": "秋立つ浜\n\n春信の浮世絵のこころにて\n\n涼しや涼しやと後《あと》のが言つた。\n\n女菅笠かたむけた。\n\n涼しや涼しやと乳母《めのと》が指《さ》した。\n\n磯のぬれ岩しぶきが立つた。\n\n浪は浅葱のさざらなみ、\n\n沖にほのぼの蜃気楼《かひやぐら》、\n\nまた蛤がなげいたさうな、",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 257,
+      "content": "よいにほひよと眺めて行つた。\n\n涼しや涼しや涼しやのう、\n\nその声ばかりが吹かれて行つた。\n\n匂の秋\n\nかかる人をわれ知れり。わがふるさとのあはれなり。\n\nほほゑましげの盲人よ。うたぬ鼓を手に据ゑて、\n\nなにをかすかに聴いてやら、\n\nああ、秋よ、\n\nただ日あたりがよいのやら、",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 258,
+      "content": "にほひばかりに恍《ほ》れてやら。\n\nえいや、ほう、ぽん、\n\nえいや、\n\nこころばかりで敲つのやら。\n\n花は白菊、ませの菊、\n\nにほひばかりの秋じややら。\n\n鵜匠\n\n鵜匠の宗家長良川の山下幹司君に\n\n篝火の朱にはゆる",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 259,
+      "content": "君こそは鵜匠なれ。\n\n濡れしづく腰蓑の、\n\n折烏帽子古風にて。\n\nすばやくも手にさばく\n\n檜《ひ》の縄のはらはらに、\n\n時の間よ、ゆく水の\n\nかぎりなき燈《ひ》ににほへば、\n\n香魚《あゆ》を追ふ鵜の数《かず》の\n\nつぎつぎと目にうつりて。",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 260,
+      "content": "ほうほうと呼ぶこゑの\n\n誰ならず、夜を惜むなり。\n\n鷹匠\n\nわしは鷹匠、\n\n微塵ゆるがぬ。\n\n拳に据ゑた隼をひたと見守る。\n\n目《ま》じろぐな。\n\n閑《しづ》かなれ、\n\nかの一点をとらへよと。",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 261,
+      "content": "さて、さうさうと松の風、\n\nはらはらとうつ青松葉。\n\n時はよし、\n\n驚破《すは》や、隼、\n\n一期かけよと颯ッと放した。\n\n胡蝶\n\n飛びつつも飛ぶと知らぬか、\n\nただ飛べる秋のすがたよ。\n\n　舞ふ蝶のこのごろ小さしみな黄なり。",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 262,
+      "content": "翁\n\n椎の木のかげにゐられる\n\nあの白面《おもじろ》の翁は\n\nどなたさまかの、\n\nああ、なにか笑《ゑ》まれるやうな、\n\n月の光がさすわの。\n\n冬の日\n\n鳥居清忠ゑがく\n\n枠《わく》は皆朱《かいしゆ》の立屏風、",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 263,
+      "content": "さて立膝の、細筆に\n\n春の柳をかく女、\n\nそれを寝て観る男髷、\n\n男磨る女童《めわらべ》、日向縁、\n\n手水がめにはおかめ笹、\n\n冬の日和はもつやうで、\n\nまだ薄墨の時雨ぐせ、\n\nしよざいなささの、しんじつの、\n\nええ、",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 264,
+      "content": "つれづれの小半日でありんす。\n\n草仮名\n\n揉銀《もみぎん》の消ししつやゆゑ\n\n墨のいろよくうつるらし、\n\n時雨月、かかるひと夜は\n\n草仮名《さうがな》に心ゆくなり。\n\n春朝\n\n色鳥よ、\n\nよろこべよ、このあした",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 265,
+      "content": "ふくらむ花の\n\nいろがきこえる。\n\nぢいさまばあさま\n\nおぢいさまとおばあさまとの、\n\nある日、林にまゐられた。\n\n蒿雀《あをじ》は鳴く、風はさわたる。\n\nなにかといふと花のにほひぢや。\n\nおぢいさまや。\n\nおばあどのや。",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 266,
+      "content": "ああ、おぢいさまや。\n\nおばあどのや。\n\n春はどうにものびやかでの、\n\n老木《おいき》の藤の花房までが、\n\n揺れてゐたといの。\n\n花楮\n\n黄鳥《うぐひす》ねむる花楮《はなかうぞ》、\n\n月は翁の面《めん》のうへ、\n\n鼓うてうておもしろく、",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 267,
+      "content": "春はふたたび、花楮《はなかうぞ》。",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 268,
+      "content": "水郷の早春",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 269,
+      "content": "朝靄の中\n\n靄のふかい朝、子供が\n\n小舟を動かしてゐる。ああ、二人《ふたり》だ。\n\nここは潮来の出はづれ、\n\n沼から沼へとかよふ水路だ。\n\nほう、むぐっちょが鳴いている。\n\n水面が明つて来る。\n\n子供は聴いてゐる、一人は舳《へさき》で、\n\n一人は掻いてゐる、小《ちひ》さな櫂で。",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 270,
+      "content": "うすら寒うてもよい湿《しめ》りだ、\n\nどこかに日の光もある。\n\n柳のなびきも青うなつた。\n\n低い田圃も犁かれて来た。\n\nほうつと、どこかで火を燃してる、\n\n誰だか焼いてゐるのだ、葦の根を。\n\n風が来た、いや、土のかをりが通つた。\n\nおお、もう春が動いてゐるのだ。\n\n彼等はいつしよにのめりかかつた。",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 271,
+      "content": "とても大きなたんぽぽが咲いてる。\n\n靄のふかい朝、むぐっちょが鳴き、\n\n子供は小舟で取つ組んでる。\n\n沼べり\n\nわたしは眺めてゆく、沼べりの葦のさびれを。\n\n刈り残しの乏しい穂さきを。\n\nわたしの小舟は帆を張つたが、また、\n\n櫓に代へ棹に代へたりした。\n\n雨は雨でもこぬかのしめりで、",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 272,
+      "content": "風は風でも冬とはちがふ。\n\n放《つ》け棄ての火も水《み》ぎはを伝へば\n\nざんざら真菰も青みそめてる。\n\nああ、旅だ、\n\n時には心もひきしまるが、また、\n\n笑に代へ、親しみに代へたりして。——\n\n牛\n\nうつくしさ、さびさびしさ、\n\nああ、このしづけさ、",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 273,
+      "content": "小舟はゆく、沼のおもてを、——\n\n夕凪の安らかな乳金色。\n\n小舟にはおつとりと、赤の雌牛が、\n\n（なんといふよい画面）\n\nおとなしく乗っけられてる、\n\nうつぶした明るい姿。\n\nむつまじさ、かざりなさ、\n\nああ、このしづけさ。\n\n娘は棹をあげ、また、さしつぎ、",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 274,
+      "content": "親たちはかがんでゐる、耕作のよい疲れで。\n\nめづらしいよい日和だ、あるかなしに、\n\n葦の穂さきに微塵が光つて、\n\n沼のながめが広うなれば、\n\nむぐっちょが鳴く。何かの芽立に噎《む》せる。\n\nものがなしさ、温《ぬく》とさ、\n\nああ、このしづけさ。\n\n春あさい大きな落日《いりひ》、\n\n遥かな、寂びた藁屋根、立枯れ楊。",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 275,
+      "content": "すべてはよい照らしにある、雌牛の\n\n安らかな深い眼つきに宿る。\n\nああ、この親しさ、かたじけなさ、\n\nすべては明るい祈りにある。\n\n水村の春\n\n一\n\n水車のまはる樋口に\n\n障子あくる子のあり。\n\n春はまだしか、芽麦に",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 276,
+      "content": "はだら雪など光れり。\n\n二\n\n春雨けぶる小がはに\n\n板橋わたす里かや。\n\nこの田かの田の下萠え、\n\n簑笠つけて早や鋤く。\n\n三\n\nひとむら萠えしなづなを\n\n朝出て食《は》むや雌《め》の牛、",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 277,
+      "content": "沼の田べりはわづかに\n\n降りつぐもののにほへり。\n\n四\n\nかはづの啼くはころころ、\n\n田螺の啼くはころろよ、\n\nころころ、ころろ、ころころ、\n\n萠え来《こ》よ、春の下《した》ん田《だ》。\n\n五\n\n蛙が啼くよ、沖田に",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 278,
+      "content": "芽柳もなびくよ。\n\n誰《た》ぞや、こぬかの小雨《こさめ》に\n\n今朝あかあかと火を焚く。\n\n六\n\n春はまだ浅き水田の\n\n根芹は馬に食まれぬ。\n\nゆきかへりつつ、鋤きつつ、\n\nひと日は雨に暮れたり。\n\n七",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 279,
+      "content": "ふたもと高い葉楊、\n\n鍋底こする舟の子、\n\nつん抜け土間の藁家は\n\n燕の飛ぶにまかせぬ。\n\n八\n\n夜明けの靄にめざめて、\n\n渡るは雁か、くぐひか、\n\n早や榜《こ》ぎいでよ、作舟、\n\n沖田あたりは晴れうよ。",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 280,
+      "content": "九\n\n耕作舟につむもの、\n\n犂、鍬、黒の雌《め》の牛、\n\n朝靄がくり棹さす\n\n娘のあかい細帯。\n\n十\n\nせんだんの実もさみしや。\n\n蓆機織る藁家は、\n\n日がな日ぐらし音して、",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 281,
+      "content": "日がな日ぐらし雨ふる。\n\n十一\n\n藁すぐる子の目見《まみ》ゆゑ、\n\n沼のあかりがしむかよ。\n\nときたま鳴けよ、鳰鳥、\n\n昼間の月も渡るよ。\n\n十二\n\n前ゆく蝶のつばさに\n\n土のしめりはながれぬ。",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 282,
+      "content": "まことに春は田の面の\n\n末より野路《のぢ》ににほひぬ。",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 283,
+      "content": "金粉の靄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 284,
+      "content": "おだやかな冬\n\n枯れはてて、おだやかな眺めの冬、\n\n柔かな日あたりの冬、\n\n冬はまだ渓の向うにある。\n\nあの老いた胡桃のこずゑにある。\n\nよく光る白樺《しらかんば》の枝枝にある。\n\n枯山と枯野と、\n\nところどころの沢水と、\n\nいまだに深くはぬくもらぬが、",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 285,
+      "content": "なにかに酔はせるものがある。\n\n安らかないい収まりが。\n\nかうした一日《ひとひ》をわたしは持つ、\n\nこころよい疲れ、\n\n旅のおこたり、\n\n棄てはてて、ほうとしたこころ。——\n\nそのうちに春も来やうよ。\n\nよい空気だ。\n\nよい光線だ。",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 286,
+      "content": "　わたしは足をさすつてゐる。\n\n　縁側で膝をたたいてゐる。\n\n早春の朝飯\n\nかうした早春の空気をたべることは\n\nとりもなほさず身の滋養だ。\n\nわたしはまた朝の光を食べる。\n\n落葉松《からまつ》の新芽、\n\n蛙のこゑ、\n\n若紫の薄むらさき、",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 287,
+      "content": "揺れてゐる露、——\n\nひとつひとつに眺めて食べる。\n\n菊子よ、いい朝めしだ。\n\n新鮮な、いいお惣菜《さい》だ。\n\nわたしはおまへの息まで食べる、\n\n魂の魂まで食べる。\n\n落葉松林の中\n\n柔かなは春さきの落葉松《からまつ》の山、\n\nややかすむ洩れ陽のすぢ、",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 288,
+      "content": "渓あひの枯草、\n\n鉱泉をあたたむる人が薪割り、\n\n午すぎの煙筒の煙。\n\nわたしは疲れて帰つて来る、\n\nいささか歩《ある》き過ぎた、とも思ふ。\n\nそれでも雪の浅間はよかつた、\n\n鷹の飛ぶのも。\n\n柔かなは春さきの落葉松《からまつ》の山、\n\nその金粉の靄。",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 289,
+      "content": "ことりのひな\n\nきりさめかかるからまつの\n\nもえぎのめだちついばむか。\n\nうぶげのことりねもほそく、\n\nみしらぬはるをみてなけり。\n\n冬の日\n\n胡桃《くるみ》の老木ながめつつ、\n\nけふも胡桃をわりゐたり。\n\n胡桃の梢《うれ》の青空よ、",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 290,
+      "content": "ねもごろなれやいつまでも。\n\n良夜\n\n１\n\n月の夜の\n\nよう枯れし白樺《しらかんば》なる。\n\n２\n\n月の夜の翁ぐさかと触れてゐる。\n\nかげ\n\nからまつに",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 291,
+      "content": "からまつのかげうつりたり。\n\n月の夜ならし。\n\n樹\n\n白樺のはやしのなかに\n\n胡桃の木ひとり老いたり。\n\n花の青さや。",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 292,
+      "content": "後記",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 293,
+      "content": "　一音の言葉にも広大の宇宙がある。此の宇宙をわたくしは日夜に検鏡しつつ、人知れぬ驚喜と嗟嘆とに我が身内も顫へつつある。つまりは言霊の生命といつても眼に見えぬ微塵数の原子から発すること、かの細菌の作用と同一に、わたくしには空おそろしくさへ考へられる。\n\n　一語一音の本質、その連関、節奏の渾成に就き、常に繊細に味識し、熔鉱、濾化、鍛冶、創造等の諸程を常住の道とすべきは、言霊の使徒たる者の唯一最高の業でなくて何であらう。わたくしは蓬蓬として苦吟する。推敲に痩せる。然しながら、序に述べたごとく、好む道とて致方がないのである。その推敲の苦みこそは何にも替へがたい我が無上の楽みであり、我自らの風狂をまた如何ともしがたいのである。\n\n　一音の中の微塵数の原子の持つ生命力とは何か。この一原子ごとに宿る生命は詩人の気禀、思想、感情、感覚、及び心肉に氾濫する意力と感動の速度、調律の如何によつて、初めて種種雑多の形式に於て統合され、円融され、開顕されるのである。詩人の精神はその摂取する一語一音の中にあつて、既にかの花粉のごとく玉露のごとく、芬芬として離離として発光してゐるのである。\n\n　であるから、単に言葉と感覚との享楽的二重奏とのみ観て、白秋に思想無しなどといふ認識不足の言に対しては、わたくしはただ微笑してゐればいいと思へる。わたくしは之を憤るほどの未練な世界に最早や住してゐないつもりである。",
+      "characters": 596,
+      "ruby": []
+    },
+    {
+      "pageNumber": 294,
+      "content": "　わたくしの最近の詩の傾向に就いては、本集の『古代新頌』の諸篇、或は『白い花鳥図』の「老鶏」、『海豹と雲』の「汐首岬」「樺太の山中にて」「曇り日のオホーツク海」「老いしアイヌの歌」等、『風を祭る』の「真昼」「架橋風景」、更に「鋼鉄風景」に於ける近代神の認識に到る、日本古神道の精神を此の近代に新に再造するにある。わたくしはかの古事記、日本紀、風土記、祝詞等を渺遠にして漠漠たる風雲の上より呼び戻して、切に古代神の復活を言霊の力に祈り、之に近代の照明と整斉とを熱求しつつある。わたくしは日本民族の一人として、容易にかの泰西流行の思想に同ずることを潔しとせぬ。\n\n　また思ふに、古代の胆を捉へることはあながち古語死語を漁ることではない。生生躍動した古代感情のリズムをこそ素手に捉へることである。わたくしは漸くに些か之を会得したかのやうに思へる。\n\n　一方、わたくしは近代の幽玄体を月光と花鳥と古俗との間に、密かに薫醸しようとした。『白い花鳥図』『月光の谿』『童話の月』『花楮』等の諸篇の中にさうしたものがある。\n\n　わたくしはまた、覊旅、或は日常生活の中にわたくしとしての詩材を拾ひ、詩境を修めようとした。『金粉の靄』『水郷の早春』『月夜孟宗の図』『春の蚊』『海豹と雲』『珠数工の夜』、その他の諸章の中にも之等は混色し、散在してゐる。",
+      "characters": 565,
+      "ruby": []
+    },
+    {
+      "pageNumber": 295,
+      "content": "　わたくしは交に起り来る自然と人生との鮮新性を、しみじみと楽む。古蒼なるものをも新に感受することに於て、かぎりなき香気と雑色と光輝とが我が眼前の風景として愈大きく開放されてあることを、生きてすなはち楽み得ることを人間の幸福とする。然しながら世の卑俗に謂ふところの楽天家なるものとは些か展望の観点が違ふであらう。ただかの天王寺の墓畔生活に於てすら、わたくしの「生きの喜び」はわたくしを心から鮮麗にわななかせた。さうして愈に謙譲であるべき我自身を考へさせた。\n\n　詩の表現に就いては、わたくしは気息さながらの流露を最上としてゐる。形ありて形なく、色ありて現なく、匂あつて捉へるところなき声なき声を、さながら心の声としてゐる。わたくしは偏奇な、又は虚構的な文学の使用を忌む。何となれば、詩の表現の重大は文字に非ずして音にあるからである。声に出しては消えも失せぬべき声なき音のゆらぎにある。至上の技巧は至純にして、些の雑音をも、その舌に微細なる一粒の小石をも厭ふ。疎放と衒耀とを最も厭ふ。\n\n　わたくしは一語一音の玄微を探ることにわたくし自らを常に推敲の絞木に架けつつある。然しながら、決してまた繊細性の語韻のみを調味して、大局の表現を忘れる軟弱は思はれない。音に微にして、心は太く、時には古代的樸茂と素朴であるべく、奔放自在でもあるべきであるを思ふ。詩材と感動の如何によるのである。",
+      "characters": 588,
+      "ruby": []
+    },
+    {
+      "pageNumber": 296,
+      "content": "　ただ、わたくしはかうは願つてゐる。然しながらわたくしの詩技そのものが、一に之が証左たるべき完成作として考へる自負は持ち合せない。寧ろわたくしは自らの今日の未熟を知り過ぎてゐる。その一一の詩に就いてもあまりにその欠所を微細に知り過ぎるが故に他の人の十倍の苦みをも敢て辞さうとは思はないのである。\n\n　本集には『水墨集』後の凡そ八年間の詩作品を蒐めた。竹林に恵れた小田原の山荘に於ける震災前後の生活から、珠数工に隣り住んだ谷中天王寺十八番地の仮寓時代、大森は馬込の月光の谿を瞰望した丘の上の一年が此の間に推移した。此の長日月の間にわたくし自身に第一義の詩集とすべきものの一巻をも公刊するに躊躇されたのは、此の自身の未完成に就いて知ることのあまりに深かつたからである。わたくしは自らを愛惜することにあまりに傾き過ぎたとも思はない。良心が許さなかつたのである。\n\n　なほ、本集の装幀に当つて、かの『篁』『月と胡桃』の時と同じく中山省三郎君の共力を得た事を感謝する。（世田ヶ谷若林にて）",
+      "characters": 439,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "雨の降る日",
+  "title": "雨の降る日",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雨の降る日",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雨の降る日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　雨の降る日の縁端に\n\nわが弟はめんこ打つ\n\nめんこの繪具うす青く\n\nいつもにじめる指のさき\n\n兄も哀しくなりにけり\n\n雨の降る日のつれづれに\n\n客間の隅でひそひそと\n\nわが妹のひとり言\n\nなにが悲しく羽根ぶとん",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "力いつぱい抱きしめる\n\n兄も泣きたくなりにけり",
+      "characters": 23,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "岩清水",
+  "title": "岩清水",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "岩清水",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "岩清水",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　いろ青ざめて谷間をはしり、\n\n夕ぐれかけてただひとり、\n\n岩をよぢのぼれるの手は鋼鐵《はがね》なり、\n\nときすべて液體空氣の觸覺に、\n\n山山は茜《あかね》さし、\n\n遠樹《とほき》に光る、\n\nわが偏狂の銀の魚、\n\nしたたるいたみ、\n\n谷間を走りひたばしる、",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "わが哀傷の岩清水、\n\nそのうすやみのつめたさに、\n\nやぶるるごとく齒をぬらす、\n\nやぶるるごとく齒をぬらす。",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

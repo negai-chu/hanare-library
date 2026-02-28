@@ -1,0 +1,48 @@
+{
+  "id": "供養",
+  "title": "供養",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "供養",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "供養",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "女は光る魚介のたぐひ\n\nみなそこ深くひそめる聖像\n\nわれ手を伸ぶれど浮ばせ給はず\n\nしきりにみどりの血を流し\n\nわれはおんまへに禮拜す\n\n遠くよりしも歩ませ給へば\n\nたちまち路上に震動し\n\n息絶ゆるまでも合掌す\n\nにちにち都に巡禮し",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "もの喰《は》まざればみじめに青ざめ\n\nおん前にかたく瞳《め》をとづる。",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

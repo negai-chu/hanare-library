@@ -1,0 +1,42 @@
+{
+  "id": "祈祷",
+  "title": "祈祷",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "祈祷",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "祈祷",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "黄菊はすでに散つてしまつた\n\n漕手よ\n\n船路を遠くかへつてくる時\n\nさびしい海鳥はますとに飛びかひ\n\n日は憂鬱の浪にただよふ。\n\n漕手よ\n\nはや君の家の窓に燈火《あかり》はつけられ\n\n妹はひとり庭にたたずむ\n\n漕手よ、祈祷せよ。",
+      "characters": 114,
+      "ruby": []
+    }
+  ]
+}
