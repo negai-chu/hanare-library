@@ -1,0 +1,42 @@
+{
+  "id": "a052736",
+  "title": "私の本年の希望と計画",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の本年の希望と計画",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 26,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の本年の希望と計画",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　△「雑誌、随筆」を編輯すること。\n\n　△相当の長さの短篇小説を三つ位ゐ書きたいこと。",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

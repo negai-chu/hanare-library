@@ -1,0 +1,42 @@
+{
+  "id": "a058747",
+  "title": "雪夜　三",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪夜　三",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪夜　三",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夜更けて　油の盡きた暗いランプ　低い焔　煤けた笠\n\n既に私の生涯も　剩すところはもうわづか　ああ今しばし\n\nものを思はう　今しばし　私の仕事に精を出さう\n\nやがて睡りの時がくる　悲しみもなく　私の眠る時がくる",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

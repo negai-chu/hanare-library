@@ -1,0 +1,42 @@
+{
+  "id": "a002042",
+  "title": "燃えよ心",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "燃えよ心",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "燃えよ心",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "君にささぐる心のきほひ、\n\n火と燃え肉は爛れおちぬ。\n\nそは、赫灼《かくやく》と嘯《うそぶ》き吼ゆる\n\n落日の海にも似たり。",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

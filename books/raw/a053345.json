@@ -1,0 +1,54 @@
+{
+  "id": "a053345",
+  "title": "田園迷信",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "田園迷信",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "田園迷信",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十の蜂舎の成りしとき\n\nよき園成さば必らずや\n\n鬼ぞうかがふといましめし\n\nかしらかむろのひとありき\n\n山はかすみてめくるめき\n\n桐むらさきに燃ゆるころ\n\nその農園の扉を過ぎて\n\n苺需めしをとめあり\n\nそのひとひるはひねもすを",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "風にガラスの点を播き\n\n夜はよもすがらなやましき\n\nうらみの歌をうたひけり\n\n若きあるじはひとひらの\n\n白銅をもて帰れるに\n\nをとめしづかにつぶやきて\n\nこの園われが園といふ\n\nかくてくわりんの実は黄ばみ\n\n池にぬなはの枯るゝころ",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "をみなとなりしそのをとめ\n\n園をば町に売りてけり",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

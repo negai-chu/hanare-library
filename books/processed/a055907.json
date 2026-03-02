@@ -1,0 +1,48 @@
+{
+  "id": "a055907",
+  "title": "タバコとマントの恋",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "タバコとマントの恋",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "タバコとマントの恋",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　タバコとマントが恋をした\n\nその筈だ\n\nタバコとマントは同類で\n\nタバコが男でマントが女だ\n\n或時二人が身投心中したが\n\nマントは重いが風を含み\n\nタバコは細いが軽かつたので\n\n崖の上から海面に\n\n到着するまでの時間が同じだつた",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "神様がそれをみて\n\n全く相対界のノーマル事件だといつて\n\n天国でビラマイタ\n\n二人がそれをみて\n\nお互の幸福であつたことを知つた時\n\n恋は永久に破れてしまつた。",
+      "characters": 80,
+      "ruby": []
+    }
+  ]
+}

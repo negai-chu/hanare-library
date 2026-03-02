@@ -1,0 +1,54 @@
+{
+  "id": "a057391",
+  "title": "鎌倉",
+  "author": "芳賀矢一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鎌倉",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鎌倉",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　七里《しちり》が浜のいそ伝い\n\n　　稲村《いなむら》が崎　名将の\n\n　　　　剣投ぜし古戦場\n\n極楽寺《ごくらくじ》坂越え行けば\n\n　　長谷《はせ》観音の堂近く\n\n　　　　露坐の大仏おわします\n\n由比《ゆい》の浜べを右に見て\n\n　　雪の下村過ぎ行けば\n\n　　　　八幡宮の御社《おんやしろ》",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "上《のぼ》るや石のきざはしの\n\n　　左に高き大銀杏\n\n　　　　問わばや　遠き世々の跡\n\n若宮堂《わかみやどう》の舞の袖\n\n　　しずのおだまきくりかえし\n\n　　　　かえせし人をしのびつつ\n\n鎌倉宮《かまくらぐう》にもうでては\n\n　　尽きせぬ親王《みこ》のみうらみに\n\n　　　　悲憤の涙わきぬべし",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "歴史は長き七百年《しちひゃくねん》\n\n　　興亡すべてゆめに似て\n\n　　　　英雄墓はこけ蒸しぬ\n\n建長《けんちょう》円覚《えんがく》古寺の\n\n　　山門高き松風に\n\n　　　　昔の音やこもるらん",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

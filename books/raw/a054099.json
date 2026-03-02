@@ -1,0 +1,60 @@
+{
+  "id": "a054099",
+  "title": "冬のしぶき",
+  "author": "伊藤信二",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬のしぶき",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬のしぶき",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お前が工場の帰りに買ってきてくれた\n\nこの櫛は\n\nもう　あっちこっち　歯がこぼれた\n\n梳《す》いたヌケ毛の一本一本は\n\nお前がオッカサンとよばってくれる\n\nその日がまためぐってくる年月《としつき》のながさを\n\nヒトツキ　フタツキ　と\n\nかぞえさせる\n\nお前からの夏のタヨリを",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "帯にはさんでいる――\n\n六十二にもなったわたしのふしぶしは\n\nズキン　ズキン　ズキン\n\n凍《しば》れにたたかれて\n\nヒビがひろがってゆく\n\nお前がアバシリの\n\n刑務所におくられてから二年と四ヵ月\n\nくる年々《としどし》の冬のはじまりから\n\nほほッぺたのまるっこいお前の写真を",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "霜焼けに疼く指先にささえて\n\n炉ばたの隅で\n\nあッためてやってるたんびに\n\nわたしの\n\n薄くなったマツ毛は濡れて\n\nああ　どんなにか\n\n本当のお前に会いたいことか\n\n正直なわたしのセガレ\n\nウソやゴマカシでは",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ゴハンをたべれなかったお前\n\n豆腐汁の好きだったお前の\n\nお椀の上でのほほえみが\n\n今もわたしに\n\n――ふるえる　ふるえる\n\nコブシをにぎらせる\n\n（『プロレタリア文学』一九三二年一月創刊号に発表）",
+      "characters": 99,
+      "ruby": []
+    }
+  ]
+}

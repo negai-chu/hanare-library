@@ -1,0 +1,48 @@
+{
+  "id": "a053561",
+  "title": "ふるさと",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ふるさと",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ふるさと",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "赤城山の雪流れ出で\n\nかなづる如くこの古き町に走り出づ\n\nひとびとはその四つ辻に集まり\n\n哀しげに犬のつるむを眺め居たり\n\nひるさがり\n\n床屋の庭に石竹の花咲きて\n\n我はいつもの如く本町裏《ほんまちうら》の河岸《かし》を行く\n\nうなだれて歩むわが背後《うしろ》に\n\nかすかなる市人《いちびと》のささやききこえ",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人なき電車はがたこんと狹き街を走り行けり\n\n我が故郷《ふるさと》の前橋",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

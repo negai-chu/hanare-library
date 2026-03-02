@@ -1,0 +1,42 @@
+{
+  "id": "a053656",
+  "title": "父の墓に詣でて",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "父の墓に詣でて",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "父の墓に詣でて",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　わが草木《さうもく》とならん日に\n\nたれかは知らむ敗亡の\n\n歴史を墓に刻むべき。\n\nわれは飢ゑたりとこしへに\n\n過失を人も許せかし。\n\n過失を父も許せかし。",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a004451",
+  "title": "平野義太郎宛書簡",
+  "author": "野呂栄太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "平野義太郎宛書簡",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 152,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "平野義太郎宛書簡",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "御手紙拝見いろいろと御尽力感謝します。\n\n御申越しの要項は御忘れになってゆかなかったようです。細川氏の原稿は今月中旬までには必ず脱稿して送るとの確答を得ております。玉城氏の方を至急御督促願います。氏のはすでに一端《ママ》できた原稿について、小生及び羽仁氏から数度に亘って詳細な批判と指示を与えてあり、三月中にでき上る約束で稿料も前渡ししてあるのですから、幕末史の報告がなされていないと云うような口実は成立たないと思います。玉城氏に対しては羽仁氏の方からも督促して戴きたいと思います。\n\n月報の原稿は何か雑感風のものを半ビラで十枚位《ママ》内の程度で口述し数日中に送りますからよろしく願います。",
+      "characters": 296,
+      "ruby": []
+    }
+  ]
+}

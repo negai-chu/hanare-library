@@ -1,0 +1,48 @@
+{
+  "id": "a053557",
+  "title": "小曲集",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小曲集",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小曲集",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　×\n\n千鳥あし\n\nやつこらさと來て見れば\n\nにくい伯母御にしめ出され\n\n泣くに泣かれずちんちろり\n\n柳の下でひとくさり\n\n　　　×\n\n隣きんじよのお根ん性に\n\n打たれ抓められくすぐられ",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "じつと涙をかみしめる\n\n青い毛糸の指ざはり",
+      "characters": 21,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053397",
+  "title": "〔そのかたち収得に似て〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔そのかたち収得に似て〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 29,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔そのかたち収得に似て〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　そのかたち収得に似て\n\n面赤く鼻たくましき\n\nその云ふや声肝にあり\n\nその行くや犠を索むる",
+      "characters": 46,
+      "ruby": []
+    }
+  ]
+}

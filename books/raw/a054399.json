@@ -1,0 +1,48 @@
+{
+  "id": "a054399",
+  "title": "寧日",
+  "author": "山口芳光",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "寧日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "寧日",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "母、吾が為に\n\n鼠の子虫籠に入れて与へぬ\n\n病間の徒然なる\n\n吾指もて小づき戯れ\n\n心明るう時を経にけり。\n\nあはれ鼠の子まこと子なれば\n\n耳孕桃色に　血管《ちすぢ》の脈打つも生物《いきもの》らしく\n\n今は前肢を捧げ餌食みゐるもたけし。\n\nやがて夕べの風出でぬ――時を経ぬ間に",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "何時か牛乳《ちち》の時間となりぬれば\n\n吾鼠の事も忘れ\n\n青葉繁れる窓に\n\n牛乳《ちち》を飲みゐたり。",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

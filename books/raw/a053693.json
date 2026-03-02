@@ -1,0 +1,54 @@
+{
+  "id": "a053693",
+  "title": "▽ノ遊戯――",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "▽ノ遊戯――",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "▽ノ遊戯――",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "紙製ノ蛇ガ紙製ノ蛇デアルトスレバ\n\n▽ハ蛇デアル\n\n▽ハ踊ツタ\n\n▽ノ笑ヒヲ笑フノハ破格デアツテ可笑シクアツタ\n\nすりつぱガ地面ヲ離レナイノハ余リ鬼気迫ルコトダ\n\n▽ノ目ハ冬眠デアル\n\n▽ハ電燈ヲ三等ノ太陽ト知ル\n\n　　　　　×\n\n▽ハ何所ヘ行ツタカ",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ココハ煙突ノてつ片デアルカ\n\n俺ノ呼吸ハ平常デアル\n\n而シテたんぐすてんハ何デアルカ\n\n（何ンデモナイ）\n\n屈曲シタ直線\n\nソレハ白金ト反射係数ヲ相等シクスル\n\n▽ハてーぶるノ下ニ隠レタカ\n\n　　　　　×\n\n１",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "２\n\n３\n\n３ハ公倍数ノ征伐ニ赴イタ\n\n電報ハ来テイナイ\n\n１９３１・６・５",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

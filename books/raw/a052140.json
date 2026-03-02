@@ -1,0 +1,42 @@
+{
+  "id": "a052140",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "玄道先生唯今御入来相成候、依而《（よつて）》雅兄早御出被レ下（（くだされ））ず候てハ、天下の儀《（ママ）》論初《（はじま）》りかね申候。\n\n何卒御足おすゝめさせたまへと申すハ\n\n十六日龍馬\n\n　伊藤先生坂本\n足下",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053412",
+  "title": "宗谷〔一〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "宗谷〔一〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "宗谷〔一〕",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　まくろなる流れの岸に\n\n根株燃すゆふべのけむり\n\nこらつどひかたみに舞ひて\n\nたんぽゝの白き毛をふく\n\n丘の上のスリッパ小屋に\n\n媼ゐてむすめらに云ふ\n\nかくてしも畑みな成りて\n\nあらたなる艱苦ひらくと",
+      "characters": 102,
+      "ruby": []
+    }
+  ]
+}

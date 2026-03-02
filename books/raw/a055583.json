@@ -1,0 +1,54 @@
+{
+  "id": "a055583",
+  "title": "街の子等",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街の子等",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街の子等",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "街の子は今日も遊んでいた\n\nそしてふと子供の一人が大声で言った\n\n「やあい　キョウサントウ！」\n\nいい声だそしていい言葉だ　空間は完全にこの声に貫かれた\n\n「やあい　キョウサントウ！」\n\n鬼ごっこで仲間の一人が捕ったので思い出したこの言葉\n\nだが、これはただの言葉でない、\n\n街の子が言うほどの遊びながら呼ぶほどの\n\n捕まったので思い出したほどの言葉なれど",
+      "characters": 178,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "この時代にはこの言葉に総身の毛をよだてている人間がいるのだ\n\nその時ふと。\n\n一人で通りかかった男が潜っている党員で\n\n胸の中に何を考えたか\n\n街の子はそれを感ずく筈もない\n\nそして又　もう一度\n\n「やあい　キョウサントウ！」\n\n街の子は面白い言葉を発見したつもりで叫ぶ\n\nそしてやがて奪われた子を奪い返しに",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "猛然とはげしく突かかってゆく",
+      "characters": 14,
+      "ruby": []
+    }
+  ]
+}

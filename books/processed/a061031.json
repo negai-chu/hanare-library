@@ -1,0 +1,42 @@
+{
+  "id": "a061031",
+  "title": "心臓",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "心臓",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "心臓",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　心臓の上に重い石が載っている\n\n心臓は重い石の下でメートルグラスをつかまされている\n\nメートルグラスの中には何も入っていない\n\nそしてメートルグラスに革のムチが下がっている\n\n革のムチに鮮やかに濃い字が記されている\n\n正しく適切にと\n\n心臓は破れて血を出しながらふるえている",
+      "characters": 138,
+      "ruby": []
+    }
+  ]
+}

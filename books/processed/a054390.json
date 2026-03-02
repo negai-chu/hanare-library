@@ -1,0 +1,42 @@
+{
+  "id": "a054390",
+  "title": "残像",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "残像",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "残像",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　翳だけがささへてゐる\n\nあなたの重量から\n\nゆめの耳もみえない\n\n疲れのやうに羞んで\n\nよりそへば傷ついてゐる言葉たち\n\nどもつて吃つてわたしは\n\nじぶんの位置をかんがへる",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

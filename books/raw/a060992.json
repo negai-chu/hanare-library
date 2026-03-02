@@ -1,0 +1,48 @@
+{
+  "id": "a060992",
+  "title": "水のほとりに",
+  "author": "三富朽葉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水のほとりに",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水のほとりに",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "水の辺《ほと》りに零《こぼ》れる\n\n響ない真昼の樹魂《こだま》。\n\n物のおもひの降り注ぐ\n\nはてしなさ。\n\n充《み》ちて消えゆく\n\nもだしの応《こた》へ。\n\n水のほとりに生もなく死もなく、\n\n声ない歌、\n\n書かれぬ詩、",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いづれか美《うるは》しからぬ自らがあらう？\n\nたまたま過ぎる人の姿、獣のかげ、\n\nそれは皆遠くへ行くのだ。\n\n色、\n\n香《か》、\n\n光り、\n\n永遠に続く中《なか》。",
+      "characters": 82,
+      "ruby": []
+    }
+  ]
+}

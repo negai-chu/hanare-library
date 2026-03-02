@@ -1,0 +1,42 @@
+{
+  "id": "a055034",
+  "title": "某",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "某",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 127,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "某",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　初夏ともなれば百円ぐらゐのパナマ帽がいたについて見ばえのある風格をみよ\nちと遊びに来給へと名刺をくれるのだ\n名刺といへばかれもまた一流の名士にして普く\n八方に疎通してあますところは無いのである\nさつそく鄭重な御供物をおくり盛大な葬儀に列してゐるを見る\n門札をうつて居を構へてゐる\nその収入の道その収入のほどは　否　税務署の吏員氏さへ難渋するのだから　今　これを窺ふべくもないのである\n午後かれを訪問すれば　したしく応接間に召じいれ\n熱あり　魅力あり　その広範な経綸は倦ませず若いものを鼓舞するに足るのである",
+      "characters": 254,
+      "ruby": []
+    }
+  ]
+}

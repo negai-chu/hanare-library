@@ -1,0 +1,48 @@
+{
+  "id": "a053846",
+  "title": "水兵さん",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水兵さん",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水兵さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "水兵さんのまちを\n\n水兵さんがとほる\n\n　タツプ　タツプ　タツプ\n\n水兵さんだ水兵さん\n\n水兵さんと水兵さん\n\n　タツプ　タツプ　タツプ\n\nセイラアパンツ\n\nパンツとパンツ\n\n　タツプ　タツプ　タツプ",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "どこまでつゞく\n\nアカシヤ並木\n\n　タツプ　タツプ　タツプ",
+      "characters": 29,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a003705",
+  "title": "強い影響を与えた点で",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "強い影響を与えた点で",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "強い影響を与えた点で",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　今年は、九月の太陽に「我に叛く」を発表したぎりでございました。従って、此処に改めて述ぶべきほどの感想も持合わせません。只あの作は、自分並私人的周囲に強い影響を与えたと云う点で、忘られないものになりました。\n\n〔一九二一年十二月〕",
+      "characters": 115,
+      "ruby": []
+    }
+  ]
+}

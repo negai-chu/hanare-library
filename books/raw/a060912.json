@@ -1,0 +1,42 @@
+{
+  "id": "a060912",
+  "title": "眼",
+  "author": "片山敏彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "眼",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "眼",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "寂寥《せきれう》の中で見開く眼がある\n\nおもむろな、必然な絶望の中で生きて来る眼がある。\n\nその眼は\n\n非合理的に歓喜する。\n\n悲しいから信仰に澄む。\n\nあゝ　その眼にうつる風景の\n\nひろびろたる\n\n不思議な円《ま》ろさ。",
+      "characters": 111,
+      "ruby": []
+    }
+  ]
+}

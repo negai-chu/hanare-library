@@ -1,0 +1,54 @@
+{
+  "id": "a053581",
+  "title": "黎明と樹木",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "黎明と樹木",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "黎明と樹木",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "この青くしなへる指をくみ合せ、\n\n夜あけぬ前に祈るなる、\n\nいのちの寂しさきはまりなく、\n\nあたりにむらがる友を求む。\n\nそこにふるへ、\n\nかくれつつうかがひのぞく榎あり、\n\nいのりつつ、一心に幹をけづりしに、\n\n樹樹《きぎ》はつめたく去り行けり。\n\nみなつらなめて逃れゆく、",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "黎明の林を出づる旅びとら、\n\nその足竝《あしなみ》に音はなけれど、\n\n水ながれいでて靴のかかとをうるほせり。\n\nかくばかり我に信なきともがらに、\n\nなにのかかはりあるべしやは、\n\n空しく坐して祈り、\n\n遠き遍路に消え殘る雪を光らしむ、\n\nいのちはひとりのもの、\n\nただ我が信願をかくるにより、",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "木ぬれにかかり、\n\n有明の月もしらみてふるへ悲しめり。",
+      "characters": 27,
+      "ruby": []
+    }
+  ]
+}

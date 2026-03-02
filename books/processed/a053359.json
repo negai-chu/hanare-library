@@ -1,0 +1,84 @@
+{
+  "id": "a053359",
+  "title": "〔ながれたり〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 9
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔ながれたり〕",
+        "startPage": 1,
+        "endPage": 9
+      }
+    ],
+    "totalPages": 9,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔ながれたり〕",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ながれたり\n\n　　夜はあやしく陥りて\n\n　　ゆらぎ出でしは一むらの\n\n　　陰極線の盲《しひ》あかり\n\n　　また螢光の青らむと\n\n　　かなしく白き偏光の類\n\nましろに寒き川のさま\n\n地平わづかに赤らむは\n\nあかつきとこそ覚ゆなれ",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　　　（そもこれはいづちの川のけしきぞも）\n\nげにながれたり水のいろ\n\nながれたりげに水のいろ\n\nこのあかつきの水のさま\n\nはてさへしらにながれたり\n\n　　　　（そもこれはいづちの川のけしきぞも）\n\n明るくかろき水のさま\n\n寒くあかるき水のさま\n\n　　　　（水いろなせる川の水",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　　　　　水いろ川の川水を\n\n　　　　　何かはしらねみづいろの\n\n　　　　　かたちあるものながれ行く）\n\n青ざめし人と屍　数もしら\n\n水にもまれてくだり行く\n\n水いろの水と屍　数もしら\n\n　　　　（流れたりげに流れたり）\n\nまた下りくる大筏\n\nまなじり深く鼻高く",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "腕うちくみてみめぐらし\n\n一人の男うち座する\n\n見ずや筏は水いろの\n\n屍よりぞ組み成さる\n\n髪みだれたるわかものの\n\n筏のはじにとりつけば\n\n筏のあるじ瞳《まみ》赤く\n\n頬にひらめくいかりして\n\nわかものの手を解き去りぬ",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "げにながれたり水のいろ\n\nながれたりげに水のいろ\n\nこのあかつきの水のさま\n\nはてさへしらにながれたり\n\n共にあをざめ救はんと\n\n流れの中に相寄れる\n\n今は却りて争へば\n\nその髪みだれ行けるあり\n\n　　　　（対岸の空うち爛れ",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "　　　　　赤きは何のけしきぞも）\n\n流れたりげに流れたり\n\nはてさへしらにながるれば\n\nわが眼はつかれいまはさて\n\nものおしなべてうちかすみ\n\nたゞほのじろの川水と\n\nうすらあかるきそらのさま\n\nおゝ頭ばかり頭ばかり\n\nきりきりきりとはぎしりし",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "流れを切りてくるもあり\n\n死人の肩を噛めるもの\n\nさらに死人のせを噛めば\n\nさめて怒れるものもあり\n\nながれたりげにながれたり\n\n川水軽くかゞやきて\n\nたゞ速かにながれたり\n\n　　　　（そもこれはいづちの川のけしきぞも\n\n　　　　　人と屍と群れながれたり）",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "あゝ流れたり流れたり\n\n水いろなせる屍と\n\n人とをのせて水いろの\n\n水ははてなく流れたり",
+      "characters": 44,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055022",
+  "title": "晴天",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "晴天",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 36,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "晴天",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "僕はまどに凭つてひとを待つ\n\n空は\n\n青い空は晴れるばかり\n\nどこか　格納庫のよこで一等飛行士は眺めてゐる\n\n空を空を\n\n彼のうへに晴れる空を",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

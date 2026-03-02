@@ -1,0 +1,48 @@
+{
+  "id": "a045044",
+  "title": "おや雀",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おや雀",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おや雀",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おや雀\n\nもう日が暮れる\n\nくらくなる\n\n日がくれて\n\nくらくなつたら\n\nどうしよう\n\n何処《どこ》に行かう\n\nぼつちやん\n\nわたしの巣をかへせ",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "子どもをかへせ",
+      "characters": 7,
+      "ruby": []
+    }
+  ]
+}

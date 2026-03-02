@@ -1,0 +1,54 @@
+{
+  "id": "a045119",
+  "title": "積木の町",
+  "author": "スティーブンソンロバート・ルイス",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "積木の町",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "積木の町",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "積木で何でも造られる。\n\nお城や宮殿、寺、波止場。\n\n外では雨が降つてても\n\nお家で私は積木する。\n\n敷布は海でソファは山、\n\n私はそこに町たてよう。\n\nお寺や水車や宮殿や、\n\nそして波止場や舩までも。\n\n柱や壁のでかいやつ、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "屋根には塔もおつたてよう。\n\n階段などもつけてやらう。\n\nそこには私の舩が来る。\n\n波止場につく舩、沖の舩、\n\nきけば水夫の歌の声。\n\nほうら階段おりて来る、\n\nおくりもの持つ王様が。\n\nもう飽いちやつた、もう止さう。\n\nがらんと町はこはれちやふ。",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "積木はごちやごちやしてしまふ。\n\nもうあの町は何もない。\n\nけれど、あの町まだ見える。\n\nお寺や宮殿、舩、水夫。\n\n私が大人になつたつて、\n\n私はあの町、思出さう。",
+      "characters": 82,
+      "ruby": []
+    }
+  ]
+}

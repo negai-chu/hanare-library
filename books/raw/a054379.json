@@ -1,0 +1,48 @@
+{
+  "id": "a054379",
+  "title": "別れ",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "別れ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "別れ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゆふぐれを君みおくりて\n\nばらの実の丘にのぼりつ\n\n鳩笛のおとに濡れゆく\n\nよは肩の君のほそさよ\n\nこの赤きばらの木の実を\n\nをとめの日君はめでしに\n\nおそ秋の小径に消ゆる\n\nうしろ姿《て》の君は悲しき\n\n暮れなやむ丘にたたずみ",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ばらの実をしみじみとみき",
+      "characters": 12,
+      "ruby": []
+    }
+  ]
+}

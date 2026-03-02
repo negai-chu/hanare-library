@@ -1,0 +1,54 @@
+{
+  "id": "a053357",
+  "title": "〔われ聴衆に会釈して〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔われ聴衆に会釈して〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔われ聴衆に会釈して〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "われ聴衆に会釈して\n\n歌ひ出でんとしたるとき\n\n突如下手の幕かげに\n\nまづおぼろなる銅鑼鳴りて\n\nやがてジロフォンみだれうつ\n\nわが立ち惑ふそのひまに\n\n琴はいよよに烈しくて\n\nそはかの支那の小娘と\n\nわれとが潔き愛恋を",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あらぬかたちに歪めなし\n\n描きあざけり罵りて\n\n衆意を迎ふるさまなりき\n\nそを一すぢのたはむれと\n\nなすべき才もあらざれば\n\nたゞ胸あつく頬つりて\n\n呆けたるごとくわが立てば\n\nもろびとどつと声あげて\n\nいよよにわれをあざみけり",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "このこともとしわが敵の\n\nかの腹円きセロ弾きが\n\nわざとはわれも知りしかど",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

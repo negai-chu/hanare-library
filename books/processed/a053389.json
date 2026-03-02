@@ -1,0 +1,42 @@
+{
+  "id": "a053389",
+  "title": "病中幻想",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "病中幻想",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "病中幻想",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　罪はいま疾《やまひ》にかはり\n\nたよりなくわれは騰りて\n\n野のそらにひとりまどろむ\n\n太虚ひかりてはてしなく\n\n身は水素より軽ければ\n\nまた耕さんすべもなし\n\nせめてはかしこ黒と白\n\n立ち並びたる積雲を\n\n雨と崩して堕ちなんを",
+      "characters": 114,
+      "ruby": []
+    }
+  ]
+}

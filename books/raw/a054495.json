@@ -1,0 +1,42 @@
+{
+  "id": "a054495",
+  "title": "悪夢",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "悪夢",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "悪夢",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "こは悪夢《あくむ》、あゝ神よ、\n\n夢はふたたび見せざれな、\n\nわれには斯かる嫉み無し。\n\n貴《あて》に（らふ）たきをみなごは\n\nあまたの人に思はれよ。\n\nかく思ひ、わかるゝ日、\n\n笑みやはらかに、君が手を\n\n握りつゝ拝《はい》しけり。",
+      "characters": 117,
+      "ruby": []
+    }
+  ]
+}

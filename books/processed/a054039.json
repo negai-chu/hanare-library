@@ -1,0 +1,48 @@
+{
+  "id": "a054039",
+  "title": "たんぽぽとおれの感傷",
+  "author": "陀田勘助",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "たんぽぽとおれの感傷",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "たんぽぽとおれの感傷",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　春の訪れをまっ先に知らせてくれた\n\n黄色に輝くたんぽぽの花よ、\n\nいま恍惚と夢見るように\n\nまっしろな球形の頭を微風になびかして\n\n音もなくふっわりと羽蟻のごとく飛びゆく数々の種子は\n\n青空の彼方へ\n\n飛び行く種子よ！\n\n周囲に呻吟するおれの希望を、思想を\n\n雁のごとく伝波せよ",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "そして来たるべき春に\n\n雨・風・嵐に打ち勝って\n\n工場の屋根に、野原に、ビルディングの窓に\n\n鮮やかな黄色な花を開け！\n\n（獄中から鶴巻盛一宛書簡一九三〇年五月十四日付　『陀田勘助詩集』を底本）",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

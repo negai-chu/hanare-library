@@ -1,0 +1,54 @@
+{
+  "id": "a054142",
+  "title": "老いらくの身をはるばると",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "老いらくの身をはるばると",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "老いらくの身をはるばると",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "このあしたわがふるさとゆ\n\nははそはの母はきたまふ\n\nおんくるまうまやにつかせ\n\nたまふにはいとまありけり\n\nわれひとりなぎさにいでて\n\n冬の日のほのかほのかに\n\nあたたかき濱のおほなみ\n\nひるがへる見つつたのしも\n\n眞鶴《まなづる》の崎の巖が根",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "大島のはるけき烟\n\n見はるかしゐつつたのしも\n\nあはれよないつかその子も\n\n皺だたみ老いんとすらん\n\nまづしかる旅のすみかに\n\nははそはの母はおとなひ\n\nたまふなり師走のあした\n\nくさも木もおほかた枯れて\n\nそら青きをちの國ぐに",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "山川のはるけきをへて\n\nおんくるまいましきたまふ\n\nさねさし相模の小野に\n\nおんくるま走らひきたる\n\nころをしも待ちつつたのし",
+      "characters": 63,
+      "ruby": []
+    }
+  ]
+}

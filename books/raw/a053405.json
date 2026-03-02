@@ -1,0 +1,48 @@
+{
+  "id": "a053405",
+  "title": "国柱会",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "国柱会",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "国柱会",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "外の面には春日うららに\n\nありとあるひびきなせるを\n\n灰いろのこの館には\n\n百の人けはひだになし\n\n台の上桜はなさき\n\n行楽の士女さゞめかん\n\nこの館はひえびえとして\n\n泉石をうち繞りたり\n\n大居士は眼をいたみ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "はや三月の人の見るなく\n\n智応氏はのどをいたづき\n\n巾巻きて廊に按ぜり\n\n崖下にまた笛鳴りて\n\n東へととゞろき行くは\n\n北国の春の光を\n\n百里経て汽車の着きけん",
+      "characters": 80,
+      "ruby": []
+    }
+  ]
+}

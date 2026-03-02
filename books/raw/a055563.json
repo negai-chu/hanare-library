@@ -1,0 +1,42 @@
+{
+  "id": "a055563",
+  "title": "白光礼讃",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "白光礼讃",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "白光礼讃",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "明るい北国の十二月\n終日雪は降っていた\n一尺、二尺、それは容易な大空の変化のページェント\n又軽やかに香う土へのプレゼント\n　　　　＊\n或日その前夜を名残に、吹雪は綺麗に止んでいた、そして北国のヌタプカムシペ連峯と上川平野の野原とに\nそれは雪国の特有な白光を輝かせて\n天への一大讃歌をあげていた",
+      "characters": 146,
+      "ruby": []
+    }
+  ]
+}

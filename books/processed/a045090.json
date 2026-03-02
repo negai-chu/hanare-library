@@ -1,0 +1,54 @@
+{
+  "id": "a045090",
+  "title": "デパートの窓",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "デパートの窓",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "デパートの窓",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　デパートの窓の、\n\nカーテンがするりとあいた。\n\n時計がカン／＼六つなる。\n\nデパートの窓から、\n\nパンをやくにほひがながれた。\n\n時計がカン／＼八つなる。\n\nデパートの窓に、\n\nパラソルの花がひらいた。\n\n時計がカン／＼十もなる。",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "デパートの窓に、\n\nソーダ水を、三人すつた。\n\n時計がカン／＼十二なる。\n\nデパートの窓から、\n\nカン／＼帽子落とした。\n\n時計がカン／＼二つなる。\n\nデパートの窓から、\n\nゆつくりと雲が出た。\n\n時計がカン／＼四つなる。",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "デパートの窓から、\n\nシヤボンのにほひがながれた。\n\n時計がカン／＼六つなる。\n\nデパートの窓に、\n\nカーテンがするりとひかれた。\n\n時計がカン／＼八つなる。",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054223",
+  "title": "おさんどん",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おさんどん",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おさんどん",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おさんどんが舟こいだ\n\n真黒《マックロ》どんが舟こいだ\n\nそんなに舟こいでどこへ行く\n\n夢のお国へよめ入に\n\n誰がなかうどしましたか\n\nなかうどはきつねでございます\n\n「それ見ろ、きつねにだまされた\n\n　大方よめ入りするなんて\n\n　お釜の所へ行くのだろ」（大正十一・七・一一）",
+      "characters": 139,
+      "ruby": []
+    }
+  ]
+}

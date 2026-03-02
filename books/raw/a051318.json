@@ -1,0 +1,48 @@
+{
+  "id": "a051318",
+  "title": "詩人は辛い",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "詩人は辛い",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "詩人は辛い",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私はもう歌なぞ歌はない\n\n誰が歌なぞ歌ふものか\n\nみんな歌なぞ聴いてはゐない\n\n聴いてるやうなふりだけはする\n\nみんなたゞ冷たい心を持つてゐて\n\n歌なぞどうだつてかまはないのだ\n\nそれなのに聴いてるやうなふりはする\n\nそして盛んに拍手を送る\n\n拍手を送るからもう一つ歌はうとすると",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "もう沢山といつた顔\n\n私はもう歌なぞ歌はない\n\nこんな御都合な世の中に歌なぞ歌はない\n\n（一九三五・九・一九）",
+      "characters": 55,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a058608",
+  "title": "三色旗",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "三色旗",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 12,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "三色旗",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　微風\n\n晴れ\n\n雪の窓に\n\n葡萄酒を飮む",
+      "characters": 21,
+      "ruby": []
+    }
+  ]
+}

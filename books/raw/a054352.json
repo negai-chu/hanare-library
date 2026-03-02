@@ -1,0 +1,60 @@
+{
+  "id": "a054352",
+  "title": "廃園",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "廃園",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "廃園",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "骨を折る音\n\nその音のなかに\n\n流れる水は乾き\n\n菫色の空は落ちて\n\n石に濡れた額は傾くままに眠つた\n\nみえない推移の重さに\n\nみえない推移の重さに\n\n眼をとぢて凍える半身は\n\n崩れるもの影とともに忘却をまつた",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "想ひ出せないのか\n\nゆくひとよ\n\nかつては水の美しい\n\nこりんとの町にゐたことを\n\nいちどゆけばもはや帰れないことを\n\nいつからおまへは覚えたのか\n\n梢ちかく羽ばたく音はなく\n\n背中につつかかる微風は更になく\n\n花の根も枯れてしまつたか",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "まへにあつた園は荒れ果て\n\nおまへが創つた黄昏のなかには\n\n凭れかかる肩もなく\n\n壊れてゐる家具さへない\n\nそこここの傷痕からあふれる明りも\n\nただ暗い調和のうちに消えてゐるではないか\n\nどうして倒れるやうに\n\n生命の佗しい地方へかへつて来たのか\n\n骨を折る音",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "その音とともに\n\n風が立つ　いちぢるしく\n\nおまへのなかから風が立つ\n\nその風は\n\nしびれるやうにわたしを貫いて吹く",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a048490",
+  "title": "渚",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 1
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "渚",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 1,
+    "averageCharsPerPage": 1,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "渚",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a057430",
+  "title": "山の歓喜",
+  "author": "河井酔茗",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "山の歓喜",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "山の歓喜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あらゆる山が歓《よろこ》んでゐる\n\nあらゆる山が語つてゐる\n\nあらゆる山が足ぶみして舞ふ、躍る\n\nあちらむく山と\n\nこちらむく山と\n\n合つたり\n\n離れたり\n\n出てくる山と\n\nかくれる山と",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "低くなり\n\n高くなり\n\n家族のやうに親しい山と\n\n他人のやうに疎《うと》い山と\n\n遠くなり\n\n近くなり\n\nあらゆる山が\n\n山の日に歓喜し\n\n山の愛にうなづき",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "今や\n\n生のかがやきは\n\n空いつぱいにひろがつてゐる",
+      "characters": 26,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a002694",
+  "title": "樹木とその葉",
+  "author": "若山牧水",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "樹木とその葉",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 156,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "樹木とその葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　大正十年の春から同十三年の秋までに書いた隨筆を輯めてこの一册を編んだ。並べた順序は不同である。\n\n　何々の題目に就き、何日までに、何枚位ゐ書いてほしいといふ註文を受けて書いたものばかりである。\n\n　なほ、非常に編輯を急いだため、当然爲さねばならなかつた取捨をようしなかつたので多少文章に重複した様なところなどあるのを校正の際に發見し、誠に申譯なく思ふ。\n\n　とにかく序歌にも云つてある通り、幼く且つ拙いものゝみである。一册となればなほ一層それが目立つであらう。それを充分見詰むることによつて多少とも今後によき文章が書けたならば難有いと思ふのである。\n\n　　大正十四年二月初旬\n\n沼津千本松原の蔭なる寓居にて\n著者",
+      "characters": 307,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053930",
+  "title": "散髪屋の夜",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "散髪屋の夜",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "散髪屋の夜",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　さんぱつやの　窓の月は\n\nくさい髮の　にほひがする\n\nみゝずが　細々と泪の音をたてゝゐる\n\nそんなに月がかなしいのかい\n\n痩せきつた　俺のからだに\n\n夏が　夏が\n\nしんみりと重たい",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

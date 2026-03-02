@@ -1,0 +1,48 @@
+{
+  "id": "a053855",
+  "title": "港にはいる汽船",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "港にはいる汽船",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "港にはいる汽船",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "みなとの海は\n\n　みどりのびろうど\n\nテーブル掛のやうな\n\n　白い船がはいる\n\n汽笛はふくれて\n\n　みなとにあふれる\n\nみんなデツキで\n\n　こちらをみてる\n\n空からひらりと",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　ハンケチ落ちた\n\nちがふあれだよ\n\n　白いかもめよ",
+      "characters": 26,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a059058",
+  "title": "スペインの女",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "スペインの女",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "スペインの女",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "軍服をつけ\n\n銃を肩に\n\n立ち上がったこの姿を見よ\n\n沈着と決意に動かぬ\n\nこの勢揃いを見よ\n\n彼女らの全身の血の集中！\n\nすべてを明日に\n\n未来にかけ\n\n今日",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "立ちふさぐ我ら日本の女\n\n我らの目はあつく燃える\n\n正義と愛と憎しみとに波打つ\n\nその立派なたくましい\n\n彼女らの整列の上に",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

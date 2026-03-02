@@ -1,0 +1,42 @@
+{
+  "id": "a055595",
+  "title": "土",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "土",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "土",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ギリシャ古典の趾《のこ》せる物語りをも\n\n空理としてさげすむ勿《なか》れ\n\n吾等生命は土深く埋もれし精霊なりき\n\n神によりてつくられし形態をこそ讃美せる\n\n女人像の豊満なる肉体美をこそ讃美せよ\n\n曲線美なだらかに走れるあたりを讃美せよ\n\n而《しか》して土への感謝祭を\n\n土　そは\n\n生命偶像の聖母なりし",
+      "characters": 151,
+      "ruby": []
+    }
+  ]
+}

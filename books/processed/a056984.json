@@ -1,0 +1,188 @@
+{
+  "id": "a056984",
+  "title": "岸辺",
+  "author": "蔵原伸二郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 20
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "岸辺",
+        "startPage": 1,
+        "endPage": 18,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "岸辺",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "不在の人",
+            "startPage": 4,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "昨日の映像",
+            "startPage": 7,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "故郷",
+            "startPage": 9,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "壺",
+            "startPage": 11,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "鴉",
+            "startPage": 14,
+            "endPage": 16
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "暗号",
+            "startPage": 17,
+            "endPage": 18
+          }
+        ]
+      }
+    ],
+    "totalPages": 18,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "岸辺",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　冬の日がかんかん照つていた\n\n川岸の枯草の中から首だけ出して\n\n八十九歳の老人が釣をしていた\n\n釣竿をもつたまま\n\n水に映るちぎれ雲の間をおよぐ\n\n冬の魚たちと昔話をしながら\n\n老人は死んでいた\n\nちかちかと\n\n日はかたむいていた",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "一匹の紋白蝶が\n\nよたよたと向う岸に渡つていつた\n\n魚たちが老人を呼んでいた\n\n赤い小さなうきが\n\nかすかな波紋をおこして\n\n沈んだり浮いたりしている",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "不在の人",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "山すその丘に\n\n古い観音堂がたつている\n\nそこに住む僧を訪ねた\n\n新茶をいつしよに飲もうと\n\n何度か来たのだが\n\nやつぱり　今日も不在だ\n\n堂は三方あけつぱなし\n\n火のない炉にほこりだらけの鍋がかかつて\n\n　いる",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "ぽつんと一つ\n\n染付の湯呑があつた\n\n風とともにシジミ蝶が飛んできて\n\n湯呑のふちに来てとまつた\n\n堂のむこうに\n\nめずらしく積乱雲の峰がまぶしい",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "昨日の映像",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "意識を失いかけたカマキリは\n\n斧を地平線の上に　ふりあげたまま\n\n走る雲を　ながめたまま\n\n枯草のてつぺんにしがみついたまま\n\n枯草がゆれるとカマキリもゆれる\n\nその青ガラスの瞳に映つているのは\n\n残照にかがやく地平線\n\n小さなシジミ蝶の小さな斑紋\n\n遠くでゆれているアザミの花それらはすべて昨日の映像のままだ",
+      "characters": 155,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "故郷",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "故郷をもたない男が\n\n故郷をおもつた\n\n故郷を思うとむやみに喉が渇いた\n\nいつも野原と空がむかい合つていた\n\nときどき雲があらわれ\n\nときどき雲が消え\n\nときどき草の間からバツタが飛んだ",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "壺",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 12,
+      "content": "千二百年前に\n\n一人の陶工が残したイメージが\n\n暮れなずむスカンポのやぶに\n\nころがつている\n\nスカンポの根は夕焼け色だ\n\nその人の創つたこの青い壺の形象から\n\nそのひとの姿がかすかに浮かびあがる\n\nその人は\n\n夕焼けいろの草むらから",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "音もなく立ちあがつたとおもうと\n\nびつこをひきひき\n\n千二百年の時を逆に歩きだした",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "鴉",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "広漠たる原野\n\n背に夕陽をうけて　軽快に\n\n飛んでいた　鴉が\n\n突然　死んだ\n\n鴉は高い空から垂直に落下した\n\nと同時に\n\nあかねいろにそまつた野の地平線から\n\n彼の大きな影が\n\n目にもとまらぬ速さで",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "じぶんの死骸にかけこんできた\n\nこの地球に偉大な影を落していた鴉は\n\n心臓マヒだつた",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "暗号",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "あの　時間を逆につたわつてくるものは\n\n　何だろう\n\n未来からの暗号\n\nあれは　しかし　人間のそれではない\n\nもちろん　ありもしない神なんかでもない\n\nあそこの沙漠の\n\nだんだん乾燥してゆく　抽象的な空の下で\n\n地上にのこされたたつた一本の草に\n\n　すがつて最後の蝶が発信しているのだ",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

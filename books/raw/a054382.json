@@ -1,0 +1,48 @@
+{
+  "id": "a054382",
+  "title": "幻燈",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "幻燈",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "幻燈",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "せるろいどのやうにふるへる\n\nむかしむかしのお姫さまよ\n\n童話の向ふから童話のやうに掌をあげて\n\n黒びらうどの青い喪服《もふく》がよく似合ふ\n\nあれ　あれ　木馬《もくば》もお通りなさる\n\nがた　がた　首をゆさぶり\n\nはげ落ちた灰色の眼で何を見つめるのやら\n\nみんなみんな蒼白《あをじろ》いせるろいどの向ふよ\n\nみんなみんな幻燈《げんとう》の様に通りすぎた昔よ",
+      "characters": 179,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "黒びらうどのお姫さまよ\n\nはげ落ちて歩けない木馬よ\n\n幻燈の後《あと》に残されたわたしよ\n\n一枚の絵のないふいるむよ",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

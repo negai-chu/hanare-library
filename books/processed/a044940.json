@@ -1,0 +1,54 @@
+{
+  "id": "a044940",
+  "title": "ユキ　ノ　トンネル",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ユキ　ノ　トンネル",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ユキ　ノ　トンネル",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　トンネル\n\nトンネル\n\nトンネルアケロ\n\nココハ天下ノ大通リ\n\n山ガアツテハヂヤマニナル\n\nトンネル\n\nトンネル\n\nトンネルホリハ\n\nコツチガハカラ太郎ト次郎",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "向フガハカラ三郎ト四郎\n\nトンネル\n\nトンネル\n\nトンネルホリノ\n\n見物人ハ一子《イチコ》と二三子《フミコ》\n\nポチモスワツテミテオイデ\n\nトンネル\n\nトンネル\n\nトンネルアケロ",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "苦心ノ工事ダアセガデル\n\nドツチガ早イカ競争ダ\n\nトンネル\n\nトンネル\n\nトンネルアイタ\n\nユキノトンネルモグツテ通リ\n\n一番列車ダ　ヤアシツケイ",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

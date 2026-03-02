@@ -1,0 +1,42 @@
+{
+  "id": "a052151",
+  "title": "俚謡二",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "俚謡二",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 128,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "俚謡二",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　こい《（恋）》わしはん《（思案）》のほかとやら　あなど《（長門）》のせとのいなりまち《（稲荷町）》　ねこもしやくしもおもしろふ　あそぶくるわ《（廓）》のはるげしき《（春景色）》　ここにひとりのさるまハし《（猿廻し）》　たぬきいつぴき《（一匹）》ふりすてゝ　義利《（理）》もなさけもなきなみだ《（涙）》　ほかにこゝろハあるまいと　かけてちかいし山の神　うちにいるのにこゝろのやみぢ《（闇路）》　さぐり／＼て　いでゝ行\n\nとんとんと登る梯子の真中程で　国を去つて薩摩同志　楼に上る貧乏の春　辛抱しやんせと目に涙",
+      "characters": 254,
+      "ruby": []
+    }
+  ]
+}

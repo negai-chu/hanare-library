@@ -1,0 +1,42 @@
+{
+  "id": "a003848",
+  "title": "「洋装か和装か」への回答",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「洋装か和装か」への回答",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「洋装か和装か」への回答",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　日本服も洋服も、本ものなら負けず劣らず美しいからすきです。\n\n　自分がきるのでは、現在の自己の環境のために和装一方です。\n\n〔一九二五年一月〕",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

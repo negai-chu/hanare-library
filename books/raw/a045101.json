@@ -1,0 +1,48 @@
+{
+  "id": "a045101",
+  "title": "一れつ",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "一れつ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "一れつ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一れつ一れつならんでる、\n\n土人が浜べにならんでる。\n\n一れつ一れつならんでる、\n\nカヌーがなぎさにならんでる。\n\n一れつ一れつならんでる、\n\nわにの卵がならんでる。\n\n一れつ一れつならんでる、\n\nしげつたやしがならんでる。\n\n一れつ一れつならんでる、",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ひでりの雲がならんでる。\n\n一れつ一れつあゝみんな、\n\n水にうつつてならんでる。",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

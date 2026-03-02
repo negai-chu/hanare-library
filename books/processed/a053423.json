@@ -1,0 +1,48 @@
+{
+  "id": "a053423",
+  "title": "小祠",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小祠",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小祠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　赤き鳥居はあせたれど\n\n杉のうれ行く冬の雲\n\n野は殿堂の続きかな\n\nよくすかれたる日本紙は\n\n一年風に完けきと\n\n雪の反射に知りぬべし\n\nかしこは一の篩にて\n\nひとまづそこに香を浄み\n\n入り来るなりと云ひ伝ふ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "雪の堆のなかにして\n\nりゝと軋れる井戸車\n\n野は楽の音に充つるかな",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

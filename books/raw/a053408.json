@@ -1,0 +1,42 @@
+{
+  "id": "a053408",
+  "title": "僧園",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "僧園",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "僧園",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "星のけむりの下にして\n\n石組黒くひそめるを\n\nさもあしざまに鳴き棄てつ\n\nくわくこう一羽北に過ぎたり\n\n夜のもみぢの木もそびえ\n\n御堂の屋根も沈めるを\n\nさらに一羽の鳥ありて\n\n寒天質《アガーチナス》の闇に溶けたり",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

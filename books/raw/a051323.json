@@ -1,0 +1,48 @@
+{
+  "id": "a051323",
+  "title": "ダダ音楽の歌詞",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ダダ音楽の歌詞",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ダダ音楽の歌詞",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ウハキはハミガキ\n\nウハバミはウロコ\n\n太陽が落ちて\n\n太陽の世界が始つた\n\nテツポーは戸袋\n\nヒヨータンはキンチヤク\n\n太陽が上つて\n\n夜の世界が始つた\n\nオハグロは妖怪",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "下痢はトブクロ\n\nレイメイと日暮が直径を描いて\n\nダダの世界が始つた\n\n（それを釈迦が眺めて\n\nそれをキリストが感心する）",
+      "characters": 61,
+      "ruby": []
+    }
+  ]
+}

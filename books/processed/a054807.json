@@ -1,0 +1,48 @@
+{
+  "id": "a054807",
+  "title": "行軍二",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "行軍二",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "行軍二",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あの山を越えるとき\n\nおれたちは機関車のように　蒸気ばんでおった\n\nだまりこんで　がつんがつんと　あるいておった\n\n急に風がきて　白い雪のかたまりを　なげてよこした\n\n水筒の水は　口の中をガラスのように刺した\n\nあの山を越えるとき\n\nおれたちは焼ける樟樹《くすのき》であった\n\nいま　あの山は　まっ黒で\n\nその上に　ぎりぎりと　オリオン星がかがやいている",
+      "characters": 178,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "じっとこうして背嚢《はいのう》にもたれて\n\n地べたの上でいきづいていたものだ\n\nまたもや風がきて雨をおれたちの顔にかけていった",
+      "characters": 63,
+      "ruby": []
+    }
+  ]
+}

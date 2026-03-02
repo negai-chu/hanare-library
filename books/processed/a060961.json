@@ -1,0 +1,48 @@
+{
+  "id": "a060961",
+  "title": "幸福が遅く来たなら",
+  "author": "生田春月",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "幸福が遅く来たなら",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 129,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "幸福が遅く来たなら",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　『幸福』よ、巷《まち》で出逢《であ》つた見知らぬ人よ、\n\nお前の言葉は私に通じない！\n\n冷たい冷たいこの顔が、私の求めてゐたものだらうか？\n\nお前の顔は不思議な親《したし》みのないものに見える、\n\nそんなにお前は廿年、遠国をうろついてたんだ、\n\nお前はもはや私の『望』にさへ忘れてしまはれた！\n\nよしやお前が私の許嫁《いひなづけ》であつたにしても、\n\nあんまり遅く来た『幸福』を誰が信じるものか！\n\n私は蒼《あを》ざめた貧しい少女の手に眠る、",
+      "characters": 222,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "少女よ、どんなにお前は軟《やはら》かく、枕《まくら》のやうに\n\n夜毎《よごと》痛む頭《かしら》をさゝへてくれるだらう！\n\n少女よ、お前の名前は何と云ふ？\n\nもしか『嘆き』と云やせぬか？\n\nそんなら行つて『幸福』に言つてくれ、\n\nお前さんの来るのがあんまり遅《おそ》いので\n\nもはや私があの人のお嫁になりましたと！",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

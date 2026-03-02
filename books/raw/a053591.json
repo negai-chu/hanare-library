@@ -1,0 +1,48 @@
+{
+  "id": "a053591",
+  "title": "立秋",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "立秋",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "立秋",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "遠く行く君が手に、\n\n胡弓の箱はおもからむ。\n\nきのふ山より摘みてかへれば、\n\n紫苑はなしぼみて、\n\nすでに秋の愁ひをさそふ。\n\n友よ、\n\nやさしく胡弓を摩り、\n\n遠くよりしも光を送れ。\n\nああ、わが故郷にあるの日、",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "終日《ひねもす》怒りうゑを感じ、\n\n手を高く蒼天のうへに伸ぶ。\n\n―一九一四、八、十四―",
+      "characters": 44,
+      "ruby": []
+    }
+  ]
+}

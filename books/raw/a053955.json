@@ -1,0 +1,48 @@
+{
+  "id": "a053955",
+  "title": "争議の翌日",
+  "author": "賀川豊彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "争議の翌日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "争議の翌日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雨ふる日、\n\nさみだれの、\n\n小溝の流、\n\n渦巻きし、\n\n濁れる水に、\n\n小笹おち、\n\n吸われるように、\n\n流され行くを、\n\nじっと　眺めいる",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "自分の心。\n\n激動の\n\n同盟罷工の翌日――\n\n何とはなしに\n\n涙ぐまるるよ、\n\nおお　小笹の運命よ！\n\n小笹の運命よ！\n\n（近江八幡にて大電争議の翌日）\n（『改造』一九二一年七月号に「捷ちし日の翌日」と題して発表　一九六三年六月キリスト新聞社刊『賀川豊彦全集』第20巻を底本）",
+      "characters": 138,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053354",
+  "title": "楊林",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "楊林",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "楊林",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "エレキに魚をとるのみか\n\n鳥さへ犯すしれをのこ\n\n捕らでやまんと駐在の\n\n戸田巡査こそいかめしき\n\nまこと楊に磁の乗りて\n\n小鳥は鉄のたぐひかや\n\nひとむれさつと落ち入りて\n\nしらむ梢ぞあやしけれ",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

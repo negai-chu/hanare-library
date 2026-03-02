@@ -1,0 +1,48 @@
+{
+  "id": "a043841",
+  "title": "貝殻追放",
+  "author": "水上滝太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "貝殻追放",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 142,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "貝殻追放",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　大正七年一月　新聞記者を憎むの記　　　　　　三田文學\n\n　　　　一月　先生　　　　　　　　　　　大阪毎日新聞\n\n　　　　二月　汽車の旅　　　　　　　　　　　三田文學\n\n　　　　三月　ベルフアストの一日　　　　　　三田文學\n\n　　　　五月　「八千代集」を讀む　　　　　　三田文學\n\n　　　　六月　汽車の旅　　　　　　　　　　　三田文學\n\n　　　　七月　愚者の鼻息　　　　　　　　　　三田文學\n\n　　　　八月　「その春の頃」の序　　　　　　三田文學\n\n　　　　八月　購書美談　　　　　　　　　　　三田文學",
+      "characters": 251,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　　　八月　日曜　　　　　　　　　　　大阪毎日新聞\n\n　　　　九月　火事　　　　　　　　　　　　　三田文學\n\n　　　　九月　新嘉坡の一夜　　　　　　　　　　新小説\n\n　　　　十月　向不見の強味　　　　　　　　　三田文學\n\n　　　十一月　向不見の強味（續）　　　　　　三田文學\n\n特に述ぶ可き感想無之候　　　以上\n\n――「新潮」大正七年十二月號",
+      "characters": 172,
+      "ruby": []
+    }
+  ]
+}

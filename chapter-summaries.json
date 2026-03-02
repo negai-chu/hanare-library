@@ -1,0 +1,1866 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-02T10:59:23.382Z",
+  "summaries": [
+    {
+      "bookId": "kokoro",
+      "bookTitle": "こころ",
+      "chapterId": "part1",
+      "chapterTitle": "上　先生と私",
+      "summary": "鎌倉の海辺で「先生」と出会った私。東京での交流を通じて、先生の孤独と人間不信を感じ取る。先生への敬愛と謎めいた過去への興味。",
+      "themes": [
+        "孤独",
+        "師弟関係",
+        "人間不信",
+        "信頼",
+        "出会い",
+        "憧れ"
+      ]
+    },
+    {
+      "bookId": "kokoro",
+      "bookTitle": "こころ",
+      "chapterId": "part2",
+      "chapterTitle": "中　両親と私",
+      "summary": "故郷での父の病と死。世代間の断絶と近代化の中で揺れる私。先生からの長い手紙が届き、東京へ向かう決意。",
+      "themes": [
+        "家族",
+        "死",
+        "世代",
+        "故郷",
+        "明治",
+        "手紙"
+      ]
+    },
+    {
+      "bookId": "kokoro",
+      "bookTitle": "こころ",
+      "chapterId": "part3",
+      "chapterTitle": "下　先生と遺書",
+      "summary": "先生の告白。親友Kへの裏切り、お嬢さんへの恋、そして罪悪感に苛まれた半生。「明治の精神」とともに自ら命を絶つ決意。",
+      "themes": [
+        "裏切り",
+        "罪悪感",
+        "自死",
+        "友情",
+        "恋愛",
+        "告白",
+        "エゴイズム",
+        "明治の精神"
+      ]
+    },
+    {
+      "bookId": "ningen-shikkaku",
+      "bookTitle": "人間失格",
+      "chapterId": "prologue",
+      "chapterTitle": "はしがき",
+      "summary": "三枚の写真を見る語り手。幼少期、学生時代、そして「生きているのか死んでいるのか」わからない顔。異様な男の人生の序章。",
+      "themes": [
+        "写真",
+        "序章",
+        "異形",
+        "不気味",
+        "語り手"
+      ]
+    },
+    {
+      "bookId": "ningen-shikkaku",
+      "bookTitle": "人間失格",
+      "chapterId": "ch1",
+      "chapterTitle": "第一の手記",
+      "summary": "葉蔵の幼少期。人間への恐怖と「道化」の仮面。本当の自分を隠し、周囲を欺きながら生きる孤独な子供時代。",
+      "themes": [
+        "道化",
+        "仮面",
+        "恐怖",
+        "孤独",
+        "幼少期",
+        "偽り",
+        "人間不信"
+      ]
+    },
+    {
+      "bookId": "ningen-shikkaku",
+      "bookTitle": "人間失格",
+      "chapterId": "ch2",
+      "chapterTitle": "第二の手記",
+      "summary": "東京での学生生活。堀木との出会い、酒と女。心中未遂事件。社会の周縁で転落していく葉蔵の青年期。",
+      "themes": [
+        "堕落",
+        "酒",
+        "女",
+        "心中",
+        "友人",
+        "転落",
+        "都会"
+      ]
+    },
+    {
+      "bookId": "ningen-shikkaku",
+      "bookTitle": "人間失格",
+      "chapterId": "ch3",
+      "chapterTitle": "第三の手記",
+      "summary": "薬物中毒、精神病院への入院。「人間失格」の烙印。「ただ、いっさいは過ぎていきます」という諦念の到達点。",
+      "themes": [
+        "薬物",
+        "精神病院",
+        "人間失格",
+        "諦念",
+        "喪失",
+        "最期",
+        "廃人"
+      ]
+    },
+    {
+      "bookId": "ningen-shikkaku",
+      "bookTitle": "人間失格",
+      "chapterId": "epilogue",
+      "chapterTitle": "あとがき",
+      "summary": "バーのマダムの証言。「神様みたいないい子」だったという葉蔵への評価。読者に投げかけられる問い。",
+      "themes": [
+        "証言",
+        "評価",
+        "神様",
+        "問いかけ",
+        "読者"
+      ]
+    },
+    {
+      "bookId": "rashomon",
+      "bookTitle": "羅生門",
+      "chapterId": "main",
+      "chapterTitle": "羅生門",
+      "summary": "荒廃した羅生門で、下人は老婆の悪行を目撃する。「飢え死にか、盗人になるか」の葛藤の末、悪への転落を選ぶ。",
+      "themes": [
+        "善悪",
+        "生存",
+        "飢え",
+        "盗み",
+        "転落",
+        "エゴイズム",
+        "平安時代"
+      ]
+    },
+    {
+      "bookId": "hashire-melos",
+      "bookTitle": "走れメロス",
+      "chapterId": "main",
+      "chapterTitle": "走れメロス",
+      "summary": "暴君への怒り、友との約束、そして限界を超えて走り続けるメロス。人間の信義と友情を描く力強い物語。",
+      "themes": [
+        "友情",
+        "信義",
+        "約束",
+        "走る",
+        "暴君",
+        "信頼",
+        "人間の善"
+      ]
+    },
+    {
+      "bookId": "shayou",
+      "bookTitle": "斜陽",
+      "chapterId": "ch1",
+      "chapterTitle": "一",
+      "summary": "没落貴族の母と娘。伊豆の別荘での穏やかな日々の中に、時代の変化と階級の衰退が静かに忍び寄る。",
+      "themes": [
+        "没落",
+        "貴族",
+        "母娘",
+        "戦後",
+        "階級",
+        "変化"
+      ]
+    },
+    {
+      "bookId": "shayou",
+      "bookTitle": "斜陽",
+      "chapterId": "ch2",
+      "chapterTitle": "二",
+      "summary": "弟・直治の帰還。戦争で傷ついた魂。かず子の恋と革命への憧れ。崩壊していく家族の肖像。",
+      "themes": [
+        "弟",
+        "戦争",
+        "帰還",
+        "恋愛",
+        "革命",
+        "家族崩壊"
+      ]
+    },
+    {
+      "bookId": "shayou",
+      "bookTitle": "斜陽",
+      "chapterId": "ch3",
+      "chapterTitle": "三",
+      "summary": "母の死、直治の自死。古い価値観の終焉。かず子は新しい道を選ぶ。「斜陽」の中で生き続ける決意。",
+      "themes": [
+        "母の死",
+        "自死",
+        "価値観",
+        "終焉",
+        "新生",
+        "生きる"
+      ]
+    },
+    {
+      "bookId": "ginga",
+      "bookTitle": "銀河鉄道の夜",
+      "chapterId": "main",
+      "chapterTitle": "銀河鉄道の夜",
+      "summary": "ジョバンニとカムパネルラの銀河を巡る旅。友情、犠牲、そして「ほんとうのさいわい」を求める魂の物語。",
+      "themes": [
+        "銀河",
+        "旅",
+        "友情",
+        "犠牲",
+        "幸福",
+        "死",
+        "夢",
+        "さいわい"
+      ]
+    },
+    {
+      "bookId": "kumo-no-ito",
+      "bookTitle": "蜘蛛の糸",
+      "chapterId": "main",
+      "chapterTitle": "蜘蛛の糸",
+      "summary": "地獄のカンダタに垂らされた一本の蜘蛛の糸。利己心が救いを断つ。仏教的教訓と人間の業を描く寓話。",
+      "themes": [
+        "地獄",
+        "救い",
+        "利己心",
+        "仏教",
+        "業",
+        "蜘蛛の糸",
+        "教訓"
+      ]
+    },
+    {
+      "bookId": "botchan",
+      "bookTitle": "坊っちゃん",
+      "chapterId": "ch1",
+      "chapterTitle": "一",
+      "summary": "江戸っ子気質の坊っちゃん、四国の中学校へ赴任。清との別れと新天地での教師生活の始まり。",
+      "themes": [
+        "江戸っ子",
+        "教師",
+        "赴任",
+        "清",
+        "四国",
+        "新生活"
+      ]
+    },
+    {
+      "bookId": "botchan",
+      "bookTitle": "坊っちゃん",
+      "chapterId": "ch2-6",
+      "chapterTitle": "二〜六",
+      "summary": "赤シャツ、野だいこ、山嵐との対立と友情。田舎町での教育現場の人間模様。正義感と短気が巻き起こす騒動。",
+      "themes": [
+        "教師",
+        "対立",
+        "友情",
+        "正義",
+        "田舎",
+        "学校",
+        "ユーモア"
+      ]
+    },
+    {
+      "bookId": "botchan",
+      "bookTitle": "坊っちゃん",
+      "chapterId": "ch7-11",
+      "chapterTitle": "七〜十一",
+      "summary": "赤シャツへの復讐劇。山嵐との決別と再会。東京への帰還と清の死。痛快さの中に漂う哀愁。",
+      "themes": [
+        "復讐",
+        "決別",
+        "帰郷",
+        "清の死",
+        "哀愁",
+        "成長"
+      ]
+    },
+    {
+      "bookId": "sanshiro",
+      "bookTitle": "三四郎",
+      "chapterId": "ch1-4",
+      "chapterTitle": "一〜四",
+      "summary": "熊本から東京へ。三四郎の大学生活と、美禰子との出会い。「ストレイシープ」という謎めいた言葉。",
+      "themes": [
+        "上京",
+        "大学",
+        "青春",
+        "出会い",
+        "美禰子",
+        "ストレイシープ"
+      ]
+    },
+    {
+      "bookId": "sanshiro",
+      "bookTitle": "三四郎",
+      "chapterId": "ch5-8",
+      "chapterTitle": "五〜八",
+      "summary": "広田先生、野々宮との交流。美禰子への募る想い。「迷える羊」たちの東京での日々。",
+      "themes": [
+        "師弟",
+        "恋愛",
+        "迷い",
+        "東京",
+        "知識人",
+        "交友"
+      ]
+    },
+    {
+      "bookId": "sanshiro",
+      "bookTitle": "三四郎",
+      "chapterId": "ch9-13",
+      "chapterTitle": "九〜十三",
+      "summary": "美禰子の結婚。三四郎の失恋と成長。「露悪家」「偽善家」の狭間で揺れる青年の姿。",
+      "themes": [
+        "失恋",
+        "結婚",
+        "成長",
+        "青春の終わり",
+        "近代"
+      ]
+    },
+    {
+      "bookId": "sorekara",
+      "bookTitle": "それから",
+      "chapterId": "main",
+      "chapterTitle": "それから",
+      "summary": "高等遊民・代助の日常。友人平岡の妻・三千代への禁断の愛。「自然に帰る」という決断と社会からの離脱。",
+      "themes": [
+        "高等遊民",
+        "禁断の愛",
+        "三角関係",
+        "社会",
+        "自然",
+        "決断",
+        "近代人"
+      ]
+    },
+    {
+      "bookId": "mon",
+      "bookTitle": "門",
+      "chapterId": "main",
+      "chapterTitle": "門",
+      "summary": "宗助とお米の静かな生活。友人の妻を奪った過去の罪。救いを求めて禅寺を訪れるも、「門」は開かれぬまま。",
+      "themes": [
+        "罪",
+        "贖罪",
+        "禅",
+        "夫婦",
+        "過去",
+        "救い",
+        "閉ざされた門"
+      ]
+    },
+    {
+      "bookId": "wagahaiwa",
+      "bookTitle": "吾輩は猫である",
+      "chapterId": "ch1-3",
+      "chapterTitle": "一〜三",
+      "summary": "名前のない猫の視点で描く苦沙弥先生の家。明治の知識人たちの滑稽な日常と社会批評。",
+      "themes": [
+        "猫",
+        "知識人",
+        "風刺",
+        "ユーモア",
+        "明治",
+        "社会批評"
+      ]
+    },
+    {
+      "bookId": "wagahaiwa",
+      "bookTitle": "吾輩は猫である",
+      "chapterId": "ch4-8",
+      "chapterTitle": "四〜八",
+      "summary": "迷亭、寒月、東風たちとの交流。金田家との対立。猫の観察眼が捉える人間社会の矛盾と愚かさ。",
+      "themes": [
+        "交友",
+        "対立",
+        "観察",
+        "矛盾",
+        "愚かさ",
+        "資本家"
+      ]
+    },
+    {
+      "bookId": "wagahaiwa",
+      "bookTitle": "吾輩は猫である",
+      "chapterId": "ch9-11",
+      "chapterTitle": "九〜十一",
+      "summary": "吾輩の最期。甕に落ちて溺死する猫。「太平の逸民」として生き、静かに去っていく。",
+      "themes": [
+        "死",
+        "最期",
+        "太平",
+        "逸民",
+        "終焉",
+        "哲学"
+      ]
+    },
+    {
+      "bookId": "henshin",
+      "bookTitle": "変身",
+      "chapterId": "main",
+      "chapterTitle": "変身",
+      "summary": "グレーゴル・ザムザは朝目覚めると巨大な虫に変身していた。家族からの疎外、人間性の喪失、そして死。",
+      "themes": [
+        "変身",
+        "疎外",
+        "家族",
+        "人間性",
+        "労働",
+        "孤独",
+        "不条理"
+      ]
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part1",
+      "chapterTitle": "第一編",
+      "summary": "貧困に苦しむ元大学生ラスコーリニコフ。「選ばれた人間」の理論に基づき、高利貸しの老婆を殺害する。",
+      "themes": [
+        "貧困",
+        "殺人",
+        "理論",
+        "超人思想",
+        "ペテルブルク",
+        "葛藤"
+      ]
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part2-3",
+      "chapterTitle": "第二〜三編",
+      "summary": "罪悪感に苛まれるラスコーリニコフ。ソーニャとの出会い。ポルフィーリーの追及。精神的な追い詰め。",
+      "themes": [
+        "罪悪感",
+        "ソーニャ",
+        "追及",
+        "精神",
+        "告白",
+        "愛"
+      ]
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part4-6",
+      "chapterTitle": "第四〜六編",
+      "summary": "自首と贖罪への道。シベリア流刑と再生。ソーニャの愛による魂の救済。",
+      "themes": [
+        "自首",
+        "贖罪",
+        "シベリア",
+        "再生",
+        "救済",
+        "復活"
+      ]
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "book1-2",
+      "chapterTitle": "第一〜二編",
+      "summary": "カラマーゾフ家の紹介。放蕩な父フョードル、情熱的なドミートリー、知的なイワン、聖なるアリョーシャ。",
+      "themes": [
+        "家族",
+        "父子",
+        "兄弟",
+        "対立",
+        "性格",
+        "ロシア"
+      ]
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "book3-5",
+      "chapterTitle": "第三〜五編",
+      "summary": "「大審問官」の詩。信仰と自由、神の存在をめぐる哲学的対話。愛と金、女をめぐる家族の争い。",
+      "themes": [
+        "大審問官",
+        "信仰",
+        "自由",
+        "神",
+        "哲学",
+        "愛",
+        "争い"
+      ]
+    },
+    {
+      "bookId": "jigokuhen",
+      "bookTitle": "地獄変",
+      "chapterId": "main",
+      "chapterTitle": "地獄変",
+      "summary": "絵師良秀の狂気と芸術への執念。娘を炎に包まれた牛車に乗せ、地獄変の屏風を完成させる。芸術と倫理の相克。",
+      "themes": [
+        "芸術",
+        "狂気",
+        "執念",
+        "娘",
+        "犠牲",
+        "地獄",
+        "倫理"
+      ]
+    },
+    {
+      "bookId": "hana",
+      "bookTitle": "鼻",
+      "chapterId": "main",
+      "chapterTitle": "鼻",
+      "summary": "長い鼻に悩む禅智内供。鼻を短くする方法を試みるも、周囲の反応に困惑。人間の自尊心と傍観者の心理。",
+      "themes": [
+        "自尊心",
+        "外見",
+        "嘲笑",
+        "仏僧",
+        "コンプレックス",
+        "心理"
+      ]
+    },
+    {
+      "bookId": "imogayu",
+      "bookTitle": "芋粥",
+      "chapterId": "main",
+      "chapterTitle": "芋粥",
+      "summary": "芋粥を腹一杯食べたいという五位の夢。その夢が叶った時、欲望の充足がもたらす空虚さを知る。",
+      "themes": [
+        "欲望",
+        "夢",
+        "充足",
+        "空虚",
+        "平安時代",
+        "風刺"
+      ]
+    },
+    {
+      "bookId": "toshishun",
+      "bookTitle": "杜子春",
+      "chapterId": "main",
+      "chapterTitle": "杜子春",
+      "summary": "仙人になろうとする杜子春。あらゆる試練に耐えるも、母への愛から声を発してしまう。人間の情愛の尊さ。",
+      "themes": [
+        "仙人",
+        "試練",
+        "母",
+        "愛",
+        "人間性",
+        "中国"
+      ]
+    },
+    {
+      "bookId": "sangetsuki",
+      "bookTitle": "山月記",
+      "chapterId": "main",
+      "chapterTitle": "山月記",
+      "summary": "詩人の夢破れた李徴が虎に変身。臆病な自尊心と尊大な羞恥心。人間の業と芸術家の孤独を描く漢文調の傑作。",
+      "themes": [
+        "虎",
+        "変身",
+        "自尊心",
+        "羞恥心",
+        "詩人",
+        "孤独",
+        "業"
+      ]
+    },
+    {
+      "bookId": "takasebune",
+      "bookTitle": "高瀬舟",
+      "chapterId": "main",
+      "chapterTitle": "高瀬舟",
+      "summary": "島流しの罪人喜助を護送する同心庄兵衛。弟殺しの真相と安楽死の問題。「足ることを知る」喜助の境地。",
+      "themes": [
+        "安楽死",
+        "足るを知る",
+        "罪",
+        "護送",
+        "幸福",
+        "倫理"
+      ]
+    },
+    {
+      "bookId": "maihime",
+      "bookTitle": "舞姫",
+      "chapterId": "main",
+      "chapterTitle": "舞姫",
+      "summary": "ベルリン留学中の太田豊太郎とドイツ人舞姫エリスとの悲恋。出世と愛の間で引き裂かれる近代知識人の苦悩。",
+      "themes": [
+        "留学",
+        "恋愛",
+        "出世",
+        "裏切り",
+        "近代",
+        "ドイツ",
+        "悲恋"
+      ]
+    },
+    {
+      "bookId": "gan",
+      "bookTitle": "雁",
+      "chapterId": "main",
+      "chapterTitle": "雁",
+      "summary": "高利貸しの妾・お玉と医学生岡田の淡い恋。すれ違う二人の想い。投げた石が雁を殺す運命の皮肉。",
+      "themes": [
+        "妾",
+        "恋愛",
+        "すれ違い",
+        "運命",
+        "明治",
+        "雁"
+      ]
+    },
+    {
+      "bookId": "kanikosen",
+      "bookTitle": "蟹工船",
+      "chapterId": "main",
+      "chapterTitle": "蟹工船",
+      "summary": "北洋の蟹工船で搾取される労働者たち。過酷な労働環境と資本家への怒り。団結と抵抗への目覚め。",
+      "themes": [
+        "労働",
+        "搾取",
+        "資本主義",
+        "団結",
+        "抵抗",
+        "プロレタリア"
+      ]
+    },
+    {
+      "bookId": "kappa",
+      "bookTitle": "河童",
+      "chapterId": "main",
+      "chapterTitle": "河童",
+      "summary": "河童の国に迷い込んだ男の記録。逆転した価値観、風刺に満ちた社会。人間世界への批判と狂気の境界。",
+      "themes": [
+        "河童",
+        "風刺",
+        "狂気",
+        "社会批判",
+        "価値観",
+        "ユートピア"
+      ]
+    },
+    {
+      "bookId": "haguruma",
+      "bookTitle": "歯車",
+      "chapterId": "main",
+      "chapterTitle": "歯車",
+      "summary": "視界に現れる歯車の幻覚。迫りくる狂気と死の予感。芥川龍之介の精神的崩壊を描く晩年の自伝的作品。",
+      "themes": [
+        "幻覚",
+        "狂気",
+        "死",
+        "精神",
+        "自伝",
+        "崩壊"
+      ]
+    },
+    {
+      "bookId": "aruaho",
+      "bookTitle": "或阿呆の一生",
+      "chapterId": "main",
+      "chapterTitle": "或阿呆の一生",
+      "summary": "芥川龍之介の遺作。51の断章で綴る自身の半生。文学への情熱、恋愛、そして「ぼんやりした不安」。",
+      "themes": [
+        "遺作",
+        "断章",
+        "半生",
+        "文学",
+        "不安",
+        "回想"
+      ]
+    },
+    {
+      "bookId": "irezumi",
+      "bookTitle": "刺青",
+      "chapterId": "main",
+      "chapterTitle": "刺青",
+      "summary": "彫師清吉の執念。若い娘の背中に女郎蜘蛛を彫り込む。美と魔性、支配と服従が交錯する耽美派の代表作。",
+      "themes": [
+        "刺青",
+        "美",
+        "魔性",
+        "支配",
+        "耽美",
+        "芸術"
+      ]
+    },
+    {
+      "bookId": "shunkinsho",
+      "bookTitle": "春琴抄",
+      "chapterId": "main",
+      "chapterTitle": "春琴抄",
+      "summary": "盲目の三味線師匠・春琴と弟子佐助の愛。春琴の顔を傷つけた犯人への復讐として、佐助は自らの目を突く。究極の愛の形。",
+      "themes": [
+        "盲目",
+        "師弟",
+        "愛",
+        "自傷",
+        "献身",
+        "美",
+        "耽美"
+      ]
+    },
+    {
+      "bookId": "kusamakura",
+      "bookTitle": "草枕",
+      "chapterId": "main",
+      "chapterTitle": "草枕",
+      "summary": "「非人情」の旅に出た画工。山里の温泉宿で出会う謎めいた女・那美。芸術と現実の狭間を漂う美しい散文。",
+      "themes": [
+        "非人情",
+        "芸術",
+        "那美",
+        "温泉",
+        "旅",
+        "美"
+      ]
+    },
+    {
+      "bookId": "villon-no-tsuma",
+      "bookTitle": "ヴィヨンの妻",
+      "chapterId": "main",
+      "chapterTitle": "ヴィヨンの妻",
+      "summary": "放蕩な詩人の妻・さっちゃんの視点。夫の借金、不倫、そして「人非人でもいいじゃないの」という達観。",
+      "themes": [
+        "妻",
+        "放蕩",
+        "借金",
+        "達観",
+        "生きる",
+        "戦後"
+      ]
+    },
+    {
+      "bookId": "chumon",
+      "bookTitle": "注文の多い料理店",
+      "chapterId": "main",
+      "chapterTitle": "注文の多い料理店",
+      "summary": "山奥で迷った二人の紳士が見つけた「山猫軒」。次々と出される奇妙な注文。文明批評と恐怖のファンタジー。",
+      "themes": [
+        "山猫軒",
+        "紳士",
+        "恐怖",
+        "ファンタジー",
+        "風刺",
+        "文明批判"
+      ]
+    },
+    {
+      "bookId": "yodaka",
+      "bookTitle": "よだかの星",
+      "chapterId": "main",
+      "chapterTitle": "よだかの星",
+      "summary": "醜い姿ゆえに他の鳥から虐げられるよだか。自らの存在の罪深さに苦しみ、最後は星となって燃え尽きる。",
+      "themes": [
+        "醜さ",
+        "虐め",
+        "罪",
+        "星",
+        "犠牲",
+        "救済"
+      ]
+    },
+    {
+      "bookId": "sero",
+      "bookTitle": "セロ弾きのゴーシュ",
+      "chapterId": "main",
+      "chapterTitle": "セロ弾きのゴーシュ",
+      "summary": "下手なセロ弾きゴーシュのもとに夜ごと訪れる動物たち。彼らとの交流を通じて、真の音楽を掴んでいく成長物語。",
+      "themes": [
+        "音楽",
+        "動物",
+        "成長",
+        "練習",
+        "芸術",
+        "交流"
+      ]
+    },
+    {
+      "bookId": "kazenosaburo",
+      "bookTitle": "風の又三郎",
+      "chapterId": "main",
+      "chapterTitle": "風の又三郎",
+      "summary": "転校生・高田三郎は「風の又三郎」なのか。山の分教場での12日間。子どもたちの交流と別れ、風の神話。",
+      "themes": [
+        "転校生",
+        "風",
+        "子ども",
+        "学校",
+        "神話",
+        "別れ"
+      ]
+    },
+    {
+      "bookId": "hojoki",
+      "bookTitle": "方丈記",
+      "chapterId": "main",
+      "chapterTitle": "方丈記",
+      "summary": "「ゆく河の流れは絶えずして」で始まる無常観の文学。大火・地震・飢饉を経験した鴨長明の隠遁思想。",
+      "themes": [
+        "無常",
+        "隠遁",
+        "災害",
+        "仏教",
+        "中世",
+        "随筆"
+      ]
+    },
+    {
+      "bookId": "tsurezuregusa",
+      "bookTitle": "徒然草",
+      "chapterId": "main",
+      "chapterTitle": "徒然草",
+      "summary": "「つれづれなるままに」書き連ねた随筆集。人生訓、美意識、無常観。兼好法師の知恵と観察眼。",
+      "themes": [
+        "随筆",
+        "人生訓",
+        "美意識",
+        "無常",
+        "中世",
+        "知恵"
+      ]
+    },
+    {
+      "bookId": "gakumon-no-susume",
+      "bookTitle": "学問のすすめ",
+      "chapterId": "main",
+      "chapterTitle": "学問のすすめ",
+      "summary": "「天は人の上に人を造らず」で始まる近代化への檄文。実学の重要性、独立自尊、国民の精神的覚醒を説く。",
+      "themes": [
+        "学問",
+        "独立",
+        "平等",
+        "実学",
+        "明治",
+        "啓蒙"
+      ]
+    },
+    {
+      "bookId": "iki-no-kozo",
+      "bookTitle": "「いき」の構造",
+      "chapterId": "main",
+      "chapterTitle": "「いき」の構造",
+      "summary": "日本特有の美意識「いき」を哲学的に分析。媚態・意気地・諦めの三要素。東西美学の比較考察。",
+      "themes": [
+        "いき",
+        "美意識",
+        "哲学",
+        "媚態",
+        "日本文化",
+        "美学"
+      ]
+    },
+    {
+      "bookId": "cha-no-hon",
+      "bookTitle": "茶の本",
+      "chapterId": "main",
+      "chapterTitle": "茶の本",
+      "summary": "茶道を通じて日本文化の精髄を説く。「不完全の美」「虚の思想」。西洋に向けて発信された日本美学の古典。",
+      "themes": [
+        "茶道",
+        "日本文化",
+        "不完全",
+        "虚",
+        "美学",
+        "東西比較"
+      ]
+    },
+    {
+      "bookId": "shinpan",
+      "bookTitle": "審判",
+      "chapterId": "main",
+      "chapterTitle": "審判",
+      "summary": "銀行員ヨーゼフ・Kは理由も告げられぬまま逮捕される。不条理な裁判、見えない権力。カフカの代表作。",
+      "themes": [
+        "不条理",
+        "裁判",
+        "権力",
+        "官僚制",
+        "罪",
+        "カフカ"
+      ]
+    },
+    {
+      "bookId": "christmas-carol",
+      "bookTitle": "クリスマス・カロル",
+      "chapterId": "main",
+      "chapterTitle": "クリスマス・カロル",
+      "summary": "守銭奴スクルージのもとに現れる三人の幽霊。過去・現在・未来のクリスマスを見せられ、改心する物語。",
+      "themes": [
+        "クリスマス",
+        "幽霊",
+        "改心",
+        "慈善",
+        "金銭",
+        "救済"
+      ]
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "main",
+      "chapterTitle": "ロミオとジュリエット",
+      "summary": "敵対する家の若者たちの悲恋。バルコニーの場面、秘密の結婚、そして悲劇的な最期。永遠の愛の物語。",
+      "themes": [
+        "恋愛",
+        "悲劇",
+        "家族",
+        "対立",
+        "運命",
+        "シェイクスピア"
+      ]
+    },
+    {
+      "bookId": "faust",
+      "bookTitle": "ファウスト",
+      "chapterId": "main",
+      "chapterTitle": "ファウスト",
+      "summary": "学者ファウストと悪魔メフィストフェレスの契約。知識への渇望、グレートヒェンとの悲恋、救済への道。",
+      "themes": [
+        "悪魔",
+        "契約",
+        "知識",
+        "欲望",
+        "救済",
+        "ゲーテ"
+      ]
+    },
+    {
+      "bookId": "kamome",
+      "bookTitle": "かもめ",
+      "chapterId": "main",
+      "chapterTitle": "かもめ",
+      "summary": "女優アルカージナ、作家トレープレフ、女優志望のニーナ。芸術と愛をめぐる登場人物たちの交錯する想い。",
+      "themes": [
+        "演劇",
+        "芸術",
+        "恋愛",
+        "挫折",
+        "チェーホフ",
+        "青春"
+      ]
+    },
+    {
+      "bookId": "ivan",
+      "bookTitle": "イワンの馬鹿",
+      "chapterId": "main",
+      "chapterTitle": "イワンの馬鹿",
+      "summary": "三兄弟のうち最も愚かなイワンが、悪魔の誘惑に打ち勝ち、労働の尊さを体現する。トルストイの民話。",
+      "themes": [
+        "愚か者",
+        "悪魔",
+        "労働",
+        "勤勉",
+        "民話",
+        "トルストイ"
+      ]
+    },
+    {
+      "bookId": "ugetsu",
+      "bookTitle": "雨月物語",
+      "chapterId": "main",
+      "chapterTitle": "雨月物語",
+      "summary": "江戸時代の怪異小説集。亡霊との再会、蛇性の執念、崇徳院の怨霊。幻想と怪奇に満ちた古典の傑作。",
+      "themes": [
+        "怪談",
+        "幽霊",
+        "怪異",
+        "江戸",
+        "幻想",
+        "古典"
+      ]
+    },
+    {
+      "bookId": "ukigumo",
+      "bookTitle": "浮雲",
+      "chapterId": "main",
+      "chapterTitle": "浮雲",
+      "summary": "免職された内海文三の苦悩。出世主義への批判、お勢との恋愛。近代日本文学の嚆矢となった言文一致小説。",
+      "themes": [
+        "免職",
+        "出世",
+        "恋愛",
+        "近代",
+        "言文一致",
+        "苦悩"
+      ]
+    },
+    {
+      "bookId": "takekurabe",
+      "bookTitle": "たけくらべ",
+      "chapterId": "main",
+      "chapterTitle": "たけくらべ",
+      "summary": "吉原遊廓近くで育つ少年少女たち。美登利と信如の淡い恋。大人への入り口に立つ子どもたちの最後の輝き。",
+      "themes": [
+        "吉原",
+        "少年少女",
+        "成長",
+        "恋愛",
+        "明治",
+        "樋口一葉"
+      ]
+    },
+    {
+      "bookId": "nogikunohaka",
+      "bookTitle": "野菊の墓",
+      "chapterId": "main",
+      "chapterTitle": "野菊の墓",
+      "summary": "政夫と民子の純愛。従姉弟の禁じられた恋と悲しい別れ。「民さんは野菊のような人だ」という永遠の記憶。",
+      "themes": [
+        "純愛",
+        "従姉弟",
+        "別れ",
+        "野菊",
+        "田舎",
+        "明治"
+      ]
+    },
+    {
+      "bookId": "konjiki-yasha",
+      "bookTitle": "金色夜叉",
+      "chapterId": "main",
+      "chapterTitle": "金色夜叉",
+      "summary": "間貫一と鶴田宮の悲恋。金銭に目がくらんだ裏切り、復讐の鬼と化す貫一。「来年の今月今夜」の名場面。",
+      "themes": [
+        "金銭",
+        "裏切り",
+        "復讐",
+        "恋愛",
+        "明治",
+        "悲劇"
+      ]
+    },
+    {
+      "bookId": "aki",
+      "bookTitle": "秋",
+      "chapterId": "chapter-1",
+      "chapterTitle": "秋",
+      "summary": "従姉のお話、信子のお話、妹のお話から成る三部構成の短編。女性たちの静かな恋と別離を繊細な筆致で描いた芥川の抒情的作品。秋の季節感が物語全体を包む。",
+      "themes": []
+    },
+    {
+      "bookId": "aruonna",
+      "bookTitle": "或る女",
+      "chapterId": "chapter-1",
+      "chapterTitle": "一",
+      "summary": "葉子と古藤、横浜行きの汽車",
+      "themes": []
+    },
+    {
+      "bookId": "aruonna",
+      "bookTitle": "或る女",
+      "chapterId": "chapter-2",
+      "chapterTitle": "二",
+      "summary": "葉子の過去と木部との出会い",
+      "themes": []
+    },
+    {
+      "bookId": "aruonna",
+      "bookTitle": "或る女",
+      "chapterId": "chapter-3",
+      "chapterTitle": "三",
+      "summary": "木部の執拗な視線",
+      "themes": []
+    },
+    {
+      "bookId": "aruonna",
+      "bookTitle": "或る女",
+      "chapterId": "chapter-4",
+      "chapterTitle": "四",
+      "summary": "横浜到着",
+      "themes": []
+    },
+    {
+      "bookId": "aruonna",
+      "bookTitle": "或る女",
+      "chapterId": "chapter-5",
+      "chapterTitle": "五",
+      "summary": "相模屋での休息",
+      "themes": []
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "part-1",
+      "chapterTitle": "第一篇　ある家の歴史",
+      "summary": "ある家の歴史",
+      "themes": []
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "part-2",
+      "chapterTitle": "第二篇　お門違いな寄り合い",
+      "summary": "お門違いな寄り合い",
+      "themes": []
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "part-3",
+      "chapterTitle": "第三篇　淫蕩《いんとう》な人たち",
+      "summary": "淫蕩《いんとう》な人たち",
+      "themes": []
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "part-4",
+      "chapterTitle": "第四篇　破裂",
+      "summary": "破裂",
+      "themes": []
+    },
+    {
+      "bookId": "brothers-karamazov",
+      "bookTitle": "カラマーゾフの兄弟（上）",
+      "chapterId": "part-5",
+      "chapterTitle": "第五篇　Pro et contra",
+      "summary": "Pro et contra",
+      "themes": []
+    },
+    {
+      "bookId": "butoukai",
+      "bookTitle": "舞踏会",
+      "chapterId": "chapter-1",
+      "chapterTitle": "舞踏会",
+      "summary": "鹿鳴館時代の舞踏会を舞台に、若き明子がフランス海軍将校と踊る一夜を描く。華やかな外観と内面の孤独を対比させ、近代日本の西洋化を詩的に描いた芥川の名短編。",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-1",
+      "chapterTitle": "第一篇",
+      "summary": "貧窮と計画",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-2",
+      "chapterTitle": "第二篇",
+      "summary": "疑念と悪夢",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-3",
+      "chapterTitle": "第三篇",
+      "summary": "追跡の影",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-4",
+      "chapterTitle": "第四篇",
+      "summary": "証言の圧力",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-5",
+      "chapterTitle": "第五篇",
+      "summary": "揺れる告白",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-6",
+      "chapterTitle": "第六篇",
+      "summary": "裁きの前夜",
+      "themes": []
+    },
+    {
+      "bookId": "crime-and-punishment",
+      "bookTitle": "罪と罰",
+      "chapterId": "part-7",
+      "chapterTitle": "エピローグ",
+      "summary": "雪原の再生",
+      "themes": []
+    },
+    {
+      "bookId": "fugaku",
+      "bookTitle": "富嶽百景",
+      "chapterId": "chapter-1",
+      "chapterTitle": "富嶽百景",
+      "summary": "富士山への思い",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-1",
+      "chapterTitle": "桐壺",
+      "summary": "光源氏の誕生",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-2",
+      "chapterTitle": "帚木",
+      "summary": "雨夜の品定め",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-3",
+      "chapterTitle": "空蝉",
+      "summary": "空蝉との出会い",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-4",
+      "chapterTitle": "夕顔",
+      "summary": "夕顔との恋",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-5",
+      "chapterTitle": "若紫",
+      "summary": "紫の上との出会い",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-6",
+      "chapterTitle": "末摘花",
+      "summary": "末摘花との出会い",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-7",
+      "chapterTitle": "紅葉賀",
+      "summary": "紅葉賀の舞",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-8",
+      "chapterTitle": "花宴",
+      "summary": "朧月夜との出会い",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-9",
+      "chapterTitle": "葵",
+      "summary": "葵の上の死",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-10",
+      "chapterTitle": "榊",
+      "summary": "藤壺との別れ",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-11",
+      "chapterTitle": "花散里",
+      "summary": "花散里への訪問",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-12",
+      "chapterTitle": "須磨",
+      "summary": "須磨への退去",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-13",
+      "chapterTitle": "明石",
+      "summary": "明石の君との出会い",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-14",
+      "chapterTitle": "澪標",
+      "summary": "栄華への道",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-15",
+      "chapterTitle": "蓬生",
+      "summary": "末摘花との再会",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-16",
+      "chapterTitle": "関屋",
+      "summary": "空蝉との再会",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-17",
+      "chapterTitle": "絵合",
+      "summary": "絵合の催し",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-18",
+      "chapterTitle": "松風",
+      "summary": "明石の君の上京",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-19",
+      "chapterTitle": "薄雲",
+      "summary": "藤壺の死",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-20",
+      "chapterTitle": "朝顔",
+      "summary": "朝顔の姫君",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-21",
+      "chapterTitle": "乙女",
+      "summary": "夕霧の元服",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-22",
+      "chapterTitle": "玉鬘",
+      "summary": "玉鬘の登場",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-23",
+      "chapterTitle": "初音",
+      "summary": "新年の訪問",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-24",
+      "chapterTitle": "胡蝶",
+      "summary": "春の宴",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-25",
+      "chapterTitle": "蛍",
+      "summary": "玉鬘への求婚",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-26",
+      "chapterTitle": "常夏",
+      "summary": "夏の六条院",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-27",
+      "chapterTitle": "篝火",
+      "summary": "玉鬘と源氏",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-28",
+      "chapterTitle": "野分",
+      "summary": "野分の翌日",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-29",
+      "chapterTitle": "行幸",
+      "summary": "冷泉帝の行幸",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-30",
+      "chapterTitle": "藤袴",
+      "summary": "夕霧と玉鬘",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-31",
+      "chapterTitle": "真木柱",
+      "summary": "髭黒との結婚",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-32",
+      "chapterTitle": "梅が枝",
+      "summary": "明石の姫君の裳着",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-33",
+      "chapterTitle": "藤のうら葉",
+      "summary": "玉鬘の栄達",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-34",
+      "chapterTitle": "若菜（上）",
+      "summary": "女三宮の降嫁",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-35",
+      "chapterTitle": "若菜（下）",
+      "summary": "柏木の密通",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-36",
+      "chapterTitle": "柏木",
+      "summary": "柏木の死",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-37",
+      "chapterTitle": "横笛",
+      "summary": "薫の誕生",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-38",
+      "chapterTitle": "鈴虫",
+      "summary": "女三宮の出家",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-39",
+      "chapterTitle": "夕霧一",
+      "summary": "落葉の宮への恋",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-40",
+      "chapterTitle": "夕霧二",
+      "summary": "夕霧の苦悩",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-41",
+      "chapterTitle": "御法",
+      "summary": "紫の上の死",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-42",
+      "chapterTitle": "まぼろし",
+      "summary": "源氏の悲嘆",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-43",
+      "chapterTitle": "雲隠れ",
+      "summary": "源氏の死",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-44",
+      "chapterTitle": "匂宮",
+      "summary": "匂宮と薫",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-45",
+      "chapterTitle": "紅梅",
+      "summary": "紅梅の邸",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-46",
+      "chapterTitle": "竹河",
+      "summary": "玉鬘の娘たち",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-47",
+      "chapterTitle": "橋姫",
+      "summary": "宇治の姫君たち",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-48",
+      "chapterTitle": "椎が本",
+      "summary": "薫と大君",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-49",
+      "chapterTitle": "総角",
+      "summary": "大君の死",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-50",
+      "chapterTitle": "早蕨",
+      "summary": "中君の移住",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-51",
+      "chapterTitle": "宿り木",
+      "summary": "浮舟の登場",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-52",
+      "chapterTitle": "東屋",
+      "summary": "浮舟への恋",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-53",
+      "chapterTitle": "浮舟",
+      "summary": "薫と匂宮の板挟み",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-54",
+      "chapterTitle": "蜻蛉",
+      "summary": "浮舟の入水",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-55",
+      "chapterTitle": "手習",
+      "summary": "浮舟の出家",
+      "themes": []
+    },
+    {
+      "bookId": "genji",
+      "bookTitle": "源氏物語",
+      "chapterId": "chapter-56",
+      "chapterTitle": "夢の浮橋",
+      "summary": "薫との再会",
+      "themes": []
+    },
+    {
+      "bookId": "hashire-melos",
+      "bookTitle": "走れメロス",
+      "chapterId": "chapter-1",
+      "chapterTitle": "走れメロス",
+      "summary": "信義と友情の物語",
+      "themes": []
+    },
+    {
+      "bookId": "imogayu",
+      "bookTitle": "芋粥",
+      "chapterId": "chapter-1",
+      "chapterTitle": "芋粥",
+      "summary": "平安時代の下級貴族・五位が芋粥を腹一杯食べたいという願望から始まる物語。藤原利仁の豪華な饗応により、かえって芋粥への執着を失う皮肉な結末が描かれる。人間の欲望と充足の関係を風刺的に描いた芥川の初期傑作。",
+      "themes": []
+    },
+    {
+      "bookId": "ineiraisan",
+      "bookTitle": "陰翳礼讃",
+      "chapterId": "chapter-1",
+      "chapterTitle": "陰翳礼讃",
+      "summary": "日本の美と陰翳",
+      "themes": []
+    },
+    {
+      "bookId": "joseito",
+      "bookTitle": "女生徒",
+      "chapterId": "chapter-1",
+      "chapterTitle": "女生徒",
+      "summary": "少女の一日の内面",
+      "themes": []
+    },
+    {
+      "bookId": "lemon",
+      "bookTitle": "檸檬",
+      "chapterId": "main",
+      "chapterTitle": "檸檬",
+      "summary": "不安な青年が檸檬を置き去りにする一日",
+      "themes": []
+    },
+    {
+      "bookId": "mikan",
+      "bookTitle": "蜜柑",
+      "chapterId": "chapter-1",
+      "chapterTitle": "蜜柑",
+      "summary": "冬の横須賀線の二等車に乗った語り手の前に、みすぼらしい娘が乗り込んでくる。トンネルを抜けた瞬間、彼女が窓から弟たちに蜜柑を投げる場面が、語り手の倦怠を一瞬で払拭する。芥川龍之介の代表的短編。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-1",
+      "chapterTitle": "作者の言葉",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-2",
+      "chapterTitle": "幕ひらく",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-3",
+      "chapterTitle": "健康道場",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-4",
+      "chapterTitle": "鈴虫",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-5",
+      "chapterTitle": "死生",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-6",
+      "chapterTitle": "マア坊",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-7",
+      "chapterTitle": "衛生について",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-8",
+      "chapterTitle": "コスモス",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-9",
+      "chapterTitle": "妹",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-10",
+      "chapterTitle": "１",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-11",
+      "chapterTitle": "口紅",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "pandora",
+      "bookTitle": "パンドラの匣",
+      "chapterId": "chapter-12",
+      "chapterTitle": "１",
+      "summary": "結核療養所「健康道場」での青年の日々を、親友への手紙形式で綴る。病との闘いの中で出会う看護婦たちとの交流、生への希望と不安を描いた太宰治の長編小説。戦後日本の再生と青春の輝きが交錯する。",
+      "themes": []
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "preamble",
+      "chapterTitle": "登場人物",
+      "summary": "登場人物紹介",
+      "themes": []
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "act-1",
+      "chapterTitle": "第一幕",
+      "summary": "第一幕",
+      "themes": []
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "act-2",
+      "chapterTitle": "第二幕",
+      "summary": "第二幕",
+      "themes": []
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "act-3",
+      "chapterTitle": "第三幕",
+      "summary": "第三幕",
+      "themes": []
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "act-4",
+      "chapterTitle": "第四幕",
+      "summary": "第四幕",
+      "themes": []
+    },
+    {
+      "bookId": "romeo",
+      "bookTitle": "ロミオとジュリエット",
+      "chapterId": "act-5",
+      "chapterTitle": "第五幕",
+      "summary": "第五幕",
+      "themes": []
+    },
+    {
+      "bookId": "shunkinsho",
+      "bookTitle": "春琴抄",
+      "chapterId": "chapter-1",
+      "chapterTitle": "春琴抄",
+      "summary": "盲目の三味線師と弟子の愛",
+      "themes": []
+    },
+    {
+      "bookId": "wagahaiwa",
+      "bookTitle": "吾輩は猫である",
+      "chapterId": "chapter-1",
+      "chapterTitle": "吾輩は猫である",
+      "summary": "猫の目から見た明治の人間模様",
+      "themes": []
+    },
+    {
+      "bookId": "yodaka",
+      "bookTitle": "よだかの星",
+      "chapterId": "chapter-1",
+      "chapterTitle": "よだかの星",
+      "summary": "星になった醜い鳥",
+      "themes": []
+    }
+  ]
+}

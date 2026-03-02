@@ -1,0 +1,48 @@
+{
+  "id": "a051115",
+  "title": "赤い鳥",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "赤い鳥",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "赤い鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　鳥屋《とりや》の前《まえ》に立《た》ったらば\n\n赤《あか》い鳥《とり》がないていた。\n\n私《わたし》は姉《ねえ》さんを思《おも》い出《だ》す。\n\n電車《でんしゃ》や汽車《きしゃ》の通《とお》ってる\n\n町《まち》に住《す》んでる姉《ねえ》さんが\n\nほんとに恋《こい》しい、なつかしい。\n\nもう夕方《ゆうがた》か、日《ひ》がかげる。\n\n村《むら》の方《ほう》からガタ馬車《ばしゃ》が\n\nらっぱを吹《ふ》いて駆《か》けてくる。",
+      "characters": 211,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鳥屋《とりや》の前《まえ》に立《た》ったらば\n\n赤《あか》い鳥《とり》がないていた。\n\n都《みやこ》の方《ほう》をながめると、\n\n黒《くろ》い煙《けむり》が上《あ》がってる。",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

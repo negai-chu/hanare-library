@@ -1,0 +1,2117 @@
+{
+  "id": "a047028",
+  "title": "春と修羅　第三集",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 267
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春と修羅　第三集",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "七〇六　　村娘",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "七〇九　　春",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "七一一　　水汲み",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "七一四　　疲労",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "七一五　　〔道べの粗朶に〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "七一八　　蛇踊",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "七一八　　井戸",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "七二六　　風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "七二七　　〔アカシヤの木の洋燈《ラムプ》から〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "七二八　　〔驟雨《カダチ》はそそぎ〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "七三〇　　〔おしまひは〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "七三〇ノ二　　増水",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "七三一〔黄いろな花もさき〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "七三三　　休息",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "七三四　　〔青いけむりで唐黍を焼き〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "七三五　　饗宴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "七三六　　〔濃い雲が二きれ〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "七三八　　はるかな作業",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "七三九　　〔霧がひどくて手が凍えるな〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "七四〇　　秋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "七四一　　煙",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "七四一　　白菜畑",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "七四二　　圃道",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "七四三　　〔盗まれた白菜の根へ〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "一〇〇一　　〔プラットフォームは眩ゆくさむく〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "一〇〇三　　実験室小景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "一〇〇五　　〔鈍い月あかりの雪の上に〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "一〇〇八　　〔土も掘るだらう〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "一〇一二　　〔甲助　今朝まだくらぁに〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "一〇一四　　春",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "一〇一五　　〔バケツがのぼって〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "一〇一七　　開墾",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "一〇一九　　札幌市",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "一〇二二　　〔一昨年四月来たときは〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "一〇二五　　〔燕麦《オート》の種子をこぼせば〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "一〇二八　　酒買船",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "一〇三〇　　春の雲に関するあいまいなる議論",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "一〇三二　　〔あの大もののヨークシャ豚が〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "一〇三三　　悪意",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "一〇三六　　燕麦播き",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-41",
+            "number": "一〇三七　　宅地",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-42",
+            "number": "一〇三九　　〔うすく濁った浅葱の水が〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-43",
+            "number": "一〇四〇　　〔日に暈ができ〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-44",
+            "number": "午",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-45",
+            "number": "一〇四二　　〔同心町の夜あけがた〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-46",
+            "number": "一〇四三　　市場帰り",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-47",
+            "number": "一〇四六　　悍馬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-48",
+            "number": "一〇四八　　〔レアカーを引きナイフをもって〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-49",
+            "number": "一〇五三　　〔おい　けとばすな〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-50",
+            "number": "一〇五六　　〔秘事念仏の大元締が〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-51",
+            "number": "一〇五八　　電車",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-52",
+            "number": "一〇五九　　開墾地検察",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-53",
+            "number": "一〇六六　　〔今日こそわたくしは〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-54",
+            "number": "一〇六八　　〔エレキや鳥がばしゃばしゃ翔べば〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-55",
+            "number": "一〇七二　　県技師の雲に対するステートメント",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-56",
+            "number": "一〇七五　　囈語",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-57",
+            "number": "一〇七六　　囈語",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-58",
+            "number": "一〇七七　　金策",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-59",
+            "number": "一〇七九　　僚友",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-60",
+            "number": "一〇八〇　　〔さはやかに刈られる蘆や〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-61",
+            "number": "一〇八二　　〔あすこの田はねえ〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-62",
+            "number": "一〇二〇　　野の師父",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-63",
+            "number": "一〇二一　　和風は河谷いっぱいに吹く",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-64",
+            "number": "一〇八八　　〔もうはたらくな〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-65",
+            "number": "一〇八九　　〔二時がこんなに暗いのは〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-66",
+            "number": "一〇九〇　　〔何をやっても間に合はない〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-67",
+            "number": "台地",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-68",
+            "number": "停留所にてスヰトンを喫す",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-69",
+            "number": "穂孕期",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 267,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春と修羅　第三集",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "七〇六　　村娘",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "一九二六、五、二、\n\n畑を過ぎる鳥の影\n\n青々ひかる山の稜\n\n雪菜の薹を手にくだき\n\nひばりと川を聴きながら\n\nうつつにひととものがたる",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "七〇九　　春",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "一九二六、五、二、\n\n陽が照って鳥が啼き\n\nあちこちの楢の林も、\n\nけむるとき\n\nぎちぎちと鳴る　汚ない掌を、\n\nおれはこれからもつことになる",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "七一一　　水汲み",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "一九二六、五、一五、\n\nぎっしり生えたち萱の芽だ\n\n紅くひかって\n\n仲間同志に影をおとし\n\n上をあるけば距離のしれない敷物のやうに\n\nうるうるひろがるち萱の芽だ\n\n　　　……水を汲んで砂へかけて……\n\nつめたい風の海蛇が\n\nもう幾脈も幾脈も",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "野ばらの藪をすり抜けて\n\n川をななめに溯って行く\n\n　　　……水を汲んで砂へかけて……\n\n向ふ岸には\n\n蒼い衣のヨハネが下りて\n\nすぎなの胞子《たね》をあつめてゐる\n\n　　　……水を汲んで砂へかけて……\n\n岸までくれば\n\nまたあたらしいサーペント",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "　　　……水を汲んで水を汲んで……\n\n遠くの雲が幾ローフかの\n\n麺麭にかはって売られるころだ",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "七一四　　疲労",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "一九二六、六、一八、\n\n南の風も酸っぱいし\n\n穂麦も青くひかって痛い\n\nそれだのに\n\n崖の上には\n\nわざわざ今日の晴天を、\n\n西の山根から出て来たといふ\n\n黒い巨きな立像が\n\n眉間にルビーか何かをはめて",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "三っつも立って待ってゐる\n\n疲れを知らないあゝいふ風な三人と\n\nせいいっぱいのせりふをやりとりするために\n\nあの雲にでも手をあてて\n\n電気をとってやらうかな",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "七一五　　〔道べの粗朶に〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "一九二六、六、二〇、\n\n道べの粗朶に\n\n何かなし立ちよってさはり\n\nけ白い風にふり向けば\n\nあちこち暗い家ぐねの杜と\n\n花咲いたまゝいちめん倒れ\n\n黒雲に映える雨の稲\n\nそっちはさっきするどく斜視し\n\nあるいは嘲けりことばを避けた",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "陰気な幾十の部落なのに\n\n何がこんなにおろかしく\n\n私の胸を鳴らすのだらう\n\n今朝このみちをひとすぢいだいたのぞみも消え\n\nいまはわづかに白くひらける東のそらも\n\nたゞそれだけのことであるのに\n\nなほもはげしく\n\nいかにも立派な根拠か何かありさうに\n\n胸の鳴るのはどうしてだらう",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "野原のはてで荷馬車は小く\n\nひとはほそぼそ尖ってけむる",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "七一八　　蛇踊",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "一九二六、六、二〇、\n\nこの萌えだした柳の枝で\n\nすこしあたまを叩いてやらう\n\n叩かれてぞろぞろまはる\n\nはなはだ艶で無器用だ\n\nがらがら蛇でもない癖に\n\nしっぽをざらざら鳴らすのは\n\nそれ響尾蛇に非るも\n\n蛇はその尾を鳴らすめり",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "青い\n\n青い\n\n紋も青くて立派だし\n\nりっぱな節奏《リズム》もある\n\nさう　そのポーズ\n\nいまの主題は\n\n「白びかりある攻勢」とでもいふのだらう\n\nしまひにうすい桃いろの\n\n口を大きく開くのが",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "役者のこはさ半分に\n\n所謂見栄を切るのにあたる\n\nもすこしぴちゃぴちゃ叩いてやらう\n\n今日は廐肥をいぢるので\n\n蛇にも手などを出すわけだ\n\nけれども蛇よ、\n\nどうも、おまへにからかってると\n\n酸っぱいトマトをたべてるやうだ\n\nおまへの方で遁げるのか",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "それではひとつわたしも遁げる",
+      "characters": 14,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "七一八　　井戸",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "一九二六、七、八、\n\nこゝから草削《ホウ》をかついで行って\n\n玉菜畑へ飛び込めば\n\n宗教ではない体育でもない\n\n何か仕事の推進力と風や陽ざしの混合物\n\n熱く酸っぱい阿片のために\n\n二時間半がたちまち過ぎる\n\nそいつが醒めて\n\nまはりが白い光の網で消されると",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "ぼくはこゝまで戻って来て\n\n水をごくごく呑むのである",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "七二六　　風景",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 26,
+      "content": "一九二六、七、一四、\n\n松森蒼穹《そら》に後光を出せば\n\n片頬黒い県会議員が\n\nひとりゆっくりあるいてくる\n\n羊歯やこならの丘いちめんに\n\nことしも燃えるアイリスの花",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "七二七　　〔アカシヤの木の洋燈《ラムプ》から〕",
+      "characters": 23,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 28,
+      "content": "一九二六、七、一四、\n\nアカシヤの木の洋燈《ラムプ》から\n\n風と睡さに\n\n朝露も月見草の花も萎れるころ\n\n鬼げし風のきもの着て\n\n稲沼《ライスマーシュ》のくろにあそぶ子",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "七二八　　〔驟雨《カダチ》はそそぎ〕",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 30,
+      "content": "一九二六、七、一五、\n\n驟雨《カダチ》はそそぎ\n\n土のけむりはいっさんにあがる\n\n　　あゝもうもうと立つ湯気のなかに\n\n　　わたくしはひとり仕事を忿る\n\n　　　　……枯れた羊歯の葉\n\n　　　　　　野ばらの根\n\n　　　　　　壊れて散ったその塔を\n\n　　　　　　いまいそがしくめぐる蟻……",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "杉は驟雨のながれを懸け\n\nまたほの白いしぶきをあげる",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "七三〇　　〔おしまひは〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "一九二六、八、八、\n\n「おしまひは\n\nシャーマン山の第七峰の別当が\n\n錦と水晶の袈裟を着て\n\nじぶんで出てきて諫めたさうだ」\n\n青い光霞の漂ひと翻る川の帯\n\nその骨ばったツングース型の赭い横顔",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "七三〇ノ二　　増水",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "一九二六、八、一五、\n\n悪どく光る雲の下に\n\n幅では二倍量では恐らく十倍になった北上は\n\n黄いろな波をたててゐる\n\n鉄舟はみな敝舎へ引かれ\n\nモーターボートはトントン鳴らす\n\n下流から水があくって来て\n\n古川あとの田はもうみんな沼になり\n\n豆のはたけもかくれてしまひ",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "桑のはたけももう半分はやられてゐる\n\nかたつむりの痕のやうにひかりながら\n\n島になって残った松の下の草地と\n\n白菜ばたけをかこんでゐる\n\nいつの間にどうして行ったのか\n\nその温い恐ろしい磯に\n\n黒くうかんで誰か四五人立ってゐる\n\n一人は網をもってゐる\n\nはゞきをはいて封介もゐる",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "水はすでに\n\nこの秋のわが糧を奪ひたるか\n\n屋根にのぼって展望する\n\n廐肥の束はみなことごとく高みに運び\n\n鍬と笊とは先刻腰まで水にひたって\n\n辛くも奪ひかへして来た",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "七三一〔黄いろな花もさき〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "一九二六、八、二〇、\n\n黄いろな花もさき\n\nあらゆる色の種類した\n\n畦いっぱいの地しばりを\n\nレーキでがりがり掻いてとる\n\n川はあすこの瀬のところで\n\n毎秒九噸の針をながす\n\n上を見ろ\n\n石を投げろ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "まっ白なそらいっぱいに\n\nもずが矢ばねを叩いて行く",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "七三三　　休息",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 42,
+      "content": "一九二六、八、二七、\n\n　　あかつめくさと\n\n　　きむぽうげ\n\nおれは羆熊だ　観念しろよ\n\n　　遠くの雲が幾ローフかの\n\n　　麺麭にかはって売られるころだ\n\nあはは　憂陀那よ\n\n冗談はよせ\n\nひとの肋を",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "抜身でもってくすぐるなんて",
+      "characters": 13,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "七三四　　〔青いけむりで唐黍を焼き〕",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 45,
+      "content": "一九二六、八、二七、\n\n青いけむりで唐黍を焼き\n\nポンデローザも皿に盛って\n\n若杉のほずゑの chrysocolla を見れば\n\nたのしく豊かな朝餐な筈であるのに\n\nこんなにも落ち着かないのは\n\n今日も川ばたの荒れた畑の切り返しが\n\n胸いっぱいにあるためらしい\n\n　　……エナメルの雲鳥の声……",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "強ひてもひとつ\n\nふさふさ紅いたうもろこしの毛をもぎり\n\nその水いろの莢をむけば\n\n熱く苦しいその仕事が\n\n百年前の幽かなことのやうでもある",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "七三五　　饗宴",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 48,
+      "content": "一九二六、九、三、\n\n酸っぱい胡瓜をぽくぽく噛んで\n\nみんなは酒を飲んでゐる\n\n　……土橋は曇りの午前にできて\n\n　　　いまうら青い榾のけむりは\n\n　　　稲いちめんに這ひかゝり\n\n　　　そのせきぶちの杉や楢には\n\n　　　雨がどしゃどしゃ注いでゐる……\n\nみんなは地主や賦役に出ない人たちから",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "集めた酒を飲んでゐる\n\n　……われにもあらず\n\n　　　ぼんやり稲の種類を云ふ\n\n　　　こゝは天山北路であるか……\n\nさっき十ぺん\n\nあの赤砂利をかつがせられた\n\n顔のむくんだ弱さうな子が\n\nみんなのうしろの板の間で\n\n座って素麺《むぎ》をたべてゐる",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "　　（紫雲英《ハナコ》植れば米とれるてが\n\n　　　藁ばりとったて間に合ぁなぢゃ）\n\nこどもはむぎを食ふのをやめて\n\nちらっとこっちをぬすみみる",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "七三六　　〔濃い雲が二きれ〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 52,
+      "content": "一九二六、九、五、\n\n濃い雲が二きれ\n\nシャーマン山をかすめて行く\n\n　　（何を吐《ぬか》して行ったって？）\n\n　　（雷沢帰妹の三だとさ！）\n\n向ふは寒く日が射して\n\n蛇紋岩《サーペンテイン》の青い鋸",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "七三八　　はるかな作業",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 54,
+      "content": "一九二六、九、一〇、\n\nすゝきの花や暗い林の向ふのはうで\n\nなにかちがった風の品種が鳴ってゐる\n\nぎらぎら縮れた雲と青陽の格子のなかで\n\n風があやしい匂ひをもってふるへてゐる\n\nそらをうつして空虚《うつろ》な川と\n\n黒いけむりをわづかにあげる\n\n瓦工場のうしろの台に\n\n冴え冴えとしてまたひゞき",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "ここの畑できいてゐれば\n\n楽しく明るさうなその仕事だけれども\n\n晩にはそこから忠一が\n\nつかれて憤って帰ってくる",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "七三九　　〔霧がひどくて手が凍えるな〕",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 57,
+      "content": "一九二六、九、一三、\n\n霧がひどくて手が凍えるな\n\n　……馬もぶるっとももをさせる……\n\n縄をなげてくれ縄を\n\n　……すすきの穂も水霜でぐっしょり\n\n　　　あゝはやく日が照るといゝ……\n\n雉子が啼いてるぞ　雉子が\n\nおまへの家のなからしい\n\n　……誰も居なくなった家のなかを",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "　　　餌を漁って大股にあるきながら\n\n　　　雉子が叫んでゐるのだらうか……",
+      "characters": 37,
+      "ruby": []
+    },
+    {
+      "pageNumber": 59,
+      "content": "七四〇　　秋",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 60,
+      "content": "一九二六、九、二三、\n\n江釣子森の脚から半里\n\n荒さんで甘い乱積雲の風の底\n\n稔った稲や赤い萱穂の波のなか\n\nそこに鍋倉上組合の\n\nけらを装った年よりたちが\n\nけさあつまって待ってゐる\n\n恐れた歳のとりいれ近く\n\nわたりの鳥はつぎつぎ渡り",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 61,
+      "content": "野ばらの藪のガラスの実から\n\n風が刻んだりんだうの花\n\n　　……里道は白く一すぢわたる……\n\nやがて幾重の林のはてに\n\n赤い鳥居や昴《スバル》の塚や\n\nおのおのの田の熟した稲に\n\n異る百の因子を数へ\n\nわれわれは今日一日をめぐる\n\n青じろいそばの花から",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "蜂が終りの蜜を運べば\n\nまるめろの香とめぐるい風に\n\n江釣子森の脚から半里\n\n雨つぶ落ちる萱野の岸で\n\n上鍋倉の年よりたちが\n\nけさ集って待ってゐる",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 63,
+      "content": "七四一　　煙",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 64,
+      "content": "一九二六、一〇、九、\n\n川上の\n\n煉瓦工場の煙突から\n\nけむりが雲につゞいてゐる\n\nあの脚もとにひろがった\n\n青じろい頁岩の盤で\n\n尖って長いくるみの化石をさがしたり\n\n古いけものの足痕を\n\nうすら濁ってつぶやく水のなかからとったり",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 65,
+      "content": "二夏のあひだ\n\n実習のすんだ毎日の午后を\n\n生徒らとたのしくあそんで過ごしたのに\n\nいま山山は四方にくらく\n\n一ぺんすっかり破産した\n\n煉瓦工場の煙突からは\n\n何をたいてゐるのか\n\n黒いけむりがどんどんたって\n\nそらいっぱいの雲にもまぎれ",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "白金いろの天末も\n\nだんだん狭くちゞまって行く",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 67,
+      "content": "七四一　　白菜畑",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 68,
+      "content": "霜がはたけの砂いっぱいで\n\nエンタシスある柱の列は\n\nみな水いろの影をひく\n\n十いくつかのよるとひる\n\n病んでもだえてゐた間\n\nこんなつめたい空気のなかで\n\n千の芝罘白菜は\n\nはじけるまでの砲弾になり\n\n包頭連の七百は",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "立派なパンの形になった\n\nこゝは船場を渡った人が\n\nみんな通って行くところだし\n\n川に沿ってどっちへも抜けられ\n\n崖の方へも出られるので\n\nどうもこゝへ野菜をつくっては\n\n盗られるだらうとみんなで云った\n\nけれども誰も盗まない\n\n季節にはひとりでにかういふに熟して",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 70,
+      "content": "朝はまっ白な霜をかぶってゐるし\n\n早池峰薬師ももう雪でまっしろ\n\n川は爆発するやうな\n\n不定な湯気をときどきあげ\n\n燃えたり消えたりしつづけながら\n\nどんどん針をながしてゐる\n\n病んでゐても\n\nあるいは死んでしまっても\n\n残りのみんなに対しては",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 71,
+      "content": "やっぱり川はつづけて流れるし\n\nなんといふいゝことだらう\n\nあゝひっそりとしたこのはたけ\n\nけれどもわたくしが\n\nレアカーをひいて\n\nこの砂つちにはひってから\n\nまだひとつの音もきいてゐないのは\n\nそれとも聞えないのだらうか、\n\n巨きな湯気のかたまりが",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "いま日の面を通るので\n\n柱列の青い影も消え\n\n砂もくらくはなったけれども",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 73,
+      "content": "七四二　　圃道",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 74,
+      "content": "一九二六、一〇、一〇、\n\n水霜が\n\nみちの草穂にいっぱいで\n\n車輪もきれいに洗はれた\n\nざんざんざんざん木も藪も鳴ってゐるのは\n\nその重いつめたい雫が\n\nいま落ちてゐる最中なのだ\n\n霧が巨きな塊《こごり》になって\n\n太陽面を流れてゐる",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 75,
+      "content": "さっき川から炎のやうにあがってゐた\n\nあのすさまじい湯気のあとだ\n\n気管がひどくぜいぜい云ふ\n\nかういふぜいぜい鳴る胸へ\n\n焼酎をすこし呑みたいと思ひ\n\nふかした芋をたべたいと思ひ\n\n町に心を残しながら\n\n野菜を売った年老りたちが\n\nみなこの坂を帰ったのだ",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "七四三　　〔盗まれた白菜の根へ〕",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 77,
+      "content": "一九二六、一〇、一三、\n\n盗まれた白菜の根へ\n\n一つに一つ萱穂を挿して\n\nそれが日本主義なのか\n\n水いろをして\n\nエンタシスある柱の列の\n\nその残された推古時代の礎に\n\n一つに一つ萱穂が立てば\n\n盗人《ぬすびと》がここを通るたび",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "初冬の風になびき日にひかって\n\nたしかにそれを嘲弄する\n\nさうしてそれが日本思想\n\n弥《いや》栄主義の勝利なのか",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 79,
+      "content": "一〇〇一　　〔プラットフォームは眩ゆくさむく〕",
+      "characters": 23,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 80,
+      "content": "一九二七、二、一二、\n\nプラットフォームは眩ゆくさむく\n\n緑に塗られたシグナルや\n\nきららかに飛ぶ氷華のなかを\n\nあゝ狷介に学士は老いて\n\nいまは大都の名だたる国手\n\n昔の友を送るのです\n\n……そのきらゝかな氷華のはてで\n\n小さな布の行嚢や",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 81,
+      "content": "魚の包みがおろされますと\n\n笛はおぼろにけむりはながれ\n\n学士の影もうしろに消えて\n\nしづかに鎖すその窓は\n\n鉛のいろの氷晶です\n\n　　かがやいて立つ氷の樹\n\n　　蒼々けぶる山と雲\n\n　　一つら過ぎゆく町のはづれに\n\n　　日照はいましづかな冬で",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "　　車室はあえかなガラスのにほひ\n\n　　髪をみだし黒いネクタイをつけて\n\n　　朝の光にねむる写真師\n\n　　東の窓はちひさな塵の懸垂と\n\n　　そのうつくしいティンダル効果\n\n　　客はつましく座席をかへて\n\n　　双手に二月のパネルをひらく\n\nしづかに東の窓にうつり\n\nいちゐの囲み池をそなへた小さな医院",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
+      "content": "その陶標の門をば斜め\n\n客は至誠を面にうかべ\n\n体を屈して殊遇を謝せば\n\n桑にも梨にもいっぱいの氷華",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 84,
+      "content": "一〇〇三　　実験室小景",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 85,
+      "content": "一九二七、二、一八、\n\n（こんなところにゐるんだな）\n\n　　　　ビーカー、フラスコ、ブンゼン燈、\n\n（この漆喰に立ちづくめさ）\n\n　　　　暖炉はひとりでうなってゐるし\n\n　　　　黄いろな時計はびっこをひきひきうごいてゐる\n\n（ガラスのオボーがたくさんあるな）\n\n（あれは逆流冷却器）\n\n（ずゐぶん大きなカップだな）",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "（どうだきみは、苛性加里でもいっぱいやるか）\n\n（ふふん）\n\n　　　　雪の反射とポプラの梢\n\n　　　　そらを行くのはオパリンな雲\n\n　　　　あるいはこまかな氷のかけら\n\n（分析ならばきみはなんでもできるのかい）\n\n（あゝ物質の方ならね）\n\n（はははは　今日は大へん謙遜だ\n\n　まるでニュウトンそっくりだ）",
+      "characters": 152,
+      "ruby": []
+    },
+    {
+      "pageNumber": 87,
+      "content": "（きみニュウトンは物理だよ）\n\n（どっちにしてももう一あしだ\n\n　教授になって博士になれば\n\n　男爵だってなってなれないこともない）\n\n（きみきみ助手が見てゐるよ）\n\n　　　　湯気をふくふくテルモスタット\n\n（春が来るとも見えないな）\n\n（いや、来るときは一どに来る\n\n　春の速さはまたべつだ）",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "（春の速さはをかしいぜ）\n\n（文学亜流にわかるまい、\n\n　ぜんたい春といふものは\n\n　気象因子の系列だぜ\n\n　はじめははんの紐を出し\n\n　しまひに八重の桜をおとす\n\n　それが地点を通過すれば\n\n　速さがそこにできるだらう）\n\n（さういふことを云ってたら",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 89,
+      "content": "　論文なんかぐにゃぐにゃだらう）\n\n（論文なんかぱりぱりさ）\n\n　　　　　△\n\n（何時になればいっしょに出れる？）\n\n（四時ならいゝよ）\n\n（もう一時間）\n\n（あゝ温室で遊んでないか\n\n　済んだらぼくがのぞくから\n\n　助手がいろいろ教へてくれる）",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 90,
+      "content": "（ではさうしよう\n\n　あの玄関のわきのだな）\n\n（あゝさう\n\n　ひとりではひっていゝんだ\n\n　あけっぱなしはごめんだぜ）",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 91,
+      "content": "一〇〇五　　〔鈍い月あかりの雪の上に〕",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 92,
+      "content": "一九二七、三、一五、\n\n鈍い月あかりの雪の上に\n\n松並の影がひろがってゐる\n\nひるなら碧く\n\nいまも螺鈿のモザイク風した影である\n\nこんな巨きな松の枝さへ落ちてゐる\n\nこのごろのあの雨雪で折れたのだ\n\nそこはたしかに畑の雪が溶けてゐる\n\n玉葱と　ペントステモン",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 93,
+      "content": "なにかふしぎなからくさ模様が\n\n苗床いちめんついてゐる\n\n川が鼠いろのそらと同じで\n\n音なく南へ滑って行けば\n\nあゝ　その東は縮れた風や五輪峠や\n\n泣きだしたいやうな甘ったるい雲だ\n\n　　松は昆布とアルコール\n\n　　まだらな草地はねむさを噴く\n\n早池峰はもやの向ふにねむり",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "ずうっとみなかみの\n\nすきとほって暗い風のなかを\n\n川千鳥が啼いて溯ってゐる\n\n町の偏光の方では犬の声\n\n風がいまつめたいアイアンビックにかはる",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 95,
+      "content": "一〇〇八　　〔土も掘るだらう〕",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 96,
+      "content": "一九二七、三、一六、\n\n土も掘るだらう\n\nときどきは食はないこともあるだらう\n\nそれだからといって\n\nやっぱりおまへらはおまへらだし\n\nわれわれはわれわれだと\n\n　　……山は吹雪のうす明り……\n\nなんべんもきき\n\nいまもきゝ",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 97,
+      "content": "やがてはまったくその通り\n\nまったくさうしかできないと\n\n　　……林は淡い吹雪のコロナ……\n\nあらゆる失意や病気の底で\n\nわたくしもまたうなづくことだ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 98,
+      "content": "一〇一二　　〔甲助　今朝まだくらぁに〕",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 99,
+      "content": "一九二七、三、二一、\n\n甲助\n\n今朝まだくらぁに、\n\nたった一人で綱取さ稼ぐさ行ったでぁ\n\n　　……赤楊にはみんな氷華がついて\n\n　　　　野原はうらうら白い偏光……\n\n唐獅子いろの乗馬ずぼんはぃでさ\n\n新らし紺の風呂敷しょってさ\n\n親方みだぃ手ぶらぶらど振って行ったでぁ",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "　　……雪に点々けぶるのは\n\n　　　　三つ沢山の松のむら……\n\n清水野がら大曲野がら後藤野ど\n\n一人で威張って歩って\n\n大股に行くうぢはいがべぁ\n\n向ふさ着げば撰鉱だがな運搬だがな\n\n夜でば小屋の隅こさちょこっと寝せらへで\n\nたゞの雑役人夫だがらな\n\n　　……江釣子森が",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 101,
+      "content": "　　　　ぼうぼうと湯気をあげて\n\n　　　　氷醋酸の塊りのやう……\n\nあらがだ後藤野さかがったころだ",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "一〇一四　　春",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 103,
+      "content": "一九二七、三、二三、\n\n野原は残りのまだらな雪と\n\n黝ぶり滑べる夜見来川\n\n雲が淫らな尾を引いて\n\n青々沈む波羅蜜山の、\n\n松のあたまをかすめて越せば\n\n山の向ふは濁ってくらく\n\n二すぢしろい光の棒と\n\nわづかになまめく笹のいろ",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 104,
+      "content": "野原はまだらな磁製の雪と\n\n温んで滑べる夜見来川",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 105,
+      "content": "一〇一五　　〔バケツがのぼって〕",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 106,
+      "content": "一九二七、三、二三、\n\nバケツがのぼって\n\n鉛いろしたゴーシュ四辺形の影のなかから\n\nいまうららかな波をたゝへて\n\nひざしのなかにでてくると\n\nそこに　―ひとひら―\n\n　　　―なまめかしい貝―\n\n　　―ヘリクリサムの花冠……\n\n一ぴきの蛾が落ちてゐる",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 107,
+      "content": "滑らかに強い水の表面張力から\n\n四枚の翅を離さうとして\n\n蛾はいっしんにもだえてゐる\n\n　　―またたくさんの小さな気泡……\n\nわたくしはこの早い春への突進者\n\n鱗翅の群の急尖鋒を\n\n温んでひかる気海のなかへ\n\n再び発足させねばならぬ\n\n早くも小さな水けむり",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 108,
+      "content": "鱗粉気泡イリデセンス\n\n春の蛾は\n\nひとりで水を叩きつけて\n\n　　　　　飛び立つ\n\n　　　　飛び立つ\n\n　　　飛び立つ\n\nもういま杉の茶いろな房と\n\n不定形な雲の間を航行する",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 109,
+      "content": "一〇一七　　開墾",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 110,
+      "content": "一九二七、三、二七、\n\n野ばらの藪を、\n\nやうやくとってしまったときは\n\n日がかうかうと照ってゐて\n\nそらはがらんと暗かった\n\nおれも太市も忠作も\n\nそのまゝ笹に陥ち込んで、\n\nぐうぐうぐうぐうねむりたかった\n\n川が一秒九噸の針を流してゐて",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 111,
+      "content": "鷺がたくさん東へ飛んだ",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 112,
+      "content": "一〇一九　　札幌市",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 113,
+      "content": "一九二七、三、二八、\n\n遠くなだれる灰光と\n\n貨物列車のふるひのなかで\n\nわたくしは湧きあがるかなしさを\n\nきれぎれ青い神話に変へて\n\n開拓紀念の楡の広場に\n\n力いっぱい撒いたけれども\n\n小鳥はそれを啄まなかった",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 114,
+      "content": "一〇二二　　〔一昨年四月来たときは〕",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 115,
+      "content": "一九二七、四、一、\n\n一昨年四月来たときは、\n\nきみは重たい唐鍬をふるひ、\n\n蕗の根をとったり\n\n薹を截ったり\n\n朝日に翔ける雪融の風や\n\nそらはいっぱいの鳥の声で\n\n一万のまた千億の\n\n新におこした塊りには",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 116,
+      "content": "いちいち黒い影を添へ\n\n杉の林のなかからは\n\n房毛まっ白な聖重挽馬が\n\nこっそりはたけに下り立って\n\nふさふさ蹄の毛もひかってゐた\n\n去年の春にでかけたときは\n\nきみたちは川岸に居て\n\n生温い南の風が\n\nきみのかつぎをひるがへし",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 117,
+      "content": "またあの人の頬を吹き\n\n紺紙の雲には日が熟し\n\n川が鉛と銀とをながし\n\n楊の花芽崩れるなかに\n\nきみは次々畦を掘り\n\n人は尊い供物のやうに\n\n牛糞を捧げて来れば\n\n風は下流から吹いて吹いて\n\nキャベヂの苗はわづかに萎れ",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 118,
+      "content": "風は白い砂を吹いて吹いて\n\nもういくつもの小さな砂丘を\n\n畑のなかにつくってゐた\n\nそしてその夏あの恐ろしい旱魃が来た",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 119,
+      "content": "一〇二五　　〔燕麦《オート》の種子をこぼせば〕",
+      "characters": 23,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 120,
+      "content": "一九二七、四、四、\n\n燕麦《オート》の種子をこぼせば、\n\n砂が深くくらく、\n\n黒雲は温く妊んで\n\n一きれ、一きれ、\n\n野ばらの藪を渉って行く\n\nぼろぼろの南京袋で帆をはって\n\n船が一さうのぼってくる\n\nからの酒樽をいくつかつけ",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 121,
+      "content": "いっぱいの黒い流れを、\n\nむらきな南の風に吹かれて\n\nのろのろとのぼって往けば\n\n金貨を護送する兵隊のやうに\n\n人が三人乗ってゐる\n\n一人はともに膝をかゝへ\n\n二人は憎悪のまなこして\n\n岸のはたけや藪を見ながら\n\n身構へをして立ってゐる",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 122,
+      "content": "　　……あれらの憎悪のひとみから\n\n　　　　あらたな文化がうまれるのか……\n\nどんより澱むひかりのなかで\n\n上着の肩がもそもそやぶけ\n\nどんどん翔ける雲の上で\n\nひばりがくるほしくないてゐる",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 123,
+      "content": "一〇二八　　酒買船",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 124,
+      "content": "一九二七、四、五、\n\n四斗の樽を五つもつけて\n\n南京袋で帆をはって\n\nねむさや風に逆って\n\n山の鉛が溶けて来る、\n\n重いいっぱいの流れを溯り\n\n北の方の\n\n泣きだしたいやうな雲の下へ\n\n船はのろのろのぼって行く",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 125,
+      "content": "みなで三人乗ってゐる\n\n一人はともに膝をかゝへて座ってゐるし\n\n二人はじろじろこっちを見ながら立ってゐる\n\nじつにうまくないそのつら\n\nじぶんだけせいぜいはうたうをして\n\nそれでも不満でしかたないといふ顔付きだ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 126,
+      "content": "一〇三〇　　春の雲に関するあいまいなる議論",
+      "characters": 21,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 127,
+      "content": "一九二七、四、五、\n\nあの黒雲が、\n\nきみをぎくっとさせたとすれば\n\nそれは群集心理だな\n\nこの川すぢの五十里に\n\n麦のはたけをさくったり\n\n桑を截ったりやってゐる\n\nわれらにひとしい幾万人が\n\nいままで冬と戦って来た情熱を",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 128,
+      "content": "うらがなしくもなつかしいおもひに変へ\n\nなにかほのかなのぞみに変へれば\n\nやり場所のないその瞳を\n\nみなあの雲に投げてゐる\n\nそれだけでない\n\nあのどんよりと暗いもの\n\n温んだ水の懸垂体\n\nあれこそ恋愛そのものなのだ\n\n炭酸瓦斯の交流や",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 129,
+      "content": "いかさまな春の感応\n\nあれこそ恋愛そのものなのだ",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "一〇三二　　〔あの大もののヨークシャ豚が〕",
+      "characters": 21,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 131,
+      "content": "一九二七、四、七、\n\nあの大もののヨークシャ豚が\n\nけふははげしい金毛《ケ》に変り\n\n独楽よりひどく傾きながら\n\n西日をさしてかけてゐる\n\nかけてゐる\n\nかけてゐる\n\nまっ黒な森のへりに沿って\n\nまだまっしぐらにかけてゐる",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 132,
+      "content": "追ってゐるのは棒をかざして髪もひかる\n\n日本島の里長のむすめ\n\n梢《うら》枯れかかった槻の木に\n\nぐらぐらゆれてゐるのは夕日\n\n里長が森をぽろっと出る\n\nなにかむしゃむしゃ食ひながら\n\n小手をかざしてそらを見る",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 133,
+      "content": "一〇三三　　悪意",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 134,
+      "content": "一九二七、四、八、\n\n夜のあひだに吹き寄せられた黒雲が、\n\n山地を登る日に焼けて、\n\n凄まじくも暗い朝になった\n\n今日の遊園地の設計には、\n\nあの悪魔ふうした雲のへりの、\n\n鼠と赤をつかってやらう、\n\n口をひらいた魚のかたちのアンテリナムか\n\nいやしいハーデイフロックス",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 135,
+      "content": "さういふものを使ってやらう\n\n食ふものもないこの県で\n\n百万からの金も入れ\n\n結局魔窟を拵へあげる、\n\nそこにはふさふ色調である",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 136,
+      "content": "一〇三六　　燕麦播き",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 137,
+      "content": "一九二七、四、一一、\n\n白いオートの種子を播き\n\n間に汗もこぼれれば\n\n畑の砂は暗くて熱く\n\n藪は陰気にくもってゐる\n\n下流はしづかな鉛の水と\n\n尾を曳く雲にもつれるけむり\n\nつかれは巨きな孔雀に酸えて\n\n松の林や地平線",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 138,
+      "content": "たゞ青々と横はる",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 139,
+      "content": "一〇三七　　宅地",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 140,
+      "content": "一九二七、四、一三、\n\n日が黒雲の、\n\n一つの棘にかくれれば\n\nやけに播かれた石灰窒素の砂利畑に\n\nさびしく桐の枝が落ち\n\n鼻の尖った満州豚は\n\n小屋のなかから　ぽくっと斜めに\n\n頭には石灰窒素をくっつけながらはね出して\n\n玉菜の茎をほじくりあるく",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 141,
+      "content": "家のなかではひとり置かれた赤ん坊が\n\n片っ方の眼をつぶってねむる",
+      "characters": 32,
+      "ruby": []
+    },
+    {
+      "pageNumber": 142,
+      "content": "一〇三九　　〔うすく濁った浅葱の水が〕",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 143,
+      "content": "一九二七、四、一八、\n\nうすく濁った浅葱の水が\n\nけむりのなかをながれてゐる\n\n早池峰は四月にはひってから\n\n二度雪が消えて二度雪が降り\n\nいまあはあはと土耳古玉《タキス》のそらにうかんでゐる\n\nそのいたゞきに\n\n二すぢ翔ける、\n\nうるんだ雲のかたまりに",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 144,
+      "content": "基督教徒だといふあの女の\n\nサラーに属する女《ひと》たちの\n\nなにかふしぎなかんがへが\n\nぼんやりとしてうつってゐる\n\nそれは信仰と奸詐との\n\nふしぎな複合体とも見え\n\nまことにそれは\n\n山の啓示とも見え\n\n畢竟かくれてゐたこっちの感じを",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 145,
+      "content": "その雲をたよりに読むのである",
+      "characters": 14,
+      "ruby": []
+    },
+    {
+      "pageNumber": 146,
+      "content": "一〇四〇　　〔日に暈ができ〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 147,
+      "content": "一九二七、四、一九、\n\n日に暈ができ\n\n風はつめたい西にまはった\n\nああ　レーキ\n\nあんまり睡い\n\n　　（巨きな黄いろな芽のなかを\n\n　　　たゞぼうぼうと泳ぐのさ）\n\n杉みな昏く\n\nかげろふ白い湯気にかはる",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 148,
+      "content": "午",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 149,
+      "content": "一九二七、四、二〇、\n\nひるになったので\n\n枯れたよもぎの茎のなかに\n\n長いすねを抱くやうに座って\n\n一ぷくけむりを吹きながら\n\nこっちの方を見てゐるやうす\n\n七十にもなって丈六尺に近く\n\nうづまいてまっ白な髪や鬚は\n\nまづはむかしの大木彫が",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 150,
+      "content": "日向へ迷って出て来たやう\n\n日が高くなってから\n\n巨きなくるみの被さった\n\n同心町の石を載せた屋根の下から\n\nひとりのっそり起き出して\n\n鍬をかついであちこち見ながら\n\nこの川べりをやって来た\n\nおまへの畑は甘藍などを植ゑるより\n\n人蔘やごばうがずっといゝ",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 151,
+      "content": "おれがいゝ種子を下すから\n\n一しょに組んで作らないかと\n\nさう大声で云ひながら\n\n俄かに何を考へたのか\n\nいままで大きく張った眼が\n\n俄かに遠くへ萎んでしまひ\n\n奥で小さな飴色の火が\n\nかなりしばらくともってゐた\n\nそれから深く刻まれた",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 152,
+      "content": "顔いっぱいの大きな皺が\n\n氷河のやうに降りて来た\n\n　　　それこそは\n\n　　　時代に叩きつけられた\n\n　　　武士階級の辛苦の記録、\n\n　　　しかも殷鑑遠からず\n\n　　　たゞもうかはるがはるのはなし\n\n折角の有利な企業への加入申込がないので\n\n老いた発起人はさびしさうに、",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 153,
+      "content": "きせるはわづかにけむりをあげて\n\nやっぱりこっちをながめてゐる",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 154,
+      "content": "一〇四二　　〔同心町の夜あけがた〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 155,
+      "content": "一九二七、四、二一、\n\n同心町の夜あけがた\n\n一列の淡い電燈\n\n春めいた浅葱いろしたもやのなかから\n\nぼんやりけぶる東のそらの\n\n海泡石のこっちの方を\n\n馬をひいてわたくしにならび\n\n町をさしてあるきながら\n\n程吉はまた横眼でみる",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 156,
+      "content": "わたくしのレアカーのなかの\n\n青い雪菜が原因ならば\n\nそれは一種の嫉視であるが\n\n乾いて軽く明日は消える\n\n切りとってきた六本の\n\nヒアシンスの穂が原因ならば\n\nそれもなかばは嫉視であって\n\nわたくしはそれを作らなければそれで済む\n\nどんな奇怪な考が",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "わたくしにあるかをはかりかねて\n\nさういふふうに見るならば\n\nそれは懼れて見るといふ\n\nわたくしはもっと明らかに物を云ひ\n\nあたり前にしばらく行動すれば\n\n間もなくそれは消えるであらう\n\nわれわれ学校を出て来たもの\n\nわれわれ町に育ったもの\n\nわれわれ月給をとったことのあるもの",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 158,
+      "content": "それ全体への疑ひや\n\n漠然とした反感ならば\n\n容易にこれは抜き得ない\n\n　　向ふの坂の下り口で\n\n　　犬が三疋じゃれてゐる\n\n　　子供が一人ぽろっと出る\n\n　　あすこまで行けば\n\n　　あのこどもが\n\n　　わたくしのヒアシンスの花を",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 159,
+      "content": "　　呉れ呉れといって叫ぶのは\n\n　　いつもの朝の恒例である\n\n見給へ新らしい伯林青を\n\nじぶんでこてこて塗りあげて\n\n置きすてられたその屋台店の主人は\n\nあの胡桃の木の枝をひろげる\n\n裏の小さな石屋根の下で\n\nこれからねむるのでないか",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 160,
+      "content": "一〇四三　　市場帰り",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 161,
+      "content": "一九二七、四、二一、\n\n雪と牛酪《バター》を\n\nかついで来るのは詮之助\n\n　　やあお早う\n\nあたまひかって過ぎるのは\n\n枝を杖つく村老ヤコブ\n\n　　お天気ですな　まっ青ですな\n\n並木の影を\n\n犬が黄いろに走って行く",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 162,
+      "content": "　　お早うよ\n\n朝日のなかから\n\nかばんをさげたこどもらが\n\nみんな叫んで飛び出してくる",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 163,
+      "content": "一〇四六　　悍馬",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 164,
+      "content": "一九二七、四、二五、\n\n封介の廐肥《こえ》つけ馬が、\n\nにはかにぱっとはねあがる\n\n眼が紅く　竜に変って\n\n青びいどろの春の天を\n\nあせって掻いてとらうとする\n\n廐肥が一っつぽろっとこぼれ\n\n封介は両手でたづなをしっかり押へ\n\n半分どてへ押つける",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 165,
+      "content": "馬は二三度なほあがいて\n\nやうやく巨きな頭をさげ\n\n竜になるのをあきらめた\n\n　　雲ののろしは四方に騰り\n\n　　萱草芽を出す崖腹に\n\n　　マグノリアの花と霞の青\n\nひとの馬のあばれるのを\n\nなにもそんなに見なくてもいゝ\n\nおまへの鍬がひかったので",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 166,
+      "content": "馬がこんなにおどろいたのだと\n\nこぼれ廐肥にかゞみながら\n\n封介はしづかにうらんで云ふ\n\n封介は一昨日から\n\nくらい廐で熱くむっとする\n\n何百把かの廐肥をしばって\n\nすっかりむしゃくしゃしてゐるのだ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "一〇四八　　〔レアカーを引きナイフをもって〕",
+      "characters": 22,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 168,
+      "content": "一九二七、四、二六、\n\nレアカーを引きナイフをもって\n\nこの砂畑に来て見れば\n\nうら青い雪菜の列に\n\n微かな春の霜も下り\n\n西の残りの月しろの\n\nやさしく刷いたかをりも這ふ\n\nしからばぼくは今日慣例の購買者に\n\nこれを配分し届けるにあたって",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 169,
+      "content": "これらの清麗な景品をば\n\nいかにいっしょに添へたらいゝか\n\nしばし腕組み眺める次第\n\nすでにひがしは黄ばらのわらひをけぶし\n\n針を泛べる川からは\n\n温い梵《アニマ》の呼吸が襲ふ",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 170,
+      "content": "一〇五三　　〔おい　けとばすな〕",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 171,
+      "content": "一九二七、五、三、\n\nおい\n\nけとばすな\n\nけとばすな\n\nなあんだ　たうとう\n\n　　　すっきりとしたコチニールレッド\n\n　　　ぎっしり白い菌糸の網\n\n　　　こんな色彩の鮮明なものは\n\n　　　この森ぢゅうにあとはない",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 172,
+      "content": "　　　あゝムスカリン\n\nおーい！\n\nりんと引っぱれ！\n\nりんと引っぱれったら！\n\n山の上には雲のラムネ\n\nつめたい雲のラムネが湧く",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "一〇五六　　〔秘事念仏の大元締が〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 174,
+      "content": "一九二七、五、七、\n\n秘事念仏の大元締が\n\n今日は息子と妻を使って、\n\n北上ぎしへ陸稲《をかぼ》播き、\n\n　　　なまぬるい南の風は\n\n　　　川を溯ってやってくる\n\n秘事念仏のかみさんは\n\n乾いた牛の糞《コヤシ》を捧げ\n\nもう導師とも恩人とも",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 175,
+      "content": "じぶんの夫ををがむばかり\n\n　　　緑青いろの巨きな蠅が\n\n　　　牛の糞をとびめぐる\n\n秘事念仏の大元締は\n\n麦稈帽子をあみだにかぶり\n\n黒いずぼんにわらぢをはいて\n\nよちよちあるく烏を追ふ\n\n　　　紺紙の雲には日が熟し\n\n　　　川は鉛と銀とをながす",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 176,
+      "content": "秘事念仏の大元締は\n\nむすこがぼんやり楊をながめ\n\n口をあくのを情けながって\n\nどなって石をなげつける\n\n　　　楊の花は黄いろに崩れ\n\n　　　川ははげしい針になる\n\n下流のやぶからぽろっと出る\n\n紅毛まがひの郵便屋",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 177,
+      "content": "一〇五八　　電車",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 178,
+      "content": "一九二七、五、九、\n\n銀のモナドのちらばるそらと\n\n逞ましい村長の肩\n\n　　……ベルを鳴らしてカーヴを切る\n\n　　　　ベルといふより小さな銅鑼だ……\n\nはんの木立は東邦風に\n\n水路のへりにならんで立つ\n\nはんの木立の向ふの方で\n\n黒衣のこども燐酸を播く",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 179,
+      "content": "　　……ガンガン鳴らして飛ばして行く……\n\n田を鋤く馬と白いシャツ\n\n胆礬いろの山の尾根\n\n町へ出て行くおかみさんたち\n\nさあっと曇る村長の顔\n\n　　……うしろを過ぎるひばの木二本……\n\n風が行ってしまった池のやうに\n\nいま晴れわたる村長の顔\n\n　　……ベルを鳴らして一さん奔る……",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 180,
+      "content": "　　　栗の林の向ふの方で\n\n　　　ざぶざぶ水をわたる音\n\n　　　それから何か光など\n\n　　　崩れるやうなわらひ声",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 181,
+      "content": "一〇五九　　開墾地検察",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 182,
+      "content": "一九二七、五、九、\n\n……墓地がすっかり変ったなあ……\n\n……なあにそれすっかり整理したもんでがす……\n\n……ここに巨きなしだれ桜があったがねえ……\n\n……なあにそれ\n\n　　青年団総出でやったもんでがす\n\n　　観音さんも潰されあした……\n\n……としよりたちが負けたんだねえ……\n\n……なあに総一ぁたった一人できかなぐなって",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 183,
+      "content": "　　それで誰《だ》っても負げるんでがんす……\n\n……苗圃のあともずゐぶんひどく荒れたねえ……\n\n……なあにそれ\n\n　　お上でうんと肥料したづんで\n\n　　これで六年無肥料でがす……\n\n……あちこち茶いろにぶちだしてゐる……\n\n……はあ、\n\n　　苹果の枝　兎に食はれあした\n\n　　桜んぼの方は食ひあせんで",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 184,
+      "content": "　　桃もやっぱり食はれあした……\n\n……兎はとらなけあいけないよ\n\n　　それでも兎の食はない種類といふんなら\n\n　　花には薔薇につつじかな\n\n　　果樹ではやっぱり梅だらう……\n\n……桜んぼの方は食ひませんで\n\n　　苹果と桃をたべたので……\n\n……そらそら\n\n　　その苹果の樹の幽霊だらう",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "　　その谷そこに突ったって\n\n　　いっぱい花をつけてるやつは……\n\n……はあ……\n\n……針金製の鉄索か\n\n　　この崖下で切り出すんだな……\n\n……はあ　鉛の丸五の仕事でがあす……\n\n……そんなにこれが売れるかねえ……\n\n……はあ\n\n　　耐火性だって云って売ってます……",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 186,
+      "content": "……耐火性さなこの石は\n\n　　あれだな開墾地は……\n\n……はあ\n\n　　上流の橋渡って参りあす……",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 187,
+      "content": "一〇六六　　〔今日こそわたくしは〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 188,
+      "content": "一九二七、五、一二、\n\n今日こそわたくしは\n\nどんなにしてあの光る青い虻どもが\n\n風のなかから迷って来て\n\n縄やガラスのしきりのなかで\n\n留守中飛んだりはねたりするか\n\nすっかり見届けたつもりである",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 189,
+      "content": "一〇六八　　〔エレキや鳥がばしゃばしゃ翔べば〕",
+      "characters": 23,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 190,
+      "content": "一九二七、五、一四、\n\nエレキや鳥がばしゃばしゃ翔べば\n\n九基に亙る林のなかで\n\n枯れた巨きな一本杉が\n\nもう専門の避雷針とも見られるかたち\n\n　　……けふもまだ熱はさがらず\n\n　　　　Nymph, Nymbus, Nymphaea,……\n\n杉をめぐって水いろなのは\n\n羊歯から花を借りて来て",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 191,
+      "content": "梢いっぱい飾りをつけた\n\nやくざなの樹ででもあらう\n\n　　……最後に\n\n　　　　火山屑地帯の\n\n　　　　小麦に就て調査せよ……\n\n雲は淫らな尾を曳いて\n\nしづかに森をかけちがふ",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 192,
+      "content": "一〇七二　　県技師の雲に対するステートメント",
+      "characters": 22,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 193,
+      "content": "一九二七、六、一、\n\n神話乃至は擬人的なる説述は\n\n小官のはなはだ愧づるところではあるが\n\n仮にしばらく上古歌人の立場に於て\n\n黒く淫らな雨雲《ニムブス》に云ふ\n\n小官はこの峠の上のうすびかりする浩気から\n\nまたここを通る野ばらのかをりあるつめたい風から\n\nまた山谷の凄まじくも青い刻鏤から\n\n心塵身劬《く》ひとしくともに濯はうと",
+      "characters": 165,
+      "ruby": []
+    },
+    {
+      "pageNumber": 194,
+      "content": "今日の出張日程に\n\n辛くも得たる数頃を\n\nしかく貴重に立つのであるが\n\nそもそも黒い雨雲《ニムブス》よ\n\nおまへは却って小官に\n\n異常な不安を持ち来し\n\n謂はば殆んど古事記に言へる\n\nそら踏む感をなさしめる\n\nその故けだしいかんとならば",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 195,
+      "content": "過ぎ来し五月二旬の間\n\n淫らなおまへら雨雲《ニムブス》族は\n\n西の河谷を覆って去らず\n\n日照ために常位を欠けば\n\n稲苗すべて徒長を来し\n\nあるいは赤い病斑を得た\n\nおほよそかゝる事態に於て\n\n県下今期の稲作は\n\n憂慮なくして観るを得ず",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 196,
+      "content": "そらを仰いで烏乎せしことや\n\n日日にはなはだ数度であった\n\n然るに昨夜\n\nかの練達の測候長は\n\n断じて晴れの予報を通じ\n\n今朝そら青く気は澄んで\n\n車窓シガーのけむりをながし\n\n峡の二十里　平野の十里\n\n旅程明るく午を越すいまを",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 197,
+      "content": "何たる譎詐何たる不信\n\nこの山頂の眼路遥かなる展望は\n\n怒り身を噛むごとくである\n\n第一おまへがここより東\n\n鶯いろに装ほひて\n\n連亙遠き地塊を覆ひ\n\nはては渺茫視界のきはみ\n\n大洋をさへ犯すこと\n\n第二にはかの層巻雲や",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 198,
+      "content": "青い虚空に逆って\n\nおまへの北に馳けること\n\n第三　暗い気層の海鼠\n\n五葉の山の上部に於て\n\nあらゆる淫卑なひかりとかたち\n\nその変幻と出没を\n\nおまへがやゝもはゞからぬ\n\nこれらを綜合して見るに\n\nあやしくやはらかな雨雲《ニムブス》よ",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 199,
+      "content": "たとへ数箇のなまめく日射しを許すとも\n\n非礼の香気を風に伝へて送るとも\n\nその灰黒の翼と触手\n\n大バリトンの流体もって\n\n全天抛げ来すおまへの意図は\n\nはや暸として被ひ得ぬ\n\nしかればじつに小官は\n\n公私あらゆる立場より\n\n満腔不満の一瞥を",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 200,
+      "content": "最後にしばしおまへに与へ\n\nすみやかにすみやかに\n\nこの山頂を去らうとする",
+      "characters": 37,
+      "ruby": []
+    },
+    {
+      "pageNumber": 201,
+      "content": "一〇七五　　囈語",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 202,
+      "content": "一九二七、六、一三、\n\n竟に卑怯でなかったものは\n\nあすこにうかぶ黒と白\n\n積雲製の冠をとれ",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 203,
+      "content": "一〇七六　　囈語",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 204,
+      "content": "一九二七、六、一三、\n\n憤懣はいま疾《やまひ》にかはり\n\nわたくしはたよりなく騰って\n\n河谷のそらに横はる\n\nしかも\n\n水素よりも軽いので\n\nひかってはてなく青く\n\n雨に生れることのできないのは\n\n何といふいらだゝしさだ",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 205,
+      "content": "一〇七七　　金策",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 206,
+      "content": "一九二七、六、三〇、\n\n青びかりする天弧のはてに\n\nうつくしく町がうかんでゐる\n\nかあいさうな町よ\n\n金持とおもはれ\n\n一文もなく\n\n一文の収入もない\n\nそしてうらまれる\n\n辞職でござる",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 207,
+      "content": "そこで世間といふものは\n\n中間といふものをゆるさない\n\nなにもかもみんないけない\n\n悪口、反感、\n\n十八や十九でおとなよりも貪慾なこども\n\nなにもかもみんないけない\n\nおれは今日はもう遊ばう\n\n何もかも\n\nみんな忘れてしまって",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 208,
+      "content": "ひなたのなかのこどもにならう\n\n甘く熟してぬるんだ風と\n\nなにか小さなモーターの音\n\nこの花さいた〔約三字空白〕の樹だ\n\n梢いっぱい蜂がとび\n\nその膠質な影のなかを\n\n月光いろの花弁がふり\n\n向ふでは町がやっぱり\n\nひかってそらにうかんでゐる",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 209,
+      "content": "一〇七九　　僚友",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 210,
+      "content": "一九二七、七、一、\n\nわたくしがかつてあなたがたと\n\nこの方室に卓を並べてゐましたころ、\n\nたとへば今日のやうな明るくしづかなひるすぎに\n\n　　　……窓にはゆらぐアカシヤの枝……\n\nちがった思想やちがったなりで\n\n誰かが訪ねて来ましたときは\n\nわたくしどもはたゞ何げなく眼をも見合せ\n\nまたあるかなし何ともしらず表情し合ひもしたのでしたが",
+      "characters": 169,
+      "ruby": []
+    },
+    {
+      "pageNumber": 211,
+      "content": "　　　……崩れてひかる夏の雲……\n\n今日わたくしが疲れて弱く\n\n荒れた耕地やけはしいみんなの瞳を避けて\n\nおろかにもまたおろかにも\n\n昨日の安易な住所を慕ひ、\n\nこの方室にたどって来れば、\n\nまことにあなたがたのことばやおももちは\n\nあなたがたにあるその十倍の強さになって\n\n　　　……風も燃え……",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 212,
+      "content": "わたくしの胸をうつのです\n\n　　　……風も燃え　禾草も燃える……",
+      "characters": 32,
+      "ruby": []
+    },
+    {
+      "pageNumber": 213,
+      "content": "一〇八〇　　〔さはやかに刈られる蘆や〕",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 214,
+      "content": "一九二七、七、七、\n\nさはやかに刈られる蘆や\n\n水ぎぼうしの紫の花\n\n赤くただれた眼をあげて\n\n風を見つめるその刈り手",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 215,
+      "content": "一〇八二　　〔あすこの田はねえ〕",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 216,
+      "content": "一九二七、七、一〇、\n\nあすこの田はねえ\n\nあの種類では窒素があんまり多過ぎるから\n\nもうきっぱりと灌水《みづ》を切ってね\n\n三番除草はしないんだ\n\n　　……一しんに畔を走って来て\n\n　　　　青田のなかに汗拭くその子……\n\n燐酸がまだ残ってゐない？\n\nみんな使った？",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 217,
+      "content": "それではもしもこの天候が\n\nこれから五日続いたら\n\nあの枝垂れ葉をねえ\n\n斯ういふ風な枝垂れ葉をねえ\n\nむしってとってしまふんだ\n\n　　……せはしくうなづき汗拭くその子\n\n　　　　冬講習に来たときは\n\n　　　　一年はたらいたあととは云へ\n\n　　　　まだかゞやかな苹果のわらひをもってゐた",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 218,
+      "content": "　　　　いまはもう日と汗に焼け\n\n　　　　幾夜の不眠にやつれてゐる……\n\nそれからいゝかい\n\n今月末にあの稲が\n\n君の胸より延びたらねえ\n\nちゃうどシャッツの上のぼたんを定規にしてねえ\n\n葉尖を刈ってしまふんだ\n\n　　……汗だけでない\n\n　　　　泪も拭いてゐるんだな……",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 219,
+      "content": "君が自分でかんがへた\n\nあの田もすっかり見て来たよ\n\n陸羽一三二号のはうね\n\nあれはずゐぶん上手に行った\n\n肥えも少しもむらがないし\n\nいかにも強く育ってゐる\n\n硫安だってきみが自分で播いたらう\n\nみんながいろいろ云ふだらうが\n\nあっちは少しも心配ない",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 220,
+      "content": "反当三石二斗なら\n\nもうきまったと云っていゝ\n\nしっかりやるんだよ\n\nこれからの本当の勉強はねえ\n\nテニスをしながら商売の先生から\n\n義理で教はることでないんだ\n\nきみのやうにさ\n\n吹雪やわづかの仕事のひまで\n\n泣きながら",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 221,
+      "content": "からだに刻んで行く勉強が\n\nまもなくぐんぐん強い芽を噴いて\n\nどこまでのびるかわからない\n\nそれがこれからのあたらしい学問のはじまりなんだ\n\nではさやうなら\n\n　　……雲からも風からも\n\n　　　　透明な力が\n\n　　　　そのこどもに\n\n　　　　うつれ……",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 222,
+      "content": "一〇二〇　　野の師父",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 223,
+      "content": "倒れた稲や萱穂の間\n\n白びかりする水をわたって\n\nこの雷と雲とのなかに\n\n師父よあなたを訪ねて来れば\n\nあなたは縁に正しく座して\n\n空と原とのけはひをきいてゐられます\n\n日日に日の出と日の入に\n\n小山のやうに草を刈り\n\n冬も手織の麻を着て",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 224,
+      "content": "七十年が過ぎ去れば\n\nあなたのせなは松より円く\n\nあなたの指はかじかまり\n\nあなたの額は雨や日や\n\nあらゆる辛苦の図式を刻み\n\nあなたの瞳は洞よりうつろ\n\nこの野とそらのあらゆる相は\n\nあなたのなかに複本をもち\n\nそれらの変化の方向や",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 225,
+      "content": "その作物への影響は\n\nたとへば風のことばのやうに\n\nあなたののどにつぶやかれます\n\nしかもあなたのおももちの\n\n今日は何たる明るさでせう\n\n豊かな稔りを願へるままに\n\n二千の施肥の設計を終へ\n\nその稲いまやみな穂を抽いて\n\n花をも開くこの日ごろ",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 226,
+      "content": "四日つゞいた烈しい雨と\n\n今朝からのこの雷雨のために\n\nあちこち倒れもしましたが\n\nなほもし明日或は明後\n\n日をさへ見ればみな起きあがり\n\n恐らく所期の結果も得ます\n\nさうでなければ村々は\n\n今年もまた暗い冬を再び迎へるのです\n\nこの雷と雨との音に",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 227,
+      "content": "物を云ふことの甲斐なさに\n\nわたくしは黙して立つばかり\n\n松や楊の林には\n\n幾すぢ雲の尾がなびき\n\n幾層のつゝみの水は\n\n灰いろをしてあふれてゐます\n\nしかもあなたのおももちの\n\nその不安ない明るさは\n\n一昨年の夏ひでりのそらを",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 228,
+      "content": "見上げたあなたのけはひもなく\n\nわたしはいま自信に満ちて\n\nふたゝび村をめぐらうとします\n\nわたくしが去らうとして\n\n一瞬あなたの額の上に\n\n不定な雲がうかび出て\n\nふたゝび明るく晴れるのは\n\nそれが何かを推せんとして\n\n恐らく百の種類を数へ",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 229,
+      "content": "思ひを尽してつひに知り得ぬものではありますが\n\n師父よもしもやそのことが\n\n口耳の学をわづかに修め\n\n鳥のごとくに軽佻な\n\nわたくしに関することでありますならば\n\n師父よあなたの目力をつくし\n\nあなたの聴力のかぎりをもって\n\nわたくしのまなこを正視し\n\nわたくしの呼吸をお聞き下さい",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 230,
+      "content": "古い白麻の洋服を着て\n\nやぶけた絹張の洋傘はもちながら\n\n尚わたくしは\n\n諸仏菩薩の護念によって\n\nあなたが朝ごと誦せられる\n\nかの法華経の寿量の品を\n\n命をもって守らうとするものであります\n\nそれでは師父よ\n\n何たる天鼓の轟きでせう",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 231,
+      "content": "何たる光の浄化でせう\n\nわたくしは黙して\n\nあなたに別の礼をばします",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 232,
+      "content": "一〇二一　　和風は河谷いっぱいに吹く",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 233,
+      "content": "一九二七、八、二〇、\n\nたうとう稲は起きた\n\nまったくのいきもの\n\nまったくの精巧な機械\n\n稲がそろって起きてゐる\n\n雨のあひだまってゐた穎は\n\nいま小さな白い花をひらめかし\n\nしづかな飴いろの日だまりの上を\n\n赤いとんぼもすうすう飛ぶ",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 234,
+      "content": "あゝ\n\n南からまた西南から\n\n和風は河谷いっぱいに吹いて\n\n汗にまみれたシャツも乾けば\n\n熱した額やまぶたも冷える\n\nあらゆる辛苦の結果から\n\n七月稲はよく分蘖し\n\n豊かな秋を示してゐたが\n\nこの八月のなかばのうちに",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 235,
+      "content": "十二の赤い朝焼けと\n\n湿度九〇の六日を数へ\n\n茎稈弱く徒長して\n\n穂も出し花もつけながら、\n\nつひに昨日のはげしい雨に\n\n次から次と倒れてしまひ\n\nうへには雨のしぶきのなかに\n\nとむらふやうなつめたい霧が\n\n倒れた稲を被ってゐた",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 236,
+      "content": "あゝ自然はあんまり意外で\n\nそしてあんまり正直だ\n\n百に一つなからうと思った\n\nあんな恐ろしい開花期の雨は\n\nもうまっかうからやって来て\n\n力を入れたほどのものを\n\nみんなばたばた倒してしまった\n\nその代りには\n\n十に一つも起きれまいと思ってゐたものが",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 237,
+      "content": "わづかの苗のつくり方のちがひや\n\n燐酸のやり方のために\n\n今日はそろってみな起きてゐる\n\n森で埋めた地平線から\n\n青くかゞやく死火山列から\n\n風はいちめん稲田をわたり\n\nまた栗の葉をかゞやかし\n\nいまさはやかな蒸散と\n\n透明な汁液《サップ》の移転",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 238,
+      "content": "あゝわれわれは曠野のなかに\n\n蘆とも見えるまで逞ましくさやぐ稲田のなかに\n\n素朴なむかしの神々のやうに\n\nべんぶしてもべんぶしても足りない",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 239,
+      "content": "一〇八八　　〔もうはたらくな〕",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 240,
+      "content": "一九二七、八、二〇、\n\nもうはたらくな\n\nレーキを投げろ\n\nこの半月の曇天と\n\n今朝のはげしい雷雨のために\n\nおれが肥料を設計し\n\n責任のあるみんなの稲が\n\n次から次と倒れたのだ\n\n稲が次々倒れたのだ",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 241,
+      "content": "働くことの卑怯なときが\n\n工場ばかりにあるのでない\n\nことにむちゃくちゃはたらいて\n\n不安をまぎらかさうとする、\n\n卑しいことだ\n\n　　……けれどもあゝまたあたらしく\n\n　　　　西には黒い死の群像が湧きあがる\n\n　　　　春にはそれは、\n\n　　　　恋愛自身とさへも云ひ",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 242,
+      "content": "　　　　考へられてゐたではないか……\n\nさあ一ぺん帰って\n\n測候所へ電話をかけ\n\nすっかりぬれる支度をし\n\n頭を堅く縛って出て\n\n青ざめてこはばったたくさんの顔に\n\n一人づつぶっつかって\n\n火のついたやうにはげまして行け\n\nどんな手段を用ゐても",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 243,
+      "content": "弁償すると答へてあるけ",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 244,
+      "content": "一〇八九　　〔二時がこんなに暗いのは〕",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 245,
+      "content": "一九二七、八、二〇、\n\n二時がこんなに暗いのは\n\n時計も雨でいっぱいなのか\n\n本街道をはなれてからは\n\nみちは烈しく倒れた稲や\n\n陰気なひばの木立の影を\n\nめぐってめぐってこゝまで来たが\n\n里程にしてはまだそんなにもあるいてゐない\n\nそしていったいおれのたづねて行くさきは",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 246,
+      "content": "地べたについた北のけはしい雨雲だ、\n\nこゝの野原の土から生えて\n\nこゝの野原の光と風と土とにまぶれ\n\n老いて盲ひた大先達は\n\nなかばは苔に埋もれて\n\nそこでしづかにこの雨を聴く\n\nまたいなびかり、\n\n林を嘗めて行き過ぎる、\n\n雷がまだ鳴り出さないに、",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 247,
+      "content": "あっちもこっちも、\n\n気狂ひみたいにごろごろまはるから水車\n\nハックニー馬の尻ぽのやうに\n\n青い柳が一本立つ",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 248,
+      "content": "一〇九〇　　〔何をやっても間に合はない〕",
+      "characters": 20,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 249,
+      "content": "一九二七、八、二〇、\n\n何をやっても間に合はない\n\nそのありふれた仲間のひとり\n\n雑誌を読んで兎を飼って\n\n巣箱もみんなじぶんでこさへ\n\n木小屋ののきに二十ちかくもならべれば\n\nその眼がみんなうるんで赤く\n\nこっちの手からさゝげも喰へば\n\nめじろみたいに啼きもする",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 250,
+      "content": "さうしてそれも間に合はない\n\n何をやっても間に合はない\n\nその〔約五字空白〕仲間のひとり\n\nカタログを見てしるしをつけて\n\nグラヂオラスを郵便でとり\n\nめうがばたけと椿のまへに\n\n名札をつけて植ゑ込めば\n\n大きな花がぎらぎら咲いて\n\n年寄りたちは勿体ながり",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 251,
+      "content": "通りかゝりのみんなもほめる\n\nさうしてそれも間に合はない\n\n何をやっても間に合はない\n\nその〔約五字空白〕仲間のひとり\n\nマッシュルームの胞子を買って\n\n納屋をすっかり片付けて\n\n小麦の藁で堆肥もつくり\n\n寒暖計もぶらさげて\n\n毎日水をそゝいでゐれば",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 252,
+      "content": "まもなく白いシャムピニオンは\n\n次から次と顔を出す\n\nさうしてそれも間に合はない\n\n何をやっても間に合はない\n\nその〔約五字空白〕仲間のひとり\n\nべっかふゴムの長靴もはき\n\nオリーヴいろの縮みのシャツも買って着る\n\n頬もあかるく髪もちゞれてうつくしく\n\nそのかはりには",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 253,
+      "content": "何をやっても間に合はない\n\n何をやっても間に合はない\n\nその〔約五字空白〕仲間のひとり\n\nその〔約五字空白〕仲間のひとり",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 254,
+      "content": "台地",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 255,
+      "content": "一九二八、四、一二、\n\n日が白かったあひだ、\n\n赤渋を載せたり草の生えたりした、\n\n一枚一枚の田をわたり\n\nまがりくねった畔から水路、\n\n沖積の低みをめぐりあるいて、\n\n声もかれ眼もぼうとして\n\nいまこの台地にのぼってくれば\n\n紺青の山脈は遠く",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 256,
+      "content": "松の梢は夕陽にゆらぐ\n\nあゝ排水や鉄のゲル\n\n地形日照酸性度\n\n立地因子は青ざめて\n\nつかれのなかに乱れて消え\n\nしづかにわたくしのうしろを来る\n\n今日の二人の先達は\n\nこの国の古い神々の\n\nその二はしらのすがたをつくる",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 257,
+      "content": "今日は日のなかでしばし高雅の神であり\n\nあしたは青い山羊となり\n\nあるとき歪んだ修羅となる\n\nしかもいま\n\n松は風に鳴り、\n\nその針は陽にそよぐとき\n\nその十字路のわかれの場所で\n\n衷心この人を礼拝する\n\n何がそのことをさまたげようか",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 258,
+      "content": "停留所にてスヰトンを喫す",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 259,
+      "content": "一九二八、七、二〇、\n\nわざわざここまで追ひかけて\n\nせっかく君がもって来てくれた\n\n帆立貝入りのスヰトンではあるが\n\nどうもぼくにはかなりな熱があるらしく\n\nこの玻璃製の停留所も\n\nなんだか雲のなかのやう\n\nそこでやっぱり雲でもたべてゐるやうなのだ\n\nこの田所の人たちが、",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 260,
+      "content": "苗代の前や田植の後や\n\nからだをいためる仕事のときに\n\n薬にたべる種類のもの\n\n除草と桑の仕事のなかで\n\n幾日も前から心掛けて\n\nきみのおっかさんが拵へた、\n\n雲の形の膠朧体、\n\nそれを両手に載せながら\n\nぼくはたゞもう青くくらく",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 261,
+      "content": "かうもはかなくふるへてゐる\n\nきみはぼくの隣りに座って\n\nぼくがかうしてゐる間\n\nじっと電車の発着表を仰いでゐる、\n\nあの組合の倉庫のうしろ\n\n川岸の栗や楊も\n\n雲があんまりひかるので\n\nほとんど黒く見えてゐるし\n\nいままた稲を一株もって",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 262,
+      "content": "その入口に来た人は\n\nたしかこの前金矢の方でもいっしょになった\n\nきみのいとこにあたる人かと思ふのだが\n\nその顔も手もたゞ黒く見え\n\n向ふもわらってゐる\n\nぼくもたしかにわらってゐるけれども\n\nどうも何だかじぶんのことでないやうなのだ\n\nああ友だちよ、\n\n空の雲がたべきれないやうに",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 263,
+      "content": "きみの好意もたべきれない\n\nぼくははっきりまなこをひらき\n\nその稲を見てはっきりと云ひ\n\nあとは電車が来る間\n\nしづかにこゝへ倒れよう\n\nぼくたちの\n\n何人も何人もの先輩がみんなしたやうに\n\nしづかにこゝへ倒れて待たう",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 264,
+      "content": "穂孕期",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 265,
+      "content": "一九二八、七、二四、\n\n蜂蜜いろの夕陽のなかを\n\nみんな渇いて\n\n稲田のなかの萱の島、\n\n観音堂へ漂ひ着いた\n\nいちにちの行程は\n\nただまっ青な稲の中\n\n眼路をかぎりの\n\nその水いろの葉筒の底で",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 266,
+      "content": "けむりのやうな一ミリの羽\n\n淡い稲穂の原体が\n\nいまこっそりと形成され\n\nこの幾月の心労は\n\nぼうぼう東の山地に消える\n\n青く澱んだ夕陽のなかで\n\n麻シャツの胸をはだけてしゃがんだり\n\n帽子をぬいで小さな石に腰かけたり\n\nみんな顔中稲で傷だらけにして",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 267,
+      "content": "芬って酸っぱいあんずをたべる\n\nみんなのことばはきれぎれで\n\n知らない国の原語のやう\n\nぼうとまなこをめぐらせば、\n\n青い寒天のやうにもさやぎ\n\nむしろ液体のやうにもけむって\n\nこの堂をめぐる萱むらである",
+      "characters": 102,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053387",
+  "title": "丘",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "丘",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "丘",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "森の上のこの神楽殿\n\nいそがしくのぼりて立てば\n\nくわくこうはめぐりてどよみ\n\n松の風頬を吹くなり\n\n野をはるに北をのぞめば\n\n紫波の城の二本の杉\n\nかゞやきて黄ばめるものは\n\nそが上に麦熟すらし\n\nさらにまた夏雲の下",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "青々と山なみははせ\n\n従ひて野は澱めども\n\nかのまちはつひに見えざり\n\nうらゝかに野を過ぎり行く\n\nかの雲の影ともなりて\n\nきみがべにありなんものを\n\nさもわれののがれてあれば\n\nうすくらき古着の店に\n\nひとり居て祖父や怒らん",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "いざ走せてこととふべきに\n\nうちどよみまた鳥啼けば\n\nいよいよに君ぞ恋しき\n\n野はさらに雲の影して\n\n松の風日に鳴るものを",
+      "characters": 61,
+      "ruby": []
+    }
+  ]
+}

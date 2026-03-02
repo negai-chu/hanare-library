@@ -1,0 +1,42 @@
+{
+  "id": "a003697",
+  "title": "二つの態度",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "二つの態度",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 108,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "二つの態度",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "心中の道行で、あっと云わせたい心持が、毎《いつ》も毎も定った物許りで詰らない、一つ此でも遣って見よう、と云う場合と、其物語に共鳴し人生に非常に価値ある事件として、見る者を驚歎させようと思った場合とは、心の態度に於て、大きな差があると思います。けれども、新しい選択を始めた時、何故曾根崎心中に手がついたかを考える時、其は、現今の、女高師の全教師生徒の上にかかっている、本質的に最も重大な問題だと思います。\n\n〔一九二一年三月〕",
+      "characters": 212,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a045630",
+  "title": "〔雨ニモマケズ〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔雨ニモマケズ〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔雨ニモマケズ〕",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雨ニモマケズ\n\n風ニモマケズ\n\n雪ニモ夏ノ暑サニモマケヌ\n\n丈夫ナカラダヲモチ\n\n慾ハナク\n\n決シテ瞋ラズ\n\nイツモシヅカニワラッテヰル\n\n一日ニ玄米四合ト\n\n味噌ト少シノ野菜ヲタベ",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "アラユルコトヲ\n\nジブンヲカンジョウニ入レズニ\n\nヨクミキキシワカリ\n\nソシテワスレズ\n\n野原ノ松ノ林ノノ\n\n小サナ萓ブキノ小屋ニヰテ\n\n東ニ病気ノコドモアレバ\n\n行ッテ看病シテヤリ\n\n西ニツカレタ母アレバ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "行ッテソノ稲ノ朿ヲ負ヒ\n\n南ニ死ニサウナ人アレバ\n\n行ッテコハガラナクテモイヽトイヒ\n\n北ニケンクヮヤソショウガアレバ\n\nツマラナイカラヤメロトイヒ\n\nヒドリノトキハナミダヲナガシ\n\nサムサノナツハオロオロアルキ\n\nミンナニデクノボートヨバレ\n\nホメラレモセズ",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "クニモサレズ\n\nサウイフモノニ\n\nワタシハナリタイ\n\n南無無辺行菩薩\n\n南無上行菩薩\n\n南無多宝如来\n\n南無妙法蓮華経\n\n南無釈迦牟尼仏\n\n南無浄行菩薩",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "南無安立行菩薩",
+      "characters": 7,
+      "ruby": []
+    }
+  ]
+}

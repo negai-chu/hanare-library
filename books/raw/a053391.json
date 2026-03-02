@@ -1,0 +1,42 @@
+{
+  "id": "a053391",
+  "title": "雪峡",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪峡",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪峡",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "塵のごと小鳥なきすぎ\n\nほこ杉の峡の奥より\n\nあやしくも鳴るや　み神楽\n\nいみじくも鳴るや　み神楽\n\nたゞ深し天の青原\n\n雲が燃す白金環と\n\n白金の黒の窟を\n\n日天子奔せ出でたまふ",
+      "characters": 90,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a060962",
+  "title": "誤植",
+  "author": "生田春月",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "誤植",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "誤植",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　我が生涯《しやうがい》はあはれなる夢、\n\n我れは世界の頁《ページ》の上の一つの誤植なりき。\n\n我れはいかに空《むな》しく世界の著者に\n\nその正誤《しやうご》をば求めけん。\n\nされど誰か否《いな》と云ひ得ん、\n\nこの世界自らもまた\n\nあやまれる、無益なる書物なるを。",
+      "characters": 133,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a055556",
+  "title": "海の誘惑",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海の誘惑",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海の誘惑",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　打ち返し泡立ち\n\n再び寄せ　盛り上り　岩を打つ\n\n波濤の歴史の永遠の力は\n\n時としてあの不可解な死への誘惑を感ぜしめる\n\n波に乗り　暴風雨《あらし》を経て\n\n大洋の航路にある旅客船は\n\n絶えず地球の経緯を計っているが\n\n世界を行く人々の心に\n\nあやしくも　その感情の芽生えた時には",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "海は彼等が凡て目的の彼方であり\n\n船長も水夫も多くの旅客も\n\n惜し気もなく　悲しまず\n\n永遠の歴史の海底へ沈むであろう",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

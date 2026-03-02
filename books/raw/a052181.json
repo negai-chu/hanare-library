@@ -1,0 +1,42 @@
+{
+  "id": "a052181",
+  "title": "断腸亭日乗",
+  "author": "永井荷風",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "断腸亭日乗",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "断腸亭日乗",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "此断腸亭日記は初大正六年九月十六日より翌七年の春ころまで折鉛筆もて手帳にかき捨て置きしものなりしがやがて二三月のころより改めて日日欠くことなく筆とらむと思定めし時前年の記を第一巻となしこの罫帋本に写直せしなり以後年と共に巻の数もかさなりて今茲昭和八年の春には十七巻となりぬ\n\nかぞへ見る日記の巻や古火桶\n五十有五歳　荷風老人書",
+      "characters": 163,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053879",
+  "title": "むぐらと月",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "むぐらと月",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "むぐらと月",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "むぐらの子供が\n\n散歩に出かけます\n\n月はミルクをかけたやうに\n\nほんのりしてゐます\n\nむぐらの子供はいひませう\n\n「蟲けらよりうんとおいしいだらう」つて",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

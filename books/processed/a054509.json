@@ -1,0 +1,60 @@
+{
+  "id": "a054509",
+  "title": "寂寞",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "寂寞",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 114,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "寂寞",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　たとふれば戦ひ果てぬ、\n\n日は暮れて二時《ふたとき》を経ぬ\n\nなまぐさき荒野《あらの》の中《なか》に\n\n双《さう》の眼を弾丸《たま》に射られて\n\nなほ黒き呻吟《うめき》をしのび、\n\nよこたはる負傷《いたで》の兵の\n\n勇しきわかき心に、\n\n秘《ひ》めつゝむ苦痛《くるしみ》遂《つひ》に\n\n鈍色《にびいろ》の寂寞《じやくまく》の気《き》を",
+      "characters": 168,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "吸ふがごと嗚呼われこゝに。\n\nくらがりの冷えたる室《むろ》に\n\nひとり居ておもひ沈めば、\n\n空想《くうさう》は蠑螺《さゞえ》の殻《から》の\n\n底つ闇《やみ》たどるがごとく、\n\n鬱憂《うつゆう》ははた南蛮《なんばん》の\n\n夜《よる》深き荒磯《ありそ》の上に\n\n鋭《と》き銛《もり》を腮《あぎと》にうけて\n\n横はる粗膚鮫《あらはだざめ》の",
+      "characters": 167,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "断末魔《だんまつま》――濁りゆく眼《め》に\n\n無辺《むへん》なる闇を見るごと。\n\n愛《あい》消えし人《ひと》の心は\n\n霜の夜の渚《なぎさ》の泥《ひぢ》に\n\nまみれたる寄居蟹《がうな》の殻《から》の\n\n冷やかに凍《こほ》れたるごとし、\n\n土色《つちいろ》にはた青銅《せいどう》の\n\n巨鐘《おほがね》の銹《さび》のやうなる\n\n寂寞《じやくまく》の五百重《いほへ》のなかに",
+      "characters": 183,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "一瞬《いつしゆん》も千とせのおもひ、\n\nあゝかゝる日の凶時《まがどき》に\n\n人は死に、花は萎《しを》れめ。",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

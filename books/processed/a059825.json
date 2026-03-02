@@ -1,0 +1,380 @@
+{
+  "id": "a059825",
+  "title": "ある時刻",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 37
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ある時刻",
+        "startPage": 1,
+        "endPage": 37,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "昼",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "夕",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "あけがた",
+            "startPage": 6,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "昼すぎ",
+            "startPage": 8,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "浮寝鳥",
+            "startPage": 10,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "梢",
+            "startPage": 12,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "径",
+            "startPage": 14,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "枯野",
+            "startPage": 16,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "星",
+            "startPage": 18,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "暁",
+            "startPage": 20,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "夜あけ",
+            "startPage": 22,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "夕ぐれになるまへ",
+            "startPage": 24,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "遠景",
+            "startPage": 26,
+            "endPage": 27
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "枯木",
+            "startPage": 28,
+            "endPage": 27
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "枯木",
+            "startPage": 28,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "三日月",
+            "startPage": 32,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "ある時刻",
+            "startPage": 34,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "雪の日に",
+            "startPage": 36,
+            "endPage": 37
+          }
+        ]
+      }
+    ],
+    "totalPages": 37,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ある時刻",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "昼",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　わたしは熱があつて睡つてゐた。庭にザアザアと雨が降つてゐる真昼。しきりに虚しいものが私の中をくぐり抜け、いくらくぐり抜けても、それはわたしの体を追つて来た。かすかな悶えのなかに何とも知れぬ安らかさがあつた。雨の降つてゐる庭がそのまゝ私の魂となつてゐるやうな、ふしぎな時であつた。私はうつうつと祈つてゐるのだつた。",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "夕",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "　わたしはあそこの空に見とれてゐる。今の今、簷近くの空が不思議と美しい。一日中濁つた空であつたのが、ふと夕ぐれほんの一ところ、かすかな光をおび、淡い青につゝまれてゐる。病み呆けたはての空であらうか。幻の道のゆくてであらうか。あやしくもかなしい心をそゝるのである。",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "あけがた",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "　あけがたになつて見るさまざまの夢。私は人から責められてひどく弱つてゐる。夢の中で私を責める人は私がひどく弱つてゐるゆゑなほ苛まうとするらしい。夢のなかゆゑ、かうも心は細るのに、暗い雨のなかをつきぬけてその人はやつて来る。",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "昼すぎ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "　朝はたのしさうに囀つてゐた小鳥が昼すぎになると少し疲れ気味になつてゐる。昼すぎになると、夕方のけはひがする。ものうい心に熱のくるめき。",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "浮寝鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "　冷え冷えとしたなかに横はつて、まだはつきりと目のさめきらないこのかなしさ。おまへのからだのなかにはかぎりない夢幻がきれぎれにただよつてゐて、さびれた池の淡い日だまりに、そのぬくもりにとりすがつてゐる。",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "梢",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "　散り残つた銀杏の葉が、それがふと見える窓が、昼のかすかなざわめきに悶えてゐる姿が、わたしが見たのか、むかふの方からわたしを見てゐるのか、はつきりしないのだが、たしかに透きとほつたものゝ隙間が、ひつそりとすぎてゆく夢のやうに。",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "径",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "　逃げて行つた秋のはばたきが、叢と木立の奥に消えてゆく径の方に、鋭い叫びを残して。",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "枯野",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "　薄の穂の白い光があとからあとから見えては消え、消えては見え、真昼ではありながら、まよなかの夢のさけびを。",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "星",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "　星が私の額を突き刺した。その光は私の心臓に喰入り、夜毎、怪異な夢魔となつた。私が魔ものに追駆けられてゐる時、天上の星も脅えきつてゐた。呪はれの夜があけてゆく時、消えのこる星がしづかに頷いたものだ。",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "暁",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "　外は霙でも降つてゐるといふのだらうか。みぞれに濡れてとぼとぼと坂をのぼる冷えきつた私の姿があり、私のからだは滅入りきつてゐる。もう一ど暗いくらい睡りのなかへかへつてゆくことよりほかになんののぞみもない。いじけた生涯をかへりみるのであつた。",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "夜あけ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "　おまへはベツトの上に坐りなほつて、すなほにならう、まことにかへらうと一心に夜あけの姿に祈りさけぶのか。窓の外がだんだん明るんで、ものゝ姿が少しづつはつきりしてくることだけでも、おまへの祈りはかなへられてゐるのではないか。しづかな、やさしいあまりにも美しい時の呼吸づかひをじつと身うちに感じながら。",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "夕ぐれになるまへ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "　夕ぐれになるまへである、しづかな歌声が廊下の方でする。看護婦が無心に歌つてゐるのだ。夕ぐれになるまへであるから、その歌ごゑは心にこびりつく。",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "遠景",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "　うすい靄につゝまれた遠くの家々の屋根がふと一様に白い反射で浮上つてゐる。まるでいまなにかが結晶してゐるやうな、つめたい窓にしづまりかへるながめ。",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "枯木",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "　ふとわれに立ちかへり、眼は空の枯木の梢にとどく。網の目をなして空にひろがる梢の、かなたにのびてゆくものがある。かすかにそれをみとどけねばならぬ。",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "枯木",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "　夢のなかで怕い老婆は私を背に負つたまゝ真黒な野をつ走つた。青白い棚雲の下に箒を倒立てたやうな枯木が懸つてゐて、それがつぎつぎに闇の底に倒れて行つた。",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "三日月",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "　細つそりした顔も姿も象牙でできてゐる人物が仄暗い廊下を横ぎり、寒い雲に乗る三日月のうしろには茫とした翳がついてゐた。",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "ある時刻",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "　ある朝ある時刻に中空の梢からひらひらと小さな木の葉は舞ひ落ちてゐた。それをひきちぎるなにものもないやうな、そんな静けさのなかにありながら、やはり木の葉はキラキラと輝いて美しい流れをなしてゐた。",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "雪の日に",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "　私はのぞみのない物語を読んでゐた。雪のふりつもつた広場に荷車が棄てられてゐて悲しい凹みを白い頁にのこしてゐる。それは読みかゝりの一章であつた。だんだん夕ぐれが近づいて来ると軒の雪は青くふるへた。混みあふ電車の中で娘はひしがれた顔をゆがめた。すべてがわびしい闇のなかに――物語の終結は近づいてゐた。",
+      "characters": 149,
+      "ruby": []
+    }
+  ]
+}

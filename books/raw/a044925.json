@@ -1,0 +1,48 @@
+{
+  "id": "a044925",
+  "title": "〈あめがふつてくりや〉",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〈あめがふつてくりや〉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〈あめがふつてくりや〉",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "あめがふつてくりや\n\n　　「ものまね\n\n　　みまね。\n\n　　ものまね\n\n　　みまね。」\n\nと　なき　なきにげる。\n\n　　なき　なき　にげる。\n\nあめがやむまで\n\n　　「ものまね",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　みまね。\n\n　　ものまね\n\n　　みまね。」\n\nと　なき　なき　にげる。\n\n　　なき　なき　にげる。",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

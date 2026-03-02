@@ -1,0 +1,48 @@
+{
+  "id": "a054801",
+  "title": "北海に",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "北海に",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "北海に",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　夜の大海原に\n\n星もなく\n\nさぶい風が波とたたかい\n\n吹雪だ\n\n　灯もない\n\n吹雪だ\n\n　あれくるう\n\n北海　あれる\n\nただ一つの生き物",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ウキをたよりに\n\n生きのび生きのびる人間\n\n助かるすべも絶えた\n\nそれでも\n\n雪をかみ\n\n風をきき\n\n生きていた　生きていた\n\nやがて　つかれはてて　死んだ",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

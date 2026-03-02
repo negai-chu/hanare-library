@@ -1,0 +1,48 @@
+{
+  "id": "a055585",
+  "title": "聖の行くべき道",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "聖の行くべき道",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "聖の行くべき道",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　そこはねずみも歩かない\n\n歩くべきではない\n\nひじりの行くべき道である\n\n空は明るく明るく\n\nまひるの如くに明るい\n\n一しきり降っていった雪は\n\n野に山に路に庭に\n\n夢見る様に積もっている\n\n雪は白い何よりも白い",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "きよめられたる様に白い\n\n天と地の合体の風景である\n\n包む夜は厳に静かな\n\nしらべをひっ《（ママ）》ている\n\n　　　　＊\n\nひじりの為めに撒《ま》いた敷物は\n\nけがれる事を恐れている如くである",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053655",
+  "title": "広瀬河畔を逍遥しつつ",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "広瀬河畔を逍遥しつつ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "広瀬河畔を逍遥しつつ",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　物《もの》みなは歳日《としひ》と共に亡び行く。\n\nひとり來てさまよへば\n\n流れも速き廣瀬川。\n\n何にせかれて止《とど》むべき\n\n憂ひのみ永く殘りて\n\nわが情熱の日も暮れ行けり。",
+      "characters": 89,
+      "ruby": []
+    }
+  ]
+}

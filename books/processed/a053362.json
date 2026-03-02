@@ -1,0 +1,42 @@
+{
+  "id": "a053362",
+  "title": "〔こんにやくの〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔こんにやくの〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 32,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔こんにやくの〕",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　こんにやくの\n\nす枯れの茎をとらんとて\n\n水こぼこぼと鳴る\n\nひぐれまぢかの笹はらを\n\n兄弟二人わけ行きにけり",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

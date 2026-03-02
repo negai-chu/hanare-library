@@ -1,0 +1,54 @@
+{
+  "id": "a054085",
+  "title": "千住大橋",
+  "author": "丹沢明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "千住大橋",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 95,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "千住大橋",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　川蒸気の発着所、旗はだらりと垂れ\n\n大川は褐色の満水をたたえ\n\n家々は庇《ひさし》をおろし、重り合う家並の彼方\n\n瓦斯タンクは煤煙の雨空に溶ける\n\n大川に架る錆びた鉄橋、常磐線、\n\n貨車が長い車体を引ずってゆく\n\n動かない煙、つながれて朽るボロ船、泛ぶ空俵\n\n橋梁の陰に点々と黒く固まった人糞\n\nそれらの上を雨がたたいている。",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "江北の関門千住大橋、黒い鉄骨は川幅を跨ぎ\n\n自転車、荷車、トラック、労働者、失業者、失業者\n\n空気はぐしょぐしょに煤煙によごれ\n\n人々は腹の中まで灰色にぬれ\n\n眉毛から雨が滴り、眼はもの憂く渇き\n\n江北の雨は胃袋にまで浸み徹る\n\n自転車――失業者、失業者、絶え間なき流れ\n\n声のない喧騒にあわただしく歩き\n\n騒々しい静寂のなかに佇み、息をのみ",
+      "characters": 171,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "大橋を渡ってゆき、大橋を渡って帰ってくる。\n\n（『詩・行動』一九三五年五月号に発表）",
+      "characters": 42,
+      "ruby": []
+    }
+  ]
+}

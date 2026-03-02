@@ -1,0 +1,48 @@
+{
+  "id": "a053436",
+  "title": "〔土をも掘らん汗もせん〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔土をも掘らん汗もせん〕",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔土をも掘らん汗もせん〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　土をも掘らん汗もせん\n\nまれには時に食まざらん\n\nさあれわれらはわれらなり\n\nながともがらといと遠し\n\nにくみいかりしこのことば\n\nいくそたびきゝいまもきゝ\n\nやがてはさのみたゞさのみ\n\nわが生き得んと\n\nうしなへるこゝろと",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "くらきいたつきの\n\nさなかにわれもうなづきなんや",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054397",
+  "title": "孤閨瞋火",
+  "author": "山口芳光",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "孤閨瞋火",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "孤閨瞋火",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "瞑《めつぶ》る…………\n\n瞑ればまこと吾が病室《へや》\n\n墓原めけり\n\n薬瓶　詩書　軸　蛇皮線　経机\n\n皆物言はぬ男性なり\n\nさあれ\n\n昨夜つけ捨てし従妹《いも》の白粉紙にぞ\n\n女気を覚え\n\n吾一日《ヒトヒ》緋桃の如くなまめけるなり",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

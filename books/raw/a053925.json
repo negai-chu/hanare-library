@@ -1,0 +1,42 @@
+{
+  "id": "a053925",
+  "title": "〔女は　ライラツクのにほひを好むと〕",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔女は　ライラツクのにほひを好むと〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔女は　ライラツクのにほひを好むと〕",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "女は　ライラツクのにほひを好むと\n\nストローはメロンソーダ水を吸ひあげる\n\n私は女のにほひを吸ひあげる",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

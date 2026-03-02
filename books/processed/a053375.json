@@ -1,0 +1,42 @@
+{
+  "id": "a053375",
+  "title": "〔りんごのみきのはひのひかり〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔りんごのみきのはひのひかり〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔りんごのみきのはひのひかり〕",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　りんごのみきのはひのひかり\n\n腐植のしめりのつちに立てり\n\n根ぎはの朽ちの褐なれば\n\nどう枯病をうたがへり\n\n天のつかれの一方に\n\nその果《み》朱金をくすぼらす",
+      "characters": 81,
+      "ruby": []
+    }
+  ]
+}

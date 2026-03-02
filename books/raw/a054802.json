@@ -1,0 +1,48 @@
+{
+  "id": "a054802",
+  "title": "チャイコフスキイのトリオ",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "チャイコフスキイのトリオ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "チャイコフスキイのトリオ",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "アアちゃん\n\n白い雪のふる\n\n木の葉のちる\n\n寒い風のふく\n\nアアちゃん\n\nぼくは\n\nたたずみ\n\nうづくまり\n\n寒い風のふく",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "湯気のちぎれとぶ\n\nアアちゃん\n\nぼくは\n\n地べたに\n\n爪あとをつけ\n\nケシの種子を\n\nほりかえす\n\nアアちゃん",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

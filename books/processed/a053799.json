@@ -1,0 +1,48 @@
+{
+  "id": "a053799",
+  "title": "古井戸のある風景",
+  "author": "金鍾漢",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "古井戸のある風景",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "古井戸のある風景",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　しだれ柳はおいぼれてゐて\n\n井戸のそこには　くつきりと\n\n碧空のかけらが落ちてゐて　閏《うるふ》四月\n\nおねえさま\n\nことしも　郭公《ポノキ》が鳴いてゐますね\n\nつつましいあなたは　答へないで\n\n夕顔《パコチ》のやうにほほゑみながら\n\nつるべをあふれる　碧空をくみあげる\n\nつるべをあふれる　伝説をくみあげる",
+      "characters": 155,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "径は麦畑のなかを折れて　庭さきに\n\n杏も咲いてゐる　あれはぼくらの家\n\nまどろみながら　牛が雲を反芻してゐる\n\nほら　水甕にも　おねえさま\n\n碧空があふれてゐる",
+      "characters": 80,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a045104",
+  "title": "月の角笛",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月の角笛",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月の角笛",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　月が角笛\n\n夜ふけにふいた\n\nぽうぽうぽうよ、\n\nぽうぽうぽうよ。\n\n犬が野原を\n\nめぐつてないた。\n\n　　ぎりり、時計のねぢをばまいて\n\n　　牧師が階段、ことことおりた。\n\n月が角笛",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "とほくにふいた。\n\nぽうぽうぽうよ、\n\nぽうぽうぽうよ。\n\n牛があくびを\n\nあわわとやつた。\n\n　　からら、シヤーレの窓をばしめて\n\n　　ああ、ああ、遠いと乳屋がいつた。",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

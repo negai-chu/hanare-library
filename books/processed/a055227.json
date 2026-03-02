@@ -1,0 +1,42 @@
+{
+  "id": "a055227",
+  "title": "君のねがひ",
+  "author": "サッフォ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "君のねがひ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "君のねがひ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　君のねがひ望みたまふもの、\n\nもし道にかなひて尊きことならば、\n\nまたは、\n\nくちに正しからぬ言葉をたくみたまはずとならば、\n\nいかでか羞《はぢ》は君の眼を蓋《おほ》ふべき、\n\nあからさまにいひいでたまふべきに。",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

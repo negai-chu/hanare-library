@@ -1,0 +1,48 @@
+{
+  "id": "a057435",
+  "title": "大大阪のれいめい",
+  "author": "安西冬衛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "大大阪のれいめい",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 117,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "大大阪のれいめい",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　光は東方から\nかわらぬ真理の曙《あけぼの》に立つて\n今、大淀の流れに影を映すわれらの都大大阪。\n私は思う。\nこの水に生きるわれらの姿こそ\nかのハドソンの河口に立つ自由の女神の精神に協《かな》う\n永遠の平和の象徴《しるし》であることを。\nそして又それは告げる。\nキユーバの島から砂糖を\nカンガルーの国から羊毛を\nともどもに齎《もたら》し\n私たちを繁栄に導く博い愛の道に通うことを。\nやがてそれは私たちの内で\n燃えあがる一つの力となり\n私たちの手で\n世界の人々を外から温く包む物を創り出す大きい役目を果すだろう。\n\n水はめぐり水は育《はぐく》む",
+      "characters": 271,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "宇宙は一体で文化は一環だ。\n水に生き水に育つわれらの都大大阪の黎明。\n私たちのゆくては限りなく洋《ひろ》く\n私たちの未来は涯もなく巨《おお》きい。",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

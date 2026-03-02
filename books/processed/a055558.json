@@ -1,0 +1,42 @@
+{
+  "id": "a055558",
+  "title": "音響",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "音響",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 28,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "音響",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一切宇宙の音響を失わしめよ\n\n吾をして無韻の国土の王《キング》たらしめよ\n\nかくて孤りの声の響きあらしめよ",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

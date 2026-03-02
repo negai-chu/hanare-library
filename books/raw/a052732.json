@@ -1,0 +1,42 @@
+{
+  "id": "a052732",
+  "title": "十二年文壇に対する要求",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "十二年文壇に対する要求",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 83,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "十二年文壇に対する要求",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "努めて考へても、問題に添ふべき纏つた考へは、どんなかたちに於ても浮んで来ない。多少ながら浮んで来るものは、自分に対する自分の要求とでも云ふ風なかたちで淡く残るのみである。それをずつとおしひろめて考へたら或はこの問題に幾分触れるかも知れないといふ気もするが、やはりそれも狭い自分だけの道にのみ入つてしまふのである。",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

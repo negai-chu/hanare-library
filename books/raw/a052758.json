@@ -1,0 +1,42 @@
+{
+  "id": "a052758",
+  "title": "今年発表の作品",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年発表の作品",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年発表の作品",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「Ｆ村での春」「西瓜喰ふ人」「鱗雲」「山を越えて」「昔の歌留多」「藪のほとり」「雪景色」以上七篇、生活の上ではかなり努力したつもりだが斯うして題名をかぞへて見ると大変に空虚を感じる。",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

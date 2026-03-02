@@ -1,0 +1,347 @@
+{
+  "id": "a004839",
+  "title": "桜さく島",
+  "author": "竹久夢二",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 37
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "桜さく島",
+        "startPage": 1,
+        "endPage": 35,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "隅田川《すみだがは》",
+            "startPage": 3,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "人買《ひとかひ》",
+            "startPage": 5,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "御籤《くじ》",
+            "startPage": 7,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "雀《すヾめ》の子《こ》",
+            "startPage": 9,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "白《しろ》い薬《くすり》",
+            "startPage": 11,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "街《まち》の五月《ごぐわつ》",
+            "startPage": 13,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "越後《ゑちご》の山《やま》",
+            "startPage": 15,
+            "endPage": 16
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "夏《なつ》のかはたれ",
+            "startPage": 17,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "夢《ゆめ》",
+            "startPage": 20,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "雪《ゆき》の降《ふ》る日",
+            "startPage": 22,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "揺籃《えうらん》の記臆《きおく》",
+            "startPage": 24,
+            "endPage": 26
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "文《ふみ》",
+            "startPage": 27,
+            "endPage": 28
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "芝居《しばゐ》ごと",
+            "startPage": 29,
+            "endPage": 30
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "折鶴《をりづる》",
+            "startPage": 31,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "青《あを》い窓《まど》",
+            "startPage": 33,
+            "endPage": 35
+          }
+        ]
+      }
+    ],
+    "totalPages": 35,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "桜さく島",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　暮れゆく春のかなしさは\n\n歌ふをきけや爪弾の\n\n「おもひきれとは死ねとの謎か\n\n死ぬりや野山の土となる」",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "隅田川《すみだがは》",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 4,
+      "content": "「春信《はるのぶ》」の\n\n女《をんな》の髪《かみ》をすべりたる\n\n黄楊《つげ》の小櫛《おぐし》か\n\n月《つき》の影《かげ》。\n\n「どうせ売《う》られる身《み》ぢやほどに\n\n静《しづ》かに漕《こぎ》やれ　勘太殿《かんたどの》」",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "人買《ひとかひ》",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "秋《あき》の日《ひ》は\n\n赤《あか》い蜻蛉《とんぼ》のかはたれに\n\n塀《へい》の蔭《かげ》から青頭巾《あをづきん》。\n\nやれ人買《ひとかひ》ぢや、人買《ひとかひ》ぢや\n\n何処《どこ》へ迯《に》げようぞ、隠《かく》れようぞ。\n\n赤《あか》い蜻蛉《とんぼ》が飛《と》びまわる。",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "御籤《くじ》",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "思《おも》ひあまりて御籤《みくじ》を引《ひ》けば\n\nなんとせうぞの凶《けふ》と出《で》る。\n\nいつそ打明《うちあ》け話《はな》さうか\n\nひとりで泣《な》いて済《すま》さうか。\n\nえヽなんとせう川柳《かはやなぎ》。",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "雀《すヾめ》の子《こ》",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "トコ　ドンドコ　ピイ　ヒヤラヒヤア\n\n麦《むぎ》の上《うへ》をば風《かぜ》が吹《ふ》く。\n\n役者《やくしや》の群《むれ》にはぐれたる\n\n子供心《こどもごヽろ》のはかなさは\n\n……うちの浦《うら》のちさの木《き》に\n　　雀《すヾめ》が三羽《ば》とうまつて\n　　一羽《は》の雀《すヾめ》がいふことにや\n　　ゆふべ御座《ござ》つた花嫁御《はなよめご》\n　　何《なに》が悲《かな》しゆてお泣《な》きやるぞ\n　　お泣《な》きやるぞ………………\n今《いま》のわが身《み》につまされて\n\nほろりほろりと泣《な》いてゆく。",
+      "characters": 253,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "白《しろ》い薬《くすり》",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 12,
+      "content": "黄《きい》な袋《ふくろ》のセメンエン\n\n熱《ねつ》ある舌《した》にしみる時《とき》。\n\n暗《くら》い空《そら》から雪《ゆき》が降《ふ》る。\n\n炬燵《こたつ》の上《うへ》の黒猫《くろねこ》の\n\n青《あを》い瞳《みとみ》の光《ひか》る時《とき》。\n\n柩《ひつぎ》の屋根《やね》へ雨《あめ》が降《ふ》る。",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "街《まち》の五月《ごぐわつ》",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "……チン　ツン　くどけば　なぁびく\n　　チツツン　ツントン　相生《あひおひ》の松《まあつ》……\n\n口三味線《くちさみせん》の足拍子《あしびやうし》\n\n空気草履《くうきざうり》の柔《やわら》かさ。\n\n肩《かた》のうへでは花色《はないろ》の\n\n日傘《ひがさ》がまわる絵《ゑ》がまわる。\n\n……またいついつもの約束《やくそく》の　チンツン\n　　日《ひ》をまつ　時《とき》まつ　暮《くれ》をまあつ……",
+      "characters": 196,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "越後《ゑちご》の山《やま》",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 16,
+      "content": "角兵衛獅子《かくべいじヽ》の悲《かな》しさは\n\n親《おや》が太鼓《たいこ》打《う》ちや、子《こ》が踊《おど》る。\n\n股《また》の下《した》から峠《とうげ》を見《み》れば\n\nもしや越後《ゑちご》の山《やま》かと思《おも》ひ\n\n泣《な》いてたもれなとも／″＼に。\n\n角兵衛獅子《かくべいじし》の身《み》の辛《つら》さ\n\n輪廻《りんね》はめぐる小車《おぐるま》の\n\n蜻蛉《とんぼ》がへりの日《ひ》も暮《く》れて\n\n旅籠《やど》をとるにも銭《ぜに》はなし逢《あひ》の土山《つちやま》雨《あめ》が降《ふ》る。",
+      "characters": 249,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "夏《なつ》のかはたれ",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "　　一《ひ》や\n\n　　二《ふ》や\n\n　　お駒《こま》さん。\n\n　　煙草《たばこ》の　けむりは\n\n　　丈八《ぢやうは》つあん…………\n\nとん／＼とんとつく手鞠《てまり》。\n\n白《しろ》い指《ゆび》からはなれて見《み》れど\n\n未練《みれん》が残《のこ》るといつたよに\n\nやるせないよに往来《ゆきき》する。",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "ゆら／＼ゆれる伊達帯《だておび》から\n\n江戸紫《えどむらさき》の日《ひ》が暮《く》れる。\n\n　　三《み》や\n\n　　四《よ》や\n\n　　夕霧《ゆふぎり》さん………",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "夢《ゆめ》",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "春《はる》の夜《よ》の、夢《ゆめ》の一《ひと》つはかくなりき。\n\n丹塗《にぬり》の欄《らん》の長廊《わたどの》に\n\n散《ち》りくる花《はな》を舞扇《まひあほぎ》\n\nうけて笑《ゑ》みたる「歌麿《うたまろ》の\n\n女《をんな》」の青《あを》き眉《まゆ》を見《み》き。\n\n冬《ふゆ》の夜《よ》の、夢《ゆめ》一《ひと》つはかくなりき。\n\n黒《くろ》き頭巾《づきん》を被《かぶ》りたる\n\n人買《ひとがひ》の背《せ》に泣《な》いじやくり\n\n山《やま》の岬《みさき》をまわる時《とき》、「廣重《ひろしげ》の海《うみ》」ちらと見《み》き。",
+      "characters": 260,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "雪《ゆき》の降《ふ》る日",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "雪《ゆき》の降《ふ》る日《ひ》は、駒鳥《こまどり》の\n\n紅《あか》い胸毛《むなげ》のおど／＼と\n\n風《かぜ》に吹《ふ》かれるやるせなさ。\n\n雪《ゆき》の降《ふ》る日《ひ》に、小雀《こすヾめ》は\n\n赤《あか》い木《こ》の実《み》が食《た》べたさに\n\nそっと見《み》に出《で》るいぢらしさ。",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "揺籃《えうらん》の記臆《きおく》",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "（ねんねしなされ。まだ日《ひ》は高《たか》い\n\n暮《くれ》りやお寺《てら》の鐘《かね》がなぁる。）\n\n村《むら》のはづれにちら／＼するは\n\n虫《むし》か蛍《ほたる》か人魂《ひとだま》か。\n\nさうじやない／＼。母《かヽ》さんの\n\n点《つ》けさしやんした雪洞《ぼんぼり》が\n\n風《かぜ》に吹《ふか》れてゐるわいな。\n\n（ねんねしなされ。まだ夜《よ》は夜中《よなか》\n\n明《あけ》りやお寺《てら》の鐘《かね》がなぁる。）",
+      "characters": 207,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "山《やま》のうへをばふわ／＼飛《と》ぶは\n\n鳥《とり》か獣《けもの》か三《み》ヶ月《づき》か。\n\nさうじやない／＼。母《かヽ》さんの\n\n小袖《こそで》に染《そ》めた牡丹《ぼたん》の花《はな》が\n\n雨《あめ》に降《ふ》られてゐるわいな。",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "文《ふみ》",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 28,
+      "content": "雲《くも》に別《わか》れて野《の》に降《お》りし\n\n雨《あめ》のこヽろのやるせなさ\n\n思《おも》ひまゐらせ候《そろ》※\n\n空《そら》になげたる彩文《いろぶみ》は\n\n森《もり》にかヽりし虹《にじ》かいな。",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "芝居《しばゐ》ごと",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 30,
+      "content": "雪《ゆき》の降《ふ》る夜《よ》のかなしさに\n\n姉《あね》の小袖《こそで》をそと被《か》つぎ\n\n「……でんちうじや、はりひぢじや\n\n島《しま》さん、紺《こん》さん、なかのりさん……」\n\n踊《おど》りくたびれ「袖萩《そではぎ》」の\n\n肩《かた》に小袖《こそで》をうちかけて\n\n涙《なみだ》ながらの　芝居事《しばゐごと》\n\n「寒《さむ》かろうとて着《き》せまする」\n\nこのまあつもる雪《ゆき》わいの。",
+      "characters": 197,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "折鶴《をりづる》",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 32,
+      "content": "行灯《あんど》のかげにとつおいつ\n\n娘《むすめ》ごころの羞《はつか》しや\n\n何《なん》と答《こたへ》もしら紙《かみ》の\n\n膝《ひざ》のうへにて鶴《つる》を折《を》る。",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "青《あを》い窓《まど》",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 34,
+      "content": "隣《となり》のとなさん、何処《どこ》へいた。\n\n向《むか》ふのお山《やま》へ花摘《はなつ》みに\n\n露草《つゆくさ》　つら／＼月見草《つきみぐさ》。\n\n　　一枝《えだ》折《お》れば、ぱっと散《ち》る\n\n　　二枝《えだ》折《お》れば、ぱっと散《ち》る\n\n　　三枝《えだ》がさきに日《ひ》が暮《く》れて\n\n東《ひがし》の紺屋《こうや》へ宿《やど》とろか、\n\n南《みなみ》の紺屋《こうや》へ宿《やど》とろか。\n\n東《ひがし》の紺屋《こうや》は赤《あか》い窓《まど》、",
+      "characters": 229,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "南《みなみ》の紺屋《こうや》は青《あを》い窓《まど》。\n\n　　南《みなみ》の紺屋《こうや》へ宿《やど》とれば、\n\n　　夜着《よぎ》は短《みぢ》かし夜《よ》は長《なが》し。\n\n　　うつら／＼とするうちに\n\n　　青《あを》い窓《まど》から夜《よ》があけた。",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

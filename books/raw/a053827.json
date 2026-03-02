@@ -1,0 +1,42 @@
+{
+  "id": "a053827",
+  "title": "お馬がかへる",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お馬がかへる",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 31,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お馬がかへる",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "鑛山《やま》からかへる\n\nさくらの花を\n\n鞍につけて\n\nお馬がかへる\n\nだまつてかへる\n\n峠を越せば\n\n影がながい",
+      "characters": 57,
+      "ruby": []
+    }
+  ]
+}

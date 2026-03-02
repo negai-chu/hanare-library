@@ -1,0 +1,42 @@
+{
+  "id": "a053572",
+  "title": "麦",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "麦",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "麦",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "麥はさ青に延び行けり\n\n遠き畑の田作りの\n\n白き襦袢にえんえんと\n\n眞晝の光ふりそそぐ\n\n九月はじめの旅立ちに\n\n汽車の窓より眺むれば\n\n麥の青きに驚きて\n\n疲れし心が泣き出せり",
+      "characters": 89,
+      "ruby": []
+    }
+  ]
+}

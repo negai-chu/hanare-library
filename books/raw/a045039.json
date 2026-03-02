@@ -1,0 +1,42 @@
+{
+  "id": "a045039",
+  "title": "昔語り",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "昔語り",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "昔語り",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "昔、昔の\n\nそのむかし\n\n昔の話をきかさうか\n\nぢぢが\n\nこどもの\n\nそのころも\n\n山には霧がかかつてた\n\n森には小鳥がないてゐた",
+      "characters": 65,
+      "ruby": []
+    }
+  ]
+}

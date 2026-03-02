@@ -1,0 +1,42 @@
+{
+  "id": "a058745",
+  "title": "雪夜　一",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪夜　一",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪夜　一",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　雪はふる　雪はふる　聲もなくふる雪は　私の窗の半ばを埋める\n\n私の胸を波だてた　それらの希望はどこへ行つたか　――また今宵\n\nそれらの思出もとび去りゆく　夜空のかぎり　雪はふる　雪はふる\n\n雪は思出のやうにふる　雪は思出のやうにふる　また忘却のやうにもふる",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

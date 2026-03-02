@@ -1,0 +1,48 @@
+{
+  "id": "a054774",
+  "title": "ぼくもいくさに征くのだけれど",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ぼくもいくさに征くのだけれど",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ぼくもいくさに征くのだけれど",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "街はいくさがたりであふれ\n\nどこへいっても征くはなし　勝ったはなし\n\n三ヶ月もたてばぼくも征くのだけれど\n\nだけど　こうしてぼんやりしている\n\nぼくがいくさに征ったなら\n\n一体ぼくはなにするだろう　てがらたてるかな\n\nだれもかれもおとこならみんな征く\n\nぼくも征くのだけれど　征くのだけれど\n\nなんにもできず",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "蝶をとったり　子供とあそんだり\n\nうっかりしていて戦死するかしら\n\nそんなまぬけなぼくなので\n\nどうか人なみにいくさができますよう\n\n成田山に願かけた",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

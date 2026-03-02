@@ -1,0 +1,48 @@
+{
+  "id": "a055029",
+  "title": "沈め",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "沈め",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "沈め",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "那覇港よ　その海民よ\n\n剽悍な気魄いまやなし\n\nああ美しい贈りものを！\n\n尾類《ヂユリ》が紅いどくを文身《ほり》こむだらうよ\n\n人魚の肌へ\n\n鮫を、比目魚を、いらぶう、海豚を\n\n市をめぐつて海の族《やから》が酔うて痴れて酔ひ痴れて\n\nおまへを誘ひにくるだらう\n\n泡盛の匂ひを古酒《クース》を撒いて！",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "沈め沈め沈め海へ底へ\n\nおまへの市の石垣が魚城の砦に役立つ日が来た\n\nそこで午睡をするがよい！\n\nおまへの午睡に役立つ日が来た\n\n海の中で黄いろ？　赤いろ？\n\n百年を一ど咲く龍舌蘭が花開くだらうよ\n\n沈め　用意はよいか！\n\nおまへはその掌に尾類《ヂユリ》の髪を握るだらう\n\nおまへの腰に椰子《ヤーシ》の壺を忘れぬだらう",
+      "characters": 159,
+      "ruby": []
+    }
+  ]
+}

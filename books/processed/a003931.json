@@ -1,0 +1,42 @@
+{
+  "id": "a003931",
+  "title": "働く婦人の結婚について",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "働く婦人の結婚について",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "働く婦人の結婚について",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　働いている婦人は、そういう生活につかれているところもあって、結婚したら家に落付き余り苦労したくなく思うのもわかりますが、実際にはその人と心持が合えば、共稼ぎで辛棒してゆく生活態度でなくては、幸福になる機会さえ逃してしまうのではないでしょうか。男のひとも家庭と妻との概念を変え、互に、愛し合う男と女とが生活に向ってスクラムを組む心持でなくては駄目と思います。\n\n〔一九三七年五月〕",
+      "characters": 190,
+      "ruby": []
+    }
+  ]
+}

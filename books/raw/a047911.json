@@ -1,0 +1,42 @@
+{
+  "id": "a047911",
+  "title": "さらにふたたび",
+  "author": "リルケライネル・マリア",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "さらにふたたび",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "さらにふたたび",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "さらにふたたび、よしや私達が愛の風景ばかりでなく、\n\nいくつも傷ましい名前をもつた小さな墓地をも、\n\n他の人達の死んでいつた恐ろしい沈默の深淵をも\n\n知つてゐようと、さらにふたたび、私達は二人して\n\n古い樹の下に出ていつて、さらにふたたび、身を横たへよう\n\n花々のあひだに、空にむかつて。",
+      "characters": 144,
+      "ruby": []
+    }
+  ]
+}

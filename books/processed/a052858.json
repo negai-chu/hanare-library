@@ -1,0 +1,42 @@
+{
+  "id": "a052858",
+  "title": "十年ひと昔",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "十年ひと昔",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "十年ひと昔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　十年前は阿佐ヶ谷に住んで居り、やはり目下と同様吶々と小説ばかり書いて居りました。もう十年も経つかと驚き入る次第であります。",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

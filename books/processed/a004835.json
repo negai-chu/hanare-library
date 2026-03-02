@@ -1,0 +1,722 @@
+{
+  "id": "a004835",
+  "title": "日記",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 73
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日記",
+        "startPage": 1,
+        "endPage": 73,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "十月一日",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "十月二日",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "十月三日",
+            "startPage": 6,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "十月四日",
+            "startPage": 8,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "十月五日",
+            "startPage": 10,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "十月十二日",
+            "startPage": 12,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "十月十三日",
+            "startPage": 14,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "十月十八日",
+            "startPage": 16,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "十月十九日",
+            "startPage": 18,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "十月二十日",
+            "startPage": 20,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "十月二十三日",
+            "startPage": 22,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "十月二十五日",
+            "startPage": 24,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "十月三十日",
+            "startPage": 26,
+            "endPage": 27
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "十一月二日",
+            "startPage": 28,
+            "endPage": 29
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "十一月三日",
+            "startPage": 30,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "十一月五日",
+            "startPage": 32,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "十一月六日",
+            "startPage": 34,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "十一月八日",
+            "startPage": 36,
+            "endPage": 37
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "十一月十日",
+            "startPage": 38,
+            "endPage": 39
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "十一月十一日",
+            "startPage": 40,
+            "endPage": 41
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "十一月十二日",
+            "startPage": 42,
+            "endPage": 43
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "十一月十三日",
+            "startPage": 44,
+            "endPage": 45
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "十一月十四日",
+            "startPage": 46,
+            "endPage": 47
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "十一月二十二日",
+            "startPage": 48,
+            "endPage": 49
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "十一月二十三日",
+            "startPage": 50,
+            "endPage": 51
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "十一月二十六日",
+            "startPage": 52,
+            "endPage": 53
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "十二月三日",
+            "startPage": 54,
+            "endPage": 55
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "十二月五日",
+            "startPage": 56,
+            "endPage": 57
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "十二月八日",
+            "startPage": 58,
+            "endPage": 59
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "十二月九日",
+            "startPage": 60,
+            "endPage": 61
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "十二月十二日",
+            "startPage": 62,
+            "endPage": 63
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "十二月十四日",
+            "startPage": 64,
+            "endPage": 65
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "十二月十七日",
+            "startPage": 66,
+            "endPage": 67
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "十二月二十日",
+            "startPage": 68,
+            "endPage": 69
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "十二月二十五日",
+            "startPage": 70,
+            "endPage": 71
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "十二月二十六日",
+            "startPage": 72,
+            "endPage": 73
+          }
+        ]
+      }
+    ],
+    "totalPages": 73,
+    "averageCharsPerPage": 22,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日記",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十月一日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　『新女苑』20枚「若き精神の成長を描く作品」\n\n『明日への精神』発売。\n\n『月刊文章』（29日）「文学における大陸性について」11枚",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "十月二日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "　実業の日本、三千だったが発送でもう千刷るという話が出ている由。四十三部増加して送って貰う。\n\n　日本評論　表のはなし。",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "十月三日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "　○「猫車」を見つけ出して手を入れる。\n\n　○「短い翼」と「藪の鶯」のうつし賃51枚 6.00\n\n〔欄外に〕第六十七信",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "十月四日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "「猫車」わたす。二十日までに出来る由。\n\n　○実日、310.00 もって来る。（550 のうち 200 すみ）あとの中から四三部代さしひいた。\n\n　林町へ 100、寿 50、郵 100、家賃 33。\n\n　○二十日頃増版出来る由\n\n〔欄外に〕多賀ちゃん面会",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "十月五日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "　十日、『日本評論』「朝の風」四十一枚\n\n〔欄外に〕六十八信",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "十月十二日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "　河出の本の校正出る。\n\n〔欄外に〕六十九信",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "十月十三日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "〔欄外に〕七十信",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "十月十八日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "〔欄外に〕七十一信",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "十月十九日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "『学芸新聞』　三枚\n\n『改造』時局　三枚\n\n『法政』　十四枚",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "十月二十日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "　同盟特信　二枚\n\n『婦公』　　四枚",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "十月二十三日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "『明日への精神』再版出来。四十三部買う\n\n　原稿料 105、日本文学のときの前金「百」をひいているというのが不思議。\n\n　高山書店　原稿わたし「現代の心」\n\n〔欄外に〕第七十二信",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "十月二十五日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "『明日への精神』十部かって来ようとしたら品切れ、五日に増刷の由。\n\n〔欄外に〕第七十三信",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "十月三十日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "『新女苑』「世代の価値」文化史　25枚\n\n『婦人画報』「来年」22枚",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "十一月二日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "　日本評論再版印税　三十\n\n　実業の日本　再版印税千部百七十円の中七十四円十六銭差引　九拾五円八拾四銭よこす",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "十一月三日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "　第三版千部捺印",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "十一月五日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "『満洲日日』「二人づれ」\n　四枚\n\n〔欄外に〕第七十四信\n\n　十月の表　　甲七、乙一八、丙四、丁一",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "十一月六日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "『スタイル』のハガキ返事\n\n　晨ちゃんの原稿批評。\n\n　河出の二千五百捺印（部）\n\n〔欄外に〕第七十五信",
+      "characters": 52,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "十一月八日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "〔欄外に〕第七十六信",
+      "characters": 10,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "十一月十日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "「板ばさみ」『改造』　十枚\n\n〔欄外に〕七十七信",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "十一月十一日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 41,
+      "content": "　レ帝よみはじめる",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "十一月十二日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 43,
+      "content": "「東と西」『スタイル』三\n\n「漁村の婦人の生活」九　『漁村』",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "十一月十三日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 45,
+      "content": "「現代の心」の印税さきばらい 100.\n\n〔欄外に〕七十六《（ママ）》信",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "十一月十四日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 47,
+      "content": "　同盟特信「女を殴る」",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "十一月二十二日",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 49,
+      "content": "〔欄外に〕第七十九信\n\n21日間　甲３、乙17、丁１\n\n本　一一五頁",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "十一月二十三日",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 51,
+      "content": "「ラジオ時評」『東日』　五枚\n\n〔欄外に〕八十信",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "十一月二十六日",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 53,
+      "content": "『都』時評　一回　４\n\n一、『明日への精神』第四　一〇〇〇増\n\n一、高山校正　第一回\n\n『都』時評　20枚終\n\n〔欄外に〕第八十一信",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "十二月三日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 55,
+      "content": "　三、四の印税 340.00　うち本代 13.66　326.34\n\n『文芸』の小説21枚　「紙の小旗」\n\n　岩波「主婦の政治的自覚」22枚？",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "十二月五日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 57,
+      "content": "『女学生』「新春からの日記」五枚\n\n『都』「国民文化生活　図書館」二枚半",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "十二月八日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 59,
+      "content": "　○『婦人画報』　七枚\n\n　○『都』「健全性」のむずかしさ　二枚　演劇\n\n　○『満洲日日』女性と社会性　二枚半",
+      "characters": 55,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "十二月九日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 61,
+      "content": "『農業新聞』「村の三代」五枚\n\n〔欄外に〕第八十二信\n\n　十一月二〇―三〇　　甲一、乙一、丙八\n\n　十二月一―八　　甲一、乙一　丙五、丁一。",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "十二月十二日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "『婦画』十二月号 46.00　『知性』14.00　16.50――『文芸情報』『オール女性』15.00　『女子文苑』15.00\n\n　十三日――河出より 200.00 とって来る。\n\n〔欄外に〕第八十三信",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "十二月十四日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 65,
+      "content": "　ｍへ 150.00、三越で半コートこしらえる。\n\n〔欄外に〕八十四信",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "十二月十七日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 67,
+      "content": "『文芸』80.00　『婦人朝』20.00　『日日』20.00\n\n　同盟特信　民の心\n\n『早稲田大学新聞』　",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "十二月二十日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 69,
+      "content": "「女性の現実」８（『オール女性』二月）",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 70,
+      "content": "十二月二十五日",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 71,
+      "content": "〔欄外に〕八十六",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "十二月二十六日",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 73,
+      "content": "〔欄外に〕八十七信",
+      "characters": 9,
+      "ruby": []
+    }
+  ]
+}

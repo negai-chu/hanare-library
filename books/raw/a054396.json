@@ -1,0 +1,42 @@
+{
+  "id": "a054396",
+  "title": "高館",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "高館",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "高館",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "草深きなかに訪ねし\n\n夢跡の寒きかなしさ\n\n朽ち柵に倚れば仄かに\n\n胸にしむ旅のうれひよ\n\n緑濃きなかに見出でし\n\n人の世のさぶしさ\n\n夢を皆遠く流せし\n\n北上が瞳にしみる。",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

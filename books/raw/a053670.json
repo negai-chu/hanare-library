@@ -1,0 +1,42 @@
+{
+  "id": "a053670",
+  "title": "シュレジェンの織工によせて",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "シュレジェンの織工によせて",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 123,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "シュレジェンの織工によせて",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おなじみの古調で\nハイネはしみじみとシュレジェンの織工の歌をぼくに告げた\n無慈悲な神々、王と、不実な祖国とえ三重の呪咀を織りこんだむかしの労働者の歌を\n\nその后ぼくは皇帝の監獄部屋で\n皇帝の親衛兵たちのボロを解きながら\n皇帝の緋色の衣装を拝受した\n\nこのマンチュリアの婦人服に似た着衣は皇帝の女囚によって織られた\n三重の呪咀は、高貴な織物の一片々々にしみわたっていた\n僕は毎朝監守の前で、わざとおどけた小供のような情熱をもってこの筒っぽの着更に接吻した\n（以下喪失）",
+      "characters": 233,
+      "ruby": []
+    }
+  ]
+}

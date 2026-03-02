@@ -1,0 +1,42 @@
+{
+  "id": "a055914",
+  "title": "（汽車が聞える）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（汽車が聞える）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（汽車が聞える）",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "汽車が聞える\n\n蓮華の上を渡つてだらうか\n\n内的な刺戟で筆を取るダダイストは\n\n勿論サンチマンタルですよ。",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

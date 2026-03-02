@@ -1,0 +1,42 @@
+{
+  "id": "a053402",
+  "title": "〔館は台地のはななれば〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔館は台地のはななれば〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔館は台地のはななれば〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　館は台地のはななれば\n\n鳥は岬の火とも見つ\n\n香魚釣る人は藪と瀬を\n\n低くすかしてわきまへぬ\n\n鳥をまがへる赤き蛾は\n\n鱗粉きらとうちながし\n\n緑の蝦を僭しつゝ\n\n浮塵子あかりをめぐりけり",
+      "characters": 95,
+      "ruby": []
+    }
+  ]
+}

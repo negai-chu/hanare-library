@@ -1,0 +1,48 @@
+{
+  "id": "a045030",
+  "title": "雨の歌",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雨の歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雨の歌",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雨がふる\n\n　雨がふる\n\nさびしい雨滴でも聴かうか\n\n　いや、いや\n\n　さうだ\n\n鞭《むちう》つやうに\n\n蹴《け》るやうに\n\nつよく、つよく\n\n　　　　はげしく",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "つよく、はげしく\n\n　　　　ふつてくれ",
+      "characters": 19,
+      "ruby": []
+    }
+  ]
+}

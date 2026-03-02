@@ -1,0 +1,42 @@
+{
+  "id": "a054226",
+  "title": "鏡川",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鏡川",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鏡川",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　水がふえたよ鏡川\n\nそんなにうなってどこへ行く\n\n子供をさらって海へ行く\n\nおゝ恐《コハ》や　恐やの鏡川\n\n（大正十一・七・九）",
+      "characters": 65,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a007931",
+  "title": "秋の夜",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋の夜",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 83,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋の夜",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　月そそぐいずの夜\n\n揺れ揺れて流れ行く光りの中に\n\n音もなく一人もだし立てば\n\n萌え出でし思いのかいわれ葉\n\n瑞木となりて空に冲る。\n\n乾坤を照し尽す無量光\n\n埴の星さえ輝き初め\n\n我踏む土は尊や白埴\n\n木ぐれに潜む物の隈なく",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "黄朽ち葉を装いなすは\n\n夜光の玉か神のみすまるか\n\n奇しき光りよ。\n\n常珍らなるかかる夜は\n\n燿郷の十二宮\n\n眼くるめく月の宮\n\n瑠璃の階　八尋どの\n\n玉のわたどの踏みならし\n\n打ち連れ舞わん桂乙女",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "うまし眉高く　やさめの輝き\n\n長袖花をあざむけば\n\n天馳つかい喜び誦し\n\n山祇もみずとりだまも\n\nともに奏でん玉の緒琴　箏の笛\n\n妙なりや秋の夜\n\n心ゆく今の一とき\n\n久遠劫なる月の栄え\n\n讚えんに言の葉も得ずいずのみお我辺かこむ。",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

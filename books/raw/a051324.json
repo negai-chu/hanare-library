@@ -1,0 +1,48 @@
+{
+  "id": "a051324",
+  "title": "疲れやつれた美しい顔",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "疲れやつれた美しい顔",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "疲れやつれた美しい顔",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "疲れやつれた美しい顔よ、\n\n私はおまへを愛す。\n\nさうあるべきがよかつたかも知れない多くの元気な顔たちの中に、\n\n私は容易におまへを見付ける。\n\nそれはもう、疲れしぼみ、\n\n悔とさびしい微笑としか持つてはをらぬけれど、\n\nそれは此の世の親しみのかずかずが、\n\n縺《もつ》れ合ひ、香となつて籠る壺なんだ。\n\nそこに此の世の喜びの話や悲しみの話は、",
+      "characters": 172,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "彼のためには大きすぎる声で語られ、\n\n彼の瞳はうるみ、\n\n語り手は去つてゆく。\n\n彼が残るのは、十分諦めてだ。\n\nだが諦めとは思はないでだ。\n\nその時だ、その壺が花を開く、\n\nその花は、夜の部屋にみる、三色菫《さんしきすみれ》だ。",
+      "characters": 115,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a055541",
+  "title": "醜面女人",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "醜面女人",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "醜面女人",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　人間美学の深奥に\n\nいときらびやかなる女人の像は久遠《くおん》である\n\nされど\n\n醜面\n\n白日のうちにさらけし\n\n卑しき女人の相を見る\n\nこはこれけもののみにくさにあらず\n\nみにくしとも\n\n蛇の如き呪いも見えず",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人間のみの具有せる\n\n暗愚なるものの像である",
+      "characters": 22,
+      "ruby": []
+    }
+  ]
+}

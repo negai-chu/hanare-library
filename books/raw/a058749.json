@@ -1,0 +1,42 @@
+{
+  "id": "a058749",
+  "title": "山果集に寄す",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "山果集に寄す",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "山果集に寄す",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "行くがいい　既に門出の時である　行け\n\n太陽のもと　喧噪のさなかに　行け　風塵霜露の衢々に\n\n行つて　お前の運命を試みるべき時である　行け\n\n片意地な兜蟲　か弱い仔雀　跛この驢馬　憐れなるわが詩《うた》の一卷",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055492",
+  "title": "無題",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "無題",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "無題",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "たゞひとり黎明の森を行く。\n\n風は心虚しく幹のあはひを翔り、\n\n木々はみなその白き葉裏を反《かへ》す。\n\n樹の間がくれに、足速《あしばや》に\n\n白き馬を牽きゆくは誰ぞ。\n\n道の辺《べ》の　歯朶の群をのゝけり。\n\nかゝるとき、湿りたる岩根を踏めば\n\nあゝ、わが出生《しやう》の記憶甦へる。",
+      "characters": 143,
+      "ruby": []
+    }
+  ]
+}

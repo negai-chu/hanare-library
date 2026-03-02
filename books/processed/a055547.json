@@ -1,0 +1,60 @@
+{
+  "id": "a055547",
+  "title": "学校",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "学校",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 101,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "学校",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　教壇もない\n\n机もない\n\n椅子もない\n\n教師の握る鞭もない\n\nこの学校には粗末なベットがあり\n\nベットは二十幾つも並んで\n\nベットの上には\n\n自分の肺をくさらせた青年がねている\n\n一九三四年の日本の東京で",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "貧窮に　過労に　困苦に\n\n生身の肺を病菌に喰《くら》わせて\n\n遂に\n\nいく月も\n\nいく年も\n\nここのベットにねたきりとなる。\n\n青白い顔の生徒達は\n\n食慾のおとろい《（ママ）》た腹に\n\nうすかゆやじゃがいもを啜りこんで",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "是が非でも生きんとする\n\n老母や姉弟の見舞の小銭を押しいただいては\n\nあきらかならずとも\n\nこの饑餓の日本にふんまんを抱き\n\n強く生きんことを学ぶ\n\nかばねの自由なければ\n\n神を説き精神の自由を説いて\n\nキリストの愛　今はブルジョアのための忍従を\n\n胸に抱けと教ゆる牧師はあれど",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "こころただ\n\n現実の窮乏と奴隷の生活よりのがれるすべを\n\nひそかにひそかに思うのみ、\n\nドストエフスキーの不敬の十年の牢獄は学校となり\n\n労働者の組合は党の学校となる\n\n肺を病む青年のねている施療療養所《サナトリウム》は\n\nブルジョア日本の支配の下で\n\n牢獄に捕われし多くの同志と同じく\n\nここも又学校となる",
+      "characters": 154,
+      "ruby": []
+    }
+  ]
+}

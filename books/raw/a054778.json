@@ -1,0 +1,42 @@
+{
+  "id": "a054778",
+  "title": "色のない旗",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "色のない旗",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 73,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "色のない旗",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "詩を作り、\n\n人に示し、\n\n笑って、自ら驕《たかぶ》る\n\n――ああ、此れ以外の\n\n何を己れは覚えたであろう？\n\nこの世で、これまで……\n\n　　　　　　　　城　左門\n\n　できるだけ、知らない顔を試るのだけれど、気にしないわけにはゆかない。だんだん近づいてきた。あと一月、二十九日、二……",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

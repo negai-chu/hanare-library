@@ -1,0 +1,48 @@
+{
+  "id": "a054497",
+  "title": "わが画",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "わが画",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "わが画",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "思はずも筆はしり\n\n忽ちに画《ゑ》は成りぬ。\n\nこの時に涙ぞくだる。われながら\n\n芸の力に泣きぬるか。\n\nきと見れば、あさましや、\n\nをののきに眼《め》ぞ眩《くら》む。\n\nむくつけき斑《まだら》の獣《けもの》尾を曳きて\n\n面《おも》には君をゑがきたり。\n\nやがて画《ゑ》は炉の中《うち》に",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "燃えながら且つ泣きぬ。\n\nああされど、偽らざりき、わが心\n\n思ふはげにも然《さ》なりける。",
+      "characters": 45,
+      "ruby": []
+    }
+  ]
+}

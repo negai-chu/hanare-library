@@ -1,0 +1,48 @@
+{
+  "id": "a060909",
+  "title": "或る時の詩",
+  "author": "片山敏彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "或る時の詩",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "或る時の詩",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　心の嵐《あらし》が今去つたところだ\n\n熱い嵐の中で、つめたい心がこゞえて\n\n獣になつて魂の野を\n\n走りまはつてゐた。\n\n火に烙《や》かれながら、一つの氷が\n\n曇り日の天に向つて叫んだ。\n\n心の嵐が今去つたところだ。\n\n疲れた氷の火が静かにとけて\n\n秋の曇り日の天の下に",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "春のやうなひかりを感じる。\n\nやつと見つけたお母さんの乳房に\n\n泣きじやくりながら、かじりつく赤ん坊に\n\n私のこゝろは似てゐると思ふ。",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

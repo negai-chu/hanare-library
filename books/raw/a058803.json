@@ -1,0 +1,60 @@
+{
+  "id": "a058803",
+  "title": "方向",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "方向",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 116,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "方向",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わたしはこの頃しきりに考える\n\n自分というものについて\n\nわたしは下宿の二階に兄のくれる金で暮らしている\n\nそれはわずかな金だ\n\nけれども兄の彼が夜ヒル書きつづける血のしたたりなのだ\n\nわたしはそれで米や炭をととのえ腹を満たしている\n\nわたしの仕事は詩を書くこと、文学の途をゆくことになっている\n\nわたしは机に向かって本を読む\n\nあるいは書こうとする　けれども書けない",
+      "characters": 184,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "わたしはうっ伏して足りない才能をかなしむ\n\n心はたぎっても現わせない\n\nわたしは本を伏せ　インクのふたも忘れて外へ飛び出す\n\n友だちのところではなす\n\n一日一日は過ぎてゆくばかり\n\n怒った父はいま手紙をくれ、母は衣服を送ってよこす\n\nわたしはみんなに支えられている\n\n時間は全部一人のもの\n\n生活費さえあたえられて",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "みんなは働いている\n\n子供が夜店に絵本を売っている\n\n失業者がうえ死にしている\n\nわたしはうろうろと居食いをしなければならないか\n\n文学の途は遠くひらけている\n\n現実が下がっている\n\n未来の夢が呼びかける\n\nある作家の言葉を思い出す\n\n物書きはいい　たとえ足やハナが欠けていても",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "屋根裏ででも紙とペンさえあれば書きあらわせる\n\n書くことによって人は苦しみから立ち上がって行ったのだと言うことを……\n\n一行の詩\n\n一つの断片でもいい\n\n薄き智能をけずり\n\n書きつづらねばならないだろう",
+      "characters": 101,
+      "ruby": []
+    }
+  ]
+}

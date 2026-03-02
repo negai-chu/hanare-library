@@ -1,0 +1,48 @@
+{
+  "id": "a055544",
+  "title": "豌豆畑",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "豌豆畑",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "豌豆畑",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　豆畑を越えて\n\n聞えて来る睦ましそうな話を\n\n私はねころんで聞いていた\n\nよくは聞きとれないけれども\n\nほんとうに睦ましそうな話\n\nすげ笠の蔭にかくれて\n\n父も母も余念なく草を取りつつ\n\n何をか物語る\n\n子供はうね越えて遠く",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "向うの方に事もなき\n\nうれしさの微笑を見せて\n\n母さんよ　母さんよと\n\n呼び続けている",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

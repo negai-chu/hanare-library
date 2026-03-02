@@ -1,0 +1,76 @@
+{
+  "id": "a053358",
+  "title": "春章作中判",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春章作中判",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "一、",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "二、",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 17,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春章作中判",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一、",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "ましろき蘆の花噴けば\n\n青き死相を眼にたゝへ\n\n大太刀舞はす乱れ髪",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "二、",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "白紙を結ぶすはだしや\n\n死を嘲ける青の隈\n\n雪の反射のなかにして\n\n鉄の鏡をかゝげたり",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

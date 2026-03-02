@@ -1,0 +1,60 @@
+{
+  "id": "a047406",
+  "title": "東の渚",
+  "author": "伊藤野枝",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "東の渚",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "東の渚",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "東の磯の離れ岩、\n\nその褐色の岩の背に、\n\n今日もとまつたケエツブロウよ、\n\n何故にお前はそのやうに\n\nかなしい声してお泣きやる。\n\nお前のつれは何処へ去た\n\nお前の寝床はどこにある――\n\nもう日が暮れるよ――御覧、\n\nあの――あの沖のうすもやを、",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "何時までお前は其処にゐる。\n\n岩と岩との間の瀬戸の、\n\nあの渦をまく恐ろしい、\n\nその海の面をケエツブロウよ、\n\nいつまでお前はながめてる\n\nあれ――あのたよりなげな泣き声――\n\n海の声まであのやうに\n\nはやくかへれとしかつてゐるに\n\n何時まで其処にゐやる気か",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "何がかなしいケエツブロウよ、\n\nもう日が暮れる――あれ波が――\n\n私の可愛いゝケエツブロウよ、\n\nお前が去らぬで私もゆかぬ\n\nお前の心は私の心\n\n私も矢張り泣いてゐる、\n\nお前と一しよに此処にゐる。\n\nねえケエツブロウやいつその事に\n\n死んでおしまひ！その岩の上で――",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "お前が死ねば私も死ぬよ\n\nどうせ死ぬならケエツブロウよ\n\nかなしお前とあの渦巻へ――\n\n――東の磯の渚にて、一〇、三、――\n\n＊ケエツブロウ＝海鳥の名。（方言ならん）\n\n［『青鞜』第二巻第一一号・一九一二年一一月号］",
+      "characters": 108,
+      "ruby": []
+    }
+  ]
+}

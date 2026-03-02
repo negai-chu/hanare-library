@@ -1,0 +1,48 @@
+{
+  "id": "a053427",
+  "title": "〔われはダルケを名乗れるものと〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔われはダルケを名乗れるものと〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔われはダルケを名乗れるものと〕",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "われはダルケを名乗れるものと\n\nつめたく最後のわかれを交はし\n\n閲覧室の三階より\n\n白き砂をはるかにたどるこゝちにて\n\nその地下室に下り来り\n\nかたみに湯と水とを呑めり\n\nそのとき瓦斯のマントルはやぶれ\n\n焔は葱の華なせば\n\n網膜半ば奪はれて",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "その洞黒く錯乱せりし\n\nかくてぞわれはその文に\n\nダルケと名乗る哲人と\n\n永久《とは》のわかれをなせるなり",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

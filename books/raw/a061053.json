@@ -1,0 +1,66 @@
+{
+  "id": "a061053",
+  "title": "母",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "母",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 109,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "母",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わたしは子供のとき大変な甘えん坊で\n\nそしてあまやかされて育っていた\n\nあそびから帰るとすぐ母を呼び母をさがした\n\n母はわたしをはなれて出かけることはできなかった\n\n泣いて叫んでじたばたしたから\n\nけれどもスッカリ変わってしまった\n\nわたしは母を呼ばなかった\n\n母には何もなかった\n\nあふれて流れる泪を拭いてくれる手も",
+      "characters": 159,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "伸びつつ円くなってゆく体の\n\n体のなかのやわらかな芽生えも母には何も見えなかった\n\nただ娘の年齢だけを数えていた\n\n髪も結ばず壁に頭を押しつけ\n\n物も食べずにいたとしても母は何の言葉もかけはしなかった\n\nただ外へ出ようとすると満身の力で引きずった\n\nそうしてわたしをねじ伏せたのだった\n\n恐怖と苦痛\n\n命がけのさからいと呪いとの",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あかるい夏の日と\n\nながい冬の夜との\n\n恐怖と苦痛の中へ\n\n母よ\n\nあなたは娘を突っ放し\n\n見て見ぬ振りをしていた\n\n父のうしろにかくれ娘を見ようともしなかった\n\n母とは何だろう\n\n母は父の前に顔を赤らめたであろうに",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "父は若い男であり　母は若い女であったはずなのに\n\nわたしには何があったか\n\nそして過ぎてゆき\n\n家つき娘の母と年よった娘との日ぐらし\n\nながい年月の夜明けと日の暮れ\n\n母は死んだ\n\nそして\n\nどうしてわたしはこんなにかなしいのだろう\n\n母は死の床に",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "田んぼを田んぼをといいながら\n\n家と田んぼと\n\nそのことばかりが何よりののぞみだったように\n\nかぼそくやせた小さい姿だけが思い出される\n\n「鈴子や」　母の叫び声がきこえる\n\nわたしは母に死に別れてしまった",
+      "characters": 102,
+      "ruby": []
+    }
+  ]
+}

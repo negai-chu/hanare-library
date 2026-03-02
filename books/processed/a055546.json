@@ -1,0 +1,42 @@
+{
+  "id": "a055546",
+  "title": "祈願",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "祈願",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "祈願",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　吾をして生命の本道に歩ましめ\n\n吾をして美しき言葉あらしめよ\n\n神《ゴット》よ\n\n呼ばず　語らず　黙として\n\n吾は殉情の勇士となる",
+      "characters": 66,
+      "ruby": []
+    }
+  ]
+}

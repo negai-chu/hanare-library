@@ -1,0 +1,68 @@
+{
+  "id": "a055499",
+  "title": "ランボオへ",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ランボオへ",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ランボオへ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "キオスクにランボオ\n\n手にはマニラ\n\n空は美しい\n\nえゝ　血はみなパンだ\n\n詩人が御不在になると\n\n千家族が一家で軋めく\n\nまたおいでになると\n\n掟《おきて》に適つたことしかしない\n\n神様があいつを光らして、横にして下さるやうに！",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "それからあれが青や薔薇色の\n\nパラソルを見ないやうに！\n\n波の中は殉教者でうようよですよ",
+      "characters": 44,
+      "ruby": []
+    }
+  ]
+}

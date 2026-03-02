@@ -1,0 +1,42 @@
+{
+  "id": "a004681",
+  "title": "『それから』予告",
+  "author": "夏目漱石",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『それから』予告",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『それから』予告",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "色々な意味に於てそれからである。「三四郎」には大学生の事を描《かい》たが、此《この》小説にはそれから先の事を書いたからそれからである。「三四郎」の主人公はあの通り単純であるが、此主人公はそれから後《あと》の男であるから此点に於ても、それからである。此主人公は最後に、妙な運命に陥《おちい》る。それからさき何《ど》うなるかは書いてない。此意味に於ても亦《また》それからである。",
+      "characters": 187,
+      "ruby": []
+    }
+  ]
+}

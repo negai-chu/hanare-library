@@ -1,0 +1,48 @@
+{
+  "id": "a053832",
+  "title": "ほろほろほろりん",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ほろほろほろりん",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 31,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ほろほろほろりん",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　垣のそとを\n\nどこのねえやだか\n\nゆきました\n\nほろほろほろりん\n\n細いこゑで\n\n赤ん坊あやして\n\nゆきました\n\nほろほろほろりん\n\n月夜でせう",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "椿の花だか\n\nおちました",
+      "characters": 12,
+      "ruby": []
+    }
+  ]
+}

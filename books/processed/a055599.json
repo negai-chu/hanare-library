@@ -1,0 +1,42 @@
+{
+  "id": "a055599",
+  "title": "静夜昇天",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "静夜昇天",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "静夜昇天",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　柱時計のけだるきリズムに\n\n眠たげなる洋燈の光りに\n\n深々と沈みゆく我らが生\n\n九時を聞き十時を聞き\n\nすべては眠りを欲《ほ》りするの時\n\nみな底の吐息は泡となり\n\nほそぼそき昇天の心は\n\n我生の魂と共にかいのぼりゆく",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

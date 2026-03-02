@@ -1,0 +1,48 @@
+{
+  "id": "a051333",
+  "title": "我が祈り",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "我が祈り",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 108,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "我が祈り",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "神よ、私は俗人の奸策《かんさく》ともない奸策が\n\nいかに細き糸目もて編みなされるかを知つてをります。\n\n神よ、しかしそれがよく編みなされてゐればゐる程、\n\n破れる時には却《かへつ》て速かに乱離することを知つてをります。\n\n神よ、私は人の世の事象が\n\nいかに微細に織られるかを心理的にも知つてをります。\n\nしかし私はそれらのことを、\n\n一も知らないかの如く生きてをります。\n\n私は此所に立つてをります！……",
+      "characters": 202,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "私はもはや歌はうとも叫ばうとも\n\n描かうとも説明しようとも致しません！\n\nしかし、噫《ああ》！　やがてお恵みが下ります時には、\n\nやさしくうつくしい夜の歌と\n\n櫂歌《かいうた》とをうたはうと思つてをります……\n\n（一九二九・一二・一二）",
+      "characters": 118,
+      "ruby": []
+    }
+  ]
+}

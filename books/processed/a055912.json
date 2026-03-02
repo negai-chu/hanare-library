@@ -1,0 +1,48 @@
+{
+  "id": "a055912",
+  "title": "（仮定はないぞよ！）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（仮定はないぞよ！）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（仮定はないぞよ！）",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　仮定はないぞよ！\n\n先天的観念もないぞよ！\n\n何にもない所から組立てゝ行つて\n\n先天的観念にも合致したがね\n\n理窟が面倒になつたさ\n\n屋根みたいなものさ\n\n意識した親切は持たないがね\n\n忠告する元気があれば\n\n象牙の塔の修繕にまはさうさ",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "カウモリ傘にもたれてみてゐりやあ\n\n人は真面目にくたびれずに\n\n事業つて奴をやつて呉れらあ\n\nサンチマンタリズムに迎合しなきや\n\n趣味の本質に叛くかしらつてのが\n\nまあまあ俺の問題といへば問題さ",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

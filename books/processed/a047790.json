@@ -1,0 +1,42 @@
+{
+  "id": "a047790",
+  "title": "歌舞妓芝居後ありや",
+  "author": "折口信夫",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "歌舞妓芝居後ありや",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 127,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "歌舞妓芝居後ありや",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　音羽屋六代の主　尾上菊五郎歿す。その日遥かに能登にあり。我また、\n\n私《ワタクシ》のほとけを持ちて、盂蘭盆の哀愁、愈切なるものあり。\n\n亡びなきものゝ　さびしさ。永久《トハ》にして　尚《ナホ》しはかなく、人は過ぎ行く\n\n自ら撰《ツク》る所の戒名　芸術院六代菊五郎居士と言ふと伝ふ。\n\nもの思ふこと彼《カレ》の如く深く、之を表すこと彼の如く切《セツ》にして、なほ知識\n\n短きこと斯くの如きに、人は、ほと／＼哭かむとす。\n\n酔ひ深く　いとゞ五斗《ゴトウ》の舞姿　しづかに澄みて、入りゆけるはや",
+      "characters": 245,
+      "ruby": []
+    }
+  ]
+}

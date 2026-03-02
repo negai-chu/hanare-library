@@ -1,0 +1,42 @@
+{
+  "id": "a003694",
+  "title": "私の好きな小説・戯曲中の女",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の好きな小説・戯曲中の女",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の好きな小説・戯曲中の女",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「戦争と平和」のナタアシャ。\n\n「ジャン・クリストフ」のグラジヤ。\n\n　此等の女性の人格、生、そのものが直接心に響きます。\n\n〔一九二一年一月〕",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

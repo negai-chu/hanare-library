@@ -1,0 +1,42 @@
+{
+  "id": "a054993",
+  "title": "芳賀君を悼みて",
+  "author": "上田万年",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "芳賀君を悼みて",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 120,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "芳賀君を悼みて",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　みそとせをふみのはやしにしをりしてともにすゝみつあはれきみはも\n\nきみゆかはわれいしふみをえらはむとちきりしきみはわれにそむきぬ\n\nかくとしらはすへてをおきてやすらかにくらしたまへととかさりしものを\n\nにしへにまれにいみるひとちかきよにたえてなきひとくにはうしなひぬ\n\nみはふりのうたよみをへておくれしとみあとおひけむひとそかなしき\n\nよもすからわれいねかてにあかしつるこのよにきみはかんさりましぬ\n\nみこみまこみなすこやかにさかえいますこゝろやすらにねむりませきみ",
+      "characters": 234,
+      "ruby": []
+    }
+  ]
+}

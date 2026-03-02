@@ -1,0 +1,48 @@
+{
+  "id": "a053495",
+  "title": "老いたるえびのうた",
+  "author": "室生犀星",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "老いたるえびのうた",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "老いたるえびのうた",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "けふはえびのように悲しい\n\n角《つの》やらひげやら\n\nとげやら一杯生やしてゐるが\n\nどれが悲しがつてゐるのか判らない。\n\nひげにたづねて見れば\n\nおれではないといふ。\n\n尖つたとげに聞いて見たら\n\nわしでもないといふ。\n\nそれでは一体誰が悲しがつてゐるのか",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "誰に聞いてみても\n\nさつぱり判らない。\n\n生きてたたみを這うてゐるえせえび一疋。\n\nからだじうが悲しいのだ。",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

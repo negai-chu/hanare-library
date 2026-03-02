@@ -1,0 +1,42 @@
+{
+  "id": "a055012",
+  "title": "月下市街図",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月下市街図",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月下市街図",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　月はひろげた市街地図をうすく青塗りにする\n\n僕は白チオクのちいさい残粒\n\nコロコロ市街双六の上を転つてゆく白い骰子\n\n転し手もない上りもない悲しい骰子\n\n月に\n\n内臓の赤い花花をみんな食べられてしまうた\n\n蜉蝣の悲しいからだに落魄れてしまうた\n\n帽子かむつて\n\n僕はころがつてゆく軽石の骰子",
+      "characters": 146,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053645",
+  "title": "我れ何所へ行かん",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "我れ何所へ行かん",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "我れ何所へ行かん",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　情緒よ\n\nながい憂鬱のながれを視てゐると\n\nあまりに私の眺望もさびしくなる\n\nこの日もすでにくれがた\n\n人生の影ながき厭生哲學の書物をひらけば\n\nああはや　いみじくも芽ぐみきたる感情の昂進よ\n\nさばかり情愁のみどりをふくめば\n\nさびしき思想の倉庫をひらき\n\n重たき黒の冥想の頭巾をとりて歩まんいざや歩み行かな。",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

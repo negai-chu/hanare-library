@@ -1,0 +1,48 @@
+{
+  "id": "a044420",
+  "title": "女九歳",
+  "author": "岸田国士",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "女九歳",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 142,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "女九歳",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　Ｙ子はＫ病院で扁桃腺の手術をすることになつた。\n\n　Ｙ子は九歳で、春夏秋冬、風邪をひいた。\n\n　Ｙ子は母親と、Ｋ子叔母ちやまと、女中とに連れられて家を出た。\n\n　Ｙ子はその日、平生よりもはしやいでゐた。そして、時々、溜息を吐いた。\n\n　裸にされ、手術室にはひると、そばに母親も、Ｋ子叔母ちやまも、女中もゐなかつた。\n\n　Ｙ子は、一寸泣きたさうな顔をしたが、やがて、夢中で口をあいた。――母親が、鍵孔から、息をこらして、中の様子を見てゐることなど、勿論知らなかつた。\n\n　突然、Ｙ子は泣き出した。喉がチクツとした。\n\n「さ、もう一度、口をあいて……」\n\n　お医者さんが云つた。",
+      "characters": 288,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　母親は、鍵孔に眼を押しつけた。\n\n　Ｙ子は泣きながら、大きな口を開いた。\n\n　こんどは、母親が泣きたくなつた。\n\n　そのことを、あとで、Ｋ子叔母ちやまと女中とに話したら、二人とも、また泣きたくなつた。\n\n　Ｙ子は、喉に氷をあてゝ、ちよつと、得意さうに眼をつぶつてゐた。",
+      "characters": 135,
+      "ruby": []
+    }
+  ]
+}

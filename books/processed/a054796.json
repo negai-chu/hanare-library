@@ -1,0 +1,66 @@
+{
+  "id": "a054796",
+  "title": "五月のように",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "五月のように",
+        "startPage": 1,
+        "endPage": 6
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 83,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "五月のように",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　なんのために\n\nともかく　生きている\n\nともかく\n\nどう生きるべきか\n\nそれは　どえらい問題だ\n\nそれを一生考え　考えぬいてもはじまらん\n\n考えれば　考えるほど理屈が多くなりこまる\n\nこまる前に　次のことばを知ると得《とく》だ\n\n歓喜して生きよ　ヴィヴェ・ジョアイユウ",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "理屈を言う前に　ヴィヴェ・ジョアイユウ\n\n信ずることは　めでたい\n\n真を知りたければ信ぜよ\n\nそこに真はいつでもある\n\n弱い人よ\n\nボクも人一倍弱い\n\n信を忘れ\n\nそしてかなしくなる\n\n信を忘れると",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "自分が空中にうき上がって\n\nきわめてかなしい\n\n信じよう\n\nわけなしに信じよう\n\nわるいことをすると\n\n自分が一番かなしくなる\n\nだから\n\n誰でもいいことをしたがっている\n\nでも　弱いので",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ああ　弱いので\n\nついつい　わるいことをしてしまう\n\nすると　たまらない\n\nまったくたまらない\n\n自分がかわいそうになって\n\nえんえんと泣いてみるが\n\nそれもうそのような気がして\n\nあゝ　神さん\n\nひとを信じよう",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "ひとを愛しよう\n\nそしていいことをうんとしよう\n\n青空のように\n\n五月のように\n\nみんなが\n\nみんなで\n\n愉快に生きよう",
+      "characters": 60,
+      "ruby": []
+    }
+  ]
+}

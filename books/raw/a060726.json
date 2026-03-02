@@ -1,0 +1,48 @@
+{
+  "id": "a060726",
+  "title": "お百度詣",
+  "author": "大塚楠緒子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お百度詣",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お百度詣",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ひとあし踏みて夫《つま》思ひ、\n\nふたあし國を思へども、\n\n三足《あし》ふたゝび夫おもふ、\n\n女心に咎ありや。\n\n朝日に匂ふ日の本の、\n\n國は世界に唯一つ。\n\n妻と呼ばれて契りてし、\n\n人も此世に唯ひとり。\n\nかくて御國《みくに》と我夫《わがつま》と",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いづれ重しととはれなば\n\nたゞ答へずに泣かんのみ\n\nお百度まうであゝ咎ありや\n\n（明治三十八年一月「太陽」）",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

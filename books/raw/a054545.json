@@ -1,0 +1,54 @@
+{
+  "id": "a054545",
+  "title": "砂上の低唱",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "砂上の低唱",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "砂上の低唱",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "満つと見しこの天地《あまつち》は足ずありぬ心を\n\nいづちやるも空虚《うゐ》のみ\n\n海の香《か》しめる暁を\n\n今日片時の浜下り\n\n磯の霞に酔ひしれて\n\n哀れ吾が世の夢に泣く\n\n浪路逢かた見渡たして\n\n満潮時を恨み泣く\n\n千鳥の声に胸冷えて",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "哀れ吾が世の夢に泣く\n\n花葉かざれる海の底\n\nそや湧きかへる黒潮は\n\n憂しや吾が身の宿世にて\n\n哀れ吾が世の夢に泣く\n\n足跡しげき砂の上\n\n深かき想ひに眼を閉ちて\n\n世の運命を思へば\n\n哀れ吾が世の夢に泣く",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "悲哀の盃を受けし身は\n\n日に日に琴柱折りふして\n\n只だ空鳴りに物狂ひ\n\n哀れ吾が世の夢に泣く\n\nさらばと詩《うた》の神を追ひ\n\n花園の影に身をよせて\n\n詩の車を手に繰るも\n\n哀れ吾が世の夢に泣く",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

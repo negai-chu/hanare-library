@@ -1,0 +1,48 @@
+{
+  "id": "a055921",
+  "title": "（風船玉の衝突）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（風船玉の衝突）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（風船玉の衝突）",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　風船玉の衝突\n\n立て膝\n\n　　立て膝\n\nスナアソビ\n\n心よ！\n\n幼き日を忘れよ！\n\n煉瓦塀に春を発見した\n\n福助人形の影法師\n\n孤児の下駄が置き忘れてありました",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "公園の入口\n\nペンキのはげた立札\n\n心よ！\n\n詩人は着物のスソを\n\n狂犬病にクヒチギられたが……！",
+      "characters": 49,
+      "ruby": []
+    }
+  ]
+}

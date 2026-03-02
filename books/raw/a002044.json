@@ -1,0 +1,42 @@
+{
+  "id": "a002044",
+  "title": "かの日",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かの日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かの日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "あまき歓楽の日は、\n\n束の間に決別《わかれ》をつげ……\n\n物のかたち、淋しき色に濡れて、\n\n墓場の景色をくりひろげぬ。\n\nあたゝかき心の熱の消ゆるに連れ、\n\n唇の感じも少なく、\n\nつめたき空気に、墓なき息を通すまに、\n\n悲哀《かなしみ》！遂に吾れをころす………。",
+      "characters": 131,
+      "ruby": []
+    }
+  ]
+}

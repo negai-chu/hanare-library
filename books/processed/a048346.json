@@ -1,0 +1,42 @@
+{
+  "id": "a048346",
+  "title": "女性に薦める図書〔アンケート回答〕",
+  "author": "坂口安吾",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "女性に薦める図書〔アンケート回答〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 106,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "女性に薦める図書〔アンケート回答〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　危険な関係（創元社からでる由）ラクロ著\n\nマノンレスコオ（春陽堂文庫）プレボオ著\n\n一、娼婦とか妖婦といはれる女達の徳性に就て、家庭婦人に読み、考へていたゞきたいのです。女が、家に働く虫であり、子供を育てる虫である限り、男にも女にも、家庭の意味はありません。男女二人の間の悪徳は美徳であることをあなた方も知らない筈はないでせう。意欲は健康なものですよ。あなた方の生活が意欲的であるやうに。",
+      "characters": 195,
+      "ruby": []
+    }
+  ]
+}

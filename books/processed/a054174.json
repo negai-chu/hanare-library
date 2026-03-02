@@ -1,0 +1,42 @@
+{
+  "id": "a054174",
+  "title": "『女性』あとがき",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『女性』あとがき",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 138,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『女性』あとがき",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　所收――「十二月八日」「女生徒」「葉櫻と魔笛」「きりぎりす」「燈籠」「誰も知らぬ」「皮膚と心」「恥」「待つ」\n\n　昭和十二年頃から、時々、女の獨り言の形式で小説を書いてみて、もう十篇くらゐ發表した。讀み返してみると、あまい所や、ひどく不手際な所などあつて、作者は赤面するばかりである。けれども、この形式の小説を特に好きな人も多いと聞いたから、このたび、この女の獨白形式の小説ばかりを集めて一本にまとめてみた。題は、「女性」として置いた。少しも味の無い題であるが、あまり題にばかり凝つてゐるのも、みつともないものである。\n\n昭和十七年春",
+      "characters": 268,
+      "ruby": []
+    }
+  ]
+}

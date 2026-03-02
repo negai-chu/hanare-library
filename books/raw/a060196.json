@@ -1,0 +1,54 @@
+{
+  "id": "a060196",
+  "title": "オリンピック讃歌",
+  "author": "パロマコスティス",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "オリンピック讃歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "オリンピック讃歌",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "大空と大地に\n\n清気《せいき》あふれて\n\n不滅の栄光に輝く\n\n高貴と真実と\n\n美をば造りし\n\n古代の神霊《みたま》を崇《あが》めよ\n\nすべての競技に\n\nふるいたてよ\n\nみどりの枝の栄冠を",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "めざしてここに\n\n闘う者に\n\n鉄のごとき力と\n\n新たなる精神とを\n\nあたえよ\n\n野山も海原も\n\nいまこそきらめく\n\n真紅と純白の神殿に\n\n世界の国民《くにたみ》",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "四方《よも》の国より\n\n聖なる園に\n\n集いきたるは\n\n古き昔の\n\n永遠《とわ》なる精神の\n\n御前《みまえ》にひれふすためぞ",
+      "characters": 61,
+      "ruby": []
+    }
+  ]
+}

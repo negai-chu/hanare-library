@@ -1,0 +1,54 @@
+{
+  "id": "a055554",
+  "title": "天の海",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "天の海",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "天の海",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　始皇よ\n\n長城の如けん\n\nうねうねと連らなる山脈《やまなみ》\n\n駅路より駅路へ\n\n人は人をたよりて\n\n母を父を子を友を同胞を\n\n旅するものの心つたえて\n\n赤き逓送車のまわりゆくまで\n\n極みなき地平の物語り出《いづ》る物語り",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "丘に上り我は今日も\n\n駅逓の旗を見ん\n\n（郷土は峡谷に馥郁《ふくいく》たる香の花を秘めて\n\n　知られざる時代に埋もれゆくよ）\n\n太古の儘なる森林に入りて\n\nもの思う男もあり\n\n禿山の頂に立ちて\n\n山脈の彼方なつかしの海にあらずやとふるさとへの思いをよせる男もあり\n\nされど、されど",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "始皇よ\n\n長城の如けん\n\nうねうねと連らなる山脈の此方にありて\n\n日常《ひごろ》見る\n\n地の海ならじ\n\n天《そら》の海をゆく\n\n白鯨のありて\n\nそを追える数多の捕鯨者\n\n我世の中を過ぎゆくなり",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

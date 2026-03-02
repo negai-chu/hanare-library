@@ -1,0 +1,42 @@
+{
+  "id": "a059502",
+  "title": "美容院にのぞむこと",
+  "author": "芥川紗織",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "美容院にのぞむこと",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "美容院にのぞむこと",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　こと容姿に關しては私は恐ろしく小心なのでとても壯麗な美容院に一人で入つて行く勇氣がありません。私の家のすぐ近くの小じんまりしたパーマネント屋さんは、何時行つても他のお客樣に行き合うことがなく決して待たされたことがありませんので、恥かしがりの私も氣輕に時々出掛けます。美顏術や爪をみがいてもらつたことは生れてこの方一度もありませんので希望も註文もありません。\n\n（也寸志氏夫人、畫家）",
+      "characters": 192,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054514",
+  "title": "亜米利加",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "亜米利加",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 92,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "亜米利加",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　アメリカは正義人道を看板にして\n\n非道な国際を売ってしまった\n\n排日は夢の日本に対するしくみだ、あなどりだ\n\n夢も幻ももたない\n\nトラウベル、ホイットマンを理想の詩人に祭りあげたアメリカ人\n\n資産の外にはのぞみもない彼等は\n\n貧しい夢の日本なぞ用もない\n\nあたり前の成行きだ\n\nああ、ただ悲しい事実がある",
+      "characters": 153,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "それは偽られた同胞のクリスチャンだ\n\nアメリカが偉そうにするもんだから\n\nそうかしらと思って信じた\n\nそれが一枚看板をはいで終《しま》えば\n\nそこには愛もなく正義もなく人道もなく\n\n只ある、さもしい勝手なみにくい\n\n資本主義の曠大な陸地だった",
+      "characters": 121,
+      "ruby": []
+    }
+  ]
+}

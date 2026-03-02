@@ -1,0 +1,42 @@
+{
+  "id": "a051119",
+  "title": "あんずの花",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あんずの花",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あんずの花",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私《わたし》の家《うち》にきた盲目《めくら》、\n\n帰《かえ》りにあんずの花《はな》折《お》って、\n\n夏《なつ》がきたら、またこよう。\n\n赤《あか》いお月《つき》さま出《で》る晩《ばん》に。\n\n俺《おれ》はくるくる青坊主《あおぼうず》、\n\n笠《かさ》をかぶって坊《ぼっ》ちゃんの、\n\nお家《いえ》の窓《まど》から、のぞきましょう。",
+      "characters": 164,
+      "ruby": []
+    }
+  ]
+}

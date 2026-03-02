@@ -1,0 +1,42 @@
+{
+  "id": "a003996",
+  "title": "近頃の商売",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "近頃の商売",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "近頃の商売",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "商売というものの性質がすっかり変って来て、それは時代の動きによるものだということをはっきり知ってほしいと思います。やっと胡瓜の真盛りになるともう出ないというような儲のとらえかたも、わかりはするが閉口です。暮しにくいのは万人御同様なのですから。\n\n〔一九四一年十月〕",
+      "characters": 132,
+      "ruby": []
+    }
+  ]
+}

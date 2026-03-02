@@ -1,0 +1,48 @@
+{
+  "id": "a055016",
+  "title": "濡れる展望",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "濡れる展望",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "濡れる展望",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　北方に何ごとぞ\n\n雲　雲を引具して空を急いだ\n\n街\n\n街は雨の喪服\n\n街はとほい\n\n街は沈む\n\nアンテナは潜望鏡をまねて雲を観た\n\n北方に何ごとぞや？\n\n欅は丘で街を観た",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "欅は終日《いちにち》　雲を迎へて雲を送つた\n\n欅は終日　濡れる街を眺めてゐた",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

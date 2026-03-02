@@ -1,0 +1,48 @@
+{
+  "id": "a045093",
+  "title": "乳母車",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "乳母車",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "乳母車",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　坊やがせがむと\n\n乳母車、\n\nつばきの花をつけられる。\n\nそしてくる／＼\n\nくる／＼と、\n\nご門のとこまでひかれてく。\n\n坊やがねないと\n\n乳母車、\n\nねんねこようをきかされる。",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "そしてゆら／＼\n\nゆら／＼と、\n\nぶらんこみたいに揺《ゆす》られる。\n\n坊やがねちやうと\n\n乳母車、\n\n日かげにそつといれられる。\n\nそしてふんはり\n\nふんはりと、\n\nもひとつ毛布をのせられる。",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

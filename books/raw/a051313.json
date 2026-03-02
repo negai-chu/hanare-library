@@ -1,0 +1,94 @@
+{
+  "id": "a051313",
+  "title": "暗い天候",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 8
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "暗い天候",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "二",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "三",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 8,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "暗い天候",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "二",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "こんなにフケが落ちる、\n\n　　　秋の夜に、雨の音は\n\nトタン屋根の上でしてゐる……\n\n　　　お道化《どけ》てゐるな――\n\nしかしあんまり哀《かな》しすぎる。\n\n犬が吠える、虫が鳴く、\n\n　　　畜生！　おまへ達には社交界も世間も、\n\nないだろ。着物一枚持たずに、\n\n　　　俺も生きてみたいんだよ。",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "吠えるなら吠えろ、\n\n　　　鳴くなら鳴け、\n\n目に涙を湛《たた》へて俺は仰臥さ。\n\n　　　さて、俺は何時死ぬるのか、明日か明後日か……\n\n――やい、豚、寝ろ！\n\nこんなにフケが落ちる、\n\n　　　秋の夜に、雨の音は\n\nトタン屋根の上でしてゐる。\n\n　　　なんだかお道化てゐるな",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "しかしあんまり哀しすぎる。",
+      "characters": 13,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "三",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "この穢《けが》れた涙に汚れて、\n\n今日も一日、過ごしたんだ。\n\n暗い冬の日が梁《はり》や壁を搾《し》めつけるやうに、\n\n私も搾められてゐるんだ。\n\n赤ン坊の泣声や、おひきずりの靴の音や、\n\n昆布や烏賊《するめ》や洟紙《はながみ》や首巻や、\n\nみんなみんな、街頭沿ひの電線の方へ\n\n荷馬車の音も耳に入らずに、舞ひ（あが）り舞ひり\n\n吁《ああ》！　はたして昨日が晴日《おてんき》であつたかどうかも、",
+      "characters": 197,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "私は思ひ出せないのであつた。",
+      "characters": 14,
+      "ruby": []
+    }
+  ]
+}

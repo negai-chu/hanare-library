@@ -1,0 +1,42 @@
+{
+  "id": "a054238",
+  "title": "長靴",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "長靴",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 26,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "長靴",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私は長靴でごーざる\n\n私の親類たんとある\n\n一番大きな親類は\n\n日本の国から一万里\n\n伊太利でゴーザル",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

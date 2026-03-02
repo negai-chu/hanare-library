@@ -1,0 +1,48 @@
+{
+  "id": "a053589",
+  "title": "受難日",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "受難日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "受難日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "受難の日はいたる\n\n主は遠き水上《みなかみ》にありて\n\n氷のうへよりあまた光る十字すべらせ\n\n女はみな街路に裸形となり\n\nその素肌は黄金の林立する柱と化せり。\n\n見よやわが十指は晶結し\n\n背にくりいむは瀧とながるるごとし\n\nしきりに掌をもつて金屬の女を研ぎ\n\n胴體をもつてちひさなる十字を追へば",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "樹木はいつさいに轉し\n\n都は左にはげしく傾倒す。\n\nああ十字疾行する街路のうへ\n\nそのするどさに日輪もさけびくるめき\n\n群集をこえて落しきたるを感じ\n\nいのり齒をくひしめ\n\n受難の日のひくれがた\n\nわれつひに蛇のごとくなりて絶息す。",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

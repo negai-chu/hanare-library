@@ -1,0 +1,42 @@
+{
+  "id": "a048094",
+  "title": "クローズアップ",
+  "author": "平林初之輔",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "クローズアップ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "クローズアップ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、僕がルパンであったら……\n\n二、僕がホームズであったら……\n\n　僕がルパンであってもホームズであっても、どうもあれ以上には生き方がありません。\n\n（『探偵趣味』第三年第一号、一九二七年一月）",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

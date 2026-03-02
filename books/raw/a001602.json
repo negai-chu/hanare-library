@@ -1,0 +1,42 @@
+{
+  "id": "a001602",
+  "title": "小志",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小志",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 110,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小志",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "イエスが十字架につけられて、そのとき脱ぎ捨て給《たま》いし真白な下着は、上から下まで縫い目なしの全部その形のままに織った実にめずらしい衣だったので、兵卒どもはその品の高尚典雅に嘆息をもらしたと聖書に録されてあったけれども、\n\n　妻よ、\n\n　イエスならぬ市井《しせい》のただの弱虫が、毎日こうして苦しんで、そうして、もしも死なねばならぬ時が来たならば、縫い目なしの下着は望まぬ、せめてキャラコの純白のパンツ一つを作ってはかせてくれまいか。",
+      "characters": 218,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053710",
+  "title": "二人‥‥１‥‥",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "二人‥‥１‥‥",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "二人‥‥１‥‥",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　キリストは見窄らしい着物《なり》で説教を始めた。\n\nアアルカアボネは橄欖山を山のまゝ拉撮し去つた。\n\n　　　　　×\n\n一九三〇年以後のこと――。\n\nネオンサインで飾られた或る教会の入口では肥つちよのカアボネが頬の傷痕を伸縮させながら切符を売つていた。一九三一、八、一一",
+      "characters": 135,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a052768",
+  "title": "回答",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "回答",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "回答",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一、趣味娯楽　二、好物料理　三、和洋装いづれを好まれますか\n\n四、御交友名二三　五、今夏旅行御予定は？\n\n一、遠足、日本酒、オートバイドライブ。\n\n二、西洋料理、初夏の野菜、淡白な魚類。\n\n三、洋装を好む。\n\n四、現住小田原では牧雅雄（彫刻家）瀬戸一彌（文学家）朝井實（洋画家）\n\n五、計劃はありません。",
+      "characters": 152,
+      "ruby": []
+    }
+  ]
+}

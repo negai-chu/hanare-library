@@ -1,0 +1,48 @@
+{
+  "id": "a053651",
+  "title": "敵",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "敵",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "敵",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　鶉や鷓鴣の飛びゆくかなたに\n\nふたたび白堊の城は現はれ　風のやうに消えてしまつた。\n\n人夫よ　はやく夏草を刈りつくせ\n\n狼火をあげよ　烟を空にたなびかせよ\n\n空想の陣幕を野邊にはつて\n\nまぼろしの宴樂をほしいままにせよ。\n\nああこのばうばうたる白日の野邊を訪ねて行つても\n\nむかしの失はれた幸福に出逢ひはしない。\n\n大風の吹く城の向うで",
+      "characters": 169,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "化猫草の穗のゆらゆらとうごいてゐて\n\nなにものか\n\nかなしい追憶の敵が笑つてゐる。",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

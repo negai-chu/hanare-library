@@ -1,0 +1,66 @@
+{
+  "id": "a054353",
+  "title": "廃園",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "廃園",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "廃園",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "骨を折る音\n\nその音のなかに\n\n流れる水は乾き\n\n鳶色の風は落ちて\n\n石に濡れた額は傾くままに眠つた\n\nみえない推移の重さに\n\n骨を折る音\n\nその音のなかに\n\n佯りの",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "眼を閉ぢて\n\n凍える半身は\n\n倒れるもの影とともに\n\nうつしく忘却をまつた\n\n骨を折る音\n\nその音のなかに\n\nおまへを鞭うつものはすでにない\n\n目かくしをする掌もなく\n\nいのちににじむ明りもない",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "凭れかかる肩もなく\n\n壊れてゐる家具さへない\n\n梢をゆすぶる果実もなく\n\nおまへの手はもう\n\nその樹を撃たうともしない\n\n骨を折る音\n\nその音のなかに\n\nひとつ　ひとつ\n\n亡びていつたものは何であらう",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ただ暗い調和のうちに\n\n空しい願いや憧れは\n\nどこへ歩いてゆくのか\n\nもの哀しい植物たちのうごく\n\nひそかな気配がとほつていつた\n\nそれはすでに響きではなかつた\n\n地をはなれてとほく消えてゐた\n\nそれはすでに明りではなかつた\n\n意識の暗がりにあふれでる影像であつた",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "それはすでにひとつの意志ではなかつた\n\nいひやうのない深い困憊に沈んでゐた",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

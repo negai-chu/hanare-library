@@ -1,0 +1,42 @@
+{
+  "id": "a051112",
+  "title": "童謡",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "童謡",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "童謡",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　みいちゃんみいちゃん、なぜ泣《な》く、\n\n青《あお》い空《そら》見《み》て泣《な》くんだ。\n\n青《あお》い空《そら》見《み》てなぜ泣《な》く、\n\nつばめの行方《ゆくえ》が悲《かな》しくて、\n\n母《かか》を思《おも》うて泣《な》くんだ。",
+      "characters": 118,
+      "ruby": []
+    }
+  ]
+}

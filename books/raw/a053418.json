@@ -1,0 +1,42 @@
+{
+  "id": "a053418",
+  "title": "〔こはドロミット洞窟の〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔こはドロミット洞窟の〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔こはドロミット洞窟の〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "こはドロミット洞窟の\n\nけ寒く硬き床なるを\n\n幾箇の環を嵌められし\n\n巨人の白き隻脚ぞ\n\nかくて十二の十年は\n\n事なきさまに燃え過ぐる",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

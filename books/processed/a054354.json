@@ -1,0 +1,48 @@
+{
+  "id": "a054354",
+  "title": "春",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　春の帽子を振らう。\n\nヴイーナスの歌を聞かう。\n\nこんなにも若い青空。\n\n花ある胸。\n\n新月　新月を食べよう。\n\n鈴が走る。\n\n驢馬が駆ける。\n\n何だか何だか優しく通る。\n\n春の帽子を振らう。",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "小鳥がゐる胸。\n\nさあ丘をのぼらう。",
+      "characters": 18,
+      "ruby": []
+    }
+  ]
+}

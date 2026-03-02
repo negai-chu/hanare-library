@@ -1,0 +1,48 @@
+{
+  "id": "a004768",
+  "title": "原子爆弾",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "原子爆弾",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "原子爆弾",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夏の野に幻の破片きらめけり\n\n短夜を※れし山河叫び合ふ\n\n炎の樹雷雨の空に舞ひ上る\n\n日の暑さ死臭に満てる百日紅\n\n重傷者来て飲む清水生温く\n\n梯子にゐる屍もあり雲の峰\n\n水をのみ死にゆく少女蝉の声\n\n人の肩に爪立てて死す夏の月\n\n魂呆けて川にかがめり月見草",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "廃虚すぎて蜻蛉の群を眺めやる",
+      "characters": 14,
+      "ruby": []
+    }
+  ]
+}

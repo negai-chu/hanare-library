@@ -1,0 +1,42 @@
+{
+  "id": "a003894",
+  "title": "『田村俊子・野上弥生子・中條百合子集』の序詞",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『田村俊子・野上弥生子・中條百合子集』の序詞",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『田村俊子・野上弥生子・中條百合子集』の序詞",
+      "characters": 22,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　作家として困難な同時に意味ある仕事はこれからだ。自身の古典に向って何と云おう。土台よ。しっかり重みにこたえろ。\n\n〔一九三一年三月〕",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

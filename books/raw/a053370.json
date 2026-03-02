@@ -1,0 +1,48 @@
+{
+  "id": "a053370",
+  "title": "〔洪積の台のはてなる〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔洪積の台のはてなる〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔洪積の台のはてなる〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "洪積の台のはてなる\n\n一ひらの赤き粘土地\n\n桐の群白くひかれど\n\n枝しげくたけ低ければ\n\n鍛冶町の米屋五助は\n\n今日も来て灰を与へぬ。\n\nかなたにてきらめく川や\n\nさてはまた遠山の雪\n\nその枝にからすとまれば",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ざんざんと実はうちゆるゝ\n\nこのときに教諭白藤\n\n灰いろのイムバネス着て\n\nいぶかしく五助をながめ\n\n粘土地をよこぎりてくる",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

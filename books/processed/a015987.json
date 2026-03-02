@@ -1,0 +1,42 @@
+{
+  "id": "a015987",
+  "title": "これでは囚人扱い",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "これでは囚人扱い",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "これでは囚人扱い",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　逃げて行く子供達と、そしてそれをとりまく環境と両方に問題があると思います。裸にしておけば逃げないという考え方は、死なないように牢獄内の囚人に帯をさせないという事と同じ事です。このことをつきつめたら喰わせずにおいて足腰たたなくさせれば逃げられない、という事になるでしょう。あまり物事を簡単に考えすぎるやり方だと思います。\n\n〔一九四八年四月〕",
+      "characters": 171,
+      "ruby": []
+    }
+  ]
+}

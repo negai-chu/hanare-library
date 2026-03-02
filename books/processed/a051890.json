@@ -1,0 +1,48 @@
+{
+  "id": "a051890",
+  "title": "酒場にて（定稿）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "酒場にて（定稿）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 105,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "酒場にて（定稿）",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　今晩あゝして元気に語り合つてゐる人々も、\n\n実は、元気ではないのです。\n\n近代《いま》といふ今は尠くも、\n\nあんな具合な元気さで\n\nゐられる時代《とき》ではないのです。\n\n諸君は僕を、「ほがらか」でないといふ。\n\nしかし、そんな定規みたいな「ほがらか」なんぞはおやめなさい。\n\nほがらかとは、恐らくは、\n\n悲しい時には悲しいだけ",
+      "characters": 165,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "悲しんでられることでせう？\n\nされば今晩かなしげに、かうして沈んでゐる僕が、\n\n輝き出でる時もある。\n\nさて、輝き出でるや、諸君は云ひます、\n\n「あれでああなのかねえ、\n\n不思議みたいなもんだねえ」。\n\nが、冗談ぢやない、\n\n僕は僕が輝けるやうに生きてゐた。\n\n（一九三六・一〇・一）",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

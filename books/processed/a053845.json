@@ -1,0 +1,42 @@
+{
+  "id": "a053845",
+  "title": "白ホテル",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "白ホテル",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "白ホテル",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　港の風の吹いて來る\n\n海岸通りの白ホテル\n\n異人の子供がつきました\n\nテリヤもおともでつきました\n\nホテルのポーチのボウイさん\n\n英語で案内いたします\n\nグツドモーニング　マイデア\n\nグツドモーニング　マイデア",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

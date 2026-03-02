@@ -1,0 +1,42 @@
+{
+  "id": "a053646",
+  "title": "眺望する",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "眺望する",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 106,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "眺望する",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "すべては黒く凍つてゐる\nさびしくかたまる岩の上に\nみじめに歪んだ松の幹に\n景色は凍え、飢ゑ、まづしく光つて叫ぶばかり。\n\nこの侘しく灰色なる空の下に\n私たちの心はまづしく語り　孤獨になやみて重たくよりそふ\n少女よ\nあの遠い空の雷鳴をあなたは聽くか\nかしこの空にひるがへる\n浪浪の高いひびきをあなたは聽くか。\n\n過去よ\nながいながい孤獨の影よ\nその影を岩にひきずる\n冬の日の薄暗い濱邊に立つて\n意味のふかい人生を見る。",
+      "characters": 208,
+      "ruby": []
+    }
+  ]
+}

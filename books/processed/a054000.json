@@ -1,0 +1,60 @@
+{
+  "id": "a054000",
+  "title": "落ちぬ血痕",
+  "author": "根岸正吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "落ちぬ血痕",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "落ちぬ血痕",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ヒ――ッ　アレ――ッ\n\n女の悲鳴驚愕の叫び\n\n機械は停まった。集える人は垣をなす。\n\nされど　されど\n\n死せる工女がなぜ生きよう。\n\n髪をシャフトに巻かれて振り廻された。\n\n若い工女の死骸こそ\n\n目もあてられぬ惨憺さであった。\n\n骨は砕け肉は崩れ皮は破れて血汐は飛ぶ。",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "飛んだ血汐があたりに散った。\n\n彼女の機台に織られた毛布の上にも\n\n異様の形をなした赤い血痕が残された。\n\nふと見ると。\n\n隣の機台にも\n\n前のにも、後のにも、ずっと離れた遠方のにも\n\nどれにもどれにも同じ形の血痕が見える。\n\nそれのみか\n\n違った工場の違った台にもそれがある。",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "不思議な事には其血が落ちない。\n\n抜いても抜いても残る\n\n如何なる薬品如何なる技術も其血は抜けない。\n\nその工場は軍用毛布を一手に受けて\n\n暴利を貪って居たのだが、\n\nその血が残って一枚も納まらない。\n\nその事あって丁度一年\n\n同じ月の同じ日に会社の組織は変った。\n\nけれども",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "白毛布には変らず赤い血がつく。\n\nその血が落ちない。\n\n（『新社会』一九一六年十一月号にＮ正吉名で発表　『どん底で歌う』を底本）",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

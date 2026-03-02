@@ -1,0 +1,48 @@
+{
+  "id": "a055910",
+  "title": "（女）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（女）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（女）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "女\n\n吸取紙を早くかせ\n\n恵まれぬものが何処にある？\n\nマッチの軸を小さく折つた\n\n女\n\n自分は道草かしら\n\n女は摘草といふも勿体ないといつた\n\n俺は女の目的を知らないのださうだ\n\n原因なしの涙なんか出さないと自称する女から言はれた",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "飛行機の分裂\n\n目的が山の端をとぶ\n\n縫物\n\n秘密がどんなに織り込まれたかしら\n\n女は鋏を畳の上に出したまゝ\n\n出て行つた\n\n自分に理窟をつけずに\n\n只管英雄崇拝\n\n女は男より偉いのです",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

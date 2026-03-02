@@ -1,0 +1,48 @@
+{
+  "id": "a051123",
+  "title": "冬の木立",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬の木立",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬の木立",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "冬《ふゆ》の木立《こだち》\n\nしょんぼりと\n\n寒《さむ》かろう\n\n蓑《みの》着《き》よ\n\n合羽《かっぱ》着《き》よ\n\n綿帽子《わたぼうし》かぶりょ\n\nからすが\n\n頭《あたま》に止《と》まった\n\nかんざしのように止《と》まった",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "止《と》まったからす\n\nなぜなぜなかぬ\n\nいつまでなかぬ",
+      "characters": 28,
+      "ruby": []
+    }
+  ]
+}

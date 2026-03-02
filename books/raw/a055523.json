@@ -1,0 +1,54 @@
+{
+  "id": "a055523",
+  "title": "高窓に見える青空",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "高窓に見える青空",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "高窓に見える青空",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "小さな高窓\n\n高窓に見える青空\n\nこの青空に走っている無数のラジオの声\n\nブル共はそのラジオで\n\n相場の上下を語り\n\n奴隷の歌をうたわせながら\n\n満洲パルチザンの活動に驚愕のニュースを飛ばし\n\n国際聯盟の脱退を問題にしているだろう、だが、それより\n\nおれたちのこの小さな高窓に見る青空にはすべての日に",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あのモスクワのコミンターン（国際共産党）の大放送塔から\n\nおれたちプロレタリアのために闘う世界中の同志の耳へ\n\n輝きにみちた勝利のニュース\n\n中国プロレタリアートの前進や\n\n極東における強盗どもの\n\n反サヴェート戦争のインボーを報じているだろう\n\nそしてそこからは\n\nおれたちの偉大な指導者\n\nスターリン、マヌイルスキー、ロゾフスキーの声もきこえてくるだろう",
+      "characters": 179,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おお、おれたちはあの青空から\n\nその声なき声をこそ聴こう\n\n一九三二・四・一六",
+      "characters": 39,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "a055537",
+  "title": "幸福を",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "幸福を",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "幸福を",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おお我胸の苦しさよ\n\n幸福は失われた\n\nおおそうだ、幸福は\n\n輝き渡るかなたの山より\n\n朝日の出づると共に\n\n潮のように寄せて来た\n\n然し幸福は私の手元にいる事を拒んだ、又引潮のように\n\n夕べには次第々々に失われていった\n\n私は考えている",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "失われた幸福の\n\n私を避けた理由を\n\n私は青ざめている\n\n不幸にみいられて\n\n苦しい事もかなしい事も\n\nみんな私をなやませて\n\n一息の安らかな\n\n呼吸さい《（ママ）》あたえられない故に\n\n私は自分自身で",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "幸福に強い鞭をあたえた\n\n幸福よ、私のために\n\n大きな幸福であってくれと\n\nそして私は旅に出ようと考えた\n\n遠いかなたに、幸福の泉がゆるやかに湧きあがっていると思ったから\n\nけれども私はゆかれなくなった\n\nそこで私のからだは\n\n前へも後へもゆかれず\n\n幸福は失われ",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "苦しいなやましい胸を抱いて\n\nいるばかり――\n\nああ私は幸福と闘った\n\nそして敗北してしまった\n\n今はもうあの皇帝の末路の様に\n\nあわれなひとりになってしまった",
+      "characters": 80,
+      "ruby": []
+    }
+  ]
+}

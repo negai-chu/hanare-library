@@ -1,0 +1,48 @@
+{
+  "id": "a053974",
+  "title": "『戦旗』創刊号巻頭詩",
+  "author": "佐藤武夫",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『戦旗』創刊号巻頭詩",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『戦旗』創刊号巻頭詩",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "靡け高く俺らの旗！\n\n凡ての工場の煙は消えろ\n\n広塲へ！　広塲へ！\n\n氾濫の俺らの力が波うつ\n\nながい搾取と鞭の下で\n\n誰が屈辱の涙をなめなかった？\n\n誰がお前とお前の子のために起たなかった！\n\nおお！　苦闘の日の長い長いトンネルを思え\n\nブルジョアの指す太陽を見ることなく",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "俺らの太陽に向って進んで行こう！\n\n圧制の鞭には団結の斧で\n\n示威で地上を揺がすのだ\n\n街頭へ！　街頭へ！\n\nおお氾濫の力でメーデーに行け！\n\n（『戦旗』一九二八年五月創刊号に無署名・無題で発表）",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

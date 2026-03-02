@@ -1,0 +1,54 @@
+{
+  "id": "a061033",
+  "title": "地震",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "地震",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "地震",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "家はくずれていた\n\n倉も納屋も　全部の屋根\n\n門もくだけ　ヘイもたおれ\n\n石垣の石ひとつのこさず\n\n家の中にあったもの\n\n倉にいっぱい押し込められた\n\n長持ち　タンスども\n\n美しい瀬戸物類\n\n昔古来のガンジョウな遺物",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ことごとく形をなくした\n\n立ち木だけが突っ立って\n\n何一つない\n\n池にも水は絶え\n\n古い柱　黒い板戸\n\n大きな屋根\n\n厚い壁　壁の土\n\n机と太鼓\n\n静かな音を出した門のあく音",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "湧き出た冷たい井戸\n\n井戸水にあふれた池\n\n池の鯉\n\n祖父のねむった部屋\n\n部屋の落書き\n\nことごとく消し飛んでしまった",
+      "characters": 60,
+      "ruby": []
+    }
+  ]
+}

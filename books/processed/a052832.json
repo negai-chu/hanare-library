@@ -1,0 +1,42 @@
+{
+  "id": "a052832",
+  "title": "わが最も愛する作中人物",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "わが最も愛する作中人物",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "わが最も愛する作中人物",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、貴方の最も愛せらるゝ小説・劇・映画の作中人物　二、右愛せらるゝ理由\n\n一、樋口一葉『たけくらべ』の美登利。夏目漱石『坊ちやん』の主人公。菊池寛『啓吉物語』の啓吉。\n\n二、以上、理由とてもなく。",
+      "characters": 99,
+      "ruby": []
+    }
+  ]
+}

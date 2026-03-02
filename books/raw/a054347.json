@@ -1,0 +1,48 @@
+{
+  "id": "a054347",
+  "title": "あるるかんの死",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あるるかんの死",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あるるかんの死",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "眠れ　やはらかに青む化粧鏡のまへで\n\nもはやおまへのために鼓動する音はなく\n\nあの帽子の尖塔もしぼみ\n\n煌めく七色の床は消えた\n\n哀しく魂の溶けてゆくなかでは\n\nとび歩く軽い足どりも\n\n不意に身をひるがへすこともあるまい\n\nにじんだ頬紅のほとりから血のいろが失せて\n\n疲れのやうに羞んだまま",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おまへは何も語らない\n\nあるるかんよ\n\n空しい喝采を想ひださぬがいい\n\nいつまでも耳や肩にのこるものが\n\nあつただらうか\n\n眠るがいい\n\nやはらかに青む化粧鏡のなかに\n\n死んだおまへの姿を\n\n誰かがぢつと見てゐるだらう",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

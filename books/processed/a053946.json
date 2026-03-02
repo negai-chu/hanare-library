@@ -1,0 +1,42 @@
+{
+  "id": "a053946",
+  "title": "アカシヤと桑",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "アカシヤと桑",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "アカシヤと桑",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かそかなる音して落つるアカシヤの花の香をひとりたのしむ\n\n幼子が拾ひあつめて手に持てるアカシヤの花に夕日させるも\n\n集ひきて桑の實とると見上げ居る子等の面わに夕日照りそふ",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

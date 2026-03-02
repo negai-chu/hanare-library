@@ -1,0 +1,42 @@
+{
+  "id": "a057047",
+  "title": "書簡　武部ツタ宛",
+  "author": "伊藤野枝",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "書簡　武部ツタ宛",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 112,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "書簡　武部ツタ宛",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "宛先　　大坂市西区松島十返町　武部種吉様方\n発信地　東京市外巣鴨村宮仲二五八三\n\n　前略　おかはりはありませんか、\n\n私も元気でゐます故御安心下さい。\n\n先日廿五日に女児出産魔子《まこ》と名づけました。\n\nそちらではもう松茸が出てゐるやうですが、こちらではまだ手に入りません。少々でよろしいが送つて貰へませんか、その代りへは何なりとそちらでおのぞみのものを、こちらからもお送りします。\n\n　何卒よろしくお願いします。\n\n野枝\n津た子様",
+      "characters": 217,
+      "ruby": []
+    }
+  ]
+}

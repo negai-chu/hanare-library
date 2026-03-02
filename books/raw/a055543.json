@@ -1,0 +1,48 @@
+{
+  "id": "a055543",
+  "title": "自然教徒",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "自然教徒",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "自然教徒",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "こんな静かな晩、外は全くの闇である\n\n星はわずかに下界を雲間にのぞいている\n\n　　　　＊\n\nああ下界は午後十一時\n\n俺は今夜も自然教徒なる故に\n\n黒き衣を身に着けて\n\n静かに彼方の小高い丘へ歩んでゆく\n\n　　　　＊\n\n小高い丘には",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "一本の白樺が、聖十字架の如くにそびい《（ママ）》ている",
+      "characters": 27,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a060990",
+  "title": "深夜",
+  "author": "三富朽葉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "深夜",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "深夜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　影と銀の乱れる夜へ\n\n月は死葉《しにば》を刈り立てる。\n\n（魂は忍び音《ね》を聞く。）\n\n虚空の淵に揺《ゆす》られる\n\n星の瞳《め》は鈴《りん》を響かす。\n\n（魂は灰を見つめる。）――\n\n渦巻く雲より覗《のぞ》く\n\n烈しい闇の裸形《らぎやう》。\n\n（魂は火を失ふ。）――",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いつも地平を逍《さまよ》ふ獣の群よ、\n\nいつも雪の降る薄明りよ、\n\nいつもわが閉ぢた窓に映る幻よ、\n\nいつも暖《だん》をとる寒い魂よ、\n\nいつも我を裏ぎる我の\n\n心の罠《わな》よ　肉の恐怖《おそれ》よ。\n\nいつもいつもつまづくわが神経のいらだたしさ……",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a055592",
+  "title": "東方の窓辺にて",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "東方の窓辺にて",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 105,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "東方の窓辺にて",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私のいる家の東方に窓があった\n\n私は農家の二階に間借りして幾十日かを過す身であった\n\n私は自分の起居に不自由の身をそこに運び、\n\nひたすら、健康の日を恋していたのである、\n\nかがやく健康の美しさは私の希望であった\n\n私は東方に追憶の瞬間を持つ\n\n私の室の東方の窓はそこへの視野を展開している\n\nハコネの連山は眺望の彼方にある\n\n山脈の起伏は無言に昨日も今日も変りはないが",
+      "characters": 185,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ただ風に送られる雲の往来と空色の変化とを発見する、\n\n雲の彼方\n\n橙色の空の下\n\n朝となれば朝焼け\n\n夕べとなれば夕焼け\n\n真紅に輝く折々の熱情は\n\n私の病める身になおも燃えんとする\n\n私は今東方の窓辺に佇む\n\n私は一人の妻を想うのみであろうか、",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "私はただ昨日の日にきれいな煙を吐きかけるのみであろうか\n\n私の胸には\n\n決してたゆることなき未来への希望が\n\n決して消えることなき新らしき日本の姿が\n\nこの窓を通し\n\n多くの同志への信頼の中に燃えつつあるを発見する",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

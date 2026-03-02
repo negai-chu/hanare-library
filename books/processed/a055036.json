@@ -1,0 +1,42 @@
+{
+  "id": "a055036",
+  "title": "水浴び",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水浴び",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 101,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水浴び",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　海水から金が採れるといふが地球全表面その三分の二の海から幾噸の金がにぎれるか\n濡れ手に千金　それを湯水のやうに浪費せばたのしからん\n水のやうに金をつかふ　いや　躯いつぱい水を流せば水はぜいたくな幻想となりおれのてつぺんにぜにの音がはじけ散るよ\nありあまり溢れる量のやはらかく\n水道の口金はじけ怒るごとく水の放出になにか溜飲のさがるやうす\n水の鋼鉄にうなじを敲かし恣《ほしいまゝ》なるしばしのとき……",
+      "characters": 200,
+      "ruby": []
+    }
+  ]
+}

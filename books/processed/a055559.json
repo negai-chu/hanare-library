@@ -1,0 +1,54 @@
+{
+  "id": "a055559",
+  "title": "狂人と鏡",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "狂人と鏡",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "狂人と鏡",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　友よ\n\nわが一人の愚かなる人間の為めに\n\n秘かに鏡を用意して呉れ給い《（ママ）》\n\nそこに一人の狂人がいる\n\n彼は真紅の夢を胎むことによって\n\n恋をする愚かな狂おしい男である\n\n彼の室は赤\n\n壁の地図も赤\n\n彼の思想も赤",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "赤\n\n赤\n\n赤\n\n　点々　点々　ベタベタ\n\n赤色の中に芽ぐむ一人の生\n\n友よ\n\n彼は横臥することを好む\n\n今こそ\n\n彼に鏡を与えよ",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おお　そして\n\n見ろ！\n\n彼の狂態が初まるのだ！\n\n殺せ！\n\n（殺さねばこそ！）\n\n狂人　狂態　絶叫\n\n悔やせぬ\n\n悔やせぬ\n\n吾々は狂人の舞踏を拍手して迎えるばかりだ！",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

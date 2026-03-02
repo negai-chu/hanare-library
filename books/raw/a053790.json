@@ -1,0 +1,42 @@
+{
+  "id": "a053790",
+  "title": "月原橙一郎",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月原橙一郎",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 111,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月原橙一郎",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "章魚ヲ始メテ食ベタ　ノハ誰カ　鶏卵ヲ始メテ食ベタノハ誰カ　向シロ十分腹ガ空テイルニ違ヒナイ\n\n石ト石トガ摺合イヲシ　長イ＊＊＊ハ　ヤハリ子供ガ出来ルラシイ　石ハ好キナ石ノトコロヘハ行ケナイ\n\n私ノ路ノ前方ニ　一本ノ標杭ガ打ツテアル\n\n私ノ不道徳ガ行刑サレテイル証據デアル\n\n私ノ心ガ死ンデイル　ト思ツテ私ノ肉体ハ動ク必要モアルマイト思ツタ\n\n月ガ私ノ丸クナル背中ヲ恰モ　墓墳ヲ照ラス気持デアル\n\nコレガ私ノ惨殺サレタ現場ノ光景デアツタ",
+      "characters": 217,
+      "ruby": []
+    }
+  ]
+}

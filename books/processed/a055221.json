@@ -1,0 +1,48 @@
+{
+  "id": "a055221",
+  "title": "きその日は",
+  "author": "ダンテアリギエリ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "きその日は",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 117,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "きその日は",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　きその日は思《おもひ》むすぼれ、とぼとぼと\n\n馬を進むる憂《う》き旅路、これも旅かや\n\nまのあたり、路《みち》のもなかに「愛」の神、\n\n巡禮姿、しほたれて、衣手《ころもて》輕《かろ》し。\n\nうれはしき其《その》かんばせは、さながらに、\n\n位《くらゐ》はがれしやらはれのやつれ姿か、\n\n憂愁《いうしう》の思《おもひ》にくれて吐息がち、\n\n人目《ひとめ》を避けて、うなだるゝあはれの君よ。\n\nふとしもわれを見給ひて呼び給ふやう、",
+      "characters": 213,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "『われは、今、かの遠里《とほざと》をはなれ來ぬ。\n\nさきにはそこに汝《なれ》が身の心《しん》の臟《ざう》をぞ\n\n置きたれど、新《あらた》の悦《よろこび》得させむと\n\n持ち來《きた》りぬ』とのたまひつ、忽《たちま》ちわれに\n\n憑《つ》きたまひ、消え失せたるぞ不思議なる。",
+      "characters": 134,
+      "ruby": []
+    }
+  ]
+}

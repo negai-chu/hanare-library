@@ -1,0 +1,42 @@
+{
+  "id": "a045040",
+  "title": "鶸",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鶸",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鶸",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　山奥で\n\nついーん、ついーんと\n\nないてゐるのは\n\n鶸の子\n\nそのやまおくの\n\nほそみちの\n\nながいこと\n\nついーん、ついーんと\n\nないてゐる鶸の子",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

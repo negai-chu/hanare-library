@@ -1,0 +1,42 @@
+{
+  "id": "a045952",
+  "title": "随筆評論集「書かれざる作品」後記",
+  "author": "豊島与志雄",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "随筆評論集「書かれざる作品」後記",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 115,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "随筆評論集「書かれざる作品」後記",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　本書に収められてる文章は、大正十四年から昭和八年までの間に、折にふれて書かれたものである。そして、昨年とか今月とかいうような言葉が散見されるし、時日が事柄と重要な関係を持つものもあるし、殊に感想の類は、当時の文芸的社会的情勢によって立論されたものが多いけれど、只今、その執筆年月を詳かにすることは難儀である。のみならず、如上の綜合的日付だけをしておいて、時事的関心以上のもので凡てを読んで頂きたいというのが、著者の希望でもある。",
+      "characters": 215,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a003791",
+  "title": "比呂志との問答",
+  "author": "芥川竜之介",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "比呂志との問答",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "比呂志との問答",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "僕は鼠《ねずみ》になつて逃げるらあ。\n\n　ぢや、お父さんは猫になるから好い。\n\n　そうすりやこつちは熊になつちまふ。\n\n　熊になりや虎になつて追つかけるぞ。\n\n　何だ、虎なんぞ。ライオンになりや何でもないや。\n\n　ぢやお父さんは龍になつてライオンを食つてしまふ。\n\n　龍？（少し困つた顔をしてゐたが、突然）好いや、僕はスサノヲ尊になつて退治《たいぢ》しちまふから。",
+      "characters": 182,
+      "ruby": []
+    }
+  ]
+}

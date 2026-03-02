@@ -1,0 +1,48 @@
+{
+  "id": "a002693",
+  "title": "樹木とその葉",
+  "author": "若山牧水",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "樹木とその葉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 109,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "樹木とその葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "著者\n\n書くとなく書きてたまりし文章を一册にする時し到りぬ\n\nおほくこれたのまれて書きし文章にほのかに己が心動きをる\n\n眞心のこもらぬにあらず金に代ふる見えぬにあらずわが文章に\n\n幼く且つ拙しとおもふわが文《ぶん》を讀み選みつつ捨てられぬかも\n\n自《し》がこころ寂び古びなばこのごときをさなき文はまた書かざらむ\n\n書きながら肱《ひぢ》をちぢめしわがすがたわが文章になしといはなくに\n\nちひさきは小さきままに伸びて張れる木《こ》の葉《は》のすがたわが文にあれよ\n\nおのづから湧き出づる水の姿ならず木々の雫にかわが文章は",
+      "characters": 258,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "山にあらず海にあらずただ谷の石のあひをゆく水かわが文章は\n\n書きおきしは書かざりしにまさる一册にまとめおくおかざるにまさるべからむ",
+      "characters": 65,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a052231",
+  "title": "島",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "島",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "島",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おーい見えたと\n\nマストから、梟《ふくろ》みたいに\n\nよんでゐる。\n\nそーら島だと\n\nケビンから　羽蟻《はあり》みたいに\n\nかけてでる。\n\nほーう小《ち》さいと\n\n円窓に望遠鏡が\n\nつきでゝる。",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ボーウ、ボーウと\n\nサイレンが　出船みたいに\n\nなつてゐる。\n\n帽子や旗を\n\nふつてゐる。\n\nおーい敬礼して行けと\n\nマストやデツキで\n\n失敬した。",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

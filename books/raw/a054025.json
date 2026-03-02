@@ -1,0 +1,54 @@
+{
+  "id": "a054025",
+  "title": "ガンジよ",
+  "author": "松本淳三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ガンジよ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ガンジよ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "捕らわれた、君よ\n\nガンジよ\n\n苦しい心で、一途な心で\n\n祈る私の――見知らぬ私の\n\n心を素直に受けてくれるか\n\n私はいま\n\n空を抱きしめて祈っているのだ\n\n地に跪いて祈っているのだ\n\n魂からなる、涙でもって祈っているのだ",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "生きんとするもの\n\n飛ばんとするもの\n\nそうした者の道はいつでも\n\n暗い牢獄へつづいているとは\n\n知りながら\n\nおお、捕らわれた君よ\n\nガンジよ\n\n私は苦しい一途な心で\n\n今宵《こよい》君の「生命」をしみじみ",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "祈らないでは居られないのだ。\n\n（『熱風』一九二二年五月号に発表）",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

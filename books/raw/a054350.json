@@ -1,0 +1,48 @@
+{
+  "id": "a054350",
+  "title": "冬の夜の歌",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬の夜の歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬の夜の歌",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私は墜ちて行くのだ\n\n破れた手風琴の挽歌におくられて\n\n古びた天鵞絨の匂ひに噎び\n\n黝い霧に深く包まれて\n\nゆふぐれの向ふへと私は墜ちて行くのだ\n\n今はこの掌に触れた蒼空もなく\n\n胸近く海のやうに揺れた歌声も――\n\nどうしたのだ私の愛した小さくて美しかつたものよ\n\n小鳥たちよ　草花たちよ　新月よ　青い林檎よ",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "しきりに眩暈がおしよせる心には\n\n悔恨が一本の太い水脈となり――\n\n陰鬱な不協和音が青く戦き\n\n狂つたヴイオロンが駈け廻り\n\nすべては白蝋石の上に痙攣し\n\n腐蝕した玻璃の破片が暗黒の空間に飛散するのだ\n\nああ　遂に今　若い肋骨さへ噛み穿つ\n\n寒々と冴えた牙の戦慄よ",
+      "characters": 132,
+      "ruby": []
+    }
+  ]
+}

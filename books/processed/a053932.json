@@ -1,0 +1,42 @@
+{
+  "id": "a053932",
+  "title": "天体現象",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "天体現象",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "天体現象",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　月に迫る金星――\n\n月に迫る金星――\n\n瞬間――\n\n雲はカーテンをおろす――\n\nあゝ――\n\n雲はカーテンをひく――\n\n金星は月をはなれてゐる――\n\n金星は月をはなれてゐる――",
+      "characters": 88,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a004026",
+  "title": "今年の計画",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年の計画",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年の計画",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　書きつづけている「道標」を今年の半ばまでに書き上げ、更にその先にすすみたいと思います。健康を守って、ゆとりをもって、たっぷり仕事をためたいと思います。\n\n〔一九四八年一月〕",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054002",
+  "title": "場外",
+  "author": "根岸正吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "場外",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "場外",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十二時間の勤めを終えて\n\nわざわざ郊外からやって来たのだ。\n\n山を下り川を越え\n\nはるばる足尾からやって来たのだ。\n\nそれを此儘追返すとは\n\nものの解らぬにも程がある。\n\n「諸君！\n\n開《あ》けずんばこんな門\n\nたたき壊して這入《はい》ろうじゃないか」",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "言葉半ばに魔の手は延びて\n\n猛り狂いつ捕われて\n\n暗き方へと引かれ行く。\n\n「……森も林も武装せよ、\n\n　石よ何故飛ばざるか……」\n\n革命の歌うすれ行く。\n\n（発表誌不詳　『どん底で歌う』を底本）",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

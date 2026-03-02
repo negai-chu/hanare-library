@@ -1,0 +1,42 @@
+{
+  "id": "a053403",
+  "title": "〔二川こゝにて会したり〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔二川こゝにて会したり〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔二川こゝにて会したり〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "（二川こゝにて会したり）\n\n（いな、和賀の川水《みづ》雪代ふ\n\n夏油《ゲタウ》のそれの十なれば\n\nその川ここに入ると云へ）\n\n藍と雪とのうすけぶり\n\nつらなる尾根のかなたより\n\n夏油《ゲタウ》の川は巌截りて\n\nましろき波をながしきぬ",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

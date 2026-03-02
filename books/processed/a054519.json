@@ -1,0 +1,42 @@
+{
+  "id": "a054519",
+  "title": "丘陵風景",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "丘陵風景",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 35,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "丘陵風景",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　傾斜《なぞえ》の丘に\n\n菜の花黄《きい》ろく咲けば\n\n軍団兵士の頭二個ばかり\n\n丘陵の蔭に並び出で\n\n銃先《つつさき》を見せすぐる",
+      "characters": 66,
+      "ruby": []
+    }
+  ]
+}

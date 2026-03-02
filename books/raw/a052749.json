@@ -1,0 +1,42 @@
+{
+  "id": "a052749",
+  "title": "私が本年発表した創作に就いて",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私が本年発表した創作に就いて",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私が本年発表した創作に就いて",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「秋・二日の話」――「或る日の運動」――「悪の同意語」――「貧しき日録」――「環魚洞風景」――「鏡地獄」――「秋晴れの日」――「極夜の記」等であります。",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

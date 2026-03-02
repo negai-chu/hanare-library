@@ -1,0 +1,48 @@
+{
+  "id": "a045035",
+  "title": "渚",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "渚",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 25,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "渚",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "千鳥《ちどり》のあしあと\n\n小さいな\n\nよあけの\n\n渚にでてみたか\n\nよあけの渚の\n\nどんど波\n\n波がわすれた\n\n砂の上\n\nちどりのあしあと",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かわいいな",
+      "characters": 5,
+      "ruby": []
+    }
+  ]
+}

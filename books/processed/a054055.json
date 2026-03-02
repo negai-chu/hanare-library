@@ -1,0 +1,54 @@
+{
+  "id": "a054055",
+  "title": "花に送られる",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "花に送られる",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 114,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "花に送られる",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　小金井の桜の堤はどこまでもどこまでもつづく\n\nもうあと三四日という蕾の巨《おお》きな桜のまわりは\n\nきれいに掃除され、葭簀張りののれんにぎやかな臨時の店店は\n\n花見客を待ちこがれているよう\n\n私の寝台自動車はその堤に添うて走る\n\n春めく四月、花の四月\n\n私は生死をかけて、むしろ死を覚悟して療養所へゆく\n\nすでに重症の患者となった私は\n\nこれから先の判断を持たない",
+      "characters": 183,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "恐らく絶望であろうとは医師数人の言ったところ\n\n農民の家がつづく\n\n古い建物が多く\n\n赤や桃色の椿が咲く、家も庭も埋めるごとく\n\n今満開の美しい花々\n\n桜の満開のところがある、八重の桜も咲いている\n\n自動車は花あるところを選ぶ如く走る\n\n花に送られて療養所に入る私を\n\n療養所のどの寝台が待っているか",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "二度と来ぬわが春とは思われる。春はおろか\n\nこの秋までも、誰かこの生命を保証する\n\n私は死を覚悟の眼で美しき花々の下を通ってゆく\n\n（一九三五年五月十四日作『詩精神』同年六月号「今野大力特輯」に発表『今野大力・今村恒夫詩集』改訂版を底本）",
+      "characters": 119,
+      "ruby": []
+    }
+  ]
+}

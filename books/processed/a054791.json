@@ -1,0 +1,107 @@
+{
+  "id": "a054791",
+  "title": "大正文化概論",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 9
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "大正文化概論",
+        "startPage": 1,
+        "endPage": 9,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "序論",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "本論",
+            "startPage": 4,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "結論",
+            "startPage": 8,
+            "endPage": 9
+          }
+        ]
+      }
+    ],
+    "totalPages": 9,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "大正文化概論",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "序論",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　Ｇ線の下で\n\nアリアをうたっていた\n\nてるてる坊主が\n\n雨にぬれていた",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "本論",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "交通が便利になって\n\n文化はランジュクした\n\n戦争に勝って\n\nリキュウルをのんだ\n\nはだかおどりの女のパンツは\n\n日章旗であった\n\nタケヒサ・ユメジが\n\nみみかくしの詩をかいた\n\n人は死ぬことを考えて",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "女とあそんだ\n\n女とあそんで\n\n昇天した\n\n震災が起って\n\nいく人もやけ死んだ\n\nやけ死ななかったものは\n\nたち上った\n\nたち上った\n\nたち上った",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "ボクらのニッポンは\n\n強い国であった",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "結論",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "ダダがうなっていたけれども\n\nプロがうなっていたけれども\n\nエロがきしんでいたけれども\n\nグロがきしんでいたけれども\n\n芸術はタイハイしていたけれども\n\nぼくらはタイハイしていたけれども\n\nぼくらは\n\nたち上った\n\nたち上った",
+      "characters": 113,
+      "ruby": []
+    }
+  ]
+}

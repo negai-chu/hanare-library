@@ -1,0 +1,48 @@
+{
+  "id": "a054416",
+  "title": "生地売り",
+  "author": "泉芳朗",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "生地売り",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 110,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "生地売り",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ロシヤ人の生地売りは\n山間の一軒家に宿ってゐた\n\n「生地　日本　ウレナイ　ヨカ　ヨカ」\n\n無論誰にも面と向かって語ったのではない\nけれど私は只一語聞いた胸に\n幾回となく生地売りの言葉をくりかへした\n\nあの一晩中\n山間のあばら家に耳をそばだてて\n××の鋭い眼光もて探照してゐた憲兵でも\n否恐らく\nこの狭隘な山間に住む人皆に\n生地売りの哀愁はわからなかった\n\n人々は\n異国人の珍奇を只むさぼり嗤った",
+      "characters": 198,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "「生地　日本　ウレナイ　ヨカ　ヨカ」\n\nああロシヤの一商人は\nたった今までも私の求めてゐる或物を事実に示してくれた\n腕を組んで湿っぽい夜空を見上げた私には\n星の一つもまたたいてくれなかったけれど\n\nいばらのさしかかった山路は私の前に遠く限りなくつづいてゐる……",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

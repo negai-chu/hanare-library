@@ -1,0 +1,54 @@
+{
+  "id": "a002626",
+  "title": "樹木とその葉",
+  "author": "若山牧水",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "樹木とその葉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "樹木とその葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "冷たさよ\n\nわが身をつゝめ\n\nわが書齋の窓より見ゆる\n\n遠き岡、岡のうへの木立\n\n一帶に黝《くろ》み靜もり\n\n岡を掩ひ木立を照し\n\nわが窓さきにそゝぐ\n\n夏の日の光に冷たさあれ\n\nわが凭る椅子",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "腕を投げし卓子《てーぶる》\n\n脚重くとどける疊\n\n部屋をこめて動かぬ空氣\n\nすべてみな氷のごとくなれ\n\nわがまなこ冷かに澄み\n\nあるとなきおもひを湛へ\n\n勞れはてしこゝろは\n\n森の奧に\n\n古びたる池の如くにあれ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あゝねがふ\n\nわが日の安らかさ\n\nわが日の靜けさ\n\nわが日の冷たさを",
+      "characters": 34,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053610",
+  "title": "磨かれたる金属の手",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "磨かれたる金属の手",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "磨かれたる金属の手",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "手はえれき、\n\n手はぷらちな、\n\n手はらうまちずむのいたみ、\n\n手は樹心に光り、\n\n魚に光り、\n\n墓石に光り、\n\n手はあきらかに光る、\n\nゆくところ、\n\nすでに肢體をはなれ、",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "炎炎灼熱し狂氣し、\n\n指ひらき啓示さるるところの、\n\n手は宙宇にありて光る、\n\n光る金屬の我れの手くび、\n\nするどく磨かれ、\n\nわれの瞳《め》をめしひ、\n\nわれの肉をやぶり、\n\nわれの骨をきずつくにより、\n\n恐るべし恐るべし、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "手は白き疾患のらぢうむ、\n\nゆびいたみ烈しくなり、\n\nわれひそかに針をのむ。",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

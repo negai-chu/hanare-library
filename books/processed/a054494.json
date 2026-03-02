@@ -1,0 +1,60 @@
+{
+  "id": "a054494",
+  "title": "秋の一夕",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋の一夕",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋の一夕",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あゝ終《つひ》の夕は来りぬ、\n\n天昏《てんこん》に地昏《ちこん》にさはなる\n\n不浄《ふじやう》はもこゝに亡ぶか、\n\n洗礼女《あらはれめ》――河原《かはら》の葦《あし》に\n\n法涙の露無量光、\n\n新らしき生命《いのち》の慈相――\n\n十夜《や》法会《ほうゑ》の跡さびしき、\n\n天台の寺院の堂に、\n\nいからしく波うつ霧や、",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "仏龕《ぶつがん》の虫ばむ音は、\n\n悲しとも、これも自然が\n\n法《のり》の座へ辿る足音《あのと》ぞ、\n\nきけ葦《あし》のさなす小琴に、\n\n霊のうた『血汐は白し\n\n血は白し、こや敬虔《うやまひ》の\n\n古瓶《ふるがめ》の封を破らず\n\n時《とき》をまち考え伏《ふ》して\n\nいまぞいま『自然』に浸《ひた》す、",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "白き血に映《うつ》れ大天《おほあめ》、\n\n白き血を吸《す》へや大地《おほつち》\n\nありとある孤独《こどく》のものは\n\n静寂の法に帰依《きえ》して\n\n黙《もだ》しつゝ白き血飲《の》め』と、\n\nきくからに身も溶けごゝち。\n\n見かへれば喬木《おほき》のしげみ\n\n天台の寺院は闇《やみ》に――\n\nうなだれて物思《ものおも》ひ立てる",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "己《おの》が身も小河も葦も\n\n大法の一切滅に\n\nあゝなべて見えざる光輝《かゞやき》――",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

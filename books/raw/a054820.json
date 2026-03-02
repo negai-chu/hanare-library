@@ -1,0 +1,48 @@
+{
+  "id": "a054820",
+  "title": "雲",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雲",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雲",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ふわふわ雲が飛んでいる\n\nそれは春の真綿雲\n\nむくむく雲が湧いて来た\n\nそれは夏の入道雲\n\nさっさと雲が掃いたよう\n\nそれは秋空　よい天気\n\nどんより灰色　いやな雲\n\nそれは雪雲　冬の空\n\nまあるい空のカンヴァスに",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いろんな雲を描き分ける\n\nお天道《テント》さんはえらい方",
+      "characters": 28,
+      "ruby": []
+    }
+  ]
+}

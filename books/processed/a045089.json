@@ -1,0 +1,48 @@
+{
+  "id": "a045089",
+  "title": "深呼吸",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "深呼吸",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "深呼吸",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　クリームのやうににほふから、\n\n――朝の空気はにほふから、\n\n通風筒は深呼吸。\n\nとても一ぱいすひこんだ。\n\nソーダ水のよにひやいから、\n\n――朝の空気はひやいから、\n\n煙突もする深呼吸。\n\nとても一ぱいすひこんだ。\n\nりんごのやうにきよいから、",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "――朝の空気はきよいから、\n\nお窓もからと深呼吸。\n\nとても一ぱいすひこんだ。",
+      "characters": 39,
+      "ruby": []
+    }
+  ]
+}

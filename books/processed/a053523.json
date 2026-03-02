@@ -1,0 +1,76 @@
+{
+  "id": "a053523",
+  "title": "断調",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "断調",
+        "startPage": 1,
+        "endPage": 5,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "△寒水",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "△春雨",
+            "startPage": 4,
+            "endPage": 5
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "断調",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "△寒水",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　春なれば小椿おちて山吹の黄をもつ流その流背戸を走れるいまやせたり、\n\n木がらしの行方もしらにさはさはと音する枯草のひびき寂寞の影をやどせば敗れ岩ところどころに冬を行くいささ小川の悲しげなりや。\n\n曾てこの河に漁どりすべくいとむつまじき二人のうなゐありき、\n\nされどその事たえたる今にして蓼の香さむきあしたには寒水のほとりうら悲しき笛の音をきくものありと云ふは何ぞや。",
+      "characters": 184,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "△春雨",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "今日にてこの雨六日つづきぬ、文玉へと姉よりの繪はがきつきし朝南の窓にもたれて詩集ひもとく、\n\n『かうべらぼうにさむいや』\n\n『そりやきこえませぬ傳兵衞さまかアハハハ』\n\n職人風の男二人相合傘に威勢よき高笑ひ、からたちの垣すかして見やれば一人は大きな酒樽さげたり一人は鼻唄うたひつつ道を左に屈りゆく、\n\n往來しばしとだえぬるに庭の椿二片はらはらとこぼれつ、尚その一片もやと思ふとき門にきこゆる大師和讚の調《ふし》も清らや、\n\n『南無大師遍照金剛…………』\n\nげに事事に趣もつ春の小雨。",
+      "characters": 241,
+      "ruby": []
+    }
+  ]
+}

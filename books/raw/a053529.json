@@ -1,0 +1,48 @@
+{
+  "id": "a053529",
+  "title": "毛利孟夫に",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "毛利孟夫に",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "毛利孟夫に",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "これやこの毛利孟夫\n\n山間の獄にペンを撫し\n\n戦いに病める君が身を養わんと\n\n函数を釣り\n\n積分にゆあみし\n\nひねもす\n\n土地と資本の\n\n数字と\n\n符号の",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "時空における\n\n不統一の空隙を逍遥する\n\n君のマルキシズムは\n\nかゝる隙間を埋むるに足れりど\n\nなお詩もて愛すべき膠着剤とせよ",
+      "characters": 63,
+      "ruby": []
+    }
+  ]
+}

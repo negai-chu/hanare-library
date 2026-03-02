@@ -1,0 +1,54 @@
+{
+  "id": "a061029",
+  "title": "四月の夜",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "四月の夜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "四月の夜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "油気を食べてはいけない\n\nアルコールはなめてもいけない\n\nつかれることはいけない\n\nあんまり話もつづけられない\n\nあんまり本もよみつづけられない\n\n手紙を書くことは\n\n返事を要求することになるので手紙も書けない\n\nそれで\n\n郵便もこない",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "役場の税金\n\n村の盛金\n\n寄附の金らは\n\n一反の田圃から五俵の純益あるものとして割り出されている\n\n田圃一反から　米七俵実る\n\n雇人の賃金一反につき　米二俵半\n\n肥料代一反につき　米半俵\n\n税金のたぐい一反につき　米三斗\n\nそうして",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "いまは四月の夜\n\n外は日が流れ\n\n花が白く浮いている\n\n遠くを走る旅行者の汽車の音が聞こえて来る\n\nわたしは　寝返りを打って\n\n自分の呼吸をたしかめる",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

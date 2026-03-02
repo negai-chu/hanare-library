@@ -1,0 +1,54 @@
+{
+  "id": "a054231",
+  "title": "四季",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "四季",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "四季",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　春の神様陽気だな\n\n天女の羽や夢御殿\n\n梅、桃、桜、色々の\n\n花を咲かせて楽しんだ\n\nなぜ／＼こんなに陽気だろ\n\n夏の神様大おこり\n\nはげた頭を光らして\n\n春の神様追ひやって\n\n雷さまがおきに入り",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "すきな遊びは夕立だ\n\nなぜ／＼こんなに怒るだろ\n\n秋の神様やさしいな\n\n風をそよ／＼野に送り\n\n七夕さまや天の川\n\n銀のお月さんぬっと出る\n\nなぜ／＼こんなにやさしいだろ\n\n冬の神様陰気だな\n\n寒いこがらしお気に入り",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "いつもしぶい顔ばかり\n\nなぜ／＼こんなに陰気だろ\n\n大正十一年四月二十一日綴",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

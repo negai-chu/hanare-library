@@ -1,0 +1,48 @@
+{
+  "id": "a053592",
+  "title": "偏狂",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "偏狂",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "偏狂",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あさましき性のおとろへ、\n\nあなうらに薫風ながれ、\n\n額に緑金の蛇住めり、\n\nああ我のみのものまにや、\n\n夏ふかみ山路をこゆる。\n\nかなしきものまにや、\n\nのぞみうしなひ、\n\nいつさいより靈智うしなひ。\n\nさびしや空はひねもす白金、",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "はやわが手かたく合掌し、\n\n瞳《め》はめしひ、\n\n腦ずゐは山路をくだる。\n\nああ金性の肉のおとろへ、\n\nみやま瀧ながれ、\n\n青らみいよいよおとろふ、\n\nいのれば銀の血となり、\n\n肉やぶれ谷間をはしる。\n\n金性のわがものまにや。――吾妻山中にて――",
+      "characters": 123,
+      "ruby": []
+    }
+  ]
+}

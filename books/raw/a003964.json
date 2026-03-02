@@ -1,0 +1,42 @@
+{
+  "id": "a003964",
+  "title": "良書紹介",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "良書紹介",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 91,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "良書紹介",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "China : The March Toward Unity, by Mao Tse-Tung & others.\n\n　Red Star over China, by E. Snow.\n\n後者には最近新しい章も追加され、今日の中国の現実を知るために極めて有益な本であると思います。丸善に折々入荷されます。そして忽ち売切れになります。\n\n〔一九三九年十二月〕",
+      "characters": 178,
+      "ruby": []
+    }
+  ]
+}

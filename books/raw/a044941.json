@@ -1,0 +1,60 @@
+{
+  "id": "a044941",
+  "title": "オヤカン　ト　オナベ　ト　フライパン　ノ　ケンクワ",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "オヤカン　ト　オナベ　ト　フライパン　ノ　ケンクワ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "オヤカン　ト　オナベ　ト　フライパン　ノ　ケンクワ",
+      "characters": 25,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "オヤカン　グツ　グツ、\n\nオナベハ　グタ　グタ、\n\nフライパンハ\n\nフライパンハ　ピチ　チリ　ピチ　チリ\n\nグツ　グツ　グタ　グタ\n\nピチ　チリ　ピチ　チリ\n\nオヤカン　ピカ　ピカ\n\nオナベモ　ピカ　ピカ\n\nフライパンハ",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "フライパンハ　マツクロクロクロ\n\nグツ　グツ　グタ　グタ\n\nピチ　チリ　ピチ　チリ\n\nオヤカン　クス　クス\n\nオナベモ　クス　クス\n\nフライパンハ\n\nフライパンハ　オコツテ　オコツテ\n\nピチツ　チリツ　ピチツ　チリツ\n\nピチツ　チリツ　ピチツ　チリツ",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "オヤカンモ　マケズニ\n\nオナベモ　マケズニ\n\nフライパンモ\n\nフライパンモ　マケマケマケズニ\n\nグッツ　バクッ　グタッ　グタッ\n\nピチツ　チリツ　ピチツ　チリツ\n\nオヤカンモ　マツクロ\n\nオナベモ　マツクロ\n\nフライパンモ",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "フライパンモ　コゲコゲコゲツイテ\n\nパチ　チリ　シユッ　シユッ\n\nパチ　チリ　シユッ　シユッ\n\n　　　　　　　　　　服部正曲",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

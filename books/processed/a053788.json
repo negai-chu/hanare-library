@@ -1,0 +1,42 @@
+{
+  "id": "a053788",
+  "title": "隻脚",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "隻脚",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 40,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "隻脚",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　松葉杖の長さも歳と共に長くなつていつた。\n\n新らしい儘溜まる片方の靴の数で悲しく歩いた距離が測られた。\n\n何時も自分は地上の樹木の次のものであると思つた。",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053841",
+  "title": "お空の川",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お空の川",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お空の川",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お空を流れる白い川\n\nミルクの色の遠い川\n\nあれは鷺でせう　白い鳥\n\nほつかりほわりと渡ります\n\n笹の葉に吹く風の音\n\nさらさら流れる音のやう\n\n鷺のお使ひ　二つ星\n\nほつかりほわりと渡ります",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

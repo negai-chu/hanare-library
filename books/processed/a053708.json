@@ -1,0 +1,54 @@
+{
+  "id": "a053708",
+  "title": "破片ノ景色――",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "破片ノ景色――",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "破片ノ景色――",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　俺は仕方ナク泣イタ\n\n電燈ガ煙草ヲフカシタ\n\n▽ハデアル\n\n　　　　　×\n\n▽ヨ！　俺ハ苦シイ\n\n俺ハ遊ブ\n\n▽ノすりつぱーハ菓子ト同ジデナイ\n\n如何ニ俺ハ泣ケバヨイノカ\n\n　　　　　×",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "淋シイ野原ヲ懐ヒ\n\n淋シイ雪ノ日ヲ懐ヒ\n\n俺ノ皮膚ヲ思ハナイ\n\n記憶ニ対シテ俺ハ剛体デアル\n\nホントウニ\n\n「一緒に歌ひなさいませ」\n\nト云ツテ俺ノ膝ヲ叩イタ筈ノコトニ対シテ\n\n▽ハ俺ノ夢デアル\n\nすてつき！　君ハ淋シク有名デアル",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ドウシヤゥ\n\n　　　　　×\n\n遂ニ▽ヲ埋葬シタ雪景デアツタ。\n\n１９３１・６・５",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

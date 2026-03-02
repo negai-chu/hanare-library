@@ -1,0 +1,48 @@
+{
+  "id": "a055477",
+  "title": "熱情的なフーガ",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "熱情的なフーガ",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "熱情的なフーガ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　七月の日光の\n\n多彩なるアラベスク。\n\n七月の日光の\n\n覆《くつがへ》された坩堝。\n\n白昼の星より\n\n女人《によにん》の肉《しゝむら》は墜つ。\n\nこのロコヽ宮殿の\n\n脚を断て。\n\n赭《あか》き肉《しゝむら》は",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "宙宇に倒《さかしま》なり。\n\n大理石《なめいし》の噴泉の\n\n脣を噛め。\n\n多彩なるアラベスク。\n\n覆された坩堝\n\n立ちならぶ電柱は\n\n火を発す。",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

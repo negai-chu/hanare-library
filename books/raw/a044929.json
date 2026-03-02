@@ -1,0 +1,48 @@
+{
+  "id": "a044929",
+  "title": "雪のよる",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪のよる",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 35,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪のよる",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ねえむい\n\nねむい\n\nゆきのよる\n\nくうらい\n\nのきばで\n\nはとぽつぽ\n\nぽつぽとなけば\n\nさみしいな。\n\nとろとろ",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ねむる\n\nめがさめる\n\nぽつぽとないた\n\nはとぽつぽ\n\nどこへいつたか\n\nさみしいな。",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

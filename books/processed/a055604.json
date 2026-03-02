@@ -1,0 +1,42 @@
+{
+  "id": "a055604",
+  "title": "信疑の魔女",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "信疑の魔女",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "信疑の魔女",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　自分の室で　自分の演じていた舞台で\n\n自分を取巻き\n\n或は隙見し\n\n或は踊っていた一人の魔女\n\n「此世の一切は信疑の魔女の領分です\n\n　勿論人間は私の兵卒よ\n\n　あなた　何を惑っているの？\n\n　それより　わたし自身のこの力を\n\n讃美でもして下さいな　　　　で賢こい人間あなた」",
+      "characters": 139,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053640",
+  "title": "絶望の足",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "絶望の足",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "絶望の足",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "魚のやうに空氣をもとめて、\n\nよつぱらつて町をあるいてゐる私の足です、\n\n東京市中の掘割から浮びあがるところの足です、\n\nさびしき足、\n\nさびしき足、\n\nよろよろと道に倒れる人足の足、\n\nそれよりももつと甚だしくよごれた絶望の足、\n\nあらゆるものをうしなひ、\n\nあらゆる幸福のまぼろしをたづねて、",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "東京市中を徘徊するよひどれの足、\n\nよごれはてたる病氣の足、\n\nさびしい人格の足、\n\nひとりものの異性に飢ゑたる足、\n\nよつぱらつて堀ばたをあるく足、\n\nああ、こころの中になにをもとめんとて、\n\nかくもみづからをはづかしむる日なるか、\n\nよろよろとしてもたるる電信柱、\n\nはげしきすすりなきをこらへるこころ、",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ああ、ながく道路に倒れむとする絶望の足です。",
+      "characters": 22,
+      "ruby": []
+    }
+  ]
+}

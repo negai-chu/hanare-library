@@ -1,0 +1,42 @@
+{
+  "id": "a052778",
+  "title": "一九三〇年型",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "一九三〇年型",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "一九三〇年型",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "いつもカキ色のシヤツを着て牧場から町へ、フオード自動車を操って乳を運んでゐる村の牛乳屋の娘を僕は知つてゐる。天気の好い休日には娘の操る車に、村のあらゆる階級の若者、主に娘達が乗り込んで、屹度何処かへ遊びに行く。健康と明快と原始性と――娘の車の中を観察したら微笑むべき一九三〇年型を見出すだらうと思ふが。",
+      "characters": 151,
+      "ruby": []
+    }
+  ]
+}

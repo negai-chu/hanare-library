@@ -1,0 +1,42 @@
+{
+  "id": "a054516",
+  "title": "童話",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "童話",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "童話",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ある魂は玩具を抱きて眠ると言う\n\nしかも玩具とは、\n\n　　　せるろいど。\n\nきゅうぴい　あもれっと。\n\n昔の童話の一頁\n\n淋しや　今の童話なる\n\n青い服着た恥なし男の物語",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

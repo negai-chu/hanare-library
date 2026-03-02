@@ -1,0 +1,42 @@
+{
+  "id": "a053681",
+  "title": "田木繁に",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "田木繁に",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 127,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "田木繁に",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　（前半紛失）\n\nこのエピソードを思い出すたびに、わたしらはなぜか最近のあなたの詩を思い出さずにはいられない\n昔のあなたの「拷問に耐える歌」が、あんなに愛誦されている\n同志田木繁、こんな猫が、あなたの地区の工場の行きすがりに、ふっと道を横ぎりはせぬだろうか\n自分自身に限界性をくぎるたびに、何かしらこんなものかと思い出してくるものだ\n昔のあなたの「拷問に耐える歌」が、あんなに愛誦されている世の中に\nあの記録的な「松ヶ鼻の渡し」の闘いを、なぜまた精悍に開始してはならぬだろうか\n\n―一九三五・八・三―",
+      "characters": 250,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a045094",
+  "title": "熊",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "熊",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "熊",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "熊は月夜に声きいた。\n\nどこか遠くでよんでゐた。\n\n熊はむくりと起きて来た。\n\n檻の鉄棒ひえてゐた。\n\n熊は耳をばすましてた。\n\nアイヌのやうな声だつた。\n\n熊は故郷を思つてた。\n\n落葉松林《からまつばやし》を思つてた。\n\n熊はおゝんとほえてみた。",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "どこか遠くで、\n\nこだました。",
+      "characters": 15,
+      "ruby": []
+    }
+  ]
+}

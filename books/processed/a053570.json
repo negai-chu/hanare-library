@@ -1,0 +1,48 @@
+{
+  "id": "a053570",
+  "title": "秋日行語",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋日行語",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋日行語",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　菊もうららに咲きいでたれど\n\n我身は砂丘に寄りて悲しめり\n\nさびしや海邊のおくつきに\n\n路傍の草を手向くること\n\nこのわびしきたはむれに\n\nひとり樹木にすがりつき\n\nたましひも消えよとむせびなく。\n\nああふるさとの永日に\n\n少女子どものなつかしさ",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "たとしへもなきなつかしさ\n\nやさしく指を眼にあてて\n\nももいろの秋の夕日をすかしみる\n\nわが身の春は土にうもれて\n\n空しく草木の根をひたせる涙。\n\nああかくてもこの故郷に育ちて\n\n父母のめぐみ戀しやと歌ふなり。",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

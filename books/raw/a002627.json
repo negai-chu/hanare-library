@@ -1,0 +1,42 @@
+{
+  "id": "a002627",
+  "title": "樹木とその葉",
+  "author": "若山牧水",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "樹木とその葉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 176,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "樹木とその葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "底深い群青色《ぐんじやういろ》の、表ほのかに燻《いぶ》りて弓形に張り渡したる眞晝の空、其處には力の滿ち極まつた靜寂《しじま》の光輝《かがやき》があり、悲哀《かなしみ》がある。\n\n　朝燒雲、空のはたてに低く細くたなびきて、かすけき色に染まりたる、野に出でて見よ、滴る露の中に瓜の花と蜂の群とが無數に喜び躍つてゐる。\n\n　向日葵《ひまはり》の花、磨き立てた銅盥《かなだらひ》の輝きを持つて、によつきりと光と熱との中に咲いてゐる。歩み移る太陽の方にかすかに面を傾くるといふにもこの花のあはれさが感ぜられる。づばぬけて大きいだけになほ。\n\n　夜。空氣も濡れ、燈火も濡れ輝いてゐる。ほのかに汗ばむアイスクリームの湯氣。\n\n　晝寢。したゝかに吸ひ太りたる蚊のよちよちとまひゆける下、疊よ、氷の如く冷かなれ。",
+      "characters": 347,
+      "ruby": []
+    }
+  ]
+}

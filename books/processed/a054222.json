@@ -1,0 +1,42 @@
+{
+  "id": "a054222",
+  "title": "大きな夢",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "大きな夢",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "大きな夢",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　大きな夢を夕べ見た\n\nヒマラヤ山を引ぬいて\n\n万里の長城ひっかつぎ\n\n太平洋を背に負ひ\n\n北極の氷まるのみし\n\nあんまり重くてバッタリと\n\nそこに倒れて下じきだ\n\n「いたい／＼」と思ったら\n\n何だ今のは夢だった",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

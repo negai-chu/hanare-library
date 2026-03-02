@@ -1,0 +1,48 @@
+{
+  "id": "a059087",
+  "title": "ゆふすげびと",
+  "author": "立原道造",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ゆふすげびと",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ゆふすげびと",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かなしみではなかつた日のながれる雲の下に\n\n僕はあなたの口にする言葉をおぼえた、\n\nそれはひとつの花の名であつた\n\nそれは黄いろの淡いあはい花だつた、\n\n僕はなんにも知つてはゐなかつた\n\nなにかを知りたく　うつとりしてゐた、\n\nそしてときどき思ふのだが　一体なにを\n\nだれを待つてゐるのだらうかと。\n\n昨日の風は鳴つてゐた、林を透いた青空に",
+      "characters": 171,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かうばしい　さびしい光のまんなかに\n\nあの叢に咲いてゐた、そうしてけふもその花は\n\n思ひなしだか　悔ゐのやうに――。\n\nしかし僕は老いすぎた　若い身空で\n\nあなたを悔ゐなく去らせたほどに！",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

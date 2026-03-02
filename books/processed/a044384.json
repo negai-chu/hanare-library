@@ -1,0 +1,42 @@
+{
+  "id": "a044384",
+  "title": "「文壇波動調」欄記事",
+  "author": "岸田国士",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「文壇波動調」欄記事",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「文壇波動調」欄記事",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　今月は、同人としての責（？）を果し得た（？）ことになつた。短いものだが、これは標題の示す通り、「次の幕」が何時か開かれるものと思つて欲しい。老婦人が仏文を読むところは、たゞ台詞の音楽的効果（伴奏的の）をねらつたものであるから、意味の解らない人は、それを意にかけないで読過（看過）して欲しい。意味のわかる人は、わかつてもしかたがない。（岸田）",
+      "characters": 171,
+      "ruby": []
+    }
+  ]
+}

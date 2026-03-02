@@ -1,0 +1,42 @@
+{
+  "id": "a054521",
+  "title": "三角の赤色旗",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "三角の赤色旗",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 22,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "三角の赤色旗",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　赤色の三角旗\n\n風びうびうと飜し\n\n共産主義の一兵士\n\n三角地型に佇立する",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

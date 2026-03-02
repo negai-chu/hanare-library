@@ -1,0 +1,54 @@
+{
+  "id": "a053432",
+  "title": "〔ひとひははかなくことばをくだし〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔ひとひははかなくことばをくだし〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 101,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔ひとひははかなくことばをくだし〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ひとひははかなくことばをくだし\n\nゆふべはいづちの組合にても\n\n一車を送らんすべなどおもふ\n\nさこそはこゝろのうらぶれぬると\n\nたそがれさびしく車窓によれば\n\n外の面は磐井の沖積層を\n\n草火のけむりぞ青みてながる\n\n屈撓余りに大なるときは\n\n挫折の域にも至りぬべきを",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いままた怪しくせなうち熱り\n\n胸さへ痛むはかつての病\n\nふたゝび来しやとひそかに経れば\n\n芽ばえぬ柳と残りの雪の\n\nなかばはいとしくなかばはかなし\n\nあるいは二列の波ともおぼえ\n\nさらには二列の雲とも見ゆる\n\n山なみへだてしかしこの峡に\n\nなほかもモートルとゞろにひゞき",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "はがねのもろ歯の石噛むま下\n\nそこにてひとびとあしたのごとく\n\nけじろき石粉をうち浴ぶらんを\n\nあしたはいづこの店にも行きて\n\n一車をすゝめんすべをしおもふ\n\nかはたれはかなく車窓によれば\n\n野の面かしこははや霧なく\n\n雲のみ平らに山地に垂るゝ",
+      "characters": 122,
+      "ruby": []
+    }
+  ]
+}

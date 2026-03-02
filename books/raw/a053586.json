@@ -1,0 +1,54 @@
+{
+  "id": "a053586",
+  "title": "初夏の祈祷",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "初夏の祈祷",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "初夏の祈祷",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "主よ、\n\nいんよくの聖なる神よ。\n\nわれはつちを掘り、\n\nつちをもりて、\n\n日毎におんみの家畜を建設す、\n\nいま初夏きたり、\n\n主のみ足は金屬のごとく、\n\n薫風のいただきにありて輝やき、\n\nわれの家畜は新緑の蔭に眠りて、",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ふしぎなる白日の夢を畫けり、\n\nああしばし、\n\nねがはくはこの湖しろきほとりに、\n\nわがにくしんをしてみだらなる遊戲をなさしめよ。\n\nいま初夏きたる、\n\n野に山に、\n\n榮光榮光、\n\n榮光いんよくの主とその僕《しもべ》にあれ。\n\nあめん。",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "―一九一四、五、八―",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

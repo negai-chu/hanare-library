@@ -1,0 +1,54 @@
+{
+  "id": "a053385",
+  "title": "〔最も親しき友らにさへこれを秘して〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔最も親しき友らにさへこれを秘して〕",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔最も親しき友らにさへこれを秘して〕",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　最も親しき友らにさへこれを秘して\n\nふたゝびひとりわがあへぎ悩めるに\n\n不純の想を包みて病を問ふと名をかりて\n\nあるべきならぬなが夢の\n\n　　（まことにあらぬ夢なれや\n\n　　　われに属する財はなく\n\n　　　わが身は病と戦ひつ\n\n　　　辛く業をばなしけるを）\n\nあらゆる詐術の成らざりしより",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "我を呪ひて殺さんとするか\n\n然らば記せよ\n\n女と思ひて今日までは許しても来つれ\n\n今や生くるも死するも\n\nなんぢが曲意非礼を忘れじ\n\nもしなほなれに\n\n一分反省の心あらば\n\nふたゝびわが名を人に言はず\n\nたゞひたすらにかの大曼荼羅のおん前にして",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "この野の福祉を祈りつゝ\n\nなべてこの野にたつきせん\n\n名なきをみなのあらんごと\n\nこゝろすなほに生きよかし",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

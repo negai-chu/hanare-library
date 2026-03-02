@@ -1,0 +1,42 @@
+{
+  "id": "a053944",
+  "title": "街",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "賣店の女の顏の明るさはアスフアルト敷くこの街の顏\n\n行ずりに見し外人の瞳かも土曜の夕のそゞろ歩きに\n\n客を呼ぶ馬車屋の笛のあわれさや逗子驛頭の冬のたそがれ\n\nたたき賣るバナナ屋の聲寒寒と宵のしゞまを破りて流る",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

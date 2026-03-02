@@ -1,0 +1,48 @@
+{
+  "id": "a053378",
+  "title": "職員室",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "職員室",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "職員室",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　歪むガラスのかなたにて\n\n藤をまとへるさいかちや\n\n西は雪ぐも亙せるに\n\n一ひらひかる天の青\n\nひるげせはしく事終へて\n\nなにかそぐはぬひとびとの\n\n暖炉を囲みあるものは\n\nその石墨をこそげたり\n\n業を了へたるわかものの",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "官にあるは卑しくて\n\n一たび村に帰りしは\n\nその音づれも聞えざり\n\nたまさかゆれしひばの間を\n\n茶羅紗の肩をくすぼらし\n\n校長門を出で行けば\n\nいよよにゆがむガラスなり",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

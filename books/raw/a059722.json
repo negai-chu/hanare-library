@@ -1,0 +1,42 @@
+{
+  "id": "a059722",
+  "title": "表紙絵について",
+  "author": "芥川紗織",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "表紙絵について",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 123,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "表紙絵について",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雑誌の表紙は始めてです。何時もと同じ染色の方法で何時もと同じ人間の描き方をしました。乳房のある、片一方だけ黄色い翅をひろげた女が、青い空気の中で、眼をピカピカ光らせて立つています。何時の間にかクモの巣に引つかかつているのにも無頓著です。とにかく三つの色しか使えないので、絵具にはない、染料独特の強烈な色を対比させ、緊張感を出そうとしましたが、染料のしみ込んだ布の感じとともに、それが何処まで面白く印刷されるか、後は本が出来上るまで、手をこまねいて、運を天にまかせる外はありません。",
+      "characters": 240,
+      "ruby": []
+    }
+  ]
+}

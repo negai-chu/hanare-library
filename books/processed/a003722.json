@@ -1,0 +1,42 @@
+{
+  "id": "a003722",
+  "title": "今年心を動かした事",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年心を動かした事",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年心を動かした事",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　今年一年、特に後半は、私にとって、内的に、深く種々の変動あり、感銘を受けた時でした。却って一々の題目を見ると、どれにもあてはめるものがない心持が致します。\n\n〔一九二二年十二月〕",
+      "characters": 90,
+      "ruby": []
+    }
+  ]
+}

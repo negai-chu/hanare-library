@@ -1,0 +1,48 @@
+{
+  "id": "a003823",
+  "title": "囈語",
+  "author": "芥川竜之介",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "囈語",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 106,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "囈語",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一\n\n　僕の胃袋《ゐぶくろ》は鯨《くぢら》です。コロムブスの見かけたと云ふ鯨です。時々潮《しほ》も吐きかねません。吼《ほ》える声を聞くのには飽き飽きしました。\n\n　　　　　二\n\n　僕の舌や口腔は時々熱の出る度に羊歯《しだ》類を一ぱいに生やすのです。\n\n　　　　　三\n\n　一体下痢《げり》をする度に大きい蘇鉄《そてつ》を思ひ出すのは僕一人《ひとり》に限つてゐるのかしら？\n\n　　　　　四\n\n　僕は腹鳴りを聞いてゐると、僕自身いつか鮫《さめ》の卵を産《う》み落してゐるやうに感じるのです。\n\n　　　　　五",
+      "characters": 250,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　僕は憂鬱になり出すと、僕の脳髄《なうずゐ》の襞《ひだ》ごとに虱《しらみ》がたかつてゐるやうな気がして来るのです。\n\n（大正十五年五月）",
+      "characters": 68,
+      "ruby": []
+    }
+  ]
+}

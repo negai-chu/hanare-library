@@ -1,0 +1,54 @@
+{
+  "id": "a001216",
+  "title": "寡婦の除夜",
+  "author": "内村鑑三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "寡婦の除夜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 124,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "寡婦の除夜",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "月《つき》清《きよ》し、星《ほし》白《しろ》し、\n\n霜《しも》深《ふか》し、夜《よる》寒《さむ》し、\n\n家《いへ》貧《まづ》し、友《とも》尠《すくな》し、\n\n歳《とし》尽《つき》て人《ひと》帰《かへ》らず、\n\n思《おもひ》は走《はし》る西《にし》の海《うみ》\n\n涙《なんだ》は凍《こほ》る威海湾《ゐかいわん》\n\n南《みなみ》の島《しま》に船出《ふなで》せし\n\n恋《こひ》しき人の迹《あと》ゆかし\n\n人には春《はる》の晴衣《はれごろも》",
+      "characters": 217,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "軍功《いくさいさほ》の祝酒《いはひざけ》\n\n我には仮《か》りの侘住《わびずまひ》\n\n独り手向《たむく》る閼伽《あか》の水《みづ》\n\n我《われ》空《むなし》ふして人《ひと》は充《み》つ\n\n我衰《おとろ》へて国《くに》栄《さか》ふ\n\n貞《てい》を冥土《めいど》の夫《つま》に尽《つく》し\n\n節《せつ》を戦後《せんご》の国《くに》に全《まつた》ふす\n\n月《つき》清《きよ》し、星《ほし》白《しろ》し、\n\n霜《しも》深《ふか》し、夜《よる》寒《さむ》し、",
+      "characters": 223,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "家《いへ》貧《まづ》し、友《とも》尠《すくな》し、\n\n歳《とし》尽《つ》きて人《ひと》帰《かへ》らず。",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

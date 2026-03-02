@@ -1,0 +1,48 @@
+{
+  "id": "a003940",
+  "title": "似たひと",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "似たひと",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 147,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "似たひと",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お茶をいれている私のそばである友達が栗の皮をむきながら、\n\n「あなた、染物屋の横にあるお風呂へよく行くの」\n\nときいた。\n\n「行かないわ」\n\n「ほんと？　じゃどうしたんだろう、始終あすこで見かけるって云っていた人があってよ」\n\n　ふき出しながら、私は、\n\n「お気の毒だわ、間違えられた人――」\n\nと云った。\n\n「こんな、ちょうろぎのようなの、やっぱりあるのかしら……」",
+      "characters": 184,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　それから程もない或る夕方、ガラリと格子をあけて紙包をかかえた妹が入って来た。立ったまま、\n\n「きょうお姉様に上野の広小路と山下の間で会った」\n\nとハアハア笑った。\n\n「いやよ、何云ってるのさ」\n\n「だって、バスにのっているすぐとなりの男のひとが、ほらあれって云ってるんだもの」\n\n「見たの？」\n\n「ううん、こんでいてそっちは見えなかった。フフフフ」\n\n　私があんまり丸まっちいので、いくらか丸い、或は相当に丸いひとがみんなその一つの概念にあてはめて間違われるのはなかなか愉快だと思う。\n\n〔一九三七年十一月〕",
+      "characters": 255,
+      "ruby": []
+    }
+  ]
+}

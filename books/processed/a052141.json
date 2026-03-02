@@ -1,0 +1,42 @@
+{
+  "id": "a052141",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　私の志し実ニ十二ぶんもはこび申候間、則大兄ニも兼而御同意の事故、天下の大幸と御よろこび可レ被レ遣候。\n\n何《（いづれ）》夕方までの内、御咄し仕候。又商会のものも御引合仕候。\n\n四日草々頓首。\n　九三老兄\n\n御直披龍",
+      "characters": 108,
+      "ruby": []
+    }
+  ]
+}

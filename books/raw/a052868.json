@@ -1,0 +1,42 @@
+{
+  "id": "a052868",
+  "title": "青春のころわが愛せし作品と主人公",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "青春のころわが愛せし作品と主人公",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 29,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "青春のころわが愛せし作品と主人公",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「ファウスト」のファウスト。\n\n　人間性の有する、互に相矛盾する性格悲劇を理由として。",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

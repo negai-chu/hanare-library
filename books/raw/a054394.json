@@ -1,0 +1,42 @@
+{
+  "id": "a054394",
+  "title": "旅人の唄",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "旅人の唄",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "旅人の唄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "旅は泪よ故里《クニ》はまだかよ\n\nその日その日の夢になく\n\n　　運命《サダメ》に弱い\n\n　　我は悲しい渡り鳥\n\n旅は夢かよ春も逝くかよ\n\n柳の雨に濡れて泣く\n\n　　燕でないが\n\n　　我も悲しい渡り鳥\n\n―10・５・４―",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

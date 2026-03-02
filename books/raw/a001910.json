@@ -1,0 +1,48 @@
+{
+  "id": "a001910",
+  "title": "まよわし",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "まよわし",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "まよわし",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わが思ふ女《ひと》ありやなしや。\n\nまよわしきかな。\n\n夕暮の窓にもたれて、蒼白《あをじろ》き息ふく\n\nわれも、またありやなしや。\n\nあな、うたがわし。\n\n蚊のなく声を、君がかなしき唄とや\n\nきかむ。\n\n柔風《なよかぜ》の木の葉にすがる、たわふれを、\n\n君が鬢のほつれとやきかむ。",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "淋しき夕べの鐘もきこゆ。\n\n森のかなた、君住む墓《ほと》の頭りにや\n\nあらむ。\n\n今なり、われは独りさ迷ひゆかむ！\n\n夕《ゆふ》べの鐘をしたひて\n\nその音に耳を静《しづ》めて。",
+      "characters": 88,
+      "ruby": []
+    }
+  ]
+}

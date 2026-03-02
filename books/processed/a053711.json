@@ -1,0 +1,42 @@
+{
+  "id": "a053711",
+  "title": "二人‥‥２‥‥",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "二人‥‥２‥‥",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "二人‥‥２‥‥",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　アアルカアボネの貨幣は迚も光沢がよくメダルにしていゝ位だがキリストの貨幣は見られぬ程貧弱で何しろカネと云ふ資格からは一歩も出ていない。\n\n　カアボネがプレツサンとして送つたフロツクコオトをキリストは最後迄突返して已んだと云ふことは有名ながら尤もな話ではないか。\n\n一九三一、八、一一",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

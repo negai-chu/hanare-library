@@ -1,0 +1,54 @@
+{
+  "id": "a054112",
+  "title": "世はさながらに",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "世はさながらに",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "世はさながらに",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "月やあらぬ春やむかしの春ならぬわが身ひとつはもとの身にして　　　　業平\n\nかなたなる海にむかひて\n\nかしらあげさへづる鳥は\n\nこぞの春この木の枝に\n\nきて啼きし青鵐《あをじ》のとりか\n\nかぐはしきこのくれなゐの\n\n梅の花さけるしたかげ\n\nこれやこのこぞの長椅子\n\n古りしままなほくちずして",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "こぞありしほとりに咲ける\n\nはしきやしたんぽぽの花\n\n宿をでてもの思ひつつ\n\nゆくりなくわが來しをかべ\n\nあづさゆみ春の日ざしに\n\nこぞの日のこぞのものみな\n\nうつろはでありけるよあな\n\nいにしへのうたのこころを\n\nなかなかにわが身のみかは",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おしなべて世はさながらに\n\nさながらに\n\nものの\n\nあはれや",
+      "characters": 30,
+      "ruby": []
+    }
+  ]
+}

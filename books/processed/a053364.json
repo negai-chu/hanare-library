@@ -1,0 +1,42 @@
+{
+  "id": "a053364",
+  "title": "〔弓のごとく〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔弓のごとく〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 22,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔弓のごとく〕",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　弓のごとく\n\n鳥のごとく\n\n昧爽《まだき》の風の中より\n\n家に帰り来れり",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

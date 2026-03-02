@@ -1,0 +1,48 @@
+{
+  "id": "a054005",
+  "title": "我は労働者よ",
+  "author": "根岸正吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "我は労働者よ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "我は労働者よ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "廻せ！　廻せ！\n\n廻したくば何程《いくら》でも廻せ。\n\n如何に汝が廻すとも\n\n機械の前に我等立たずば、\n\n一寸の布も編まれぬであろう。\n\n一尺の糸も紡がれぬであろう。\n\n糸の一管《ひとくだ》さえ巻かれぬであろう。\n\n我は労働者よ。\n\n何も知らず。――只此事を外にしては、",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "されど\n\n我が知れる此事はいとも貴し。\n\n我は『力』なる労働者の一人なり。\n\nげにこそ\n\n労働者は力なり。\n\n我等が皆目醒むる時\n\n為さんとし成らざるなき強き力なり。\n\n（『新社会』一九一六年七月号にＮ正吉名で発表　『どん底で歌う』を底本）",
+      "characters": 120,
+      "ruby": []
+    }
+  ]
+}

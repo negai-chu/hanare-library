@@ -1,0 +1,54 @@
+{
+  "id": "a049070",
+  "title": "本部の段々で",
+  "author": "槙本楠郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "本部の段々で",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "本部の段々で",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "父《ちやん》もやられた\n\n兄《あん》ちやんも\n\nおつ母《か》も出《で》たきり\n\nもどりやせん\n\n四つ五つ\n\n寝《ね》るまでは\n\n晝《ひる》もとなりで\n\n遊《あそ》んだが\n\nなれりやどこだつて",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おら平氣《へいき》\n\n本部《ほんぶ》の段々《だん／＼》で\n\n見張《みは》りだぞ\n\nイの字《じ》のつくやつ\n\nやつて來《こ》い\n\nスの字《じ》のつくやつ\n\nやつて來《こ》い\n\nおいらの見張《みは》りは\n\nきびしいぞ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "しつぽを見《み》つけて\n\n馬乘《うまの》りだ\n\nワンと吠《ほ》え、ワンと吠《ほ》え\n\nこら犬《いぬ》め\n\nおれさま、よく見《み》ろ\n\nよく拜《おが》め",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

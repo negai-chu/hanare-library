@@ -1,0 +1,42 @@
+{
+  "id": "a054255",
+  "title": "あるひとに",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あるひとに",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あるひとに",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　もうとどかない花の日よりもさびしかつた\n\nつかれのやうに羞んで\n\n古い折返しの向ふへかくれたひとよ\n\nもうとどかない花の日のやうにいつまでもぼくは考へてゐる",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

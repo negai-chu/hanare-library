@@ -1,0 +1,48 @@
+{
+  "id": "a061066",
+  "title": "祭り日",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "祭り日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "祭り日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "秋の風　野面を渡る\n\nさく　さく\n\n腕《かいな》も軽し　早稲を刈る\n\nこの祭り日に\n\nたわわに実るありがたさ\n\n早出供米　他村に魁け\n\nお国につくす稲を刈る\n\nこの祭り日に\n\n息子らは遠き戦野に",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "村に居残る吾等\n\n田畑引き受け　休みなし\n\nこの祭り日に",
+      "characters": 28,
+      "ruby": []
+    }
+  ]
+}

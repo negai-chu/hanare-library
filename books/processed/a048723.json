@@ -1,0 +1,42 @@
+{
+  "id": "a048723",
+  "title": "人生のための芸術",
+  "author": "田山花袋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "人生のための芸術",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "人生のための芸術",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　人生の爲めの藝術を後藤宙外君は本誌の前號で説いて居る。そして文學の爲めの文學を排して居るけれど、私等のいふ人生に觸れるといふことと、宙外君の人生に觸れるといふこととは甚だ意味が違ふやうに思ふ。宙外君はダルヰンの研究を學問の爲めの學問と言つて排し去るだらうか。學問の爲めの學問を遣つたので、ダルヰンは却つて應用學者の觸れ得ざる、解し得ざる、人間の根本に入ることが出來たのではなからうか。",
+      "characters": 193,
+      "ruby": []
+    }
+  ]
+}

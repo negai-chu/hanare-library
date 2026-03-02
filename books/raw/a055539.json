@@ -1,0 +1,42 @@
+{
+  "id": "a055539",
+  "title": "今日もまた",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今日もまた",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 28,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今日もまた",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "我いのち今日もまた\n\nその一つをば切りつめぬ\n\n弱きもの何故ぞ\n\n虐げられて\n\n今日もまた泣いて過しき",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a053638",
+  "title": "吹雪",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "吹雪",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "吹雪",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わが故郷前橋の町は赤城山の麓にあり、その家竝は低くして甚だ暗し。\n\nふもとぢに雪とけ、\n\nふもとぢに緑もえそむれど、\n\nいただきの雪しろじろと、\n\nひねもすけふも光れるぞ、\n\nああいちめんに吹雪かけ、\n\n吹雪しかけ、\n\nふるさとのまちまちほのぐらみ、\n\nかの火見やぐらの遠見に、",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "はぜ賣るこゑもきれぎれ、\n\nここの道路のしろじろに、\n\nうなゐらのくらく呼ばへる家竝に、\n\n吹雪かけ、\n\n吹雪しかけ、\n\n日もはや吹きめぐり、\n\n赤城をこえてふぶきしかけ。\n\n―郷土景物詩―",
+      "characters": 95,
+      "ruby": []
+    }
+  ]
+}

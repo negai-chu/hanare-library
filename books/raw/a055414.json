@@ -1,0 +1,48 @@
+{
+  "id": "a055414",
+  "title": "夢の国",
+  "author": "片山広子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夢の国",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夢の国",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雄心や花ふみにじりわか芽つみほゝゑむすべは知らずあらなむ\n\nふと行きてかへらぬ人よ掌をすべりて消えし玉ならなくに\n\n身の秋にしのぶも悲し日陰草小さく咲きて散りし花はも\n\n天つ世の魂の足音《あおと》のきこゆらしゆめの国ゆくあかつきの時\n\n思ひなゝあらそひもなき後の世は唯いとまあり眠る人のみ\n\nつばさ破れ落ちしはやぶさやけ砂にうなじやかせて遠き空見る\n\nうつくしき青葉の岡の殿づくり饑ゑし百人《もゝたり》つちはこぶらし\n\n花散りし胸の園生の垣ゆれて道行く人となりにける君\n\nますらをはつかれつゝみてよき妻のつかはれ人となりにけるはや",
+      "characters": 265,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "朝の風四里の麦生の波越えて多摩の川辺に人たづね行く",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a045117",
+  "title": "ゐろりの中の街",
+  "author": "スティーブンソンロバート・ルイス",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ゐろりの中の街",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ゐろりの中の街",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゐろりの中に街がある、\n\nかすかな足音きこえてる。\n\nランプがともり、靄がある、\n\n庭の木などに壁などに。\n\n靄のなかから火がもえて\n\nてらし出される部屋がある。\n\n屋根やご本も見えてゐる。\n\nみんな真赤にてらされる。\n\nゐろりの中の街中の、",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "塔の下かげ行く兵士。\n\nけれど私が見てるうち、\n\n兵士も光も消えてつた。\n\nかうと再び火がもえる。\n\nふたたび街をてらしだす。\n\nほうらこんどは谷もある。\n\nほうら兵士が又見える。\n\nもえてる榾《ほだ》よ兵士らは、\n\nどこまで行くの、聞せてよ。",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ゐろりのなかの此の街は、\n\nこれは何なの、きかせてよ。",
+      "characters": 27,
+      "ruby": []
+    }
+  ]
+}

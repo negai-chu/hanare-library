@@ -1,0 +1,48 @@
+{
+  "id": "a054360",
+  "title": "衢",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "衢",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "衢",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　よりそふ暇もなく\n\nこみあげる約束はうばはれていつた\n\n疲れのやうに\n\n吃つてゐる炎よ\n\nくづれる愛をさらに踏みしめ\n\n時間のかげに身をこがしても\n\nじぶんの力で倒れかかり\n\n義足よ\n\n記憶は埋れ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "虚しい体温から\n\nすべての言葉はかへらない\n\nいまは\n\nとざされた扉も消え\n\n匂ひににた沈黙もなく\n\n夜の静脉がかなしく映えてゐる",
+      "characters": 65,
+      "ruby": []
+    }
+  ]
+}

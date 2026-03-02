@@ -1,0 +1,42 @@
+{
+  "id": "a046724",
+  "title": "電信柱と黒雲",
+  "author": "香倶土三鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "電信柱と黒雲",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 114,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "電信柱と黒雲",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "電信柱が寒い風にあたってピーピーと泣いておりました。\n\n　黒い雲が来て、\n\n「何を泣いているのだえ」\n\n「寒いからさ。お前のような雲が来るから寒いのだ。こちらへ来ないでくれ」\n\n「おれが悪いのじゃない。風がわるいのだ。おれは風につれられて来るのだから」\n\n「おれは黒いものが大嫌いだ。この間も鴉がとまって、アホーアホーとおれを笑った」\n\n「それじゃこれはどうだ」\n\n　と言ううちに白い雪をチラチラと降らしました。\n\n　電柱はだまってしまいました。",
+      "characters": 223,
+      "ruby": []
+    }
+  ]
+}

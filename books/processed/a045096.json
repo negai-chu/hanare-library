@@ -1,0 +1,48 @@
+{
+  "id": "a045096",
+  "title": "島",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "島",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "島",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　島で、或《ある》あさ、\n\n鯨がとれた。\n\nどこの家《うち》でも、\n\n鯨を食べた。\n\n鬚《ひげ》は、呻《うな》りに、\n\n売られていつた。\n\nりらら、鯨油《あぶら》は、\n\nランプで燃えた。\n\n鯨の話が、",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "どこでもされた。\n\n島は、小さな、\n\nまづしい村だ。\n\n（註《ちゅう》。鯨の鬚は、凧《たこ》の呻りに用ゐられます。）",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

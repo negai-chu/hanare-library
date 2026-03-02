@@ -1,0 +1,42 @@
+{
+  "id": "a003926",
+  "title": "現代女性に就いて",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "現代女性に就いて",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "現代女性に就いて",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　もとから女の生活には様々の困難な社会的事情があって、その困難性を自覚している婦人にはそれとしての、又自覚しない部分には自覚しないことから来ている沢山の困難がありました。この頃の社会の事情は女としての困難解決の方向を知っているひとでも目前に方法がつかないような特殊の苦痛がありますが、どうかその苦痛にまけたことを一つの自嘲的なポーズとせず日々の努力をのぞみます。\n\n〔一九三七年二月〕",
+      "characters": 192,
+      "ruby": []
+    }
+  ]
+}

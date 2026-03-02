@@ -1,0 +1,42 @@
+{
+  "id": "a053647",
+  "title": "別れ",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "別れ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "別れ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "友よ　安らかに眠れ。\n\n夜はほのじろく明けんとす\n\n僕はここに去り\n\nまた新しい汽車に乘つて行かうよ\n\n僕の孤獨なふるい故郷へ。\n\n東雲《しののめ》ちかい汽車の寢臺で\n\n友よ　安らかに眠れ。",
+      "characters": 95,
+      "ruby": []
+    }
+  ]
+}

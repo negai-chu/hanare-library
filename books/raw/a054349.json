@@ -1,0 +1,48 @@
+{
+  "id": "a054349",
+  "title": "断章",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "断章",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "断章",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おほくの予感に充ち\n\nおまへの皮膚にはとどかず\n\nはるかに高い所を\n\nわたつた\n\nあの鋭い動きさへ\n\n速かに把へたのに\n\n精神よ\n\n季節は錆だ\n\n新しい時へ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "歩みを移すこともできず\n\n灰は灰に\n\n石は石に還つた\n\nしかし\n\nそれらの冷やかさを\n\n身をもつて感じてゐることは\n\nもつと不幸だつた",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

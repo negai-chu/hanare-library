@@ -1,0 +1,42 @@
+{
+  "id": "a053629",
+  "title": "夜景",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜景",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜景",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　高い家根の上で猫が寢てゐる\n\n猫の尻尾から月が顏を出し\n\n月が青白い眼鏡をかけて見てゐる\n\nだが泥棒はそれを知らないから\n\n近所の家根へひよつこりとび出し\n\nなにかまつくろの衣裝をきこんで\n\n煙突の窓から忍びこまうとするところ。",
+      "characters": 115,
+      "ruby": []
+    }
+  ]
+}

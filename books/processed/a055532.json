@@ -1,0 +1,60 @@
+{
+  "id": "a055532",
+  "title": "Ｓ療養所点景",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Ｓ療養所点景",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "Ｓ療養所点景",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　療養所の看護婦はいつも\n\n廊下をみがいている\n\nドアーのハンドルをみがいている\n\nいくらみがいてもピカピカ光る程\n\nこの療養所の建物は新らしくない\n\nそれでも毎日\n\n看護婦は廊下をみがきハンドルをみがく\n\n主任が真先に立ってやって見せるし\n\n主任の命令がきびしいので",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "看護婦は今日もみがきやになってる\n\n病室に入って\n\n病室のうすきたなさはちっともきれいにされない\n\n病室には\n\n廊下など歩くはおろか\n\n半身を起せぬ患者が呻吟して居り\n\n病室の手届かぬところに塵埃はうず高く\n\n風の日の患者は真黒くなる\n\nある日主任は一人で",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "博士のようにおうように目礼もせぬ患者に\n\n返礼をして\n\n「どうですか」\n\nときいて廻る\n\n主任の好き嫌いは甚しく\n\n好意ある患者には笑顔もていとも親しく\n\n嫌いな患者はどんな苦痛を訴えても\n\n「少し我慢が足らんですよ」と\n\nきめつけられる",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "主任の当直は患者を不眠にさせ\n\nあわれな附添は息子を退所させると\n\nおびやかされる",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

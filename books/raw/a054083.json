@@ -1,0 +1,48 @@
+{
+  "id": "a054083",
+  "title": "育て力づよく",
+  "author": "田村乙彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "育て力づよく",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 137,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "育て力づよく",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "食えぬだんに学校学校言うて　と母は子を叱る\n小学校の四年の吉三は　学校へ行っては先生に　うちへかえればみんなにどなりまくられる\n「今日は学校休んで薪《たきぎ》をとって来い　子供じゃ言うても飯を食うからにゃ」\nぼろぼろ涙を流しながら\nえがま縄帯の腰につきさす吉三\n子供までぼい使うてと親父は思うが\nどうにもならない\n明日はまた病気でもないのに勝手に学校を休んだと先生に叱られるだろう吉三よ\nお前はそのほそい身体を何重も何重もしばられている\n水平社のこどもとして\n貧乏人のがきとして――\nだが決して\nやけになるな　悲しむな\n立派に立派に育てよ　力づよく\n早く大きくなれ　強くなれ\n働くものがふみつけにされ差別される様な世の中と\n戦う勇ましい大人になれ　早く\n二月十八日",
+      "characters": 332,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "――この一篇を水平社の兄弟姉妹に捧げる――\n（『田園の花』一九三二年四月刊第二号に発表　一九七九年二月槇村浩の会刊『土佐プロレタリア詩集』を底本）",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

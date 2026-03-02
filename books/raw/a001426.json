@@ -1,0 +1,42 @@
+{
+  "id": "a001426",
+  "title": "棕梠のそよぎ",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "棕梠のそよぎ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "棕梠のそよぎ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "黄ばんだ一本の棕梠、\n\n痛ましく裂けた葉のそよぎ。\n\n冷たい秋の空気にふれて、\n\nかなしい秋、調べをきざむ。\n\n淋しい心の華が開き、\n\n灰色の眼をあげて\n\nなつかしい譜の鳴る方へ、\n\n絶えず懐ひが、\n\n躍り出す。",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

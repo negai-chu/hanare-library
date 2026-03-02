@@ -1,0 +1,42 @@
+{
+  "id": "a054383",
+  "title": "ジンタ",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ジンタ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ジンタ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ジンタは寂しい港町です\n\n朔風《さかかぜ》にうらぶれた潮騒《しほざい》です\n\n吐息《といき》のやうにとぎれては続きます\n\n濡れてゐるやうに　泣いてゐるやうに\n\nラツパ・たいこ・クラリオ《ママ》ネツト\n\nジンタは冬がやつて来た港町です\n\n昨日《きのう》の唄を　昨日《きのう》の生活《せいくわつ》を\n\n潮騒のやうに歌つて通ります",
+      "characters": 162,
+      "ruby": []
+    }
+  ]
+}

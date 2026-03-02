@@ -1,0 +1,42 @@
+{
+  "id": "a058743",
+  "title": "鴨　二",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鴨　二",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鴨　二",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夕暮の池に　鴨が點々\n\n風が彼らを片寄せる　林の方へ　岡の方へ\n\n風がやむ　彼らは呼んでゐる　應へてゐる\n\n風の聲よりひそやかに",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

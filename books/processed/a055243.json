@@ -1,0 +1,54 @@
+{
+  "id": "a055243",
+  "title": "「黒瞳」より",
+  "author": "アラルコンペドロ・アントニオ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「黒瞳」より",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「黒瞳」より",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おくつきに跪《ひざまづ》き\n\nわが父の墳塋《おくつき》に\n\nとこしへの愛を\n\nわれにちかひぬ。\n\n汝もし操なくば\n\n一日《ひとひ》たてし誓に\n\n願くば過《よぎ》る勿れ\n\nわが父の墳塋《おくつき》を。\n\n　＊",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "天の星、\n\n谷の花、\n\nこゝにして子らは日をみむ、\n\nこゝにしてわがおやゆきぬ。\n\nうれたくも、\n\n子らなくば\n\nなが胸ぞ子らの墳塋《おくつき》ならば\n\nよぎる勿れわが父の墳塋を。\n\n　＊",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "やまこえて\n\nあだ人來《きた》る\n\n其眼くろし\n\n其髮くろし\n\nくろからむ其子らの眼も\n\nくろからむ其かみもまた。",
+      "characters": 57,
+      "ruby": []
+    }
+  ]
+}

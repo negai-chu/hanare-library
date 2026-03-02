@@ -1,0 +1,48 @@
+{
+  "id": "a001215",
+  "title": "寒中の木の芽",
+  "author": "内村鑑三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "寒中の木の芽",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "寒中の木の芽",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一、春の枝に花あり\n\n　　夏の枝に葉あり\n\n　　秋の枝に果あり\n\n　　冬の枝に慰《なぐさめ》あり\n\n二、花散りて後に\n\n　　葉落ちて後に\n\n　　果失せて後に\n\n　　芽は枝に顕《あら》はる\n\n三、嗚呼《ああ》憂に沈むものよ",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　嗚呼不幸をかこつものよ\n\n　　嗚呼冀望《きぼう》の失せしものよ\n\n　　春陽の期近し\n\n四、春の枝に花あり\n\n　　夏の枝に葉あり\n\n　　秋の枝に果あり\n\n　　冬の枝に慰あり",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

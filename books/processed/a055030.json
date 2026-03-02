@@ -1,0 +1,42 @@
+{
+  "id": "a055030",
+  "title": "蹠",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蹠",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蹠",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　円錐形のさきで僕ひとり。\n街や河があつて人があるいてゐる\n海があつて島や船がうごいてゐる\n陸や山や不毛の地をもつてゐる　円錐形の美しい側面。\n雲や雨や飛行機や魚のある　美しい空間。\nぼくのましろな蹠を見上げてごらんよ\n円錐形の尖でさみしい僕。\n神さま　このましろな蹠に　おもしろい密画をかいてやつて下さいませ。",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

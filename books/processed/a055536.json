@@ -1,0 +1,42 @@
+{
+  "id": "a055536",
+  "title": "形象の献辞",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "形象の献辞",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "形象の献辞",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　生命形象の末路にこそ\n\nわれは華やかなる讃美を贈らんかな\n\n生長に太りゆく肉体と自然\n\nそれら皆空々無色の透明体となり\n\n精霊のみあれよ\n\n而して無用なる形態一切は\n\n生れ出でし日の永劫記念に\n\n神前の土深く\n\n埋葬し献ぜんかな",
+      "characters": 115,
+      "ruby": []
+    }
+  ]
+}

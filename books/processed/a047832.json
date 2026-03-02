@@ -1,0 +1,42 @@
+{
+  "id": "a047832",
+  "title": "経験派",
+  "author": "織田作之助",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "経験派",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 163,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "経験派",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　彼は小説家だった。下手な小説家だった。その証拠に実感を尊重しすぎた。\n\n　彼は掏摸《すり》の小説を構想した。が、どうも不安なので、掏摸の顔を見たさに、町へ出た。\n\n　ところが、一人も掏摸らしい男に出会わなかった。すごすご帰りの電車に乗って、ふと気がつくと、財布がない。掏られていたのだ。彼は悲しむまえに喜んだ。\n\n「これで掏摸の小説が書ける」\n\n　彼は飛ぶように家へ帰った。そして机の前に坐ると、掏られたはずの財布がちゃんと、のっている。持って出るのをうっかり忘れていたのだ。\n\n　彼は原稿用紙の第一行に書かれている「掏摸の話」という題を消して、おもむろに、\n\n「あわて者」\n\n　という題を書いた。そして、あわて者を主人公にした小説を書き出した。",
+      "characters": 324,
+      "ruby": []
+    }
+  ]
+}

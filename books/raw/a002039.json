@@ -1,0 +1,48 @@
+{
+  "id": "a002039",
+  "title": "おびえ",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おびえ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おびえ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "咲きし華《はな》はしぼみて、\n\nわが世は暗《くら》がりわたり。\n\nくろめる渦巻きのなか\n\n淋しき、うめきをやする。\n\nそは、冷《つめ》たき砂のうへに裂けて、\n\n風に泣く片葉□《（不明）》貝にも似たり。\n\n絶えせぬ浪の響き、肉にゆさぶれば、\n\n小さき魂は、音なく伏してあるなり。\n\n「なほ生きてあるのみ」",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いつかまた、われは哀ふ。\n\nと思へば、あたりのものみな、\n\n怖ろしく眼にとまる。\n\nかつて、命をすてゝ去る人あるを聞けど\n\nあまりにかへる日の遠し…………。\n\nわれは今、かのひからびし落葉の如く\n\n地の上を、あてなく転げて、\n\n冷やかに尚ほ生きてあるのみ。",
+      "characters": 128,
+      "ruby": []
+    }
+  ]
+}

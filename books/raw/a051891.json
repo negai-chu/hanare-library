@@ -1,0 +1,48 @@
+{
+  "id": "a051891",
+  "title": "いちぢくの葉",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "いちぢくの葉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "いちぢくの葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夏の午前よ、いちぢくの葉よ、\n\n葉は、乾いてゐる、ねむげな色をして\n\n風が吹くと揺れてゐる、\n\nよはい枝をもつてゐる……\n\n僕は睡らうか……\n\n電線は空を走る\n\nその電線からのやうに遠く蝉は鳴いてゐる\n\n葉は乾いてゐる、\n\n風が吹いてくると揺れてゐる、",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "葉は葉で揺れ、枝としても揺れてゐる\n\n僕は睡らうか……\n\n空はしづかに音く、\n\n陽は雲の中に這入つてゐる、\n\n電線は打つづいてゐる\n\n蝉の声は遠くでしてゐる\n\n懐しきものみな去ると。\n\n（一九三三・一〇・八）",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

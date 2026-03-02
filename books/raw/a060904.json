@@ -1,0 +1,42 @@
+{
+  "id": "a060904",
+  "title": "緑色の透視",
+  "author": "左川ちか",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "緑色の透視",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 128,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "緑色の透視",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一枚のアカシヤの葉の透視\n\n　五月　其処で衣服を捨てる天使ら　緑に汚された脚　私を追いかける微笑　思い出は白鳥の喉と　なり彼女の前で輝く\n\nいま　真実はどこへ行った\n\n夜露でかたまった鳥らの音楽　空の壁に印刷した樹らの絵　緑の風が静かに払いおとす\n\n歓楽は死のあちら　地球のあちらから呼んでいる　例えば重くなった太陽が青い空の方へ落ちてゆくのを見る\n\n走れ！　私の心臓\n\n球になって　彼女の傍へ\n\nそしてティカップの中を\n\n――かさなり合った愛　それは私らを不幸にする　牛乳の皺がゆれ　私の夢は上昇する",
+      "characters": 251,
+      "ruby": []
+    }
+  ]
+}

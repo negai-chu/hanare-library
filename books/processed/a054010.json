@@ -1,0 +1,48 @@
+{
+  "id": "a054010",
+  "title": "檻の中",
+  "author": "波立一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "檻の中",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "檻の中",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　昨日は重い空に湿っぽい風だった。\n\n鋲どめた「五月祭のビラ」の傍に\n\n白い優曇華《うどんげ》の花が咲いていたっけ\n\n梅雨時《つゆどき》の箒を遁れて咲いていたっけ\n\n首　うなだれてはこみあげる憤怒を\n\n首　うなだれてはこみあげる憤怒を\n\n奴《うぬ》！\n\n首　うなだれてはこみあげる憤怒！\n\n今日は薄縁《うすべり》三畳の檻の中",
+      "characters": 162,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鉄格子と金網の窓に獅噛《しが》みつき\n\nガラス戸の隙間三寸\n\n高い石塀を越えて\n\n黒雲ちぎれ飛ぶ空模様に\n\n凝乎《じっ》と眼を注ぎ\n\n歯を喰いしばって北叟笑《ほくそえ》むでる。\n\n（『戦旗』一九二八年十月号に発表　一九三一年一月改造社刊『戦旗三十六人集』を底本）",
+      "characters": 131,
+      "ruby": []
+    }
+  ]
+}

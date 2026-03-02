@@ -1,0 +1,86 @@
+{
+  "id": "a054358",
+  "title": "季節抄",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "季節抄",
+        "startPage": 1,
+        "endPage": 5,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "",
+            "startPage": 2,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "",
+            "startPage": 2,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "",
+            "startPage": 2,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "",
+            "startPage": 2,
+            "endPage": 5
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "季節抄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　梢が\n\n空にとどいてゐる\n\n美しい樹々よ\n\n花の咲かない…………\n\n花はなくとも\n\nああ　せめてものわが願い\n\n樹々の編む\n\n光りのハンモツクに\n\n僕はつつましく腰をおろす",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "風が静かにひかるとき\n\nゆれないハンモツクで\n\n僕はそつと時間をみ失ふ\n\n小さな口をあけて\n\nぽくぽくと駆けてくる\n\n波頭よ\n\nさうして\n\n何も彼も洗ふがいい…………\n\n貝殻の中の小さな海にも",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "冷い空が\n\n匂ふやうに光る\n\n青い塔の半円形も消え\n\n匂ひの向ふへ花がこぼれた\n\n重たい風船のやうに暗い秋の陽が\n\n落ちてしまつて…………\n\nひと掬ひの歌もない\n\n海よ\n\n貨物船よりもぢつとして",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "お前を視てゐる僕\n\n（〈13年〉十一月讃岐にて）",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

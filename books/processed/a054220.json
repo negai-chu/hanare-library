@@ -1,0 +1,42 @@
+{
+  "id": "a054220",
+  "title": "うさぎの餅つき",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "うさぎの餅つき",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "うさぎの餅つき",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ベッタラコ／＼\n\n「十五夜お月さんにそなへましょ\n\n　お月のやうにまるくして\n\n　それを見てゐる人々の\n\n　心もまるくいたしましょ」\n\n歌を歌って手拍子を\n\nとってをどって餅をつく\n\nはたらき者のウサギさん\n\n（七・一三）",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

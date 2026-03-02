@@ -1,0 +1,42 @@
+{
+  "id": "a055533",
+  "title": "秋吹く風",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋吹く風",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋吹く風",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　カラカラカラ\n\n風が吹く\n\nポプラのはっぱが吹かれてる\n\n風は面白そうに走ってく\n\n四辻に風は迷ってぐるぐるまわり\n\nあの人をそよと尋ぬ《（ママ）》てためしし《（ママ）》て\n\nぷっと口吻け逃げてゆく",
+      "characters": 100,
+      "ruby": []
+    }
+  ]
+}

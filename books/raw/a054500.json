@@ -1,0 +1,48 @@
+{
+  "id": "a054500",
+  "title": "この日",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "この日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "この日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "君うつくしく幸《さち》ありと、\n\nおもへば魂《たま》はくづるゝに、\n\nなまじい罪は負ひつゝも、\n\n君は死にきと眼《め》を閉ぢて、\n\n痩せたる胸を撫づるなり。\n\nもとより心いつはらぬ\n\nふたりが恋のくちつけは、\n\n法《のり》の父上母うへの\n\n御国《みくに》にゆりぬ、君はいま",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "むくろぞひとに委《ゆだ》ねけめ。\n\nされども君は人妻《ひとづま》と、\n\n整《とゝの》ひきよき妻がさね、\n\nわれ咽喉《のど》ぶえは裂きもすれ、\n\n沸《た》ぎる鉛は啣むとも、\n\nえやは呼ぶべきわがつまと。",
+      "characters": 100,
+      "ruby": []
+    }
+  ]
+}

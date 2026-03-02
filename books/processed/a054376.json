@@ -1,0 +1,48 @@
+{
+  "id": "a054376",
+  "title": "青き蜜柑",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "青き蜜柑",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "青き蜜柑",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　愁ひ来て丘にのぼりて\n\n酸《す》の香る蜜柑もぐなり\n\n悲しみの青き蜜柑を\n\n栗林こえて見ゆるは\n\n背きにし君の町なるぞ\n\nゆふぐれに深く沈みて\n\n掌《て》にしみる青き蜜柑よ\n\nそをかみて何を思はむ\n\n昔《かみ》の日は皆空しきに",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ああされど君も寂しと\n\nこの丘の青き蜜柑の\n\nその香りなぜか愛でたり\n\n自らの影をふみつつ\n\nゆふぐれの丘を下りき\n\n掌に悲し青き蜜柑よ",
+      "characters": 68,
+      "ruby": []
+    }
+  ]
+}

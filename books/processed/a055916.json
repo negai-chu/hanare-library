@@ -1,0 +1,42 @@
+{
+  "id": "a055916",
+  "title": "（酒）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（酒）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 35,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（酒）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　酒\n\n梅\n\n原因が分りません\n\n蜘蛛は五月雨に逃げ場を失ひました\n\nキセルを折れ\n\nキセルを折れ\n\n犬が骨を……\n\nヘン、如何です？",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

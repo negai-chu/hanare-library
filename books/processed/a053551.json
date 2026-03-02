@@ -1,0 +1,42 @@
+{
+  "id": "a053551",
+  "title": "なにか知らねど",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "なにか知らねど",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "なにか知らねど",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　なにか知らねど泣きたさに\n\nわれはゆくゆく汽車の窓\n\nはるばると\n\nきやべつ畑に日は光り\n\n風見ぐるま\n\nきりやきりりとめぐる日に\n\nわれはゆくゆく汽車の窓\n\nなにか知らねど泣きたさに",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

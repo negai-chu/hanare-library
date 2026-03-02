@@ -1,0 +1,42 @@
+{
+  "id": "a048014",
+  "title": "今年印象に残れる作品",
+  "author": "平林初之輔",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年印象に残れる作品",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年印象に残れる作品",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "〈大正一五年度探偵小説壇の総決算〉\n\n　本年度に於て発表された、創作並びに翻訳探偵小説中、貴下の印象に残っている作品\n\n　今年印象に残れる作品\n\n　　　小酒井不木「恋愛曲線」\n\n　　　羽志主水《はしもんど》「監獄部屋」\n\n（『新青年』第七巻第一四号、一九二六年一二月）",
+      "characters": 134,
+      "ruby": []
+    }
+  ]
+}

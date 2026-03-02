@@ -1,0 +1,42 @@
+{
+  "id": "a053595",
+  "title": "立秋",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "立秋",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "立秋",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　洞窟の壁にふんすゐあり、\n\nさかづきをあぐる一聯《れん》のひと、\n\n秋ちかければ玻璃ながれ、\n\n空氣は谷間をくだる。",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

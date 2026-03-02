@@ -1,0 +1,48 @@
+{
+  "id": "a055475",
+  "title": "焦燥",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "焦燥",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "焦燥",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　母親は煎薬を煎じに行つた\n\n枯れた葦の葉が短かいので。\n\nひかりが掛布の皺を打つたとき\n\n寝台はあまりに金の唸きであつた\n\n寝台は\n\nいきれたつ犬の巣箱の罪をのり超え\n\n大空の堅い眼の下に\n\n幅びろの青葉をあつめ\n\n棄てられた藁の熱を吸ひ",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "たちのぼる巷の中に\n\n青ぐろい額の上に\n\nむらがる蠅のうなりの中に\n\n寝台はのど渇き\n\n求めたのに求めたのに\n\n枯れた葦の葉が短かいので\n\n母親は煎薬を煎じに行つた。",
+      "characters": 83,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a055496",
+  "title": "夜の讃歌",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜の讃歌",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 113,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜の讃歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　地は定形《かたち》なく曠空《むなし》くして黒暗《やみ》淵《わだ》の面にあり\n\n神の霊水の面を覆ひたりき\n\n――創世記\n\n黒暗《やみ》の潮　今満ちて\n\n晦冥の夜《よる》ともなれば\n\n仮構の万象そが※性を失し\n\n解体の喜びに酔ひ痴れて\n\n心をのゝき\n\n渾沌の母の胸へと帰入する。",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "窓外の膚白き一樹は\n\n扉《とぼそ》漏る赤き灯《とぼし》に照らされて\n\nいかつく張つた大枝も、金属性の葉末もろ共\n\n母胎の汚物まだ拭はれぬ\n\n孩児《みどりご》の四肢の相《すがた》を示現する。\n\nかゝる和毛《にこげ》の如き夜《よる》は\n\nコスモスといふ白日の虚妄を破り、\n\n日光の重圧に　化石の痛苦\n\n味ひつゝある若者らにも",
+      "characters": 160,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "母親の乳房まさぐる幼年の\n\n至純なる淫猥の皮膚感覚をとり戻し\n\n劫初なる淵《わだ》の面《おも》より汲み取れる\n\nほの黒き祈り心をしたゝらす……\n\nおんみ　天鵞絨の黒衣せる夜《よる》、\n\n香油《にほひあぶら》にうるほへるおんみ聖なる夜、\n\n涙するわが双の眼《まなこ》を\n\nおんみの胸に埋むるを許したまへ。",
+      "characters": 151,
+      "ruby": []
+    }
+  ]
+}

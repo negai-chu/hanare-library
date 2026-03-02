@@ -1,0 +1,42 @@
+{
+  "id": "a015999",
+  "title": "戦争・平和・曲学阿世",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "戦争・平和・曲学阿世",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 150,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "戦争・平和・曲学阿世",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１、文筆の仕事の上で、可能なかぎり、戦争反対と平和の確保、原子兵器禁止の態度を明かにして居ります。平和を守る会、知識人の会、民主主義擁護同盟に参加して居ります。科学者たちが、適切な共同声明を発表しているのに、文学者は、なぜそのようにあっさりと、はっきりと行為しないのでしょうか。このことについてしきりに考えます。\n２、吉田首相は「放談」ぐせがつきすぎました。タイコモチにばかりかこまれて、半面自分自身のホーカン性によって。\n３、南原総長の抗議を支持します。\n４、南原氏を抑えても、生きている人間の理性と税をはらって役人を生活させている人民の判断はころせません。\n〔一九五〇年八月〕",
+      "characters": 290,
+      "ruby": []
+    }
+  ]
+}

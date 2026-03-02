@@ -1,0 +1,48 @@
+{
+  "id": "a051349",
+  "title": "（辛いこつた辛いこつた！）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（辛いこつた辛いこつた！）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（辛いこつた辛いこつた！）",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "辛いこつた辛いこつた！\n\nなまなか伝説的存在にされて\n\nあゝ、この言語玩弄者達の世に、\n\nなまなか伝説的存在にされて、\n\n（パンを奪はれ花は与へられ）\n\nあゝ、小児病者の横行の世に！\n\n奴等の頭は言葉でガラガラになり、\n\n奴等の心は根も葉もないのだ。\n\n野望の上に造花は咲いて",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "迷つた人心は造花に凭《すが》る。\n\n造花作りは花屋を恨む、\n\nさて、花は造花程口がきけない。\n\n造花造りの羽振のよさは、\n\nあゝ、滑稽《こつけい》なこつた滑稽なこつた。\n\nそれが滑稽だとみえないばかりに、\n\n花の言葉はみなしやらくさい。\n\n舌もつれようともつれまいと\n\n花に嘘などつけはしないんだ。",
+      "characters": 149,
+      "ruby": []
+    }
+  ]
+}

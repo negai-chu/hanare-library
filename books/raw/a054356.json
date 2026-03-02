@@ -1,0 +1,66 @@
+{
+  "id": "a054356",
+  "title": "壁",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "壁",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 73,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "壁",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "扉や窓を濡し\n\n支柱や車輪を濡し\n\n出ていつた音よ\n\n仄かな調和のどこにも\n\n響はすでに帰らない\n\n色彩はなく\n\n無表情の翳がうかび\n\nしづかな匂ひがひろがり\n\n脱落するシヤツのあとには",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あやまちのごとく風が立つた\n\n柱廊はひきつり\n\n手すりはくづれ\n\n静止した平面は\n\n静止した曲面とともに\n\nいちぢるしく暮れた\n\nきびしく遅速をかぞへる\n\n時差のそとに\n\n屹立する実体もまた",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ひとつの影像である\n\n壊れた通路を水がながれ\n\n扉や支柱の倒れるなかに\n\nその階段はどこへ続いてゐるのか\n\n鈍い光の輪につづられて\n\n果はみえない\n\nだがその一角は墜ちた\n\n深い空間をまたぎ\n\nおびただしい車輪は戻つてきた",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "そしておまへの道を走つてゐる\n\n放らつな円心に\n\n廻転するおまへの声がきこえる\n\nおまへとは誰か\n\n強烈に踏みにじられた地域に\n\nいつはりのごとく風が立ち\n\n振動だけが支へてゐる\n\n眼も肩もない\n\n幻の街よ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "かぞへきれない壁や腕椅子は\n\n悲痛によじれ\n\n水平のまま沈んでいつただらう",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

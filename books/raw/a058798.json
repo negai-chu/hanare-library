@@ -1,0 +1,48 @@
+{
+  "id": "a058798",
+  "title": "歓喜",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "歓喜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "歓喜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "思っただけでも胸がおどる\n\n裸一貫のわたしらが堂々と乗りこんでゆき\n\nおお\n\nこのわたしら\n\nわたしらのタコだらけの手\n\n真黒に焼けたおでこ\n\nただ一つの心臓\n\n二本の足\n\n二本の腕に",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あらゆる権力と最上の美しさを打ちたてる日\n\n働いて笑える\n\n働いて肥える\n\nおお\n\nその日、その世界よ\n\n思っただけでも胸がおどる",
+      "characters": 65,
+      "ruby": []
+    }
+  ]
+}

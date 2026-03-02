@@ -1,0 +1,48 @@
+{
+  "id": "a055894",
+  "title": "倦怠者の持つ意志",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "倦怠者の持つ意志",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "倦怠者の持つ意志",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　タタミの目\n\n時計の音\n\n一切が地に落ちた\n\nだが圧力はありません\n\n舌がアレました\n\nヘソを凝視めます\n\n一切がニガミを帯びました\n\nだが反作用はありません\n\n此の時",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "夏の日の海が現はれる！\n\n思想と体が一緒に前進する\n\n努力した意志ではないからです",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

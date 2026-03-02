@@ -1,0 +1,48 @@
+{
+  "id": "a053828",
+  "title": "蚊遣火",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蚊遣火",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 29,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蚊遣火",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　厩のねわらを\n\nかへたあと\n\n庭に蚊遣火\n\nたきました\n\n弟ねかして\n\n母さんは\n\nそつと　となりへ\n\n風呂もらひ\n\n宿題してゐる",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "まどのそと\n\n遠くで花火の\n\n消える音",
+      "characters": 19,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a045148",
+  "title": "芝の芽",
+  "author": "土田耕平",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "芝の芽",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "芝の芽",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "芝の芽の萌えるころは\n\nふるさとの丘を思ひだす\n\nゆるやかにふわふわと雲の浮かんだ\n\nあの丘山を\n\n犬ころが走り\n\n凧があがり\n\nぼくらは寝そべつてゐたつけが\n\n「どこへ行かうかな」\n\n「大きくなつたら」",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "「海へ――空へ――遠いところへ――」\n\n誰やかれやみんな叫びあつた――\n\n芝の芽の萌えるころは\n\nふるさとの丘を思ひだす\n\nゆるやかにふわふわと雲の浮んだ\n\nあの丘山を\n\nああ誰もかれも\n\nみんな大きくなつただらうな",
+      "characters": 108,
+      "ruby": []
+    }
+  ]
+}

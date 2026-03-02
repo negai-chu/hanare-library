@@ -1,0 +1,42 @@
+{
+  "id": "a058744",
+  "title": "鴨　三",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鴨　三",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 28,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鴨　三",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　その顏が　重くなる　睡くなる\n\n鴨はそれを　翼の下にしまひこむ\n\nその上に　雪がふる\n\n夢の國への　小包",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a053999",
+  "title": "御国のために",
+  "author": "根岸正吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "御国のために",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "御国のために",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　歩いて帰れ、歩いて帰れ、\n\n忠君愛国者よ。\n\n東京から故郷まで一百三十里\n\nお前は稼いだ、働いた。\n\n熱心に着実に、ほめらるる迄、\n\n海軍将校なる主人のために。\n\n主婦のために。\n\n男爵家のために。\n\nお前は徴兵検査のために帰郷する、",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "その旅費をもたぬ。\n\n御国の為だ。\n\n国民の義務だ。\n\n歩いて帰れ、歩いて帰れ\n\n忠君愛国者よ\n\n東京から故郷まで一百三十里。\n\n（発表誌不詳　『どん底で歌う』を底本）",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

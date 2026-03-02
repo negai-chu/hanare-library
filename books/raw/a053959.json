@@ -1,0 +1,60 @@
+{
+  "id": "a053959",
+  "title": "作業機械",
+  "author": "細井和喜蔵",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "作業機械",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 92,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "作業機械",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "材料は金属と木と革――有抵抗の物体――\n\n構造は胴と軸と車と槓杆と発条\n\nこいつには脳味噌がないんだ！\n\nこいつには性慾がないんだ！\n\nだが\n\n月と日が惚れ合って\n\n互に近づいて遂に性交したとき\n\n流れ出た汚物の凝固したもの　石炭！\n\n石炭は思い出から燃え上る　天然勢力！",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "機械は動く\n\n調革《ベルト》…………調車《ブウレイ》\n\n　　　　　　軸《シャフト》\n\n　　　　　　歯車《ギイヤ》\n\n　　　　　　偏心輪《エクセントリック》\n\n　　　　　　槓杆《レーバ》……発条《スプリング》\n\n回転　衝程　弧動――昇降\n\n機械はまわる\n\n　晩から朝まで　朝から晩まで",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "こいつを人間が使ってだ\n\n人々がその慾望を楽々と慰められると思ったが\n\n奴等　金持がにっこりと微笑したに止って\n\n機械の運転者――職工――は機構の一部となってしまった\n\n機械的労働\n\n　十二時間\n\n　十八時間\n\n　徹夜！\n\n寝ぼけてしまった職工",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "だが機械は疲れず高速度回転！\n\nあっ？　機械が腕を喰った\n\n　血……血……血………\n\n（『鎖』一九二三年七月号に発表）",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053593",
+  "title": "若き尼たちの歩む路",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "若き尼たちの歩む路",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 73,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "若き尼たちの歩む路",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "この列をなす少女らのため、\n\nうるはしき都會の窓ぞひらかるる、\n\nみよいまし遠望の海は鳴りいで、\n\nなめいしを皿はすべりて、\n\nさかづきは歩道にこぼれふんすゐす。\n\nこはよき朝のめざめなり、\n\nをとめらのさんたまりやの祈祷なり、\n\nみな少女、\n\n素足あしなみそろへ行く手に、",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ちよこれいと銀紙に卷かれ、\n\nくだものは竝木の柵に飾られぬ。\n\nああ、いづこぞ夢の序樂のぽろねえず、\n\n會社は河岸に涙をひたし、\n\n花店の飾窓つゆにぬれたり、\n\nしばしまたつりがね鳴らむ、\n\nあさまだきにほふ葉影に、\n\nしろじろとかざし泳がせ、\n\nこの列をなす少女らあゆむ。",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "――樂曲風、情景詩――",
+      "characters": 11,
+      "ruby": []
+    }
+  ]
+}

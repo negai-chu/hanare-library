@@ -1,0 +1,94 @@
+{
+  "id": "a056504",
+  "title": "詩二つ",
+  "author": "梶井基次郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 8
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "詩二つ",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "秘やかな楽しみ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "秋の日の下",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 8,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "詩二つ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "秘やかな楽しみ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "一顆《いっか》の檸檬《レモン》を買い来て、\n\nそを玩《もてあそ》ぶ男あり、\n\n電車の中にはマントの上に、\n\n道行く時は手拭《タオル》の間に、\n\nそを見　そを嗅げば、\n\n嬉しさ心に充つ、\n\n悲しくも友に離りて\n\nひとり　唯《ただ》独り　我が立つは丸善の洋書棚の前、\n\nセザンヌはなく、レンブラントはもち去られ、",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "マチス　心をよろこばさず、\n\n独り　唯ひとり、心に浮ぶ楽しみ、\n\n秘やかにレモンを探り、\n\n色のよき　本を積み重ね、\n\nその上にレモンをのせて見る、\n\nひとり唯ひとり数歩へだたり\n\nそれを眺む、美しきかな、\n\n丸善のほこりの中に、一顆のレモン澄みわたる、\n\nほほえまいて　またそれをとる、冷さは熱ある手に快く",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "その匂いはやめる胸にしみ入る、\n\n奇しきことぞ　丸善の棚に澄むはレモン\n\n企らみてその前を去り\n\nほほえみて　それを見ず、",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "秋の日の下",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "秋の日の下、物思いの午後、芝生の上。\n\n取り出せるは、皺《しわ》になれる敷島の袋、\n\n残れる一本を、くわえて、火を点ず、\n\n残れる火を、さて敷島の袋にうつす、\n\n秋の日の下、物思いのひるさがり、芝生の上、\n\nめらめらと、袋は燃ゆらし　灰となりゆく、\n\nあわれ、我が肺もこの袋の如、\n\n日に夜に蝕まれゆくか、\n\n秋の日の下、くゆらす煙草のいとからし。",
+      "characters": 174,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "（大正十一年）",
+      "characters": 7,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a045109",
+  "title": "輪まはし",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "輪まはし",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "輪まはし",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ついぢの\n\n椿の花のした、\n\nここから\n\n輪まはし\n\n　　かけてつた。\n\n木ぎれで\n\nひいた横の線、\n\nここから\n\nからから",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　かけてつた。\n\n帽子に\n\n椿の花插して、\n\nぬくとい\n\n垣根に\n\n　　そつてつた。\n\nついぢに\n\n凭《もた》れてあつち見て、\n\nあの子が",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ひとり\n\n　　まつてゐる。",
+      "characters": 13,
+      "ruby": []
+    }
+  ]
+}

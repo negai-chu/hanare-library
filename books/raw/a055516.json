@@ -1,0 +1,54 @@
+{
+  "id": "a055516",
+  "title": "夢と幻を見る家",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夢と幻を見る家",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夢と幻を見る家",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "寝室とも書斎とも名附け難い私の室\n\nここで私は私の好きな事をする\n\n私の家は小さな家である\n\n北国のヌタプカムシペ山脈の畔である\n\n上川平野の隅であるチュウベツを言う\n\nアイヌ人種が五十年の昔\n\n鹿を追い熊を追い\n\n狐を追った処である\n\n今まだ太古の伝説鮮やかなる",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "殖民地の一小邑である\n\n私はここに住んでいる\n\nそして小さな安らかな新しい材木の香のする家に\n\n父母があたえた、ささやかな幸福を\n\nひたぶるに恋して\n\nゆっくりと味わっている\n\nああ私のささやかな小さな家よ\n\nここは私の父母達が作って呉れた家なんだ\n\n私はここで夢を見る",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "幻を見る",
+      "characters": 4,
+      "ruby": []
+    }
+  ]
+}

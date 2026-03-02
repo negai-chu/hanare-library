@@ -1,0 +1,48 @@
+{
+  "id": "a051314",
+  "title": "桑名の駅",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "桑名の駅",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 93,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "桑名の駅",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　桑名の夜は暗かつた\n\n蛙がコロコロ鳴いてゐた\n\n夜更の駅には駅長が\n\n綺麗な砂利を敷き詰めた\n\nプラットホームに只《ただ》独り\n\nランプを持つて立つてゐた\n\n桑名の夜は暗かつた\n\n蛙がコロコロ泣いてゐた\n\n焼蛤貝《やきはまぐり》の桑名とは",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "此処のことかと思つたから\n\n駅長さんに訊《たづ》ねたら\n\nさうだと云つて笑つてた\n\n桑名の夜は暗かつた\n\n蛙がコロコロ鳴いてゐた\n\n大雨《おほあめ》の、霽《あが》つたばかりのその夜《よる》は\n\n風もなければ暗かつた\n\n（一九三五・八・一二）\n「此の夜、上京の途なりしが、京都大阪間の不通のため、臨時関西線を運転す」",
+      "characters": 157,
+      "ruby": []
+    }
+  ]
+}

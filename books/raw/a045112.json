@@ -1,0 +1,48 @@
+{
+  "id": "a045112",
+  "title": "沼の家",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "沼の家",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "沼の家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "母さんお窓をしめましよう、\n\nもう郭公《くわくこう》鳥は鳴きませぬ。\n\n林の虹も消えました、\n\n沼には靄がおりました。\n\n母さんお窓をしめましよう、\n\n風がひえひえいたします。\n\nもうすぐ夜が来るのです。\n\nもう郭公鳥も鳴きませぬ。\n\n病気がおもるといけませぬ。",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "母さんお窓をしめましよう、\n\nランプに灯《あかり》もいれましよう。",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

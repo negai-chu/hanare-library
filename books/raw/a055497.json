@@ -1,0 +1,42 @@
+{
+  "id": "a055497",
+  "title": "四行詩",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "四行詩",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "四行詩",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "琺瑯の野外の空に　明けの鳥一つ\n\n阿爾加里性水溶液にて　この身を洗へ\n\n蟷螂は眼《まなこ》光らせ　露しげき叢を出づ\n\nわが手は　緑玉製 Isis《イジス》 の御《み》膝の上に",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

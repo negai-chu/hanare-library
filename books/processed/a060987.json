@@ -1,0 +1,54 @@
+{
+  "id": "a060987",
+  "title": "許南麒の詩のように",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "許南麒の詩のように",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "許南麒の詩のように",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「詩とたたかいとは\n\nもはや　朝鮮において　区別出来ず\n\nたたかいと　詩とは\n\nもはや　朝鮮では二つのものではない\n\n若し朝鮮の詩人の名のすべてを聞く人\n\n愛国者の名を聞く人があったら\n\nすべての朝鮮の人民の名を\n\nのこらず　挙げよう」\n　　（許南麒の詩）\n\n我がサークルの仲間たち",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　田をおこす　土方をしている\n\n洋服屋へ　通うている\n\n下駄屋　古着屋\n\n奨学資金で　大学にいるもの\n\nそして　刑務所にいる　我がサークルの仲間たち\n\n我らの机とペン\n\nペンも　机も　ありやなし\n\n出がけに走り書きする　立て膝で\n\n夜　ねむりをぬすんで書く",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ガリバンを刷る　ツバメのように\n\n詩と　生活と　たたかいと\n\nわれわれにも　区別がない\n\n詩と生活と　たたかいと　手をつかみあって進んでゆく\n\n人民の胸と手と\n\n許南麒の詩のように\n\n朝鮮人のように人民の胸と手に",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053351",
+  "title": "雹雲砲手",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雹雲砲手",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雹雲砲手",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "なべて葡萄に花さきて\n\n蜂のふるひのせはしきに\n\nをちこち青き銅液の\n\n噴霧にひるは来りけり\n\nにはかに風のうち死して\n\nあたりいよよにまばゆきを\n\n見ずやかしこの青きそら\n\n友よいざ射て雹の雲",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

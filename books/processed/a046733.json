@@ -1,0 +1,42 @@
+{
+  "id": "a046733",
+  "title": "ペンとインキ",
+  "author": "土原耕作",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ペンとインキ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 104,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ペンとインキ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ペン先がインキにこう言いました。\n\n「お前位イヤなものはない。私がいくら金の衣服を着ていても、お前はすぐに錆さして役に立たなくしてしまう。私はお前みたいなもの大嫌いさ」\n\n　インキはこう答えました。\n\n「ペンは錆るのが役目じゃない。インキはなくなるのがつとめじゃない。一緒になって字を書くのが役目さ。錆るのがイヤなら鉄に生まれて来ない方がいいじゃないか。インキがイヤなら何だってペンに生まれて来たんだえ」",
+      "characters": 203,
+      "ruby": []
+    }
+  ]
+}

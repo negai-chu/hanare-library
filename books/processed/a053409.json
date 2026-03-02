@@ -1,0 +1,42 @@
+{
+  "id": "a053409",
+  "title": "釜石よりの帰り",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "釜石よりの帰り",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "釜石よりの帰り",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かぎりなく鳥はすだけど\n\nこゝろこそいとそゞろなれ\n\n竹行李小きをになひ\n\n雲しろき飯場を出でぬ\n\nみちのべにしやが花さけば\n\nかうもりの柄こそわびしき\n\nかすかなる霧雨ふりて\n\n丘はたゞいちめんの青\n\n谷あひの細き棚田に積まれつゝ廐肥もぬれたり",
+      "characters": 124,
+      "ruby": []
+    }
+  ]
+}

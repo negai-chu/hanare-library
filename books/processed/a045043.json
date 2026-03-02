@@ -1,0 +1,48 @@
+{
+  "id": "a045043",
+  "title": "田圃にて",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "田圃にて",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "田圃にて",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　たあんき、ぽーんき\n\n　　たんころりん\n\nたにしをつツつく鴉《からす》どん\n\nはるのひながのたんぼなか\n\n　たあんき、ぽーんき\n\n　　たんころりん\n\nわれもひとも生きもんだ\n\nあんまりひどくしなさんな\n\n　たあんき、ぽーんき",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　たんころりん\n\n鴉はきいても知らぬ顔\n\nはるのひながのたんぼなか",
+      "characters": 34,
+      "ruby": []
+    }
+  ]
+}

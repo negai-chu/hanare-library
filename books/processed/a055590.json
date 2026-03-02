@@ -1,0 +1,48 @@
+{
+  "id": "a055590",
+  "title": "光よあれ",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "光よあれ",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "光よあれ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　常夜《とこよ》の世界に生命ありて\n\nうごめける時\n\n光りは東方より、忍びやかに来りて\n\n輝き初め\n\n万物その己の存在を認め\n\n歓喜の頂点に至れるは\n\nいかに至上の盛事なりしか\n\n我等は光りの海に泳げる魚達なり\n\n光りなくして",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "死を思う生命なり\n\n光りよあれ、而して\n\n永久に我等を愛でよ……",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

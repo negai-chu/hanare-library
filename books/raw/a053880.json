@@ -1,0 +1,42 @@
+{
+  "id": "a053880",
+  "title": "椰子と黒ん坊",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "椰子と黒ん坊",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "椰子と黒ん坊",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "黒ん坊たちは椰子の實を落します\n\n青い湖水に月が降りてゐます\n\n椰子の實が湖水に落ちて\n\n月がこはれます\n\n花粉になつて散ります\n\n黒ん坊は月から生れたでせう\n\n青い光をきてゐます\n\n黒ん坊たちは椰子の實を落します",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

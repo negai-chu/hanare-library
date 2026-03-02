@@ -1,0 +1,66 @@
+{
+  "id": "a060981",
+  "title": "妹",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "妹",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 117,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "妹",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "妹は出かけて行った\n\n一か月に一回の面会を　三か月のばして　やっと出かけて行った\n\nタンスの底の　しめっぽくなっているきものを引っぱり出し\n\n右と左のびっこの足袋をはいて――\n\n妹はモチ米を一斗さげて行った\n\n米を代えて汽車賃をつくるためだった\n\n停車場　汽車の中　歩く道にもヤミ米テキハツの警官が立っている\n\n妹は\n\n一斗の米をふた包みにし、軽い風呂しき包みにみせかけ奥さん風に停車場を降りた",
+      "characters": 197,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いま降りた乗客に　むらがるようにケイカンが飛びかかっていた\n\nケイカンは妹にもとびついた　ケイカンにつれられ\n\n拇印を押し　妹はモチ米一斗をとりあげられた\n\n彼女は目まいをしながら外へ出た\n\n電車をのりかえ\n\n妹は\n\n刑務所の門を入った\n\n面会室に夫はほほえんで立っていた\n\n彼女は唇のふるえるのをつよくおさえ　目を上げて夫を見た",
+      "characters": 165,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "百日目にみる夫のかおは青ぶくれて　目がかすんでいるように\n\nそして\n\n青ぶくれたかおが笑っている\n\n夫はいった\n\n汽車賃ができたのか？\n\n米は大分とれたか？\n\n彼女はほほえもうとした\n\n夫は笑っている　青ぶくれて\n\n青ぶくれて　風せん玉をはり",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "壁の中に一人でいる\n\n囚われて三度目の冬を控え\n\nはりめぐらした　とりでの中に\n\n夫は笑っている\n\nどんよりした目を輝かすように――\n\n稲を刈り　稲をしき\n\nモミをすり\n\n百日を着たままでねむり\n\nヒビ　アカギレに爪は割れ",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "みのりのすくないモチ米を　売るために作り\n\n売って汽車賃をつくろうとし\n\n百日を待ちつつ働き\n\n正月のモチ米をへらして\n\nそれで子供のシャツ　くつ下\n\nアメ玉の一つを買わんと\n\n夏の頃より\n\n百日を待ちつつ働き――",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

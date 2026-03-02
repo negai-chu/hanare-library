@@ -1,0 +1,42 @@
+{
+  "id": "a055551",
+  "title": "立すくむ",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "立すくむ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 110,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "立すくむ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私はいろいろな過去の日記や書きちらしや、あちこちの新聞雑誌へ発表したものや、その折々の切抜や、自分を育ててゆくための材料を古い家に置きっきりだった、転々と私は歩いた、私はそれらに目を通さなかった、私の過去は忘れ去られつつあった\n\n私は常にぽっかりと新らしい場所へ新らしい考えの中へ出て、そこから短かいものだけを、しかも又その場その場へ置いて歩いた、だから私は何年かぶりで病にたおれて古い家へかえりその古いものを見て立すくんだのである。",
+      "characters": 217,
+      "ruby": []
+    }
+  ]
+}

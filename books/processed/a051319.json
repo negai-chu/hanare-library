@@ -1,0 +1,48 @@
+{
+  "id": "a051319",
+  "title": "死別の翌日",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "死別の翌日",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 113,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "死別の翌日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　生きのこるものはづうづうしく、\n\n死にゆくものはその清純さを漂はせ\n\n物云ひたげな瞳を床《ゆか》にさまよはすだけで、\n\n親を離れ、兄弟を離れ、\n\n最初から独りであつたもののやうに死んでゆく。\n\nさて、今日はよいお天気です。\n\n街の片側は翳《かげ》り、片側は日射しをうけて、あつたかい\n\nけざやかにもわびしい秋の午前です。\n\n空は昨日までの雨に拭はれて、すがすがしく、",
+      "characters": 184,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "それは海の方まで続いてゐることが分ります。\n\nその空をみながら、また街の中をみながら、\n\n歩いてゆく私はもはや此の世のことを考へず、\n\nさりとて死んでいつたもののことも考へてはゐないのです。\n\nみたばかりの死に茫然《ばうぜん》として、\n\n卑怯にも似た感情を抱いて私は歩いてゐたと告白せねばなりません。",
+      "characters": 150,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a048217",
+  "title": "海島冒険奇譚　海底軍艦",
+  "author": "吉井幸蔵",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海島冒険奇譚　海底軍艦",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 139,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海島冒険奇譚　海底軍艦",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "方今宇内の列國爭ふて海軍海事の發達に汲々たるは何ぞや、他なし、制海の權を握りて、國家の威福を伸張せんとするにあり、思ふに帝國は世界無二の海國なり、國威を宣揚し、國益を増進せんと欲せば、宜しく海上の權力を收め、海運の發達を計り、貿易の興隆を勉めざる可からず、而して、此目的を達するの道、國民の海事思想を奬勵するより急なるはなし、頃日、押川氏一書を著し題して海底軍艦と云ふ、其着想奇逸にして、結構また雄偉、閲讀の際、自ら海事思想を養ひ、憂國の精神を皷舞するに足るものあり、余深く其發刊を喜び、一言を記して、之が序と爲す。\n\n伯爵　吉井幸藏",
+      "characters": 267,
+      "ruby": []
+    }
+  ]
+}

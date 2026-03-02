@@ -1,0 +1,42 @@
+{
+  "id": "a054258",
+  "title": "漁村",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "漁村",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "漁村",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "波がものを言《い》ふやうになつてから\n\n誰も姿《すがた》を見せない砂浜に\n\n抵抗する事を知らない貝殻《かひがら》のやうな女が\n\n私生児《ないしよご》を抱いて立つてゐた\n\nそれは――生きる為《ため》には、生きる為には\n\n　　　　　泥蟹《どろがに》をまで食べなければならぬ\n\n　　　　　悲しい漁村の一つの姿である\n\n夢を見ることのゆるされない漁村の娘は\n\n今日泥蟹の殻ばかりを捨てに行くのだつた",
+      "characters": 195,
+      "ruby": []
+    }
+  ]
+}

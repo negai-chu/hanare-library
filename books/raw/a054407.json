@@ -1,0 +1,42 @@
+{
+  "id": "a054407",
+  "title": "或る月夜に",
+  "author": "上里春生",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "或る月夜に",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "或る月夜に",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おほぞらは、\n\n紫暗の海と澄み渡りて、\n\n真珠の群は、きらきらと、\n\n円けき海月　光り流るゝ。\n\n芋の葉むらがりむらがり、\n\nぬかづける野辺に、\n\n貧しき樹立は微にゆら／＼\n\n葉末のしたゝらすひかりの雫\n\n静かに　甘き夢を　つゞれる。",
+      "characters": 117,
+      "ruby": []
+    }
+  ]
+}

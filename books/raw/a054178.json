@@ -1,0 +1,42 @@
+{
+  "id": "a054178",
+  "title": "『ろまん灯籠』序",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『ろまん灯籠』序",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『ろまん灯籠』序",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "所收――「懶惰の歌留多」「古典風」「ろまん燈籠」「貨幣」「隨筆―海・津輕地方とチエホフ・返事」\n\n　この集には、あまい、ロマンチツクとでもいつたやうな匂ひの作品を選んでみた。",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

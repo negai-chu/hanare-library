@@ -1,0 +1,48 @@
+{
+  "id": "a051328",
+  "title": "夏は青い空に……",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夏は青い空に……",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夏は青い空に……",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夏は青い空に、白い雲を浮ばせ、\n\n　わが嘆きをうたふ。\n\nわが知らぬ、とほきとほきとほき深みにて\n\n　青空は、白い雲を呼ぶ。\n\nわが嘆きわが悲しみよ、かうべを昂《あ》げよ。\n\n　――記憶も、去るにあらずや……\n\n湧き起る歓喜のためには\n\n　人の情けも、小さきものとみゆるにあらずや\n\nああ、神様、これがすべてでございます、",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　尽すなく尽さるるなく、\n\n心のままにうたへる心こそ\n\n　これがすべてでございます！\n\n空のもと林の中に、たゆけくも\n\n　仰《あほ》ざまに眼《まなこ》をつむり、\n\n白き雲、汝《な》が胸の上を流れもゆけば、\n\n　はてもなき平和の、汝がものとなるにあらずや",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

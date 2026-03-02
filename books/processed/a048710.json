@@ -1,0 +1,42 @@
+{
+  "id": "a048710",
+  "title": "現実",
+  "author": "田山花袋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "現実",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "現実",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　お互に粗い感情や粗い理窟で喧嘩したり議論したりしても仕方がない。現實は複雜で、細微で、機能的で、いつも深い心理がついて廻つて居る。",
+      "characters": 66,
+      "ruby": []
+    }
+  ]
+}

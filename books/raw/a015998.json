@@ -1,0 +1,42 @@
+{
+  "id": "a015998",
+  "title": "気になったこと",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "気になったこと",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "気になったこと",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "二月号をひっくりかえして見ていて気になったことお耳にいれます。（一）カットがまことに少く淋しいこと。（二）題がどれも原形で文学にまでなっていない題であることなどです。これは次号予告を見ても強く感じました。文学雑誌（ほかの）は書く人も文学の空気を考えてつけるのでしょうからわたしたちの雑誌にもやっぱりわたしたちの文学としての文学性のある題をつけて貰うようにしてはいかがでしょうか。\n\n〔一九五〇年六月〕",
+      "characters": 200,
+      "ruby": []
+    }
+  ]
+}

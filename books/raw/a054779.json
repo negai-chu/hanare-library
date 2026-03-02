@@ -1,0 +1,60 @@
+{
+  "id": "a054779",
+  "title": "白い雲",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "白い雲",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "白い雲",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "満州というと\n\nやっぱし遠いところ\n\n乾いた砂が　たいらかに\n\nどこまでもつづいていて\n\n壁の家があったりする\n\nそのどこかの町の白い病院に\n\n熱で干いた唇が\n\n枯草のように\n\n音もなく",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "山田のことばで\n\nいきをしていたのか\n\nゆでたまごのように\n\nあつくなった眼と\n\n天井の\n\nちょうど中ごろに\n\n活動写真のフィルムのように\n\n山田の景色がながれていたのか\n\nあゝその眼に",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "黒いカーテンが下り\n\nその唇に\n\nうごかない花びらが\n\nまいおちたのか\n\n楽譜のまいおちる\n\nけはいにもにて\n\n白い雲が\n\n秋の空に\n\n音もなく",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "とけて\n\nゆくように",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

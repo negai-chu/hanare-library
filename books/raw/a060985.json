@@ -1,0 +1,42 @@
+{
+  "id": "a060985",
+  "title": "君すでに",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "君すでに",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "君すでに",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "君　すでに半身なり\n\n君　すでに片足なり\n\n二つの命　持ち寄りて\n\n全き一つでありし　夫《つま》と君\n\n君が夫\n\n戦線に散りたり\n\n君が命　割れたるなり\n\n君なおも　家と裔《こ》を守るなり",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a058754",
+  "title": "扁舟",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "扁舟",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 28,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "扁舟",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "扁舟を湖心に泛べ\n\n手　艪を放ち\n\n箕坐して　しばしもの思ふ――\n\n願くば　かくてあれかし　わが詩《うた》の境",
+      "characters": 55,
+      "ruby": []
+    }
+  ]
+}

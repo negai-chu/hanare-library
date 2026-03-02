@@ -1,0 +1,48 @@
+{
+  "id": "a055487",
+  "title": "恥の歌",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "恥の歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "恥の歌",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "Honte《オント》 !  honte《オント》 !\n\n眼玉の　蜻蛉《とんぼ》\n\nわが身を　攫《さら》へ\n\nわが身を　啖《くら》へ\n\nHonte《オント》 !  honte《オント》 !\n\n燃えたつ　焜爐《こんろ》\n\nわが身を　焦がせ\n\nわが身を　鎔かせ\n\nHonte《オント》 !  honte《オント》 !",
+      "characters": 155,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "干割《ひわ》れた　咽喉《のんど》\n\nわが身を　涸らせ\n\nわが身を　曝らせ\n\nHonte《オント》 !  honte《オント》 !\n\n　おまへは\n\n　　　　泥だ",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

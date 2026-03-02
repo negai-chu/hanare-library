@@ -1,0 +1,42 @@
+{
+  "id": "a053444",
+  "title": "〔島わにあらき潮騒を〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔島わにあらき潮騒を〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔島わにあらき潮騒を〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　島わにあらき潮騒を\n\nうつつの森のなかに聴き\n\n羊歯の葉しげき下蔭に\n\n青き椿の実をとりぬ\n\n　　南の風のくるほしく\n\n　　波のいぶきを吹き来れば\n\n　　百千鳥　すだきわぶる\n\n三原の山に燃ゆる火の\n\nなかばは雲に鎖されぬ",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

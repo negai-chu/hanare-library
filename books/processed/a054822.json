@@ -1,0 +1,54 @@
+{
+  "id": "a054822",
+  "title": "冬に死す",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬に死す",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬に死す",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　蛾が\n\n静かに障子の桟《さん》からおちたよ\n\n死んだんだね\n\nなにもしなかったぼくは\n\nこうして\n\nなにもせずに\n\n死んでゆくよ\n\nひとりで\n\n生殖もしなかったの",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "寒くってね\n\nなんにもしたくなかったの\n\n死んでゆくよ\n\nひとりで\n\nなんにもしなかったから\n\nひとは　すぐぼくのことを\n\n忘れてしまうだろう\n\nいいの　ぼくは\n\n死んでゆくよ",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ひとりで\n\nこごえた蛾みたいに",
+      "characters": 15,
+      "ruby": []
+    }
+  ]
+}

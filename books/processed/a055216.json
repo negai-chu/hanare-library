@@ -1,0 +1,42 @@
+{
+  "id": "a055216",
+  "title": "あすは、明日は、",
+  "author": "ツルゲーネフイワン",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あすは、明日は、",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 160,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あすは、明日は、",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　いかに、わが世の、あだなるや、空《くう》なるや、うつろなるや。げに、人間のあとかたの覺束《おぼつか》なくて、數少なき。徒《いたづ》らなるは月日なり。\n\n　しかも萬人は生を惜む。いたく、性命を尊みて、これより、我より、當來より、なに物か、えまほしく、求めてやまず……噫《あゝ》、人は、當來に、豐なる賚《たまもの》を望む。\n\n　さはれ、なじかは、思はざる、當來また過去に似たらむを。\n\n　げに、思はざるなり。考ふるを好まざるなり。此事眞に善し。\n\n『さて、あすは、明日は！』人みな、この『あすは』をもて、自ら慰め、終におくつきの道に降らむ。\n\n　而して、ひとたび、墳塋《おくつき》のうちに入らば、人の思はおのづから已《や》まむ。",
+      "characters": 313,
+      "ruby": []
+    }
+  ]
+}

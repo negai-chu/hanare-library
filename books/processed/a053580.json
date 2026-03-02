@@ -1,0 +1,42 @@
+{
+  "id": "a053580",
+  "title": "春日",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春日",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春日",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　戀魚の身こそ哀しけれ、\n\nいちにちいよすにもたれつつ、\n\nひくくかなづるまんどりん、\n\n夕ぐれどきにかみいづる、\n\n柴草の根はうす甘く、\n\nせんなや出窓の菫さへ、\n\n光り光りてたへがたし。",
+      "characters": 95,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054169",
+  "title": "『姥捨』あとがき",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『姥捨』あとがき",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 138,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『姥捨』あとがき",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　所收――「葉」「列車」「I can speak」「姥捨」「東京八景」「みみづく通信」「佐渡」「たづねびと」「千代女」\n\n　この短篇集を通讀なさつたら、私の過去の生活が、どんなものであつたか、だいたい御推察できるやうな、そのやうな意圖を以て編んでみた。ひどい生活であつたが、しかし、いまの生活だつてひどいのである。さうして、これから、さらにひどい事になりさうな豫感さへあるのである。\n\n　卷末の「千代女」は、私の生活を書いたものではないが、いまの「文化流行」の奇現象に觸れてゐるやうにも思はれるので、附け加へて置いた。\n\n昭和二十二年早春",
+      "characters": 269,
+      "ruby": []
+    }
+  ]
+}

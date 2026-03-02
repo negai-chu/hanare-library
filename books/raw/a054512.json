@@ -1,0 +1,54 @@
+{
+  "id": "a054512",
+  "title": "坂",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "坂",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "坂",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "神無月《かみなづき》、日は淡々《あは／＼》と\n\n夕ぐれの雲ににほへば、\n\n眼路《めぢ》ひくき彼方《かなた》に薄《うす》れ\n\nあはれなる遠樹《えんじゆ》ぞ見ゆる。\n\n畦《あぜ》をゆく斑《まだら》の牛と\n\n黄牛《あめうし》は声も慵《ものう》く、\n\n今は皆刑《しおき》の場《には》に\n\n皮剥《は》がれ紅く伏しなむ、\n\nかく思ひ定めし如く",
+      "characters": 165,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "とぼとぼと霧にまぎれぬ。\n\n素枯野《すがれの》のあなた、沼尻《ぬじり》の、\n\n荻《をぎ》すすき折れ伏す所、\n\nああ如何に髑髏《どくろ》を洗ふ\n\n冬の水音して落ちむ。\n\nひえひえと身に泌む寒さ、\n\nわれは今いづこ歩むや、\n\nふと思ふ、ああ人の世も\n\nここにして終極《はて》にかあらむ。",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "下り坂をぐらくなりて\n\n見るかぎり煙うづまく。",
+      "characters": 23,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054262",
+  "title": "うし",
+  "author": "濤音",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "うし",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 101,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "うし",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お冠船に帆をおろすさわぎはやんで、\n\nはやお主加那志前《しゆがなしいめへ》　お迎へか。\n\nあれ楽《がく》の音がかすかに微かに浮んでくる\n\nどれ黒髪□□《（不明）》梳さなをさう。\n\n黄金三つ星てり渡る北京《フイキン》の都。\n\nそこからおす唐　按司すゐ、\n\nまばゆいばかりの尊いみ姿を\n\n今日こそは妾もをがみにいきます。\n\n島には雲わき燕がすぢかひに飛ぶ。",
+      "characters": 176,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鴛鴦のやうなお冠船はふわふわと\n\n湾内にねむつて濃い夢をむさぼる。\n\n森には福木　黄いなる花さく。\n\nお冠船をどりの日はいつごろか。\n\nうしイは夜もすがら胸にゑがいた。\n\nあてやかな若按司が紅《べに》ゝゆる振袖を、\n\nまたは女躍　役者かこまやかな足どりを",
+      "characters": 127,
+      "ruby": []
+    }
+  ]
+}

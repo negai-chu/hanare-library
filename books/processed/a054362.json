@@ -1,0 +1,66 @@
+{
+  "id": "a054362",
+  "title": "虚しい街",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "虚しい街",
+        "startPage": 1,
+        "endPage": 6
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "虚しい街",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　白亜の立体も\n\nひたむきな断面も\n\nせつない暗さの底へ沈みつつ\n\n沈みつつ\n\n翳に埋れ\n\n影に支へられ\n\nその階段はどこへ果ててゐるのか\n\nはかなさに立ちあがり\n\nいくたび踏んでみたことだらう",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "煙のある窓ちかく\n\n自ら扉はひらき\n\nそこに立ち去る気配もなかつた\n\n忘れられた木の椅子のほとりから\n\n哀れな水の匂ひがひろがり\n\n脱落するしやつのあとには\n\nあやまちのごとく風が立つた\n\nあのふしあはせな鳶色の時間には\n\n美しい車輪がしづかに動いて",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おまへも街をみてゐただらう\n\nためらひがちな跫音を待ちながら\n\n煤けたらむぷもひとつの灯をともし\n\nそしてやはらかに燃え\n\nまづしい家具の傍には\n\nうつとりするやうな記憶があつたと\n\nいまでは誰が信じ得よう\n\n倒れる音も　出てゆく音も\n\n遠い夕とどろきににて帰らないのか",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "歩かう\n\nどこかへ行かねばならぬ\n\n誰もみてゐない街角から\n\nむしろ佗しい風の方向へ\n\n実体のない街\n\n深い空間をまたぎ\n\nおびただしい車輪は戻つてきた\n\n壊れた通路を捉へ\n\n凍えた石畳を",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "踏みにじり走つてゐる\n\n放埓な円心から閃く\n\n炎や煙りの響きがきこえる\n\nはげしい振動のなかで\n\n何を考へようとしたのか\n\nあやまつておまへは倒れた\n\nかぞへきれない扉や支柱も\n\n悲痛によじれ\n\n水平のまま沈んでいつただらう",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a061068",
+  "title": "夜",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "足を伸ばす\n\n体の横に手を垂れて\n\n目を閉じる\n\nねむろうとして自分の呼吸を聞いている\n\nかならず闇がおそいかかる夜というもの\n\n夜\n\n夜はかならずきて\n\nわたしはかならずねむったにちがいなかった\n\n夜が来ればねむったであろう",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "そして夜\n\nねむれぬままにも\n\nねむったであろう\n\n五十年の美しい昼と夜\n\n一個の生きとし生きる者として\n\n春の花\n\n冬の雪にも\n\nお前はいたのか\n\nお前はいたのか",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "お前は赤ん坊でもあったのか\n\nあのようにも美しい\n\n桃のようでもあったのか\n\nいまねむろうとして\n\n夜の闇が\n\nいま　はじめて見るもののように冴えて来る",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

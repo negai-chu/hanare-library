@@ -1,0 +1,48 @@
+{
+  "id": "a055924",
+  "title": "（ダダイストが大砲だのに）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（ダダイストが大砲だのに）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（ダダイストが大砲だのに）",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ダダイストが大砲だのに\n\n女が電柱にもたれて泣いてゐました\n\nリゾール石鹸を用意なさい\n\nそれでも遂に私は愛されません\n\n女はダダイストを\n\n普通の形式で愛し得ません\n\n私は如何せ恋なんかの上では\n\n概念の愛で結構だと思つてゐますに\n\n白状します――",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "だけど余りに多面体のダダイストは\n\n言葉が一面的なのでだから女に警戒されます\n\n理解は悲哀です\n\n概念形式を齎しません",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

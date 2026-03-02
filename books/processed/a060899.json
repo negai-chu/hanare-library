@@ -1,0 +1,48 @@
+{
+  "id": "a060899",
+  "title": "地なる響",
+  "author": "岩野泡鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "地なる響",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "地なる響",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　暗き　浜辺　を　たどり来たり、\n\n水際《みぎは》　真近く　砂　を　握る。\n\n握る　真砂《まさご》　の　もろき　うちに、\n\n闇の力　は　その尾　振ひ、\n\n手　をば　つたひて　胸に　響く。\n\n君よ、御空　の　星　を　説きて、\n\n地なる　ひゞき　を　忘る勿《なか》れ、\n\n遠き　深み　の　浪《なみ》　は　寄せて、\n\n幾重　打ちては　畳む　砂　ぞ。",
+      "characters": 171,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "たとへ　もろく　ぞ　砕け去りて、\n\n手　には　残れる　形　なくも、\n\n永劫《とは》　の　憂ひ　を　布《し》くは　如何に。\n\n暗き　浜辺　に　砂　を　握り、\n\n君に　云ふべき事　ぞ　多き。",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

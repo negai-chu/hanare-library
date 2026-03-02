@@ -1,0 +1,42 @@
+{
+  "id": "a054805",
+  "title": "モオツアルトのシンホニイ四〇番",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "モオツアルトのシンホニイ四〇番",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "モオツアルトのシンホニイ四〇番",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　大名行列の\n\nえいほ　えいほ\n\n殿\n\n凱風《がいふう》快晴\n\n北斎《ほくさい》の赤富士にござりまする",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

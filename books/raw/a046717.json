@@ -1,0 +1,42 @@
+{
+  "id": "a046717",
+  "title": "医者と病人",
+  "author": "香倶土三鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "医者と病人",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "医者と病人",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "死にかかった病人の枕元でお医者が首をひねって、\n\n「もう一時間も六カしいです」\n\n　と言いました。\n\n「とてもこれを助ける薬はありません」\n\n　これを聴いた病人は言いました。\n\n「いっその事、飲んでから二、三日目に死ぬ毒薬を下さい」",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

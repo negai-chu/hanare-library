@@ -1,0 +1,42 @@
+{
+  "id": "a061030",
+  "title": "霜のように",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "霜のように",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "霜のように",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　若いときは\n\nやみくもに雲にのせられてしまう\n\n年を重ねてからは何も彼も\n\n霜のようにおりて来る",
+      "characters": 49,
+      "ruby": []
+    }
+  ]
+}

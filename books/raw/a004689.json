@@ -1,0 +1,42 @@
+{
+  "id": "a004689",
+  "title": "『心』広告文",
+  "author": "夏目漱石",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『心』広告文",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 19,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『心』広告文",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "自己の心を捕へんと欲する人々に、人間の心を捕へ得たる此作物を奨む。",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

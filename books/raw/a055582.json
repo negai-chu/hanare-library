@@ -1,0 +1,48 @@
+{
+  "id": "a055582",
+  "title": "猛炎",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "猛炎",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "猛炎",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "魂と魂と放浪の数日の後\n\nあるところを得たるは\n\nげによろこぶべき現象ぞよ\n\n白馬天をゆく\n\n碧瑠璃の空に\n\nわれらが魂の猛炎は\n\n赤きロマンチックの落日を偲ばしめ\n\n舞楽を奏するなり\n\n聞かずや　宇宙の人々達",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "分子を談ずる詩人達\n\n広大無辺の渚なき海\n\nわれらは船を航し炬火を翳し\n\nはるかに行く……。\n\n一九二四・七・一一作",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a004236",
+  "title": "よろこびはその道から",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "よろこびはその道から",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "よろこびはその道から",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　夕暮\n\n仕事につかれ\n\n「赤と黒」とを手にもって\n\n縁側に腰かけている\n\nきょうも　空しいままに暮れた\n\nわがよろこびの小径を眺めながら。\n\n松の木と木の間をぬけて\n\n草道はうねり\n\nあっちの林へ消えている",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "その道の果はこの庭\n\nこの間の嵐で　松の落葉の散りしいた\n\nこの小径はよろこびの小径\n\n夕方、六時が半分すぎた頃\n\nこの道から　おかしな二輪車があらわれる\n\n　　　草の上だから音もなく\n\n樹間にちらつく俥夫の白シャツは\n\nわたしの　うれしい前じらせ\n\n車がとまり",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "その幌のなかから\n\n溢れ出す　わたしのよろこび\n\nこの小径は　よろこびの小径。\n\nきょうも空しく暮れるよろこびの小径を眺め\n\nわたしは考えている\n\nああ　もし　あした　この小径に\n\nあのよろこびが溢れ出したら\n\nわたしは泣き出さないでいられようか、と。\n\n　これは　それほどわたしの　よろこびの小径",
+      "characters": 149,
+      "ruby": []
+    }
+  ]
+}

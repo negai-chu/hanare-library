@@ -1,0 +1,48 @@
+{
+  "id": "a053850",
+  "title": "日光浴室",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日光浴室",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日光浴室",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "日光浴室《さんるうむ》\n\n　蔦がここまでのびました\n\n　らるらる光がもつれます\n\n日光浴室《さんるうむ》\n\n　鳩が影してとびました\n\n　ガラスの外のあをい空\n\n日光浴室《さんるうむ》\n\n　母さん毛糸をほぐします\n\n　冬が近くにきてませう",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "日光浴室《さんるうむ》\n\n　ぼくはベツドで手をのばす\n\n　おひるのドンがなりました\n\n日光浴室《さんるうむ》\n\n　いちにち白いお部屋です\n\n　いちにち白いお部屋です",
+      "characters": 82,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a050158",
+  "title": "林檎のうた",
+  "author": "片山広子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "林檎のうた",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 147,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "林檎のうた",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　麦の芽のいまだをさなき畑に向く八百屋の店は一ぱいの林檎\n\n深山路のもみぢ葉よりも色ふかく店の林檎らくれなゐめざまし\n\n立ちて見つつ愉しむ心反射して一つ一つの林檎のほほゑみ\n\nみちのくの遠くの畑にみのりたる木の実のにほひ吾を包みぬ\n\n手にとればうす黄のりんご香りたつ熟れみのりたる果物の息\n\nすばらしき好運われに来し如し大きデリツシヤスを二つ買ひたり\n\n宵浅くあかり明るき卓の上に皿のりんごはいきいきとある\n\nわがいのる人に言はれぬ祈りなどしみじみ交る林檎のにほひ\n\n人多く住みける家をおもひいづ林檎をもりし幾つもの皿饗宴のをはりしあとの静かさに時計を聴きぬ電気《あかり》さやけく",
+      "characters": 290,
+      "ruby": []
+    }
+  ]
+}

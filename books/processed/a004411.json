@@ -1,0 +1,42 @@
+{
+  "id": "a004411",
+  "title": "岩波茂雄宛書簡",
+  "author": "野呂栄太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "岩波茂雄宛書簡",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 176,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "岩波茂雄宛書簡",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　拝啓\n\n残暑かえって厳しき折柄いよいよ御清健のことと拝察賀《よろこ》び奉《たてまつ》り候。\n\nさて、「日本資本主義発達史講座」の件に関し、昨日編輯会議を開き、先日差上げたる私案及び貴店編輯部案を参酌《さんしゃく》して大体のことを決定仕《つかまつ》り候間諸種の点に関し御懇談仕りたく、御多忙中恐縮に存じ候得共《そうらえども》、御序《おついで》の節にでも御来駕を煩わし得れば幸甚に御座候処御都合如何に御座候也。もっとも問題は主として編輯及び出版の技術に関することと存じ候間御都合にて御多忙中態々《わざわざ》御足労煩わさずとも、永《ママ》田氏を煩わし下されば事足りることとも存じ候。\n\nまずは不取敢《とりあえず》御都合御伺いまで。敬具\n　　　八月十七日\n\n栄太郎拝\n　　岩波様\n\n　　　　御侍史",
+      "characters": 345,
+      "ruby": []
+    }
+  ]
+}

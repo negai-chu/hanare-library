@@ -1,0 +1,42 @@
+{
+  "id": "a060195",
+  "title": "オリンピック讃歌について",
+  "author": "野上彰",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "オリンピック讃歌について",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 133,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "オリンピック讃歌について",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「健康な身体に健全な精神が宿る」というギリシヤの有名なことわざがある。その古代の智恵は深い真実をもって、われわれにうけつがれている。\n\n　このオリンピック讃歌はこの精神を一に伝える古代の神々への讃め歌なのである。\n\n　数多くのオリンピックが世界各地で開かれるたびに数多くのオリンピックの歌が作られながら、この第一回・オリンピックの讃歌がそのすべてを超えて、世界の人びとの心にしみとおるのは、この讃歌が、古代の魂と現代の魂とを結びつける力強い祈りの章句によって貫かれているからにほかならない、と私は思うのである。",
+      "characters": 255,
+      "ruby": []
+    }
+  ]
+}

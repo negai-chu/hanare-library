@@ -1,0 +1,42 @@
+{
+  "id": "a055922",
+  "title": "（不随意筋のケンクワ）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（不随意筋のケンクワ）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 29,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（不随意筋のケンクワ）",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　不随意筋のケンクワ\n\nハイフェンの多い生活\n\n△が○を描いて――\n\nあゝスイミツトーが欲しい",
+      "characters": 47,
+      "ruby": []
+    }
+  ]
+}

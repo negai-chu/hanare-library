@@ -1,0 +1,54 @@
+{
+  "id": "a048660",
+  "title": "今、生まれしみどり児",
+  "author": "羽仁もと子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今、生まれしみどり児",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今、生まれしみどり児",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "めでたきものは\n\n今、世に来たりしみどり児《ご》。\n\n大いなるものの創造の\n\nみ手をはなれて遠からじ。\n\n父に似し母に似し兄に姉にとささめく前に、\n\n新しき生命に現われている\n\n神のみ業《わざ》をみつめよう。\n\nみどり児のめでたさは、\n\nその絶対の独自《どくじ》さである。",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "親やこの世の型の外にあふれている\n\nその輝く自由さである。\n\n絶対に自由な生命、\n\n独自なる生命、\n\nそれが親々の生《いのち》を通して\n\nこの世にあらわれて来た光栄を思おう。\n\n親に人に私たちの見なれた型は、\n\nみどり児の新しい生命《いのち》の外側《そとがわ》に深く刻みつけられている。\n\n私たちはそれを見て、",
+      "characters": 155,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あまり喜んだり悲しんだりすることをやめよう。\n\n今、生まれしみどり児の\n\n内なる光はめでたいものである。\n\n絶対にめでたいものである。\n\nみどりごの心　一九二九年（昭和四）",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

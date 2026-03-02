@@ -1,0 +1,42 @@
+{
+  "id": "a054424",
+  "title": "白い独楽",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "白い独楽",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 83,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "白い独楽",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　白昼だから　秋だから　原つぱは白かつた\n\n白昼だから　秋だから　空も白かつた\n\n原つぱのまんなかでひとり\n\n戸山学校の生徒が喇叭を吹いてゐた\n\n赤いズボンはいて喇叭を吹いてゐた\n\n白昼だから　秋だから　原つぱは廻つてゐた\n\n白昼だから　秋だから　空も廻つてゐた\n\n赤い心《しん》が澄んで廻つてゐた\n\n喇叭を吹いて廻つてゐた",
+      "characters": 162,
+      "ruby": []
+    }
+  ]
+}

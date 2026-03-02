@@ -1,0 +1,48 @@
+{
+  "id": "a054517",
+  "title": "生る",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "生る",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 25,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "生る",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "父あり　母あり\n\n病児生《うま》る\n\n父あり　母あり\n\n白痴生る\n\n父あり　母あり\n\n天才生る\n\n父あり　母あり\n\n盲児生る\n\n父あり　母あり",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "死児生る",
+      "characters": 4,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a055911",
+  "title": "（過程に興味が存するばかりです）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（過程に興味が存するばかりです）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（過程に興味が存するばかりです）",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　過程に興味が存するばかりです\n\nそれで不可ないと言ひますか\n\n生活の中の恋が\n\n原稿紙の中の芸術です\n\n有限の中の無限は\n\n最も有限なそれでした\n\n君の頭髪を一本一本数へて\n\nそれから人にお告げなさい\n\nテーマが先に立つといふ逆論は",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "アルファベットの芸術です\n\n集積よりも流動が\n\n魂は集積ではありません",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

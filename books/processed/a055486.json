@@ -1,0 +1,48 @@
+{
+  "id": "a055486",
+  "title": "橋の上の自画像",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "橋の上の自画像",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 109,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "橋の上の自画像",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　今宵私のパイプは橋の上で\n\n狂暴に煙を上昇させる。\n\n今宵あれらの水びたしの荷足《にたり》は\n\nすべて昇天しなければならぬ、\n\n頬被りした船頭たちを載せて。\n\n電車らは花車《だし》の亡霊のやうに\n\n音もなく夜《よ》の中に拡散し遂げる。\n\n（靴穿きで木橋《もくけう》を蹈む淋しさ！）\n\n私は明滅する「仁丹」の広告塔を憎む。",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "またすべての詞華集《アントロジー》とカルピスソーダ水とを嫌ふ。\n\n哀れな欲望過多症患者が\n\n人類撲滅の大志を抱いて、\n\n最後を遂げるに間近い夜《よる》だ。\n\n蛾よ、蛾よ、\n\nガードの鉄柱にとまつて、震へて、\n\n夥しく産卵して死ぬべし、死ぬべし。\n\n咲き出でた交番の赤ランプは\n\nおまへの看護《みとり》には過ぎたるものだ。",
+      "characters": 160,
+      "ruby": []
+    }
+  ]
+}

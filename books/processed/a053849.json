@@ -1,0 +1,48 @@
+{
+  "id": "a053849",
+  "title": "波とかもめ",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "波とかもめ",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "波とかもめ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　藻はゆれ　藻はゆれ　波はゆれ\n\nかもめ　ツイツイ　波をする\n\nホラ　ツツイ　とさ\n\nあをいお空に　あをいうみ\n\nかもめ　フワリ　とびたつた\n\nホラ　フワリ　とさ\n\n翼がぬれるに　しよつぱいに\n\nもいちど　ツイツイ　波をする\n\nホラ　ツツイ　とさ",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "藻はゆれ　藻はゆれ　波はゆれ\n\nかもめ　ツイツイ　波をする\n\nホラ　ツツイ　とさ",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a055562",
+  "title": "泣きながら眠った子",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "泣きながら眠った子",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "泣きながら眠った子",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　何て騒々しい声だろう\n\nこの場合の人間の泣声は決して同情に価しない\n\nあれはちいちゃい四つの女の子の泣声だが可愛そうにも考えられない\n\nただうるさい\n\n騒々しい\n\n泣かないでくれればいい\n\nもう沢山だ\n\n心の中でいくら\n\n願ってみたって何にもならぬ",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "子供は少し熱があって\n\nからだがだるくって\n\n消化不良のせいでもあるし\n\n気分が悪いんだ、\n\nどれを見てもきいてもいまいましいのだ、\n\nよっぽどよっぽど\n\n気分が変らない限り\n\n泣くより外に仕様も見つからないのだ、\n\n泣くのはうるさい",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "だがそれは子供がからだの工合を\n\n悪くしているから訴えるのだ、\n\nからだをなおしてやらずに\n\nどなったってしようあるか\n\nああとうとうねちゃった、\n\n泣きつかれて\n\n転んで泣いたまんま\n\n古畳みの上へ\n\n何にも敷かずに、何にも着ずに、だだをこねながらねむっちまった、",
+      "characters": 133,
+      "ruby": []
+    }
+  ]
+}

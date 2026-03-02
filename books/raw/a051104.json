@@ -1,0 +1,48 @@
+{
+  "id": "a051104",
+  "title": "子もりうた",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "子もりうた",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "子もりうた",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "坊《ぼう》やはいい子《こ》だ、ねんねしな。\n\n泣《な》くないい子《こ》だ、ねんねしな。\n\n月《つき》の光《ひかり》をながむれば、\n\n母《かあ》さん、父《とう》さん恋《こい》しいよ。\n\n水《みず》の流《なが》れをながむれば、\n\n母《かあ》さん、父《とう》さん恋《こい》しいよ。\n\nお守《もり》のお里《さと》は遠《とお》い国《くに》。\n\n泣《な》くと、わたしも泣《な》きたいわ。\n\n坊《ぼう》やはいい子《こ》だ、ねんねしな。",
+      "characters": 210,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "泣《な》くないい子《こ》だ、ねんねしな。",
+      "characters": 20,
+      "ruby": []
+    }
+  ]
+}

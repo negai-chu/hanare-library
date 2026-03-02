@@ -1,0 +1,42 @@
+{
+  "id": "a053398",
+  "title": "〔青びかる天弧のはてに〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔青びかる天弧のはてに〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔青びかる天弧のはてに〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "青びかる天弧のはてに\n\nきらゝかに町はうかびて\n\n六月のたつきのみちは\n\nいまやはた尽きはてにけり\n\nいさゝかの書籍とセロを\n\n思ふまゝ〔以下空白〕",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a053546",
+  "title": "ゆく春",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ゆく春",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ゆく春",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おきつ邊かつ鳴る海青なぎ\n\n今手に動ずる胸をおせば\n\n哀愁ことごと浮び出でて\n\nたぎつ瀬涙の八千尋沼\n\nああ世は神祕の影にみちて\n\n興ある歌もつ子等もあるに\n\n何をか若きに眉根ひそめ\n\n執着泣くべくえ堪へんや\n\n例へば人あり花に醉ひて",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "秋雲流るる夕づつに\n\n樂觀すぎしを思ふ如く\n\n足ぶみせんなき煩ひかや\n\n　　信なき一人に戀しさで\n\n　　今年もさびしう春は行きぬ",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a051334",
+  "title": "コキューの憶ひ出",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "コキューの憶ひ出",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "コキューの憶ひ出",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　その夜私は、コンテで以て自我像を画いた\n\n風の吹いてるお会式《ゑしき》の夜でした\n\n打叩く太鼓の音は風に消え、\n\n私の机の上ばかり、あかあかと明《あか》り、\n\n女はどこで何を話してゐたかは知る由もない\n\n私の肖顔《にがほ》は、コンテに汚れ、\n\nその上に雨でもパラつかうものなら、\n\nまこと傑作な自我像は浮び、\n\n軌《（ママ）》りゆく、終夜電車は、",
+      "characters": 174,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "悲しみの余裕を奪ひ、\n\nあかあかと、あかあかと私の画用紙の上は、\n\nけれども悲しい私の肖顔《にがほ》が浮んでた。",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

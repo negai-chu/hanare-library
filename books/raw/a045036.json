@@ -1,0 +1,42 @@
+{
+  "id": "a045036",
+  "title": "稲かけ",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "稲かけ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "稲かけ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "いねかけ\n\nゆツさゆさ\n\n雀《すずめ》の子どもがあそんでた\n\nいねかけ\n\nゆツさゆさ\n\nすずめのこどもが喧嘩《けんくわ》した\n\nいねかけ\n\nゆツさゆさ\n\nすぐまたなかよくしやべつてた",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

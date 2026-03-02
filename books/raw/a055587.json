@@ -1,0 +1,48 @@
+{
+  "id": "a055587",
+  "title": "徒弟",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "徒弟",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "徒弟",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "いち早く冬の来る北方の街頭に\n\n寒い空《カラ》ッ風が吹きまくる\n\n或る朝\n\n理髪師の徒弟は店先を掃いていた\n\n店先に一本の街路樹があった\n\n落葉は風になぶられてあちこちに吹きたまる\n\n正直な徒弟は幾度もそれを掃いていた\n\n時が過ぎる\n\n徒弟は街路樹に登った",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "木葉はもう一枚も街路樹に残っていなかった\n\n徒弟は街路樹をゆすぶり\n\n箒ですっかり叩き落していた\n\n五・一八",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

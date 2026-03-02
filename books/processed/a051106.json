@@ -1,0 +1,76 @@
+{
+  "id": "a051106",
+  "title": "あかい雲",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あかい雲",
+        "startPage": 1,
+        "endPage": 5,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "（一）",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "（二）",
+            "startPage": 4,
+            "endPage": 5
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あかい雲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "（一）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　あかい雲《くも》、あかい雲《くも》、\n\n西《にし》の空《そら》の紅《あか》い雲《くも》。\n\nおらが乳母《うば》のおまんは、\n\nまだ年若《としわか》いに、\n\n嫁入《よめい》りの晩《ばん》に、\n\n海《うみ》の中《なか》に落《お》ちて、\n\nあかい雲《くも》となった。",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "（二）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "おまん、おまん、\n\nまだ年若《としわか》いに、\n\nあかい紅《べに》つけて、\n\nあかい帯《おび》しめて、\n\nからこん、からこん、\n\nげたはいて、\n\n西《にし》のお里《さと》へ嫁《よめ》にいった。\n\nあかい雲《くも》、あかい雲《くも》、\n\n西《にし》の空《そら》の紅《あか》い雲《くも》。",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

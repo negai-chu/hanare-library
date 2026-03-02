@@ -1,0 +1,42 @@
+{
+  "id": "a055215",
+  "title": "露西亜の言葉",
+  "author": "ツルゲーネフイワン",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "露西亜の言葉",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "露西亜の言葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　疑ひ惑《まど》ふけふこのごろ、國運を思ひて、心病みぬるけふこのごろ、なれこそは、杖なれ、より木なれ、噫《あゝ》、大なるかな、忠なるかな、自由なるかな、露西亞の言葉よ。汝なかりせば、今の故國のさまをみて、たれか望《のぞみ》を絶たざらむ。しかも、大なる國民にあらずして、かゝる言葉をもたむこと、夢にも思ひえせざるなり。",
+      "characters": 158,
+      "ruby": []
+    }
+  ]
+}

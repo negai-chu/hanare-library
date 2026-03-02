@@ -1,0 +1,42 @@
+{
+  "id": "a053852",
+  "title": "馬場",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "馬場",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "馬場",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　馬場は四角だ\n\n　四角に歩め\n\n足並そろへて\n\n　ホイ　トロツト　トロツト\n\n　　　　　　　　青い空\n\n馬場は四角だ\n\n　四角に馳けろ\n\nたてがみユサユサ\n\n　ホイ　ギヤロツプ　ギヤロツプ　　　　　　　　雲がとぶ",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

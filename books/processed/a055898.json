@@ -1,0 +1,48 @@
+{
+  "id": "a055898",
+  "title": "自滅",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "自滅",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "自滅",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　親の手紙が泡吹いた\n\n恋は空みた肩揺つた\n\n俺は灰色のステッキを呑んだ\n\n足　足\n\n　　足　足\n\n　　　　足　足\n\n　　　　　　　　　足\n\n万年筆の徒歩旅行\n\n電信棒よ御辞儀しろ",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "お腹《ナカ》の皮がカシヤカシヤする\n\n胯の下から右手みた\n\n一切合切みんな下駄\n\nフイゴよフイゴよ口をきけ\n\n土橋の上で胸打つた\n\nヒネモノだからおまけ致します",
+      "characters": 80,
+      "ruby": []
+    }
+  ]
+}

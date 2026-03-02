@@ -1,0 +1,42 @@
+{
+  "id": "a055586",
+  "title": "瘋癲病舎",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "瘋癲病舎",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "瘋癲病舎",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "俺はお前の此の喜びはつまらぬと言う訳を知っている\n\nお前は現実には適しない\n\nお前はあの暗い瘋癲病舎で\n\n白日の中もおもむろに\n\n夢を食って楽しんで生きていればいい男だ",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

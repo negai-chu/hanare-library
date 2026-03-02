@@ -1,0 +1,42 @@
+{
+  "id": "a055895",
+  "title": "倦怠に握られた男",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "倦怠に握られた男",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "倦怠に握られた男",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "俺は、俺の脚だけはなして\n\n脚だけ歩くのをみてゐよう――\n\n灰色の、セメント菓子を噛みながら\n\n風呂屋の多いみちをさまよへ――\n\n流しの上で、茶碗と皿は喜ぶに\n\n俺はかうまで三和土《タタキ》の土だ――",
+      "characters": 100,
+      "ruby": []
+    }
+  ]
+}

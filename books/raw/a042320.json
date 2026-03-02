@@ -1,0 +1,42 @@
+{
+  "id": "a042320",
+  "title": "西洋にはない",
+  "author": "夏目漱石",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "西洋にはない",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 161,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "西洋にはない",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "俳諧の趣味ですか、西洋には有りませんな。川柳といふやうなものは西洋の詩の中にもありますが、俳句趣味のものは詩の中にもないし、又それが詩の本質を形作つても居ない。日本獨特と言つていゝでせう。\n\n　一體日本と西洋とは家屋の建築裝飾なぞからして違つて居るので、日本では短冊のやうな小さなものを掛けて置いても一の裝飾になるが、西洋のやうな大きな構造ではあんな小《ちひ》ぽけなものを置いても一向目に立たない。\n\n　俳句に進歩はないでせう、唯變化するだけでせう。イクラ複雜にしたつて勸工場のやうにゴタ／＼並べたてたつて仕樣がない。日本の衣服が簡便である如く、日本の家屋が簡便である如く、俳句も亦簡便なものである。\n\n―明治四四、六、一『俳味』―",
+      "characters": 316,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054824",
+  "title": "射撃について",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "射撃について",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "射撃について",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "松の木山に銃声がいくつもとどろいた\n\n山の上に赤い旗がうごかない雲を待っている\n\n銃声が止むと　ごとんごとんと六段返しみたいに的《まと》が回転する\n\nおれの弾《たま》は調子づいたとみえて　うつたびに景気のいい旗が上った\n\nおれの眼玉は白雲ばかり見ていた",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

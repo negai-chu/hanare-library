@@ -1,0 +1,42 @@
+{
+  "id": "a054363",
+  "title": "眠り",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "眠り",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 40,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "眠り",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "骨を折る音\n\nその音のなかに\n\n流れる水は乾き\n\n鳶色の風はおちて\n\n石に濡れた額は傾くままに眠つた\n\nみえない推移の重さに\n\n骨を折る音\n\nその音のなかに",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054250",
+  "title": "ハイカラさんとムカシさん",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ハイカラさんとムカシさん",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ハイカラさんとムカシさん",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ハイカラさんの一人言\n\n「ハイカラにせねば大正の文明にをくれるよ」\n\nそこへ出て来た昔さん\n\n「左様でござるか拙者には\n\n　トント合てんがゆき申さぬ\n\n　ハイカラ、ハイカラと申す者\n\n　唐、天竺の言葉にや\n\n　大正はいかなる事なるや\n\n　大政大臣関白の事にて候はん」",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ハイカラさんが口あんぐり\n\n「関白殿て何ですか、私は知らん」\n\nとにげだすと\n\n「今になってにげられるとは\n\n　武士にあるまじきひきやうみれんのふるまひなり」\n\n「ヤッ」とうち下す一太刀に\n\nハイカラさんは「ウーン、キヤッ」\n\n（七・一三）",
+      "characters": 120,
+      "ruby": []
+    }
+  ]
+}

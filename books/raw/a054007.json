@@ -1,0 +1,48 @@
+{
+  "id": "a054007",
+  "title": "鉄のシャフト",
+  "author": "野村吉哉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鉄のシャフト",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 120,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鉄のシャフト",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゴシゴシゴシキイキイゴシゴシ……\n俺の役目はでっかい鉄のシャフトを磨くのだ\nまっ赤に染まったどろどろの手袋の中で\n感覚を失ってしまっている俺の手は\n俺の全生命をこめて鉄のシャフトを磨くのだ\n\n――捨値で買ったボロボロに腐りかけた幾万本の鉄のシャフトは\n磨いて塗って幾十倍に売りつけられるのだ\nコンミッションの力で\n新品としてスラスラ通って行くのだ\n買うのは誰だ――やっぱり俺達だった\n売った生命の代価はかくして奪われ\n残る物は何だ――残るものは病根だ。老衰だ。発狂だ。いや死だ！\n\n「しっかり力を入れて磨けやい」\nかんとくにどなられ\nゴシゴシゴシキイキイゴシゴシ\n磨く俺の手にまっ赤にこびりつくものは何だ",
+      "characters": 302,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "――こずり減らされた生命だ――いやその代価だ。奪われた代価だ\n（発表誌不詳　『新興文学全集』10を底本）",
+      "characters": 52,
+      "ruby": []
+    }
+  ]
+}

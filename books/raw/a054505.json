@@ -1,0 +1,48 @@
+{
+  "id": "a054505",
+  "title": "ねたみ",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ねたみ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ねたみ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "つぶやきぬ。\n\n『ああうたて「夢」を飾りし世の宝《たから》\n\n手玉も、花も薫陸《くんろく》も\n\n有りのことごと朽ちはてぬ、\n\nあはれ死なまし。』\n\nまたうめく。\n\n『ああうたて、恋も、まことも、愛楽も\n\n蒼蠅《さばへ》羽《は》ならし飛びめぐる\n\n腐肉《ふにく》にまとふ温気《うんき》のみ。』",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ほと息づかひ。\n\nけしきばみ、\n\n『男子《おのこ》とはたをやの髪の一一に\n\n憑《よ》りては移る風病《ふうびやう》ぞ。』\n\nつと見ゆ、青きまなじりの\n\nさびしき『ねたみ。』",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

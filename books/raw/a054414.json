@@ -1,0 +1,42 @@
+{
+  "id": "a054414",
+  "title": "旅",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "旅",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "旅",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "渡り鳥の様に旅をしてみたい時がある\n\n雲の様に旅をしてみたい時がある\n\n風のままに漂々と旅をした俳人芭蕉を憶ふ\n\n病の床にあれば一人旅を欲する――\n\n　　束縛された人生を思ふからである\n\n　　葬り去られた夢を思ひ出すに耐へられないからである\n\n　　そして吾今いたつきに泣く明日のない人間だからである――\n\n旅を想ふ渡り鳥を思ふ雲を芭蕉を……",
+      "characters": 170,
+      "ruby": []
+    }
+  ]
+}

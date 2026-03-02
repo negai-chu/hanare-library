@@ -1,0 +1,853 @@
+{
+  "id": "a060440",
+  "title": "かげろふ断章",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 57
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "昨日の雨",
+        "startPage": 2,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "散歩",
+            "startPage": 3,
+            "endPage": 2
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "蟻",
+            "startPage": 3,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "机",
+            "startPage": 4,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "四月",
+            "startPage": 4,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "眺望",
+            "startPage": 5,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "遅春",
+            "startPage": 6,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "夏",
+            "startPage": 6,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "川",
+            "startPage": 7,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "川",
+            "startPage": 7,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "小春日",
+            "startPage": 8,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "秋空",
+            "startPage": 9,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "遠景",
+            "startPage": 9,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "冬",
+            "startPage": 10,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "波紋",
+            "startPage": 10,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "愛憐",
+            "startPage": 11,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "月夜",
+            "startPage": 11,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "淡景",
+            "startPage": 12,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "疲れ",
+            "startPage": 13,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "春望",
+            "startPage": 14,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "旅懐",
+            "startPage": 14,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "山",
+            "startPage": 15,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "梢",
+            "startPage": 15,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "雲",
+            "startPage": 16,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "川の断章",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "海",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "五月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "白帆",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "偶作",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "春雨",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "冬晴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "春の昼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "四月",
+            "startPage": 4,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "花見",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "青葉",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "昨日の雨",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "卓上",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "旅の雨",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "青空",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "小曲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "冬の山なみ",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-2",
+        "title": "断章",
+        "startPage": 1,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "藤の花",
+            "startPage": 30,
+            "endPage": 30
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "夏",
+            "startPage": 31,
+            "endPage": 30
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "昼",
+            "startPage": 31,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-2-section-4",
+            "number": "朝",
+            "startPage": 32,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-2-section-5",
+            "number": "夜の秋",
+            "startPage": 33,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-2-section-6",
+            "number": "朝の闇",
+            "startPage": 33,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-2-section-7",
+            "number": "虚愁",
+            "startPage": 34,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-2-section-8",
+            "number": "菜花",
+            "startPage": 34,
+            "endPage": 34
+          },
+          {
+            "id": "chapter-2-section-9",
+            "number": "波の音",
+            "startPage": 35,
+            "endPage": 34
+          },
+          {
+            "id": "chapter-2-section-10",
+            "number": "冬苑",
+            "startPage": 35,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-2-section-11",
+            "number": "二月",
+            "startPage": 36,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-2-section-12",
+            "number": "車窓",
+            "startPage": 36,
+            "endPage": 36
+          },
+          {
+            "id": "chapter-2-section-13",
+            "number": "師走",
+            "startPage": 37,
+            "endPage": 37
+          },
+          {
+            "id": "chapter-2-section-14",
+            "number": "六月",
+            "startPage": 38,
+            "endPage": 37
+          },
+          {
+            "id": "chapter-2-section-15",
+            "number": "不眠歌",
+            "startPage": 38,
+            "endPage": 39
+          },
+          {
+            "id": "chapter-2-section-16",
+            "number": "声",
+            "startPage": 40,
+            "endPage": 39
+          },
+          {
+            "id": "chapter-2-section-17",
+            "number": "晩春",
+            "startPage": 40,
+            "endPage": 20
+          },
+          {
+            "id": "chapter-2-section-18",
+            "number": "五月",
+            "startPage": 21,
+            "endPage": 40
+          },
+          {
+            "id": "chapter-2-section-19",
+            "number": "冬の日",
+            "startPage": 41,
+            "endPage": 41
+          },
+          {
+            "id": "chapter-2-section-20",
+            "number": "夜想",
+            "startPage": 42,
+            "endPage": 42
+          },
+          {
+            "id": "chapter-2-section-21",
+            "number": "窓",
+            "startPage": 43,
+            "endPage": 43
+          },
+          {
+            "id": "chapter-2-section-22",
+            "number": "月夜",
+            "startPage": 44,
+            "endPage": 44
+          },
+          {
+            "id": "chapter-2-section-23",
+            "number": "反歌",
+            "startPage": 45,
+            "endPage": 44
+          },
+          {
+            "id": "chapter-2-section-24",
+            "number": "回想",
+            "startPage": 45,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-25",
+            "number": "なぜ怖いか（大正十二年頃のもの＊）",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-3",
+        "title": "散文詩",
+        "startPage": 48,
+        "endPage": 57,
+        "sections": [
+          {
+            "id": "chapter-3-section-1",
+            "number": "饗宴",
+            "startPage": 50,
+            "endPage": 50
+          },
+          {
+            "id": "chapter-3-section-2",
+            "number": "散歩",
+            "startPage": 51,
+            "endPage": 50
+          },
+          {
+            "id": "chapter-3-section-3",
+            "number": "五月闇",
+            "startPage": 51,
+            "endPage": 50
+          },
+          {
+            "id": "chapter-3-section-4",
+            "number": "酸漿",
+            "startPage": 51,
+            "endPage": 51
+          },
+          {
+            "id": "chapter-3-section-5",
+            "number": "秋雨",
+            "startPage": 52,
+            "endPage": 51
+          },
+          {
+            "id": "chapter-3-section-6",
+            "number": "喪中",
+            "startPage": 52,
+            "endPage": 52
+          },
+          {
+            "id": "chapter-3-section-7",
+            "number": "彷徨",
+            "startPage": 53,
+            "endPage": 53
+          },
+          {
+            "id": "chapter-3-section-8",
+            "number": "無題",
+            "startPage": 54,
+            "endPage": 53
+          },
+          {
+            "id": "chapter-3-section-9",
+            "number": "詠嘆二章",
+            "startPage": 54,
+            "endPage": 55
+          },
+          {
+            "id": "chapter-3-section-10",
+            "number": "青葉の頃",
+            "startPage": 56,
+            "endPage": 56
+          },
+          {
+            "id": "chapter-3-section-11",
+            "number": "朝昼晩",
+            "startPage": 57,
+            "endPage": 57
+          }
+        ]
+      }
+    ],
+    "totalPages": 57,
+    "averageCharsPerPage": 139,
+    "chapterTitles": [
+      "昨日の雨",
+      "断章",
+      "散文詩"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かげろふ断章",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "昨日の雨",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　散歩\n\n誰も居てはいけない\n\nそして樹がなけらねば\n\nさうでなけらねば\n\nどうして私がこの寂しい心を\n\n愛でられようか\n\n蟻\n\n遠くの路を人が時時通る\n\n影は蟻のやうに小さい",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "私は蟻だと思つて眺める\n\n幼い児が泣いた眼で見るやうに\n\nそれをぼんやり考へてゐる\n\n机\n\n何もしない\n\n日は過ぎてゐる\n\nあの山は\n\nいつも遠いい\n\n四月",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "起きもしない\n\n外はまばゆい\n\n何だか静かに\n\n失はれてゆく\n\n眺望\n\nそれは眺めるために\n\n山にかかつてゐたが\n\nはるか向うに家があるなど\n\n考へてゐると",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "もう消えてしまつたまつ白のうす雲だ\n\n遅春\n\nまどろんでゐると\n\n屋根に葉が揺れてゐた\n\nその音は微けく\n\nもう考へるすべもなかつた\n\n夏\n\nみなぎれる空に\n\n小鳥飛ぶ",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "さえざえと昼は明るく\n\n鳥のみ動きて影はなし\n\n川\n\n愛でようとして\n\nためいきの交はる\n\nここの川辺は\n\n茫としてゐる\n\n川\n\n川の水は流れてゐる",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "なんといふこともない\n\n来てみれば\n\nやがて\n\nひそかに帰りたくなる\n\n小春日\n\n樹はみどりだつた\n\n坂の上は橙色だ\n\nほかに何があつたか\n\nもう思ひ出さぬ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "ただ　いい気持で歩いてゐた\n\n秋空\n\n一すぢの坂は遙けく\n\nその果てに見る空の青さ\n\n坂の上に空が\n\n秋空が遠いい\n\n遠景\n\n幼いのか\n\n山はひらたい",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "ぼつちりと\n\n陽が紅らんだ\n\n冬\n\nこはれた景色に\n\n夕ぐれはよい\n\n色のない場末を\n\nそよそよと歩けば\n\n波紋\n\nすべてはぼんやりとした",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "ぼんやりとして空も青い\n\n水の上に波紋はかすか\n\nすなほなる想ひに耽ける\n\n愛憐\n\nひつそりと　枝にはじけつ\n\nはじけつ\n\n空に映れる\n\n青める雪は\n\n月夜",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "雲や霧が白い\n\nほの白い\n\n路やそして家も\n\nところどころにある\n\n淡景\n\n淡い色の\n\nたのしみか\n\nそのままに\n\n樹樹は並んだ",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "疲れ\n\n雪のなかを歩いて来た\n\nまつ白な路を見て\n\nすやすやしながら\n\n大そう　うつかりしてゐた\n\n京にて　――悼詩\n\n眺めさせや\n\n甍の霜\n\n夢のごとおもひつつ",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "この霜のかくも美《は》しき\n\n春望\n\nつれづれに流れる雲は\n\n美しさをまして行く\n\n春陽の野山に\n\n今日は来て遊んだ\n\n旅懐\n\n山水の後には\n\n空がある",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "空は春のいたるところに\n\n浅浅と残されてゐる\n\n山\n\n影こそ薄く\n\n思ひは重し\n\n霞のなかの山なれば\n\n山に隠るる山なれば\n\n梢\n\nふと見し梢の",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "優しかる\n\nみどり煙りぬ\n\nささやかに\n\n雲\n\n私の一つ身がいとしい\n\n雲もいとしい\n\n時は過ぎず\n\nうつうつと空にある\n\n川の",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "断章",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "１\n\n川に似て\n\n音もない\n\n川のほとり\n\n川のほとりの\n\n２\n\n空の色\n\n寂び異なるか\n\n水を映して",
+      "characters": 51,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "水にも映り\n\n３\n\n思ひは凍けて\n\n川のひとすぢとなる\n\n４\n\n遠かれば\n\n川は潜むか\n\n流るるか\n\n悠久として",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "５\n\n現世《うつしよ》の川に\n\nつながるるもの\n\n現世の川に\n\nながれゆくもの\n\n海\n\nねむれるにあらずや\n\n海\n\n仄かにしたはしき海",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "たまきはる命をさなく\n\n我はまことになべてを知り得ず\n\n五月\n\n遠いい朝が来た\n\nああ　緑はそよいでゐる\n\n晴れ渡つた空を渡る風\n\nなにしに今日はやつて来たのだ\n\n白帆\n\nあれはゆるい船だが",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "春風が麦をゆらがし\n\n子供の目にはみんな眩しい\n\nまつ白な帆が浮んでゐる\n\n偶作\n\n旅に来て\n\n日輪の赤らむのを見た\n\n朝は田家の霜に明けそめて\n\n磯松原が澄んでゐる\n\n一色につづく海が寒さうだ",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "春雨\n\n雨は宵に入つてから\n\n一層　静かであつた\n\n床についてからは\n\n降るさまがよく描かれた\n\n冬晴\n\n冬晴の昼の\n\n青空の大きさ\n\n電車通りを",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "疲れて歩く\n\n春の昼\n\n日向ぼこにあきて\n\n家に帰らうとすると\n\n庭石の冷たさがほろりとふれた\n\nひつそりとして障子が見える\n\n四月\n\n昼は浅いねむりのなかに\n\n身を微かなものと思ひつつ",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "しばらくは鳥の音も聴かぬ\n\nそよ風の吹く心地して\n\n花見\n\n桜の花のすきまに\n\n青空を見る\n\nすると　ひんやりしてゐるのだ\n\n花がこの世のものと思はれない\n\n青葉\n\n朝露はいま",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "滴り落ちてくる\n\nいたづらに樹を眺めたとて\n\n空の青葉は深深としてゐる\n\nねそびれて　――熊平武二に\n\n障子がぼうと明るんでゐる\n\n廊下に出て見給へ\n\nあんな優しい光だが\n\nどこか鋭い\n\n昨日の雨",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "青くさはらはかぎりもない\n\n空にきく雲雀の声は\n\nやがて淋しい\n\nうらうらと燃えいでる\n\n昨日の雨よりもえいでる\n\n陽炎が濃ゆく燃えいでる\n\n卓上\n\n牡丹の花\n\nまさにその花",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "力なき眼に\n\nうつりて居る\n\n旅の雨\n\n雨にぬれて霞んでゐる山の\n\n山には山がつづいてゐる\n\n真昼ではあるし\n\n雨は一日降るだらう\n\n青空\n\nうつろにふかき",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "ながまなこ\n\nただきはみなくひろがりて\n\nかなしむものをかなしくす\n\n小曲\n\n人に送る想ひにあらず\n\n蓮の花浮べし池は\n\nなみなみと水をたたへつ\n\n小波と風のまにまに\n\n冬の山なみ",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "けふ汽車に乗つて\n\n山を見る\n\n中国の山脈のさびしさ\n\n都を離れて山を見る\n\n山が山にかさなり\n\n冬空はやさしきものなり\n\n断章\n\n藤の花\n\nひそかに藤の花が咲いて居り",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "あさ風に揺れて居り\n\n露しとしとと\n\nうすぐらいところに\n\n夏\n\n山の上の空が\n\nまつ青だ\n\n雲が一つ浮んで\n\nまつ青だ\n\n昼",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "菜の花のあたりに\n\n蝶がひらひらして居る\n\n菜の花は沢山ある\n\n蝶はひらひらして居る\n\n朝\n\n朝はとつくに来てゐた\n\n雀ばかりが啼いてゐた\n\n桜の花がにほつてゐた\n\n空は青く晴れてゐた",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "夜の秋\n\nきりきり虫が啼いてゐる\n\n厨の土間で啼いてゐる\n\nあまり間近くで啼いてゐる\n\nきりきりきりと響くその声\n\n朝の闇\n\n目にただよひて朝の闇\n\nしろがねいろの朝の闇\n\n静かに聴けば　空《から》車",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "からからからと　空車\n\n虚愁\n\nみどり輝く坂の上に\n\n傷ましきかな　空の青\n\n輝くものをいとはねど\n\n空に消え入る鳥を見よ\n\n菜花\n\n川の流れのかたはらに\n\n自らなる菜畑は",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "ひねもす青き空の下\n\n明るき花を開きけり\n\n波の音\n\n今　新しく打ちかへす\n\nはじめてききし波の音\n\n打ちかへしては波の音\n\n潮の香暗き枕辺に\n\n冬苑\n\n動けるものは凍らねど",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "凍らぬ水の光はや\n\n石を滑りて流れゆく\n\nかぐろき水の光はや\n\n二月\n\n叫びをあげよ　蕗の薹\n\n囁きかはし降る雨の\n\n闇を潤すいとなみに\n\n叫びをあげよ蕗の薹\n\n車窓",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "桃の花が満開で\n\n小学生が二三人\n\n朝の路にゐるんだ\n\nけれども汽車はとまらない\n\n師走\n\n寒ざらしの空に\n\nおころりおころりと軽気球が\n\nたつた一つ浮んでゐる\n\nそこから何が見えるのですか",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "六月\n\nまだ半身は睡つてゐるのに\n\n朝はからきし梅雨晴れだ\n\nいいお天気になりました\n\nほんとにそれはさうである\n\n不眠歌\n\n夜耿耿而不寝兮\n\n魂営営而至曙\n\n（１）",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "眩しきものの照るなべに\n\n夜の相《すがた》ぞおそろしき\n\n青ざめはてし魂は\n\n曙にして死ぬるべし\n\n（２）\n\n罪咎なれば堪へ得べし\n\nこんこんこんこん　あさぼらけ\n\n米をとぐ音　きこえ来る\n\nいかでか我は　睡らざる",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "声\n\n五月の朝にこだまして\n\n青物市に声はあり\n\n並ぶ車はことごとく\n\n山と積みたる青きもの\n\n青物市に声はあり\n\n晩春\n\nうつつけものが鳥ならば\n\nすういすういと泳ぐべし",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "けふやきのふやまたあすや\n\n春惜しむ人や榎にかくれけり\n\n五月\n\n流るるごとき心地して\n\nひなげしの花を持ちてゐる\n\n電車のなかの　をみなごよ\n\n朝目よく吹く微風に\n\n冬の日\n\n紅き焔の日輪の",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "けふはさびしや鼠色\n\n葱買ふて\n\n枯木のなかを帰りけり\n\n夜想\n\n（１）\n\n昼を知つてゐて夜を知らぬか\n\n見給へ　三田の午前一時は\n\n何といふ鈴懸のすがすがしさだ\n\nはきだめの上に露が明るし",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "（２）\n\n雨を吸つて生きてゆく屋根\n\n屋根は夜なかの舌である\n\nその舌はかはききつて\n\n一滴一滴と雨をのむ\n\n窓\n\n窓を開けてくれたのは誰だ\n\n空か　お前であつたのか\n\n崖のすすきはさうさうと",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "雲の流れに揺れてゐる\n\n月夜\n\n（１）\n\n川の向ふは川か\n\n向ふには何があるのか\n\n空に月は高いし\n\n水も岸も今は遙かだ\n\n（２）\n\n月の夜の水の面は",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "呼吸するたびに変る\n\nたとへば霧となり\n\n闇となり光となる\n\n反歌\n\nうつつより出づるものなるに\n\nなぜにかげろひきらめける\n\n春の夕べに目ざむれば\n\n梢を渡る風さむし\n\n回想",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "（１）\n\n春風にただよつて来る\n\nよもぎぐさのにほひにうたれて\n\n紅茶のなかにミルク注げば\n\nみだれみだれて溶けゆくおもひ\n\n（２）\n\n春の陽のバケツに映りて\n\n天井に照りかへしてゆらゆら\n\nゆらゆらと床にゐて眺め",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "幼な児の想ふことを想ふ\n\n後記　ここに集めた詩は大正十二年から昭和三年頃のものであるが、その頃のありかは既に陽炎の如くおぼつかない。今これらの詩を読返してみるに一つ一つの断章にゆらめくものがまた陽炎ではないかと念へる。附録の",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "散文詩",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 49,
+      "content": "散文詩は昭和十一年の作である。\n\n昭和十六年九月二日、空襲避難の貴重品を纏めんとして、とり急ぎ清書す。\n\nなぜ怖いか（大正十二年頃のもの＊）\n\n１\n\n　影法師は暗い処に居るから嫌です。ひよいと飛び出して私を抱へてつれて行かうと思つて樹や垣根の蔭に隠れて居るのです。\n\n２\n\n　獅子の笛は金色だからいけないのです。あんなによく慄へる細い音はすぐ私のまつ青の顔を遠くから嗅ぎつけてしまひます。\n\n３\n\n　猫の眼は美しすぎるのが悪いのです。あんまりよく光るものは気味のいいものではないし、その上あの啼き声があんな風に恨めし気なのですもの。",
+      "characters": 266,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "４\n\n　婆さんのおはぐろや女の人の金歯は虫か何かのやうに見えるからたまらないのです。それに笑ひ出すとその虫がぐちや／＼動くのです。\n\n５\n\n　気違ひや不具などは見ただけで私を憎んで居るのがわかります。あんなへんてこな手つきで殺されると大変だから私は逃げるのです。\n\n＊編注――大正十五年九月、家庭内同人誌『沈丁花』一号掲載\n\n散文詩\n\n饗宴\n\n　乾いた星を鏤めて夜空はぴつたりと地上に被さつてゐる。埃まみれの亜鉛屋根は圧潰されたやうになつてゐるので、そのなかにゐる人間も圧潰されたやうな姿で、家の外に出て来る。\n\n　家の外につづいてゐるのは昼間の熱のまだ残つてゐる埃だらけの路である。生温かい道路は茫として白く浮上つてゐる。この道路は、疲れきつた人間の魂の秘密のやうに、妖しく、懐しく、そして、もはや何ごとも語らうとしない。疲れきつた人間は暫く立留まつて、埃の路をうち眺め、それからまた狭い家屋に這入つてしまふ。……",
+      "characters": 408,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "　雨はもうこの地上を訪れることを忘れたらしく、狭い屋内にも道路にも呼吸苦しさが一様に漲つてゐる。睡れない人間はもはや睡れないことを諦めてゐる。\n\n　ところが、ふと、亜鉛屋根に微かな砂を散ずるやうな音が始まる。ためらひ勝ちに落ちてゐたが、やがて沛然と音をたてゝ勢のいゝ雨が訪れる。屋根も、樹木も、道路も、みんなが、みんな泣き出す。雨を抱きついて、おいおいと泣くのである。\n\n散歩\n\n　忘れ河の河のほとりを微笑みながら歩いてゐる男がある。もうみんな生きてゐた時の記憶は忘れてしまつたらしい。それなのにその男は相変らずいゝ機嫌で歩いてゐる。まるでいたづらな小娘のやうに微笑みながら、何かめつけようとしてゐる彼の眼や、たえず喋らうとしてゐる彼の唇がある。涼しい太陽が靄の中を流れ、彼もたつた今目が覚めたばかりなのだ。もう一度睡くなつたら睡るばかりだ。\n\n五月闇\n\n　闇の妖女の唇は、あんまり紅くて、まつ黒だ。まつ黒な、茫とした天と地が口をひらいてゐる真夜なか、ぎやぎやぎやぎやぎやと青蛙が命をしぼつて啼いてゐる。何処の国の何時の時刻かもわからなくなり、汽車は夢中で走つて行く。ぎやぎやぎやと追かけて来る声から逃れるため、汽車は顛覆しさうな速さで走るのだ。\n\n酸漿",
+      "characters": 527,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "　ほほづきの実に雨はばらばらと降りはじめ、ほほづきの葉蔭の薄闇に一疋の蚊の声は消えのこる。ほほづきの実は薄闇のなかにて、いよいよ熟れ、枝こそたはめ、ほほづきは今不思議な唸りを放ちて、地面に接れ、殆ど生ける唇と化した。この時天の一隅にさつと緑の閃きが走る。まこと厳しき眼球は光る。\n\n秋雨\n\n　雨は夜の野原をびしよ濡れにし、空を動いて行く青白いサーチライトの光も濡れてゐる。闇のなかにサーチライトはゆるく揺れ、少しづつこちらにむけられて来る。まるでこちらを覘つてゐるやうに光の筒が二階の方へ這ひ上つて来る。窓にゐて眺めてゐた男は一瞬息をつまらせてしまつた。\n\n喪中\n\nＡ",
+      "characters": 284,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "　私は何処に睡つてゐるのか不明瞭になつた。朝の光線や物音が漂つてゐて、もう起きなければならない時刻らしかつたが、私の枕頭に妻がゐて黙つて坐つてゐるものだから、もつと放心してゐてもよささうだつた。とにかくひどく神経が疲れてゐるし、魂はまだ号泣を続けてゐた。しかし、何も変つたことなぞない証拠に、妻は影のやうに私の枕頭にゐてくれる。……ところが今階段を誰かが昇つて来る音が、たしかに私の耳に入り、あの跫音は妻が私を起しに来たのだな、と私はぼんやり考へてゐる。すると跫音はもうすぐ部屋の入口に近づき、戸が開けられた。と、同時であつた。私の側に居た影は立上つて、大急ぎで戸口のところの妻へ近寄り、両方が歩み寄ると見るより、忽ち一つの人物に溶け合つてしまつた。そして、私は勿論、妻によつて揺り起されたのである。\n\nＢ\n\n　睡れない闇の中で煙草を吸つた。顔の上にやつて寝たまゝ吸つてゐたが煙草の小さな火の美しさに私は段々見惚れた。はじめ赤い小さな炎のなかに現れて来たのは、何処かの邸と庭であつた。庭には歯朶や芭蕉が繁つて居り、邸の硝子窓に灯がともされてある。その景色はあまりに精密で灼熱であつた。煙草の火が次第に下に燃え移つて行くに随つて、私は今度は顔が浮ぶやうに思へた。ほんとにその次に現れたのは誰ともわからぬ一人の顔であつた。灰の中にあつて、燦然と輝く、生命のまなざしであつた。\n\n彷徨",
+      "characters": 589,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "　私はとぼとぼと生れ故郷の公園を歩いて行つた。颱風の余波があつて、空はしんと青かつた。十月の午後の光はいらだたしい植物の葉に触れてゐた。……私は十余年前、銭村五郎とよく訪れた神社の庭に踏込んでゐた。萩の花が咲いてゐた。後の山の松は一つ一つ揺れてゐた。しんかんとして誰もゐさうにない庭に、私は死んだ友達を持つてゐた。むしろ私の方が死んでるやうな気さへする。急に犬の吠える声が耳についた。玩具ほどの仔犬が今私をとがめて吠えて来るのだつた。\n\n無題\n\n　憂悶の涯に辿りつく睡りはまるで祈りのやうであつた。それをいつまでも私は辿つてゐたかつた。慟哭も憤怒もなべてはうつろなる睡りのなかに溶かし去られよ。\n\n　ああ、しかし、この時幽霊は来て、私の髪を掴んだ。現に、現実の生活の逼迫をどうしてくれるのだ、と彼女は激昂のあまり私に挑みかかつて来るのであつた。\n\n詠嘆二章\n\n春の美しい一日\n\n　春の美しい一日はたしかにある。暗い暗い人世に於いてすら、たしかにそんなものはあつた。",
+      "characters": 432,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "　不思議なことに、それを憶ひ出すのは一つの纏つた絵としてである。私について云へば、額縁に嵌められた、春の野山の風景がある。霞んだ空と紫色の山と緑の道路とが、中学生の頭に一つの苦悩にまで訴へて、過ぎ去つた瞬間を追求させた。するとたしかに窓枠が浮んで来た。その窓のほとりで子供の私が悲んでゐた。四月の美しい空を眺めて、その日が過ぎて行かうとするのを恍惚としてゐた。何が一体恍惚に価したかと云へば、その日は桃の節句で、小さな玩具の鍋と七輪で姉が牛肉のきれつぽしを焚いて、焚けると云つて喜んでゐた。しかし、私の頭にはもつと何か美しいものが一杯とその日には満ちてゐた。美しいものとは何か、それは結局何でもないことにちがひない。\n\n　今にして、私は昼寝して、空が真青だ、あんな真青な空に化したいと号泣する夢をみる。荒涼とした浮世に於ける、つらい暗い生活が私にもある。しかし、人生のこと何がはたして夢以上に切実であるか。春の美しい一日はたしかにある。\n\n雲\n\n　雲にはさまざまの形があり、それを眺めてゐると、眺めてゐた時間が溶け合つて行く。\n\n　はじめ私はあの雲といふものが、何かのシンボルで獣や霊魂の影だと想つた。ナポレオンの顔に似た雲を見つけたり、天狗の嘴に似た雲を見つけたことがある。石榴の樹の上に雲は流れた。\n\n　雲はすべて地図で、風のために絶えず変化してゆく嘆きでもあつた。金色に輝く夏の夕べの雲、濁つてためらふ秋の真昼の雲、それを眺めて眺めてあきなかつた中学生の私がある。",
+      "characters": 635,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "　何時からともなく雲を眺める習慣が止んだ。私の頭上に青空があることさへ忘れ、はしたない歳月を迷つた。けれども雲はやつぱし絶えず流れつづけてゐた。そして今、私が再び雲に見入れば、雲は昔ながらの、雲のつづきだ。\n\n青葉の頃\n\n葉もれ陽\n\n　簷には深々と青梅の葉が茂り、青空は簷のむかふに淵をなし、年老いた母はまぶしい葉もれ陽の縞に眼をしばたたく。もののかたちがもうよくみえないのだよ、お前がむかふからきたとしてもお前だといふことはわかるのだが顔なんかはつきりしないのだよ。ふるさとの梅は見違へるほど丈も伸びたし、はつなつの陽はかあつと明るいのに。\n\n松の芽\n\n　その島を訪れた。その島はみどりの肩を聳やかし、路といふ路が怒つてゐた。足もとの崖から伸びてゐる松の新芽はひりひりと陽の光にふるへ、油のやうな青空にむかつて伸びてゐた。\n\n夕ぐれ\n\n　水々しい季節の夕ぐれが、友情を呼んだ。その友に逢ひに行く途中、くねくねうねつた坂を通つた。坂のまはりに青葉はゆれ、やさしい燈もみえてゐた。黒ずんだ崖石や、埃つぽい家屋がもつれて、路は自づと袋路に入つた。すると或る軒の玄関から、ひよいと、その友の顔が現れた。\n\n　あの晩は娯しかつたね、と、ずうつと後になつて、その友は云ふのであつた。",
+      "characters": 536,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "朝昼晩\n\n　心身の疲労がほどよく拭はれてゐて、爽やかな朝といふものがある。これが少しく曲者である。今日ならば何でも出来るぞ、と空白のなかに途轍もない夢が浮上つてくる。だが、顔を洗つて一服するまで、ほんの些細なことから、それは傷けられてしまふ。一たん傷を受けたとなると、夢想はすこぶる怯懦になり、結局は空白のなかに萎縮してしまふ。あんまり爽やかすぎたから却つて一日がむなしく終るのであらうか。\n\n　　　○\n\n　どろんとして身も心も重苦しい午後、湿つぽい風をうけて人人は電車を待つてゐる。今日など人を訪ねたところで碌なことはありはしない、一そのこと部屋に帰つて寝転んでゐようかとも思ふのだが、どうも破れかぶれのものが人を訪ねてゆく宿命になるらしい。それにこの模糊とした空気のなかでは、相手の精神もどろんとしてゐるだらうし、いらだたしい気分ながら摩擦は却つておこらないのかもしれない。\n\n　　　○\n\n　タバコを吸ひながら読んだ本の一頁が、夜ふけにぐつと脳に喰ひさがつてきた。それには何も素ばらしいことは述べてなかつたのに、ただ頭にはつきり映じたといふことだけで、奇妙に軽い興奮がうづまき、その観念のまはりを寝そびれた思考がいつまでもうろついてゐる。ここからは恐らく何ものも生れて来ない筈なのに、やつぱし明確なもののまはりを混沌がとりかこんでゐて、それが明日への疲れを既にもう準備してゐるやうなのだつた。",
+      "characters": 598,
+      "ruby": []
+    }
+  ]
+}

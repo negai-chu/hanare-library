@@ -1,0 +1,48 @@
+{
+  "id": "a055538",
+  "title": "色彩",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "色彩",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "色彩",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　色彩なければ　我ら生はあらざらむ\n\n春宵の薄暮\n\nわが双眼の全き視神経は麻痺して\n\n宇宙は皆灰一色となり\n\n感ずべき何ものもなし\n\n心ただ焦燥して\n\n形なく踊れども\n\nみたすべき何ものもなし\n\nああ春宵の薄暮",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "奪われし色彩のかえらじ\n\n燃ゆるなき\n\n古城址の焔と消えんのみ",
+      "characters": 31,
+      "ruby": []
+    }
+  ]
+}

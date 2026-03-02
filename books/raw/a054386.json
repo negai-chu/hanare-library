@@ -1,0 +1,48 @@
+{
+  "id": "a054386",
+  "title": "帰村",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "帰村",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "帰村",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "寒々と背姿《せすがた》の林は続き\n\n連峯《れんぽう》は雪\n\nよれよれの路はまた坂になり\n\n鴉はあをあをと山蔭に群がり\n\nああ　少年の日の悲歌《エレヂー》が甦《よみが》へる\n\nゆふぐれよりも早く\n\nぱらぱら何時かのように村は花を灯《ひとも》し\n\n村はまた何かを悲しむであらう\n\nこんなにも林の多い路だつたかと",
+      "characters": 153,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "少年の日のふるさとに――\n\n傷心のわたしであつた",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

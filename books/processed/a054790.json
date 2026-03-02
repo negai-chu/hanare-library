@@ -1,0 +1,48 @@
+{
+  "id": "a054790",
+  "title": "こん畜生",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "こん畜生",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "こん畜生",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　こん畜生！\n\nおれは　みぶるいした\n\n　おれは菊一文字の短刀を買って\n\n　ふたたび　その女のところへきた\n\n　さァ　死ね\n\n　さァ　死ね\n\n　お前のような不実な奴を生かしておくことは　おれの神経がゆるさん\n\n　女は逃げようとした　まて\n\n　死ねなけゃ　おれが殺して――",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　ひとの真実をうらぎるやつは\n\n　それよりも　おれに大恥をかかしたやつは　ココ殺してやる\n\n　きった　ついた\n\n　血が吹いた\n\nこん畜生！\n\nおれは　ふたたび　みぶるいした",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

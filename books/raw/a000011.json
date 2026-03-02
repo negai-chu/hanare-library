@@ -1,0 +1,2455 @@
+{
+  "id": "a000011",
+  "title": "秋の瞳",
+  "author": "八木重吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 264
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋の瞳",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "序",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "息を　殺せ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "白い枝",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "哀しみの　火矢《ひや》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "朗《ほが》らかな　日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "フヱアリの　国",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "おほぞらの　こころ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "植木屋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "ふるさとの　山",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "しづかな　画家",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "うつくしいもの",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "一群の　ぶよ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "鉛と　ちようちよ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "花になりたい",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "無造作な　雲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "大和行",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "咲く心",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "劒《つるぎ》を持つ者",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "壺《つぼ》のような日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "つかれたる　心",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "かなしみ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "美しい　夢",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "心　よ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "死と珠《たま》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "ひびく　たましい",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "空を　指《さ》す　梢《こずゑ》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "赤ん坊が　わらふ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "花と咲け",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "甕《かめ》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "心　よ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "玉《たま》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "こころの　海《うな》づら",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "貫《つら》ぬく　光",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "秋の　かなしみ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "泪《なみだ》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "石くれ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "竜舌蘭",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "矜持ある　風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "静寂は怒る",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "悩ましき　外景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-41",
+            "number": "ほそい　がらす",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-42",
+            "number": "葉",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-43",
+            "number": "彫られた　空",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-44",
+            "number": "しづけさ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-45",
+            "number": "夾竹桃",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-46",
+            "number": "おもひで",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-47",
+            "number": "哀しみの海",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-48",
+            "number": "雲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-49",
+            "number": "在る日の　こころ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-50",
+            "number": "幼い日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-51",
+            "number": "痴寂な手",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-52",
+            "number": "くちばしの黄な　黒い鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-53",
+            "number": "何故に　色があるのか",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-54",
+            "number": "白き響",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-55",
+            "number": "丘を　よぢる",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-56",
+            "number": "おもたい　かなしみ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-57",
+            "number": "胡蝶",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-58",
+            "number": "おほぞらの　水",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-59",
+            "number": "そらの　はるけさ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-60",
+            "number": "霧が　ふる",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-61",
+            "number": "空が　凝視《み》てゐる",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-62",
+            "number": "こころ　暗き日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-63",
+            "number": "蒼白い　きりぎし",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-64",
+            "number": "夜の薔薇《そうび》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-65",
+            "number": "わが児《こ》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-66",
+            "number": "つばねの　穂",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-67",
+            "number": "人を　殺さば",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-68",
+            "number": "水に　嘆く",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-69",
+            "number": "蝕む　祈り",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-70",
+            "number": "哀しみの　秋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-71",
+            "number": "静かな　焔",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-72",
+            "number": "石塊《いしくれ》と　語る",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-73",
+            "number": "大木《たいぼく》　を　たたく",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-74",
+            "number": "稲妻",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-75",
+            "number": "しのだけ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-76",
+            "number": "むなしさの　空",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-77",
+            "number": "こころの　船出",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-78",
+            "number": "朝の　あやうさ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-79",
+            "number": "あめの　日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-80",
+            "number": "追憶",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-81",
+            "number": "草の　実",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-82",
+            "number": "暗光",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-83",
+            "number": "止まつた　ウオツチ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-84",
+            "number": "鳩が飛ぶ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-85",
+            "number": "草に　すわる",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-86",
+            "number": "夜の　空の　くらげ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-87",
+            "number": "虹",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-88",
+            "number": "秋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-89",
+            "number": "黎明",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-90",
+            "number": "不思議をおもふ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-91",
+            "number": "あをい　水のかげ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-92",
+            "number": "人間",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-93",
+            "number": "皎々とのぼつてゆきたい",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-94",
+            "number": "キーツに　寄す",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-95",
+            "number": "はらへたまつてゆく　かなしみ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-96",
+            "number": "怒《いか》れる　相《すがた》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-97",
+            "number": "かすかな　像《イメヱジ》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-98",
+            "number": "秋の日の　こころ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-99",
+            "number": "白い　雲",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-100",
+            "number": "白い　路",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-101",
+            "number": "感傷",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-102",
+            "number": "沼と風",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-103",
+            "number": "毛蟲を　うづめる",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-104",
+            "number": "春も　晩く",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-105",
+            "number": "おもひ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-106",
+            "number": "秋の　壁",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-107",
+            "number": "郷愁",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-108",
+            "number": "ひとつの　ながれ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-109",
+            "number": "宇宙の　良心",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-110",
+            "number": "空と光",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-111",
+            "number": "おもひなき　哀しさ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-112",
+            "number": "ゆくはるの　宵",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-113",
+            "number": "しづかなる　ながれ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-114",
+            "number": "ちいさい　ふくろ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-115",
+            "number": "哭くな　児よ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-116",
+            "number": "怒り",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-117",
+            "number": "春",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-118",
+            "number": "柳も　かるく",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 264,
+    "averageCharsPerPage": 36,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋の瞳",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "序",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　私は、友が無くては、耐へられぬのです。しかし、私には、ありません。この貧しい詩を、これを、読んでくださる方の胸へ捧げます。そして、私を、あなたの友にしてください。",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "息を　殺せ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "息を　ころせ\n\nいきを　ころせ\n\nあかんぼが　空を　みる\n\nああ　空を　みる",
+      "characters": 38,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "白い枝",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "白い　枝\n\nほそく　痛い　枝\n\nわたしのこころに\n\n白い　えだ",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "哀しみの　火矢《ひや》",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "はつあきの　よるを　つらぬく\n\nかなしみの　火矢こそするどく\n\nわづかに　銀色にひらめいてつんざいてゆく\n\nそれにいくらのせようと　あせつたとて\n\nこの　わたしのおもたいこころだもの\n\nああ　どうして\n\nそんな　うれしいことが　できるだらうか",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "朗《ほが》らかな　日",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "いづくにか\n\nものの\n\n落つる　ごとし\n\n音も　なく\n\nしきりにも　おつらし",
+      "characters": 38,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "フヱアリの　国",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "夕ぐれ\n\n夏のしげみを　ゆくひとこそ\n\nしづかなる　しげみの\n\nはるかなる奥に　フヱアリの　国をかんずる",
+      "characters": 52,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "おほぞらの　こころ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "わたしよ　わたしよ\n\n白鳥となり\n\nらんらんと　透きとほつて\n\nおほぞらを　かけり\n\nおほぞらの　うるわしいこころに　ながれよう",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "植木屋",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "あかるい　日だ　\n\n窓のそとをみよ　たかいところで\n\n植木屋が　ひねもすはたらく\n\nあつい　日だ\n\n用もないのに\n\nわたしのこころで\n\n朝から　刈りつづけてゐるのは　いつたいたれだ",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "ふるさとの　山",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "ふるさとの山のなかに　うづくまつたとき\n\nさやかにも　私の悔いは　もえました\n\nあまりにうつくしい　それの　ほのほに\n\nしばし　わたしは\n\nこしかたの　あやまちを　讃むるようなきもちになつた",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "しづかな　画家",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "だれでも　みてゐるな、\n\nわたしは　ひとりぼつちで描くのだ、\n\nこれは　ひろい空　しづかな空、\n\nわたしのハイ・ロマンスを　この空へ　描いてやらう",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "うつくしいもの",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "わたしみづからのなかでもいい\n\nわたしの外の　せかいでも　いい\n\nどこにか　「ほんとうに　美しいもの」は　ないのか\n\nそれが　敵であつても　かまわない\n\n及びがたくても　よい\n\nただ　在るといふことが　分りさへすれば、\n\nああ　ひさしくも　これを追ふにつかれたこころ",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "一群の　ぶよ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "いち群のぶよが　舞ふ　秋の落日\n\n（ああ　わたしも　いけないんだ\n\n他人《ひと》も　いけないんだ）\n\nまやまやまやと　ぶよが　くるめく\n\n（吐息ばかりして　くらすわたしなら\n\n死んぢまつたほうが　いいのかしら）",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "鉛と　ちようちよ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "鉛《なまり》のなかを\n\nちようちよが　とんでゆく",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "花になりたい",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "えんぜるになりたい",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "花になりたい",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "無造作な　雲",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 32,
+      "content": "無造作な　くも、\n\nあのくものあたりへ　死にたい",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "大和行",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 34,
+      "content": "大和《やまと》の国の水は　こころのようにながれ\n\nはるばると　紀伊とのさかひの山山のつらなり、\n\nああ　黄金《きん》のほそいいとにひかつて\n\n秋のこころが　ふりそそぎます\n\nさとうきびの一片をかじる\n\nきたない子が　築地《ついぢ》からひよつくりとびだすのもうつくしい、\n\nこのちさく赤い花も　うれしく\n\nしんみりと　むねへしみてゆきます\n\nけふはからりと　天気もいいんだし",
+      "characters": 186,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "わけもなく　わたしは童話の世界をゆく、\n\n日は　うららうららと　わづかに白い雲が　わき\n\nみかん畑には　少年の日の夢が　ねむる\n\n皇陵や、また　みささぎのうへの　しづかな雲や\n\n追憶は　はてしなく　うつくしくうまれ、\n\n志幾《しき》の宮の　舞殿《まひでん》にゆかをならして　そでをふる\n\n白衣《びやくえ》の　神女《みこ》は　くちびるが　紅《あか》い",
+      "characters": 174,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "咲く心",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "うれしきは\n\nこころ　咲きいづる日なり\n\n秋、山にむかひて　うれひあれば\n\nわがこころ　花と咲くなり",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "劒《つるぎ》を持つ者",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "つるぎを　もつものが　ゐる、\n\nとつぜん、わたしは　わたしのまわりに\n\nそのものを　するどく　感ずる\n\nつるぎは　しづかであり\n\nつるぎを　もつ人《ひと》は　しづかである\n\nすべて　ほのほのごとく　しづかである\n\nやるか\n\nなんどき　斬りこんでくるかわからぬのだ",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "壺《つぼ》のような日",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 41,
+      "content": "壺のような日　こんな日",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 42,
+      "content": "宇宙の　こころは\n\n彫《きざ》みたい！といふ　衝動にもだへたであらう\n\nこんな　日\n\n「かすかに　ほそい声」の主《ぬし》は\n\n光を　暗を　そして　また\n\nきざみぬしみづからに似た　こころを\n\nしづかに　つよく　きざんだにちがひあるまい、\n\nけふは　また　なんといふ\n\n壺のような　日なんだらう",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "つかれたる　心",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 44,
+      "content": "あかき　霜月の葉を\n\n窓よりみる日　旅を　おもふ\n\nかくのごときは　じつに心おごれるに似たれど\n\nまことは\n\nこころ　あまりにも　つかれたるゆえなり",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "かなしみ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 46,
+      "content": "このかなしみを\n\nひとつに　統《す》ぶる　力《ちから》はないか",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "美しい　夢",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 48,
+      "content": "やぶれたこの　窓から\n\nゆふぐれ　街なみいろづいた　木をみたよる\n\nひさしぶりに　美しい夢をみた",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "心　よ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 50,
+      "content": "ほのかにも　いろづいてゆく　こころ\n\nわれながら　あいらしいこころよ\n\nながれ　ゆくものよ\n\nさあ　それならば　ゆくがいい\n\n「役立たぬもの」にあくがれて　はてしなく\n\nまぼろしを　追ふて　かぎりなく\n\nこころときめいて　かけりゆけよ",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "死と珠《たま》",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 52,
+      "content": "死　と　珠　と\n\nまた　おもふべき　今日が　きた",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "ひびく　たましい",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 54,
+      "content": "ことさら\n\nかつぜんとして　秋がゆふぐれをひろげるころ\n\nたましいは　街を　ひたはしりにはしりぬいて\n\n西へ　西へと　うちひびいてゆく",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "空を　指《さ》す　梢《こずゑ》",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 56,
+      "content": "そらを　指す\n\n木は　かなし\n\nそが　ほそき\n\nこずゑの　傷《いた》さ",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "赤ん坊が　わらふ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 58,
+      "content": "赤んぼが　わらふ\n\nあかんぼが　わらふ\n\nわたしだつて　わらふ\n\nあかんぼが　わらふ",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 59,
+      "content": "花と咲け",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 60,
+      "content": "鳴く　蟲よ、花　と　咲　け\n\n地　に　おつる\n\nこの　秋陽《あきび》、花　と　咲　け、\n\nああ　さやかにも\n\nこの　こころ、咲けよ　花と　咲けよ",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 61,
+      "content": "甕《かめ》",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 62,
+      "content": "甕　を　いくつしみたい",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "この日　ああ\n\n甕よ、こころのしづけさにうかぶ　その甕\n\nなんにもない\n\nおまへの　うつろよ\n\n甕よ、わたしの　むねは\n\n『甕よ！』と　おまへを　よびながら\n\nあやしくも　ふるへる",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "心　よ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 65,
+      "content": "こころよ\n\nでは　いつておいで\n\nしかし\n\nまた　もどつておいでね\n\nやつぱり\n\nここが　いいのだに\n\nこころよ\n\nでは　行つておいで",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "玉《たま》",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 67,
+      "content": "わたしは\n\n玉に　ならうかしら\n\nわたしには\n\n何《なん》にも　玉にすることはできまいゆえ",
+      "characters": 45,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "こころの　海《うな》づら",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 69,
+      "content": "照らされし　こころの　海《うな》づら\n\nしづみゆくは　なにの　夕陽\n\nしらみゆく　ああ　その　帆かげ\n\n日は　うすれゆけど\n\n明けてゆく　白き　ふなうた",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 70,
+      "content": "貫《つら》ぬく　光",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 71,
+      "content": "はじめに　ひかりがありました\n\nひかりは　哀しかつたのです\n\nひかりは\n\nありと　あらゆるものを\n\nつらぬいて　ながれました\n\nあらゆるものに　息《いき》を　あたへました\n\nにんげんのこころも\n\nひかりのなかに　うまれました\n\nいつまでも　いつまでも",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "かなしかれと　祝福《いわわ》れながら",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 73,
+      "content": "秋の　かなしみ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 74,
+      "content": "わがこころ\n\nそこの　そこより\n\nわらひたき\n\nあきの　かなしみ\n\nあきくれば\n\nかなしみの\n\nみなも　おかしく\n\nかくも　なやまし\n\nみみと　めと",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 75,
+      "content": "はなと　くち\n\nいちめんに\n\nくすぐる　あきのかなしみ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "泪《なみだ》",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 77,
+      "content": "泪《なみだ》、泪《なみだ》\n\nちららしい\n\nなみだの　出あひがしらに\n\nもの　寂びた\n\n哄《わらひ》　が\n\nふつと　なみだを　さらつていつたぞ",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "石くれ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 79,
+      "content": "石くれを　ひろつて\n\nと視、こう視\n\n哭《な》くばかり\n\nひとつの　いしくれを　みつめてありし\n\nややありて　\n\nこころ　躍《おど》れり\n\nされど\n\nやがて　こころ　おどらずなれり",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "竜舌蘭",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 81,
+      "content": "りゆうぜつらん　の\n\nあをじろき　はだえに　湧く\n\nきわまりも　あらぬ\n\nみづ色の　寂びの　ひびき\n\nかなしみの　ほのほのごとく\n\nさぶしさのほのほの　ごとく\n\nりゆうぜつらんの　しづけさは\n\n豁然《かつぜん》たる　大空を　仰《あふ》ぎたちたり",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "矜持ある　風景",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 83,
+      "content": "矜持ある　風景",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 84,
+      "content": "いつしらず\n\nわが　こころに　住む\n\n浪《らう》、浪、浪　として　しづかなり",
+      "characters": 38,
+      "ruby": []
+    },
+    {
+      "pageNumber": 85,
+      "content": "静寂は怒る",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 86,
+      "content": "静　寂　は　怒　る、\n\nみよ、蒼穹の　怒《いきどほ》りを",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 87,
+      "content": "悩ましき　外景",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 88,
+      "content": "すとうぶを　みつめてあれば\n\nすとうぶをたたき切つてみたくなる\n\nぐわらぐわらとたぎる\n\nこの　すとうぶの　怪！　寂！",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 89,
+      "content": "ほそい　がらす",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 90,
+      "content": "ほそい\n\nがらすが\n\nぴいん　と\n\nわれました",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 91,
+      "content": "葉",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 92,
+      "content": "葉よ、\n\nしんしん　と\n\n冬日がむしばんでゆく、\n\nおまへも\n\n葉と　現ずるまでは\n\nいらいらと　さぶしかつたらうな\n\n葉よ、\n\n葉と　現じたる\n\nこの日　おまへの　崇厳",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 93,
+      "content": "でも、葉よ\n\nいままでは　さぶしかつたらうな",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "彫られた　空",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 95,
+      "content": "彫られた　空の　しづけさ\n\n無辺際の　ちからづよい　その木地に\n\nひたり！　と　あてられたる\n\nさやかにも　一刀の跡",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "しづけさ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 97,
+      "content": "ある日\n\nもえさかる　ほのほに　みいでし\n\nきわまりも　あらぬ　しづけさ\n\nある日\n\n憎しみ　もだえ\n\nなげきと　かなしみの　おもわにみいでし\n\n水の　それのごとき　静けさ",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 98,
+      "content": "夾竹桃",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 99,
+      "content": "おほぞらのもとに　死ぬる\n\nはつ夏の　こころ　ああ　ただひとり\n\nきようちくとうの　くれなゐが\n\nはつなつのこころに　しみてゆく",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "おもひで",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 101,
+      "content": "おもひでは　琥珀《オパール》の\n\nましづかに　きれいなゆめ\n\nさんらんとふる　嗟嘆《さたん》でさへ\n\n金色《きん》の　葉の　おごそかに\n\nああ、こころ　うれしい　煉獄の　かげ\n\n人の子は　たゆたひながら\n\nうらぶれながら\n\nもだゆる日　もだゆるについで\n\nきわまりしらぬ　ケーオスのしじまへ",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "廓寥と　彫られて　燃え\n\n焔々と　たちのぼる　したしい風景",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 103,
+      "content": "哀しみの海",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 104,
+      "content": "哀しみの\n\nうなばら　かけり\n\nわが玉　われは\n\nうみに　なげたり\n\n浪よ\n\nわが玉　かへさじとや",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 105,
+      "content": "雲",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 106,
+      "content": "くものある日\n\nくもは　かなしい\n\nくもの　ない日\n\nそらは　さびしい",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 107,
+      "content": "在る日の　こころ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 108,
+      "content": "ある日の　こころ\n\n山となり\n\nある日の　こころ\n\n空となり\n\nある日の　こころ\n\nわたしと　なりて　さぶし",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 109,
+      "content": "幼い日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 110,
+      "content": "おさない日は\n\n水が　もの云ふ日\n\n木が　そだてば\n\nそだつひびきが　きこゆる日",
+      "characters": 40,
+      "ruby": []
+    },
+    {
+      "pageNumber": 111,
+      "content": "痴寂な手",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 112,
+      "content": "痴寂《ちせき》な手　その手だ、",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 113,
+      "content": "こころを　むしばみ　眸《め》を　むしばみ\n\n山を　むしばみ　木と草を　むしばむ",
+      "characters": 39,
+      "ruby": []
+    },
+    {
+      "pageNumber": 114,
+      "content": "痴寂な手　石くれを　むしばみ",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 115,
+      "content": "飯を　むしばみ　かつをぶしを　むしばみ\n\nああ、ねずみの　糞《ふん》さへ　むしばんでゆく\n\nわたしを、小《ち》さい　妻を\n\nしづかなる空を　白い雲を",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 116,
+      "content": "痴寂な手　おまへは　むさぼり　むしばむ",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 117,
+      "content": "おお、おろかしい　寂寥の手\n\nおまへは、まあ\n\nじぶんの手をさへ　喰つて　しまふのかえ",
+      "characters": 43,
+      "ruby": []
+    },
+    {
+      "pageNumber": 118,
+      "content": "くちばしの黄な　黒い鳥",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 119,
+      "content": "くちばしの　黄いろい\n\nまつ黒い　鳥であつたつけ\n\nねちねち　うすら白い　どぶのうへに\n\n籠《かご》のなかで　ぎやうつ！　とないてゐたつけ、\n\nなにかしら　ほそいほそいものが\n\nピンと　すすり哭《な》いてゐるような\n\nそんな　真昼で　あつたつけ",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 120,
+      "content": "何故に　色があるのか",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 121,
+      "content": "なぜに　色があるのだらうか\n\nむかし、混沌は　さぶし　かつた\n\n虚無は　飢えてきたのだ\n\nある日、虚無の胸のかげの　一抹《いちまつ》が\n\nすうつと　蠱惑《アムブロウジアル》の　翡翠に　ながれた\n\nやがて、ねぐるしい　ある夜の　盗汗《ねあせ》が\n\n四月の雨にあらわれて　青《ブルウ》に　ながれた",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 122,
+      "content": "白き響",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 123,
+      "content": "さく、と　食へば\n\nさく、と　くわるる　この　林檎の　白き肉\n\nなにゆえの　このあわただしさぞ\n\nそそくさとくひければ\n\nわが　鼻先きに　ぬれし汁《つゆ》\n\nああ、りんごの　白きにくにただよふ\n\nまさびしく　白きひびき",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 124,
+      "content": "丘を　よぢる",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 125,
+      "content": "丘を　よぢ　丘に　たてば\n\nこころ　わづかに　なぐさむに似る\n\nさりながら\n\n丘にたちて　ただひとり\n\n水をうらやみ　空をうらやみ\n\n大木《たいぼく》を　うらやみて　おりてきたれる",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 126,
+      "content": "おもたい　かなしみ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 127,
+      "content": "おもたい　かなしみが　さえわたるとき\n\nさやかにも　かなしみは　ちから\n\nみよ、かなしみの　つらぬくちから\n\nかなしみは　よろこびを\n\n怒り、なげきをも　つらぬいて　もえさかる\n\nかなしみこそ\n\nすみわたりたる　すだまとも　生くるか",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 128,
+      "content": "胡蝶",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 129,
+      "content": "へんぽんと　ひるがへり　かけり\n\n胡蝶は　そらに　まひのぼる\n\nゆくてさだめし　ゆえならず\n\nゆくて　かがやく　ゆえならず\n\nただひたすらに　かけりゆく\n\nああ　ましろき　胡蝶\n\nみずや　みずや　ああ　かけりゆく\n\nゆくてもしらず　とももあらず\n\nひとすぢに　ひとすぢに",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "あくがれの　ほそくふるふ　銀糸をあへぐ",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 131,
+      "content": "おほぞらの　水",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 132,
+      "content": "おほぞらを　水　ながれたり\n\nみづのこころに　うかびしは\n\nかぢもなき　銀の　小舟《おぶね》、ああ\n\nながれゆく　みづの　さやけさ\n\nうかびたる　ふねのしづけさ",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 133,
+      "content": "そらの　はるけさ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 134,
+      "content": "こころ\n\nそらの　はるけさを　かけりゆけば\n\n豁然と　ものありて　湧くにも　似たり\n\nああ　こころは　かきわけのぼる\n\nしづけき　くりすたらいんの　高原",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 135,
+      "content": "霧が　ふる",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 136,
+      "content": "霧が　ふる",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 137,
+      "content": "きりが　ふる\n\nあさが　しづもる\n\nきりがふる",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 138,
+      "content": "空が　凝視《み》てゐる",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 139,
+      "content": "空が　凝視《み》てゐる",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 140,
+      "content": "ああ　おほぞらが　わたしを　みつめてゐる\n\nおそろしく　むねおどるかなしい　瞳\n\nひとみ！　ひとみ！\n\nひろやかな　ひとみ、ふかぶかと\n\nかぎりない　ひとみのうなばら\n\nああ、その　つよさ\n\nまさびしさ　さやけさ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 141,
+      "content": "こころ　暗き日",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 142,
+      "content": "やまぶきの　花\n\nつばきのはな\n\nこころくらきけふ　しきりにみたし\n\nやまぶきのはな\n\nつばきのはな",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 143,
+      "content": "蒼白い　きりぎし",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 144,
+      "content": "蒼白い　きりぎしをゆく\n\nその　きりぎしの　あやうさは\n\nひとの子の　あやうさに似る、\n\nまぼろしは　暴風《はやて》めく\n\n黄に　病みて　むしばまれゆく　薫香\n\n悩ましい　まあぶるの　しづけさ\n\nたひらかな　そのしずけさの　おもわに\n\nあまりにもつよく　うつりてなげく\n\n悔恨の　白い　おもひで",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 145,
+      "content": "みよ、悔いを　むしばむ\n\nその　悔いのおぞましさ\n\n聖栄のひろやかさよ\n\nおお　人の子よ\n\nおまへは　それを　はぢらうのか",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 146,
+      "content": "夜の薔薇《そうび》",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 147,
+      "content": "ああ\n\nはるか\n\nよるの\n\n薔薇",
+      "characters": 16,
+      "ruby": []
+    },
+    {
+      "pageNumber": 148,
+      "content": "わが児《こ》",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 149,
+      "content": "わが児と\n\nすなを　もり\n\n砂を　くづし\n\n浜に　あそぶ\n\nつかれたれど\n\nかなし　けれど\n\nうれひなき　はつあきのひるさがり",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 150,
+      "content": "つばねの　穂",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 151,
+      "content": "ふるへるのか\n\nそんなに　白つぽく、さ\n\nこれは\n\nつばねの　ほうけた　穂\n\nほうけた　穂なのかい\n\nわたしぢや　なかつたのか、え",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 152,
+      "content": "人を　殺さば",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 153,
+      "content": "ぐさり！　と\n\nやつて　みたし\n\n人を　ころさば\n\nこころよからん",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 154,
+      "content": "水に　嘆く",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 155,
+      "content": "みづに　なげく　ゆふべ\n\nなみも\n\nすすり　哭く、あわれ　そが\n\nながき　髪\n\n砂に　まつわる\n\nわが　ひくく　うたへば\n\nしづむ　陽\n\nいたいたしく　ながる\n\n手　ふれなば",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 156,
+      "content": "血　ながれん\n\nきみ　むねを　やむ\n\nきみが　唇《くち》\n\nいとど　哀しからん\n\nきみが　まみ\n\nうちふるわん\n\nみなと、ふえ　とほ鳴れば\n\nかなしき　港\n\n茅渟《ちぬ》の　みづ",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "とも　なりて、あれ\n\nとぶは　なぞ、\n\n魚か、さあれ\n\nしづけき　うみ\n\nわが　もだせば\n\nみづ　満々と　みちく\n\nあまりに\n\nさぶし",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 158,
+      "content": "蝕む　祈り",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 159,
+      "content": "うちけぶる\n\nおもひでの　瓔珞\n\n悔いか　なげきか　うれひか\n\nおお、きららしい\n\nかなしみの　すだま\n\nぴらる　ぴらる\n\nゆうらめく　むねの　妖玉\n\nさなり　さなり\n\n死も　なぐさまぬ",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 160,
+      "content": "らんらんと　むしばむ　いのり",
+      "characters": 14,
+      "ruby": []
+    },
+    {
+      "pageNumber": 161,
+      "content": "哀しみの　秋",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 162,
+      "content": "わが　哀しみの　秋に似たるは\n\nみにくき　まなこ病む　四十女の\n\nべつとりと　いやにながい　あご\n\n昨夜みた夢、このじぶんに\n\n『腹切れ』と\n\n刀つきつけし　西郷隆盛の顔\n\n猫の奴めが　よるのまに\n\nわが　庭すみに　へどしてゆきし\n\n白魚《しらうを》の　なまぬるき　銀のひかり",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 163,
+      "content": "静かな　焔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 164,
+      "content": "各《ひと》つの　木に\n\n各《ひと》つの　影\n\n木　は\n\nしづかな　ほのほ",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 165,
+      "content": "石塊《いしくれ》と　語る",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 166,
+      "content": "石くれと　かたる\n\nわがこころ\n\nかなしむべかり\n\nむなしきと　かたる、\n\nかくて　厭くなき\n\nわが　こころ\n\nしづかに　いかる",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "大木《たいぼく》　を　たたく",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 168,
+      "content": "ふがいなさに　ふがいなさに\n\n大木をたたくのだ、\n\nなんにも　わかりやしない　ああ\n\nこのわたしの　いやに安物のぎやまんみたいな\n\n『真理よ　出てこいよ\n\n出てきてくれよ』\n\nわたしは　木を　たたくのだ\n\nわたしは　さびしいなあ",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 169,
+      "content": "稲妻",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 170,
+      "content": "くらい　よる、\n\nひとりで　稲妻をみた\n\nそして　いそいで　ペンをとつた\n\nわたしのうちにも\n\nいなづまに似た　ひらめきがあるとおもつたので、\n\nしかし　だめでした\n\nわたしは　たまらなく\n\n歯をくひしばつて　つつぷしてしまつた",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 171,
+      "content": "しのだけ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 172,
+      "content": "この　しのだけ\n\nほそく　のびた\n\nなぜ　ほそい\n\nほそいから　わたしのむねが　痛い",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "むなしさの　空",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 174,
+      "content": "むなしさの　ふかいそらへ\n\nほがらかにうまれ　湧く　詩《ポヱジイ》のこころ\n\n旋律は　水のように　ながれ\n\nあらゆるものがそこにをわる　ああ　しづけさ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 175,
+      "content": "こころの　船出",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 176,
+      "content": "しづか　しづか　真珠の空\n\nああ　ましろき　こころのたび\n\nうなそこをひとりゆけば\n\nこころのいろは　かぎりなく\n\nただ　こころのいろにながれたり\n\nああしろく　ただしろく\n\nはてしなく　ふなでをする\n\nわが身を　おほふ　真珠の　そら",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 177,
+      "content": "朝の　あやうさ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 178,
+      "content": "すずめが　とぶ\n\nいちじるしい　あやうさ\n\nはれわたりたる\n\nこの　あさの　あやうさ",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 179,
+      "content": "あめの　日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 180,
+      "content": "しろい　きのこ\n\nきいろい　きのこ\n\nあめの日\n\nしづかな日",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 181,
+      "content": "追憶",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 182,
+      "content": "山のうへには\n\nはたけが　あつたつけ\n\nはたけのすみに　うづくまつてみた\n\nあの　空の　近かつたこと\n\nおそろしかつたこと",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 183,
+      "content": "草の　実",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 184,
+      "content": "実《み》！\n\nひとつぶの　あさがほの　実\n\nさぶしいだらうな、実よ\n\nあ　おまへは　わたしぢやなかつたのかえ",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "暗光",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 186,
+      "content": "ちさい　童女が\n\nぬかるみばたで　くびをまわす\n\n灰色の\n\n午后の　暗光",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 187,
+      "content": "止まつた　ウオツチ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 188,
+      "content": "止まつた　懐中時計《ウオツチ》、\n\nほそい　三つの　針、\n\n白い　夜だのに\n\n丸いかほの　おまへの　うつろ、\n\nうごけ　うごけ\n\nうごかぬ　おまへがこわい",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 189,
+      "content": "鳩が飛ぶ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 190,
+      "content": "あき空を　はとが　とぶ、\n\nそれでよい\n\nそれで　いいのだ",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 191,
+      "content": "草に　すわる",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 192,
+      "content": "わたしの　まちがひだつた\n\nわたしのまちがひだつた\n\nこうして　草にすわれば　それがわかる",
+      "characters": 45,
+      "ruby": []
+    },
+    {
+      "pageNumber": 193,
+      "content": "夜の　空の　くらげ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 194,
+      "content": "くらげ　くらげ\n\nくものかかつた　思ひきつた　よるの月",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 195,
+      "content": "虹",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 196,
+      "content": "この虹をみる　わたしと　ちさい妻、\n\nやすやすと　この虹を讃めうる\n\nわたしら二人　けふのさひわひのおほいさ",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 197,
+      "content": "秋",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 198,
+      "content": "秋が　くると　いふのか\n\nなにものとも　しれぬけれど\n\nすこしづつ　そして　わづかにいろづいてゆく、\n\nわたしのこころが\n\nそれよりも　もつとひろいもののなかへくづれて　ゆくのか",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 199,
+      "content": "黎明",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 200,
+      "content": "れいめいは　さんざめいて　ながれてゆく\n\nやなぎのえだが　さらりさらりと　なびくとき\n\nあれほどおもたい　わたしの　こころでさへ\n\nなんとはなしに　さらさらとながされてゆく",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 201,
+      "content": "不思議をおもふ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 202,
+      "content": "たちまち　この雑草の庭に　ニンフが舞ひ\n\nヱンゼルの羽音が　きわめてしづかにながれたとて\n\n七宝荘厳の天の蓮華が　咲きいでたとて\n\nわたしのこころは　おどろかない、\n\n倦み　つかれ　さまよへる　こころ\n\nあへぎ　もとめ　もだへるこころ\n\nふしぎであらうとも　うつくしく咲きいづるなら\n\nひたすらに　わたしも　舞ひたい",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 203,
+      "content": "あをい　水のかげ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 204,
+      "content": "たかい丘にのぼれば\n\n内海《ないかい》の水のかげが　あをい\n\nわたしのこころは　はてしなく　くづをれ\n\nかなしくて　かなしくて　たえられない",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 205,
+      "content": "人間",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 206,
+      "content": "巨人が　生まれたならば\n\n人間を　みいんな　植物にしてしまうにちがいない",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 207,
+      "content": "皎々とのぼつてゆきたい",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 208,
+      "content": "それが　ことによくすみわたつた日であるならば\n\nそして君のこころが　あまりにもつよく\n\n説きがたく　消しがたく　かなしさにうづく日なら\n\n君は　この阪路《さかみち》をいつまでものぼりつめて\n\nあの丘よりも　もつともつとたかく\n\n皎々と　のぼつてゆきたいとは　おもわないか",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 209,
+      "content": "キーツに　寄す",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 210,
+      "content": "うつくしい　秋のゆふぐれ\n\n恋人の　白い　横顔《プロフアイル》―キーツの　幻《まぼろし》",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 211,
+      "content": "はらへたまつてゆく　かなしみ",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 212,
+      "content": "かなしみは　しづかに　たまつてくる\n\nしみじみと　そして　なみなみと\n\nたまりたまつてくる　わたしの　かなしみは\n\nひそかに　だが　つよく　透きとほつて　ゆく\n\nこうして　わたしは　痴人のごとく\n\nさいげんもなく　かなしみを　たべてゐる\n\nいづくへとても　ゆくところもないゆえ\n\nのこりなく　かなしみは　はらへたまつてゆく",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 213,
+      "content": "怒《いか》れる　相《すがた》",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 214,
+      "content": "空が　怒つてゐる\n\n木が　怒つてゐる\n\nみよ！　微笑《ほほえみ》が　いかつてゐるではないか\n\n寂寥、憂愁、哄笑、愛慾、\n\nひとつとして　怒つてをらぬものがあるか\n\nああ　風景よ、いかれる　すがたよ、\n\nなにを　そんなに待ちくたびれてゐるのか\n\n大地から生まれいづる者を待つのか\n\n雲に乗つてくる人を　ぎよう望して止まないのか",
+      "characters": 162,
+      "ruby": []
+    },
+    {
+      "pageNumber": 215,
+      "content": "かすかな　像《イメヱジ》",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 216,
+      "content": "山へゆけない日　よく晴れた日\n\nむねに　わく",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 217,
+      "content": "かすかな　像《イメヱジ》",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 218,
+      "content": "秋の日の　こころ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 219,
+      "content": "花が　咲いた\n\n秋の日の\n\nこころのなかに　花がさいた",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 220,
+      "content": "白い　雲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 221,
+      "content": "秋の　いちじるしさは\n\n空の　碧《みどり》を　つんざいて　横にながれた白い雲だ\n\nなにを　かたつてゐるのか\n\nそれはわからないが、\n\nりんりんと　かなしい　しづかな雲だ",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 222,
+      "content": "白い　路",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 223,
+      "content": "白い　路",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 224,
+      "content": "まつすぐな　杉\n\nわたしが　のぼる、\n\nいつまでも　のぼりたいなあ",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 225,
+      "content": "感傷",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 226,
+      "content": "赤い　松の幹は　感傷",
+      "characters": 10,
+      "ruby": []
+    },
+    {
+      "pageNumber": 227,
+      "content": "沼と風",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 228,
+      "content": "おもたい\n\n沼ですよ\n\nしづかな\n\nかぜ　ですよ",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 229,
+      "content": "毛蟲を　うづめる",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 230,
+      "content": "まひる\n\nけむし　を　土にうづめる",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 231,
+      "content": "春も　晩く",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 232,
+      "content": "春も　おそく\n\nどこともないが\n\n大空に　水が　わくのか\n\n水が　ながれるのか\n\nなんとはなく\n\nまともにはみられぬ　こころだ\n\n大空に　わくのは\n\nおもたい水なのか",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 233,
+      "content": "おもひ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 234,
+      "content": "かへるべきである　ともおもわれる",
+      "characters": 16,
+      "ruby": []
+    },
+    {
+      "pageNumber": 235,
+      "content": "秋の　壁",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 236,
+      "content": "白き　\n\n秋の　壁に\n\nかれ枝もて\n\nえがけば\n\nかれ枝より\n\nしづかなる\n\nひびき　ながるるなり",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 237,
+      "content": "郷愁",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 238,
+      "content": "このひごろ\n\nあまりには\n\nひとを　憎まず\n\nすきとほりゆく",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 239,
+      "content": "郷愁",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 240,
+      "content": "ひえびえと　ながる",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 241,
+      "content": "ひとつの　ながれ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 242,
+      "content": "ひとつの\n\nながれ\n\nあるごとし、\n\nいづくにか　空にかかりてか\n\nる、る、と\n\nながるらしき",
+      "characters": 47,
+      "ruby": []
+    },
+    {
+      "pageNumber": 243,
+      "content": "宇宙の　良心",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 244,
+      "content": "宇宙の良心―耶蘇",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 245,
+      "content": "空と光",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 246,
+      "content": "彫《きざ》まれたる\n\n空よ\n\n光よ",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 247,
+      "content": "おもひなき　哀しさ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 248,
+      "content": "はるの日の\n\nわづかに　わづかに霧《き》れるよくはれし野をあゆむ\n\nああ　おもひなき　かなしさよ",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 249,
+      "content": "ゆくはるの　宵",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 250,
+      "content": "このよひは　ゆくはるのよひ\n\nかなしげな　はるのめがみは\n\nくさぶえを　やさしき唇《くち》へ\n\nしつかと　おさへ　うなだれてゐる",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 251,
+      "content": "しづかなる　ながれ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 252,
+      "content": "せつに　せつに\n\nねがへども　けふ水を　みえねば\n\nなぐさまぬ　こころおどりて\n\nはるのそらに\n\nしづかなる　ながれを　かんずる",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 253,
+      "content": "ちいさい　ふくろ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 254,
+      "content": "これは　ちいさい　ふくろ\n\nねんねこ　おんぶのとき\n\nせなかに　たらす　赤いふくろ\n\nまつしろな　絹のひもがついてゐます\n\nけさは\n\nしなやかな　秋\n\nごらんなさい\n\n机のうへに　金糸のぬいとりもはいつた　赤いふくろがおいてある",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 255,
+      "content": "哭くな　児よ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 256,
+      "content": "なくな　児よ",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 257,
+      "content": "哭くな　児よ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 258,
+      "content": "この　ちちをみよ\n\nなきもせぬ\n\nわらひも　せぬ　わ",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 259,
+      "content": "怒り",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 260,
+      "content": "かの日の　怒り\n\nひとりの　いきもののごとくあゆみきたる\n\nひかりある\n\nくろき　珠のごとく　うしろよりせまつてくる",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 261,
+      "content": "春",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 262,
+      "content": "春は　かるく　たたずむ\n\nさくらの　みだれさく　しづけさの　あたりに\n\n十四の少女の\n\nちさい　おくれ毛の　あたりに\n\n秋よりは　ひくい　はなやかな　そら\n\nああ　けふにして　春のかなしさを　あざやかにみる",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 263,
+      "content": "柳も　かるく",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 264,
+      "content": "やなぎも　かるく\n\n春も　かるく\n\n赤い　山車《だし》には　赤い児がついて\n\n青い　山車には　青い児がついて\n\n柳もかるく\n\nはるもかるく\n\nけふの　まつりは　花のようだ",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

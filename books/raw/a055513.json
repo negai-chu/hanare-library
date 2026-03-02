@@ -1,0 +1,48 @@
+{
+  "id": "a055513",
+  "title": "ある時",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ある時",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ある時",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「未曾有のキキン」\n\n「大水害」\n\n「餓死の年」\n\n遠いほんとうに遠い\n\n父と息子の住んで居る土地は\n\n時代をとりちがえて生きて居るようにほんとうに遠い\n\n手紙の封筒は\n\nほご紙を飯粒のりでこさえておくる\n\n切手はどこかのすみからさがして来たようにすすけてしわくちゃだ",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "父と息子のたよりは\n\n三銭の切手もめったに送らない\n\n父は「死んでしまおうか」と訴えてくる\n\n白髪のお母よ丈夫で居てくれ\n\n小さい弟妹よ、丈夫に育ってくれ",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

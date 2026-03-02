@@ -1,0 +1,42 @@
+{
+  "id": "a042362",
+  "title": "田舎者",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "田舎者",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "田舎者",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私は、青森県北津軽郡というところで、生れました。今官一とは、同郷であります。彼も、なかなかの、田舎者ですが、私のさとは、彼の生れ在所より、更に十里も山奥でありますから、何をかくそう、私は、もっとひどい田舎者なのであります。",
+      "characters": 111,
+      "ruby": []
+    }
+  ]
+}

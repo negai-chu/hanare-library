@@ -1,0 +1,42 @@
+{
+  "id": "a054380",
+  "title": "別れ",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "別れ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "別れ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "別れの馬車の鈴の音《ネ》が\n\nつらい心をまたせめる\n\n日暮峠でみかへれば\n\n山が霞んで遠くなる\n\n寒い夜風に町の灯が\n\n悲しく遠くゆれてゐる\n\n馬車の窓から故山《ヤマ》見れば\n\n空にほんのりおぼろ月\n\n（四・十二）",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

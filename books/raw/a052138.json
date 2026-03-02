@@ -1,0 +1,48 @@
+{
+  "id": "a052138",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "さし出し候使の者ハ小曽根英四郎の親類入木や重平番頭の者、与平と申もの、何か此者ニ御尋被レ成、又用向御申聞被レ遣度奉レ願候。\n\n十六日頓首。\n龍馬\n\n森　様\n\n井藤《（ママ）》様\n\n井藤助太夫様\n\n早龍馬\n其後ハ益御勇壮\n\n龍馬\n左右\n\n八月十六日",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "森玄道様\n\n井藤助太夫様",
+      "characters": 12,
+      "ruby": []
+    }
+  ]
+}

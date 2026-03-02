@@ -1,0 +1,60 @@
+{
+  "id": "a053601",
+  "title": "光る風景",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "光る風景",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "光る風景",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　青ざめしわれの淫樂われの肉、\n\n感傷の指の銀のするどさよ、\n\nそれ、ひるも偏狂の谷に涙をながし、\n\nよるは裸形に螢を點じ、\n\nしきりに哀しみいたみて、\n\nをみなをさいなみきずつくのわれ、\n\nああ、われの肉われをして、\n\nかくもかくも炎天にいぢらしく泳がしむるの日。\n\nみよ空にまぼろしの島うかびて、",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "樹木いつさいに峯にかがやき、\n\n憂愁の瀑ながれもやまず、\n\nわれけふのおとろへし手を伸べ、\n\nしきりに齒がみをなし、\n\n光る無禮《ぶらい》の風景をにくむ。\n\nああ汝の肖像、\n\nわれらおよばぬ至上にあり、\n\n金屬の中にそが性の祕密はかくさる、\n\nよしわれ祈らば、",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "よしやきみを殺さんとても、\n\nつねにねがはくば、\n\nわれが樂欲の墓場をうかがふなかれ、\n\n手はましろき死體にのび、\n\n光る風景のそがひにかくる。\n\nああ、われのみの、\n\nわれのみの聖なる遊戲、\n\n知るひととてもありやなしや、\n\n怒れば足深空に跳り、",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "その靴もきらめききらめき、\n\n涙のみくちなはのごとく地をはしる。",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a053417",
+  "title": "駅長",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "駅長",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "駅長",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ことことと行く汽車のはて\n\n温石いしの萱山の\n\n上にひとつの松ありて\n\nあるいは雷にうたれしや\n\n三角標にまがへりと\n\n大上段に真鍮の\n\n棒をかざしてさまよへり\n\nごみのごとくにあきつとぶ\n\n高圧線のま下にて",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "秋をさびしき白服の\n\n酒くせあしき土木技手\n\nいましも汽車を避け了へて\n\nこなたへ来るといまははた\n\n急ぎガラスを入りにけり",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

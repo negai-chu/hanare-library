@@ -1,0 +1,54 @@
+{
+  "id": "a053604",
+  "title": "厩",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "厩",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "厩",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "高原の空に風光り、\n\n秋はやふかみて、\n\n鑛脈のしづくのごとく、\n\nひねもす銀針《ぎんばり》の落つるをおぼえ、\n\nゆびにとげいたみ、\n\nせちにひそかに、\n\nいまわれの瞳の閉づるを欲す。\n\nここは利根川、\n\nその氾濫《はんらん》のながめいちじるく、",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "青空に桑の葉光り、\n\nさんらんとして遠き山里に愁をひたす、\n\nあはれ、あはれ、われの故郷《ふるさと》にあなれば、\n\nこの眺望のいたましさ。\n\n眼もはるにみゆ。\n\n村落の光る厩《うまや》のうへに、\n\nかがやく愛の手は伸びゆきて、\n\nわれの身は銀の一脈、\n\nひそかに息づき生命《いのち》はや絶えなんとする。",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "―九月七日―",
+      "characters": 6,
+      "ruby": []
+    }
+  ]
+}

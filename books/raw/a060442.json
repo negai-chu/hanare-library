@@ -1,0 +1,95 @@
+{
+  "id": "a060442",
+  "title": "海の小品",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海の小品",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "蹠《あしうら》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "宿かり",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "渚",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海の小品",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "蹠《あしうら》",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　あたたかい渚に、蹠に触れてゴムのやうな感じのする砂地がある。踏んでゐるとまことに奇妙で、何だか海の蹠のやうだ。",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "宿かり",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "　じつと砂地を視てゐると、そこにもこゝにも水のあるところ、生きものはゐるのだつた。立ちどまつて、友は、匐つてゐる小さな宿かりを足の指でいぢりながら、\n\n「見給へ、みんな荷物を背負はされてるぢやないか」と珍しげに呟く。その友にしたところで、昨夕、大きなリツクを背負ひながら私のところへ立寄つたのだつた。",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "渚",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "　歩いてゐると、歩いてゐることが不思議におもへてくる時刻である。重たく澱んだ空気のとばりの中へ足が進んで行き、いつのまにか海岸に来てゐる。赤く濁つた満月が低く空にかゝつてゐて、暗い波は渚まで打寄せてゐる。ふと、もの狂ほしげな犬の啼声がする。波に追はれて渚を走り廻つてゐる犬の声なのだ。ふと、怕くなつて渚を後にひきかへして行くと、薄闇の道路に、犬の声は、いつまでもきこえてくる。",
+      "characters": 188,
+      "ruby": []
+    }
+  ]
+}

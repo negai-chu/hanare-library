@@ -1,0 +1,48 @@
+{
+  "id": "a051332",
+  "title": "坊や",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "坊や",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "坊や",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　山に清水が流れるやうに\n\nその陽の照つた山の上の\n\n硬い粘土の小さな溝を\n\n山に清水が流れるやうに\n\n何も解せぬ僕の赤子《ぼーや》は\n\n今夜もこんなに寒い真夜中\n\n硬い粘土の小さな溝を\n\n流れる清水のやうに泣く\n\n母親とては眠いので",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "目が覚めたとて構ひはせぬ\n\n赤子《ぼーや》は硬い粘土の溝を\n\n流れる清水のやうに泣く\n\nその陽の照つた山の上の\n\n硬い粘土の小さな溝を\n\nさらさらさらと流れるやうに清水のやうに\n\n寒い真夜中赤子《ぼーや》は泣くよ\n\n（一九三五・一・九）",
+      "characters": 118,
+      "ruby": []
+    }
+  ]
+}

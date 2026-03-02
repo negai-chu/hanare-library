@@ -1,0 +1,48 @@
+{
+  "id": "a059054",
+  "title": "あつき手を挙ぐ",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あつき手を挙ぐ",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あつき手を挙ぐ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　都会、町、部落、\n\n何処にも\n\n朝鮮の人たち満ち溢れ\n\n働き　　たたかい\n\n生活を打ち立て\n\n話す言葉　国語正しく\n\nわれら朝夕\n\n親密濃く深まりつつ\n\n出征、入営を送る折々には",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "先んじて旗振り、万歳を叫ぶ\n\n朝鮮の人たち\n\n朝鮮の人等\n\n手に力こもり、唇は叫びつつ\n\n心の底に徹し得ぬものがあるならん\n\n常にわれかく思い　心沈みし\n\n今\n\n朝鮮に徴兵制布かる\n\nこころ新たにあつき手を挙ぐ",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

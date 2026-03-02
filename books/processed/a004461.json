@@ -1,0 +1,988 @@
+{
+  "id": "a004461",
+  "title": "文語詩稿　五十篇",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 101
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "文語詩稿　五十篇",
+        "startPage": 1,
+        "endPage": 101,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "〔いたつきてゆめみなやみし〕",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "〔水と濃きなだれの風や〕",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "〔雪うづまきて日は温き〕",
+            "startPage": 6,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "〔温く妊みて黒雲の〕",
+            "startPage": 8,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "暁",
+            "startPage": 10,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "上流",
+            "startPage": 12,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "〔打身の床をいできたり〕",
+            "startPage": 14,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "〔氷雨虹すれば〕",
+            "startPage": 16,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "砲兵観測隊",
+            "startPage": 18,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "〔盆地に白く霧よどみ〕",
+            "startPage": 20,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "〔たそがれ思量惑くして〕",
+            "startPage": 22,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "悍馬〔一〕",
+            "startPage": 24,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "〔そのときに酒代つくると〕",
+            "startPage": 26,
+            "endPage": 27
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "〔月の鉛の雲さびに〕",
+            "startPage": 28,
+            "endPage": 29
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "〔こらはみな手を引き交へて〕",
+            "startPage": 30,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "〔翔けりゆく冬のフエノール〕",
+            "startPage": 32,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "退職技手",
+            "startPage": 34,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "〔月のほのほをかたむけて〕",
+            "startPage": 36,
+            "endPage": 37
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "〔萌黄いろなるその頸を〕",
+            "startPage": 38,
+            "endPage": 39
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "〔氷柱かゞやく窓のべに〕",
+            "startPage": 40,
+            "endPage": 41
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "来賓",
+            "startPage": 42,
+            "endPage": 43
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "五輪峠",
+            "startPage": 44,
+            "endPage": 45
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "流氷《ザエ》",
+            "startPage": 46,
+            "endPage": 47
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "〔夜をま青き藺むしろに〕",
+            "startPage": 48,
+            "endPage": 49
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "〔あかつき眠るみどりごを〕",
+            "startPage": 50,
+            "endPage": 51
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "〔きみにならびて野にたてば〕",
+            "startPage": 52,
+            "endPage": 53
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "初七日",
+            "startPage": 54,
+            "endPage": 55
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "〔林の中の柴小屋に〕",
+            "startPage": 56,
+            "endPage": 57
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "〔水霜繁く霧たちて〕",
+            "startPage": 58,
+            "endPage": 59
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "〔あな雪か　屠者のひとりは〕",
+            "startPage": 60,
+            "endPage": 61
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "著者",
+            "startPage": 62,
+            "endPage": 63
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "〔ほのあかり秋のあぎとは〕",
+            "startPage": 64,
+            "endPage": 65
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "〔毘沙門の堂は古びて〕",
+            "startPage": 66,
+            "endPage": 67
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "雪の宿",
+            "startPage": 68,
+            "endPage": 69
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "〔川しろじろとまじはりて〕",
+            "startPage": 70,
+            "endPage": 71
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "風桜",
+            "startPage": 72,
+            "endPage": 73
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "萎花",
+            "startPage": 74,
+            "endPage": 75
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "〔秘事念仏の大師匠〕〔一〕",
+            "startPage": 76,
+            "endPage": 77
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "麻打",
+            "startPage": 78,
+            "endPage": 79
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "驟雨",
+            "startPage": 80,
+            "endPage": 81
+          },
+          {
+            "id": "chapter-1-section-41",
+            "number": "〔血のいろにゆがめる月は〕",
+            "startPage": 82,
+            "endPage": 83
+          },
+          {
+            "id": "chapter-1-section-42",
+            "number": "車中〔一〕",
+            "startPage": 84,
+            "endPage": 85
+          },
+          {
+            "id": "chapter-1-section-43",
+            "number": "村道",
+            "startPage": 86,
+            "endPage": 87
+          },
+          {
+            "id": "chapter-1-section-44",
+            "number": "〔さき立つ名誉村長は〕",
+            "startPage": 88,
+            "endPage": 89
+          },
+          {
+            "id": "chapter-1-section-45",
+            "number": "〔僧の妻面膨れたる〕",
+            "startPage": 90,
+            "endPage": 91
+          },
+          {
+            "id": "chapter-1-section-46",
+            "number": "〔玉蜀黍を播きやめ環にならべ〕",
+            "startPage": 92,
+            "endPage": 93
+          },
+          {
+            "id": "chapter-1-section-47",
+            "number": "〔うからもて台地の雪に〕",
+            "startPage": 94,
+            "endPage": 95
+          },
+          {
+            "id": "chapter-1-section-48",
+            "number": "〔残丘《モナドノツク》の雪の上に〕",
+            "startPage": 96,
+            "endPage": 97
+          },
+          {
+            "id": "chapter-1-section-49",
+            "number": "民間薬",
+            "startPage": 98,
+            "endPage": 99
+          },
+          {
+            "id": "chapter-1-section-50",
+            "number": "〔吹雪かゞやくなかにして〕",
+            "startPage": 100,
+            "endPage": 101
+          }
+        ]
+      }
+    ],
+    "totalPages": 101,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "文語詩稿　五十篇",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "〔いたつきてゆめみなやみし〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　いたつきてゆめみなやみし、　　（冬なりき）誰ともしらず、\n\nそのかみの高麗の軍楽、　　　　うち鼓して過ぎれるありき。\n\nその線の工事了りて、　　　　　あるものはみちにさらばひ、\n\nあるものは火をはなつてふ、　　かくてまた冬はきたりぬ。",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "〔水と濃きなだれの風や〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "水と濃きなだれの風や、　　　　むら鳥のあやなすすだき、\n\nアスティルベきらめく露と、　　ひるがへる温石の門。\n\n海浸す日より棲みゐて、　　　　たゝかひにやぶれし神の、\n\n二かしら猛きすがたを、　　　　青々と行衛しられず。",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "〔雪うづまきて日は温き〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "雪うづまきて日は温き、　　萱のなかなる荼毘壇に、\n\n県議院殿大居士の、　　　　柩はしづとおろされぬ。\n\n紫綾の大法衣、　　　　　　逆光線に流れしめ、\n\n六道いまは分るらん、　　　あるじの徳を讃へけり。",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "〔温く妊みて黒雲の〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "温く妊みて黒雲の、　　　　　　野ばらの藪をわたるあり、\n\nあるいはさらにまじらひを、　　求むと土を這へるあり。\n\nからす麦かもわが播けば、　　　ひばりはそらにくるほしく、\n\nひかりのそこにもそもそと、　　上着は肩をやぶるらし。",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "暁",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "さきは夜を截るほとゝぎす、　　やがてはそらの菫いろ、\n\n小鳥の群をさきだてて、　　　　くわくこう樹々をどよもしぬ。\n\n醒めたるまゝを封介の、　　　　憤りほのかに立ちいでて、\n\nけじろき水のちりあくた、　　　もだして馬の指竿とりぬ。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "上流",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "秋立つけふをくちなはの、　　沼面はるかに泳ぎ居て、\n\n水ぎぼうしはむらさきの、　　花穂ひとしくつらねけり。\n\nいくさの噂さしげければ、　　蘆刈びともいまさらに、\n\n暗き岩頸　風の雲、　　　　　天のけはひをうかゞひぬ。",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "〔打身の床をいできたり〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "打身の床をいできたり、　　　箱の火鉢にうちゐれば、\n\n人なき店のひるすぎを、　　　雪げの川の音すなり。\n\n粉のたばこをひねりつゝ、　　見あぐるそらの雨もよひ、\n\n蠣売町のかなたにて、　　　　人らほのかに祝ふらし。",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "〔氷雨虹すれば〕",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "氷雨虹すれば、　　時計盤たゞに明るく、\n\n病《いたつき》の今朝やまされる、　　青き套門を入るなし。\n\n二限わがなさん、　　公《きみ》　五時を補ひてんや、\n\n火をあらぬひのきづくりは、　　神祝《かむほぎ》にどよもすべけれ。",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "砲兵観測隊",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "（ばかばかしきよかの邑は、　　よべ屯せしクゾなるを）\n\nましろき指はうちふるひ、　　　銀のモナドはひしめきぬ。\n\n（いな見よ東かれらこそ、　　　古き火薬を燃し了へぬ）\n\nうかべる雲をあざけりて、　　　ひとびと丘を奔せくだりけり。",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "〔盆地に白く霧よどみ〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "盆地に白く霧よどみ、　　めぐれる山のうら青を、\n\n稲田の水は冽くして、　　花はいまだにをさまらぬ。\n\n窓五つなる学校《まなびや》に、　　　さびしく学童《こ》らをわがまてば、\n\n藻を装へる馬ひきて、　　ひとびと木炭を積み出づる。",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "〔たそがれ思量惑くして〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "たそがれ思量惑くして、　　銀屏流沙とも見ゆるころ、\n\n堂は別時の供養とて、　　盤鉦木鼓しめやかなり。\n\n頬青き僧ら清らなるテノールなし、　　老いし請僧時々に、\n\nバスなすことはさながらに、　　風葱嶺に鳴るがごとし。\n\n時しもあれや松の雪、　　をちこちどどと落ちたれば、\n\n室ぬちとみに明るくて、　　品は四請を了へにけり。",
+      "characters": 160,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "悍馬〔一〕",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "毛布の赤に頭《づ》を縛び、　　　　　陀羅尼をまがふことばもて、\n\n罵りかはし牧人ら、　　　　　　貴きアラヴの種馬の、\n\n息あつくしていばゆるを、　　　まもりかこみてもろともに、\n\n雪の火山の裾野原、　　　　　　赭き柏を過ぎくれば、\n\n山はいくたび雲の、　　　　　藍のなめくぢ角のべて、\n\nおとしけおとしいよいよに、　　馬を血馬となしにけり。",
+      "characters": 170,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "〔そのときに酒代つくると〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "そのときに酒代つくると、　　夫《つま》はまた裾野に出でし。\n\nそのときに重瞳の妻《め》は、　　　はやくまた闇を奔りし。\n\n柏原風とゞろきて、　　　　　さはしぎら遠くよばひき。\n\n馬はみな泉を去りて、　　　　山ちかくつどひてありき。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "〔月の鉛の雲さびに〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "月の鉛の雲さびに、　　　　　みたりあやつり行き過ぎし、\n\n魚や積みけんトラックを、　　青かりしやとうたがへば、\n\n松の梢のほのびかり、　　　　霰にはかにそゝぎくる。",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "〔こらはみな手を引き交へて〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "こらはみな手を引き交へて、　　巨けく蒼きみなかみの、\n\nつつどり声をあめふらす、　　　水なしの谷に出で行きぬ。\n\n廐に遠く鐘鳴りて、　　　　　　さびしく風のかげろへば、\n\n小さきシャツはゆれつゝも、　　こらのおらびはいまだ来ず。",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "〔翔けりゆく冬のフエノール〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "翔けりゆく冬のフエノール、　　ポプラとる黒雲の椀《わん》。\n\n留学の序を憤り、　　　　　　　中庭にテニス拍つ人。",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "退職技手",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "こぞりてひとを貶《おと》しつゝ、　　　わかれうたげもすさまじき、\n\nおのれこよひは暴《あ》れんぞと、　　青き瓶袴も惜しげなく、\n\n籾緑金に生えそめし、　　　　　代にひたりて田螺ひろへり。",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "〔月のほのほをかたむけて〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "月のほのほをかたむけて、　　　水杵はひとりありしかど、\n\n搗けるはまこと喰《は》みも得ぬ、　　渋きこならの実なりけり。\n\nさらばとみちを横ぎりて、　　　束せし廐肥の幾十つら、\n\n祈るがごとき月しろに、　　　　朽ちしとぼそをうかゞひぬ。\n\nまどろむ馬の胸にして、　　　　おぼろに鈴は音をふるひ、\n\n山の焼畑　石の畑、　　　　　　人もはかなくうまいしき。\n\n人なき山彙《やま》の二日路を、　　　　夜さりはせ来し酉蔵は、\n\n塩のうるひの茎噛みて、　　　　ふたゝび遠く遁れけり。",
+      "characters": 235,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "〔萌黄いろなるその頸を〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "萌黄いろなるその頸を、　　　直くのばして吊るされつ、\n\n吹雪きたればさながらに、　　家鴨は船のごとくなり。\n\n絣合羽の巡礼に、　　　　　　五厘報謝の夕まぐれ、\n\nわかめと鱈に雪つみて、　　　鮫の黒身も凍りけり。",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "〔氷柱かゞやく窓のべに〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 41,
+      "content": "氷柱かゞやく窓のべに、　　「獺」とよばるゝ主幹ゐて、\n\n横めきびしく扉《ドア》を見る。\n\n赤き九谷に茶をのみて、　　片頬ほゝゑむ獺主幹、\n\nつらゝ雫をひらめかす。",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "来賓",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 43,
+      "content": "狩衣黄なる別当は、　　　　　　　眉をけはしく茶をのみつ。\n\n袴羽織のお百姓、　　　　　　　　ふたり斉しく茶をのみつ。\n\n窓をみつめて校長も、　　　　　　たゞひたすらに茶をのみつ。\n\nしやうふを塗れるガラス戸を、　　学童《こ》らこもごもにのぞきたり。",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "五輪峠",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 45,
+      "content": "五輪峠と名づけしは、　　　地輪水輪また火風、\n\n（巌のむらと雪の松）　　　峠五つの故ならず。\n\nひかりうづまく黒の雲、　　ほそぼそめぐる風のみち、\n\n苔蒸す塔のかなたにて、　　大野青々みぞれしぬ。",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "流氷《ザエ》",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 47,
+      "content": "はんのきの高き梢《うれ》より、　　　　きらゝかに氷華をおとし、\n\n汽車はいまやゝにたゆたひ、　　北上のあしたをわたる。\n\n見はるかす段丘の雪、　　　　　なめらかに川はうねりて、\n\n天青石《アヅライト》まぎらふ水は、　　　　　百千の流氷《ザエ》を載せたり。\n\nあゝきみがまなざしの涯、　　　うら青く天盤は澄み、\n\nもろともにあらんと云ひし、　　そのまちのけぶりは遠き。\n\n南はも大野のはてに、　　　　　ひとひらの吹雪わたりつ、\n\n日は白くみなそこに燃え、　　　うららかに氷はすべる。",
+      "characters": 240,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "〔夜をま青き藺むしろに〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 49,
+      "content": "夜をま青き藺むしろに、　　　ひとびとの影さゆらげば、\n\n遠き山ばた谷のはた、　　　　たばこのうねの想ひあり。\n\n夏のうたげにはべる身の、　　声をちゞれの髪をはぢ、\n\n南かたぶく天の川、　　　　　ひとりたよりとすかし見る。",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "〔あかつき眠るみどりごを〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 51,
+      "content": "あかつき眠るみどりごを、　　　ひそかに去りて小店さき、\n\nしとみ上ぐれば川音や、　　　　霧はさやかに流れたり。\n\nよべの電燈《あかり》をそのまゝに、　　　ひさげのこりし桃の顆《み》の、\n\nアムスデンジュンいろ紅き、　　ほのかに映えて熟るるらし。",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "〔きみにならびて野にたてば〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 53,
+      "content": "きみにならびて野にたてば、　　風きららかに吹ききたり、\n\n柏ばやしをとゞろかし、　　　　枯葉を雪にまろばしぬ。\n\nげにもひかりの群青や、　　　　山のけむりのこなたにも、\n\n鳥はその巣やつくろはん、　　　ちぎれの艸をついばみぬ。",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "初七日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 55,
+      "content": "落雁と黒き反り橋、　　　　　かの児こそ希ひしものを。\n\nあゝくらき黄泉路《よみぢ》の巌に、　　その小き掌《て》もて得なんや。\n\n木綿《ゆふ》つけし白き骨箱、　　　　哭き喚《よ》ぶもけはひあらじを。\n\n日のひかり煙を青み、　　　　秋風に児らは呼び交ふ。",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "〔林の中の柴小屋に〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 57,
+      "content": "林の中の柴小屋に、　醸し成りたる濁り酒、　一筒汲みて帰り来し、\n\nむかし誉れの神童は、　面青膨れて眼ひかり、　秋はかたむく山里を、\n\nどてら着て立つ風の中。\n　西は縮れて雲傷み、　青き大野のあちこちに、\n\n雨かとそゝぐ日のしめり、　こなたは古りし苗代の、　刈敷朽ちぬと水黝き、\n\nなべて丘にも林にも、　たゞ鳴る松の声なれば、　あはれさびしと我家の、\n\n門立ち入りて白壁も、　落ちし土蔵の奥二階、　梨の葉かざす窓べにて、\n\n筒のなかばを傾けて、　その歯に風を吸ひつゝも、　しばしをしんとものおもひ、\n\n夜に日をかけて工み来し、　いかさまさいをぞ手にとりにける。",
+      "characters": 279,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "〔水霜繁く霧たちて〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 59,
+      "content": "水霜繁く霧たちて、　　すすきは濡《そほ》ぢ幾そたび、\n\n馬はこむらをふるはしぬ。\n\n（荷繩を投げよはや荷繩）\n\n雉子鳴くなりその雉子、　　人なき家の暁を、\n\n歩み漁りて叫ぶらし。",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "〔あな雪か　屠者のひとりは〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 61,
+      "content": "「あな雪か。」屠者のひとりは、　　みなかみの闇をすかしぬ。\n\n車押すみたりはうみて、　　　　　　いらへなく橋板ふみぬ。\n\n「雉なりき青く流れし。」\n　　　　　声またもわぶるがごとき。\n\n落合に水の声して、　　　　　　　　老いの屠者たゞ舌打ちぬ。",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "著者",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "造園学のテキストに、　　　おのれが像を百あまり、\n\n著者の原図と銘うちて、　　かゝげしことも夢なれやと、\n\n青き夕陽の寒天や、　　　　Ｕ字の梨のかなたより、\n\n革の手袋はづしつゝ、　　　しづにおくびし歩みくる。",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "〔ほのあかり秋のあぎとは〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 65,
+      "content": "ほのあかり秋のあぎとは、　　　ももどりのねぐらをめぐり、\n\n官《つかさ》の手からくのがれし、　　　　社司の子のありかを知らず。\n\n社殿にはゆふべののりと、　　　ほのかなる泉の声や、\n\nそのはははことなきさまに、　　しらたまのもちひをなせる。",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "〔毘沙門の堂は古びて〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 67,
+      "content": "毘沙門の堂は古びて、　　　　梨白く花咲きちれば、\n\n胸疾みてつかさをやめし、　　堂守の眼やさしき。\n\n中ぞらにうかべる雲の、　　　蓋やまた椀《まり》のさまなる、\n\n川水はすべりてくらく、　　　草火のみほのに燃えたれ。",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "雪の宿",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 69,
+      "content": "ぬさをかざして山つ祇、　　　舞ふはぶらいの町の書記、\n\nうなじはかなく瓶《へい》とるは、　　峡には一のうためなり。\n\nをさけびたけり足ぶみて、　　をどりめぐれるすがたゆゑ、\n\n老いし博士《はくし》や郡長《こほりおさ》、　　　　　やゝ凄涼のおもひなり。\n\n月や出でにし雪青み、　　　　をちこち犬の吠ゆるころ、\n\n舞ひを納めてひれふしつ、　　罪乞ふさまにみじろがず。\n\nあなや否とよ立てきみと、　　博士が云へばたちまちに、\n\nけりはねあがり山つ祇、　　　をみなをとりて消えうせぬ。",
+      "characters": 238,
+      "ruby": []
+    },
+    {
+      "pageNumber": 70,
+      "content": "〔川しろじろとまじはりて〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 71,
+      "content": "川しろじろとまじはりて、　　　うたかたしげきこのほとり、\n\n病きつかれわが行けば、　　　　そらのひかりぞ身を責むる。\n\n宿世のくるみはんの毬、　　　　干割れて青き泥岩に、\n\nはかなきかなやわが影の、　　　卑しき鬼をうつすなり。\n\n蒼茫として夏の風、　　　　　　草のみどりをひるがへし、\n\nちらばる蘆のひら吹きて、　　　あやしき文字を織りなしぬ。\n\n生きんに生きず死になんに、　　得こそ死なれぬわが影を、\n\nうら濁る水はてしなく、　　　　さゝやきしげく洗ふなり。",
+      "characters": 230,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "風桜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 73,
+      "content": "風にとぎるゝ雨脚や、　　　　　みだらにかける雲のにぶ。\n\nまくろき枝もうねりつゝ、　　　さくらの花のすさまじき。\n\nあたふた黄ばみ雨を縫ふ、　　　もずのかしらのまどけきを。\n\nいよよにどよみなみだちて、　　ひかり青らむ花の梢《うれ》。",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "萎花",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 75,
+      "content": "酒精のかをり硝銀の、　　　　　　　肌膚灼くにほひしかもあれ、\n\n大展覧の花むらは、　　　　　　　　夏夜あざらに息づきぬ。\n\nそは牛飼ひの商ひの、　　　　　　　はた鉄うてるもろ人の、\n\nさこそつちかひはぐくみし、　　　　四百の花のラムプなり。\n\n声さやかなるをとめらは、　　　　　おのおのよきに票を投げ、\n\n高木検事もホップ噛む、　　　　　　にがきわらひを頬になしき。\n\n卓をめぐりて会長が、　　　　　　　メダルを懸くる午前二時、\n\nカクタス、ショウをおしなべて、　　花はうつゝもあらざりき。",
+      "characters": 245,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "〔秘事念仏の大師匠〕〔一〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 77,
+      "content": "秘事念仏の大師匠、　　　　元真斎は妻子して、\n\n北上岸にいそしみつ、　　　いまぞ昼餉をしたゝむる。\n\n卓のさまして緑なる、　　　小松と紅き萱の芽と、\n\n雪げの水にさからひて、　　まこと睡たき南かぜ。\n\nむしろ帆張りて酒船の、　　ふとあらはるゝまみまぢか、\n\nをのこは三たり舷に、　　　こちを見おろし見すくむる。\n\n元真斎はやるせなみ、　　　眼をそらす川のはて、\n\n塩の高菜をひた噛めば、　　妻子もこれにならふなり。",
+      "characters": 207,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "麻打",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 79,
+      "content": "楊葉の銀とみどりと、　　　はるけきは青らむけぶり。\n\nよるべなき水素の川に、　　ほとほとと麻苧うつ妻。",
+      "characters": 51,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "驟雨",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 81,
+      "content": "驟雨そゝげば新墾《にひはり》の、　　　　まづ立ちこむるつちけむり。\n\n湯気のぬるきに人たちて、　　故なく憤る身は暗し。\n\nすでに野ばらの根を浄み、　　蟻はその巣をめぐるころ。\n\n杉には水の幡かゝり、　　　　しぶきほのかに拡ごりぬ。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "〔血のいろにゆがめる月は〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 83,
+      "content": "血のいろにゆがめる月は、　　今宵また桜をのぼり、\n\n患者たち廊のはづれに、　　　凶事の兆を云へり。\n\n木がくれのあやなき闇を、　　声細くいゆきかへりて、\n\n熱植ゑし黒き綿羊、　　　　　その姿いともあやしき。\n\n月しろは鉛糖のごと、　　　　柱列の廊をわたれば、\n\nコカインの白きかをりを、　　いそがしくよぎる医師あり。\n\nしかもあれ春のをとめら、　　なべて且つ耐へほゝゑみて、\n\n水銀の目盛を数へ、　　　　　玲瓏の氷を割きぬ。",
+      "characters": 212,
+      "ruby": []
+    },
+    {
+      "pageNumber": 84,
+      "content": "車中〔一〕",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 85,
+      "content": "夕陽の青き棒のなかにて、　　開化郷士と見ゆるもの、\n\n葉巻のけむり蒼茫と、　　　　森槐南を論じたり。\n\n開化郷士と見ゆるもの、　　　いと清純とよみしける、\n\n寒天光のうら青に、　　　　　おもてをかくしひとはねむれり。",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "村道",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 87,
+      "content": "朝日かゞやく水仙を、　　　　　になひてくるは詮之助、\n\nあたまひかりて過ぎ行くは、　　枝を杖つく村老ヤコブ。\n\n影と並木のだんだらを、　　　　犬レオナルド足織れば、\n\n売り酒のみて熊之進、　　　　　赤眼に店をばあくるなり。",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "〔さき立つ名誉村長は〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 89,
+      "content": "さき立つ名誉村長は、　　　寒煙毒をふくめるを、\n\n豪気によりて受けつけず。\n\n次なる沙弥は顱を円き、　　猫毛の帽に護りつゝ、\n\nその身は信にゆだねたり。\n\n三なる技師は徳薄く、　　　すでに過冷のシロッコに、\n\nなかば気管をやぶりたれ。\n\n最後に女訓導は、　　　　　ショールを面に被ふれば、\n\nアラーの守りあるごとし。",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 90,
+      "content": "〔僧の妻面膨れたる〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 91,
+      "content": "僧の妻面膨れたる、　　　　　　飯盛りし仏器さゝげくる。\n\n（雪やみて朝日は青く、　　　　かうかうと僧は看経。）\n\n寄進札そゞろに誦みて、　　　　僧の妻庫裡にしりぞく。\n\n（いまはとて異の銅鼓うち、　　晨光はみどりとかはる。）",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 92,
+      "content": "〔玉蜀黍を播きやめ環にならべ〕",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 93,
+      "content": "「玉蜀黍を播きやめ環にならべ、　　開所の祭近ければ、\n\nさんさ踊りをさらひせん。」\n　　　　技手農婦らに令しけり。\n\n野は野のかぎりめくるめく、　　　　青きかすみのなかにして、\n\nまひるをひとらうちをどる、　　　　袖をかざしてうちをどる。\n\nさあれひんがし一つらの、　　　　　うこんざくらをせなにして、\n\n所長中佐は胸たかく、　　　　　　　野面はるかにのぞみゐる。\n\n「いそぎひれふせ、ひざまづけ、　　みじろがざれ。」と技手云へば、\n\n種子やまくらんいこふらん、　　　　ひとらかすみにうごくともなし。",
+      "characters": 250,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "〔うからもて台地の雪に〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 95,
+      "content": "うからもて台地の雪に、　　部落《シユク》なせるその杜黝し。\n\n曙人《とほつおや》、馮《の》りくる児らを、　　穹窿ぞ光りて覆ふ。",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "〔残丘《モナドノツク》の雪の上に〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 97,
+      "content": "残丘《モナドノツク》の雪の上に、　　　　　　　　二すぢうかぶ雲ありて、\n\n誰かは知らねサラアなる、　　　　女《ひと》のおもひをうつしたる。\n\n信をだになほ装へる、　　　　　　よりよき生へのこのねがひを、\n\nなにとてきみはさとり得ぬと、　　しばしうらみて消えにけり。",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 98,
+      "content": "民間薬",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 99,
+      "content": "たけしき耕の具を帯びて、　　羆熊の皮は着たれども、\n\n夜に日をつげる一月の、　　　干泥のわざに身をわびて、\n\nしばしましろの露置ける、　　すぎなの畔にまどろめば、\n\nはじめは額の雲ぬるみ、　　　鳴きかひめぐるむらひばり、\n\nやがては古き巨人の、　　　　石の匙もて出できたり、\n\nネプウメリてふ草の葉を、　　薬に食めとをしへけり。",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "〔吹雪かゞやくなかにして〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 101,
+      "content": "吹雪かゞやくなかにして、　　まことに犬の吠え集りし。\n\n燃ゆる吹雪のさなかとて、　　妖《あや》しき※をなせるものかな。",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

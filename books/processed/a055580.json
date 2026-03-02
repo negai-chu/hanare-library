@@ -1,0 +1,48 @@
+{
+  "id": "a055580",
+  "title": "宵の星",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "宵の星",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "宵の星",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あついあつい\n\n夕食後のあつさ\n\nのんびりと立って見た\n\nやっぱり暑い\n\nむっちり蒸される様だ\n\nひたいには汗がこんなににじむ\n\n　　　　＊\n\n弟よ外へ行こう\n\n庭の石に腰をかけて",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鈴懸花の香をかいで\n\n青く澄み渡った北国の宵空に\n\n教えられたあの一つの星を探そう\n\n　　　　＊\n\n七月七日の夜も近づいた\n\n牽牛織女の星がどこにあるか\n\nそれも探そう\n\n天の川流れるあたり\n\n天上の花のさても美しき事よ",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

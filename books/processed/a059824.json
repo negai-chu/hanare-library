@@ -1,0 +1,380 @@
+{
+  "id": "a059824",
+  "title": "小さな庭",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 37
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小さな庭",
+        "startPage": 1,
+        "endPage": 37,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "庭",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "そら",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "閨",
+            "startPage": 6,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "菊",
+            "startPage": 8,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "真冬",
+            "startPage": 10,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "沼",
+            "startPage": 12,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "墓",
+            "startPage": 14,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "ながあめ",
+            "startPage": 16,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "岐阜提灯",
+            "startPage": 18,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "朝の歌",
+            "startPage": 20,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "鬼灯図",
+            "startPage": 22,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "秋",
+            "startPage": 24,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "鏡のやうなもの",
+            "startPage": 26,
+            "endPage": 27
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "夜",
+            "startPage": 28,
+            "endPage": 29
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "頌",
+            "startPage": 30,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "かけかへのないもの",
+            "startPage": 32,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "病室",
+            "startPage": 34,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "春",
+            "startPage": 36,
+            "endPage": 37
+          }
+        ]
+      }
+    ],
+    "totalPages": 37,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小さな庭",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "庭",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　暗い雨のふきつのる、あれはてた庭であつた。わたしは妻が死んだのを知つておどろき泣いてゐた。泣きさけぶ声で目がさめると、妻はかたはらにねむつてゐた。\n\n　……その夢から十日あまりして、ほんとに妻は死んでしまつた。庭にふりつのるまつくらの雨がいまはもう夢ではないのだ。",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "そら",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "　おまへは雨戸を少しあけておいてくれというた。おまへは空が見たかつたのだ。うごけないからだゆゑ朝の訪れが待ちどほしかつたのだ。",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "閨",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "　もうこの部屋にはないはずのおまへの柩がふと仄暗い片隅にあるし、妖しい胸のときめきで目が覚めかけたが、あれは鼠のしわざ、たしか鼠のあばれた音だとうとうと思ふと、いつの間にやらおまへの柩もなくなつてゐて、ひんやりと閨の闇にかへつた。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "菊",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "　あかりを消せば褥の襟にまつはりついてゐる菊の花のかほり。昨夜も今夜もおなじ闇のなかの菊の花々。嘆きをこえ、夢をとだえ、ひたぶるにくひさがる菊の花のにほひ。わたしの身は闇のなかに置きわすれられて。",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "真冬",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "　草が茫々として、路が見え、空がたれさがる、……枯れた草が濛々として、白い路に、たれさがる空……。あの辺の景色が怕いのだとおまへは夜更におののきながら訴へた。おまへの眼のまへにはピンと音たてて割れさうな空気があつた。",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "沼",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "　足のはうのシイツがたくれてゐるのが、蹠に厭な頼りない気持をつたへ、沼のどろべたを跣足で歩いてゐるやうだとおまへはいふ。沼のあたたかい枯葉がしづかに煙むつて、しづかに睡むつてゆくすべはないのか。",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "墓",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "　うつくしい、うつくしい墓の夢。それはかつて旅をしたとき何処かでみた景色であつたが、こんなに心をなごますのは、この世の眺めではないらしい。たとへば白い霧も嘆きではなく、しづかにふりそそぐ月の光も、まばらな木々を浮彫にして、青い石碑には薔薇の花。おまへの墓はどこにあるのか、立ち去りかねて眺めやれば、ここらあたりがすべて墓なのだ。",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "ながあめ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "　ながあめのあけくれに、わたしはまだたしかあの家のなかで、おまへのことを考へてくらしてゐるらしい。おまへもわたしもうつうつと仄昏い家のなかにとぢこめられたまま。",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "岐阜提灯",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "　秋の七草をあしらつた淡い模様に、蝋燭の灯はふるへながら呼吸づいてゐた。ふるへながら、とぼしくなつた焔は底の方に沈んで行つたが、今にも消えうせさうになりながら、またぽつと明るくなり、それからヂリヂリと曇つて行くのだつた。……はじめ岐阜提灯のあかりを悦んでゐた妻はだんだん憂鬱になつて行つた。あかりが消えてしまふと、宵闇の中にぼんやりと白いものが残つた。",
+      "characters": 176,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "朝の歌",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "　雨戸をあけると、待ちかねてゐた箱のカナリヤが動きまはつた。縁側に朝の日がさし、それが露に濡れた青い菜つぱと小鳥の黄色い胸毛に透きとほり、箱の底に敷いてやる新聞紙も清潔だつた。さうして妻は清々しい朝の姿をうち眺めてゐた。\n\n　いつからともなくカナリヤは死に絶えたし、妻は病んで細つて行つたが、それでも病室の雨戸をあけると、やはり朝の歌が縁側にきこえるやうであつた。それから、ある年、妻はこの世をみまかり、私は栖みなれた家を畳んで漂泊の身となつた。けれども朝の目ざめに、たまさかは心を苦しめ、心を弾ます一つのイメージがまだすぐそこに残つてゐるやうに思へてならないのだつた。",
+      "characters": 285,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "鬼灯図",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "　なぜか私は鬼灯の姿にひきつけられて暮してゐた。どこか幼い時の記憶にありさうな、夢の隙間がその狭い庭にありさうで……。初夏の青い陽《かげ》さす青鬼灯のやさしい蕾。暗澹たる雷雨の中に朱く熟れた鬼灯の実。夏もすがれ秋はさりげなく蝕まれて残る鬼灯の茎。かぼそく白い網のやうな繊維の袋のなかに照り映えてゐる真冬の真珠玉。そして春陽四月、土くれのあちこちからあはただしく萌え出る魔法の芽。……いく年かわたしはその庭の鬼灯の姿に魅せられて暮してゐたのだが、さて、その庭のまはりを今も静かに睡つてただよつてゐるのは、妻の幻。",
+      "characters": 255,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "秋",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "　窓の下にすきとほつた靄が、葉の散りしだいた並木はうすれ、固い靴の音がしていくたりも通りすぎてゆく乙女の姿が、しづかにねむり入つたおんみの窓の下に。",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "鏡のやうなもの",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "　鏡のやうなものを、なんでも浮かび出し、なんでも細かにうつる、底しれないものを、こちらからながめ、むかふにつきぬけてゆき。",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "夜",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "　わたしがおまへの病室の扉を締めて、廊下に出てゆくと、長いすべすべした廊下にもう夕ぐれの気配がしのび込んでゐる。どこよりも早く夕ぐれの訪れて来るらしいそこの廊下や階段をいくまがりして、建物の外に出ると澄みわたつた空に茜雲が明るい。それから病院の坂路を下つてゆくにつれて、次第にひつそりしたものが附纏つて来る。坂下の橋のところまで来ると街はもうかなり薄暗い。灯をつけてゐる書店の軒をすぎ電車の駅のところまで来ると、とつぷり日が沈んでしまふ。混み合ふ電車に揺られ次の駅で降りると、もうあたりは真暗。私は袋路の方へとぼとぼ歩いて行き、家の玄関をまたぎ大急ぎで電燈を捻る。すると、私にははじめて夜が訪れて来るのだつた、おまへの居ない家のわびしい夜が。",
+      "characters": 321,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "頌",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "　沢山の姿の中からキリキリと浮び上つて来る、あの幼な姿の立派さ。私はもう選択を誤らないであらう。嘗ておまへがそのやうに生きてゐたといふことだけで、私は既に報いられてゐるのだつた。",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "かけかへのないもの",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "　かけかへのないもの、そのさけび、木の枝にある空、空のあなたに消えたいのち。\n\n　はてしないもの、そのなげき、木の枝にかへつてくるいのち、かすかにうづく星。",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "病室",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "　おまへの声はもう細つてゐたのに、咳ばかりは思ひきり大きかつた。どこにそんな力が潜んでゐるのか、咳は真夜中を選んでは現れた。それはかたはらにゐて聴いてゐても堪えがたいのに、まるでおまへを揉みくちやにするやうな発作であつた。嵐がすぎて夜の静寂が立もどつても、病室の嘆きはうつろはなかつた。嘆きはあつた、……そして、じつと祈つてゐるおまへのけはひも。",
+      "characters": 173,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "春",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "　不安定な温度のなかに茫として過ぎて行つた時間よ。あんな麗しいものが梢の青空にかかり、――それを眺める瞳は、おまへであつたのか、わたしであつたのか――土のおもてに満ちあふれた草花。（光よ、ふりそそげ）かつておまへの瞳をとほして眺められた土地へ。",
+      "characters": 122,
+      "ruby": []
+    }
+  ]
+}

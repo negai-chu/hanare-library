@@ -1,0 +1,42 @@
+{
+  "id": "a001140",
+  "title": "長崎",
+  "author": "芥川竜之介",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "長崎",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 185,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "長崎",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "菱形の凧《たこ》。サント・モンタニの空に揚つた凧。うらうらと幾つも漂つた凧。\n\n　路ばたに商ふ夏蜜柑やバナナ。敷石の日ざしに火照《ほて》るけはひ。町一ぱいに飛ぶ燕。\n\n　丸山の廓の見返り柳。\n\n　運河には石の眼鏡橋。橋には往来の麦稈帽子。――忽《たちま》ち泳いで来る家鴨《あひる》の一むれ。白白と日に照つた家鴨の一むれ。\n\n　南京寺の石段の蜥蜴《とかげ》。\n\n　中華民国の旗。煙を揚げる英吉利《イギリス》の船。『港をよろふ山の若葉に光さし……』顱頂《ろちやう》の禿げそめた斎藤茂吉。ロティ。沈南蘋《しんなんぴん》。永井荷風。\n\n　最後に『日本の聖母の寺』その内陣のおん母マリア。穂麦に交じつた矢車の花。光のない真昼の蝋燭の火。窓の外には遠いサント・モンタニ。\n\n　山の空にはやはり菱形の凧。北原白秋の歌つた凧。うらうらと幾つも漂つた凧。",
+      "characters": 368,
+      "ruby": []
+    }
+  ]
+}

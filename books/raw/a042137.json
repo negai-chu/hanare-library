@@ -1,0 +1,42 @@
+{
+  "id": "a042137",
+  "title": "貝殻追放",
+  "author": "水上滝太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "貝殻追放",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "貝殻追放",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "政治家、實業家、役人、軍人、教育家、いろいろちがつた職業に從事してゐる第一流と呼ばれる人間に逢つても、頭の下る人は皆無に候處、兎角はきちがへた人間の多い小説の作家の中に、永井先生をみる事は欣喜至極に御座候。小生は先生の前に出る時自ら頭が下り申候。（大正七年一月七日）\n\n――「新潮」大正七年二月號",
+      "characters": 148,
+      "ruby": []
+    }
+  ]
+}

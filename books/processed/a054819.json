@@ -1,0 +1,48 @@
+{
+  "id": "a054819",
+  "title": "夜汽車の中で",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜汽車の中で",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜汽車の中で",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ふみきりのシグナルが一月の雨にぬれて\n\nボクは上りの終列車を見て\n\n柄もりの水が手につめたく\n\nかなしいような気になって\n\nなきたいような気になって\n\nわびしいような気になって\n\nそれでも　ためいきも　なみだも出ず\n\nちょうど　風船玉が　かなしんだみたい\n\n自分が世界で一番不実な男のような気がし",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "自分が世界で一番いくじなしのような気がし\n\nそれに　それがすこしもはずかしいと思えず\n\nとほうにくれて雨足を見たら\n\nいくぶんセンチメンタルになって\n\n涙でもでるだろう\n\nそしたらすこしはたのしいだろうが\n\nそのなみだすら出ず\n\nこまりました\n\nこまりました",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

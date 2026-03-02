@@ -1,0 +1,54 @@
+{
+  "id": "a054506",
+  "title": "如是",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "如是",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 115,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "如是",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　凶会日《くゑにち》は凶会日《くゑにち》と見て\n\n病《や》めるもの衰へしもの、\n\n床の上《へ》にすなほに僵《たふ》れ、\n\n瓶《かめ》の身は砕けてちりて、\n\n滅亡《ほろび》に入らむ。\n\n床の上《へ》に破《わ》れぬ、花瓶《はながめ》、\n\nされどそが『こゝろ』は如何に、\n\nすなほにと云へど、やさしき、\n\n砕《くだ》けにはあらず、はげしく",
+      "characters": 166,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "叫ぶを聞きぬ。\n\n人の子は瓶《かめ》にもあらず、\n\n運命《うんめい》は運命《うんめい》と観《み》て、\n\n秋のくれ、死ぬるといふ夜《よ》、\n\nほのかなる燭《そく》の火《ほ》のかげに、\n\n題目《だいもく》をこそ――\n\n蝋燭《ろうそく》はかすかに音し、\n\n黄ばむ火は寒げに揺《ゆ》れぬ。\n\n刻々《こく／＼》に面《おも》がはりゆく",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あゝ死相《しさう》――刹那《せつな》よ黒く、\n\nつくは呻吟《うめき》。\n\n破瓶《われがめ》を画師《えし》うち抱き、\n\n死人《しにびと》を法師《ほふし》みちびき、\n\n秋の野へ、葬《はう》りの途《みち》に、\n\nまた聞きぬ、見ぬ、黒牛《くろうし》の\n\nこれも呻吟《うめき》。",
+      "characters": 134,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055017",
+  "title": "夜",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　いつたいどんな営みが始まつたのであらう\n\n街\n\n街は灯の暗号を残してかくれてしまふ\n\nいつたいどんな呼吸が始まつたのであらう\n\n欅\n\n欅は梢を伸ばして天空に身を捧げる",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

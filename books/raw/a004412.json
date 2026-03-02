@@ -1,0 +1,42 @@
+{
+  "id": "a004412",
+  "title": "岩波茂雄宛書簡",
+  "author": "野呂栄太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "岩波茂雄宛書簡",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 146,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "岩波茂雄宛書簡",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "拝啓前略\n\n先日は失礼仕《つかまつ》りました、講座の方は着々進行しておりますから御安神願います。\n\nさて逸見重雄君の奥様が何かで生活費の一部なりとも稼ぎたいと申すのでございますが、校正の仕事にでも御雇い願えれば幸と存じますが、御都合如何でございましょうか？\n\n逸見君は産業労働調査所の仕事に没頭しているのですが、この方からは殆んど生活費が得られず、翻訳等によっているのですが、昨今の時世では仕事の片手間に生活費を得ることは中々困難にて非常に窮迫していますから、何卒よろしく御同情御配慮のほど願い上げます。敬具\n　　　九月二十一日\n\n栄太郎拝\n　　岩波様\n\n　　　　御侍史",
+      "characters": 285,
+      "ruby": []
+    }
+  ]
+}

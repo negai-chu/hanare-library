@@ -1,0 +1,42 @@
+{
+  "id": "a053929",
+  "title": "〔ペーブメントからアスフアルトへ〕",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔ペーブメントからアスフアルトへ〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔ペーブメントからアスフアルトへ〕",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ペーブメントからアスフアルトへ\n\nアスフアルトからペーブメントへ\n\n風が新聞紙を運ぶのか\n\n新聞紙が風を運ぶのか\n\n風と新聞紙はほいと\n\n柳の若い葉の下をぬけて\n\nお堀にすべりこんだ",
+      "characters": 92,
+      "ruby": []
+    }
+  ]
+}

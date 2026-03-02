@@ -1,0 +1,60 @@
+{
+  "id": "a054817",
+  "title": "帰還",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "帰還",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "帰還",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "あなたは\n\nかえってきた\n\nあなたは\n\n白くしずかな箱にいる\n\n白くしずかな　きよらかな\n\nひたぶる\n\nひたぶる\n\nちみどろ\n\nひたぶる",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あなたは\n\nたたかった　だ\n\n日は黒ずみ　くずれた\n\nみな　きけ\n\nみな　みよ\n\nこのとき\n\nあなたは\n\nちった\n\n明るく　あかくかがやき",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ちった\n\nちって\n\nきえた\n\n白くしずかに　きよらかに\n\nあなたは\n\nかえってきた\n\nくにが\n\nくにが\n\n手を合す",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ぼくも\n\nぼくも\n\n手を合す\n\nおろがみまする\n\nおろがみまする\n\nはらからよ\n\nはらからよ\n\nよくぞ",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

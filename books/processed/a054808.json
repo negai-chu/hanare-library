@@ -1,0 +1,42 @@
+{
+  "id": "a054808",
+  "title": "街角の飯屋で",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街角の飯屋で",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街角の飯屋で",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　カアテンのかかったガラス戸の外で\n\n郊外電車のスパァクが　お月さんのウィンクみたいだ\n\n大きなどんぶりを抱くようにして　ぼくは食事をする\n\n麦御飯の湯気に素直な咳を鳴らし　どぶどぶと豚汁をすする\n\nいつくしみ深い沢庵の色よ　おごそかに歯の間に鳴りひびく\n\nおや　外は雨になったようですね\n\nもう　つゆの季節なんですか",
+      "characters": 159,
+      "ruby": []
+    }
+  ]
+}

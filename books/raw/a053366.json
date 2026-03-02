@@ -1,0 +1,48 @@
+{
+  "id": "a053366",
+  "title": "〔卑屈の友らをいきどほろしく〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔卑屈の友らをいきどほろしく〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔卑屈の友らをいきどほろしく〕",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "卑屈の友らをいきどほろしく\n\n粘土地二片をはしりてよぎり\n\n崖にて青草黄金なるを知り\n\nのぼりてかれ草黄なるをふめば\n\n白雪きららに落ち来るものか\n\n一列赤赤ならべるひのき\n\nふたゝび卑屈の友らをおもひ\n\nたかぶるおもひは雲にもまじへ\n\nかの粘土地なるかの官庁に",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "灰鋳鉄のいかりを投げよ",
+      "characters": 11,
+      "ruby": []
+    }
+  ]
+}

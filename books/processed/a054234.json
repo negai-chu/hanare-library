@@ -1,0 +1,60 @@
+{
+  "id": "a054234",
+  "title": "水車小屋",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水車小屋",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水車小屋",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　村のはづれの水車小屋\n\nひとり淋しく立って居る\n\n向の川の水車\n\nしぶきをパッと散らしては\n\nぐる／＼／＼と威勢よく\n\n風吹く時も雨の日も\n\n休まずたはまず廻ってる\n\nお日さん西に沈みかけ\n\n夕の鐘が鳴ったとき",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "小屋の窓から首出して\n\nたった一人のお爺さん\n\n手をあて空を眺めては\n\n「あゝ又鐘がなってゐる\n\n　今日も早、今くれて行く」\n\n私が小屋へ来てからは\n\n早廿年たったのか\n\n月日のたつのは早い者\n\n思出しては夢の様",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "この幾年の間には\n\n村長さんが何べんも\n\nかはって今の大杉さん\n\n村のさかひに立って居た\n\n一本松は四年前\n\n切たふされて今はない\n\n若い時から仲よしの\n\n太郎兵衛どんはもう死んだ\n\nあゝもううっかりせられない",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "少し休んで働かう\n\nきせるくはへて一人言\n\nあたりは淋しく成って来た\n\n烏はみんなつれ立って\n\n鎮守の森へと急ぎます\n\n淋しく暗い其の中で\n\nやっぱり／＼威勢よく\n\nぐる／＼まわる水車\n\n（一一・六・二八）",
+      "characters": 103,
+      "ruby": []
+    }
+  ]
+}

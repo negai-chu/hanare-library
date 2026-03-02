@@ -1,0 +1,48 @@
+{
+  "id": "a052769",
+  "title": "Hasty Pudding",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Hasty Pudding",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 331,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "Hasty Pudding",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　（或時私は、菓子のことに就いて人に問はれた時、次のやうな返答を誌したことがある。たしか、おとゝしあたりの夏で田舎住ひを余儀なくされてゐた私であつた。）\n\n　　　　　――――――――――\n\n　菓子のこと？\n\n　おゝ、さうだ！　ある！　こんな話で好かつたら僕にも――。\n\n　ミセス・Ｎは、十余年前からの僕の極めて親しい友達なのであるが、五六年前に自国へ戻り、賢いミセスになつてからは、僕の妻とのみ主に文通を交してゐる。\n\n　僕は屡々判読の相談で、妻からＮの手紙を示されるのであるが、僕の健気な妻はＮへの手紙の度に、ミセス・Ｎ流の最も簡単な料理や菓子の作り方に就いて余程熱心な質問を発してゐると見へて、Ｎの手紙の、二伸の個所に僕は度々如何にも彼女が恥らひと苦笑をもつて誌したかのやうな筆致で、だが何時も忠実に応答してあるのを見出すのである。\n\n　二三、多くの手紙の中から、説明の個所は主に省略して、抜き出して見ようか――。\n\nPOP OVERS\n\n――（Two cups of flour, sweet milk, two eggs, one teaspoonful of milk, and salt, bake in cups in a quick oven 15 minutes; serve hot with a sweet sauce.）",
+      "characters": 572,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "FLANNEL CAKES\n\n――（……略）\n\nPOTATO GRIDDLE\n\n――（twelve large potatoes, one or two eggs and……略）\n\nHASTY PUDDING\n\n――（……略）\n\nRICE WAFFLES\n\n――（……略……beat the eggs well, separately and add the stiff whites of all.）\n\n　悉くの手紙から抜萃すれば数十種に及ぶであらう。\n　だが吾家では、これらのものはおろか何んな類ひの菓子すらも決してつくられた験しはないのだ。見ることも喰ふこともない料理や菓子の製法を学んで僕の妻は何うするつもりなのだらうか、僕は知らない。せめてもの想ひで僕の妻は菓子作りの夢を見て楽しんでゐるのか？　大酒喰ひの、甘も辛も滅茶苦茶の、味知らずの、何も知らない悪食者を夫にした妻の、可憐なる秘かの道楽なのであらうか？",
+      "characters": 409,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053782",
+  "title": "朝",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "朝",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "朝",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　妻は駱駄の様に手紙を呑んだまゝ死んで行くらしい。疾くに私はそれを読んでしまつている。妻はそれを知らないのか。午前十時電灯を消さうとする。妻が止める。夢が浮出されているのだ。三月の間妻は返事を書かうとして未だに書けていない。一枚の皿の様に妻の表情は蒼く痩せている。私は外出せねばならない。私に頼めばよい。オマエノコヒビトヲヨンデヤラウ　アトレスモシツテイル",
+      "characters": 178,
+      "ruby": []
+    }
+  ]
+}

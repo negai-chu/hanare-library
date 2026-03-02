@@ -1,0 +1,42 @@
+{
+  "id": "a045092",
+  "title": "そりとランターン",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "そりとランターン",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "そりとランターン",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ランタンともしたそりだから、\n\nひばなみたいにはしつてる。\n\nランタンほのかなそりだから、\n\nそこだけ粉雪見えてゐる。\n\nランタンあをいそりだから、\n\n馴鹿《となかい》のしり光つてる。\n\nランタン消えそなそりだから、\n\n誰かゞ両手でおほつてる。\n\nランタンゆれてるそりだから、貂《てう》ははやしを出て見てる。",
+      "characters": 155,
+      "ruby": []
+    }
+  ]
+}

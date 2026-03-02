@@ -1,0 +1,48 @@
+{
+  "id": "a053424",
+  "title": "対酌",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "対酌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "対酌",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "嘆きあひ　　　酌みかふひまに\n\n灯はとぼり　　雑木は昏れて\n\n滝やまた　　　稜立つ巌や\n\n雪あめの　　　ひたに降りきぬ\n\n「ただかしこ　淀むそらのみ\n\nかくてわが　　ふるさとにこそ」\n\nそのひとり　　かこちて哭けば\n\n狸とも　　　　眼はよぼみぬ\n\n「すだけるは　孔雀ならずや",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ああなんぞ　　南の鳥を\n\nここにして　　悲しましむる」\n\n酒ふくみ　　　ひとりも泣きぬ\n\nいくたびか　　鷹はすだきて\n\n手拭は　　　　雫をおとし\n\n玻璃の戸の　　山なみをたゞ\n\n三月の　　　　みぞれは翔けぬ",
+      "characters": 103,
+      "ruby": []
+    }
+  ]
+}

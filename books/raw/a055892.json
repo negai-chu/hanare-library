@@ -1,0 +1,48 @@
+{
+  "id": "a055892",
+  "title": "一度",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "一度",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "一度",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "結果から結果を作る\n\n飜訳の悲哀――\n\n尊崇はたゞ\n\n道中にありました\n\n再び巡る道は\n\n「過去」と「現在」との沈黙の対坐です\n\n一度別れた恋人と\n\nまたあたらしく恋を始めたが\n\n思ひ出と未来での思ひ出が",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ヲリと享楽との乱舞となりました\n\n一度といふことの\n\n嬉しさよ",
+      "characters": 31,
+      "ruby": []
+    }
+  ]
+}

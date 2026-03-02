@@ -1,0 +1,42 @@
+{
+  "id": "a015986",
+  "title": "私は何を読むか",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私は何を読むか",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 108,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私は何を読むか",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「デカブリストの妻」ネクラーソフ作谷耕平訳　新星社\n\n　最近深い感銘をもってよみました。特に公爵夫人ヴォルコーンスカヤをよんで、途中で巻をおくことが出来ませんでした。日本の詩人たちは詩のこのような力についてどんな感想をもたれるでしょうか。ネクラーソフはロシア民族的な詩譚《ものがたり》の伝統をこの詩に新しい価値で生かしていると思いました。\n\n附記　谷氏はしたしみぶかく漢字制限を使用されています。\n\n〔一九四八年四月〕",
+      "characters": 209,
+      "ruby": []
+    }
+  ]
+}

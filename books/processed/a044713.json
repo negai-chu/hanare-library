@@ -1,0 +1,42 @@
+{
+  "id": "a044713",
+  "title": "「サント・ブウヴ選集」推薦の言葉",
+  "author": "岸田国士",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「サント・ブウヴ選集」推薦の言葉",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「サント・ブウヴ選集」推薦の言葉",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　批評は科学でもあり芸術でもあるといふ意味に於て、サント・ブウヴは正に批評家の典型である。批評の対照は彼によつて概ね例外なく鋭いメスを加へられ、そして、隠れた美質をつまみ出された。フランス文学の理解は、彼の「毒舌」に負ふところが多いことを、誰でも認めるだらうが、たゞ批評に魅せられることを望むものも亦、彼の業績を一瞥すべきである。",
+      "characters": 165,
+      "ruby": []
+    }
+  ]
+}

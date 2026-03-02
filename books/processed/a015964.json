@@ -1,0 +1,42 @@
+{
+  "id": "a015964",
+  "title": "書斎の条件",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "書斎の条件",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "書斎の条件",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　空想のうちに描いている斯様ありたいと思う書斎の条件を並べます。\n\n（一）　いつも静かで、変化の著しくない光線の入ること。窓も大きくとり、茂った常緑木の葉、落葉樹の感情ある変化を眺めうること。\n（二）　湿気、火事の要心のため、洋風にし家具を全部背いくるように落付いた色調。足音のしない床。\n〔一九二六年九月〕",
+      "characters": 154,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a051113",
+  "title": "おもちゃ店",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おもちゃ店",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 116,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おもちゃ店",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　長二《ちょうじ》は貧乏《びんぼう》の家《いえ》に生《う》まれて\n\nおもちゃも持《も》たずに\n\n死《し》んでしまった。\n\n美《うつく》しいガラス張《ば》りの店頭《みせさき》に、\n\n西洋《せいよう》のぜいたくな小間物《こまもの》や、\n\n赤《あか》、紫《むらさき》に、塗《ぬ》ったゴムまりや\n\nぴかぴかと顔《かお》の映《うつ》る銀笛《ぎんてき》や、らっぱや、\n\nなんでも子供《こども》の好《す》きそうなものが\n\n並《なら》べてあるのを見《み》ると、",
+      "characters": 222,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "店《みせ》のガラス戸《ど》を砕《くだ》いて\n\nそれらのものをめちゃめちゃにたたき壊《こわ》してやりたくなる。\n\n隣《となり》に住《す》んでいた、\n\nあの貧《まず》しかった、哀《あわ》れな長二《ちょうじ》のことを思《おも》い出《だ》したときに。",
+      "characters": 121,
+      "ruby": []
+    }
+  ]
+}

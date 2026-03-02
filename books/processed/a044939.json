@@ -1,0 +1,48 @@
+{
+  "id": "a044939",
+  "title": "ワタシハ　ジヤガイモ",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ワタシハ　ジヤガイモ",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ワタシハ　ジヤガイモ",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ワタシハ　ジヤガイモ、\n\nジヤガイモニ　シルクハツトハ\n\nドウデスカ。\n\nワタシハ　ジヤガイモ、\n\nジヤガイモニ　長イステツキ\n\nドウデスカ。\n\nワタシハ　ジヤガイモ、\n\nジヤガイモニ　毛糸ノカタカケ\n\nドウデスカ。",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ワタシハ　ジヤガイモ、\n\nジヤガイモニ　十文《トモン》ノオクツハ\n\nドウデスカ。\n\nワタシハ　ジヤガイモ、\n\nジヤガイモガ、マチヲアルイテモ\n\nイイデスカ。",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

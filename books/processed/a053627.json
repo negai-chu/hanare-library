@@ -1,0 +1,42 @@
+{
+  "id": "a053627",
+  "title": "竹",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "竹",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "竹",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　竹は直角、\n\n人のくびより根が生え、\n\n根がうすくひろごり、\n\nほのかにけぶる。\n\n――大正四年元旦――",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

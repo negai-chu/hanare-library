@@ -1,0 +1,42 @@
+{
+  "id": "a055488",
+  "title": "晩春小曲",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "晩春小曲",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "晩春小曲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　五月のほのかなる葉桜の下を\n\n遠き自動車は走り去る。\n\nわが欲情を吸収する\n\n堀ばたの赤き尖塔よ。\n\n埃立つ道に沿ひて\n\n兵営の白き塀は曲り行く。",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

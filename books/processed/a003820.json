@@ -1,0 +1,42 @@
+{
+  "id": "a003820",
+  "title": "沙羅の花",
+  "author": "芥川竜之介",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "沙羅の花",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "沙羅の花",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　沙羅木《さらのき》は植物園にもあるべし。わが見しは或人の庭なりけり。玉の如き花のにほへるもとには太湖石《たいこせき》と呼べる石もありしを、今はた如何《いか》になりはてけむ、わが知れる人さへ風のたよりにただありとのみ聞えつつ。\n\nまた立ちかへる水無月《みなづき》の\n\n歎きをたれにかたるべき。\n\n沙羅《さら》のみづ枝《え》に花さけば、\n\nかなしき人の目ぞ見ゆる。\n\n（大正十四年五月）",
+      "characters": 192,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a055464",
+  "title": "PANTOMIME",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "PANTOMIME",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "PANTOMIME",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "うす暗い椽側の端で、\n\n琥珀色した女の瞳が\n\n光つた――夫に叛いた。\n\nもうむかふへ向いた、\n\n庭の樹立と遊んでゐる――\n\nあの狡猾なまなざしは。\n\nとり残された共犯者が\n\n清潔な触手で追ひかける。\n\nだがみんな滑つてしまつた、",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "女の冷たい角膜の上を。\n\n夫の眼がやつと、鋭く、追ひかけた。\n\n薄闇の中でカチカチとぶつかる、\n\n樹と　夕焼と　瞳と、\n\n瞳と……瞳と……。",
+      "characters": 70,
+      "ruby": []
+    }
+  ]
+}

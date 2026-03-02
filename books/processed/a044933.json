@@ -1,0 +1,54 @@
+{
+  "id": "a044933",
+  "title": "木馬",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "木馬",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "木馬",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　走りますよ\n\nおぼつちやん、\n\nピーとなつたら\n\nはしりますよ。\n\nおめゝのなみだを\n\nおふきなさい、\n\nおはなのなみだも\n\nおふきなさい。\n\nはしりだしたら",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "とまりませんよ、\n\nピーとなるまで\n\nとまりませんよ。\n\nおてゝのおくわしを\n\nおすてなさい、\n\nおくちのおくわしも\n\nおすてなさい。\n\n走りますよ\n\nお坊つちやん、",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ピーとなつたら\n\nはしりますよ。",
+      "characters": 16,
+      "ruby": []
+    }
+  ]
+}

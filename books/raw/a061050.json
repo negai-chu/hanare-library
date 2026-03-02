@@ -1,0 +1,66 @@
+{
+  "id": "a061050",
+  "title": "突然に",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "突然に",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "突然に",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "真夜中の一時五十五分に呼吸を断たれた\n\n五十一年を生きた人\n\nあなたは生まれた\n\n比類ないものを持って\n\n満ちあふれた輝き\n\nあなたは出て立って行った\n\nじゅうたんを蹴って\n\n素足のまま\n\nむき出した心臓を",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "荒風の中に\n\n額を打つ嵐の中へ……\n\n一すじに　一すじに\n\nあなたの剣は\n\n敵の胸板にキリキリと深く\n\nあなたの火の言葉は\n\n目つぶしの灰となって彼等の上に……\n\nあなたの選ばれた言葉は\n\nひらめきのように",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "したたりのように\n\n若いたましい\n\nやわらかいたましい\n\n傷ついたよごれたもの\n\n年老いて衰えたもの\n\n働く力を持っているもの\n\n持っている力を奪われたもの\n\n全人民の胸に泌みた\n\nはげしく　鋭く",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "やさしく　しずかに\n\n極限の高さに身をもやした人\n\nおお　そして\n\nもはや　今日の言葉を聞くことができない\n\n再び　あなたは書かない\n\nあなたは再び書かない\n\n明日につづく\n\nこの　虚偽　苦痛　はずかしめ\n\nおお　そして",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "あなたは再び書かない",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

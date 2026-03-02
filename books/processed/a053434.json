@@ -1,0 +1,48 @@
+{
+  "id": "a053434",
+  "title": "敗れし少年の歌へる",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "敗れし少年の歌へる",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "敗れし少年の歌へる",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ひかりわななくあけぞらに\n\n清麗サフィアのさまなして\n\nきみにたぐへるかの惑星《ほし》の\n\nいま融け行くぞかなしけれ\n\n雪をかぶれるびやくしんや\n\n百の海岬いま明けて\n\nあをうなばらは万葉の\n\n古きしらべにひかれるを\n\n夜はあやしき積雲の",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "なかより生れてかの星ぞ\n\nさながらきみのことばもて\n\nわれをこととひ燃えけるを\n\nよきロダイトのさまなして\n\nひかりわなゝくかのそらに\n\n溶け行くとしてひるがへる\n\nきみが星こそかなしけれ",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

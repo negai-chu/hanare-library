@@ -1,0 +1,48 @@
+{
+  "id": "a055470",
+  "title": "影絵",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "影絵",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "影絵",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "半缺けの日本《につぽん》の月の下を、\n\n一寸法師の夫婦が急ぐ。\n\n二人ながらに　思ひつめたる前かゞみ、\n\nさても毒々しい二つの鼻のシルヱツト。\n\n生《なま》白い河岸をまだらに染め抜いた、\n\n柳並木の影を踏んで、\n\nせかせかと――何に追はれる、\n\n揃はぬがちのその足どりは？\n\n手をひきあつた影の道化は",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あれもうそこな遠見の橋の\n\n黒い擬宝珠の下を通る。\n\n冷飯草履の地を掃く音は\n\nもはや聞えぬ。\n\n半缺の月は、今宵、柳との\n\n逢引の時刻《とき》を忘れてゐる。",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

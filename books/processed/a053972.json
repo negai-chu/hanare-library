@@ -1,0 +1,48 @@
+{
+  "id": "a053972",
+  "title": "採炭夫の歌",
+  "author": "後藤謙太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "採炭夫の歌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "採炭夫の歌",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　底だ　底　底　どん底だ\n\nこの世の底だ　どん底だ\n\nもしも堤防が崩れたなら\n\n瓦斯《ガス》が爆発したならば\n\n水攻め　火攻め　その上に\n\n天井がバレたら生き埋めだ\n\n底の底なるどん底に\n\nこの世の底のどん底に\n\n俺は炭掘る採炭夫",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "飽食暖衣のブルジョアの\n\n＊＊＊＊が見憎けりゃ\n\n腕にゃ覚えたツルがある\n\n汚れた世界の果までも\n\n赤い血潮で染めてやる。（三池炭坑時代）\n（『労働・放浪・監獄より』を底本）",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

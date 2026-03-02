@@ -1,0 +1,48 @@
+{
+  "id": "a055594",
+  "title": "東郷大将と彼",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "東郷大将と彼",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "東郷大将と彼",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　彼のアジトには\n\n東郷大将の肖像が壁にはられていた\n\nそれからあの\n\n「皇国の興廃此一戦に在り\n\n各員一層奮励努力せよ」\n\nという同じ東郷大将の筆蹟もあった\n\n彼の家に二度三度\n\nサーベルがやってきてこれを見て行ったし\n\n近所のおしゃべり女房が窓の外から",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "この平凡な風景を見て行ったし\n\nどうやら東郷大将は彼のために\n\n煙幕作業をやっている\n\n日露戦争の折には\n\n人民の敵ツァーの艦隊を全滅させて\n\nロシアに革命を早くさせたといって\n\n感謝されているこの提督を\n\n彼は別な意味からはがそうとはしない",
+      "characters": 121,
+      "ruby": []
+    }
+  ]
+}

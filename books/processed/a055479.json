@@ -1,0 +1,42 @@
+{
+  "id": "a055479",
+  "title": "煙草の歌",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "煙草の歌",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "煙草の歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　阪を上りつめてみたら、\n\n盆のやうな月と並んで、\n\n黒い松の木の影一本……\n\n私は、子供らが手をつないで歌ふ\n\n「籠の鳥」の歌を歌はうと思つた。\n\nが、忘れてゐたので、\n\n煙草の煙を月の面《おもて》に吐きかけた。\n\n煙草は\n\n私の歌だ。",
+      "characters": 119,
+      "ruby": []
+    }
+  ]
+}

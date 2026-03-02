@@ -1,0 +1,2207 @@
+{
+  "id": "a001757",
+  "title": "十五夜お月さん",
+  "author": "野口雨情",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 272
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "十五夜お月さん",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "蜀黍畑",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "螢の提灯",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "豊作唄",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "日傘",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "九官鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "信田の籔",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "虹の橋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "人形屋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "雨夜の傘",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "燕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "トマト畑",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "烏と地蔵さん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "冬の日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "雲雀の子とろ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "赤牛黒牛",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "十六角豆",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "葱坊主",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "鵞鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "山椒の木",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "山の狐",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "烏の小母さん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "赤いマント",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "母さん里",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "可愛い小鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "森の中",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "闇夜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "堂鳩",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "汐がれ浜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "雉子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "鼬と雀",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "鈴虫の鈴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "みそさざい",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "象の鼻",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "四丁目の犬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "柿",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "糸切",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "人橋",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "酸漿提灯",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "お山の烏",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-41",
+            "number": "青い青い海",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-42",
+            "number": "迷子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-43",
+            "number": "鶏さん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-44",
+            "number": "十五夜お月さん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-45",
+            "number": "鼬の嫁入り",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-46",
+            "number": "烏猫",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-47",
+            "number": "百弗",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-48",
+            "number": "カンカラカン",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-49",
+            "number": "兎の耳",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-50",
+            "number": "時雨唄",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-51",
+            "number": "雀の家",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-52",
+            "number": "親鶏子鶏",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-53",
+            "number": "留守番",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-54",
+            "number": "蜂",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-55",
+            "number": "帰る雁",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-56",
+            "number": "機織虫",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-57",
+            "number": "田甫の狐",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-58",
+            "number": "青い空",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-59",
+            "number": "地蔵さん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-60",
+            "number": "孟宗の竹籔",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-61",
+            "number": "手毬唄",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-62",
+            "number": "河童の祭",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-63",
+            "number": "山の日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-64",
+            "number": "猫の髯",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-65",
+            "number": "子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-66",
+            "number": "七つの子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-67",
+            "number": "河原千鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-68",
+            "number": "ホーホー鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-69",
+            "number": "雪降り小女郎",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-70",
+            "number": "木小屋と柿の木",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-71",
+            "number": "だまされ太郎作",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 272,
+    "averageCharsPerPage": 29,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "十五夜お月さん",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "蜀黍畑",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "お背戸の　親なし\n\nはね釣瓶\n\n海山《うみやま》　千里に\n\n風が吹く\n\n蜀黍《もろこし》畑も\n\n日が暮れた\n\n鶏　さがしに\n\n往かないか。",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "螢の提灯",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "螢の提灯光つてる\n\nぴかん　ぴかん光つてる\n\n早くみんなで追つかけよう\n\n螢の提灯考へた\n\nぴかん　ぴかん考へた\n\n早く提灯とつちまい\n\n螢の提灯消《け》えちやつた\n\nつーん　つーん消えちやつた\n\n早く蝋燭見せてやれ。",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "豊作唄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "山椒《さんしよ》　山椒の木で\n\n雀が啼いた\n\n足で　山椒踏んで\n\n山椒の木で啼いた\n\n豆も　小豆も\n\n莢《さや》から　はしる\n\n麦も　小麦も\n\nみな　たれさがる\n\n山椒　山椒の木で",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "雀が啼いた\n\n山椒　山椒踏んで\n\n山椒の木で啼いた",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "日傘",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "わかれた　母《かか》さん",
+      "characters": 12,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "日傘《ひがらがさ》",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 12,
+      "content": "物言うて　くだされ",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "日傘",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "お背戸に　風吹く\n\n篠籔は\n\n烏に　喰はれた\n\n烏瓜《すひかづら》\n\n母さん　わたしも",
+      "characters": 43,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "日傘",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 16,
+      "content": "物言うて　くだされ",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "日傘",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "九官鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "九官鳥に\n\n君が代唄はせよう\n\n「千代に八千代」に\n\n唄はせよう\n\n鸚鵡《あうむ》に\n\n君が代唄はせよう\n\n「巌《いはほ》となりて」と\n\n唄はせよう\n\nわたしも",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "君が代唄ひませう\n\n「レ・ド・レ・ミ・\n\nソ・ミ・レ」と\n\n唄ひませう。",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "信田の籔",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 22,
+      "content": "お背戸の　お背戸の\n\n赤蜻蛉《とんぼ》\n\n狐の　お噺《はなし》\n\n聞かせませう\n\n糸機《いとはた》　七年\n\n織りました\n\n信田《しのだ》の　狐は\n\n親狐\n\n信田の　お背戸の",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "ふるさとで\n\n子供に　こがれた\n\n親狐\n\nお背戸の　お背戸の\n\n赤蜻蛉\n\n明日《あした》も　お籔に\n\n来てとまれ。",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "虹の橋",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "あつちの町と\n\nこつちの町と\n\n太鼓橋かけた\n\n赤い草履《ぞんぞ》はいて\n\nみんなで渡らう\n\nあの子も　渡れ\n\nこの子も　渡れ\n\n仲よく渡れ",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "虹の橋　高いぞ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "手手ひいて渡れ。",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "人形屋",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "人形屋の\n\n小母《をば》さん\n\n髪《かんか》結つてた\n\n元結《もとゆひ》で\n\nむすんで\n\n髪結つてた\n\n人形にも\n\nいい髪\n\n結つておやり",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "元結で\n\nむすんで\n\n結つておやり。",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "雨夜の傘",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 32,
+      "content": "雨夜の\n\n傘《からかさ》\n\n蛇の目傘\n\n文福《ぶんぶく》茶釜は\n\n化け茶釜\n\nお寺の釣瓶も\n\n化け釣瓶\n\n雨夜に\n\n傘",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "さして来た。",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "燕",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "燕の母《かか》さん\n\n洒落母さん\n\nそろひの簪《かんざし》\n\n買つてやろ\n\n牛乳屋《ちちや》の表に遊んでた\n\n母さん燕は洒落母さん",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "トマト畑",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "雨降り雲は\n\nなぜ来ない\n\nトマト畑が\n\nみな枯れる\n\nトマト畑に\n\n太陽《おひさま》は\n\nじりりじりりと\n\n照らしてる\n\n雨降り雲は",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "なぜ来ない\n\nトマト畑が\n\nみな枯れる\n\nトマト畑の\n\n百姓は\n\n赤いトマトを\n\n眺めてる。",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "烏と地蔵さん",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 40,
+      "content": "石の地蔵さん\n\n居ねむりしてた\n\nにこりにこりと\n\n居ねむりしてた\n\n烏アときどき\n\n団子見て啼いた\n\n石の団子で\n\n盗《と》つても駄目だ\n\n石の地蔵さん",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "駄目団子もつてた\n\nにこりにこりと\n\n駄目団子もつてた。",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "冬の日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 43,
+      "content": "（茨城でうまれた文ちやんの唄）\n\nここの屋敷は\n\n空屋敷\n\n文《ふみ》ちやんうまれた　茨城の\n\n元の屋敷も\n\n空屋敷\n\nここの畑は\n\n桐畑\n\n文ちやんうまれた　茨城の",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "背戸の畑も\n\n桐畑\n\nここの姉《あね》さん\n\n日和下駄\n\n文ちやんうまれた　茨城の\n\nお夏娘も\n\n日和下駄\n\nここの柱は\n\n木の柱",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "文ちやんうまれた　茨城の\n\n元の御門《ごもん》も\n\n木の柱",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "雲雀の子とろ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 47,
+      "content": "こをとろことろ\n\n田甫《たんぼ》の中の",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "雲雀の子とろ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 49,
+      "content": "畑の中に\n\n菜種の花は\n\nならんで咲いた\n\n厩《うまや》の背戸の\n\n豌豆《ゑんどう》の花も\n\nならんで咲いた\n\nこをとろことろ\n\n親父は留守だ\n\n雲雀の子とろ。",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "赤牛黒牛",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 51,
+      "content": "赤牛　黒牛\n\nモー　モー\n\nあつち向いちや\n\nモー　モー\n\nこつち向いちや\n\nモー　モー\n\n父《とと》さん　母《かか》さん\n\nモー　モー\n\n角が生えてる",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "モー　モー。",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "十六角豆",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 54,
+      "content": "胡麻の木畑は\n\n皆　はねた\n\n十六角豆《ささげ》も\n\n皆　はねた\n\n雀が畑に\n\nかくれてる\n\n鉄漿《おはぐろ》とんぼに\n\n話して来《こ》。",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "葱坊主",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 56,
+      "content": "ぴュ　ぴュ　風が\n\n山から\n\n吹いた\n\n昨日《きのふ》も　今日も\n\n畑　に\n\n吹いた\n\n畑の中の",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "葱坊主",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 58,
+      "content": "寒いな。",
+      "characters": 4,
+      "ruby": []
+    },
+    {
+      "pageNumber": 59,
+      "content": "鵞鳥",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 60,
+      "content": "鵞鳥に腹掛け\n\nかけさせて\n\nみんなで遊びに\n\nつれてゆこ\n\n玩具《おもちや》屋の表は\n\n駈けて通ろ\n\nみんなで　ならんで\n\n駈けて通ろ\n\n鵞鳥も一緒に",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 61,
+      "content": "駈けるだろ\n\n長い頸ふりふり\n\n駈けるだらう。",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "山椒の木",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "田甫《たんぼ》の　田甫の",
+      "characters": 12,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "山椒《さんしよ》の木",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 65,
+      "content": "上総《かづさ》は　鰮《いわし》の\n\n大漁だ\n\nおいらが　父さん\n\nいつ帰る\n\n聞かせて　くれぬか\n\n山椒の木。",
+      "characters": 55,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "山の狐",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 67,
+      "content": "片親　ない子は\n\n門《かど》で泣く\n\n双親《ふたおや》ない子は\n\n背戸で泣く\n\n雀は　門で啼く\n\n背戸で啼く\n\n狐は　野で啼く\n\n山で啼く\n\n門で泣け　門で泣け",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "明日《あす》の晩は\n\n山で啼く狐が\n\n背戸へ来るぞ\n\n背戸で泣け　背戸で泣け\n\n明日の朝は\n\n山で啼く狐が\n\n門へ来るぞ。",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "烏の小母さん",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 70,
+      "content": "烏の小母《をば》さん　機織つてた",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 71,
+      "content": "チンバタ　チンバタ\n\n機織つてた\n\n木綿の腹掛　機織つてた\n\n泣く児に\n\n腹掛買つてやれ",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "烏の小母さん　機織つてた",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 73,
+      "content": "チンバタ　チンバタ\n\n機織つてた\n\n更紗《さらさ》の綿入　機織つてた\n\n泣く児に\n\n綿入買つてやれ。",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "赤いマント",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 75,
+      "content": "家鴨《あひる》は水飲んで\n\nつめたからう\n\nぐんぶぐんぶ水飲んで\n\nつめたからう\n\n家鴨に赤いマント\n\n買つて着せよう",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "赤いマント　可愛から",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 77,
+      "content": "買つて着せよう\n\nマント屋の　赤いマント\n\n買つて着せよう。",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "母さん里",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 79,
+      "content": "母《かか》さん　里は\n\n一本榎\n\n親鳩　子鳩\n\nならんで見てた\n\nのつぽのつぽ榎\n\n天までとどけ\n\n母さん里へ\n\n餅負《しよ》つて行つた",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "可愛い小鳥",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 81,
+      "content": "小鳥屋の店は\n\nチツチク　チツチク店だ\n\n小鳥屋のお父《とつ》さん\n\n目くちやれお父さん\n\n小鳥のお母《つか》さん\n\n朝寝ンぼお母さん\n\n雌雄《めすおす》二羽の\n\n可愛い鳥だ\n\n小鳥屋の店で",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "チツチク　チツチク啼いてた。",
+      "characters": 14,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
+      "content": "森の中",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 84,
+      "content": "森の中の　一本桜に\n\n花が咲きました\n\n朝晩　小鳥が来て\n\n啼いてをりました\n\n一羽の小鳥は\n\n赤い足でした\n\n一羽の小鳥は\n\n青い羽根でした\n\nどつちの小鳥も",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 85,
+      "content": "いい声でした。",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "闇夜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 87,
+      "content": "親貉《むじな》　子貉\n\n今夜は\n\n闇夜だ\n\nぐつり　わつり\n\n和尚は\n\nしぶしぶ提灯出かけたぞ\n\n親貉　子貉\n\nお月さんに\n\n化けろ",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "堂鳩",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 89,
+      "content": "親鳩　子鳩\n\nほんとの堂鳩《どばと》\n\n畑の中で\n\n啼いてた　堂鳩\n\nお寺の背戸に\n\n鉄砲打《ぶ》ち通る\n\n親鳩　子鳩\n\n屋根から見てた。",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 90,
+      "content": "汐がれ浜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 91,
+      "content": "ペンペン草は\n\nどこまでのびる\n\n港の雨は\n\nパラパラ雨だ\n\n汐がれ浜の\n\n小笹にたまれ\n\n小笹もゆれろ\n\n港もゆれろ。",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 92,
+      "content": "雉子",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 93,
+      "content": "雉子が啼いた　雉子が啼いた\n\n山で啼いた\n\n茨に刺されて\n\n雉子が啼いた\n\n雉子が言ふた　雉子が言ふた\n\n山で言ふた\n\n足袋縫ふて　はきませうと\n\n雉子が言ふた。",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "鼬と雀",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 95,
+      "content": "ここの家は\n\n引つ越して\n\n雨戸が　締つてをりました\n\nお庭の　お庭の\n\n真中に\n\n鼬《いたち》が　歩いてをりました\n\nここの家は\n\n引つ越して\n\n雨戸が　締つてをりました",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "お庭の　お庭の\n\n木の上に\n\n雀が遊んでをりました。",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 97,
+      "content": "鈴虫の鈴",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 98,
+      "content": "鈴虫　鈴虫\n\nチンチロリン\n\n鈴　どこから持つて来た\n\n母《かか》さんお嫁に\n\n来るときに\n\n番頭《ばんと》に負《しよ》はせて持つて来た\n\n鈴虫　鈴虫\n\nチンチロリン\n\n鈴　ちよつくら貸してみろ",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 99,
+      "content": "貸したら返さぬ\n\nあーかんべ\n\n番頭に負はせてやつちやつた。",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "みそさざい",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 101,
+      "content": "ちツ　ちツ\n\n啼いてる\n\n鷦鷯《みそさざい》\n\n畑に\n\n赤牛\n\n立つてたぞ\n\n雨こんこ\n\nパラパラ\n\n降つて来た",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "傘《からかさ》\n\nささせる\n\nこつちへ来《こ》。",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 103,
+      "content": "象の鼻",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 104,
+      "content": "象に猿衣《ちやんちやん》　着せたら\n\nうれしがろナ\n\n赤い帽子　かぶせたら\n\nうれしがろナ\n\n象に靴はかせたら\n\nあるきだそナ\n\n象の足　太いから\n\n重たかろナ\n\n象の眼は　小《ち》さいから",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 105,
+      "content": "ねむたかろナ",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 106,
+      "content": "象の鼻　長いから",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 107,
+      "content": "日が暮れるナ。",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 108,
+      "content": "四丁目の犬",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 109,
+      "content": "一丁目の子供\n\n駈け駈け　帰れ\n\n二丁目の子供\n\n泣き泣き　逃げた\n\n四丁目の犬は\n\n足長犬だ\n\n三丁目の角に\n\nこつち向いてゐたぞ",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 110,
+      "content": "柿",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 111,
+      "content": "五兵衛さん娘が",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 112,
+      "content": "柿　持つてた",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 113,
+      "content": "おいらに見せ見せ",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 114,
+      "content": "柿　持つてた",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 115,
+      "content": "隣の　ぼんちも",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 116,
+      "content": "柿　持つてた",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 117,
+      "content": "おいらに見せ見せ",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 118,
+      "content": "柿　持つてた",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 119,
+      "content": "柿　買つて食べたい",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 120,
+      "content": "銭《ぜんぜ》　おくれ\n\n向ふの小母《をば》さん\n\n銭　おくれ\n\nおいらが母《かか》さん　なぜ死んだ\n\nおいらにだまつて　なぜ死んだ\n\n草端《くさば》の蔭から",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 121,
+      "content": "柿　おくれ。",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 122,
+      "content": "糸切",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 123,
+      "content": "糸切虫に\n\nどの糸切らせう\n\nほぐれた糸を\n\nよりより切らせう\n\n糸切虫は\n\n赤い糸切つた\n\n小さな口で\n\nぽきんと切つた。",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 124,
+      "content": "人橋",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 125,
+      "content": "隣の家は\n\n昨日も　るすだ\n\n厩《うまや》の　背戸に\n\n蚯蚓《みみず》が鳴いつた\n\n人橋かけろ\n\nどんど橋\n\nかけろ\n\n姉上さまは\n\n馬に乗つて",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 126,
+      "content": "行つた。\n\nころころ　ころころ\n\n（こほろぎ）が\n\nころころ　ころころ\n\n鳴いてゐる\n\n風呂場で　風呂炊く\n\n風呂の火が\n\n煙くて　煙くて\n\n鳴いてゐる",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 127,
+      "content": "ころころ　ころころ\n\n　が\n\nころころ　ころころ\n\n鳴いてゐる\n\n甕からこぼれた\n\n甘酒を\n\n飲ませておくれと\n\n鳴いてゐる。",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 128,
+      "content": "酸漿提灯",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 129,
+      "content": "おら家《いへ》の　提灯",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "酸漿《ほほづき》提灯",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 131,
+      "content": "畑さ　提灯　ぶらさげた\n\nとなりの　提灯",
+      "characters": 20,
+      "ruby": []
+    },
+    {
+      "pageNumber": 132,
+      "content": "酸漿提灯",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 133,
+      "content": "畑さ　提灯　ぷらさげた\n\n畑の　提灯",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 134,
+      "content": "酸漿提灯",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 135,
+      "content": "夜昼　提灯　ぶらさげた",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 136,
+      "content": "お山の烏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 137,
+      "content": "カツコカツコ帰れ",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 138,
+      "content": "お山の烏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 139,
+      "content": "明日《あした》は　雨だ\n\nカツコカツコ帰れ\n\n鳩ポツポ啼いた\n\nポツポポツポ啼いた",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 140,
+      "content": "お山の烏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 141,
+      "content": "カツコカツコ帰れ。",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 142,
+      "content": "青い青い海",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 143,
+      "content": "山から\n\nタツチクだ\n\n海から\n\nタツチクだ\n\nタツチク　タツチク　タツチクだ\n\n父《とと》さん恋し\n\n母《かか》さん恋し\n\n海鵯《うみひよどり》も\n\nタツチク　タツチク　タツチクだ",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 144,
+      "content": "青い青い海を\n\n見てたが\n\nいいか。",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 145,
+      "content": "迷子",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 146,
+      "content": "赤い帯しめた\n\n赤い下駄《かつこ》はいた\n\nどなたと行つた\n\n一人で行つた\n\nどこまで行つた\n\nどなたも知らぬ\n\n八幡《はちまん》様の\n\n狐に聞いた。",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 147,
+      "content": "鶏さん",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 148,
+      "content": "雛《ひよこ》の母《かか》さん",
+      "characters": 14,
+      "ruby": []
+    },
+    {
+      "pageNumber": 149,
+      "content": "鶏さん",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 150,
+      "content": "鳥屋に買はれて\n\nゆきました\n\n大寒　小寒で\n\n寒いのに\n\n雛と　わかれて\n\nゆきました\n\n雛に　わかれた\n\n母鶏《ははどり》さん\n\n鳥屋で　さびしく",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 151,
+      "content": "暮すでせう。",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 152,
+      "content": "十五夜お月さん",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 153,
+      "content": "十五夜お月さん",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 154,
+      "content": "御機嫌さん\n\n婆やは　お暇《いとま》とりました",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 155,
+      "content": "十五夜お月さん",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 156,
+      "content": "妹は\n\n田舎へ　貰《も》られて　ゆきました",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "十五夜お月さん　母《かか》さんに",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 158,
+      "content": "も一度\n\nわたしは逢ひたいな。",
+      "characters": 15,
+      "ruby": []
+    },
+    {
+      "pageNumber": 159,
+      "content": "鼬の嫁入り",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 160,
+      "content": "今夜は鼬の嫁入りだ\n\n鼬に\n\n長持貸してやれ\n\n厩《うまや》の　うしろの\n\n篠籔に\n\n鼬が提灯つけてゐた\n\n厭の　うしろの　篠籔は\n\n霜枯れ篠籔\n\nおお　寒い",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 161,
+      "content": "今夜は鼬の嫁入りだ\n\n鼬に\n\n駒下駄貸してやれ。",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 162,
+      "content": "烏猫",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 163,
+      "content": "烏猫　烏猫",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 164,
+      "content": "眼ばかり光る",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 165,
+      "content": "烏猫",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 166,
+      "content": "のろり　のろり　歩いてる\n\nほんとに狡い",
+      "characters": 20,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "烏猫",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 168,
+      "content": "矮鶏《ちやぼ》の雛《ひよつこ》　追つかけた\n\n尻尾の長い",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 169,
+      "content": "烏猫",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 170,
+      "content": "厩《うまや》の背戸に\n\n昼寝しろ\n\nぐうぐうぐう昼寝しろ\n\n火箸が　ぐんにやり曲るほど\n\nたたいてやるから\n\n昼寝しろ。",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 171,
+      "content": "百弗",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 172,
+      "content": "猫の小母《をば》さん\n\n木兎《みみづく》さん\n\n百弗《どる》貸すから\n\n家建てろ\n\n石で　たたんだ\n\n家建てろ\n\n煉瓦で　たたんだ\n\n家建てろ\n\n猫の小母さん",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "木兎さん\n\n小猫《たま》にも百弗\n\n金貸した\n\n百畳　畳が出来て来る\n\nどんどん踏んでも踏みきれぬ\n\n朝晩踏んでも\n\n踏みきれぬ。",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 174,
+      "content": "カンカラカン",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 175,
+      "content": "港の船は\n\nカンカラ　カンカラ　カンカラだ\n\nざんぶ　ざんぶ　波に\n\nゆられてゐたぞ\n\n河原の石も\n\nカンカラ　カンカラ　カンカラだ\n\nどんか　どんか　風に\n\n吹かれてゐたぞ\n\n厩《うまや》の馬も",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 176,
+      "content": "カンカラ　カンカラ　カンカラだ\n\n長い　長い　顔で\n\n水飲んでゐたぞ。",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 177,
+      "content": "兎の耳",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 178,
+      "content": "兎の足は　跛《ちんば》だナ\n\n耳　切つてつなご\n\n跛《ちんば》だ　跛だ　跛だナ\n\n縛つて切ろか\n\nだまして切ろか\n\n跛だ　跛だ　跛だナ\n\n兎に話すと逃げだすぞ\n\n耳　負《しよ》つて\n\n逃げだすぞ",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 179,
+      "content": "誰にも黙つて番してろ\n\n耳　見ながら\n\n番してろ。",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 180,
+      "content": "時雨唄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 181,
+      "content": "雨降りお月さん\n\n暈《かさ》くだされ\n\n傘《からかさ》さしたい\n\n死んだ母《かか》さん　後母《あとかか》さん\n\n時雨《しぐれ》の降るのに\n\n下駄くだされ\n\n跣足《はだし》で　米磨ぐ\n\n死んだ母さん　後母さん\n\n親孝行するから",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 182,
+      "content": "足袋くだされ\n\n足が凍《こごえ》てあるけない\n\n死んだ母さん　後母さん\n\n奉公にゆきたい\n\n味噌くだされ\n\n喉に飯《まんま》がとほらない\n\n死んだ母さん　後母さん。",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 183,
+      "content": "雀の家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 184,
+      "content": "雀のお家《うち》は\n\nどこでせう\n\n雀に聞いても\n\nかくしてる\n\n子雀　だまして\n\n聞きませう\n\n学校のうしろの篠籔は\n\nわたしのお家と\n\n云ひました。",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "親鶏子鶏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 186,
+      "content": "親鶏《とつと》　子鶏\n\nトツトトツト駆けろ\n\n下駄《かつこ》屋の店で\n\n下駄買つてはかせう\n\n親鶏　子鶏\n\nトツトトツト駆けろ\n\nニヤアニヤア猫も\n\n下駄　買つて来たぞ。",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 187,
+      "content": "留守番",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 188,
+      "content": "隣の母《かか》さん\n\n継母《ままかか》さん\n\n鼬《いたち》に　留守番\n\nたのんでた\n\n小豆の飯《まんま》は\n\n赤飯\n\n鼬は　あかんべ\n\n仕てたツけ\n\n隣の父《とと》さん",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 189,
+      "content": "よい父さん\n\n鼬に　留守番\n\nたのんでた\n\n小豆の飯は\n\n赤飯\n\n鼬が　留守番\n\n仕てたツけ。",
+      "characters": 47,
+      "ruby": []
+    },
+    {
+      "pageNumber": 190,
+      "content": "蜂",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 191,
+      "content": "蜂　蜂　飛んで来ナ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 192,
+      "content": "ちつくり針　置いて来ナ\n\nいつさツさアと遊ぼ",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 193,
+      "content": "蜂　蜂　飛んで来ナ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 194,
+      "content": "ちつくり針　置いて来ナ。",
+      "characters": 12,
+      "ruby": []
+    },
+    {
+      "pageNumber": 195,
+      "content": "帰る雁",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 196,
+      "content": "雁《がん》が　帰る\n\n雁が　帰る\n\n雁が　帰る\n\n襷《たすき》に　ならんで\n\n雁が\n\n帰る\n\n山が　暴《あ》れた\n\n海が　暴れた\n\n風で　暴れた",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 197,
+      "content": "帯になつて\n\n紐になつて\n\n雁が帰る",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 198,
+      "content": "機織虫",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 199,
+      "content": "機織虫《はたおりむし》は\n\n一機　織つた\n\nカンカラ　コン\n\nカンカラ　コン\n\n田舎は　涼し\n\n凌霄花《のうぜんかづら》\n\nカンカラ　コン\n\nカンカラ　コン\n\n機織虫と",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 200,
+      "content": "一緒に　遊ぼ。",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 201,
+      "content": "田甫の狐",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 202,
+      "content": "昔、或所の田甫《たんぼ》に古狐がゐました。若い女に化けて旅人をだまさうとした噺《はなし》があります。\n\n田甫の狐は\n\n赤い櫛さして\n\n赤い帯しめて\n\n後姿《うしろすがた》　見せて\n\n三味線ひいてた\n\n又、子供をだまさうとした噺もあります。\n\n田甫の狐は\n\n芒《すすき》の蔭で",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 203,
+      "content": "赤い　風船\n\n飛ばした\n\n青い　風船\n\n飛ばした\n\n畑の中で小酒盛をしてゐました噺もあります。\n\n田甫の狐は\n\n畑の中に\n\n胡座《あぐら》をかいて\n\n河童の小父《をぢ》と",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 204,
+      "content": "小酒盛してた。",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 205,
+      "content": "青い空",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 206,
+      "content": "母《かあ》さん　来るまで\n\n姉さんと",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 207,
+      "content": "青い空　青いから",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 208,
+      "content": "見てゐませう\n\n二歳《ふたつ》で　あんよが\n\n出来たから\n\n母さんゐなくも\n\nゐられるわネ",
+      "characters": 45,
+      "ruby": []
+    },
+    {
+      "pageNumber": 209,
+      "content": "青い空　見ておゐで",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 210,
+      "content": "青い空に\n\n夜になると　お星さま\n\n出て来るのよう\n\n母さん　帰りが\n\n遅いときは\n\n門《かど》へ出て　姉さんと\n\n待つてゐませう。",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 211,
+      "content": "地蔵さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 212,
+      "content": "空ア火事だ　梯子出せ\n\n頭さ木杭《ぼつくひ》降つてくらア\n\n嘘なら　狸に\n\n聞いて見ろ\n\n狸に聞いたら　舌《べろ》出した\n\n傘《からかさ》かづいで　舌出した\n\n嘘なら　蚯蚓《みみず》に\n\n聞いて見ろ\n\nこんやは　蚯蚓の行列だ",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 213,
+      "content": "狸も跣足《はだし》で　行列だ\n\n嘘なら　地蔵さんに\n\n聞いて見ろ",
+      "characters": 32,
+      "ruby": []
+    },
+    {
+      "pageNumber": 214,
+      "content": "地蔵さん　太鼓を買つて来た",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 215,
+      "content": "ドドンコ　ドンドン叩いてる\n\n狸も一緒に　叩いてる\n\n嘘なら　黙つて口出すな。",
+      "characters": 39,
+      "ruby": []
+    },
+    {
+      "pageNumber": 216,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 217,
+      "content": "お寺の竹籔",
+      "characters": 5,
+      "ruby": []
+    },
+    {
+      "pageNumber": 218,
+      "content": "孟宗《まうそう》の竹籔",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 219,
+      "content": "お小僧が　掘つても",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 220,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 221,
+      "content": "お弟子が　掘つても",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 222,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 223,
+      "content": "掘つても　掘つても",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 224,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 225,
+      "content": "お弟子が　あきれて\n\n鍬　投げた\n\nお小僧も　あきれて\n\n鍬　投げた。\n\nじんぐ　じんぐ　掘つても",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 226,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 227,
+      "content": "どこまで掘つても",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 228,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 229,
+      "content": "よくよく　これはと\n\n鍬　投げた。\n\nそろそろ　踏んでも",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 230,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 231,
+      "content": "ヤンヤと　踏んでも",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 232,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 233,
+      "content": "踏んでも打《のし》ても",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 234,
+      "content": "孟宗の竹籔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 235,
+      "content": "和尚さん　駄目だと\n\n鍬　投げた。",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 236,
+      "content": "手毬唄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 237,
+      "content": "お手毬《まり》ついて\n\n毬ついて\n\n二人で仲よく\n\n遊びませう\n\nあなたも　草履《ぞんぞ》を\n\nはいといで\n\nわたしも　草履を\n\nはいて来よう\n\nあなたの　髪《かんか》は",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 238,
+      "content": "お煙草盆\n\nわたしの　髪も\n\nお煙草盆\n\nお手毬ついて\n\n毬ついて\n\n二人で仲よく\n\n遊びませう\n\n明日《あした》も　明日も\n\n遊びませう",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 239,
+      "content": "仲よく　仲よく\n\n遊びませう。",
+      "characters": 15,
+      "ruby": []
+    },
+    {
+      "pageNumber": 240,
+      "content": "河童の祭",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 241,
+      "content": "今夜は　河童の\n\nお祭だ\n\n獺《かはうそ》ア　車に\n\n乗つて来らア\n\n泣く子は　河童に\n\n獲《と》られるぞ\n\nお祭ア　太鼓で\n\n押して来た\n\n泣く子に　当薬《たうやく》",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 242,
+      "content": "なめらせろ。",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 243,
+      "content": "山の日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 244,
+      "content": "寒い日が\n\n続いた\n\nぽかり　ぽかり\n\n日が照れ\n\n日南《ひなた》ぽつこ\n\n暖《ぬく》いな\n\n山から海から\n\n日が照れ。",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 245,
+      "content": "猫の髯",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 246,
+      "content": "隣の父《とつ》さん\n\n小豆　一升\n\n煮てた\n\n牡丹餅《ぼたもち》甘《うま》いな\n\nてつこ盛つて\n\n食べた\n\n三毛猫ア馬鹿だぞ\n\n髯に\n\n火がはねた",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 247,
+      "content": "子",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 248,
+      "content": "田甫の田螺《たにし》\n\n早く\n\n早く\n\n起きろ\n\n子供の雁《がん》は\n\nぱつた\n\nぱつた\n\n翼《はね》だ\n\n遠い遠い国へ",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 249,
+      "content": "飛び\n\n飛び\n\n往つた。",
+      "characters": 12,
+      "ruby": []
+    },
+    {
+      "pageNumber": 250,
+      "content": "七つの子",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 251,
+      "content": "烏　なぜ啼くの\n\n烏は山に\n\n可愛七つの\n\n子があるからよ\n\n可愛　可愛と\n\n烏は啼くの\n\n可愛　可愛と\n\n啼くんだよ\n\n山の古巣に",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 252,
+      "content": "行つて見て御覧\n\n丸い眼をした\n\nいい子だよ。",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 253,
+      "content": "河原千鳥",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 254,
+      "content": "こんこん　狐に\n\nまはされた\n\n娘は　昨夕《ゆんべ》も\n\n帰らない\n\n今夜も　河原で\n\n啼け　千鳥\n\n晩方《ばんげ》のお日さま\n\nゆつさゆつさ\n\n小笹に　ゆられて",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 255,
+      "content": "ゆつさゆつさ。",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 256,
+      "content": "ホーホー鳥",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 257,
+      "content": "鶉《うづら》の鳥が\n\n田甫で　啼いた\n\n田甫の土を\n\n踏み踏み　啼いた\n\nホーホー鳥も\n\nお山で　啼いた\n\nお山の森に\n\n隠れて　啼いた\n\nもう日が暮れる",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 258,
+      "content": "お家《うち》へ帰ろ。",
+      "characters": 10,
+      "ruby": []
+    },
+    {
+      "pageNumber": 259,
+      "content": "雪降り小女郎",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 260,
+      "content": "泣く子は\n\n帰れ\n\n雀と帰れ\n\n一軒家の\n\n背戸に\n\n雪五合降つて来た\n\n山の　山の\n\n奥の",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 261,
+      "content": "雪降り小女郎",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 262,
+      "content": "一里も　二里も\n\n雪負《しよ》つて\n\n飛んで来た。",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 263,
+      "content": "木小屋と柿の木",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 264,
+      "content": "太郎作家《たろさくげえ》の鼬の子　『このごろ魂消《たまげ》た　出来事だ\n\n太郎作どんには\n\n内証《ないしよう》だぞ\n\n次郎作《じろさく》どん家の\n\n姉さまは\n\n太郎作どん家の　柿の木さ\n\n朝晩　かかつて\n\nゐたんだぞ\n\n次郎作家の鼬の子　『己《おい》らも魂消た　出来事だ",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 265,
+      "content": "次郎作どんには\n\n内証だぞ\n\n太郎作どん家の\n\n鶏雛《ぴよつぴよこ》と\n\n次郎作どん家の　鶏雛と\n\n木小屋さ　あがつて\n\nゐたんだぞ。",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 266,
+      "content": "だまされ太郎作",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 267,
+      "content": "鼻黒鼬\n\n『太郎作《たろさく》どんてば　太郎作どん\n\n留守番すべから　往つてごぜえ",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 268,
+      "content": "だまされ太郎作",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 269,
+      "content": "『たしかに　留守番\n\nたのんだぞ\n\n太郎作家《げえ》の鶏の子\n\n『鼬奴　来たらば\n\nなじよにしべえ\n\n鶏の親父\n\n『厩《うまや》の前《めい》ちよで\n\n遊んでろ\n\n鼻黒鼬",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 270,
+      "content": "『うまいぞ　雛鶏《ぴよつぴよこ》　追つかけべえ\n\n太郎作ア来たても話すなヨ\n\n鼻黒鼬の子供\n\n『親父《とつ》さん　己《おい》らも\n\n追つかけらア\n\n柿の木の上の雀\n\n『己らは　なんにも\n\n知んねえぞ\n\n厩の馬",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 271,
+      "content": "『己らも　なんにも\n\n知んねえぞ\n\n背戸籔のみそさざい\n\n『雛鶏ア追はれて逃げたつけ\n\n尻餅つきつき逃げたつけ\n\n井戸端の釣瓶\n\n『太郎作どんてば戻らつせえ\n\nこの事　見たらば腰ア抜けべ。",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 272,
+      "content": "　郷土の人と土とに親みの多い二三の方言が、本書童謡中にとりいれてあります。たとへば、「背戸」（第一頁其他）とは家の裏のことです。「てつこ盛つた」（一四五頁）とは、山盛りに盛つたと云ふ意味です。又「雪降り小女郎」（一五五頁）とは、東京で云ふおほわたこわた（背に白き粉のある小虫の名）のことです。晩秋の曇つた日などに多く、群つて飛びます。私達の地方（茨城県の北隅）ではこの虫が飛ぶと、軈て初雪の降るしらせだと云つてをります。",
+      "characters": 210,
+      "ruby": []
+    }
+  ]
+}

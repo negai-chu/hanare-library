@@ -1,0 +1,48 @@
+{
+  "id": "a055555",
+  "title": "ある夜、ある宵",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ある夜、ある宵",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ある夜、ある宵",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ある夜は\n\nくらやみの中に\n\n妻をよびよせて\n\n話すことすべて狂人の如く\n\n　　　　＊\n\n来年の三月に死ぬと\n\n自分のいのちを予言して\n\n今日すいみん剤を多量にのんだと\n\nいい、胸の苦るしさを訴えて",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "妻を涙ぐませる\n\nうそのような真実に近いような\n\nある日の宵\n\n　　　　＊\n\nしゃべるとつかれてくるに\n\nしゃべること\n\n自分でよせと思いつつも\n\nたわごとの如くしゃべくる宵",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

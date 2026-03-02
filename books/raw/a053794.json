@@ -1,0 +1,48 @@
+{
+  "id": "a053794",
+  "title": "悔恨ノ章",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "悔恨ノ章",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "悔恨ノ章",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "最モ無力ナ男ニナルタメニ私ハ痘痕デアツタ\n\n世ノ一人ノ女性モガ私ヲ顧ルコトハナイ\n\n私ノ怠惰ハ安心デアル\n\n両腕ヲ剪リ私ノ職務ヲ避ケタ\n\nモウ私ニ仕事ヲ云ヒ付ケル者ハナイ\n\n私ノ恐レル支配ハドコニモ見当ラナイ\n\n歴史ハ重荷デアル\n\n世ノ中ヘノ私ノ辞表ノ書方ハ尚更重荷デアル\n\n私ハ私ノ文字ヲ閉ジテシマツタ",
+      "characters": 152,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "図書館カラノ召喚状ガモウ私ニハ読メナイ\n\n私ハモウ世ノ中ニ合ハナイ着物デアル\n\n封墳ヨリモ私ノ義務ハ少ナイ\n\n私ニハナニモノカヲ理解スル苦シミハ完全ニナクナツテイル\n\n私ハ何物ヲモ見ハシナイ\n\nデアレバコソ私ハ何物カラモ身ヘハシマイ\n\n始メテ私ハ完全ナ卑怯者ニナルコトニ成功シタ訳デアル",
+      "characters": 143,
+      "ruby": []
+    }
+  ]
+}

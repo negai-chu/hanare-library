@@ -1,0 +1,42 @@
+{
+  "id": "a045038",
+  "title": "雪",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "きれいな\n\nきれいな\n\n雪だこと\n\n畑も\n\n屋根も\n\nまつ白だ\n\nきれいでなくつて\n\n　　　　　どうしませう\n\n天からふつてきた雪だもの",
+      "characters": 68,
+      "ruby": []
+    }
+  ]
+}

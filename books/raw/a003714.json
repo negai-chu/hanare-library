@@ -1,0 +1,42 @@
+{
+  "id": "a003714",
+  "title": "博覧会見物の印象",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "博覧会見物の印象",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "博覧会見物の印象",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "まだ第二会場を一遍通り抜けただけなのでよく分りません。建物から云っては、決して感じよい建築とは思えません。モダーンなのはよいが、もう少し、外国雑誌の写真の、皮相的模倣以外に出られなかったものでしょうか。一目見てごたごたし、雑駁な印象を強く与えられたから、しんから愛らしい心持で欲しいなと思うようなものは見つかりませんでした。\n\n〔一九二二年五月〕",
+      "characters": 173,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053438",
+  "title": "中尊寺〔二〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "中尊寺〔二〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "中尊寺〔二〕",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "白きそらいと近くして\n\nみねの方鐘さらに鳴り\n\n青葉もて埋もる堂の\n\nひそけくも暮れにまぢかし\n\n僧ひとり縁にうちゐて\n\nふくれたるうなじめぐらし\n\n義経の彩ある像を\n\nゆびさしてそらごとを云ふ",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

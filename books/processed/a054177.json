@@ -1,0 +1,42 @@
+{
+  "id": "a054177",
+  "title": "『女神』あとがき",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『女神』あとがき",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『女神』あとがき",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　所收――「美少女」「春の盜賊」「誰も知らぬ」「善藏を思ふ」「盲人獨笑」「服裝について」「令孃アユ」「女神」\n\n　久しく絶版になつてゐた創作集の中から、割に輕いタツチの小説を集めてみた。さうして、それに最近の「女神」一篇を附け加へた。舊作の五篇も、カビが生えてはゐないつもりである。\n\n昭和二十二年夏",
+      "characters": 150,
+      "ruby": []
+    }
+  ]
+}

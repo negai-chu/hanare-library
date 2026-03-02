@@ -1,0 +1,42 @@
+{
+  "id": "a003707",
+  "title": "純粋な動機なら好い",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "純粋な動機なら好い",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "純粋な動機なら好い",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、芸術批評を本気な仕事とせず、おっつけで、仕来りになったから「月評」と云うものの権威は薄くなったのではありませんか。\n\n　二、純粋な動機で批評すれば、或る月には、或る作品について多く書かれ、又、或る月は、沈黙であると云うことが、存在の可否などを論じさせない自然な、本当の状態であると思います。\n\n〔一九二二年一月〕",
+      "characters": 159,
+      "ruby": []
+    }
+  ]
+}

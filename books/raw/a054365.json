@@ -1,0 +1,48 @@
+{
+  "id": "a054365",
+  "title": "歌のない歌",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "歌のない歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "歌のない歌",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "この傾斜では\n\nお伽話はやめて\n\nこはれたオペラグラスで\n\nアラベスク風な雨をごらん\n\nひととき鳩が白い耳を洗ふと\n\nシガーのやうに雲が降りて来て\n\nぼくの影を踏みつけてゐる\n\n光のレエスのシヤボンの泡のやうに\n\n静かに古い楽器はなり止む",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "そして…………\n\n隕石の描く半円形のあたりで\n\nそれはスパアクするカアブする\n\n匂ひの向ふに花がこぼれる\n\n優しい硝子罎の中では\n\nひねくれた愛情のやうに\n\nぼくがなくした時刻をかみしめる\n\nぼくはぼくの歌を忘れてゐる",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

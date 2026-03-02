@@ -1,0 +1,48 @@
+{
+  "id": "a054503",
+  "title": "かさぬ宿",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かさぬ宿",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 111,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かさぬ宿",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "五里《り》の青野《あをの》に行き暮れて、\n\n山下街《やましたまち》の片門《かたかど》に、\n\nいかで一夜《ひとよ》の宿《やど》乞ふと\n\n都《みやこ》のなまり、――うらわかき\n\n学生《がくせい》づれの七人《しちにん》は\n\n手にこそしたれ、百合の花。\n\n家の下部《しもべ》が、老《お》い屈《かゞ》み、\n\n嗄《しはが》れごゑに、竹箒《たけばうき》\n\nとる手とどめて物いへば、",
+      "characters": 183,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "二室《ふたま》へだてし簾障子《すしやうじ》の\n\n奥に乳母《うば》よぶ――こは人の\n\n百合の花なる白き影。\n\n親なき君をいつく家《や》の\n\nあなあやにくと、しとやかに\n\n乳母はいなみぬ。よし、さらば、\n\nそのあえかなる君祝ひ\n\n捧ぐと與《あた》へ行き過ぎぬ、\n\n七人《しちにん》の手の百合の花。",
+      "characters": 146,
+      "ruby": []
+    }
+  ]
+}

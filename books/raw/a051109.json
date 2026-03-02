@@ -1,0 +1,42 @@
+{
+  "id": "a051109",
+  "title": "闇",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "闇",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "闇",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お母《かあ》、足《あし》が痛《いた》い。\n\n我慢《がまん》をしろよ。\n\nお母《かあ》、もう歩《ある》けない。\n\nもう、すこし我慢《がまん》をしろよ。\n\nお母《かあ》、どこへいくのだい？\n\n「…………」\n\n空《そら》は真《ま》っ暗《くら》である。\n\n怖《おそ》ろしい波《なみ》の轟《とどろ》きが聞《き》こえる。",
+      "characters": 154,
+      "ruby": []
+    }
+  ]
+}

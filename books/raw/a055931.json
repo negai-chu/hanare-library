@@ -1,0 +1,48 @@
+{
+  "id": "a055931",
+  "title": "（頁　頁　頁）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（頁　頁　頁）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（頁　頁　頁）",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "頁　頁　頁\n\n歴史と習慣と社界意識\n\n名誉欲をくさして\n\n名誉を得た男もありました\n\n認識以前の徹定\n\n土台は何時も性慾みたいなもの\n\n上に築れたものゝ価値\n\n十九世期は土台だけをみて物言ひました\n\n○×××　○×××　○×××",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "飴に皮がありますかい\n\n女よ\n\nダダイストを愛せよ",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "a053973",
+  "title": "雪の線路を歩いて",
+  "author": "後藤謙太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪の線路を歩いて",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 93,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪の線路を歩いて",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　貧しさの為に俺は歩けり\n\nひとすじの道　雪の線路を俺は歩けり\n\n貧しさの為に歩ける俺には\n\n火を吐きて　煙を挙げて\n\n罵る如く　汽笛を鳴らして\n\n走りゆくあの汽車が憎し\n\n文明の利器なれども俺には憎し\n\nひもじさの為に疲れて歩ける俺には\n\nそれ食えがしに汽車の窓より",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "殻の弁当を投げつくる人の心が憎し\n\nとりわけて今　村を追われて歩ける俺には\n\nスチームに温められて\n\n安らかに旅する人の心はなお憎し\n\nわれ等が汗にてなりし\n\n秋の収穫を取り去る代りに\n\n彼の怖ろしき文明の病毒を運び来る\n\nあの汽車は\n\n毒蛇のごとくたまらなく憎し",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "毒蛇のごとくたまらなく憎きはあの汽車\n\n野獣の呪いのごとく　夜も日も唸りて\n\n若き男女の幾群を\n\nああ痛ましき都会の工場に送り出す\n\nたまらなく憎きはあの汽車\n\n　　　（五行抹消）\n\n貧しさの為に歩ける俺には\n\n村を追われて歩ける俺には\n\nひとすじの道　雪の線路を歩ける俺には",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "文明の利器なれどもたまらなく憎し\n\n（一九二六年四月後藤謙太郎遺稿集刊行会刊『労働・放浪・監獄より』を底本）",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

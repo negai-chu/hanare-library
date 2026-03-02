@@ -1,0 +1,42 @@
+{
+  "id": "a003888",
+  "title": "洋服と和服",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "洋服と和服",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "洋服と和服",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "洋服暮しをしたことがありますがこの頃はずっと和服ばかりです。\n\n　　外国旅行をしたときに着はじめ、後は只身軽さということだけで着て居りました。\n\n　　其麼《そんな》工合故、礼装がなくて、儀式のときは和服をきました。\n\n　　本式に着なければならないとすると洋装の方が金がかかると思います。第一、本物の羊毛布さえなきをいかんせん。\n\n　　趣味は洋装の変化多きを愛します。\n\n〔一九二七年十月〕",
+      "characters": 194,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a004543",
+  "title": "山茶花",
+  "author": "岡本かの子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "山茶花",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "山茶花",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ひとの世の男女の\n\n　行ひを捨てて五年\n\n　夫ならぬ夫と共《ともに》棲《す》み\n\n　今年また庭のさざんくわ\n\n　夫ならぬ夫とならびて\n\n　眺め居《ゐ》る庭のさざんくわ\n\n　夫ならぬ夫にしあれど\n\n　ひとたびは夫にてありし\n\n　つまなりしその昔より",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　つまならぬ今の語らひ\n\n　浄《きよ》くしてあはれはふかし\n\n　今年また庭のさざんくわ\n\n　ならび居て二人はながむる。",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a060900",
+  "title": "御霊うぶや",
+  "author": "岩野泡鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "御霊うぶや",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "御霊うぶや",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　うごめく　は　これ　何者　ぞ、\n\n牢獄　に　等しき　闇《やみ》　を――\n\nひとつ　か　と　まなこ　据《す》うれば、\n\nその数　は　増して　行く　なり、\n\nまとへる　ぞ　みな　墨《すみ》ごろも――\n\n黒法師――無為《むゐ》　の　行列。\n\n暗き　より　暗き　に　入りて、\n\nかへり見る　光　だに　なし。\n\nわが霊《たま》　の　なやむ　産屋《うぶや》　か。",
+      "characters": 176,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "相向ふ　かゞみ　の　法師、\n\n相映り、幾多　生まるゝ\n\n代　の　かげ　の　並ぶ　その脊《せ》　よ。\n\nその脊　をば　いくつ　越ゆとも、\n\nこの　無言、つひに　死　ぞ　なき。",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

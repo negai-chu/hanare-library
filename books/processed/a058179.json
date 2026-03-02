@@ -1,0 +1,42 @@
+{
+  "id": "a058179",
+  "title": "書をみるたのしさ",
+  "author": "高村光太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "書をみるたのしさ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 95,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "書をみるたのしさ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　書を見てゐるのは無條件にたのしい。畫を見るのもたのしいが、書の方が飽きないやうな氣がする。書の寫眞帖を見てゐると時間をつぶして困るが、又あけて見たくなる。疲れた時など心が休まるし、何だか氣力を與へてくれる。六朝碑碣の拓本もいいし、唐宋の法帖もいいし、日本のかなもすばらしい。直接書いた人にあふやうな氣がしていつでも新らしい。書はごまかしがきかないから實に愉快だ。",
+      "characters": 182,
+      "ruby": []
+    }
+  ]
+}

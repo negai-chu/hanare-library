@@ -1,0 +1,42 @@
+{
+  "id": "a052864",
+  "title": "昭和十年度に於いて最も印象に残つたもの",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "昭和十年度に於いて最も印象に残つたもの",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 25,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "昭和十年度に於いて最も印象に残つたもの",
+      "characters": 19,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　室生犀星の「弄獅子」と映画「朱金紹」が印象に残つて居ります。",
+      "characters": 31,
+      "ruby": []
+    }
+  ]
+}

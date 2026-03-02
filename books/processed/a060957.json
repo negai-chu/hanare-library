@@ -1,0 +1,48 @@
+{
+  "id": "a060957",
+  "title": "新秋の記",
+  "author": "木下夕爾",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "新秋の記",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "新秋の記",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　台所の片隅から吹いてくる\n\nあの風ももう秋だ\n\n白い皿《さら》の\n\n新豆腐のようにおどろきやすいこころよ\n\n裏の林にきて\n\nしばらく夕焼をながめている\n\n川瀬の音\n\n秋風の音\n\n子どものために",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "わくら葉ひろつてふところにする\n\nわくら葉にも美しい夕焼がある\n\nもう走り穂がかぞえられ\n\nみちばたにこぼれ生えの刀豆《なたまめ》も\n\n青い莢《さや》を垂れている\n\n一列にうす紅《あか》い実がならんでいる",
+      "characters": 102,
+      "ruby": []
+    }
+  ]
+}

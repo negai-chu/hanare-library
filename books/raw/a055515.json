@@ -1,0 +1,48 @@
+{
+  "id": "a055515",
+  "title": "街の乞食",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街の乞食",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街の乞食",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "銀座の通りに畑が出来て\n\n緑青々とした麦畑が出来ようと\n\n空想していた友よ\n\n一きれのパンをむしって乞食の子に与え\n\n慈善をしたつもりの青年があった。\n\n乞食をするものは\n\n楽しみなのである\n\n何と詩人めいた仕事であるよ\n\n乞食をしていると",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "皆がお金をお菓子を呉れようとして呉れてゆくのである。\n\n乞食のいない街は\n\n淋しく又殺風景極まっているであろう。",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

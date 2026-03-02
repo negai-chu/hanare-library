@@ -1,0 +1,101 @@
+{
+  "id": "a054094",
+  "title": "拡大されゆく国道前線",
+  "author": "広海大治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 8
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "拡大されゆく国道前線",
+        "startPage": 1,
+        "endPage": 8,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "（１）",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "（２）",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "（３）",
+            "startPage": 6,
+            "endPage": 8
+          }
+        ]
+      }
+    ],
+    "totalPages": 8,
+    "averageCharsPerPage": 106,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "拡大されゆく国道前線",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "（１）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　視野一面　連る山脈の彼方に\n朝やけの赤い太陽――\nペダルを力一杯　地下足袋《はだしたび》で踏んづけて\n工事場へ走る俺達\n\n爽涼たる朝霧の中に\n曲りくねった山峡の白い路\n杉と雑木と　山の背の彼方に\n見えては　かくれ　かくれては現われる相棒の姿\n俺は呼びかける\n――おうい待てよう\n――ほーい\n山萩の垂れ下った曲路の向う側に\nあいつの自転車は消えて\nベルの音とこだまだけが深い谷間に残る\n――早う来んと歩が切れるぞう",
+      "characters": 207,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "（２）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "石工は玄翁《げんのう》を打振り\n坑夫は断崖で　たった一本のロップに身を任し　岩盤に千草を打込む\n汗を流してコンクリートを切る奴\n愚鈍なたくましい男等は栗石を運搬し\n女達は鼻をふくらし頬を青白めて土をかく\n朝から晩まで三六石かきの\n俺の人夫賃は七十三銭\n一時間六銭で買われ俺等\nそっとシャツの破れで鼻をこすって\n俺達の汗と膏を食って出来下った切取の山肌をにらみつける",
+      "characters": 182,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "（３）",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "ピカピカ光る大型のバッカード\n砂塵を巻いて俺達の飯に馬糞をかぶせる\n県庁と鉄道省の高官《えらいて》の視察だ\n昭和×年×月×日限り　カッチリ××線国道拡張工事は完成しなければならぬ\nたった半日も遅れることなく　鉄道省営バスは巨大な車体の運転を開始しなければならぬ\nだから絶対に正確な工程を以って\nいくつかの橋梁が架換せられ\n数百ヶ所の曲線が是正される\n凸出した山鼻を切り取り　凹曲した谷間を埋立する\n十何メートルかの高い石垣は　コンクリートをやたらに食い\n終日　国道全線二十里に亘って\nカーリットが岩盤を破砕する音響が\n空気をふるわし続ける\n鉄筋コンクリート橋梁の為に\nセメントは容赦なく洗バラスを食い\n間断なく俺たちにスコップを握らせ\n買籠《ばいりょう》を担わせる\n橋大工は真曲を振ってわめき　セメント運搬トラックのクラクションが怒号し疾走する",
+      "characters": 372,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "追いたて　まくしたて　焦る\n何か不安な目に見えぬ　動揺は何だ\n（『文学案内』一九三五年十一月号に広海太治名で発表　『土佐プロレタリア詩集』を底本）",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

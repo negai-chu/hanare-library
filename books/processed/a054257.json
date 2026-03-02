@@ -1,0 +1,42 @@
+{
+  "id": "a054257",
+  "title": "季節",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "季節",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "季節",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　葉ざくらの蔭が青い硝子の花になり\n\nアメシストの鏡から水も流れてゐたな\n\n若い従妹たちの髪を歌のやうに洗つてゐたな",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

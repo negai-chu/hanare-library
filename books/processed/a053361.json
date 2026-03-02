@@ -1,0 +1,54 @@
+{
+  "id": "a053361",
+  "title": "饗宴",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "饗宴",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 92,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "饗宴",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ひとびと酸き胡瓜を噛み\n\nやゝに濁れる黄の酒の\n\n陶の小盃に往復せり\n\nそは今日賦役に出でざりし家々より\n\n権左エ門が集め来しなれ\n\nまこと権左エ門の眼双に赤きは\n\n尚褐玻璃の老眼鏡をかけたるごとく\n\n立つて宰領するこの家のあるじ\n\n熊氏の面はひげに充てり",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "榾のけむりは稲いちめんにひろがり\n\n雨は※々青き穂並にうち注げり\n\nわれはさながらわれにもあらず\n\n稲の品種をもの云へば\n\n或いはペルシャにあるこゝちなり\n\nこの感じ多く耐へざる\n\n背椎の労作の後に来り\n\nしばしば数日の病を約す\n\nげにかしこにはいくたび",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "赤き砂利をになひける\n\n面むくみしつ弱き子の\n\n人人の背後なる板の間に座りて\n\n素麺をこそ食めるなる\n\nその赤砂利を盛れる土橋は\n\n楢また檜の暗き林を負ひて\n\nひとしく雨に打たれたれど\n\nほだのけむりははやもそこに這へるなり",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

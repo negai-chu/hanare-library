@@ -1,0 +1,42 @@
+{
+  "id": "a055909",
+  "title": "（あなたが生れたその日に）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（あなたが生れたその日に）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（あなたが生れたその日に）",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "あなたが生れたその日に\n\nぼくはまだ生れてゐなかつた\n\n途中下車して\n\n無効になつた切符が\n\n古洋服のカクシから出て来た時\n\n恐らく僕は生れた日といふもの",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

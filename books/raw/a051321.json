@@ -1,0 +1,54 @@
+{
+  "id": "a051321",
+  "title": "蝉",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蝉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 109,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蝉",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "蝉が鳴いてゐる、蝉が鳴いてゐる\n\n蝉が鳴いてゐるほかになんにもない！\n\nうつらうつらと僕はする\n\n……風もある……\n\n松林を透いて空が見える\n\nうつらうつらと僕はする。\n\n『いいや、さうぢやない、さうぢやない！』と彼が云ふ\n\n『ちがつてゐるよ』と僕がいふ\n\n『いいや、いいや！』と彼が云ふ",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "『ちがつてゐるよ』と僕が云ふ\n\nと、目が覚める、と、彼はもうとつくに死んだ奴《やつ》なんだ\n\nそれから彼の永眠してゐる、墓場のことなぞ目に浮ぶ……\n\nそれは中国のとある田舎《ゐなか》の、水無河原《みづなしがはら》といふ\n\n雨の日のほか水のない\n\n伝説付の川のほとり、\n\n藪蔭の砂土帯の小さな墓場、\n\n――そこにも蝉は鳴いてゐるだろ\n\nチラチラ夕陽も射してゐるだろ……",
+      "characters": 183,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "蝉が鳴いてゐる、蝉が鳴いてゐる\n\n蝉が鳴いてゐるほかなんにもない！\n\n僕の怠惰？　僕は『怠惰』か？\n\n僕は僕を何とも思はぬ！\n\n蝉が鳴いてゐる、蝉が鳴いてゐる\n\n蝉が鳴いてゐるほかなんにもない！\n\n（一九三三・八・一四）",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a060910",
+  "title": "泉",
+  "author": "片山敏彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "泉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "泉",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "われはわれを破らねばならぬ\n\nわがまことの情熱をはばむわが型を内からこはさねばならぬ。\n\n本能の泉のなつかしさよ。\n\n人は本能をけがした。\n\n人は本能を感覚といふ名前にまでだらくさせた。\n\n感覚といふセルロイド製の花。",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

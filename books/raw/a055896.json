@@ -1,0 +1,48 @@
+{
+  "id": "a055896",
+  "title": "恋の後悔",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "恋の後悔",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "恋の後悔",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "正直過ぎては不可ません\n\n親切過ぎては不可ません\n\n女を御覧なさい\n\n正直過ぎ親切過ぎて\n\n男を何時も苦しめます\n\nだが女から\n\n正直にみえ親切にみえた男は\n\n最も偉いエゴイストでした\n\n思想と行為が弾劾し合ひ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "智情意の三分法がウソになり\n\nカンテラの灯と酒宴との間に\n\n人の心がさ迷ひます\n\nあゝ恋が形とならない前\n\nその時失恋をしとけばよかつたのです",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

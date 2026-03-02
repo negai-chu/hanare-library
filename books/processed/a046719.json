@@ -1,0 +1,42 @@
+{
+  "id": "a046719",
+  "title": "鉛筆のシン",
+  "author": "香倶土三鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鉛筆のシン",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 113,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鉛筆のシン",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　子供が鉛筆を削っているとあまり無茶に削るので何べんでもシンが折れました。\n\n「このナイフがわるいのだ」\n\n　と子供は言ってナイフを磨いでコシコシ削りましたが、やっぱりポチポチと黒いシンが折れます。\n\n「この鉛筆がわるいのだ」\n\n　と子供はカンシャクを起して鉛筆を折ってしまいました。\n\n「もっといい鉛筆でなくちゃ駄目だ」\n\n　鉛筆は折られながら言いました。\n\n「あなたの心をもっといいのにとりかえなくちゃ、いくらいい鉛筆を買ってもだめです」",
+      "characters": 221,
+      "ruby": []
+    }
+  ]
+}

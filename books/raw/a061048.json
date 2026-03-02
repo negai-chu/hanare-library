@@ -1,0 +1,60 @@
+{
+  "id": "a061048",
+  "title": "竹の皮の飴包み",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "竹の皮の飴包み",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 104,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "竹の皮の飴包み",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "どのお菓子屋の店先もくじを当てる時のような人だかり\n\n露店商人らは　飴市に限って軒を並べない\n\n町の角　角に\n\n雪があれば　雪の上\n\n土が見えれば板を敷き\n\n白木造りの大きな桶に　飴を山盛りにする\n\n飴は大きな　かたまり\n\nコハク色を帯びて\n\n黒ゴマがふりかかっている",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "小さな城下町\n\n小一里向こうに国境の山々がずっとつらなる\n\n北陸の丸岡の町に\n\n年に一度　飴市がたつ\n\n二月はじめのこの日は　毎年吹雪く\n\n一里四方の村じゅうの家が\n\n飴市へ　飴市へ出かけてゆく\n\n飴売りも　飴買う人も　雪にたたかれ\n\n人の絶え間がない",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "雪は　飴の上にも消えてゆく\n\n飴売りは　出刃ぼうちょうで\n\nカンカンと　飴の山をくずす\n\nかたい飴のかけらが　雪にまじってはじく\n\n飴は幅のひろいひろい竹の皮に包んでくれる\n\n竹の皮の飴包み\n\n家では　みんな待っている\n\nワラグツが　ゴムグツに\n\nからかさが　オーバーに",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "帰りは　電車にのっても\n\n竹の皮の飴包み\n\n昔古来の飴包み\n\n今日は丸岡のアメ市じゃ　アメ市じゃ\n\n年寄りは子供にかえり\n\n子供らは年寄りの言葉を受けて\n\n「米で作ったアメじゃ　これが本当のアメじゃ……」\n\n孫も子も　口いっぱいにほおばってゆく",
+      "characters": 122,
+      "ruby": []
+    }
+  ]
+}

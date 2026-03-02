@@ -1,0 +1,48 @@
+{
+  "id": "a055520",
+  "title": "碇泊船",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "碇泊船",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "碇泊船",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　船腹の色のはげ落ちた惨《みじめ》さは\n\n遠く波濤とたたかって来た\n\n今は疲労になやんで\n\nぐったりと体を伸べたような\n\nいたわりの心を感ずる\n\n廃船のようではないか\n\n英蘭《イングランド》の旗を船尾に立てて\n\n見れば船員が二三人\n\n甲板に出て立っている",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あの船員の眼は碧く\n\n頭髪《かみ》は褐色に染み\n\n彼ら異邦を航海する人々\n\n雪降り暮るる港にあり",
+      "characters": 48,
+      "ruby": []
+    }
+  ]
+}

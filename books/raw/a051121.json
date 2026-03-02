@@ -1,0 +1,48 @@
+{
+  "id": "a051121",
+  "title": "にじの歌",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "にじの歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "にじの歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "こちらの森《もり》から\n\nあちらの丘《おか》へ\n\nにじが橋《はし》をかけた。\n\nだれが、その橋《はし》\n\n渡《わた》る。\n\nからすが三羽《ば》に\n\n乞食《こじき》が一人《ひとり》。\n\n乞食《こじき》はつえついて上《あ》がったが\n\nからすは、あわてておっこちた。",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "落《お》ちたからすはどこへいった。\n\n夕焼《ゆうや》けの空《そら》へ。\n\n上《あ》がった乞食《こじき》はどこへいった。\n\nお星《ほし》さまの世界《せかい》へ。\n\nにじが消《き》えた。\n\nにじが消《き》えた。\n\n下《した》の町《まち》には火《ひ》が点《つ》いた。",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

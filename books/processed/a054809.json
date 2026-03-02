@@ -1,0 +1,48 @@
+{
+  "id": "a054809",
+  "title": "演習一",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "演習一",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "演習一",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ずぶぬれの機銃分隊であった\n\nぼくの戦帽は小さすぎてすぐおちそうになった\n\nぼくだけあごひもをしめておった\n\nきりりと勇ましいであろうと考えた\n\nいくつもいくつも膝まで水のある濠があった\n\nぼくはそれが気に入って\n\nびちゃびちゃとびこんだ\n\nまわり路までしてとびこみにいった\n\n泥水や雑草を手でかきむしった",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "内臓がとびちるほどの息づかいであった\n\n白いりんどうの花が\n\n狂気のようにゆれておった\n\nぼくは草の上を氷河のように匍匐《ほふく》しておった\n\n白いりんどうの花が\n\n狂気のようにゆれておった\n\n白いりんどうの花に顔を押しつけて\n\n息をひそめて\n\nぼくは切に望郷しておった",
+      "characters": 135,
+      "ruby": []
+    }
+  ]
+}

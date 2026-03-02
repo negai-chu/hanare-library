@@ -1,0 +1,54 @@
+{
+  "id": "a055573",
+  "title": "もうおそい",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "もうおそい",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "もうおそい",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　生かさせたいがもうおそい\n\n両肺が全部やられている\n\n猛烈な腸結核で\n\n一日の膿の排出は多量で\n\nちっとも消化力ない胃腸\n\n痔が悪くって腎臓も悪くて\n\n耳が悪くてもう全身\n\nあますところなく悪化している\n\nこれは医者が言うのだ、そしてあと",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "一月かどうかとすら公言する\n\n熱が四十度をこえる\n\n味覚は破壊されて\n\n食慾が全くない\n\n食慾がなく\n\n熱を出して\n\n毎日肉をけずっていれば\n\nやがてけずる肉のなくなった時\n\nお前は死だ、",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "死は神秘でも神の御召でもない\n\n死は肉体の破壊である\n\nお前はすでに大いに破壊されている\n\n生かさせたいがもうおそい\n\nただ逢いたい人々よ\n\n早よ鉄窓の彼方からかえってこい\n\n庭の椿もすでに落ちた\n\n五・二〇",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

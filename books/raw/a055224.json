@@ -1,0 +1,54 @@
+{
+  "id": "a055224",
+  "title": "あはれ今",
+  "author": "ダンテアリギエリ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あはれ今",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 112,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あはれ今",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "あはれ、今、「愛」の路《みち》行《ゆ》く君たちよ、\n\n止《とま》りても見よ、世の中《なか》に、\n\nわれのに似たる悲《かなしみ》をする人ありや。\n\n願はくば、わが言ふところ、聞き終り、\n\nさもこそと、憐《あはれ》み給へ、\n\nわれこそは憂愁《いうしう》の宿《やど》なれ、戸なれ。\n\n功績《いさをし》のたえて空《むな》しきわれなるに、\n\n「愛」は情《なさけ》のいと深く、\n\n心樂しきうまし世にわれを据ゑ置き、",
+      "characters": 201,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人皆のうらやみ草《ぐさ》とし給ふに、\n\n脊向《そがひ》にて囁く聲《こゑ》す、\n\n『この若人《わかうど》の、いかなれば、かくも榮ゆる』\n\nあな、氣疎《けうと》しや、勢《いきほひ》はすべて痿《な》えけり、\n\n諸《もろもろ》の「愛」の寶《たから》もほろびけり。\n\nはかなくも殘れる身には、\n\n來《こ》しかたの追憶《おもひで》も憂《う》し。\n\nさながら、われは零落の身を恥《はぢ》らひて\n\n貧しさを掩《おほ》はむとするなれの果《はて》、",
+      "characters": 214,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おもてには快樂《けらく》をよそひ、\n\n心には惱みわづらふ。",
+      "characters": 29,
+      "ruby": []
+    }
+  ]
+}

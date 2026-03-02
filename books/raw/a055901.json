@@ -1,0 +1,48 @@
+{
+  "id": "a055901",
+  "title": "旅",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "旅",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "旅",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夕刊売\n\n来てみれば此処も人の世\n\n散水車があるから\n\n汽車の煙が麦食べた\n\n実用を忘れて\n\n歯ブラッシを買つてみた\n\n青い紙ばかり欲しくて\n\nそれなのに唯物史観だつた\n\n砂袋",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "スソがマクレます\n\nパラソルを倒に持つものがありますか\n\n浮袋が湿りました",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

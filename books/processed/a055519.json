@@ -1,0 +1,48 @@
+{
+  "id": "a055519",
+  "title": "麦やきの日",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "麦やきの日",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "麦やきの日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　人手なき独り者\n\n治兵衛の麦はせに\n\n飛火して燃えうつり\n\n泡を喰った治兵衛は\n\n麦束もて火を叩く\n\n風つのり火はさかり\n\n麦はせは凡て燃え\n\n治兵衛は大火傷\n\nやけどした六十男",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "治兵衛はわめきつつ\n\nこげのこる麦の穂を\n\nかき集めかき集め\n\nかなしさと痛さとに\n\n大声で泣きわめく\n\n一九三四・六",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

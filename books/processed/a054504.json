@@ -1,0 +1,48 @@
+{
+  "id": "a054504",
+  "title": "文月のひと日",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "文月のひと日",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "文月のひと日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　黒檀《こくだん》のみどり葉末《はずえ》に、\n\nそよ風ながう滑《すべ》りて、\n\n自然《しぜん》の魂塊《たましひ》藍《あゐ》に\n\n薫《くゆ》りとぶ真夏《まなつ》の昼《ひる》。\n\n金糸雀《かなりや》にうまゐ醒《さ》めて、\n\n夢の世に追ひわびたる、\n\nやわらぎの霊《れい》の華《はな》を\n\nいま紫陽花《あぢさゐ》にみとめつ。\n\n昨夜《よべ》詩《うた》に寝《い》ね足らぬ",
+      "characters": 181,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "瞳《ひとみ》細《ほそ》ういと細《ほそ》う、\n\nわが世永久《とは》にかゝらばと、\n\nおもひ入る、あゝ夢心地。\n\nこの刹那《せちな》のたましひを\n\n黄金《おうこん》の龕《づし》にひめて、\n\nひと日だにいつき得なば、\n\nあゝ我ぞ詩のやさ男神《をがみ》。",
+      "characters": 123,
+      "ruby": []
+    }
+  ]
+}

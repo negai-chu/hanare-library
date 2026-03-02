@@ -1,0 +1,48 @@
+{
+  "id": "a045146",
+  "title": "八ノ字山",
+  "author": "土田耕平",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "八ノ字山",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "八ノ字山",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "八ノ字山の\n\n八ノ字ゴウロ\n\n雪がこんこん\n\nふつてゐる\n\nどこのお家《うち》も\n\n戸をしめて\n\n昼まも夜さも\n\n知らん顔\n\n冬の神さま",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "早よ去《い》んで\n\nあかるい春に\n\nなつてくれ\n\n八ノ字ゴウロに\n\n菫が咲いて\n\n雉子がケンケン\n\nなく春に",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

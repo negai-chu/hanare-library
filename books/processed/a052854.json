@@ -1,0 +1,42 @@
+{
+  "id": "a052854",
+  "title": "初めて逢つた文士と当時の思ひ出",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "初めて逢つた文士と当時の思ひ出",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "初めて逢つた文士と当時の思ひ出",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　島崎藤村先生\n\n　二十四位の時初めて同人雑誌に掲載した短篇を偶々先生からお手紙をもらつて認められ、その後半年ばかり経つて友人の長谷川浩三が白石実三氏から紹介状を貰つて呉れ、単独で訪問した。その時「新小説」への執筆をすゝめて下された。尚ほ先生から、思ひがけなくも贈られた半身の立派な御写真は現在でも私は秘蔵してゐる。",
+      "characters": 158,
+      "ruby": []
+    }
+  ]
+}

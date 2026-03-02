@@ -1,0 +1,54 @@
+{
+  "id": "a054141",
+  "title": "秋日口占",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋日口占",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋日口占",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　われながく憂ひに栖みて\n\nはやく身は老いんとすらん\n\nふたつなきいのちをかくて\n\n愚かにもうしなひつるよ\n\n秋の日の高きにたちて\n\nこしかたをおもへばかなし\n\nすぎし日の憂ひならねば\n\nあまからぬこの歎きかな\n\n見よ彼方",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "日は眞晝\n\n藍ふかき海のはるかに\n\n眞白なる鴎どりはも\n\n一羽ゐてなに思ふらん\n\n波の穗にうかびただよふ\n\n願はくばわが老いらくの\n\n日もかかれ　世の外にして\n\nつたなかる心ひとつを\n\nいだきつつわが來し旅の",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ゆくすゑをいゆきたどらん\n\nよしやえし西も東も\n\n今はとてかへるすべなき\n\nこれはこれ旅にしあれば\n\n相模野の野のすゑつかた\n\nおしなべてものはおとろへ\n\nわれひとりかくつぶやくに\n\n風高し端山《はやま》艸山《くさやま》",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

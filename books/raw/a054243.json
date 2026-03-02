@@ -1,0 +1,42 @@
+{
+  "id": "a054243",
+  "title": "郵便さん",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "郵便さん",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "郵便さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ポストにカチ／＼かぎはめて\n\n郵便物をとり出して\n\nスタンプをしたらエッサッサ\n\n隣の村へとエッサッサ\n\nお腰でカバンがガッタガタ\n\nお腰でわらぢがブーラブラ\n\n早く行け／＼エッサッサ\n\n早く行け／＼ガッタガタ\n\n早く行け／＼ブーラブラ",
+      "characters": 118,
+      "ruby": []
+    }
+  ]
+}

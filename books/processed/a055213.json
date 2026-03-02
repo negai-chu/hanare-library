@@ -1,0 +1,42 @@
+{
+  "id": "a055213",
+  "title": "LEONARDO DA VINCI",
+  "author": "プラーテンアウグスト",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "LEONARDO DA VINCI",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "LEONARDO DA VINCI",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　Urbino no wakdo kosowa edakumi no ichi to tatre, Leonardo,\nYo ni suguretaru kimi ga zae ni to wa kudarazi.",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

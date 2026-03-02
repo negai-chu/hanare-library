@@ -1,0 +1,48 @@
+{
+  "id": "a055525",
+  "title": "航海",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "航海",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "航海",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "大いなる家鴨《あひる》の姿に似たる\n\n連絡船の三等船室にて　不愉快な動揺を感じ\n\n軽い頭痛《とうつう》に悩まされ\n\n渡り行く島の奥地に痛み悩む母への哀切に泣きつつ\n\nひとりし寝転べば\n\n出稼人夫等の行く先々の未だ見知らざる地への\n\n憧れに満ちたる足に触れ\n\n最初は驚き縮《すく》んだ私ではあるが\n\n夢を持たない旅人のあらぬことを",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "しみじみ我ながら感じては\n\n貧しき出稼労働人の心に\n\nもろくも兄弟達の涙を感じ\n\n足を伸べ組み添え\n\n瞳を交し　微笑さえ見せて\n\n無言のままにも好意を寄せ\n\n心からなる途上の友として\n\n一夜を共に航海したのである",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

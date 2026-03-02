@@ -1,0 +1,48 @@
+{
+  "id": "a053831",
+  "title": "すかんぽ原",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "すかんぽ原",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "すかんぽ原",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "すかんぽ原は\n\n夕やけしてた\n\n赤ん坊おぶつて\n\n探していつた\n\nすかんぽ原は\n\nつくしのにほひ\n\nどこかで子供の\n\nうたごゑしてた\n\nすかんぽ原は",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "トンネルつづき\n\nこもつたおとで\n\n汽笛がしてた",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

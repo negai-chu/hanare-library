@@ -1,0 +1,42 @@
+{
+  "id": "a045149",
+  "title": "バッタ",
+  "author": "土田耕平",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "バッタ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "バッタ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　バッタ殿とんだ\n\n天をめがけてとんだ\n\nバッタ殿とまつた\n\n竿竹へとまつた\n\n竿竹や高い\n\n天はもつと高い\n\nそこでバッタ殿\n\nいま一飛び\n\n竿竹蹴つて天までとんだ",
+      "characters": 83,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a061032",
+  "title": "花束",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "花束",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "花束",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "いくつもの花束をわたされ\n\nわたしはうっ伏してしまった\n\n花束をあたまにかぶり　泪はふりあふるる\n\n我が師　友どち\n\n酒をくみ　こと挙げて\n\nまずしき詩集《うた》を祝いいただく\n\n何にたとえん　わが生きの日の",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

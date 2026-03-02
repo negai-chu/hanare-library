@@ -1,0 +1,48 @@
+{
+  "id": "a055915",
+  "title": "（酒は誰でも酔はす）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（酒は誰でも酔はす）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（酒は誰でも酔はす）",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "酒は誰でも酔はす\n\nだがどんな傑れた詩も\n\n字の読めない人は酔はさない\n\n――だからといつて\n\n酒が詩の上だなんて考へる奴あ\n\n「生活第一芸術第二」なんて言つてろい\n\n自然が美しいといふことは\n\n自然がカンヴァスの上でも美しいといふことかい――\n\nそりや経験を否定したら",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "インタレスチングな詩は出来まいがね\n\n――だが\n\n「それを以てそれを現すべからず」つて言葉を覚えとけえ\n\n科学が個々ばかりを考へて\n\n文学が関係ばかりを考へ過ぎる\n\n文士よ\n\nせち辛い世の中をみるが好いが\n\nその中に這入つちや不可ない",
+      "characters": 117,
+      "ruby": []
+    }
+  ]
+}

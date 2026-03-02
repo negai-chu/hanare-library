@@ -1,0 +1,48 @@
+{
+  "id": "a054359",
+  "title": "勾配",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "勾配",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "勾配",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "非望のきはみ\n\n非望のいのち\n\nはげしく一つのものに向つて\n\n誰がこの階段をおりていつたか\n\n時空をこえて屹立する地平をのぞんで\n\nそこに立てば\n\nかきむしるやうに悲風はつんざき\n\n季節はすでに終りであつた\n\nたかだかと欲望の精神に",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "はたして時は\n\n噴水や花を象眼し\n\n光彩の地平をもちあげたか\n\n清純なものばかりを打ちくだいて\n\nなにゆえにここまで来たのか\n\nだがみよ\n\nきびしく勾配に根をささへ\n\nふとした流れの凹みから雑草のかげから\n\nいくつもの道ははじまつてゐるのだ",
+      "characters": 120,
+      "ruby": []
+    }
+  ]
+}

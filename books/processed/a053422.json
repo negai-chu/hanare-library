@@ -1,0 +1,54 @@
+{
+  "id": "a053422",
+  "title": "〔鉛のいろの冬海の〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔鉛のいろの冬海の〕",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔鉛のいろの冬海の〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　鉛のいろの冬海の\n\n荒き渚のあけがたを\n\n家長は白きもんぱして\n\nこらをはげまし急ぎくる\n\nひとりのうなゐ黄の巾を\n\nうちかづけるが足いたみ\n\nやゝにおくるゝそのさまを\n\nをとめは立ちて迎へゐる\n\n　　　　南はるかに亙りつゝ",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　　　氷霧にけぶる丘丘は\n\n　　　　こぞはひでりのうちつゞき\n\n　　　　たえて稔りのなかりしを\n\n日はなほ東海ばらや\n\n黒棚雲の下にして\n\n褐砂に凍てし船の列\n\nいまだに夜をゆめむらし\n\n鉛のいろの冬海の\n\nなぎさに子らをはげまして",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "いそげる父の何やらん\n\n面にはてなきうれひあり\n\nあゝかのうれひけふにして\n\n晴れなんものにありもせば\n\nことなきつねのまどゐして\n\nこよひぞたのしからましを",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

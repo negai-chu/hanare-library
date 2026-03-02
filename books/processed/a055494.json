@@ -1,0 +1,48 @@
+{
+  "id": "a055494",
+  "title": "無題　京都",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "無題　京都",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 100,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "無題　京都",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おまへの歯は　よく切れるさうな\n\n山々の皮膚が　あんなに赤く\n\n夕陽《ゆふひ》で爛らされた鐃鉢《ねうばち》を\n\n焦々して　摺り合せてゐる\n\nおまへはもう　暗い部屋へ帰つておくれ\n\nおまへの顎が、薄明《うすあかり》を食べてゐる橋の下で\n\n友禅染を晒すのだとかいふ黝《くろ》い水が\n\n産卵を終へた蜉蝣《かげろふ》の羽根を滲ませる\n\nおまへはもう　暗い部屋へ帰つておくれ",
+      "characters": 183,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "色褪せた造りものの　おまへの四肢《てあし》の花々で\n\n貧血の柳らを飾つてやることはない\n\nコンクリートの護岸堤は　思ひのままに白《しら》けさせよう\n\nおまへはもう　暗い部屋へ帰つておくれ\n\nああ　おまへの歯はよく切れるさうな",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

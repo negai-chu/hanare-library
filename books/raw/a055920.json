@@ -1,0 +1,48 @@
+{
+  "id": "a055920",
+  "title": "（何と物酷いのです）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（何と物酷いのです）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（何と物酷いのです）",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "何と物酷いのです\n\n此の夜の海は\n\n――天才の眉毛――\n\nいくら原稿が売れなくとも\n\n燈台番にはなり給ふな\n\nあの白ッ、黒い空の空――\n\n卓の上がせめてもです\n\n読書くらゐ障げられても好いが\n\n書くだけは許して下さい",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "実質ばかりの世の中は淋しからうが\n\nあまりにプロパガンダプロパガンダ……\n\nだから御覧なさい\n\nあんなに空は白黒くとも\n\nあんなに海は黒くとも\n\nそして――岩、岩、岩\n\nだが中間が空虚です",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

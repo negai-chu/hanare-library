@@ -1,0 +1,42 @@
+{
+  "id": "a052773",
+  "title": "文壇落書帳",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "文壇落書帳",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 111,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "文壇落書帳",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゆうべ三四人の若い友達連と酔つ払つて踊つたり、早稲田の歌をうたつたりして、ブツ倒れたのは何でも三時頃だつたさうだが、そして七時頃起きてしまつたのだが、メマヒもしなければ頭も痛くない。いつも夏になると健康なのだが、この頃は余程体の調子が好いやうだ。四五日前体量をはかつたら十二貫二百半あつた。これは新レコードだ。十二貫を越えた験しはないのだ。夏の陽のギラギラしてゐるのは僕は嫌ひではない。――これから何処へ行つて見ようかしらと思つてゐる。",
+      "characters": 218,
+      "ruby": []
+    }
+  ]
+}

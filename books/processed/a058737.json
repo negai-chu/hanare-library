@@ -1,0 +1,42 @@
+{
+  "id": "a058737",
+  "title": "憩ひ",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "憩ひ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "憩ひ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ふつくらとした雪の面の　疎林の影の美しさ\n\nここに私は彳ちどまる　聖なる正午\n\nこの丘のほとりにあつて　歩み去る時を感ずる\n\n旅人の　年老いて疲れた心の　沈默《しじま》の憩ひ",
+      "characters": 88,
+      "ruby": []
+    }
+  ]
+}

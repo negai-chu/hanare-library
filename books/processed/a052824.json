@@ -1,0 +1,42 @@
+{
+  "id": "a052824",
+  "title": "今年の文壇を回顧する",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年の文壇を回顧する",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 102,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年の文壇を回顧する",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、昭和八年度文壇は貴下に如何なる感想を与へましたか　二、本年中で発表された作品で最も印象に残つたものは何ですか\n\n二、あらためて振り返つて見ると、小生は今年あちこちと、さ迷ひ回つてゐたゝめに殆ど何も読まなかつたらしいのです。多少は読んだのだつたかも知れませんが、何も彼も濛つとしてゐてとりとめがありません、斯んな近事を誌すこと誠に汗顔の至りでありますが、何卒悪からず御諒察の程願ひます。",
+      "characters": 195,
+      "ruby": []
+    }
+  ]
+}

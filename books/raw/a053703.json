@@ -1,0 +1,48 @@
+{
+  "id": "a053703",
+  "title": "線に関する覚書３",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "線に関する覚書３",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "線に関する覚書３",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１２３\n\n１●●●\n\n２●●●\n\n３●●●\n\n　３２１\n\n３●●●\n\n２●●●\n\n１●●●\n\n∴　nＰn＝ｎ（ｎ－１）（ｎ－２）……（ｎ－ｎ＋１）",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "（脳髄は扇子の様に円迄開いた、そして完全に廻転した）\n\n一九三一、九、一一",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

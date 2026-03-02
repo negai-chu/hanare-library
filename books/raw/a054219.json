@@ -1,0 +1,48 @@
+{
+  "id": "a054219",
+  "title": "犬の一年",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "犬の一年",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "犬の一年",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "今年は犬のお正月\n\n犬さん大そうよろこんで\n\n初日の出をば拝みて\n\n「ヤァお目出度う」ワンワンワン\n\n花の咲き出す春の頃\n\n梅桃桜花見して\n\n犬さん酒にほろよひで\n\n三味線ひいてワンワンワン\n\n暑い／＼と夏くれば",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "海水浴としゃれ出して\n\n犬さん浜べでジャブ／＼　と\n\n一生懸命泳ぎ出す\n\n雪ふり積る冬の頃\n\n犬さん中々元気よく\n\n町の中をばとびまはり\n\n「お正月来い」ワンワンワン",
+      "characters": 83,
+      "ruby": []
+    }
+  ]
+}

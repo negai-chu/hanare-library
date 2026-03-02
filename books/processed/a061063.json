@@ -1,0 +1,48 @@
+{
+  "id": "a061063",
+  "title": "春爛漫として",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春爛漫として",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春爛漫として",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　樹々花つけ\n\n陽炎燃え\n\n地上に満つ　たのしき命\n\n命あふれ\n\n咲きさかる\n\n天地のうたげ\n\n君は往く\n\n君は発つ\n\n一つの命",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "千百の\n\n君が青春\n\nこの春爛漫として\n\n君が幸　かなしみ\n\n才能　力　美しさ\n\nながき　はるかなる\n\nそれら一切のもの\n\nいまここに投げ打たんとして",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

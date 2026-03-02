@@ -1,0 +1,48 @@
+{
+  "id": "a055928",
+  "title": "（ツツケンドンに）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（ツツケンドンに）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（ツツケンドンに）",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ツツケンドンに\n\n女は言ひつぱなして出て行つた\n\n襖の上に灰がみえる\n\n眼窩の顛倒\n\n鳥の羽斜に空へ！……\n\n対象の知れぬ寂しみ\n\n神様はつまらぬものゝみをつくつた\n\n盥の底の残り水\n\n古いゴムマリ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "十能が棄てられました\n\n雀の声は何といふ生唾液《ナマツバキ》だ！\n\n雨はまだ降るだらうか\n\nインキ壺をのぞいてニブリ加減をみよう",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

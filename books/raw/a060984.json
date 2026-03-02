@@ -1,0 +1,54 @@
+{
+  "id": "a060984",
+  "title": "壁と重石と",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "壁と重石と",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "壁と重石と",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "山裾を走る電車の窓からみた\n\n紋入りに染め上げたおおいをかけ\n\nふたつの車に積みあげた嫁入り道具が\n\nいま村の端を出かかったところを\n\n春はやいくもり日が暮れかけていた\n\n荷物は運ばれるのだ\n\nうすぐらい物置き倉\n\n古ぼけた姑の箪笥《たんす》と並ぶために\n\n生まれた家と親とが",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "この荷物を背負わせ\n\n娘を押し出す\n\n娘は　のろのろと家を出てゆく\n\n荷物と娘と一束にして計量にかけ\n\nむすめのいのちに手づけが打たれてしまった\n\n荷物の中につめ込まれている\n\n下落するヤミ米\n\n税金の　のこりの金で\n\n買いあつめ　手に入れた",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "チリメンの　人絹の紋つき　はおり\n\nそして　積み込まれている\n\n壁と　重石と　カビの生えた昔がたり\n\n目をつぶし　ヒザをへし折る壁と　重石と　昔がたりと",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

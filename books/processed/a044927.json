@@ -1,0 +1,72 @@
+{
+  "id": "a044927",
+  "title": "〈あかい、やさしい　はなもやうが〉",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〈あかい、やさしい　はなもやうが〉",
+        "startPage": 1,
+        "endPage": 7
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〈あかい、やさしい　はなもやうが〉",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あかい、\n\nやさしい　はなもやうが、\n\nとびとびに　ついた\n\nきものをきて、\n\nあをい　やはらかい\n\nおびを　しめた、\n\nしづかな、おとなしい\n\nをんなのこどもが、\n\nそろり、",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "そろりと、\n\nいつぱい　とほる。\n\nいつぱい　とほる。\n\nほんとに　わたしは\n\nらんばうもの\n\nおさらは　こはすし\n\nインクは　こぼすし\n\n時計は　ころがすし\n\nおはしは　をるし",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ばた／＼　あるくし\n\nむしは　ころすし、\n\nわたしは\n\nせかいのらんばうもの。\n\nわたしのふくが赤かつたら、\n\nわたしのおびが青かつたら、\n\nわたしは　もうすこし\n\nおとなしいのに。\n\nらんばうもの。",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "おかあさまもおつしやつた。\n\nおにいさまもおつしやつた。\n\nそして、\n\nお前は\n\nいゝ子だとは、\n\nけつして、けつして\n\nおつしやらない。\n\nもしも　わたしが\n\nおとなしい",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "女のこどもにうまれたら、\n\nわたしは　どんなに\n\nうれしいかしら。\n\nそして、わたしは\n\nほんとに、ほんとに\n\nやさしさうに笑ひながら\n\nおてんとさままで、\n\nあるいてゆかう。\n\nそろり、",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "そろりと、\n\nあるいてゆかう。",
+      "characters": 15,
+      "ruby": []
+    }
+  ]
+}

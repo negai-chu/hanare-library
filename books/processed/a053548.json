@@ -1,0 +1,48 @@
+{
+  "id": "a053548",
+  "title": "絶句四章",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "絶句四章",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "絶句四章",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　色白の姉に具されて。今日もまた昔談や。\n\n　あれいま。逍遙うんじて歸る山路。\n\n　遠音に渡るかほととぎすの。\n\nつみとりてそぞろ心や\n\n　　　　　　くちづけさはに\n\n　願ふは君が髮ぐさ飾るやさし七草。\n\nあかつきや破れし鐘樓に。肩ねびし人と登りぬ\n\n　見よ君。指ざす方に日は出らめ。\n\n　ああかの野路こそいと戀ひしや。",
+      "characters": 160,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "行きずりの小草の中に。床し小扇\n\n　　　　　　誰がすさみぞや\n\n　これ優しぐさ『秋の恨み』と。",
+      "characters": 47,
+      "ruby": []
+    }
+  ]
+}

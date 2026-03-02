@@ -1,0 +1,48 @@
+{
+  "id": "a059479",
+  "title": "蛙料理",
+  "author": "久生十蘭",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蛙料理",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 133,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蛙料理",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "むぐらをわけて行くと、むやみに赤蛙がとびだす。ふとフランスで食べた蛙料理を思ひだした。\n\n　牛酪《バター》焼の蛙の脚《あし》をつまんで歯でしごくと、小鳥よりもやはらかでなんともいへぬ香気が口の中にひろがる。\n\n「おい、蛙のソーテは乙だつたな」といふと、並んで歩いてゐた石田が、\n\n「おれもそれを考へてゐたところだ。こいつを忘れてゐたのは醜態だよ。おい、やらう」\n\n「やつてもいゝが、皮を剥ぐのはごめんだ」\n\n「脚首ンとこをむしつて、ぴいつとひつぱがすんだ。手袋をぬぐより楽だ。おれがやる」\n\n　三十何匹おさへつけて帰つたが、間もなく石田がソーテにして持つてきた。\n\n　なかなかよろしい。が、チトめうだ。\n\n「こんな長い脛の蛙がゐたかなア」",
+      "characters": 319,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "「やや、見あらはされたか。どうも、やりかねてねえ、しやうがないから、隣にたのんで兎を一匹つぶしてもらつたんだ。おかげで八十円がとこ損をした」と頭を掻いた。",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

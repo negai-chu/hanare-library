@@ -1,0 +1,42 @@
+{
+  "id": "a003692",
+  "title": "花袋・秋声の祝賀会に際して",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "花袋・秋声の祝賀会に際して",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "花袋・秋声の祝賀会に際して",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "御二方には未だ御目に掛った事もございませんが、お催しとしては結構で御座いましょう、只丁度五十歳前後の父を持って居ります自分には、何だか「もうお祝い？」というような心持が致します。\n\n〔一九二〇年十月〕",
+      "characters": 100,
+      "ruby": []
+    }
+  ]
+}

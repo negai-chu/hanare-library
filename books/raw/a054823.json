@@ -1,0 +1,48 @@
+{
+  "id": "a054823",
+  "title": "雲",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雲",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雲",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "空には\n\n雲がなければならぬ\n\n日本晴れとは\n\n誰がつけた名かしらんが\n\n日本一の大馬鹿者であろう\n\n雲は\n\n踊らねばならぬ\n\n踊るとは\n\n虹に鯨が",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "くびをつることであろう\n\n空には\n\n雲がなければならぬ\n\n雲は歌わねばならぬ\n\n歌はきこえてはならぬ\n\n雲は\n\n雲は\n\n自由であった",
+      "characters": 66,
+      "ruby": []
+    }
+  ]
+}

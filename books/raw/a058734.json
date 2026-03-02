@@ -1,0 +1,42 @@
+{
+  "id": "a058734",
+  "title": "雪",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十一月の夜をこめて　雪はふる　雪はふる\n\n黄色なランプの灯の洩れる　私の窗にたづね寄る　雪の子供ら\n\n小さな手が玻璃戸を敲く　玻璃戸を敲く　敲く　さうしてそこに\n\n息絶える　私は聽く　彼らの歌の　靜謐　靜謐　靜謐",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

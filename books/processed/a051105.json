@@ -1,0 +1,42 @@
+{
+  "id": "a051105",
+  "title": "お星さま",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お星さま",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お星さま",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　澄《すみ》ちゃん、澄《すみ》ちゃん、なにあげよう。\n\nあのお星《ほし》さま、とっておくれ。\n\nあんまり高《たか》くて、とれません。\n\nそんなら、あたいがとってみよう。\n\nお星《ほし》さま、お星《ほし》さま、なにあげよう。\n\nのどがかわいた、水《みず》おくれ。\n\nあんまり遠《とお》くて、いかれません。\n\nそんなら、わたしが下《お》りていこう。",
+      "characters": 172,
+      "ruby": []
+    }
+  ]
+}

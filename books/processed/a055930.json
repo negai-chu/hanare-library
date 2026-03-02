@@ -1,0 +1,42 @@
+{
+  "id": "a055930",
+  "title": "（バルザック）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（バルザック）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（バルザック）",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　バルザック\n\nバルザック\n\n腹の皮が収縮する\n\n胃病は明治時代の病気《モノ》らしい\n\nそんな退屈は嫌で嫌で\n\n悟つたつて昂奮するさ\n\n同時性が実在してたまるものか\n\n空をみて\n\n涙と仁丹雨がまた降つて来る",
+      "characters": 103,
+      "ruby": []
+    }
+  ]
+}

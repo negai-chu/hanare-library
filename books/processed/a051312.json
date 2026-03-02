@@ -1,0 +1,48 @@
+{
+  "id": "a051312",
+  "title": "雲",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雲",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 91,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雲",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　山の上には雲が流れてゐた\n\nあの山の上で、お弁当を食つたこともある……\n\n　　女の子なぞといふものは\n\n　　由来桜の花弁《はなびら》のやうに、\n\n　　欣《よろこ》んで散りゆくものだ\n\n　　近い過去も遠いい過去もおんなじこつた\n\n　　近い過去はあんまりまざまざ顕現するし\n\n　　遠いい過去はあんまりもう手が届かない\n\n山の上に寝て、空をみるのも",
+      "characters": 172,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "此処にゐて、あの山をみるのも\n\n所詮は同じ、動くな動くな\n\nあゝ、枯草を背に敷いて\n\nやんわりぬくもつてゐることは\n\n空の青が、少しく冷たくみえることは\n\n煙草を喫ふなぞといふことは\n\n世界的幸福である",
+      "characters": 101,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "a053414",
+  "title": "宗谷〔二〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "宗谷〔二〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "宗谷〔二〕",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "そらの微光にそゝがれて\n\nいま明け渡る甲板は\n\n綱具やしろきライフブイ\n\nあやしく黄ばむ排気筒\n\nはだれに暗く緑する\n\n宗谷岬のたゝずみと\n\n北はま蒼にうち睡る\n\nサガレン島の東尾や\n\n黒き葡萄の色なして",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "雲いとひくく垂れたるに\n\n鉛の水のはてははや\n\n朱金一すぢかゞやきぬ\n\n髪を正しくくしけづり\n\nセルの袴のひだ垂れて\n\n古き国士のおもかげに\n\n日の出を待てる紳士あり\n\n船はまくろき砒素鏡を\n\nその来しかたにつくるとき",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "漂ふ黒き材木と\n\n水うちくぐるかいつぶり\n\n俄かに朱金うち流れ\n\n朝日潰えて出で立てば\n\n紳士すなはち身を正し\n\n高く柏手うちにけり\n\n時にあやしやその古金\n\n雲に圧さるゝかたちして\n\n次第に潰え平らめば",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "紳士怪げんのおもひあり\n\nその虚の像のま下より\n\n古めけるもの燃ゆるもの\n\n湧きたゝすもの融くるもの\n\nまことの日こそのぼりけり\n\n舷側は燃えブイも燃え\n\n綱具を燃やし筒をもし\n\n紳士の面を彩りて\n\n波には黄金の柱しぬ",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

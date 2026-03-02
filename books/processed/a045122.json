@@ -1,0 +1,42 @@
+{
+  "id": "a045122",
+  "title": "蝉の子守唄",
+  "author": "島崎藤村",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蝉の子守唄",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 142,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蝉の子守唄",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ねん／＼よ。おころりよ。ころ、ころ、ころ、ころ、おころりよ。\nねん／＼よ。おころりよ。おゝしいつく／＼、ねんねしな。\nねん／＼よ。おころりよ。みん、みん、みん、みん、ねんねしな。\nねん／＼よ。おころりよ。かな、かな、かな、かな、ねんねしな。\nねん／＼よ。おころりよ。めんめが覚めたら、何あげよ。\nおつぱい、おつぱい、おいしいおつぱい。好い兒の坊やのおいしいおつぱい。\n\nおあがり、おあがり、おゝしいつく／＼。坊やのおつぱい、おゝしいつく／＼。\nみん、みん、みん、みん、おゝしいつく／＼。かな、かな、かな、かな、おゝしいつく／＼。坊やは好い兒だ、ねんねしな。",
+      "characters": 279,
+      "ruby": []
+    }
+  ]
+}

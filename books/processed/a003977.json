@@ -1,0 +1,42 @@
+{
+  "id": "a003977",
+  "title": "文学者として近衛内閣に要望す",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "文学者として近衛内閣に要望す",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 93,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "文学者として近衛内閣に要望す",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　今度の内閣は、従来とかくものごとが厳秘主義であったの対して、「率直に現実をしらしめる」ことを表明し、一つの新しい態度と見られていると思います。上から現実を知らしめるということと、文学者が切々たる人間の心で下から現実を反映して、率直に現実を知らしめることとは、おのずから異るというような誤った解釈のないように切望いたします。\n\n〔一九四〇年九月〕",
+      "characters": 173,
+      "ruby": []
+    }
+  ]
+}

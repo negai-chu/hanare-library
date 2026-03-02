@@ -1,0 +1,54 @@
+{
+  "id": "a053547",
+  "title": "蛇苺",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蛇苺",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蛇苺",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　實は成りぬ\n\n草葉かげ\n\n小《ささ》やかに\n\n赤うして\n\n名も知らぬ\n\n實は成りぬ\n\n大空みれば\n\n日は遠しや\n\n輝輝たる夏の午《ひる》さがり",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "野路に隱《かく》れて\n\n唱ふもの\n\n魔よ\n\n名を蛇と呼ばれて\n\n拗者《すねもの》の\n\n呪《のろ》ひ歌《うた》\n\n節なれぬ\n\n野に生ひて\n\n光なき身の",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "運命《さだめ》悲しや\n\n世《よ》を逆《さかしま》に\n\n感じては\n\nのろはれし\n\n夏の日を\n\n妖艷の\n\n蠱物と\n\n接吻《くちづけ》交す蛇苺",
+      "characters": 68,
+      "ruby": []
+    }
+  ]
+}

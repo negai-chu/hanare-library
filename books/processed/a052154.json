@@ -1,0 +1,42 @@
+{
+  "id": "a052154",
+  "title": "和歌二",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "和歌二",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "和歌二",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　○\n\n文開く衣の袖はぬれにけり　海より深き　君が美心《（まごころ）》\n\n世の人はわれをなにともゆはゞいへわがなすことはわれのみぞしる\n\n春くれて五月まつ間のほととぎす初音をしのべ深山べの里\n\n　　湊川にて\n\n月と日のむかしをしのぶみなと川流れて清き菊の下水\n\n　　明石にて\n\nうき事を独明しの旅《（枕脱カ）》磯うつ浪もあわれとぞ聞\n\n　　○人心けふやきのふとかわる世に独なげきのます鏡哉",
+      "characters": 194,
+      "ruby": []
+    }
+  ]
+}

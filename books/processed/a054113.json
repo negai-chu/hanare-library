@@ -1,0 +1,60 @@
+{
+  "id": "a054113",
+  "title": "海から昇る太陽",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海から昇る太陽",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海から昇る太陽",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ああ海から昇る太陽\n\n太陽\n\n今しののめの\n\n藍と薔薇との混沌を\n\n蹴破つて昇る太陽\n\nかの紅の　かのまるく大きなる\n\nかの重たげなるもの\n\n虚空のうちを押渡る\n\nかのまぶしきもの",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かの團々たる\n\n黄金光《わうごんくわう》の聖母胎《せいぼたい》\n\nああかの　今わが涙にまで\n\nそのほのかなる暖かみもてもの言ひかくるもの\n\n太陽\n\nおお太陽\n\n海から昇る太陽\n\nわれ永く\n\nおん身の朝ごとにそこに在りて",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "かくまるく　大きく　赤く\n\nわれらが遊星の空高くはるばると\n\nさし出で給ふを\n\n不覺や\n\n忘れてゐたりき\n\n久しくも忘れてゐたりき\n\nしかしてこの日\n\n雲深き水平線を押昇る\n\n何たる大いなる",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "何たる美しい太陽だらう\n\nわがいとけなき\n\nわがけがれなき日の\n\nなほそこに今もあるかに\n\nああげにかくもまぶしく\n\n海から昇る太陽\n\nおお太陽\n\n太陽",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

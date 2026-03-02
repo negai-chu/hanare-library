@@ -1,0 +1,48 @@
+{
+  "id": "a055571",
+  "title": "写真（北満の土産）その二",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "写真（北満の土産）その二",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 128,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "写真（北満の土産）その二",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "貴族の表情をこさえるために\nハルピンの白系露人の女は\nジーッと物を見すえてうっかり動揺の見《（ママ）》にくさを見せまえ《（ママ）》とし、古い宝石の腕輪や首かざりやピンに品物以上を物語らせようとし、\n窮屈なほど口元をすぼめて上品さを見せんとしている。\n\nいくら金髪で、純粋のロシア人であっても\nこのロシア人はちっとも値打のないロシア人\n今の世界中でロシア人の値打は\n社会主義サヴェート共和国を建設して\n絶大な成功と自信とを握っているところにあるんだが\nいまだに帝制の昔にかえる日を夢見ている\nこの女達の貴族的な行儀や作法や表情や\nそんなことを何か得がたい値打のように\nあこがれている、ブルジョア根性の奴等は\nどこかにいないか\nその写真の女は\nハルピンのカフェーに\nうようよと、ねたましそうに憎らしそうに",
+      "characters": 350,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "母国のロシアを見返している値打のないその女達だ。",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

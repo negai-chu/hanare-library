@@ -1,0 +1,60 @@
+{
+  "id": "a054140",
+  "title": "日まはり",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日まはり",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日まはり",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "橋の袂の日まはり\n\n床屋の裏の日まはり\n\n水車小屋の日まはり\n\n交番の陰の日まはり\n\n頽《くづ》れた築地の上に聳える\n\n路ばたの墓地の日まはり\n\n丘の上の洒落た一つ家\n\nそのまた上の　女學校の　寄宿舍の\n\n庭の日まはり",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ああ日まはり\n\n日まはり\n\nそれは旺んな季節の洪水\n\n七月　この海邊の町を不意打して\n\nこの小さな町をとりかこみ　占領し\n\n彼らの眞晝の凱歌をうたふ\n\n日まはり\n\n日まはり\n\n彼方町はづれの踏切にも",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "此方天守の崩れた城址《しろあと》にも\n\nここかしこ　到るところに\n\nいま一ひらの雲もない青空をささげて咲いた日まはり\n\n日まはり\n\n若き日のわが夢のかずかず\n\n…………………………\n\nしかはあれその花の一輪にだも\n\n今日の日のわれが望みはしかざるなり\n\nげにその花の一輪にだも",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "海の音彼方に高き日ざかりを\n\nいまこの町をゆきゆきて\n\nなほその花の下陰にわれは立つとも",
+      "characters": 44,
+      "ruby": []
+    }
+  ]
+}

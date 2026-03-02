@@ -1,0 +1,48 @@
+{
+  "id": "a054263",
+  "title": "かめ",
+  "author": "濤音",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かめ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 123,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かめ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "まがどりのやうな冠船が翼をひろげて\n\n那覇港内《なふわとうち》にしやんで居るうちは\n\n薩摩の殿にはあへまいわなあ。\n\n凛々《りゝ》しい殿のかみしも姿が眼の前に\n\nまざまざと浮んでくるやうな。―\n\n殿はいま露つぽい美里間切《みざとまぎり》を深編笠のしのびあるき。\n\nあゝなさけない世となつた。\n\nついあけがたまでなつかしい殿御と\n\n添寝の夢の名残は室《へや》の隅《すみ》にも残れど。",
+      "characters": 190,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "うらめしい開門鐘《けぢやうがね》に空が白むと\n\nむつくり起きあかりて仰せらるゝ\n\n「さらばかめイしばらくは待つてくれ。」\n\n「妾もついてゆきます」と申すと\n\n「これが邪魔する」とはつたと叩れた腰の朱鞘。\n\nそうしててしやで染のわか小指をにぎられたが。\n\nはてなさけない世となつた。\n\n膏脂《あぶら》　香　息のつまりさうな唐人と\n\nどうして添寝ができませうか。",
+      "characters": 179,
+      "ruby": []
+    }
+  ]
+}

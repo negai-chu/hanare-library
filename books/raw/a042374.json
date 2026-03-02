@@ -1,0 +1,42 @@
+{
+  "id": "a042374",
+  "title": "わが愛好する言葉",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "わが愛好する言葉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "わが愛好する言葉",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "どうも、みんな、佳《よ》い言葉を使い過ぎます。美辞を姦するおもむきがあります。鴎外《おうがい》がうまい事を言っています。\n\n「酒を傾けて酵母を啜《すす》るに至るべからず。」\n\n　故に曰く、私には好きな言葉は無い。",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

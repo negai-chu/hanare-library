@@ -1,0 +1,48 @@
+{
+  "id": "a053844",
+  "title": "草の実",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "草の実",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 40,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "草の実",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　知らないか\n\n知らないか\n\n子牛は草の實知らないか\n\n子牛のしつぽの草の實を\n\n知らないよ\n\n知らないよ\n\n子牛は草の實知らないよ\n\n子牛のしつぽの草の實を\n\nきつとだろ",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "きつとだろ\n\n草の實ぽいと乘つただろ\n\n子牛がみちくさくつたとき",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

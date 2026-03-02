@@ -1,0 +1,42 @@
+{
+  "id": "a053942",
+  "title": "城山城趾にて",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "城山城趾にて",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "城山城趾にて",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　頬にしぶく氷雨忘れて一時を敗軍の士の心しのびぬ\n\nかなしさは落城のあと冬たけて御所ヶ丸山さびしくそびゆ\n\n武士《ものゝふ》の魂とむらふや音たてゝ枯草山にひたしぶくあめ\n\nとけ殘る雪まだらなる谷あひに炭燒く煙低く流れぬ",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

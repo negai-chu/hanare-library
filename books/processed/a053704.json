@@ -1,0 +1,42 @@
+{
+  "id": "a053704",
+  "title": "線に関する覚書４",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "線に関する覚書４",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "線に関する覚書４",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　弾丸が一円を走つた（弾丸が一直線に走つたにおける誤謬らの修正）\n\n正六砂糖（角砂糖のこと）\n\n瀑筒の海綿質填充（瀑布の文学的解説）一九三一、九、一二",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

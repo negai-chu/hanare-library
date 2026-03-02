@@ -1,0 +1,48 @@
+{
+  "id": "a051316",
+  "title": "古代土器の印象",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "古代土器の印象",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "古代土器の印象",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　認識以前に書かれた詩――\n\n沙漠のたゞ中で\n\n私は土人に訊《たづ》ねました\n\n「クリストの降誕した前日までに\n\nカラカネの\n\n歌を歌つて旅人が\n\n何人こゝを通りましたか」\n\n土人は何にも答へないで\n\n遠い沙丘の上の",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "足跡をみてゐました\n\n泣くも笑ふも此の時ぞ\n\n此の時ぞ\n\n泣くも笑ふも",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

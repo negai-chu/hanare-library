@@ -1,0 +1,76 @@
+{
+  "id": "a054345",
+  "title": "雨",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雨",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雨",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "どこかに妹がきてゐる\n\nｔｏｍ・ｔｏｍとゴムまりをついてゐる\n\nぼくの心のゴムまりを\n\n妹はｔｏｍ・ｔｏｍとだまつてついてゐる",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "２",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "もうとどかない花の日がぬれてゐる\n\n思ふことがみんな童話になつてはくづれてゆく\n\nふるいオルゴオルのふるい折返しからの歌よ\n\nこはれた心のひびきよ　ふるさとの声よ　雨の音よ",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

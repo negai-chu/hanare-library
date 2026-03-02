@@ -1,0 +1,48 @@
+{
+  "id": "a053384",
+  "title": "〔ま青きそらの風をふるはし〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔ま青きそらの風をふるはし〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔ま青きそらの風をふるはし〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ま青きそらの風をふるはし\n\nひとりはたらく脱穀機\n\n　R-R-r-r-r-r-r-r-r\n\n脱穀小屋の庇の下に\n\n首を垂れたる二疋の馬\n\n　R-R-r-r-r-r-r-r-r\n\n粉雪おぼろにひかりたち\n\nはるかにりりと鐘なれば\n\nうなじをあぐる二疋の馬",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "華やかなりしそのかみの\n\nよきギャロップをうちふみて\n\nうまやにこそは帰り行くなれ",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

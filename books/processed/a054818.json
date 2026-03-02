@@ -1,0 +1,48 @@
+{
+  "id": "a054818",
+  "title": "東京",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "東京",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "東京",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　東京はタイクツな町だ\n\n男も女も\n\n笑わずに\n\nとがった神経で\n\n高いカカトで\n\n自分の目的の外は何も考えず\n\n歩いて行く\n\n東京は冷い町だ\n\nレンガもアスファルトも",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "笑わずに\n\n四角い顔で\n\n冷い表情で\n\nほこりまみれで\n\nよこたわっている\n\n東京では\n\n漫画やオペラが\n\n要るはずだと\n\nうなずける",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

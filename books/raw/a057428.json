@@ -1,0 +1,54 @@
+{
+  "id": "a057428",
+  "title": "堺へ帰らう",
+  "author": "河井酔茗",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "堺へ帰らう",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "堺へ帰らう",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「堺へいなう、堺へいなう」\n\n深夜、安土城の庭から\n\n奥の寝室に聞えてくる声\n\n移し植ゑたばかりの\n\n妙国寺の蘇鉄\n\n毎夜のやうに言《ものい》ふ\n\n信長は手討にしなかつた\n\n「あの蘇鉄を\n\n堺へ帰してやれ」",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "話のついでに――\n\n「晶子さん\n\nあなたは堺へ帰りたいと思ひませんか」\n\n「いいえ\n\nよく出てきたと思ひます」\n\n堺は古い街だ\n\n古い街から\n\n新しい人が生れた\n\n晶子さんは、また",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "黙つて堺へ帰つてゐる\n\n蘇鉄よ\n\n私も、もう一度\n\n堺へ帰らう",
+      "characters": 31,
+      "ruby": []
+    }
+  ]
+}

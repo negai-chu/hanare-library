@@ -1,0 +1,48 @@
+{
+  "id": "a054252",
+  "title": "ポスト",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ポスト",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ポスト",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夕方に雨が降り出した\n\n小供は家へ走りこむ\n\nポストは家へはいれない\n\n雷ごろ／＼なり出して\n\nポストはシク／＼泣いて居る\n\n今まで町で遊んでた\n\n四つ辻かどに立って居る\n\nそのまゝ其所で立ずくみ\n\nいな妻ピカ／＼　光り出す",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "（大正十一年二月七日綴）",
+      "characters": 12,
+      "ruby": []
+    }
+  ]
+}

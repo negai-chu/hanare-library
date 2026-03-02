@@ -1,0 +1,42 @@
+{
+  "id": "a055897",
+  "title": "初夏",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "初夏",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "初夏",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "扇子と香水――\n\n君、新聞紙を絹風呂敷には包みましたか\n\n夕の月が風に泳ぎます\n\nアメリカの国旗とソーダ水とが\n\n恋し始める頃ですね",
+      "characters": 66,
+      "ruby": []
+    }
+  ]
+}

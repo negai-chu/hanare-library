@@ -1,0 +1,54 @@
+{
+  "id": "a053938",
+  "title": "組織された力",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "組織された力",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "組織された力",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "どこからか捲き起された風\n\n渦になり、平《たいら》になり、縦になり\n\n吹きまくってゆく、突風！　疾風！\n\n屋根柾《やねまさ》が矢のように走ってゆく\n\n塗炭板《とたんいた》がぐうおうと引《ひっ》ぺがされて\n\n空をうなりながら飛んでゆく\n\nぐう、おう、ひゅう\n\nひゅう、おう、ぐう\n\n物凄い力となって",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "粉々と雪を掻《か》っ飛ばして\n\n平原を十数丈の高さで\n\nぐんぐんと押《おし》よせる風陣！\n\n街の中も、原っぱも、村の街道も\n\n猛火のような怒りと憎しみに燃え立って\n\n前面に押し出し流されてゆく\n\n引っぱたき、ぶちのめし\n\n引《ひっ》ぱずし、ぶちこわし\n\n組織されたものの持てる偉大な力の進軍！",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "（『旭川新聞』一九二九年九月十七日号に今野紫藻名で発表　一九八五年四月新日本出版社刊『今野大力・今村恒夫詩集』改訂版を底本）",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

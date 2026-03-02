@@ -1,0 +1,42 @@
+{
+  "id": "a054402",
+  "title": "愁思",
+  "author": "山口芳光",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "愁思",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "愁思",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　秋晴は侘びしいねえ\n遠いとおおい水平線の彼方が見透かされはせぬか\n広いひろおおいお母さんの様な恋人の魂が感じられはせぬか\nああ　秋晴は侘びしいね\n涙のたまつた眸に\n黒い喪服を着た恋人がチカ／＼する",
+      "characters": 99,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055567",
+  "title": "有髪の僧",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "有髪の僧",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "有髪の僧",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　私もいつかは有髪《うはつ》の僧となって\n\n僧院の夕べ\n\n極まりもない苦悩の魂を抱いて独り銀杏の下にいこう身となりました\n\n（何と言うかなしい事実でありましょう、人間の子の青春は、かくして奪い奪われ去るのです）",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

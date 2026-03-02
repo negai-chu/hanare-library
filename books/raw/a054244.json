@@ -1,0 +1,42 @@
+{
+  "id": "a054244",
+  "title": "夢御殿",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夢御殿",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夢御殿",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夢に夢見る夢御殿　サンゴルビーの屋根や床\n\nダイヤモンドの床鏡　庭には金の築山や\n\n銀をとかした噴水に　不老の泉くみませう\n\n不死の薬の雨がふり　金銀宝石ちりばめた\n\nよろひかぶとのいでたちに\n\n出てくる勇士の面々は\n\n桃ちゃん、金ちゃん、仁王さん、猿面冠者に清正公、べんけい義経相撲とる、どちら勝つかと思ったら\n\nいつの間にやら夜が明けて、夢の御殿は消えて行く\n\n（大正十二・三・二五）",
+      "characters": 194,
+      "ruby": []
+    }
+  ]
+}

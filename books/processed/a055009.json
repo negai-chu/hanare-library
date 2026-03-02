@@ -1,0 +1,42 @@
+{
+  "id": "a055009",
+  "title": "あなたの顔",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あなたの顔",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あなたの顔",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　――琉球の墓を見たことがあるか。むしろ蟇の如き石室なり。また、一小孤城の如きも見るべし。高き丈余にあまり、みな蒼苔をおび、海に向ひて寂然たり。むかし、さる物持ちの翁ありて、己が墓に池を穿ち、蓮の花を植えたりと。――\n\n墓のなかに蓮の花をうえる\n\n僕は一輪の薔薇を植ゑる\n\n黒奴のやうにまつくらい体のなかに\n\nああ　燐色の顔をうゑる。",
+      "characters": 167,
+      "ruby": []
+    }
+  ]
+}

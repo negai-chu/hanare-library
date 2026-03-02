@@ -1,0 +1,42 @@
+{
+  "id": "a047984",
+  "title": "舞じたく",
+  "author": "上村松園",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "舞じたく",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "舞じたく",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「舞じたく」は、平常から何かの折に一度描いて見たいと思つて居ましたが、九月十日祇園新地の歌蝶さんを訪ね大嘉の舞妓を紹介して貰ひ、二度ばかり写生して大急ぎで取掛りましたが、四人の人物を描くので大分手間取り、半月ばかりは毎夜一時間しか寝ません。昼夜兼行で七日の午後四時に漸く描き上げました位ですから、自分では何ができたか夢中でした。（談）（大正三年）",
+      "characters": 173,
+      "ruby": []
+    }
+  ]
+}

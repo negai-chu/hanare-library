@@ -1,0 +1,60 @@
+{
+  "id": "a053802",
+  "title": "待機",
+  "author": "金鍾漢",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "待機",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 106,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "待機",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雪がちらついてゐる\n\nしんみりしづかに　雪がちらついてゐる\n\nそのなかを　ききとして　きみたちは\n\nいもうとよ　またいとこよ　おとうとよ\n\nまなびやへと急いでゐる\n\nながいながい　昌慶苑の石垣づたひ\n\n雪がちらついてゐる\n\nしんみりしづかに\n\n雪がちらついてゐる　ちらついてゐる",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おとうとよ　またいとこよ　いもうとよ\n\nそれはふりかかる　きみたちのかたに\n\nたわわな髪の毛に　ひひとして　やぶれ帽子のうへに\n\n十ねんわかくなつて　わたくしも\n\nきみたちと　足なみをそろへてゐる\n\n雪がちらついてゐる\n\nたしか　きよねんの十二月八日にも\n\n雪がちらついてゐた　あれから一ねん\n\nたたかひはパノラマのやうに",
+      "characters": 161,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "みんなみの海へひろげられていつた\n\nそしてきみたちは　ごはんのおいしさをおそはつた\n\nまたいとこよ　いもうとよ　おとうとよ\n\nきみたちのうへに　雪がちらついてゐる\n\n雪がちらついてゐる\n\nながいながい　昌慶苑の石垣づたひ\n\nかくも　季節のきびしさにすなほなきみたちに\n\nあへてなにをか　いふべき言葉があらう\n\n雪がちらついてゐる　しんみりしづかに",
+      "characters": 173,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "いもうとよ　またいとこよ　おとうとよ\n\n雪がちらついてゐる　きみたちの成長のうへに\n\nひひとして　雪がちらついてゐる",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a053856",
+  "title": "港のあいさつ",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "港のあいさつ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "港のあいさつ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お船とお船で\n\n笛がなる　笛がなる\n\n汽笛であいさつ\n\nぽう　お天氣さん\n\nぽう　お天氣さん\n\nお船とお船で\n\n手をあげる　手をあげる\n\n右手であいさつ\n\nほうい　ごきげんさん",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ほうい　ごきげんさん",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054355",
+  "title": "春",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "風船にひつぱられて　小鳥は中空たかくのぼつていつた\n風船はくるめく日傘をまはし　あたたかな銀の雨を降らした\n小鳥はむしやうにうれしくなり　力いつぱいそのすずを鳴らした\nそれにしても風船にのれない重たい心――ぼくは丘のクツサンの中でじたばたする\nあばらに生えた青麦の芽をむしりながら",
+      "characters": 140,
+      "ruby": []
+    }
+  ]
+}

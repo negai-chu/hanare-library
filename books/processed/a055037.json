@@ -1,0 +1,42 @@
+{
+  "id": "a055037",
+  "title": "銭湯より帰る",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "銭湯より帰る",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 110,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "銭湯より帰る",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　仔どもや金貸しや先生や役人や痩せたのも太いのもいつしよくたに\n汗や膏や表皮を流す裸のとき\n裸の楽しいときをへて　さて　ふたゝび湯水のなかを産れるとき\n豹　縞馬の身のやうな美しい毛皮なし\nまた候　おれの襯衣　衣裳のなか\nおれの型に頭髪《かみ》をとゝのへ　髯　眼鏡を貼附なし\n「光」などくちに銜へ\n立派やかひとりまへに成りすました\nゆくさきは苗字ところ番地のしるされた\n祖先が穴居時代なしたやうに\nおれの住む家《や》に這入つていつた",
+      "characters": 215,
+      "ruby": []
+    }
+  ]
+}

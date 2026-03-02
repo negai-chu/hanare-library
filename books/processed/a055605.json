@@ -1,0 +1,48 @@
+{
+  "id": "a055605",
+  "title": "残冬",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "残冬",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "残冬",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　空はにごれる白亜の色\n\n北国の――悩ましき擾乱《じょうらん》\n\n大地ははっちを閉じている\n\n　………\n\n地平の彼方――友等処女等\n\n同じくなやめ同胞《きょうだい》達\n\n　………\n\n北極の襲い来れる、白鵞《はくが》の万毛\n\n風をよび、吹きなす、ひょうひょうの声",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "木をゆるぎ、屋根をはぐ\n\n　………\n\n狂暴の形態\n\n天魔の降臨",
+      "characters": 31,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a045034",
+  "title": "筏乗り",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "筏乗り",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "筏乗り",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　やまの\n\nやまの\n\nおくやまの\n\n谿《たに》からでてきた\n\n筏乗り\n\n筏のうへの日や\n\n　　　　ながかんべ\n\nくわえ煙管《ぎせる》で\n\nのんきだな",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "やまの\n\nやまの\n\nおくやまの\n\n谿から出てきた\n\nいかだのり\n\nさとへのみやげか\n\n岩躑躅《いはつつじ》\n\n一枝\n\n　くれてゆくもんだ",
+      "characters": 68,
+      "ruby": []
+    }
+  ]
+}

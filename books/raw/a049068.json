@@ -1,0 +1,48 @@
+{
+  "id": "a049068",
+  "title": "兵隊さん",
+  "author": "槙本楠郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "兵隊さん",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 124,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "兵隊さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おいらの兄《にい》さん兵隊《へいたい》さん\n\nしつかりおしよ、氣《き》をおつけ\n\n――右向《みぎむ》け、右《みぎ》ツ\n\n　　前《まへ》エ進《すゝ》めツ！\n\n金持《かねもち》アうしろで手《て》を叩《たた》く\n\n（あぶない／＼、××の的《まと》）\n\nおいらの兄《にい》さん、兵隊《へいたい》さん\n\nしつかりおしよ、氣《き》をおつけ\n\n――左向《ひだりむ》け、左《ひだり》ツ",
+      "characters": 184,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　前《まへ》エ進《すゝ》めツ！\n\n金持《かねもち》アうしろで手《て》を叩《たゝ》く\n\n（あぶない／＼、××の的《まと》）\n\nおいらの兄《にい》さん、兵隊《へいたい》さん\n\nしつかりおしよ、氣《き》をおつけ\n\n――廻《まは》れエ、右《みぎ》ツ\n\n　　前《まへ》エ進《すゝ》めツ！\n\n金持《かねもち》アうしろで手《て》を叩《たゝ》く\n\n（あぶない／＼、××の的《まと》）",
+      "characters": 184,
+      "ruby": []
+    }
+  ]
+}

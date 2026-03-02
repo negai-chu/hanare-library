@@ -1,0 +1,48 @@
+{
+  "id": "a053956",
+  "title": "DILEMMA.",
+  "author": "佐藤緑葉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "DILEMMA.",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "DILEMMA.",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "いらだたしき一夜、\n\n群集と巡査とは睨みあい、\n\n街燈の瓦斯の灯も常より青し。\n\n窓硝子のやぶるる音に、\n\n喜びて叫ぶ声、恐ろしき鬨の声、\n\n馳せちがう民衆と警官の剣鞘のおと。\n\n哀れにも暴君のくるしむ姿、\n\nわれもまた群集ともろ共に手を打って\n\n幾度か「バンザイ」を叫ばんとせしが、されど……",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かの家にはわが椅子あり、\n\nわがペンもあり、\n\nかかる時なお忘れえざるわがパンの家。\n\n雨のごとく石はふり、\n\n群集は狂おしく鳴りわめく、\n\nいらだたしき銀座の一夜。\n\n（『近代思想』一九一三年三月号に発表）",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

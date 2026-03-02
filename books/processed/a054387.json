@@ -1,0 +1,48 @@
+{
+  "id": "a054387",
+  "title": "街",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　枯れ葉《は》は足《あし》につつかかり\n\n街燈はぬれてまたたき\n\n霧さへ降つてゐた　おそい街の夜《よる》だつた\n\nお前は人の歌をそつと歌ひ\n\nお前は思い出したやうに歩いた\n\n僕たちの街と本当に言へただらうか\n\n美しい愛情《あいじよう》の破片《かけら》が\n\nそこに花《はな》咲《さ》いてゐただらうか\n\nあきらめたやうに枯れ葉をふみ",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "街燈の下《もと》を深海魚《しんかいぎよ》のやうに\n\nなぜ歌つて歩かねばならなかつたのだらう\n\nそんな僕たちの街ではなかつたか――",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

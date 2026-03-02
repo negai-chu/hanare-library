@@ -1,0 +1,48 @@
+{
+  "id": "a053372",
+  "title": "セレナーデ　恋歌",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "セレナーデ　恋歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "セレナーデ　恋歌",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "江釣子森の右肩に\n\n雪ぞあやしくひらめけど\n\nきみはいまさず\n\nルーノの君は見えまさず\n\n夜をつまれし枕木黒く\n\n群あちこちに安けれど\n\nきみはいまさず\n\nとゞろにしばし行きかへど\n\nきみはいまさず",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ポイントの灯はけむれども\n\nルーノのきみの影はなき\n\nあゝきみにびしひかりもて\n\nわが青じろき額を射ば\n\nわが悩あるは癒えなんに",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

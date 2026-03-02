@@ -1,0 +1,48 @@
+{
+  "id": "a053554",
+  "title": "ふぶき",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ふぶき",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ふぶき",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "くち惜しきふるまひをしたる朝\n\nあららんらんと降りしきる雪を冒して\n\n一目散にひたばしる\n\nこのとき雨もそひきたり\n\nすべてはくやしきそら涙\n\nあの顏にちらりと落ちたそら涙\n\nけんめいになりて走れよ\n\nひたばしるきちがひの涙にぬれて\n\nあららんらんと吹きつける",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "なんのふぶきぞ青き雨ぞや",
+      "characters": 12,
+      "ruby": []
+    }
+  ]
+}

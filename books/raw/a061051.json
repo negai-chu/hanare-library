@@ -1,0 +1,48 @@
+{
+  "id": "a061051",
+  "title": "友よ　友だちよ",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "友よ　友だちよ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 91,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "友よ　友だちよ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わたしは　三度目の開腹手術を受けるために\n\n行ってきます\n\n友よ\n\n手術をしなければならぬということは\n\n命があるということです\n\nいろいろの\n\n心のキズを耐え\n\n力あつめて立ちつづけてきた\n\n体に三度目のメスを受けねばならぬ",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "黄色い目じりから泪がにじんで流れようとする\n\n友よ\n\n手術をしなければならぬということは\n\n命があるということです\n\n命がなければ　誰の顔も見えなくなるではないか\n\n誰も　わたしをもう見ることができないではないか\n\n命がなければ　もう詩が書けないではないか\n\n命がなければ　体も心も灰になってしまうではないか",
+      "characters": 154,
+      "ruby": []
+    }
+  ]
+}

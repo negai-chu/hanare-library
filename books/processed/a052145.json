@@ -1,0 +1,42 @@
+{
+  "id": "a052145",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 36,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　大日本吏《（ママ）》舌代\n但本箱とも\n右借用仕度、此使に御送り被レ遣候得バ、難レ有次第奉レ存候。頓首龍\n\n廿二日才吉《（谷カ）》\n三吉様",
+      "characters": 69,
+      "ruby": []
+    }
+  ]
+}

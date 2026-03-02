@@ -1,0 +1,48 @@
+{
+  "id": "a044932",
+  "title": "きしやのしよくどう",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "きしやのしよくどう",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "きしやのしよくどう",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　たまごよ\n\nたまごよ\n\nうでたまご。\n\nおさらのなかで\n\nふるへてる\n\nたまご。\n\nたまごよ\n\nたまごよ\n\nなにがこわい。",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "きしやは\n\nぽつぽと\n\nはしつてゆくのに。\n\nたまごよ\n\nたまごよ\n\nなにがこわい。",
+      "characters": 42,
+      "ruby": []
+    }
+  ]
+}

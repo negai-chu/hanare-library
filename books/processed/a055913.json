@@ -1,0 +1,48 @@
+{
+  "id": "a055913",
+  "title": "（概念が明白となれば）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（概念が明白となれば）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（概念が明白となれば）",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　概念が明白となれば\n\nそれの所産は観念でした\n\n観念の恋愛とは\n\n焼砂ですか\n\n紙で包んで\n\n棄てませう\n\n馬鹿な美人\n\n人間に倦きがなかつたら\n\n彼岸の見えない川があつたら",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "反省は咏嘆を生むばかりです\n\n自分と過去とを忘れて\n\n他人と描ける自分との\n\n恋をみつめて進むんだ\n\n上手者なのに\n\n何故結果が下手者になるのでせう\n\n女よそれを追求して呉れ",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

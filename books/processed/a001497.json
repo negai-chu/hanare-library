@@ -1,0 +1,48 @@
+{
+  "id": "a001497",
+  "title": "盃",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "盃",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "盃",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　記念のための瀬戸焼の盃、\n\n淋しい日の慰めに、とり出して、\n\n泡盛をつぐ。\n\n器《うつは》の色も影も変らない、\n\n酒の味ひも、\n\nあゝ思出多き記念の盃。\n\n底に沈んだ私のふけた顔、\n\nひよつとのぞくと、\n\n思はず手掌がふるへた。",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "記念のための瀬戸際の盃、\n\n私は君を手にして、\n\n喜びと悲しみの二つ味ふ。",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

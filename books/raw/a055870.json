@@ -1,0 +1,607 @@
+{
+  "id": "a055870",
+  "title": "南窗集",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 54
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鴉",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-2",
+        "title": "湯沸し",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-3",
+        "title": "靜夜",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-4",
+        "title": "蟋蟀",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-5",
+        "title": "信號",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-6",
+        "title": "椿花",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-7",
+        "title": "ブブル",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-8",
+        "title": "遲刻",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-9",
+        "title": "節物　四章",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-9-section-1",
+            "number": "家鴨",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-2",
+            "number": "蟹",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-3",
+            "number": "鶺鴒",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-4",
+            "number": "馬",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-10",
+        "title": "友を喪ふ　四章",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-10-section-1",
+            "number": "首途",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-2",
+            "number": "展墓",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-3",
+            "number": "路上",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-10-section-4",
+            "number": "服喪",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-11",
+        "title": "牝",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-12",
+        "title": "牛",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-13",
+        "title": "旅人",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-14",
+        "title": "鹿",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-15",
+        "title": "土",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-16",
+        "title": "路傍",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-17",
+        "title": "霽れ",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-18",
+        "title": "旅舍",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-19",
+        "title": "間庭　二章",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-19-section-1",
+            "number": "黒蟻",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-19-section-2",
+            "number": "夕燒",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-20",
+        "title": "病床",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-21",
+        "title": "本",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-22",
+        "title": "蠶",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-23",
+        "title": "街道",
+        "startPage": 1,
+        "endPage": 1
+      },
+      {
+        "id": "chapter-24",
+        "title": "裾野",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 54,
+    "averageCharsPerPage": 45,
+    "chapterTitles": [
+      "鴉",
+      "湯沸し",
+      "靜夜",
+      "蟋蟀",
+      "信號",
+      "椿花",
+      "ブブル",
+      "遲刻",
+      "節物　四章",
+      "友を喪ふ　四章",
+      "牝",
+      "牛",
+      "旅人",
+      "鹿",
+      "土",
+      "路傍",
+      "霽れ",
+      "旅舍",
+      "間庭　二章",
+      "病床",
+      "本",
+      "蠶",
+      "街道",
+      "裾野"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "南窗集",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "鴉",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "靜かな村の街道を　筧が横に越えてゐる\n\nそれに一羽の鴉がとまつて　木洩れ陽の中に\n\n空を仰ぎ　地を眺め　私がその下を通るとき\n\nある微妙な均衡の上に　翼を（をさ）めて　秤《はかり》のやうに搖れてゐた",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "湯沸し",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "たぎり初めた湯沸し……　それはお晝休みの　小學校の校庭だ\n\n藤棚がある　池がある　僕らはそこでじやんけんする\n\n僕は走る　僕は走る……　かうして肱をついたまま\n\n夜の中に　たぎり初めた湯沸し……",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "靜夜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "柱時計のチクタク　ああ時間の燕らが\n\n山を越える　海を越える　何といふ靜けさだらう\n\n森の中で　梟が鼓をうつ　やつとこの日頃\n\n私は夜に對し得た　壁を眺め　手を眺め",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "蟋蟀",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "新聞紙に音をたてて　葡萄のやうな腹の　蟋蟀が一匹とびだした\n\n明日はクリスマス　この獨りの夜を　「愕かすぢやないか\n\n魔法使ひぢやあるまいね　そんなに向う見ずに　私の膝にとび乘つて」\n\n「ごめんなさい　何しろ寒くつて……」",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "信號",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "小舍の水車　藪かげに一株の椿\n\n新らしい轍に蝶が下りる　それは向きをかへながら\n\n靜かな翼の抑揚に　私の歩みを押しとどめる\n\n「踏切りよ　ここは……」　私は立ちどまる",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "椿花",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "これはいづこの國　いづれの世の建築だらう　私の夢なら\n\nこんな建ものの中に住みたい　今朝の雨に濡れて\n\n掌上に　ややに重い一輪の紅椿　その壁に凭れて\n\n私は樂器を奏でる　この騎士《ナイト》の唇を　花粉が染める",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "ブブル",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "ブブル　お前は愚かな犬　尻尾をよごして\n\nブブル　けれどもお前の眼\n\nそれは二つの湖水のやうだ　私の膝に顏を置いて\n\nブブル　お前と私と　風を聽く",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "遲刻",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "やれやれ汽船《ふね》は出てしまつた\n\n々たる春　霞の奧の遠い島\n\n島の火山　私の見る電柱に\n\n風に吹かれる蟲の觸覺《ひげ》",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "節物　四章",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 19,
+      "content": "家鴨\n\nにび色の空のもと　ほど近い海の匂ひ\n\n汪洋とした川口の　引き潮どきを\n\n家鴨が一羽流れてゆく\n\n右を眺め　左を眺め\n\n蟹\n\n村長さんの屋敷の裏　小川の樋に\n\n泥まみれの蟹がのぼつて\n\nひとりで何か呟いてゐる",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "新らしい入道雲が　土手の向うにのび上る\n\n鶺鴒\n\n黄葉《もみぢ》して　日に日に山が明るくなる\n\n谿川は　それだけ緑りを押し流す\n\n白いひと組　黄色いひと組　鶺鴒《せきれい》が私に告げる\n\n「この川の石がみんなまるいのは　私の尻尾で敲《たた》いたからよ」\n\n馬\n\n茶の丘や\n\n桔皐《はねつるべ》",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "馬\n\n梅の花",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "友を喪ふ　四章",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "首途\n\n眞夜中に　格納庫を出た飛行船は\n\nひとしきり咳をして　薔薇の花ほど血を吐いて\n\n梶井君　君はそのまま昇天した\n\n友よ　ああ暫らくのお別れだ……　おつつけ僕から訪ねよう！\n\n展墓\n\n梶井君　今僕のかうして窓から眺めてゐる　病院の庭に\n\n山羊の親仔が鳴いてゐる　新緑の梢を雲が飛びすぎる\n\nその樹立の向うに　籠の雲雀が歌つてゐる",
+      "characters": 166,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "僕は考へる　ここを退院したなら　君の墓に詣らうと\n\n路上\n\n卷いた樂譜を手にもつて　君は丘から降りてきた　歌ひながら\n\n村から僕は歸つてきた　洋杖《ステッキ》を振りながら\n\n……ある雲は夕燒のして春の畠\n\nそれはそのまま　思ひ出のやうなひと時を　遠くに富士が見えてゐた\n\n服喪\n\n啼きながら鴉がすぎる　いま春の日の眞晝どき\n\n僕の心は喪服を着て　窓に凭れる　友よ",
+      "characters": 181,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "友よ　空に消えた鴉の聲　木の間を歩む少女らの\n\n日向に光る黒髮の　悲しや　美しや　あはれ命あるこのひと時を　僕は見る",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "牝",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "この庭の叔母さんたち　牝鷄の艦隊は樹の間を來て\n\n私の窓の下で　彼女らは砂を浴びる\n\nやがてその黄塵が　私の額に流れてくる　なるほど……と私はうなづく\n\nははあん　今年の春は　この邊から始まるな",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "牛",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "つんと澄して　新緑の樹立の向うを　電車が行く\n\n赭牛が土手に立つて　それを呼びとめる　「おおい……　おおい……\n\n俺はひとりで……　日が暮れるよう……」　だがまだ三時\n\n曳船が上つてくる　あげ潮にのつて　綿を積んだ荷船が三艘五艘",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "旅人",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "ひとたび經て　再びは來ない野中の道\n\n踏切り越えて　菜の畑　麥の畑\n\n丘の上の小學校で　鐘が鳴る\n\n鳩が飛びたつ",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "鹿",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "午前の森に　鹿が坐つてゐる\n\nその背中に　その角の影\n\n微風を間《ま》ぎつて　虻が一匹飛んでくる\n\n遙かな谿川を聽いてゐる　その耳もとに",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "土",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "蟻が\n\n蝶の羽をひいて行く\n\nああ\n\nヨットのやうだ",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "路傍",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "路にそへる\n\n小窓の中の　かはたれに\n\nけふも動ける\n\n馬の臀見ゆ",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "霽れ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "土藏の屋根に　鯉幟の尾が垂れてゐる\n\n赤煉瓦の工場の裏に　水禽が二羽まひ下りる\n\n運河の水門は閉まつたまま　海は泥を噛んでゐる\n\n――みな　意味あるさまに",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "旅舍",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 41,
+      "content": "荷馬車の宿で　馬が鼻を鳴らしてゐる\n\n戞々と　前脚で床を掻く馬よ　その音はやみ　その音はまた始まる\n\n夜の惱み　夜の莊嚴\n\n私の眠りもまた成りがたい　天井に睡る蠅を見ながら",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "間庭　二章",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 43,
+      "content": "黒蟻\n\n疾風が砂を動かす\n\n行路難行路難　蟻は立ちどまり\n\n蟻は草の根にしがみつく　疾風が蟻をころがす\n\n轉がりながら　走りながら　蟻よ　君らが鐵亞鈴に見えてくる\n\n夕燒\n\n風のふくあたりに忘れられた　草の葉と砂を盛つた小さな食器　ああ\n\nこの庭の　ここに坐つて\n\n家庭の遊戲をして遊んだ　それらの手　ちりぢりに歸つてしまつた手を思へば",
+      "characters": 168,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "それらの髮　それらの着物の匂ひもきこえるやう",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "病床",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 46,
+      "content": "灰白い雲の壁に　小鳥の群れが沈んでゆく　ああ遠い\n\n新緑の梢が搖れ　私の窓のカーテンが搖れる\n\n所在ないひと時　紙芝居の太鼓も聞える\n\n電球に私の病床が映つてゐる",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "本",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 48,
+      "content": "蝶よ　白い本\n\n蝶よ　輕い本\n\n水平線を縫ひながら\n\n砂丘の上を舞ひのぼる",
+      "characters": 37,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "蠶",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 50,
+      "content": "「あんなに青かつたのが\n\nこんなに黒くなつたでせう\n\nそうれ\n\nごらん」",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "街道",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 52,
+      "content": "鐘が鳴る　小學校が靜かになる\n\n竹藪に吹入る風　竹藪から揚羽の蝶が飛んでくる\n\n旅人が蕎麥屋に入る\n\n郵便局の前に　バスが止る",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "裾野",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 54,
+      "content": "その生涯をもて　小鳥らは\n\n一つの歌をうたひ暮す　單調に　美しく\n\n疑ふ勿れ　默《もだ》す勿れ\n\nひと日とて　與へられたこの命を――",
+      "characters": 66,
+      "ruby": []
+    }
+  ]
+}

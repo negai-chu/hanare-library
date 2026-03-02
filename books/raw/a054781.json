@@ -1,0 +1,42 @@
+{
+  "id": "a054781",
+  "title": "兵営の桜",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "兵営の桜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "兵営の桜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十月の兵営に\n\n桜が咲いた\n\nちっぽけな樹に\n\nちっぽけな花だ\n\nしかも　五つか六つだ\n\nさむそうにしながら\n\n咲いているのだ\n\nばか桜だ\n\nおれは　はらがたった",
+      "characters": 81,
+      "ruby": []
+    }
+  ]
+}

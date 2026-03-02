@@ -1,0 +1,42 @@
+{
+  "id": "a053636",
+  "title": "もみぢ",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "もみぢ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "もみぢ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "霜つききたり\n\n木ぬれをそむると\n\nおもひしものを\n\n庭にあづまやの\n\n遠見をそめ\n\nうすべにさせる\n\n魚をそめ\n\nわかるるきみの\n\nくちをそめ",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053931",
+  "title": "石碑",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "石碑",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "石碑",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あをい木　あをい草\n\n思ひ出をひめて\n\n石碑は靜もりて立てり\n\nかなしみも　よろこびも\n\nみなながら　ふくめて\n\n石碑はさびれて立てり\n\nたそがるれば\n\n思ひ出はわがむねにかへり\n\n石碑は夕日に更生れり",
+      "characters": 102,
+      "ruby": []
+    }
+  ]
+}

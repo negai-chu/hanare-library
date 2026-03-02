@@ -1,0 +1,42 @@
+{
+  "id": "a053926",
+  "title": "〔鏡に顎をつき出して〕",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔鏡に顎をつき出して〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔鏡に顎をつき出して〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "鏡に顎をつき出して\n\nぱんぱん　ぱんぱん\n\n浴槽にひとり浸つて\n\n女湯からひゞいてくる脊流の音を\n\n聞いてゐる",
+      "characters": 55,
+      "ruby": []
+    }
+  ]
+}

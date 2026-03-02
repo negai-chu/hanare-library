@@ -1,0 +1,54 @@
+{
+  "id": "a045105",
+  "title": "よい家",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "よい家",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "よい家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "イワノーイツチ\n\n窓あけた。\n\nこら　いい窓だ、\n\nいい窓だ。\n\n　トルコ煙草がおいしいぞ。\n\nイワノーイツチ\n\nテラスみた。\n\nこら　いいテラス、\n\nいいテラス。",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　朝の新聞よむとこだ。\n\nイワノーイツチ\n\n段おりた。\n\nこら　いい段だ、\n\nいい石だ。\n\n　月夜にバラライカひくんだな。\n\nイワノーイツチ\n\n鬚おやぢ、\n\nあちこち歩いて部屋もみた。",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "とんとん叩いて壁もみた。\n\nすがめで屋根のけいしやみて、\n\nこらいい家だ、いい家だ。",
+      "characters": 42,
+      "ruby": []
+    }
+  ]
+}

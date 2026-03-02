@@ -1,0 +1,42 @@
+{
+  "id": "a045541",
+  "title": "妖女の舞踏する踏切",
+  "author": "田中貢太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "妖女の舞踏する踏切",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 170,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "妖女の舞踏する踏切",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "品川駅の近くに魔の踏切と云われている踏切がある。数年前、列車がその踏切にさしかかったところで、一方の闇から一人の青年がふらふらと線路の中へ入って来た。機関手は驚いて急停車してその青年を叱りつけた。\n\n「前途のある青年が、何故そんなつまらんことをする」\n\n　すると、青年ははじめて夢から醒めたようになって、きょろきょろと四辺《あたり》を見まわしながら云った。\n\n「それが不思議ですよ、ここまで来ると、このあたり一面に美麗な花が咲いてて、何とも云えない良い匂がするのです、それにそこには（きれい）な女がたくさんいて、それが何か唄いながら踊ってたのですが、それが私の方を見て、いっしょに踊らないかと云って招くものですから、ついその気になって、ふらふらと入ったのですよ」",
+      "characters": 331,
+      "ruby": []
+    }
+  ]
+}

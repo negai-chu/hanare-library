@@ -1,0 +1,48 @@
+{
+  "id": "a055493",
+  "title": "無題",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "無題",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 136,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "無題",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "幾日《いくひ》幾夜《いくよ》の　熱病の後《のち》なる\n\n濠端のあさあけを讃ふ。\n\n琥珀の雲　溶けて蒼空《あをぞら》に流れ、\n\n覚めやらで水を眺むる柳の一列《ひとつら》あり。\n\nもやひたるボートの　赤き三角旗《ばた》は\n\n密閉せる閨房の扉《と》をあけはなち、\n\n暁の冷気をよろこび甜むる男の舌なり。\n\n朝なれば風は起《た》ちて　雲母《きらら》めく濠の面《おもて》をわたり、\n\n通学する十三歳の女学生の",
+      "characters": 199,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "白き靴下とスカートのあはひなる\n\nひかがみの青き血管に接吻す。\n\n朝なれば風は起ちて　湿りたる柳の葉末をなぶり、\n\n花を捧げて足速《ばや》に木橋《きばし》をよぎる\n\n反身《そりみ》なる若き女の裳《もすそ》を反《かへ》す。\n\nその白足袋の　快き哄笑を聴きしか。\n\nああ　夥しき欲情は空にあり。\n\nわが肉身《み》は　卵殻の如く　完《まつた》く且つ脆《もろ》くして、\n\n陽光はほの朱《あか》く　身うちに射《さ》し入るなり。",
+      "characters": 208,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,2519 @@
+{
+  "id": "a049167",
+  "title": "雨情民謡百篇",
+  "author": "野口雨情",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 272
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "序",
+        "startPage": 2,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-2",
+        "title": "紅殻とんぼ",
+        "startPage": 4,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-3",
+        "title": "橋の上",
+        "startPage": 6,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-4",
+        "title": "捨てた葱",
+        "startPage": 8,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-5",
+        "title": "二十三夜",
+        "startPage": 10,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-6",
+        "title": "門司にて",
+        "startPage": 12,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-7",
+        "title": "竹藪",
+        "startPage": 15,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-8",
+        "title": "よいとまけの唄（掛合唄）",
+        "startPage": 17,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-9",
+        "title": "夜あけ星",
+        "startPage": 20,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-10",
+        "title": "眼子菜",
+        "startPage": 22,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-11",
+        "title": "朝霧",
+        "startPage": 24,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-12",
+        "title": "青いすすき",
+        "startPage": 26,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-13",
+        "title": "粉屋念仏",
+        "startPage": 28,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-14",
+        "title": "波浮の港",
+        "startPage": 31,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-15",
+        "title": "海の遠く",
+        "startPage": 34,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-16",
+        "title": "洪水の跡",
+        "startPage": 36,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-17",
+        "title": "謎",
+        "startPage": 38,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-18",
+        "title": "はぐれ烏",
+        "startPage": 40,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-19",
+        "title": "窓",
+        "startPage": 43,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-20",
+        "title": "日永",
+        "startPage": 46,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-21",
+        "title": "お茶師",
+        "startPage": 48,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-22",
+        "title": "大洗沖",
+        "startPage": 50,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-23",
+        "title": "草刈り娘",
+        "startPage": 52,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-24",
+        "title": "金雀枝",
+        "startPage": 55,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-25",
+        "title": "風の音",
+        "startPage": 57,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-25-section-1",
+            "number": "一",
+            "startPage": 58,
+            "endPage": 58
+          },
+          {
+            "id": "chapter-25-section-2",
+            "number": "二",
+            "startPage": 59,
+            "endPage": 59
+          },
+          {
+            "id": "chapter-25-section-3",
+            "number": "三",
+            "startPage": 60,
+            "endPage": 60
+          },
+          {
+            "id": "chapter-25-section-4",
+            "number": "四",
+            "startPage": 61,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-26",
+        "title": "畑ン中",
+        "startPage": 62,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-27",
+        "title": "道楽薬師",
+        "startPage": 66,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-28",
+        "title": "蚊喰鳥",
+        "startPage": 69,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-29",
+        "title": "また来よつばめ",
+        "startPage": 72,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-30",
+        "title": "千代の松原",
+        "startPage": 75,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-31",
+        "title": "背戸山",
+        "startPage": 78,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-32",
+        "title": "飛騨にて",
+        "startPage": 80,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-33",
+        "title": "米山小唄",
+        "startPage": 82,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-34",
+        "title": "旅の身ぢやとて",
+        "startPage": 85,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-35",
+        "title": "小諸小唄",
+        "startPage": 88,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-36",
+        "title": "出船",
+        "startPage": 90,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-37",
+        "title": "浪枕",
+        "startPage": 92,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-38",
+        "title": "川しぶき",
+        "startPage": 94,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-39",
+        "title": "芙蓉の花",
+        "startPage": 97,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-40",
+        "title": "いとどの虫",
+        "startPage": 100,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-41",
+        "title": "千羽烏",
+        "startPage": 102,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-42",
+        "title": "薔薇の花さへ",
+        "startPage": 104,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-42-section-1",
+            "number": "一",
+            "startPage": 105,
+            "endPage": 105
+          },
+          {
+            "id": "chapter-42-section-2",
+            "number": "二",
+            "startPage": 106,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-43",
+        "title": "わたしや黒猫",
+        "startPage": 108,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-43-section-1",
+            "number": "一",
+            "startPage": 109,
+            "endPage": 109
+          },
+          {
+            "id": "chapter-43-section-2",
+            "number": "二",
+            "startPage": 110,
+            "endPage": 110
+          },
+          {
+            "id": "chapter-43-section-3",
+            "number": "三",
+            "startPage": 111,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-44",
+        "title": "同じ国なら",
+        "startPage": 113,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-45",
+        "title": "暴風の夜",
+        "startPage": 115,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-46",
+        "title": "但馬山国",
+        "startPage": 118,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-47",
+        "title": "春降る雪",
+        "startPage": 120,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-48",
+        "title": "伊那の龍丘",
+        "startPage": 122,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-49",
+        "title": "霧ヶ岳から",
+        "startPage": 125,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-50",
+        "title": "かなしい海",
+        "startPage": 128,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-51",
+        "title": "茄子畑",
+        "startPage": 131,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-52",
+        "title": "運動踊り（四季の歌）",
+        "startPage": 133,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-52-section-1",
+            "number": "春",
+            "startPage": 134,
+            "endPage": 133
+          },
+          {
+            "id": "chapter-52-section-2",
+            "number": "夏",
+            "startPage": 134,
+            "endPage": 134
+          },
+          {
+            "id": "chapter-52-section-3",
+            "number": "秋",
+            "startPage": 135,
+            "endPage": 135
+          },
+          {
+            "id": "chapter-52-section-4",
+            "number": "冬",
+            "startPage": 136,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-53",
+        "title": "宮城野小唄",
+        "startPage": 137,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-54",
+        "title": "つばくらめ",
+        "startPage": 140,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-55",
+        "title": "お艶",
+        "startPage": 143,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-56",
+        "title": "旅の鳥",
+        "startPage": 146,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-57",
+        "title": "篠藪",
+        "startPage": 149,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-58",
+        "title": "萱の花",
+        "startPage": 152,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-59",
+        "title": "みそさざい",
+        "startPage": 155,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-60",
+        "title": "風に吹かれて",
+        "startPage": 159,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-61",
+        "title": "荒野",
+        "startPage": 162,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-62",
+        "title": "子安貝",
+        "startPage": 167,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-63",
+        "title": "一軒家",
+        "startPage": 168,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-64",
+        "title": "白露虫",
+        "startPage": 171,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-65",
+        "title": "雁",
+        "startPage": 174,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-66",
+        "title": "濡れ乙鳥",
+        "startPage": 177,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-67",
+        "title": "空飛ぶ鳥",
+        "startPage": 179,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-68",
+        "title": "枯れ山唄",
+        "startPage": 182,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-69",
+        "title": "土蔵の壁",
+        "startPage": 185,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-70",
+        "title": "儚き日",
+        "startPage": 188,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-71",
+        "title": "祇園町",
+        "startPage": 191,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-72",
+        "title": "お糸",
+        "startPage": 194,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-73",
+        "title": "霜枯れ",
+        "startPage": 197,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-74",
+        "title": "螢草",
+        "startPage": 199,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-75",
+        "title": "小室の小笹",
+        "startPage": 202,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-76",
+        "title": "芒の葉",
+        "startPage": 204,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-77",
+        "title": "恋の日",
+        "startPage": 207,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-78",
+        "title": "西瓜畑",
+        "startPage": 210,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-79",
+        "title": "旅で暮らせば",
+        "startPage": 213,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-80",
+        "title": "沙の数",
+        "startPage": 215,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-81",
+        "title": "昔の月",
+        "startPage": 217,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-82",
+        "title": "帰らぬ人",
+        "startPage": 219,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-83",
+        "title": "片恋",
+        "startPage": 221,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-84",
+        "title": "煙草の花",
+        "startPage": 224,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-85",
+        "title": "石地蔵",
+        "startPage": 226,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-86",
+        "title": "櫛",
+        "startPage": 228,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-87",
+        "title": "葛飾の夏",
+        "startPage": 230,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-88",
+        "title": "港の時雨",
+        "startPage": 233,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-89",
+        "title": "蘆枯れ唄",
+        "startPage": 235,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-90",
+        "title": "おけらの唄",
+        "startPage": 238,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-91",
+        "title": "鶫",
+        "startPage": 241,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-92",
+        "title": "錆",
+        "startPage": 243,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-93",
+        "title": "夕の月",
+        "startPage": 246,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-94",
+        "title": "スイッチヨ",
+        "startPage": 249,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-95",
+        "title": "おけら",
+        "startPage": 251,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-96",
+        "title": "女工唄",
+        "startPage": 253,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-97",
+        "title": "釜山にて",
+        "startPage": 257,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-98",
+        "title": "鼬",
+        "startPage": 259,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-99",
+        "title": "娘と劉さん",
+        "startPage": 261,
+        "endPage": 265,
+        "sections": [
+          {
+            "id": "chapter-99-section-1",
+            "number": "",
+            "startPage": 262,
+            "endPage": 261
+          },
+          {
+            "id": "chapter-99-section-2",
+            "number": "",
+            "startPage": 262,
+            "endPage": 261
+          },
+          {
+            "id": "chapter-99-section-3",
+            "number": "",
+            "startPage": 262,
+            "endPage": 265
+          }
+        ]
+      }
+    ],
+    "totalPages": 265,
+    "averageCharsPerPage": 42,
+    "chapterTitles": [
+      "序",
+      "紅殻とんぼ",
+      "橋の上",
+      "捨てた葱",
+      "二十三夜",
+      "門司にて",
+      "竹藪",
+      "よいとまけの唄（掛合唄）",
+      "夜あけ星",
+      "眼子菜",
+      "朝霧",
+      "青いすすき",
+      "粉屋念仏",
+      "波浮の港",
+      "海の遠く",
+      "洪水の跡",
+      "謎",
+      "はぐれ烏",
+      "窓",
+      "日永",
+      "お茶師",
+      "大洗沖",
+      "草刈り娘",
+      "金雀枝",
+      "風の音",
+      "畑ン中",
+      "道楽薬師",
+      "蚊喰鳥",
+      "また来よつばめ",
+      "千代の松原",
+      "背戸山",
+      "飛騨にて",
+      "米山小唄",
+      "旅の身ぢやとて",
+      "小諸小唄",
+      "出船",
+      "浪枕",
+      "川しぶき",
+      "芙蓉の花",
+      "いとどの虫",
+      "千羽烏",
+      "薔薇の花さへ",
+      "わたしや黒猫",
+      "同じ国なら",
+      "暴風の夜",
+      "但馬山国",
+      "春降る雪",
+      "伊那の龍丘",
+      "霧ヶ岳から",
+      "かなしい海",
+      "茄子畑",
+      "運動踊り（四季の歌）",
+      "宮城野小唄",
+      "つばくらめ",
+      "お艶",
+      "旅の鳥",
+      "篠藪",
+      "萱の花",
+      "みそさざい",
+      "風に吹かれて",
+      "荒野",
+      "子安貝",
+      "一軒家",
+      "白露虫",
+      "雁",
+      "濡れ乙鳥",
+      "空飛ぶ鳥",
+      "枯れ山唄",
+      "土蔵の壁",
+      "儚き日",
+      "祇園町",
+      "お糸",
+      "霜枯れ",
+      "螢草",
+      "小室の小笹",
+      "芒の葉",
+      "恋の日",
+      "西瓜畑",
+      "旅で暮らせば",
+      "沙の数",
+      "昔の月",
+      "帰らぬ人",
+      "片恋",
+      "煙草の花",
+      "石地蔵",
+      "櫛",
+      "葛飾の夏",
+      "港の時雨",
+      "蘆枯れ唄",
+      "おけらの唄",
+      "鶫",
+      "錆",
+      "夕の月",
+      "スイッチヨ",
+      "おけら",
+      "女工唄",
+      "釜山にて",
+      "鼬",
+      "娘と劉さん"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雨情民謡百篇",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "序",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　民謡は民族が有する唯一の郷土詩である。郷土詩を無視して民謡の存在はない。民謡は草土の詩人によつてうたはれる、純情芸術である。\n\n　本書は「かれくさ」（明治三十八年発行）以後の小著中より採録した作品と未発表の作品とを加へて百篇としたが必ずしも自選集の意味ではない、自分が二十数年間辿つて来た道程の記録である。\n\n　又、一二節外律によらざる作品も加へたのは思ふところがあつたからである。\n\n　　大正十三年六月\n\n著者",
+      "characters": 207,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "紅殻とんぼ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "とんぼ来るかなと\n\n　　　裏へ出て見たりや\n\nとんぼ飛んで来て\n\n　　　釣瓶《つるべ》にとまる\n\nとんぼ可愛《かはい》や\n\n　　　紅殻《べにがら》とんぼ\n\n赤い帯なぞちよんと\n\n　　　締めて来る",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "橋の上",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "橋の上から\n\n小石を投げた\n\n小石ヤ浮くかと\n\n川下見たりや\n\n小石ヤ沈んで\n\n流れてぐ",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "捨てた葱",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "葱《ねぎ》を捨てたりや\n\nしをれて枯れた\n\n捨てりや葱でも\n\nしをれて枯れる\n\nお天道《てんたう》さま見て\n\n俺《おら》泣いた",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "二十三夜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "二十三夜《や》さま\n\nまだのぼらない\n\n麦鍋ア囲爐裡《ゐろり》で\n\n泡《あぶく》立つてる\n\nとろとろ　とろりちけえ\n\n眠くなつて来た",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "門司にて",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "門司へ渡れば\n\n九州の土よ\n\n土の色さへ\n\nおぼろ月夜してる\n\n土もあかるい\n\nあかるい土よ\n\n人もあかるい\n\nあかるい顔よ\n\n遠い常陸《ひたち》は",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "わたしの故郷\n\nなぜに暗いだろ\n\n故郷の土よ\n\n暗い土でも\n\n常陸は恋し",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "竹藪",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 16,
+      "content": "背戸の竹藪で\n\n　　竹伐《き》つてゐたりや\n\n雀ヤ飛んで来て\n\n　　啼いてからまつた",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "よいとまけの唄（掛合唄）",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "音頭とり「よいとまきすりや\n\n　　　　　綱引き「この日の永さ\n\n音頭とり「たのみましたぞ\n\n　　　　　綱引き「音頭《おんどう》とりさんよ\n\n音頭とり「唄が切れたら\n\n　　　　　綱引き「唄続《つ》ぎやしやんせ\n\n音頭とり「寝てて暮らそと\n\n　　　　　綱引き「思ふちやゐぬが\n\n音頭とり「杭の長さよ",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "　　　　　綱引き「お天道《てんたう》さまよ\n\n音頭とり「唄で引かなきや\n\n　　　　　綱引き「どんと手に来ない",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "夜あけ星",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "夜明お星さま\n\n一つかや\n\n宵に出た星ヤ\n\nどこへいつた\n\n天さのぼつたか\n\n潜《むぐ》つたか",
+      "characters": 47,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "眼子菜",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 23,
+      "content": "蛙《かはづ》鳴くから\n\n　　沼へいつて見たりや\n\n沼にや眼子菜《ひるも》の\n\n　　　　　花盛り\n\n沼にや眼子菜の\n\n　　　　　花盛り\n\n蛙ア眼子菜の\n\n　　　蔭で鳴く",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "朝霧",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 25,
+      "content": "夜あけ千鳥ぢや\n\nあの啼くこゑは\n\n帰りなされよ\n\nお帰りなされ\n\n川の浅瀬にや\n\n朝霧立ちやる\n\n霧は浅瀬の\n\n瀬に立ちやる",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "青いすすき",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "青いすすきに\n\n螢の虫は\n\n夜の細道　夜の細道　通《かよ》て来る\n\n　細いすすきの\n\n　　　姿が可愛ネ\n\n　細い姿に\n\n　　　こがれた螢ネ\n\n夏の短い\n\n夜は明けやすい夜明頃まで　夜明頃まで　通て来る",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "粉屋念仏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "「粉屋《こなや》念仏」踊る子は\n\n帰る\n\n若い娘は\n\nまだ帰らない\n\n　スタコラサ\n\n　　スタコラサ\n\n月も夜明にや\n\n山端《やまは》へ帰る\n\n寝ぼけ月なら",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "帰らない\n\n　スタコラサ\n\n　　スタコラサ",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "波浮の港",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 32,
+      "content": "磯の鵜《う》の鳥ヤ\n\n　　日暮れに帰る\n\n波浮《はぶ》の港にや\n\n　　夕焼け小焼け\n\n明日《あす》の日和《ひより》は\n\n　　ヤレ　ホンニサ　凪《なぎ》るやら\n\n船もせかれりや\n\n　　出船の仕度\n\n島の娘達ヤ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "　　御陣家《ごぢんか》暮し\n\nなじよな心で\n\n　　ヤレ　ホンニサ　ゐるのやら",
+      "characters": 38,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "海の遠く",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 35,
+      "content": "海の遠くの離れた島で\n\nかはい小鳥がうたふ歌聞ゆ\n\n海の遠くを毎日見ても\n\n島も見えない小鳥もゐない\n\n島は見えずも小鳥はゐずも\n\nかはい小鳥がうたふ歌聞ゆ\n\n誰も知らない遠くの島で\n\nかはい小鳥がかはい歌うたふ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "洪水の跡",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "洪水の跡に\n\nコスモス咲き\n\n赤い蜻蛉《とんぼ》が\n\nとまつてゐる\n\n赤い蜻蛉よ\n\n旅人は\n\nどこまで行つた",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "謎",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "わたしや恥かし\n\n喜蔵《きざう》さんの謎が\n\n枝垂柳の謎ばかり\n\nかける\n\n解けと言《ゆ》ふたとて\n\n解かりよか　謎よ\n\nこれさ　喜蔵さん\n\nかけずにおくれ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "はぐれ烏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 41,
+      "content": "烏　啼くから\n\n出てみりやゐない\n\n　　　お母《つか》さんよ\n\nわたしや烏に\n\nだまされた\n\n　　　だまされた\n\nはぐれ烏だ\n\nだました　烏\n\n　　　お母さんよ",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "烏ア啼いても\n\nもう出ない\n\n　　　もう出ない",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "窓",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 44,
+      "content": "夜になるとお月さんは\n\n窓に来た\n\nそーツと窓から\n\n覗いてる\n\nお月さんは　しばらく\n\n来なくなつた\n\n闇夜の夜ばかり\n\n続いてる\n\n今朝《けさ》見りやお月さんは",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "ぽツと出てた\n\n有明お月さんに\n\nなつてゐる",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "日永",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 47,
+      "content": "土に物問うた\n\n畑の土に\n\n土が物言《ゆ》うた\n\n畑の土が\n\n日南《ひなた》ぼつこして\n\nゐたよと言ふた",
+      "characters": 52,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "お茶師",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 49,
+      "content": "木瓜《ぼけ》の花咲く\n\n日和《ひより》は続く\n\nお茶師《ちやし》ヤ来るのも\n\nもう間はなかろ\n\n裏の畑の\n\n茶の樹を見たりや\n\n雀アならんで\n\nとまつてる",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "大洗沖",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 51,
+      "content": "鹿島灘越しや\n\n船玉さまよ\n\nアレサ　マア\n\n大洗《おほあらひ》沖の\n\nアレサ　マア\n\n隠れ御礁《おんね》の\n\n磯が鳴る",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "草刈り娘",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 53,
+      "content": "わたしや田舎《ゐなか》の\n\n草刈り娘\n\n草は千駄《せんだん》\n\n刈らなきやならぬ\n\n　　ザツクリ　ザツクリ\n\n　　ザツクリサ\n\n草の千駄\n\n夜明の星《のんの》\n\nわたしや思はぬ",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "日とてない\n\n　　ザツクリ　ザツクリ\n\n　　ザツクリサ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "金雀枝",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 56,
+      "content": "金雀枝《えにしだ》の花咲く頃は\n\nほととぎすが啼く\n\nほととぎすが啼く\n\n故郷《ふるさと》の森の中にも\n\nもう　金雀枝の\n\n花咲く頃か\n\nほととぎすが啼く\n\nほととぎすが啼く",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "風の音",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 58,
+      "content": "一\n\n裏戸覗きやる\n\n口笛ヤ吹きやる\n\n　わたしや気が気ぢや\n\n　ゐられない\n\n逢へる身ならば\n\n逢ひにも出よが\n\n　元のわたしの\n\n　身ではない",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 59,
+      "content": "二\n\n戸縁《とぶち》叩きやる\n\n小声ぢや呼びやる\n\n　とても気が気ぢや\n\n　ゐられない\n\n空の星でも\n\n縁なきや流る\n\n　薄い縁だと\n\n　おぼしやんせ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "三\n\n石は投げしやる\n\n雨戸にやあたる\n\n　もうも気が気ぢや\n\n　ゐられない\n\nこの家《や》去れとて\n\n石投げしやるか\n\n　石に言はせに\n\n　来やしやるか",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 61,
+      "content": "四\n\n去つちやくれろと\n\n石投ぎやしない\n\n　風の音だと\n\n　思やしやれ\n\n風の音だと\n\nよく言《ゆ》ふてくれた\n\n　窓にもたれて\n\n　泣いたぞえ",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "畑ン中",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "　　　（ある農夫の歌の VARIATION）\n\n真昼間《まつぴるま》でごわせう\n\n畑ン中に、田鼠《むぐらもち》が一匹\n\n斑犬《ぶち》に掘りぞへられて\n\nイヤハヤ\n\nむんぐらむんぐら居やあした\n\n畑の土は、開闢このかた、黒いもんか\n\nどなもんか\n\n真《まこと》の所、烏に聞いて見やあすべい",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "畑ン中は、青空天上、不思議はごわすめえ\n\n喉笛鳴らした　ケー　ケー　ケー\n\n鶏《かしは》が走つた\n\nこりやまた事だと魂消《たまげ》払つて見てやあした。\n\n蜻蛉《あけづ》が一匹\n\n追つかけ廻つた、啄《つつ》くわ　啄くわ\n\nぶつ飛びあがつた、飛んだわ　飛んだわ\n\n蜻蛉は御運《ごうん》でござりあした\n\n地主様の一人娘が",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 65,
+      "content": "娘に二種《ふたいろ》何処にごわせう\n\nどどの詰りが\n\nエヘン\n\n孕み女子《をなご》になりやあした\n\n畑ン中の豆ン花何《ど》なもんだ\n\n朝つぱらから何事ぶたずに\n\nべろりと咲いてござりやあす",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "道楽薬師",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 67,
+      "content": "願ひかけました\n\n米山《よねやま》さまへ\n\n縁をつないで\n\nお呉れよとかけた\n\n末はどうでも\n\nお薬師さまよ\n\nせつぱ詰つた\n\nつないでお呉れ\n\n帯で結んでも",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "切れる縁は切れる\n\nどうせ米山も\n\nお道楽薬師\n\n切れるまでにも\n\nつないでお呉れ",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "蚊喰鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 70,
+      "content": "春も末かよ\n\n葉桜の\n\n蔭に来てゐる\n\n蚊喰鳥《かくひどり》\n\n友なつかしい\n\n今日の日も\n\n桜の蔭に\n\n暮れて行く\n\n桜の蔭の",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 71,
+      "content": "たそがれが\n\nなぜなつかしい\n\n蚊喰鳥",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "また来よつばめ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 73,
+      "content": "月日立つのは\n\n　　つばめの鳥よ\n\nはやいものだと\n\n　　　　さう思へ\n\n南風吹きや\n\n　　また来よつばめ\n\n桜咲いたら\n\n　　　　来よつばめ\n\n南風吹きや",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "　　つばめの鳥よ\n\nわしが待つぞと\n\n　　　　さう思へ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 75,
+      "content": "千代の松原",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 76,
+      "content": "千代《ちよ》の松原\n\nひよろひよろ松よ\n\nこぼれ松葉の\n\nわたしぢやほどに\n\n逢ひに来たのか\n\n泣かせに来たか\n\n逢ひに来たなら\n\n出て逢ひませうに\n\n泣けと云ふなら",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 77,
+      "content": "わしや泣きませうに\n\n唄で流して\n\n横丁を通る",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "背戸山",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 79,
+      "content": "狐ヤ背戸山さ\n\n　　　来ちやコンと啼いた\n\n背戸の松山の\n\n　　　松伐《き》つてしもと\n\n狐ヤ背戸山さ\n\n　　　来なくなつた",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "飛騨にて",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 81,
+      "content": "山にや\n\n毎日　寒い風吹くに\n\n飛騨の高山\n\n渡り鳥や\n\n渡る\n\n渡りなされよ\n\n富山の　山にや\n\n風は吹いても\n\nまだ雪ヤ降らぬ",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "米山小唄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 83,
+      "content": "思ひつめたぞ\n\n　　　米山《よねやま》さまよ\n\n生きて暮らそと\n\n　　　恋路で死のと\n\nわしの心も\n\n　　　こうなりや闇ぢや\n\nどこで照る日も\n\n　　　照る日は同じ\n\n故郷《くに》も捨てたぞ　　　この土地去るぞ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 84,
+      "content": "旅の身ぢやとて",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 85,
+      "content": "旅の身ぢやとて",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 86,
+      "content": "　　　さうぢやとて\n\n明日《あす》はわかれて\n\n　　　ゆく気かい\n\nたづねて来よとて\n\n　　　さうぢやとて\n\nこのままわかれて\n\n　　　ゆく気かい\n\n待つてて呉れとて",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 87,
+      "content": "　　　さうぢやとて\n\nどうでもわかれて\n\n　　　ゆく気かい",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "小諸小唄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 89,
+      "content": "　　□\n\n上州見おろし\n\n　　　浅間が山は\n\n胸にほのほの\n\n　　　火を燃やす\n\n　　□\n\n二つ日はない\n\n　　　浅間が山よ\n\nわしが願ひを　　　どうなさる",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 90,
+      "content": "出船",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 91,
+      "content": "　沖は時雨《しぐれ》よ\n\n　　　渚は雨よ\n\n船は出船《でぶね》か\n\n　　　みち汐か\n\n汐はみち汐\n\n　　　港の船よ\n\n時雨交《まじ》りの\n\n　　　風が吹く",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 92,
+      "content": "浪枕",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 93,
+      "content": "昨夜《ゆふべ》も君から\n\n来たたより\n\n博多小女郎《こぢよらう》は\n\n浪枕\n\nわたしも博多の\n\n浪枕\n\nゆるしてお呉れと\n\nいふたより",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "川しぶき",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 95,
+      "content": "さつさ行《ゆ》きましよ\n\n　　　あの山越えて\n\n花は咲けども\n\n　　　ふるさとの\n\n月はおぼろに\n\n　　　川しぶき\n\nさつさ行きましよ\n\n　　　あの川越えて\n\n花は散れども",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "　　　ふるさとの\n\n月はなつかし\n\n　　　川しぶき",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 97,
+      "content": "芙蓉の花",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 98,
+      "content": "芙蓉《ふよう》の花の\n\n　　　咲く頃にや\n\n芙蓉の紅い\n\n　　　花が咲く\n\n雀もお宿に\n\n　　　帰る頃にや\n\n雀のお宿も\n\n　　　日が暮れる\n\nおれもかうして",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 99,
+      "content": "　　　ゐるうちにや\n\nおれも日暮れて\n\n　　　しまふだらう",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "いとどの虫",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 101,
+      "content": "青い月夜だ\n\n　　　いとどの虫よ\n\n河原蓬《かはらよもぎ》は\n\n　　　末《うら》から枯れる\n\n青い月夜も\n\n　　　いつまで続く\n\n鳴いてくれるな\n\n　　　いとどの虫よ",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "千羽烏",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 103,
+      "content": "生れ故郷の\n\n　　　父母《ととかか》さまよ\n\n今日《けふ》もわたしは\n\n　　　糸とりながら\n\n父と云ひました\n\n　　　母と云ひました\n\n千羽烏の\n\n　　　カホカホ声よ\n\n父が恋しい　　　母なつかしい",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 104,
+      "content": "薔薇の花さへ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 105,
+      "content": "一\n\n薔薇の花さへ\n\n　　　真赤に咲くに\n\n二度と帰らぬ\n\n　　　わかれた恋よ\n\n夢か　涙か\n\n　　　流れの水か\n\nわたしや口惜《くやし》い\n\n　　　捨てたか恋よ",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 106,
+      "content": "二\n\n薔薇の花さへ\n\n　　　真赤に咲くに\n\n帰つて下さい\n\n　　　わかれた恋よ\n\n夢も　涙も\n\n　　　流れの水も\n\nわたしや口惜い\n\n　　　帰らぬ恋よ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 107,
+      "content": "三\n\n薔薇の花さへ\n\n　　　真赤に咲くに\n\n忘れられない\n\n　　　せつない恋よ\n\n夢と　涙と\n\n　　　浮世の風に\n\nわたしや口惜い\n\n　　　しぼんだ恋よ",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 108,
+      "content": "わたしや黒猫",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 109,
+      "content": "一\n\nわたしや黒猫\n\n　　　闇夜がすきよ\n\n寒いロシヤへ\n\n　　　渡ろか　行《ゆ》こか\n\n行こかロシヤの\n\n　　　雪降る国へ\n\n身まで売られた\n\n　　　わしや黒猫よ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 110,
+      "content": "二\n\n風は　吹く吹く\n\n　　　港の沖に\n\n寒いロシヤの\n\n　　　国吹く風よ\n\n行こよ明日《あした》は\n\n　　　ロシヤの国へ\n\nどうせ売られた\n\n　　　わしや黒猫よ",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 111,
+      "content": "三\n\n鳥は空飛ぶ\n\n　　　空飛ぶ鳥よ\n\nつれて行かぬか\n\n　　　ロシヤの国へ\n\nロシヤは恋しい\n\n　　　火を吐く国か\n\nたよりすくない\n\n　　　わしや黒猫よ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 112,
+      "content": "同じ国なら",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 113,
+      "content": "同じ国なら",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 114,
+      "content": "　　　故郷の人か\n\n聞いただけでも\n\n　　　なつかしう思ふ\n\n今の　今まで\n\n　　　忘れてゐたが\n\n村の娘で\n\n　　　わしやゐた頃よ\n\n思ひ出したぞ　　　涙の種を",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 115,
+      "content": "暴風の夜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 116,
+      "content": "　飲めよ　コクテール\n\nうたへよ　未来の歌を\n\n赤く爛れた\n\n二人のこころ\n\n弾こか　バラライカ\n\nロシヤの歌を\n\n空は闇夜で\n\n星さへ見えず\n\n窓を　ノツクする",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 117,
+      "content": "暴風《あらし》よ　雨よ\n\n明日《あす》の夜明が\n\nまたれてならぬ",
+      "characters": 32,
+      "ruby": []
+    },
+    {
+      "pageNumber": 118,
+      "content": "但馬山国",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 119,
+      "content": "但馬《たじま》山国《やまぐに》\n\n　　　三日月さまも\n\n山の蔭から\n\n　　　蔭へとはいる\n\n山の蔭かよ\n\n　　　三日月さまは\n\n但馬山国\n\n　　　恋の星月夜",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 120,
+      "content": "春降る雪",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 121,
+      "content": "何《な》にが　不思議だ\n\n春降る雪は　ヨー\n\n山の峰さへ\n\n一夜《いちや》で解ける\n\nわしの扱帯《しごき》も\n\n春降る雪か　ヨー\n\n伊那《いな》に来た夜に\n\n不思議に解けた",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 122,
+      "content": "伊那の龍丘",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 123,
+      "content": "伊那《いな》の龍丘《たつをか》\n\n　　　桃の花盛り\n\n春蠶《はるこ》掃きませうか\n\n　　　籠ロヂ乾そか\n\n春蠶毛子《けご》になつた\n\n　　　日和はよいし\n\n簇《まぶし》たたいて\n\n　　　桑摘み唄よ",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 124,
+      "content": "霧ヶ岳から",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 125,
+      "content": "霧ヶ岳から",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 126,
+      "content": "　　　朝立つ霧よ\n\n霧を見てさへ\n\n　　　父母《ちちはは》さまを\n\n思ひ出されて\n\n　　　どうもならぬ\n\n故郷恋しい\n\n　　　あの山蔭の\n\n霧は消えても",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 127,
+      "content": "　　　父母さまを\n\n思ひ出されて\n\n　　　どうもならぬ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 128,
+      "content": "かなしい海",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 129,
+      "content": "　ざんぶざんぶと\n\n　　　越後の海は\n\n恋の海かよ\n\n　　　海鵯《うみひよどり》よ\n\n　はなればなれに\n\n　　　波々打つな\n\n同じ海でも\n\n　　　越後の海は\n\nざんぶざんぶと",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "　　　かなしい海か\n\n　はなればなれに\n\n　　　波々打つな",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 131,
+      "content": "茄子畑",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 132,
+      "content": "茄子《なすび》ヤうれたかと\n\n畑を覗きや\n\n茄子ヤうれずに\n\nまだ花盛り\n\nひよいと茄子の\n\n木の下見たりや\n\n蟻の行列ア\n\n続いてる",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 133,
+      "content": "運動踊り（四季の歌）",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 134,
+      "content": "春\n\n春の花かよ\n\n　　　桜の花は\n\n春の花だよ\n\n　　　あの花は\n\n　チヤチヤラチヤ　ヤツトサ\n\n夏\n\n夏の空かよ\n\n　　　夕立雲は",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 135,
+      "content": "夏の空だよ\n\n　　　あの雲は\n\n　チヤチヤラチヤ　ヤツトサ\n\n秋\n\n秋の月かよ\n\n　　　尾花の上に\n\n秋の月だよ\n\n　　　あの月は\n\n　チヤチヤラチヤ　ヤツトサ",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 136,
+      "content": "冬\n\n冬の風かよ\n\n　　　山吹く風は\n\n冬の風だよ\n\n　　　あの風は\n\n　チヤチヤラチヤ　ヤツトサ",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 137,
+      "content": "宮城野小唄",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 138,
+      "content": "　　□\n\nさんさ時雨《しぐれ》は\n\n夜来ちや\n\n降りやる\n\n萱《かや》の枯れ穂に来ちや\n\n降りやる\n\n　　□\n\n塩の塩釜《しほがま》\n\n石の釜",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 139,
+      "content": "欲しや\n\n鉄の錆釜ぢや\n\n塩アたけぬ",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 140,
+      "content": "つばくらめ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 141,
+      "content": "浜町《はまちやう》へ　来て幾年になるだらう\n\n物干台の\n\nつばくらめ\n\nお前も旅の鳥だわネ\n\n昨日《きのふ》までなにも云はずにゐたけれど\n\nわたしも旅の\n\n鳥なのヨ\n\nもうわたしや遠いところへ\n\nゆくんだよ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 142,
+      "content": "物干台の\n\nつばくらめ\n\n今日《けふ》はわかれだ\n\n泣かないか",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 143,
+      "content": "お艶",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 144,
+      "content": "お艶《つや》が風呂にはいつてゐると\n\n若い男が\n\nだましに来た\n\n小さい声でだましてゐる\n\nお艶がざぶり湯をかけてやると\n\n男はうろうろしてゐたが\n\n裏から\n\nすーつと逃げて行つた\n\n馬は厩《うまや》で",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 145,
+      "content": "馬堰棒《ませんぼ》を\n\nがらんがらんと鳴らしてゐる\n\n天の川は北から西へ流れてゐた",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 146,
+      "content": "旅の鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 147,
+      "content": "山に春雨\n\n　　　野に茅花《つばな》\n\n花のかげかは\n\n　　　つばくらめ\n\n去年常陸《ひたち》の\n\n　　　ふるさとの\n\n山に来もした\n\n　　　つばくらめ\n\n雨は降れども",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 148,
+      "content": "　　　つばくらは\n\n花に寝もせぬ\n\n　　　旅の鳥\n\n野にも山にも\n\n　　　春の日の\n\n雨は糸より\n\n　　　細く降る",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 149,
+      "content": "篠藪",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 150,
+      "content": "蝸牛《ででむし》よ\n\n黙り腐つた\n\n蝸牛よ\n\n渦を巻いてる蝸牛よ\n\n何が恋しい\n\n篠藪に\n\nさらさら　さらと　雨が降る\n\n夢現《ゆめうつつ》に\n\n己《おれ》は暮した",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 151,
+      "content": "蝸牛よ\n\n己に悲しいコスモスの\n\n花と花とに雨が降る\n\nもう己の\n\n家は最終《をはり》だ\n\n蝸牛よ\n\n田もいらぬ\n\n畑もいらぬ\n\n篠藪にさらさら　さらと　雨が降る",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 152,
+      "content": "萱の花",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 153,
+      "content": "誰に見せうとて\n\n　　　髪結ふた\n\n西の山には\n\n　　　萱《かや》の花\n\n誰に解かそと\n\n　　　帯締めた\n\n東の山にも\n\n　　　萱の花\n\n萱の枯れ葉に",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 154,
+      "content": "　　　だまされた\n\nお綱さまはと\n\n　　　懸巣啼く",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 155,
+      "content": "みそさざい",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 156,
+      "content": "わたしの姉《ねえ》さん\n\n　　　　　篠藪で\n\nさつさ　お背戸の\n\n　　　　　鷦鷯《みそさざい》\n\n誰にも言はずに\n\n　　　　　ゐてお呉れ\n\n去年の暮にも\n\n　　　　　篠藪で\n\nさつさ　お背戸の",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "　　　　　鷦鷯\n\n誰にも言はずに\n\n　　　　　ゐてお呉れ",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 158,
+      "content": "風に吹かれて",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 159,
+      "content": "風に吹かれて",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 160,
+      "content": "　　　そよそよと\n\n山の枯葉は\n\n　　　皆落ちた\n\n木曾に木榧《きがや》の\n\n　　　実はうれる\n\nかへれ信濃の\n\n　　　旅烏\n\n茶の樹畑の",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 161,
+      "content": "　　　豆食べた\n\n鳩は畑の\n\n　　　どこで啼く",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 162,
+      "content": "荒野",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 163,
+      "content": "　花と云ふ花は咲けども\n\n妻と云ふ\n\n花は咲かない\n\nおお　淋し\n\n荒野《あれの》の果てに\n\n咲く花は\n\n妻と云はりヨか\n\nおお　淋し\n\n風に吹かれて飛ぶ雲は",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 164,
+      "content": "荒野の　果ての　野の　果ての\n\nわたしに　何《な》んで\n\n恋しかろ",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 165,
+      "content": "子安貝",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 166,
+      "content": "渚の　渚の\n\n子安貝\n\n波　どんど\n\n波　どんど\n\n子安貝\n\n今日《けふ》から　ふたりで\n\n暮しませう\n\nお前も\n\nわたしも",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "子安貝",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 168,
+      "content": "一軒家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 169,
+      "content": "　姉は　男に\n\nだまされた\n\n野中《のなか》の一軒家の\n\nきりぎりす\n\n機場《はたば》に売られた\n\n妹は\n\nとんがらがん　とんがらがん\n\n暮してる\n\n姉は　男に",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 170,
+      "content": "だまされた\n\n野中の一軒家の\n\nきりぎりす\n\n青い芒《すすき》に\n\n降る雨は\n\nちんちりりん　ちんちりりん\n\n降りました",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 171,
+      "content": "白露虫",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 172,
+      "content": "かげろふの\n\nあしたはまたぬ命だと\n\nたよりは来たが\n\nどうしよう\n\nひとつにはまたひとつには\n\nかすかに白き\n\n花でせう\n\nしよんぼりとまたひとつには\n\nさびしく咲いた",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "花でせう\n\nかなしくもまたふたつには\n\n涙に咲いた\n\n花でせう\n\nかげろふの\n\n糸より細き命だと\n\nたよりは来たが\n\nどうしよう",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 174,
+      "content": "雁",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 175,
+      "content": "今朝《けさ》も　南へ\n\n下総《しもふさ》の\n\n雁《かり》が啼き啼きたちました\n\nさらば　さらばと\n\n下総の\n\n風の吹くのにたちました\n\n親と別れた\n\n故郷《ふるさと》の\n\n空を見てゐた雁でせう",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 176,
+      "content": "旅の身ゆゑに\n\n下総の\n\n風の吹くのにたちました",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 177,
+      "content": "濡れ乙鳥",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 178,
+      "content": "逢ひはせぬかよ\n\n十六島で\n\n潮来《いたこ》出島の\n\nぬれ乙鳥《つばくら》に\n\n潮来出島の\n\nぬれ乙鳥は\n\nいつも春来て\n\n秋帰る",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 179,
+      "content": "空飛ぶ鳥",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 180,
+      "content": "赤いはお寺の\n\n百日紅《ひやくじつこう》\n\n白いは畑の\n\n蕎麦《そば》の花\n\n空飛ぶ鳥ゆゑ\n\n巣が恋し\n\n別れた子ゆゑに\n\n子が恋し\n\n木瓜《ぼけ》の花咲く",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 181,
+      "content": "ふるさとの\n\n国へ帰れば\n\n皆恋し",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 182,
+      "content": "枯れ山唄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 183,
+      "content": "潮来《いたこ》出島の\n\n五月雨《さみだれ》は\n\nいつの夜の間に\n\n降るのだろ\n\n枯れて呉れろと\n\n枯れ山の\n\n風は幾日\n\n吹いただろ\n\n常陸《ひたち》鹿島の",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 184,
+      "content": "神山《かみやま》に\n\n己《おれ》が涙の\n\n雨が降れ",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "土蔵の壁",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 186,
+      "content": "わたしの胸の\n\n恋の火は\n\nいつになつたら\n\n消えるだろ\n\n竈《かまど》の土は\n\n樺色《かばいろ》の\n\n焔に燃えてをりました\n\n君はたしかに\n\n夕暮の",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 187,
+      "content": "野に咲く花の\n\n露でした\n\n土蔵の壁に\n\n相合《あひあひ》の\n\n傘にかかれてありました",
+      "characters": 43,
+      "ruby": []
+    },
+    {
+      "pageNumber": 188,
+      "content": "儚き日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 189,
+      "content": "君のたよりの\n\n来た日から\n\nかなしい噂がたちました\n\n水に流して呉れろとは\n\n夢と思への\n\n謎か知ら\n\n走り書きだが\n\n仮名文字《かなもじ》で\n\n「涙」と記してありました",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 190,
+      "content": "水に流して呉れろとは\n\n熱い涙の\n\nことか知ら",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 191,
+      "content": "祇園町",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 192,
+      "content": "友禅の　赤く燃えたつ\n\n祇園町《ぎをんまち》\n\n銀の糸の\n\n雨は斜《ななめ》に降りしきる\n\n渋色の　蛇の目の傘に\n\n降る雨も\n\n上に下にと降りしきる\n\n鴨川の　河原に啼いた\n\n河千鳥",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 193,
+      "content": "君と別れた路次口に\n\n雨はしきりと降りしきる",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 194,
+      "content": "お糸",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 195,
+      "content": "雑木林の\n\n啄木鳥《たくぼくてう》は\n\n杉の枯れ木を\n\n啄《つつ》いて啼いた\n\n杉の枯れ木を\n\n啄木鳥は\n\n無性《むしやう》　やたらに\n\n啄いて啼いた\n\n掛けた襷の",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 196,
+      "content": "解けたも知らず\n\n涙うかべて\n\nお糸は見てた",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 197,
+      "content": "霜枯れ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 198,
+      "content": "裏の田甫《たんぼ》で\n\n鴫《しぎ》がゆふべ啼いた\n\nささげ畑の　暴風《あらし》の晩も\n\n君は忍んで　逢ひに来て\n\n呉れた\n\n裏の田甫で\n\n鴫がゆふべ啼いた\n\n鴫も田甫も霜枯れだけど\n\n君は今夜《こよひ》も　逢ひに来て呉れよう",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 199,
+      "content": "螢草",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 200,
+      "content": "垣根の外に\n\n来ては泣く\n\n故郷《ふるさと》の\n\n恋しい唄に聞きほれて\n\n垣根の外に\n\n来ては泣く\n\n下野《しもつけ》の　機場《はたば》に\n\nしぼむ螢草《ほたるぐさ》\n\n垣根の外に",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 201,
+      "content": "故郷の\n\n恋しい唄を\n\n聞いて泣く",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 202,
+      "content": "小室の小笹",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 203,
+      "content": "裏戸覗いて　裏から\n\n帰る\n\n紺の前掛　麻裏《あさうら》草履\n\nあなた一人に\n\n情《じやう》立てましよと\n\n泣いて別れた　小室《こむろ》の\n\n小笹《こざさ》\n\n裏戸覗いて　裏から\n\n帰る紺の前掛　麻裏草履",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 204,
+      "content": "芒の葉",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 205,
+      "content": "「死なば共だ」と\n\n新吉《しんきち》さんは\n\n裏の　お玉坊と\n\n畑で泣いた\n\nウンニヤ　新吉さんは\n\n小指の先を\n\n細い芒《すすき》の\n\n葉で切りました\n\n裏の　お玉坊も",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 206,
+      "content": "泣き泣き指を\n\n共に芒の\n\n葉で切りました",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 207,
+      "content": "恋の日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 208,
+      "content": "春の名残《なごり》の\n\n暮るる日に\n\n紅き花さへ\n\n惜《をし》みたり\n\n夕べ　畑で\n\n恋人を\n\n待ちしも\n\n今は昔なり\n\n夏のをはりに",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 209,
+      "content": "露草《つゆぐさ》の\n\n白き花さへ\n\n惜みたり\n\n河原の岸で\n\n恋人と\n\n泣きしも\n\n今は昔なり",
+      "characters": 47,
+      "ruby": []
+    },
+    {
+      "pageNumber": 210,
+      "content": "西瓜畑",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 211,
+      "content": "西瓜畑《すゐくわばたけ》さ\n\nお月さま出てる\n\nそろりそろりと\n\nお月さま出てる\n\n土をたたいたら\n\nどしんこ響いた\n\n姉も妹《いもと》も\n\nおさらば　さらば",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 212,
+      "content": "旅で暮らせば",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 213,
+      "content": "旅で暮らせば",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 214,
+      "content": "茅野《かやの》の\n\n雨も\n\nさらり　さらりと\n\n身にしみる\n\nさらり　さらりと\n\n茅野の\n\n雨は\n\nさらり　さらりと　身にしみる",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 215,
+      "content": "沙の数",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 216,
+      "content": "潮がれ浜で聞く唄は\n\nみんな悲しい\n\n唄ばかり\n\n沙の数ほどかぞへても\n\n別れた人は\n\n帰らない\n\n涙ぐましくなつて来て\n\n泣かずに　泣かずに\n\nゐられよか",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 217,
+      "content": "昔の月",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 218,
+      "content": "お前と逢うた\n\n武蔵野に\n\n青い　昔の　月が出た\n\nお前も　見たろ\n\n武蔵野の\n\n畑の中に家が建つ\n\n畑の　中の　夕雲雀《ゆふひばり》\n\nもう　おれは\n\n故郷《くに》へ帰るぞよ",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 219,
+      "content": "帰らぬ人",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 220,
+      "content": "川の向うで\n\n水鶏《くひな》が　啼いた\n\n　　帰りやんせ\n\n　　帰りやんせ\n\n月も　おぼろに\n\n河原さ出てる\n\n　　帰りやんせ\n\n　　帰りやんせ\n\nきつと忘れてゐるんだよ",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 221,
+      "content": "片恋",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 222,
+      "content": "恋しくて\n\n裏へ出て見りや\n\n青い空\n\nはかない\n\nわたしの\n\n片恋《かたこひ》よ\n\nはかない\n\nわたしに\n\n何故《なぜ》したの",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 223,
+      "content": "荒海《あらうみ》のやうな\n\nこころに\n\n何故したの",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 224,
+      "content": "煙草の花",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 225,
+      "content": "お蔦《つた》嫁さま\n\n煙草《たばこ》の花は\n\n元の男の　畑に咲いた\n\nお蔦嫁さま\n\nもう　諦めた\n\n何にも縁だと　もう諦めた\n\n切れた障子の\n\n穴から見たら\n\n後向きして糸繰りしてる",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 226,
+      "content": "石地蔵",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 227,
+      "content": "学校先生よ\n\n　　石地蔵さまも\n\n赤い涎掛《よだれかけ》\n\n　　かけてゐる\n\n烏ア欲しくて\n\n　　涎掛見てる\n\n学校先生よ\n\n　　何《な》じよにしぺ",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 228,
+      "content": "櫛",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 229,
+      "content": "裏の川端の\n\nさらさら蓬《よもぎ》\n\n思ひ返して\n\nみる気はないか\n\n今朝《けさ》も　裏戸に\n\n櫛が落ちてゐた\n\n通つて来たのか\n\n可哀想なものだ",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 230,
+      "content": "葛飾の夏",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 231,
+      "content": "卯の花が散る\n\n時鳥《ほととぎす》が啼く\n\n沼の中に\n\n菖蒲《あやめ》の花も咲いてゐる\n\n沼の中の\n\n菖蒲の花よ\n\n葛飾に\n\n今二月《ふたつき》もゐたかつた\n\n家も屋敷もない　己《おれ》は",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 232,
+      "content": "去年の夏は東京に\n\n今年の今は葛飾に\n\nわかれねばならぬ時が来た\n\nこの住み馴れた\n\n葛飾の\n\n菖蒲の花よ\n\nまた逢はう",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 233,
+      "content": "港の時雨",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 234,
+      "content": "蛇の目傘《からかさ》に\n\n時雨《しぐれ》が降るに\n\n月日かぞへて\n\n港を見てる\n\n待つはつらかろ\n\n待たるる身より\n\n伏木港《ふしきみなと》の\n\n船頭さん達《だち》よ",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 235,
+      "content": "蘆枯れ唄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 236,
+      "content": "蘆が枯れたら\n\nどこで逢ひませう\n\n前の河原は\n\n石まで枯れるし\n\n蘆が枯れたら\n\nどこで逢ひませう\n\n裏の畑は\n\n土まで枯れるし\n\n蘆が枯れたら",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 237,
+      "content": "どこで逢ひませう\n\n蘆の枯れ葉の\n\n蔭で逢ひませう",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 238,
+      "content": "おけらの唄",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 239,
+      "content": "おけらの唄の\n\nさびしさに\n\n窓にもたれて\n\nすすり泣く\n\nまぼろし草《さう》も\n\nコスモスも\n\n花は昔の\n\nままで咲く\n\nおけらの唄の",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 240,
+      "content": "さびしさに\n\n畳の上に\n\n伏して泣く",
+      "characters": 18,
+      "ruby": []
+    },
+    {
+      "pageNumber": 241,
+      "content": "鶫",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 242,
+      "content": "今日も鶫《つぐみ》が\n\n丘に来て啼いた\n\nおれも泣きたい　鶫の鳥よ\n\n空は乳色に\n\nまた日が暮れる\n\n死んで別れた\n\n人ではないし\n\n忘れようとて　忘らりよか",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 243,
+      "content": "錆",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 244,
+      "content": "窓の格子によりかかり\n\n「いつまた来るの」と\n\n泣く女\n\n錆た庖丁の　かなしくも\n\n「はかない身だよ」と\n\nさうか知ら\n\nただ明易い　夏の夜の\n\n街はあかるい\n\n青すだれ",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 245,
+      "content": "磨《と》いでも磨いでも　庖丁の\n\n錆は磨いでも\n\nさうか知ら",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 246,
+      "content": "夕の月",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 247,
+      "content": "お仲姉《なかあね》さま\n\n畑の中で\n\nしやなりしやなりと\n\n麦踏みしてる\n\n雁《かり》は帰るし\n\n夕《ゆふべ》の月は\n\n林（くぬぎばやし）の上から\n\n出てる\n\nつまらないよと",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 248,
+      "content": "涙で言《ゆ》ふた\n\nお仲姉さま\n\n丸顔だつけ",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 249,
+      "content": "スイッチヨ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 250,
+      "content": "スイッチヨスイッチヨと\n\n大阪の\n\n街のはずれで鳴くスイッチヨ\n\n姉は筑紫の\n\n長崎へ\n\n妹《いもと》も筑紫の\n\n長崎へ\n\nスイッチヨスイッチヨと\n\n蔦の葉の上にとまつて鳴くスイッチヨ",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 251,
+      "content": "おけら",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 252,
+      "content": "左官が　左官が\n\n蔵建てた\n\nおけらが三匹\n\n出て鳴いた\n\n大工が　大工が\n\n家建てた\n\nお月さん　ぽかんと\n\n眺めてる",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 253,
+      "content": "女工唄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 254,
+      "content": "雨の降る日は\n\n雨だれ\n\n小だれ\n\n何《な》にも恋しくないが\n\n公休日が恋し\n\n空の弁当箱\n\n雨だれ\n\n小だれ\n\n腹の減るたび",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 255,
+      "content": "故郷《くに》の親思ふ\n\nいやな監督さんだ\n\n雨だれ\n\n小だれ\n\n何にも恋しくないが\n\n公休日が恋し\n\nかかれかかれと\n\nモータが廻る\n\nなにもかかりませうか",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 256,
+      "content": "雨だれ\n\n小だれ",
+      "characters": 8,
+      "ruby": []
+    },
+    {
+      "pageNumber": 257,
+      "content": "釜山にて",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 258,
+      "content": "牧《まき》の島から\n\n　　対馬《つしま》が見ゆる\n\n最早対馬も\n\n　　春だろに\n\n海にや海霧\n\n　　朝から立ちやる\n\n対馬見るなの\n\n　　霧ぢややら",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 259,
+      "content": "鼬",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 260,
+      "content": "鼬《いたち》ア騒ぐから\n\n背戸へ出て見たりや\n\n烏ア河原で\n\n水浴びしてた\n\n山の頂上にや\n\n薄雲かかる\n\n今夜　山から\n\n雨ア降るか",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 261,
+      "content": "娘と劉さん",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 262,
+      "content": "　　　　　娘\n\n劉《リウ》さん\n\n赤ん坊《ぼ》が生れたならばどうしませう\n\n何処《どこ》へたのんで育てませう\n\n　　　　　劉\n\nワタシ　ワカラナイ　アナタ　スル　ヨロシー\n\n　　　　　娘\n\n横浜の叔母さん所《とこ》へ遣りませう\n\n新しい一身《ひとつみ》の一《ひとつ》も着せて遣りませう",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 263,
+      "content": "　　　　　娘\n\n叔母さんに断られたらどうしませう\n\n　　　　　劉\n\nワタシ　クニ　トホイ　ワカリマセン\n\n　　　　　娘\n\n悲しいけれど捨てませう\n\n顔の見えない闇の晩\n\nミルクの管を哺《くく》ませて――公園のベンチの上に捨てませう\n\n　　　　　娘",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 264,
+      "content": "お月夜の晩であつたらどうしませう\n\nお月夜が続いて居たらどうしませう\n\n育てませうか捨てましよか\n\n　　　　　劉\n\nワタシ　ニホン　タツ　アナタ　タノム\n\n　　　　　娘\n\n薄情な　薄情な　劉さん\n\n思ひ切つて――悲しいけれど捨てませう\n\nベンチの上に青青と月がさしたら泣くでせう",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 265,
+      "content": "わたしの顔をきつと眺めて泣くでせう\n\n劉さん\n\n劉さん\n\nその時のわたしの心はどんなでせう",
+      "characters": 45,
+      "ruby": []
+    }
+  ]
+}

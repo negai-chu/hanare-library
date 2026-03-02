@@ -1,0 +1,54 @@
+{
+  "id": "a053800",
+  "title": "一枝について",
+  "author": "金鍾漢",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "一枝について",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "一枝について",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "年おいた山梨の木に　年おいた園丁は\n\n林檎の嫩枝《わかえだ》を接木《つぎき》した\n\n研ぎすまされたナイフををいて\n\nうそさむい　瑠璃色の空に紫煙《けむり》を流した\n\nそんなことが　出来るのでせうか\n\nやをら　園丁の妻は首をかしげた\n\nやがて　躑躅が売笑した\n\nやがて　柳が淫蕩した\n\n年おいた山梨の木にも　申訳のやうに",
+      "characters": 159,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "二輪半の林檎が咲いた\n\nそんなことも　出来るのですね\n\n園丁の妻も　はじめて笑つた\n\nそして　柳は失恋した\n\nそして　躑躅は老いぼれた\n\n私が死んでしまつた頃には\n\n年おいた　園丁は考へた\n\nこの枝にも　林檎が実《な》るだらう\n\nそして　私が忘られる頃には",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "なるほど　園丁は死んでしまつた\n\nなるほど　園丁は忘られてしまつた\n\n年おいた山梨の木には　思出のやうに\n\n林檎のほつぺたが　たわわに光つた\n\nそんなことも　出来るのですね\n\n園丁の妻も　いまは亡《な》かつた",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

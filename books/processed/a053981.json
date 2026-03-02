@@ -1,0 +1,54 @@
+{
+  "id": "a053981",
+  "title": "青い服の列",
+  "author": "西村陽吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "青い服の列",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "青い服の列",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　青い服の長い列、\n\nみんな揃って青い服、\n\nひょろひょろとした、\n\nせいのひくい、\n\n営養不良の、\n\n顔まで青い長い列。\n\nみんな同じようなゲートルをまいて、\n\n手に手に日の丸の小旗をもって、\n\n生徒のような帽子をかぶって、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "どれもこれも、\n\n鉱毒と過労にひきつったような顔。\n\n時間にして一時間以上、\n\n長さにして一里以上、\n\n数にして一万以上、\n\n砲兵工廠から二重橋まで\n\nうねうねと蟻の列のように。\n\nそれがみんな人間だ、\n\nしかも髯をはやした立派な人間だ。",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "青い服を着た職工――\n\n人間の器械だ。\n\n花の日の酔うような街中を、\n\n小旗をふりながら謳ってゆく、\n\nなんと言って謳ってゆく、\n\n見たことも、嘗めたこともない、\n\n「黒酒《くろき》白酒《しろき》をとりもちて――」……。\n\n（花の日所見）\n（『生活と芸術』一九一五年十二月号に発表）",
+      "characters": 141,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055925",
+  "title": "（ダツク　ドツク　ダクン）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（ダツク　ドツク　ダクン）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（ダツク　ドツク　ダクン）",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ダツク　ドツク　ダクン\n\nチエン　ダン　デン\n\nピー　……\n\nフー　……\n\nボドー……\n\n弁当箱がぬくもる\n\n工場の正午は\n\n鉄の尖端で光が眠る",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

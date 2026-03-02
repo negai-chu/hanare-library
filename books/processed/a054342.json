@@ -1,0 +1,54 @@
+{
+  "id": "a054342",
+  "title": "はめつ",
+  "author": "渡久山水鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "はめつ",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "はめつ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　銅色《あかがね》の工夫等は\n\n「くわつと」輝く夏の日を\n\n背中にうけつ十数人\n\nえいや声してほそ長な\n\n轆轤《ろくろ》にかけし石砕器\n\n高くおとせば、水煙――\n\n四方に雨ふり――魚死せり。\n\n見よまたかなた住吉の\n\n岩にひそます、恐ろしき、",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ダイナマイトの導源に\n\n妖《えう》の火つとふ荒男――\n\n見る、見る、岩は砕かれて\n\n自然の富もほろびゆく。\n\nいざひとめぐりやすまんと\n\n木蔭に集《つど》ひ仰向きに\n\n身を横たふる荒男ども。\n\n滅びゆきたる数々に\n\n代ふべき石にいたづらに",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "入江に高く堆《うづ》かれて\n\n人は夕にあこがれぬ。",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

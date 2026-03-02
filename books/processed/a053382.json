@@ -1,0 +1,60 @@
+{
+  "id": "a053382",
+  "title": "月天讃歌（擬古調）",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月天讃歌（擬古調）",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月天讃歌（擬古調）",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　兜の尾根のうしろより\n\n月天ちらとのぞきたまへり\n\n月天子ほのかにのぞみたまへども\n\n野の雪いまだ暮れやらず\n\nしばし山はにたゆたひおはす\n\n決然として月天子\n\n山をいでたち給ひつゝ\n\nその横雲の黒雲の\n\nさだめの席に入りませりけり",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "月天子まことはいまだ出でまさず\n\nそはみひかりの異りて\n\n赤きといとど歪みませると\n\n月天子み丈のなかば黒雲に\n\nうづもれまして笑み給ひけり\n\nなめげにも人々高くもの云ひつゝ\n\nことなく仰ぎまつりし故\n\n月天子また山に入ります\n\n　　　兜の尾根のうしろより",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　　　さも月天子\n\n　　　ふたゝびのぞみ出でたまふなり\n\n月天子こたびはそらをうちすぐる\n\n氷雲のひらに座しまして\n\n無生を観じたまふさまなり\n\n月天子氷雲を深く入りませど\n\n空華は青く降りしきりけり\n\n月天子すでに氷雲を出でまして\n\n雲あたふたとはせ去れば",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "いまは怨親平等の\n\nひかりを野にぞながしたまへり",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

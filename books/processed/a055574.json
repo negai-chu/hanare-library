@@ -1,0 +1,54 @@
+{
+  "id": "a055574",
+  "title": "父母達の家",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "父母達の家",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "父母達の家",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　住み古した父母達の家に\n\n父母達の顔にきざんだ皺をかぞえることなく\n\n老いたる父母達の苦難な生活の有様を覗《うかが》い見ることなく\n\n俺の健康な顔を見せ\n\nガッシリとしてきた手を差《さし》のべることなく\n\n街の中に\n\n幾百万の人民の中の一人となり\n\n父母達の家を\n\n数々の家々とひとしく見過して",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "立去るおもい、\n\n逢わねば心細くもあり\n\n語らねば物がなしくもある\n\nわが子をはげまし\n\nわが子を階級戦の熾烈なさ中へ送る意気込みはなくとも、\n\nわが子の真剣な働きを信じて\n\nわが子の無事を祈り\n\nわが子の仕事の成功をねがえる父母達\n\n俺は父母達のすこやかであることを",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "そして父母達の存生《（ママ）》の間に\n\n俺達の勝利をかちとることを\n\n切に切に希望すればこそ、\n\n一歩　一歩\n\n父母達の家を遠ざかってゆくとき\n\n一足毎に力もて大地を踏みしめ\n\n明日の準備に\n\n勇躍して部署につくのだ",
+      "characters": 108,
+      "ruby": []
+    }
+  ]
+}

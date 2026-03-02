@@ -1,0 +1,48 @@
+{
+  "id": "a054789",
+  "title": "おもちゃの汽車",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おもちゃの汽車",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 35,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おもちゃの汽車",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゴットン　ゴットン\n\n汽車が行く\n\nケムリをはいて\n\n汽車が行く\n\nアレアレアレアレ\n\n脱線だ\n\nお人形さんの\n\n首が飛び\n\nキューピイさんの",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "手が飛んだ\n\n死傷者優に三十個\n\nオモチャの国の\n\n大椿事",
+      "characters": 29,
+      "ruby": []
+    }
+  ]
+}

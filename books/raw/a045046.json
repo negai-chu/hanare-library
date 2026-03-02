@@ -1,0 +1,60 @@
+{
+  "id": "a045046",
+  "title": "春の海のうた",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春の海のうた",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春の海のうた",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "さしたり\n\nひいたり\n\nはるのしほ\n\nはるの\n\nひながの\n\nあをいうみ\n\nひよつこり\n\nいそが\n\nしづんだら",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ぴよつこり\n\nおふねが\n\nうきだした\n\nぴよつこり\n\nおふねが\n\nういたらば\n\nひよつこり\n\nいそが\n\nしいづんだ",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "いそと\n\nおふねの\n\nかくれんぼ\n\nそれを\n\nみてゐた\n\nかもめどり\n\nかもめも\n\nかもめで\n\nかくれんぼ",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ひよつこり\n\nういたり\n\nしづんだり",
+      "characters": 18,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "a050549",
+  "title": "信濃国",
+  "author": "浅井洌",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "信濃国",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "信濃国",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "信濃の國は十州に\n\n境つらぬる國にして\n\n山は聳えて峯高く\n\n川は流れて末遠し\n\n松本伊那佐久善光寺\n\n四つの平は肥沃の地\n\n海こそなけれ物さはに\n\n萬たらわぬことそなき\n\n四方に聳ゆる山々は",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "御岳乘鞍駒か岳\n\n淺間は殊に活火山\n\nいつれも國の鎭めなり\n\n流れ淀ます行く水は\n\n北に犀川千曲川\n\n南に木曽川天龍川\n\nこれまた國の固めなり\n\n木曽の谷には眞木茂り\n\n諏訪の湖には魚多し",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "民のかせぎは紙麻綿\n\n五穀みのらむ里やある\n\nしかのみならす桑取て\n\n蠶養《コカヒ》の業の打ひらけ\n\n細きよすかも輕からぬ\n\n國の命をつなくなり\n\n尋ねまほしき園原や\n\n旅のやどりの寐覺の床\n\n木曽の棧かけし世も",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "心してゆけ久米路橋\n\nくる人多き束摩の湯\n\n月の名にたつ姨捨山\n\nしるき名所とみやびをが\n\n詩歌によみてぞ傳へたる\n\n旭將軍義仲も\n\n仁科五郎信盛も\n\n春臺太宰先生も\n\n象山佐久間先生も",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "皆この國の人にして\n\n文武のほまれたくひなく\n\n山と聳へて世に仰き\n\n川と流れて名は盡きす\n\n吾妻はやとし日本武\n\n嘆き給ひし碓氷山\n\nうがつとんねる二十六\n\n夢にも超ゆる車の道\n\n道ひとすちに學ひなば",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "昔の人にや劣るべき\n\n古來山河の秀でたる\n\n國は偉人のあるならひ",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

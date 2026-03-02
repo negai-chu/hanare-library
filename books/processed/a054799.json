@@ -1,0 +1,42 @@
+{
+  "id": "a054799",
+  "title": "うたうたいは",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "うたうたいは",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "うたうたいは",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　うたうたいは　うたうたえと　きみ言えど　口おもく　うたうたえず。うたうたいが　うたうたわざれば　死つるよりほか　すべなからんや。魚のごと　あぼあぼと　生きるこそ　悲しけれ。",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

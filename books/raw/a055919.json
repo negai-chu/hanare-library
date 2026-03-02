@@ -1,0 +1,48 @@
+{
+  "id": "a055919",
+  "title": "（成程）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（成程）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（成程）",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "成程\n\n共に発見することが楽しみなのか\n\nさうか、それでは俺に恋は出来ない\n\nお前を知る前既に\n\nお前の今後発見することを発見しつくしてゐたから\n\n一つの菓子を\n\n二人とも好んではゐない\n\n一人は大好きで一人が嫌ひです\n\n菓子と二人との三角関係",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "菓子は嫌ひな一人からヤカレて仕合せ者だ\n\n一番平凡なバランスの要求だのに\n\n何故そのバランスが来ないのか\n\n髪油の香が尚胸に残つてゐる\n\n煙草の香が胸に残つてゐるかしら\n\n蛙が鳴いて\n\n一切がオーダンの悲哀だ",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

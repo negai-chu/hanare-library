@@ -1,0 +1,60 @@
+{
+  "id": "a052298",
+  "title": "公孫樹",
+  "author": "石川啄木",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "公孫樹",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "公孫樹",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "秋風死ぬる夕べの\n\n入日の映のひと時、\n\nものみな息をひそめて、\n\nさびしさ深く流るる。\n\n心のうるみ切なき\n\nひと時、あはれ、仰ぐは\n\n黄金の秋の雲をし\n\nまとへる丘の公孫樹。\n\n光栄の色よ、など、さは",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "深くも黙し立てるや。\n\nさながら、遠き昔の\n\n聖の墓とばかりに。\n\nま白き鴿《はと》のひと群、\n\n天の羽々矢と降《お》りきて、\n\n黄金の雲にいりぬる。――\n\nあはれ何にかたぐへむ《（これ、はた、何に似るらむ。）》。\n\n樹《こ》の下《した》馬を曳く子は\n\nたはれに小さき足もて",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "幹をし踏みぬ。――あゝこれ\n\nはた、また、何ににるらむ《（とたとへむ）》。\n\nましろき鴿のひと群\n\n羽ばたき飛びぬ。黄金の\n\n雲の葉、あはれ、法恵《ほふゑ》の\n\n雨とし散りぞこぼ《（みだ）》るる。\n\n今、日ぞ落つれ、夜ぞ《（は）》来《く》れ。――\n\n真夜中時雨また来め。――\n\n公孫樹よ、明日の裸身《はだかみ》、",
+      "characters": 156,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "我、はた、何に儔《たぐ》へむ。\n\n十一月十七日夜",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

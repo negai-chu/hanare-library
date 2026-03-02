@@ -1,0 +1,42 @@
+{
+  "id": "a053028",
+  "title": "蟻説",
+  "author": "高木貞治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蟻説",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 137,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蟻説",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一色學校高等二年前期生\n高木貞治\n十歳四ヶ月\n蟻ハ一小蟲ニシテ其種類甚多ク同類數千群ヲナシ毎群蟻王アリテ之ヲ統フ其粮ヲ運フヤ荷身ニ十倍スト雖衆蟻蝟集シ々爭ハス孜孜怠ラス遂ニ之ヲ其巣ニ運フ夏日炎々ノ時タリト雖終日怠ラス勉勵シテ粮ヲ求ムルニ從事ス已ニシテ冬天ニ至レハ巣穴ニ蟄居シ嚮ニ積ム※ノ粮ヲ食ヒ數月ヲ經レトモ菜色ナシ嗚呼蟻ノ如キ者ハ虫類中ニアリト雖蜂蝶ノ飢ニ叫ヒ※ヲ歎キ其羽翼ヲ毀損シ死スルニ至リテ遂ニ悟ラサル者ト日ヲ同クシテ語ルヘカラス夫人怠惰放逸ニシテ後日困難ニ歎ク者往々之レ有リ其レヲシテ蟻ノ行為ヲ目セシムレバ豈愧スベキノ甚シキニアラスヤ",
+      "characters": 273,
+      "ruby": []
+    }
+  ]
+}

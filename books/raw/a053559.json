@@ -1,0 +1,48 @@
+{
+  "id": "a053559",
+  "title": "暮春詠嘆調",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "暮春詠嘆調",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "暮春詠嘆調",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "×\n\n年ひさしくなりぬれば\n\nすべてのことを忘れはてたり\n\nむざんなる哉\n\nかばかりのもよほしにさへ\n\n涙も今はみなもとをば忘れたり\n\n　　　×\n\n人目を忍びて何處《いづこ》に行かん\n\n感ずれば我が身も老いたり",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "さんさんと柳の葉は落ち來る\n\n駒下駄の鼻緒の上に落日は白くつめたし",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

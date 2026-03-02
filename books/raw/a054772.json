@@ -1,0 +1,54 @@
+{
+  "id": "a054772",
+  "title": "日本が見えない",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日本が見えない",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日本が見えない",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "この空気\n\nこの音\n\nオレは日本に帰ってきた\n\n帰ってきた\n\nオレの日本に帰ってきた\n\nでも\n\nオレには日本が見えない\n\n空気がサクレツしていた\n\n軍靴がテントウしていた",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "その時\n\nオレの目の前で大地がわれた\n\nまっ黒なオレの眼漿《がんしょう》が空間に\n\nとびちった\n\nオレは光素（エーテル）を失って\n\nテントウした\n\n日本よ\n\nオレの国よ\n\nオレにはお前がみえない",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "一体オレは本当に日本に帰ってきているのか\n\nなんにもみえない\n\nオレの日本はなくなった\n\nオレの日本がみえない",
+      "characters": 55,
+      "ruby": []
+    }
+  ]
+}

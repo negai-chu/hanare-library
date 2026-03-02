@@ -1,0 +1,60 @@
+{
+  "id": "a044938",
+  "title": "チユウちやんのおたんじやう日",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "チユウちやんのおたんじやう日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "チユウちやんのおたんじやう日",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "こんちはおめでたう\n\nお花をあげましよ\n\n私はあなたの大すきな\n\nオランダ人形のペチ子ちやん。\n\n長いお鼻で\n\nおくわしの車を\n\nえつさ　えつさと\n\nおして来たのは\n\n印度《インド》うまれの象さんよ。",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "麦　麦　お麦\n\nぽつくりお麦を\n\n袋につめて、\n\nぽこ、ぽこ来るのは木馬さん。\n\n「さらさらおさとうの、\n\nおいしいおくわしは\n\n今晩めしあがれ。\n\n私はイギリス生れの\n\nマリ子ちやん。」",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "白い羊さんは\n\nビスケツト、一袋\n\n羊の毛のやうに\n\nほか、ほかやはらかい\n\nはくらいビスケツトを\n\n一袋。\n\nロシア生れのニコライさん、\n\nロシアのバタを\n\nおせなにのせて",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ニコニコニコニコ\n\nやつて来た。\n\nちゆうちやんは、\n\nかわいい\n\nりかうなこねずみ。\n\nけふは\n\nちゆうちやんの\n\nおたんじやう日。",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

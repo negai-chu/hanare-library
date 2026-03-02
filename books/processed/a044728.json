@@ -1,0 +1,54 @@
+{
+  "id": "a044728",
+  "title": "飯田の町に寄す",
+  "author": "岸田国士",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "飯田の町に寄す",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "飯田の町に寄す",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　飯田　　　美しき町\n\n山ちかく　水にのぞみ\n\n空あかるく風にほやかなる町\n\n飯田　　　静かなる町\n\n人みな　　言葉やわらかに\n\n物音　　　ちまたにたゝず\n\n粛然として古城の如く丘にたつ町\n\n飯田　　　ゆたかなる町\n\n財に貧富あれども",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "身に貴賤ありとおぼへず\n\n一什一器かりそめになく\n\n老若男女、みなそれぞれの詩と哲学とをもつ町\n\n飯田　　　ゆかしき町\n\n家々みな奥深きものをつゝみ\n\nひとびと　礼にあつく\n\n軒さび　　瓦ふり\n\n壁しろじろと小鳥の影をうつす町\n\n飯田　　　天竜と赤石の娘",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おんみ　さかしくみめよく育ちたれど\n\nいま　新しき時代に生きんとす\n\nよそほひはかたちにあらず\n\n美しく　　静かに\n\nゆかしく　豊かに\n\nおんみの心をこそ　新しくよそほひたまへ",
+      "characters": 88,
+      "ruby": []
+    }
+  ]
+}

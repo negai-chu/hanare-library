@@ -1,0 +1,42 @@
+{
+  "id": "a054384",
+  "title": "風",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "風",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "風",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "意欲のやうに烈しく流れ\n\n何をまた恐るのだらう\n\n或る時は漂漂と過ぎるもの\n\n季節の上を季節のやうに\n\n未完",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

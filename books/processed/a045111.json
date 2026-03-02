@@ -1,0 +1,42 @@
+{
+  "id": "a045111",
+  "title": "仔牛",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "仔牛",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "仔牛",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　仔牛は日向に\n\nたつてゐた\n\n細い四足すつきり伸びて\n\n小《ち》さいひづめは繁縷《はこべら》ふんで。\n\n日永、半日\n\nたつてゐた\n\n青いお目々は牡丹をみつめ\n\n黝いお鼻は匂ひにぬれて。\n\nすると日暮にお角が生えた。空に小さく三日月でゝた。",
+      "characters": 120,
+      "ruby": []
+    }
+  ]
+}

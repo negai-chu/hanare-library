@@ -1,0 +1,48 @@
+{
+  "id": "a053839",
+  "title": "青い窓",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "青い窓",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "青い窓",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "へちま\n\n垂れてる\n\n青い窓――\n\nピアノの\n\n音《ね》してた\n\n青い窓――\n\nだれだか\n\n知らない\n\n住んでゐた――",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "どこだか\n\n知らない\n\n越してつた――\n\nいつも\n\n通つてく\n\n學校道――\n\nへちま\n\n搖れてる\n\n青い窓――",
+      "characters": 55,
+      "ruby": []
+    }
+  ]
+}

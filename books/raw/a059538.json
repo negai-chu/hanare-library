@@ -1,0 +1,42 @@
+{
+  "id": "a059538",
+  "title": "天に続く道",
+  "author": "松本竣介",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "天に続く道",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "天に続く道",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "絵筆をかついで\n\nとぼとぼと\n\n荒野の中をさまよへば\n\n初めて知つた野中に\n\n天に続いた道がある\n\n自分の心に独りごといひながら\n\n私は天に続いた道を行く",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053421",
+  "title": "〔雪とひのきの坂上に〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔雪とひのきの坂上に〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔雪とひのきの坂上に〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雪とひのきの坂上に\n\n粗き板もてゴシックを\n\n辛く畳みて写真師の\n\n聖のねぐらを営みぬ\n\nぼたと名づくる雪ふりて\n\nいましめさけぶ橇のこら\n\nよきデュイエットうちふるひ\n\nひかりて暮るゝガラス屋根",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

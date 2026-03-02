@@ -1,0 +1,42 @@
+{
+  "id": "a053848",
+  "title": "月夜のバルコン",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月夜のバルコン",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月夜のバルコン",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　バラのお家のバルコンは\n\n蟻さん月見のお客樣\n\n「ほうら月だ」と手をあげる\n\nバラのお家のバルコンは\n\n蝶さん月見のお客樣\n\n「とてもいゝね」とうたつてる\n\nバラのお家のバルコンは\n\n風さん月から吹いてきて\n\n「お月のまつり」を話してる",
+      "characters": 119,
+      "ruby": []
+    }
+  ]
+}

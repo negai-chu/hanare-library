@@ -1,0 +1,42 @@
+{
+  "id": "a045088",
+  "title": "月から",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月から",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月から",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "月からきたねこ、\n\n屋根にゐる。\n\n屋根からしつぽをおつたてる。\n\n月からきたとり、\n\nうろにゐる。\n\nうろからそちこちどなつてる。\n\n月から来た人、\n\n柵にゐる。\n\n柵からナイフをぬいてゐる。",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a053833",
+  "title": "山の駅",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "山の駅",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "山の駅",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "汽車がきてます山の驛\n\n驛長さんと機關手と\n\nお話してます立つたまゝ\n\n生れたお國のことなどを\n\n馬もきてます馬車の馬\n\nプラツトホームは山つづき\n\n月見草など咲いてゐて\n\n虫がこもつて鳴いてます\n\nまもなく出るでせうあの汽車は",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "時計をみてます驛長さん\n\n空をみながら機關手は\n\n機關車の方へ歩きます\n\n雲が近くてこの驛は\n\n汽笛の音がふくれます\n\nトンネルからきたあの汽車は\n\nまたトンネルに入るでせう",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

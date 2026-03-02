@@ -1,0 +1,48 @@
+{
+  "id": "a055598",
+  "title": "高峯の頌",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "高峯の頌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "高峯の頌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　荒蕪の平原に野を耕し\n\n草を食《は》み、木の実を喰《くら》える\n\n人類生存の現象は\n\n高峯の麓にありて\n\nあまりにはかなき生命……\n\n盛夏白熱頂点に達せんとするも\n\n未だに消ゆるなき\n\n雪原の輝きは\n\n天地創造の第一年より",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "永遠なり\n\n人類生命、億劫《おくごう》に至るも\n\n一切は幻滅に帰り\n\n無し――一切無し\n\n成体もこれ大地の化身なれば\n\n霊魂も又瞬間にして\n\n遺る何物もあらざるべし\n\nされど\n\n高峯は歴史を超え時代を超えて永遠……",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

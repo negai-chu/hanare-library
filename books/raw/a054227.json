@@ -1,0 +1,48 @@
+{
+  "id": "a054227",
+  "title": "楽隊",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "楽隊",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "楽隊",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゴロ／＼／＼／＼　ピーカピカ\n\n空の上では　楽隊が\n\nあちら此方をねりまはる\n\nその楽隊の真先は\n\n太鼓たたいて雷さん\n\nピカ／＼光らす稲妻さん\n\nポン／＼／＼／＼　クツ々々\n\n森の中やら川の中\n\n音楽隊がねりまはる",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "その楽隊のまっ先は\n\n腹つゞみうって狸さん\n\n次で蛙の音楽隊\n\nプカ／＼ドン／＼プカ／＼ドン\n\n今度は人の音楽隊\n\n喇叭プカ／＼吹く人や\n\n太鼓ドン／＼叩く人\n\nホントににぎやかな音楽隊",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

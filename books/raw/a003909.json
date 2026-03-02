@@ -1,0 +1,42 @@
+{
+  "id": "a003909",
+  "title": "「今年の傑作小説」",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「今年の傑作小説」",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「今年の傑作小説」",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "特にとり立てて言うのは困難に感じますが、ナウカ社版の第一回全ソヴェト作家大会報告（直接小説に関係はないように見えるけれども）や「ひらかれた処女地」など。\n\n　注目すべき作としては「青年」「獄」「牡丹のある家」「囚われた大地」等があると思いますが、最も傑れたものとは言い難く思います。\n\n〔一九三四年十二月〕",
+      "characters": 153,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a058739",
+  "title": "空林",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "空林",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "空林",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　山毛欅の林　楢の林　白樺の林　ひと年私は山に住ひ　彼らの春の粧ひと\n\n彼らの秋の凋落を見た　けれども彼らの裸の姿　雪の上のたたずまひこそ\n\nわけても私の心にしみる　何故だらう　そのことわけを問ひながら\n\n今日もまた林に憩ふ　やうやく私のものとなつた　この手足この老年が珍らしく",
+      "characters": 139,
+      "ruby": []
+    }
+  ]
+}

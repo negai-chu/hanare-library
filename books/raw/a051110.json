@@ -1,0 +1,48 @@
+{
+  "id": "a051110",
+  "title": "管笛",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "管笛",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 111,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "管笛",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お母《かあ》火《ひ》を燃《も》すけえ。\n\nそねえに燃《も》さなくても温《あたた》けえないか。\n\nだって今日《きょう》は寒《さむ》いもの。\n\n寒《さむ》いか、そんだらくべろえ。\n\n明日《あす》、また出《で》て薪《たきぎ》取《と》ってくるわの\n\nそう心配《しんぱい》さっしゃんな。\n\n　　＊　＊　＊　＊　＊　＊\n\nお母《かあ》、燃《も》えたぜ当《あ》たらっしゃい。\n\n汝《われ》、やかましいそげなもの吹《ふ》くなよ。",
+      "characters": 206,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ごじゅうからがたくさんきていたぜの、\n\nあっちの神社《おみや》の森《もり》にきていたぜの、\n\nほら鳴《な》いているだろの、\n\n俺《おら》のこの笛《ふえ》聞《き》いて鳴《な》いているだろの？\n\nふいふいふい\n\n悲《かな》しく鳴《な》る管笛《くだぶえ》。",
+      "characters": 125,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053420",
+  "title": "〔霜枯れのトマトの気根〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔霜枯れのトマトの気根〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔霜枯れのトマトの気根〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　霜枯れのトマトの気根\n\nその熟れぬ青き実をとり\n\n手に裂かばさびしきにほひ\n\nほのぼのとそらにのぼりて\n\n翔け行くは二価アルコホール\n\n落ちくるは黒雲のひら",
+      "characters": 79,
+      "ruby": []
+    }
+  ]
+}

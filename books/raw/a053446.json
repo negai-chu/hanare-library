@@ -1,0 +1,42 @@
+{
+  "id": "a053446",
+  "title": "〔廿日月かざす刃は音無しの〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔廿日月かざす刃は音無しの〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔廿日月かざす刃は音無しの〕",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "廿日月かざす刃は音無しの\n\n　　　　黒業ひろごるそらのひま\n\n　　　　　　　　　その竜之介\n\n風もなき修羅のさかひを行き惑ひ\n\n　　　　すゝきすがるゝいのじ原\n\n　　　　　　　　　その雲のいろ\n\n日は沈み鳥はねぐらにかへれども\n\n　　　　ひとはかへらぬ修羅の旅\n\n　　　　　　　　　その竜之介",
+      "characters": 146,
+      "ruby": []
+    }
+  ]
+}

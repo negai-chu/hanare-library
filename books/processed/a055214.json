@@ -1,0 +1,42 @@
+{
+  "id": "a055214",
+  "title": "ITALIA",
+  "author": "プラーテンアウグスト",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ITALIA",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ITALIA",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　Konata ni wa Abruzzi no yama, kanata Pontini no numa,\n\nGeijutsu no kuni wo idete zka rakuyen ni iru.",
+      "characters": 101,
+      "ruby": []
+    }
+  ]
+}

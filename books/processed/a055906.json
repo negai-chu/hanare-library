@@ -1,0 +1,48 @@
+{
+  "id": "a055906",
+  "title": "迷つてゐます",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "迷つてゐます",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "迷つてゐます",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　筆が折れる\n\nそれ程足りた心があるか\n\nだつて折れない筆がありますか？\n\n聖書の綱が\n\n性慾のコマを廻す\n\n原始人の礼儀は\n\n外界物に目も呉れないで\n\n目前のものだけを見ることでした\n\nだがだが",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "現代文明が筆を生みました\n\n筆は外界物です\n\n現代人は目前のものに対するに\n\nその筆を用ひました\n\n発明して出来たものが不可なかつたのです\n\nだが好いとも言へますから――\n\n僕は筆を折りませうか？\n\nその儘にしときませうか？",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

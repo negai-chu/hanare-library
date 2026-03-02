@@ -1,0 +1,42 @@
+{
+  "id": "a055031",
+  "title": "母はとほい",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "母はとほい",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "母はとほい",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　障子はあけなくとも\n\nアンテナは光つてゐようぞ\n\n母よ　三郎《さんでえ》はおめざが欲しい\n\n二十三にもなつたので自転車ものりたくない\n\n朝は街のすみにも光つてゐますが\n\n母よ　三郎《さんでえ》はおめざが欲しい",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

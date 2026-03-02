@@ -1,0 +1,42 @@
+{
+  "id": "a051107",
+  "title": "三か月",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "三か月",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "三か月",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "かまのような、お三《み》か月《づき》、\n\n早《はよ》う、大《おお》きくなって、\n\nお嫁入《よめい》りの晩《ばん》に、\n\nまるい顔《かお》出《だ》して、\n\n雲《くも》のあいから、のぞいてみい。",
+      "characters": 95,
+      "ruby": []
+    }
+  ]
+}

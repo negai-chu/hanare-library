@@ -1,0 +1,48 @@
+{
+  "id": "a055568",
+  "title": "待っていた一つの風景",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "待っていた一つの風景",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "待っていた一つの風景",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　痩《やせ》たる土壌をかなしむなく\n\n遠き遍土にあるをかこつなく\n\n春となれば芽をだし\n\n夏となれば緑を盛り花を飾る\n\n貧しく小さくして尚たゆまず\n\nただ一つ\n\n秋、凡ての秋において\n\nただ一つ\n\n種を孕んだわが名知らぬ草",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "精一杯に伸びんとして努力空しく\n\n夏のま中炎天のあまり枯死してしまったものもある\n\n草にして一生は尊い生命の凡てである\n\n一つの種は一つの種をはらんだ\n\nそして遍土の痩土に\n\n初冬のころ\n\n雪を戴き埋れ、静かに待っていた一つの風景\n\n一九二七年十二月拙き心情を綴り旭川にある小熊秀雄氏に贈る",
+      "characters": 145,
+      "ruby": []
+    }
+  ]
+}

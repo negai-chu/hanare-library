@@ -1,0 +1,60 @@
+{
+  "id": "a001214",
+  "title": "楽しき生涯",
+  "author": "内村鑑三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "楽しき生涯",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "楽しき生涯",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "我の諂ふべき人なし\n\n我の組すべき党派なし\n\n我の戴くべき僧侶なし\n\n我の維持すべき爵位なし\n\n我に事ふべきの神あり\n\n我に愛すべきの国あり\n\n我に救ふべきの人あり\n\n我に養ふべきの父母と妻子あり\n\n四囲の山何ぞ青き",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "加茂の水何ぞ清き\n\n空の星何ぞ高き\n\n朝の風何ぞ爽《さは》き\n\n一函の書に千古の智恵あり\n\n以て英雄と共に語るを得べし\n\n一茎の筆に奇異の力あり\n\n以て志を千載に述るを得べし\n\n我に友を容るゝの室あり\n\n我に情を綴るゝのペンあり",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "炉辺団坐して時事を慨し\n\n異域書を飛して孤独を慰む\n\n翁は机に凭れ\n\n媼は針にあり\n\n婦は厨《くりや》に急《せ》はしく\n\n児は万歳を舞ふ\n\n感謝して日光を迎へ\n\n感謝して麁膳に対し\n\n感謝して天職を執り",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "感謝して眠に就く\n\n生を得る何ぞ楽しき\n\n讃歌絶ゆる間なし",
+      "characters": 29,
+      "ruby": []
+    }
+  ]
+}

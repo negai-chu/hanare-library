@@ -1,0 +1,42 @@
+{
+  "id": "a001603",
+  "title": "かくめい",
+  "author": "太宰治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かくめい",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かくめい",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　じぶんで、したことは、そのように、はっきり言わなければ、かくめいも何も、おこなわれません。じぶんで、そうしても、他におこないをしたく思って、にんげんは、こうしなければならぬ、などとおっしゃっているうちは、にんげんの底からの革命が、いつまでも、できないのです。",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

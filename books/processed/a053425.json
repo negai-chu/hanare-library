@@ -1,0 +1,48 @@
+{
+  "id": "a053425",
+  "title": "不軽菩薩",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "不軽菩薩",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "不軽菩薩",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あらめの衣身にまとひ\n\n城より城をへめぐりつ\n\n上慢四衆の人ごとに\n\n菩薩は礼をなしたまふ\n\n　（われは不軽ぞかれは慢\n\n　　こは無明なりしかもあれ\n\n　　いましも展く法性と\n\n　　菩薩は礼をなし給ふ）\n\nわれ汝等を尊敬す",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "敢て軽賤なさざるは\n\n汝等作仏せん故と\n\n菩薩は礼をなし給ふ\n\n　（こゝにわれなくかれもなし\n\n　　たゞ一乗の法界ぞ\n\n　　法界をこそ拝すれと\n\n　　菩薩は礼をなし給ふ）",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

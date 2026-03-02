@@ -1,0 +1,48 @@
+{
+  "id": "a001744",
+  "title": "古街",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "古街",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "古街",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　黄昏時《たそがれとき》を四五分すぎたあと、\n\n薄闇を縫ふて、紅い々々燈《ひ》の華が、\n\n冬咲きの仏相花のやうにちらつく。\n\n昔の栄華を夢見る古るい街、\n\n傾むいた軒を並べて、\n\n底深く静まりかへる。\n\n蔦の生へた石垣からは、\n\n亡びの色調を帯びた虫の歌。また、\n\nたく／″＼と流れる溝のなげかひ。",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "私は古るい街の巷に迷ひこんだ、\n\n何処かへ逃げ道を見出さうとした、\n\n古るい街は逃すまいと抱きつく。\n\n私と亡びゆく古るい街、\n\nその間に永い哀情が横たへ、\n\n深かい／＼闇に沈んでゆく。",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

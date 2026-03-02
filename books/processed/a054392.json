@@ -1,0 +1,42 @@
+{
+  "id": "a054392",
+  "title": "（無題）",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（無題）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（無題）",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　風だ\n\n恐りながら憎悪の波をわたる\n\nひとすじの突風だ\n\n翼や枝をたたき折り\n\nはるかな色彩をかき乱し\n\nあの断崖の一角からつき落された\n\n重量だ",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

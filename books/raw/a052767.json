@@ -1,0 +1,42 @@
+{
+  "id": "a052767",
+  "title": "私の一日",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の一日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の一日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "五日\n\n　療養所にゐる病友に手紙を書く。この間知人に貰つた新しいいくつかの印譜のうち「双魚」を私は手紙の封に使ひ出した。こんなことに今迄一切無関心だつたが、意を用ひると仲々趣味のあるものだなどと思ふ。だが私には用もなささうだから、外国の友達へ贈ることにしようなどと思ふ。",
+      "characters": 135,
+      "ruby": []
+    }
+  ]
+}

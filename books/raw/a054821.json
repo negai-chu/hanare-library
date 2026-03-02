@@ -1,0 +1,48 @@
+{
+  "id": "a054821",
+  "title": "演習二",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "演習二",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "演習二",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "丘のすそに池がある\n\n丘の薄《すすき》は銀のヴェールである\n\n丘の上につくりもののトオチカがある\n\n照準の中へトオチカの銃眼をおさめておいて\n\nおれは一服やらかした\n\n丘のうしろに雲がある\n\n丘を兵隊が二人かけのぼって行った\n\n丘も兵隊もシルエットである\n\nこのタバコのもえつきるまで",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おれは薄の毛布にねむっていよう",
+      "characters": 15,
+      "ruby": []
+    }
+  ]
+}

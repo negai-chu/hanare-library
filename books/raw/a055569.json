@@ -1,0 +1,48 @@
+{
+  "id": "a055569",
+  "title": "夕べの曲",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夕べの曲",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 40,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夕べの曲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "街々にけむりさまよう\n\n秋夕べここもかしこも\n\n黄昏れて見分けもつかず\n\n劇場のクラリネットの\n\n高く低く或は長く短く\n\n囃立てる巷の声に相和して\n\n一つなる夕べの曲を\n\n今日もまた\n\nひとりし聞けばそのかみの日の",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "なつかしまれつ涙ぐむ",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

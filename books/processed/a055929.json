@@ -1,0 +1,48 @@
+{
+  "id": "a055929",
+  "title": "（テンピにかけて）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（テンピにかけて）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（テンピにかけて）",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　テンピにかけて\n\n焼いたろか\n\nあんなヘナチヨコ詩人の詩\n\n百科辞典を引き廻し\n\n鳥の名や花の名や\n\nみたこともないそれなんか\n\nひつぱり出して書いたつて\n\n――だがそれ程想像力があればね――\n\nやい！",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いつたい何が表現出来ました？\n\n自棄のない詩は\n\n神の詩か\n\n凡人の詩か\n\nそのどつちかと僕が決めたげます",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

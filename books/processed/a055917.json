@@ -1,0 +1,48 @@
+{
+  "id": "a055917",
+  "title": "（題を附けるのが無理です）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（題を附けるのが無理です）",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（題を附けるのが無理です）",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　トランプの占ひで\n\n日が暮れました――\n\nオランダ時計の罪悪です\n\n喩へ話の上に出来た喩へ話――\n\n誰です\n\n法律ばかり研究してるのは\n\n林檎の皮に灯が光る\n\nそればかりみてゐても\n\n金の時計が真鍮になりますぞ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "寺院の壁にトンボがとまつた\n\nそれは好いが\n\nあんまりいたづらは不可ません\n\n法則とともに歩く男\n\n君のステッキは\n\n何といふ緊張しすぎた物笑ひです",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

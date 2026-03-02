@@ -1,0 +1,42 @@
+{
+  "id": "a044920",
+  "title": "〈美しい王子様のおせなかに〉",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〈美しい王子様のおせなかに〉",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〈美しい王子様のおせなかに〉",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　美しい王子様のおせなかに\n\n　まつかなマントが\n\n　　ゆれてゐるかな\n\n美しい王子様のおん馬車の\n\n　馬が青い空を\n\n　　眺《なが》めてゐるかな",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

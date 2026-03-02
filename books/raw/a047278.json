@@ -1,0 +1,42 @@
+{
+  "id": "a047278",
+  "title": "マイクロフォン",
+  "author": "国枝史郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "マイクロフォン",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 113,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "マイクロフォン",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "岡本綺堂氏推薦、デイピング原作といったような形式で訳されてあった五篇の翻訳は面白かった。純粋の創作家の鑑賞眼に選ばれた作以外によいもののあることを証拠立てている。図書館は毎号面白い。沢山の新聞雑誌からあれだけの材料を拾い出すのは並大抵の苦労ではあるまい。大庭《おおば》武年氏の「小盗児《しょうとる》市場の殺人」は面白かった。満州物を創作させたら今のところこの人が一番よいものを作るだろう。洋画バリエーションは色彩にもっと留意して貰いたい。",
+      "characters": 219,
+      "ruby": []
+    }
+  ]
+}

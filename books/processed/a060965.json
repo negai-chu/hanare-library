@@ -1,0 +1,48 @@
+{
+  "id": "a060965",
+  "title": "愛は終了され",
+  "author": "萩原恭次郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "愛は終了され",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "愛は終了され",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　母の胸には　無数の血さへにじむ爪の跡！\n\nあるひは赤き打撲の傷の跡！\n\n投石された傷の跡！　歯に噛まれたる傷の跡！\n\nあゝそれら痛々しい赤き傷は\n\nみな愛児達の生存のための傷である！\n\n忘れられぬ乳房はもはや吸ふべきものでない\n\n転居の後の如く荒れすたれ\n\nあゝ　愛はすでに終了されたのだ！\n\nさるを今　ふたゝび母の胸を蹴る！",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "新らしき世紀の恋人のため！\n\n新らしき世界に青年たるため！\n\nあゝ　われ等は古き父の遺跡を\n\n見事に破壊するを主義とする！",
+      "characters": 61,
+      "ruby": []
+    }
+  ]
+}

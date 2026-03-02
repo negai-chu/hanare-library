@@ -1,0 +1,88 @@
+{
+  "id": "a051327",
+  "title": "夏の夜の博覧会は、かなしからずや",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夏の夜の博覧会は、かなしからずや",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夏の夜の博覧会は、かなしからずや",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "夏の夜の博覧会は、哀しからずや\n\n雨ちよと降りて、やがてもあがりぬ\n\n夏の夜の、博覧会は、哀しからずや\n\n女房買物をなす間、\n\n象の前に僕と坊やとはゐぬ、\n\n二人蹲《しやが》んでゐぬ、かなしからずや、やがて女房きぬ\n\n三人博覧会を出でぬかなしからずや\n\n不忍《しのばず》ノ池の前に立ちぬ、坊や眺めてありぬ\n\nそは坊やの見し、水の中にて最も大なるものなりき、かなしからずや、",
+      "characters": 186,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "髪毛風に吹かれつ\n\n見てありぬ、見てありぬ、かなしからずや\n\nそれより手を引きて歩きて\n\n広小路に出でぬ、かなしからずや\n\n広小路にて玩具を買ひぬ、兎の玩具かなしからずや",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "２",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "その日博覧会に入りしばかりの刻《とき》は\n\nなほ明るく、昼の明《あかり》ありぬ、\n\nわれら三人《みたり》飛行機にのりぬ\n\n例の廻旋する飛行機にのりぬ\n\n飛行機の夕空にめぐれば、\n\n四囲の燈光また夕空にめぐりぬ\n\n夕空は、紺青《こんじやう》の色なりき\n\n燈光は、貝釦《かひボタン》の色なりき\n\nその時よ、坊や見てありぬ",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "その時よ、めぐる釦を\n\nその時よ、坊やみてありぬ\n\nその時よ、紺青の空！\n\n（一九三六・一二・二四）",
+      "characters": 50,
+      "ruby": []
+    }
+  ]
+}

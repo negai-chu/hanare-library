@@ -1,0 +1,42 @@
+{
+  "id": "a055026",
+  "title": "贈物",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "贈物",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "贈物",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "幸ひに髪がふさふさと綺麗だから\n\nこの頭蓋骨のなかに菫色の豆ランプをともし\n\nつれない恋人よ\n\nこの美しい角燈《ランターン》を貴女の寝室へ贈らうと思ひます",
+      "characters": 77,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a052129",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　龍馬　謹白\n黒龍丸の船将云の議論もて、其御船を軍艦となし、大炮を積、数年交代しつゝ、且ハ神戸をも守らむといふ。\n\n軍艦といはゞ江戸の外の物ならぬ心より、\n\n右の論に決せむ。九月拾五日、故に左の愁願をなせり。",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

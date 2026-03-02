@@ -1,0 +1,48 @@
+{
+  "id": "a046818",
+  "title": "笑いの歌",
+  "author": "ブレイクウィリアム",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "笑いの歌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "笑いの歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　緑《みどり》の森がよろこびの声《こえ》で笑《わら》い\n\n波だつ小川が笑いながら走《はし》ってゆく、\n\n空気《くうき》までが私たちの愉快《ゆかい》な常談《じょうだん》で笑い\n\n緑の丘《おか》がその声で笑い出す。\n\n牧場《まきば》がいきいきした緑で笑い\n\nきりぎりすが楽《たの》しい景色《けしき》の中で笑う、\n\nメアリとスーザンとエミリとが\n\n可愛《かわい》い口をまるくしてハ・ハ・ヒと歌う。\n\n私たちが桜《さくら》んぼとくるみの御馳走《ごちそう》をならべると",
+      "characters": 229,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "その樹《き》の蔭《かげ》できれいな鳥が笑っている、\n\nさぁ元気で愉快《ゆかい》に手をつなぎましょう\n\nうれしいハ・ハ・ヒを合唱《がっしょう》しましょう。",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

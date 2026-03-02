@@ -1,0 +1,457 @@
+{
+  "id": "a044964",
+  "title": "あひるさん　と　にはとりさん",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 21
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "しんせつなあひるさんのおかあさん",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-2",
+        "title": "あひるさんのおたんじやう日",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-2-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-3",
+        "title": "わがままをいつたばかりに",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-3-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-3-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-4",
+        "title": "プールへゆきました",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-4-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-4-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-5",
+        "title": "おくびやうなあひるさん",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-5-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-5-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-6",
+        "title": "あひるさんとにはとりさんはのんきもの",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-6-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-7",
+        "title": "どろだらけののりまき",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-7-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-7-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-8",
+        "title": "あひるさんとにはとりさんはなかよし",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-8-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-8-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      },
+      {
+        "id": "chapter-9",
+        "title": "いじめつこの犬さん",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-9-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-9-section-4",
+            "number": "４",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 21,
+    "averageCharsPerPage": 142,
+    "chapterTitles": [
+      "しんせつなあひるさんのおかあさん",
+      "あひるさんのおたんじやう日",
+      "わがままをいつたばかりに",
+      "プールへゆきました",
+      "おくびやうなあひるさん",
+      "あひるさんとにはとりさんはのんきもの",
+      "どろだらけののりまき",
+      "あひるさんとにはとりさんはなかよし",
+      "いじめつこの犬さん"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あひるさん　と　にはとりさん",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "しんせつなあひるさんのおかあさん",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "１\n\n　にはとりさんが、あひるさんのところへあそびにゆきました。\n\n　あひるさんは、鉛筆を五本もなくしてしまつたので、こまつてゐます。\n\n２\n\n　あひるさんは、にはとりさんにいひました。\n\n「僕《ぼく》は、どうも鉛筆は、お池のなかにあるやうな気がするよ。」とお池のなかへとびこんでさがしはじめました。\n\n３\n\n　にはとりさんはいひました。\n\n「僕はどうも、畑のなかにおつこちてるやうな気がするよ。」と畑をほじくりかへしました。",
+      "characters": 213,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　けれども見つかりませんでした。\n\n４\n\n　二人は一日中、ほじくつたり、もぐつたりしたので、どろだらけになりましたので、あひるさんのお母様がお風呂にいれてくださいました。\n\n　そして、こんなにきれいになりましたので、ごほうびに鉛筆をくださいました。",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "あひるさんのおたんじやう日",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "１\n\n　あひるさんのお母さんは、あひるさんのおたんじやう日に、にはとりさんと、にはとりさんのお母さんをごちさうによびました。\n\n２\n\n　食堂にはいつてごちさうを食べやうとしますと、急に、停電でまつくらになりました。\n\n３\n\n　一時間ばかりして電気がついて、テーブルの上を見ますと、沢山あつたごちさうは影も形もなくなつてゐます。あひるさんとにはとりさんがくらいうちに食べてしまつたからです。\n\n４\n\n　あひるさんのお母さんと、にはとりのお母さんは、がつかりしましたが、しかたがありませんので、紅茶だけで、がまんしました。",
+      "characters": 259,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "わがままをいつたばかりに",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "１\n\n　あひるさんはお母さんに、すてきな帽子を買つていたゞきましたが、気に入りません。学校へゆくのにこのとほり、お帽子を羽根の下へかくして行きました。\n\n２\n\n　にはとりさんは　あたらしいおくつを買つていただいたのに、「あんまり新らしすぎてはづかしいや」といつて、カバンの中へねじこんで、はだして学校へ。\n\n３\n\n　学校へ行きますと、二人は、頭と、足がいたくなりました。先生は、すぐ二人を自動車にのせて、お家《うち》へ送りとゞけて、おつしやいました。\n\n「もう二三日は、おとこの中でぢつとしてゐないといけません。」\n\n４\n\n　二人は、ベツドの中で、なきました。けれども、いたしかたございませんでした。",
+      "characters": 300,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "プールへゆきました",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "１\n\n　あひるさんと　にはとりさんは　あつくて　たまらないので　黒と　赤との水着をきて　プールへ　出かけました。\n\n２\n\n　あひるさんは　水泳の選手なので　大とくゐになつて　水中めがねなんぞ　かけたりして　およぎまわりました。\n\n　にはとりさんは　こわくて水の中に　はいれません　高い木のてつぺんにとまつて　あひるさんの泳ぐのを見ました。\n\n３\n\n　そのうちに　あひるさんは　水の中にあんまり長くゐたので　さむくなつて　ふるへだしました　にはとりさんは　高いところにゐたので　暑くて　汗がながれました。\n\n４\n\n　それを見た　しんせつな　プールの番人のがてふのおぢさんが　二人をボートにのせて　くれましたので　二人は　やつと寒さと　暑さがとまつて　ゆくわいに　あそびました。",
+      "characters": 337,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "おくびやうなあひるさん",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 12,
+      "content": "１\n\n　あひるさんが、ある日、お母様から頂いたおいしさうな、大きな桃を持つてゐますと後《うしろ》で、「あひるちやんや」といふ声がしました。\n\n２\n\n　あひるさんは、後《うしろ》をふりむいて見ると、自分より　もつともつと大きなあひるさんがつつ立つてゐますので、おどろいて逃げました。桃をとられると大変だと思つたので。\n\n３\n\n　あひるさんは、にはとりさんのお家《うち》にはいつて、にはとりさんと二人で、戸を内側からおさえて、桃をポケツトの中へかくしました。\n\n４\n\n　そして、窓から外をのぞいてみますと、それはあひるさんのお父さまだつたのです。まあ何て、あひるさんはあわて者なんでせう。",
+      "characters": 292,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "あひるさんとにはとりさんはのんきもの",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "１\n\n　あひるさんと　にはとりさんがみえなくなりました。おかあさんたちは　はうばう　さがしまわりましたけれど　どうしても　みつかりません。\n\n２\n\n　にはとりさんと　あひるさんのおかあさんは「たんてい」の犬さんのところへ行つて　さがしてくれるやうに　たのみました。\n\n３\n\n「たんてい」の犬さんは　さつそくやつてきて　おはなをくん／＼ならして　さがしましたが　みつかりません。\n\n４\n\n　虫めがねで家《うち》の中をみまわして　犬さんは申しました。「なるほどなるほど　ここに足あとがちやんとあります。御心配いりません。お二人はたぶん　この戸棚《とだな》の中で　ひるねをしてゐらつしやるんでせう。」\n\n　そして、まつたく犬さんのいつたとほりでございました。",
+      "characters": 326,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "どろだらけののりまき",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 16,
+      "content": "１\n\n　にはとりさんと　あひるさんは　お母さんに　おごちさうをこしらへていたゞいて　野原へあそびに出かけました。\n\n２\n\n　とちうで　何が気にさわつたのか　二人は急につむじをまげはじめました。一方が走り出すと　一方はのろのろ歩いたり　一人が左を歩くと　一人は右を歩いたりいたしました。\n\n３\n\n　やつと野原について　おべんたうを　たべることになりましたが　二人は　おごちさうを見られると　しやくだと思つて　バスケツトを手でかこつて　ひじをつツぱりました。\n\n４\n\n　すると　あんまり　ひじをつツぱりすぎたので　二人のバスケツトは一どにころ／＼と　ひつくりかへりました。おごちさうは　両方とも　同じのりまきだといふことだけわかりましたが　おなかがすいてゐても　たべることが出来ません。\n\n　なぜつてどろだらけになつちまひましたもの。",
+      "characters": 365,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "あひるさんとにはとりさんはなかよし",
+      "characters": 17,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "１\n\n　お三時に紅茶をのみました。にはとりさんはちびちびと。あひるさんはがぶがぶと。これは二人の生れつきだから、どうにもしかたございません。\n\n２\n\n　あひるさんのお茶わんは、すぐからつぽになりました。あんまり早くのみすぎて、まだまだ足りません。\n\n３\n\n　それを見たにはとりさん。まだ一杯あるので、半分だけ、わけてあげました。\n\n４\n\n　あとで、にはとりさんが砂遊びをしたくて、\n\n「うらの庭へ砂いじりにゆかうよ。」",
+      "characters": 209,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "といひましたら、あひるさんは水あそびがしたかつたけれど、\n\n「うん　いゝとも。」といつて、うらの庭へゆきました。ふたりは今日は朝から、とても仲がよろしいのです。",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "いじめつこの犬さん",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "１\n\n　あひるさんとにはとりさんに、このごろひどくこまつたことがあるのです。それは、まい日、がくかうに行く途中の曲り角に、犬さんがゐて、いぢわるをするのです。\n\n２\n\n　二人は、こわくてしかたがないので、とほまわりをして、がくかうにゆきましたが、矢張り犬さんが学校の門にかくれてゐて、あかんべをしたり、とびかかるまねをしたりします。\n\n３\n\n　犬さんの家は、せんたくやで、お父さんの犬さんは、毎日にはとりさんと、あひるさんのうちに、御用ききにまゐります。\n\n４\n\n　二人ははずかしくてしかたがありませんでしたが、犬さんのお父さんに、「犬さんにいじわるをしないやうにいつて下さい。」と、たのみました。\n\n　せんたくやの犬さんは「はい、はい、よろしゆうございます。」といひましたので、二人は大変安心いたしました。",
+      "characters": 354,
+      "ruby": []
+    }
+  ]
+}

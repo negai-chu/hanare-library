@@ -1,0 +1,48 @@
+{
+  "id": "a053443",
+  "title": "農学校歌",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "農学校歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "農学校歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "日ハ君臨シカガヤキハ\n\n白金ノ雨ソソギタリ\n\nワレラハ黒キ土ニ俯シ\n\nマコトノ草ノタネマケリ\n\n日ハ君臨シ穹窿ニ\n\nミナギリ亙ス青ビカリ\n\n光ノ汗ヲ感ズレバ\n\n気圏ノキハミクマモナシ\n\n日ハ君臨シ玻璃ノマド",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "清澄ニシテ寂カナリ\n\nサアレヤミチヲ索メテハ\n\n白堊ノ霧モアビヌベシ\n\n日ハ君臨シカヾヤキノ\n\n太陽系ハマヒルナリ\n\nケハシキ旅ノナカニシテ\n\nワレラヒカリノミチヲフム",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

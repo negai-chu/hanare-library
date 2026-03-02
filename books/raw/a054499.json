@@ -1,0 +1,60 @@
+{
+  "id": "a054499",
+  "title": "おもひで",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おもひで",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 114,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おもひで",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "父《ちゝ》ぎみはしはぶき二つ、\n\n母《はゝ》ぎみはそよ一雫《しづく》、\n\n瀬戸《せど》の海、東《ひがし》をさしし\n\n三日《みか》まへに我を見ましぬ。\n\n世馴《よな》れざる野がくれわらべ、\n\n手文筥《てふばこ》を封《ふう》じもあへず、\n\nゐざり出《い》て閾《しきゐ》の端《はし》の\n\n柱《はしら》抱《だ》き面《おもて》かくしぬ。\n\nいとほしや小《ちさ》き学生《がくしやう》",
+      "characters": 185,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いくとせを東《あづま》の京《きやう》の\n\n旅《たび》に寝《い》ね旅《たび》にねざめて\n\n文《ふみ》のわざいそしまむとや。\n\n口《くち》軽《かろ》く胸《むね》冷《ひや》やけき \n\n旅館女《はたごめ》の待遇ぶりに、\n\n慨《なげ》きては、雨《あめ》の夕《ゆうべ》の\n\n欄《らん》に、おゝ、何のおもひで。\n\nいとほし、と涙もろに、\n\n叔母ぎみは守袋《まもりぶくろ》を",
+      "characters": 179,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "てづからにやさしうかけて、\n\nわが背《せな》をそと撫《な》でましぬ。\n\nをりから車《くるま》気近《けぢか》う、\n\n婢女《はしため》、荷《に》をとゝのふれば、\n\n父ぎみはいとおごそかに\n\n健《けん》なれ、とそれよ一言。\n\n母《はゝ》ぎみよ乳母《うば》よ叔母《をば》ぎみ、\n\n朝露《あさつゆ》に五町《てふ》濡《ぬ》れ来て\n\nさらばよの御声《おんこゑ》ごえや、",
+      "characters": 177,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "やわらかにその尾をいきて\n\n野の鶏《とり》の声も流れつ。",
+      "characters": 28,
+      "ruby": []
+    }
+  ]
+}

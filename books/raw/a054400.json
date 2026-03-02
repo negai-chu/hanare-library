@@ -1,0 +1,48 @@
+{
+  "id": "a054400",
+  "title": "さびし",
+  "author": "山口芳光",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "さびし",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "さびし",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "吾は思ふ　淋しさを\n\n吾は思ふ　愛の淋しきを\n\n吾は思ふなり　母の愛を\n\n吾は思ふなり　友の愛を\n\nああ　いかなる縁《えにし》あればぞ\n\n母、吾を生み\n\nいかなる縁《えにし》あればぞ\n\n君又吾と知り　今吾が為に\n\nかくも真心もて看護《みとり》の氷嚢など取り返へゐるぞ",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "吾は思ふなり　愛の淋しきを\n\n吾は思ふなり　大空の寂寥を\n\nああ　淋し淋し\n\nいかなればぞ　母、吾を愛し\n\nいかなればぞ　友、吾を愛す",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

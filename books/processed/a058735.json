@@ -1,0 +1,42 @@
+{
+  "id": "a058735",
+  "title": "兎",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "兎",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "兎",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　拔足差足　忍び寄つた野兎は　蓆圍ひの隙間から　野菜畑に跳びこんだ\n\nとたんに係蹄《わな》に引かかる　南無三　とんぼがへりを二つ三つ\n\n力まかせに空を蹴る　月を蹴る　月は　山の端に入《は》いる\n\nやがて兎は　寢てしまふ　白菜たちが眼を醒す",
+      "characters": 119,
+      "ruby": []
+    }
+  ]
+}

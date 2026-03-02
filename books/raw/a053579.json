@@ -1,0 +1,48 @@
+{
+  "id": "a053579",
+  "title": "鉄橋橋下",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鉄橋橋下",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鉄橋橋下",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "人のにくしといふことば\n\nわれの哀しといふことば\n\nきのふ始めておぼえけり\n\nこの市《まち》の人なになれば\n\nわれを指さしあざけるか\n\n生れしものはてんねんに\n\nそのさびしさを守るのみ\n\n母のいかりの烈しき日\n\nあやしくさけび哀しみて",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鐵橋の下を歩むなり\n\n夕日にそむきわれひとり\n\n（滯郷哀語篇より）",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

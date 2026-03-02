@@ -1,0 +1,133 @@
+{
+  "id": "a053607",
+  "title": "和讃類纂",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 11
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "和讃類纂",
+        "startPage": 1,
+        "endPage": 11,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "一詠",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "二詠",
+            "startPage": 4,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "三詠",
+            "startPage": 6,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "四詠",
+            "startPage": 8,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "五詠",
+            "startPage": 10,
+            "endPage": 11
+          }
+        ]
+      }
+    ],
+    "totalPages": 11,
+    "averageCharsPerPage": 31,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "和讃類纂",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一詠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　ゆきはふる\n\nまなつまひるのやまみちに\n\n光るこなゆき\n\nさんらんたりや\n\nわが道心のたなごころ\n\nうすら侘しきたなごころ",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "二詠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "ひじりのみあし\n\nつめたきみあし\n\nおんかたへやるせなく\n\nかけまつるさうぞくの\n\nしののめのこゆむらさき\n\nいろのあさがほ",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "三詠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "なみぢのうへを\n\nとほくよりあゆませたまふ\n\nわが主いえすよ\n\nふなべりになみだをながし\n\nいちねん祈願したてまつる\n\nひとの子のわれの身のうへ\n\nおぼるるものはぺてろなり",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "四詠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "はなをつむ\n\nはなをつむこころはへ\n\nしろがねづくりの靴をはき\n\nみなつきはじめ\n\nくさばなのたねをつむ\n\nたねをつむこころはへ",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "五詠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "すずめ\n\nすずめ\n\n金のこなふる奧山《おくやま》に\n\nしんじついとしいべにすずめ\n\nすずめ\n\nすずめ\n\nみ山の奧のべに雀",
+      "characters": 60,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a051116",
+  "title": "海と太陽",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海と太陽",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海と太陽",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　海《うみ》は昼《ひる》眠《ね》る、夜《よる》も眠《ね》る、\n\nごうごう、いびきをかいて眠《ね》る。\n\n昔《むかし》、昔《むかし》、おお昔《むかし》\n\n海《うみ》がはじめて、口《くち》開《あ》けて、\n\n笑《わら》ったときに、太陽《たいよう》は、\n\n目《め》をまわして驚《おどろ》いた。\n\nかわいい花《はな》や、人《ひと》たちを、\n\n海《うみ》がのんでしまおうと、\n\nやさしく光《ひか》る太陽《たいよう》は、",
+      "characters": 203,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "魔術《まじゅつ》で、海《うみ》を眠《ねむ》らした。\n\n海《うみ》は昼《ひる》眠《ね》る、夜《よる》も眠《ね》る。\n\nごうごう、いびきをかいて眠《ね》る。",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

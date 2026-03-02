@@ -1,0 +1,48 @@
+{
+  "id": "a053349",
+  "title": "遊園地工作",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "遊園地工作",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "遊園地工作",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　歳は世紀に曾つて見ぬ\n\n石竹いろと湿潤と\n\n人は三年のひでりゆゑ\n\n食むべき糧もなしといふ\n\n稲かの青き槍の葉は\n\n多く倒れてまた起たず\n\n六条さては四角なる\n\n麦はかじろく空穂しぬ\n\nこのとききみは千万の",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人の糧もてかの原に\n\n亜鉛のいらか丹を塗りて\n\nいでゆの町をなすといふ\n\nこの代あらば野はもつて\n\n千年の計をなすべきに\n\n徒衣ぜい食のやかららに\n\n賤舞の園を供すとか",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053401",
+  "title": "開墾",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "開墾",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "開墾",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "落ちしのばらの芽はひかり\n\n樹液はしづにかはたれぬ\n\nあゝこの夕つゝましく\n\nきみと祈らばよからんを\n\nきみきたらずばわが成さん\n\nこの園つひにむなしけん\n\n西天黄ばみにごれるに\n\n雲の黒闇の見もあへず",
+      "characters": 101,
+      "ruby": []
+    }
+  ]
+}

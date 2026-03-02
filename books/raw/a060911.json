@@ -1,0 +1,42 @@
+{
+  "id": "a060911",
+  "title": "暗い時間に",
+  "author": "片山敏彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "暗い時間に",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 126,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "暗い時間に",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "空には\n燃える秋の星がある。\n地には天に向つて立つけやきがある。\n葉の階層――剛《つよ》い幹《みき》。年輪の多いあらい幹。\n彼は、昼と夜、空間のひろがりの中で\n思想である。流出である。\n心に\n不安がある。獣と共通な欲望がある。死を慕ふ憂欝がある。夢の記憶の破片がある。\n全《すべて》の感激に立ち上つて、それに交り込み\n限界の輪廓を打ち砕きたい動律と火流とがある。\nどこへ行くのか？　今それを思はない。\n僕は\n秋の夜の、目がぐらぐらするほどな\n星の無数の穴を見上げて立つ。\n一つの胸が、自分にある。",
+      "characters": 248,
+      "ruby": []
+    }
+  ]
+}

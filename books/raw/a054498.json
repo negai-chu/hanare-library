@@ -1,0 +1,42 @@
+{
+  "id": "a054498",
+  "title": "夕",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夕",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "直《なほ》らぬ病、身は痩せぬ。\n\n思へる仲《なか》も、今日《けふ》よりか、\n\n明日《あす》か、君には厭はれむ。\n\nかく思ふとき日は暮れて、\n\nこほろぎすだく磯際《いそぎは》の\n\n破れし船に泣き伏しぬ。",
+      "characters": 100,
+      "ruby": []
+    }
+  ]
+}

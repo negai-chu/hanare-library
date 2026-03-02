@@ -1,0 +1,42 @@
+{
+  "id": "a046731",
+  "title": "蚤と蚊",
+  "author": "土原耕作",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蚤と蚊",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蚤と蚊",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夏の暑い日になまけものがひるねをしておりますと、蚤と蚊が代る代るやって来て刺したり食いついたりしました。なまけ者は怒りだして、\n\n「折角ひとが寝ているのに何だっていたずらをするのだ」\n\n　と叱りつけました。\n\n　蚤と蚊とは声をそろえて答えました。\n\n「私たちはあなたのように寝ころんでいるなまけものがすきなのです。私たちに好かれないようになりたいならば、起き上ってセッセとお働きなさい」",
+      "characters": 193,
+      "ruby": []
+    }
+  ]
+}

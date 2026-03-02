@@ -1,0 +1,54 @@
+{
+  "id": "a054237",
+  "title": "電灯と浦島",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "電灯と浦島",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "電灯と浦島",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "昔は電気がなかったから\n\n昔の昔大昔生れて死んだ浦島に\n\n電気を見せてやったなら\n\n大へんびっくりするだろと\n\n電気を見せたら「オーヤオヤ」\n\n「此の電気はエライ暗いなあ」\n\n　　ハテナハテナ\n\n昔の昔大昔生れて死んだ浦島が\n\n電気を知ったわけがない",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　ハテナ　ハテナとよーくよく\n\n考へたが分らない\n\n仕方がないから浦島に\n\nわけを聞いたら浦島は\n\n「わしは今から何億年の\n\n　昔に龍宮へ行った時\n\n　百億色の電灯を\n\n　いくつもいくつも見たから\n\n　こんなボロボロ電灯は",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　わしは何とも思はない\n\nきいてビックリオーヤ／＼\n\nきいてビックリオーヤ／＼",
+      "characters": 39,
+      "ruby": []
+    }
+  ]
+}

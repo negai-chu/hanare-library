@@ -1,0 +1,42 @@
+{
+  "id": "a045091",
+  "title": "ひなた",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ひなた",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ひなた",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ひなたよ、ひなたよ、\n\nまるいけむりよ。\n\nひなたよ、ひなたよ、\n\nまるで兎《うさぎ》よ。\n\nひなたよ、ひなたよ、\n\n赤児《やや》をおろすよ。\n\nひなたよ、ひなたよ、\n\nみんなぬくいよ。",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

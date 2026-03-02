@@ -1,0 +1,42 @@
+{
+  "id": "a058278",
+  "title": "水底の感",
+  "author": "夏目漱石",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水底の感",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 75,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水底の感",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "水の底、水の底。住まば水の底。深き契り、深く沈めて、永く住まん、君と我。\n\n黒髮の、長き亂れ。藻屑もつれて、ゆるく漾ふ。夢ならぬ夢の命か。暗からぬ暗きあたり。\n\nうれし水底。清き吾等に、譏り遠く憂透らず。有耶無耶の心ゆらぎて、愛の影ほの見ゆ。\n\n――明治三十七年二月八日寺田寅彦宛の端書に――",
+      "characters": 146,
+      "ruby": []
+    }
+  ]
+}

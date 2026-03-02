@@ -1,0 +1,66 @@
+{
+  "id": "a052153",
+  "title": "和歌三",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "和歌三",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "和歌三",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "秋の暮れ\n\n嵐山夕べ淋しく鳴る鐘に\n\n　　　　こぼれそめてし木々の紅葉\n\n　　　桂小五郎揮亳を需めける時示すとて\n\nゆく春も心やすげに見ゆるかな\n\n　　　　花なき里の夕暮の空\n\n　　　○\n\nこゝろからのどけくもあるか野辺ハ猶\n\n　　　　雪げながらの春風ぞ吹",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　　○\n\n丸くとも一かどあれや人心\n\n　　　　あまりまろきはころびやすきぞ\n\n　　　奈良《ママ》崎将作に逢ひし夢見て\n\n面影の見えつる君が言の葉を\n\n　　　　かしくに祭る今日の尊さ\n\n　　　父母の霊を祭りて\n\nかぞいろの魂やきませと古里の\n\n　　　　雲井の空を仰ぐ今日哉",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　　　○\n\nゑにしらが艦寄するとも何かあらむ\n\n　　　　大和島根の動くべきかわ\n\n　　　○\n\n常磐山松の葉もりの春の月\n\n　　　　あきハあはれと何をもいけん\n\n　　　○\n\n世と共にうつれば曇る春の夜を\n\n　　　　朧月とも人は言ふなれ",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "　　　土佐で詠む\n\nさよふけて月をもめでし賤の男の\n\n　　　　庭の小萩の露を知りけり\n\n　　　伏見より江戸へ旅立つとき\n\n又あふと思ふ心をしるべにて\n\n　　　　道なき世にも出づる旅かな\n\n　　　淀川を遡りて\n\n藤の花今をさかりと咲きつれど\n\n　　　　船いそがれて見返りもせず",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "　　　泉州名産挽臼\n\n引臼の如くかみしもたがはずば\n\n　　　　かかる憂目に逢はまじきもの",
+      "characters": 44,
+      "ruby": []
+    }
+  ]
+}

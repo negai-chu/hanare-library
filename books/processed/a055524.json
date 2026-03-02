@@ -1,0 +1,54 @@
+{
+  "id": "a055524",
+  "title": "立待岬にいたりて",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "立待岬にいたりて",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "立待岬にいたりて",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　露西亜の船の沈んだ片身に残したと聞く石を抱いて\n\nわれは又ある日のざんげをするか\n\n函館山は高く\n\n要塞地として秘密を冠る\n\nおごそかな\n\n壮大なる岩礁の牢たる屹立は\n\n東方に面して\n\n何をひそかに語りつつあるか\n\n黒鳥のあまた　岩に群がり",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "波に浮び　魚を捕う\n\nかつてここら立待岬のアイヌ達は\n\n魚群の来《きた》るを銛《もり》を携えて立ち待てりと伝う\n\n東海の波濤のすさまじく寄せ打つ処\n\n崖上の草地にマントを着たる四五人の少女等\n\n寝そべりてハーモニカを吹き、微かに歌をうたう\n\n蟹とたわむれ　充たし得ぬ薄幸詩人の最后の願いは\n\nこの函館の地に死ぬことを願いしと碑銘に物語る\n\nその碑は今この岬へ行く山腹の途辺《みちべ》にあり",
+      "characters": 194,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "我をしも死地の願いを言わば\n\nこの地に久遠《くおん》のあこがれを抱くであろう",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

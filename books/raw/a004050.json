@@ -1,0 +1,42 @@
+{
+  "id": "a004050",
+  "title": "「あたりまえ」の一人の主婦",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「あたりまえ」の一人の主婦",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「あたりまえ」の一人の主婦",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "櫛田フキさんの特徴は、フキさんが「あたりまえ」の一人の主婦、母、おばあちゃんであり、同時に活溌に婦人民主クラブの公共的な活動をしているという点です。彼女は重荷の全部を知っています。女が幸福になるために何をどうしなければならないかを、知っている人です。\n\n〔一九五〇年五月〕",
+      "characters": 136,
+      "ruby": []
+    }
+  ]
+}

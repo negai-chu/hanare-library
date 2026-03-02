@@ -1,0 +1,42 @@
+{
+  "id": "a044942",
+  "title": "しんばい",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "しんばい",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 112,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "しんばい",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「けふは、あんまり　いたづらばかり　したので、もう　ぼくは　いい　こに　なれなく　なりや　しないかと、しんぱいだ。かあさん。」\n\n「そんな　こと　ありませんよ。あしたからでも、いい　こに　ならうと　おもへば、きつと　なれますよ。おやすみなさい。」\n\n（母でてゆく。）\n「かあさんは　ああ　いふけれど、しんぱいだなあ。こんばんから　おけいこを　しよう。どう　したら　いいか　しら。さうだ。きをつけを　したまま　ねて　やらう。」\n\n（ひとりごと）",
+      "characters": 221,
+      "ruby": []
+    }
+  ]
+}

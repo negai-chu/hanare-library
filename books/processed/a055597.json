@@ -1,0 +1,60 @@
+{
+  "id": "a055597",
+  "title": "たたかいの中に",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "たたかいの中に",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 101,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "たたかいの中に",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　母を飢えさせ\n\n妻子を飢えさせ\n\n幼き弟を稼がせて\n\nどうやら俺のいない家が保たれている\n\n「飢死《うえじに》の自由」は九尺二間の長屋を占領し\n\n共同井戸の水さえくさってまずい\n\n芋を煮て\n\n仏壇に捧げようとも\n\n心から、真に生命の極《きわみ》から",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "諦めぬうらみをこめて手向けとなり\n\n俺が死なないように\n\nむざむざとうらみの手に殺されないように\n\n無言のいのりがひそんでいる\n\n平和な家庭――生活、\n\n平和な生存、\n\nおしゃべりなしの真剣な愛、\n\n他人を侵《おか》すことなく\n\n他人と助け合い　他人と共に溶《と》けて",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "輝やかしい生活を夢む\n\n母や妻の胸に、\n\n俺は全身の血潮を感ずる\n\n誰か妻を、いとしき愛妻を\n\n誰か子を、わが血の通い《（ママ）》る児を\n\n誰か母を、俺を生める肉親の母を、\n\n見捨て　見放し\n\n街頭にさらし得るものぞ\n\n歴史の流れ",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "たたかいのうずまき\n\nかまびすしき鳴《めい》潮\n\n戦争と革命の時代に生れてきて\n\n明日のわがかばねは冷たくなるとも\n\n止むに止まれぬ確信にもえて\n\nたたかわんとする意志の力\n\n母よ　妻よ　子よ　弟よ\n\n俺は達者でいる\n\n俺は生きている、たたかいの中に。",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a054008",
+  "title": "赤い腕章",
+  "author": "波立一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "赤い腕章",
+        "startPage": 1,
+        "endPage": 6
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "赤い腕章",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　赤い集会を護り\n\n赤いデモを導く\n\n若さの誇りに輝く\n\n真赤な腕章\n\n党旗の下から\n\n組合旗の蔭から\n\n俺らの演壇には\n\n燃ゆる　燃ゆる\n\n俺らの胸は早鐘",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "俺らは血走る眼を注ぐ\n\n「真赤な腕章」へ\n\n「真赤な腕章」はビクともしない\n\n細心に　大胆に\n\n俺らの感情を護る\n\n「真赤な腕章」の役目は重い\n\n番犬共が耳打ち始める\n\nゆるんだ帽子の紐を締める\n\n――弁士中止！",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "瞬間\n\n「真赤な腕章」がグイと動く\n\n――官憲横暴！\n\n――横暴！　遣らせろ\n\n俺らは総立になり\n\n――解散！\n\n街頭の俺らは勇敢だ\n\n吠えかかる番犬共を\n\n蹴飛ばし蹴飛ばしデモは進む",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "「真赤な腕章」の指す方向へ\n\n「真赤な腕章」は頼もしい\n\n圧しつけられ\n\n搾り抜かれて\n\n長い　永い間\n\n鉄の如き辛棒で鍛えられ\n\n噴火山の如き脳味噌から迸り\n\n海の如き闘いから滲み出る\n\nプロレタリアの感情は",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "「真赤な腕章」の心臓だ\n\n真赤な布の腕章は\n\n若さの誇りに輝く。\n\n（発表誌不詳　『一九二八年プロレタリア詩集』を底本）",
+      "characters": 60,
+      "ruby": []
+    }
+  ]
+}

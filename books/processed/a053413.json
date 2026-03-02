@@ -1,0 +1,42 @@
+{
+  "id": "a053413",
+  "title": "製炭小屋",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "製炭小屋",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "製炭小屋",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　もろの崖より　たゆみなく\n\n朽ち石まろぶ　黒夜谷\n\n鳴きどよもせば　慈悲心鳥《じふいち》の\n\nわれにはつらき　睡りかな\n\n榾組み直し　ものおもひ\n\nものうちおもひ　榾組みて\n\nはやくも東　谷のはて\n\n雲にも朱の　色立ちぬ",
+      "characters": 111,
+      "ruby": []
+    }
+  ]
+}

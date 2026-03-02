@@ -1,0 +1,42 @@
+{
+  "id": "a055019",
+  "title": "伏兵",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "伏兵",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 23,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "伏兵",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　雨のなかに伏せつてゐた兵士らの群よ\n\n青空へ五月へ\n\n今　走りゆく兵士らの背に野は萌える",
+      "characters": 45,
+      "ruby": []
+    }
+  ]
+}

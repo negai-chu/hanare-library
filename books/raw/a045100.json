@@ -1,0 +1,48 @@
+{
+  "id": "a045100",
+  "title": "光",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "光",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "光",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "畑の光のなかにゐる。\n\n黒い土をば耕《かへ》してる。\n\n町の光の中にゐる。\n\n馬をつないで売つてゐる。\n\n窓の光のなかにゐる。\n\n紡《つむぎ》ぐるまをまはしてる。\n\nくらい光のなかにゐる。\n\n鎚《つち》で金鉱たゝいてる。\n\n――人は光りのなかにゐる。",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　神も光りのなかにゐる。",
+      "characters": 13,
+      "ruby": []
+    }
+  ]
+}

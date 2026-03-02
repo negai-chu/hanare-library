@@ -1,0 +1,42 @@
+{
+  "id": "a055572",
+  "title": "羅漢寺",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "羅漢寺",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "羅漢寺",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　羅漢寺の羅漢に盗癖ありて\n\nともれるろうそくの涙を啜り\n\n金財袋の紐をほどき\n\n赤さびた銅貨を奪う。",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

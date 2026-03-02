@@ -1,0 +1,42 @@
+{
+  "id": "a058740",
+  "title": "かいつぶり",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かいつぶり",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かいつぶり",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かいつぶり　かいつぶり　そうれ頭に火がついた\n\n私たちの歌に應へて　かいつぶりは水に沈む\n\nそれは旱魃の夏だつた　ただそれだけのことだつた\n\nかいつぶり　かいつぶり　かいつぶりのゐない日もあつた",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

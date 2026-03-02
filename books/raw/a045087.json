@@ -1,0 +1,48 @@
+{
+  "id": "a045087",
+  "title": "ひかる",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ひかる",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ひかる",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ひるはどこもがひかるんだ。\n\nみてるとどこもがひかるんだ。\n\nぼうしのひさしがひかるんだ。\n\nたれのひさしもひかるんだ。\n\nフツトボールがひかるんだ。\n\nたかいおそらがひかるんだ。\n\nせんせいのかほひかるんだ。\n\nにこ／＼としてひかるんだ。\n\nせんだんのえだひかるんだ。",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "めをもつえだがひかるんだ。\n\nこうていのこゑひかるんだ。\n\nみんなのこゑがひかるんだ。\n\nがつこうのそらひかるんだ。\n\nみてるとひるがひかるんだ。",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "a003842",
+  "title": "心の飛沫",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "心の飛沫",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 92,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "心の飛沫",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "胡坐\n\n　ああ　草原に出で\n\n　ゆっくりと楡の木蔭\n\n　我が初夏の胡坐を組もう。\n\n　空は水色の襦子《サティン》を張ったよう\n\n　白雲が　湧いては消え　湧いては消え\n\n　飽きない自然の模様を描く。\n\n　遠くに泉でもあるか\n\n　清らかな風のふくこと！",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　私は、蟻の這い廻る老いた幹に頭を靠《よ》せ\n\n　牧人のように\n\n　外気に眼を瞑って　光を吸う。\n\n　耀《ひかり》や熱に　魂がとけ\n\n　軽々と情景に翔ぶ　この思い。\n\n　　カーテン\n\n　若き夫と妻。\n\n　明るい六月の電燈の下で\n\n　チラチラと鋏を輝かせ",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　針を運び\n\n　繊細なレースをいじる。――\n\n　「どう？……これでよろしいの？\n\n　長くはなくって？」\n\n　妻は薄紫のきものの膝から\n\n　雪のようなきれをつまみあげた。\n\n　「いいだろう。寸法を計ったのだもの」\n\n　夫は　二足で　傍らの小窓に近づいた\n\n　六月　窓外の樹々は繁り",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "　かすかな虫の声もする　夜。\n\n　朝　彼等の小窓に\n\n　泡立つレースのカーテンが\n\n　御殿のように風に戦いで　膨らんだ。\n\n〔一九二四年六月〕",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

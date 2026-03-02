@@ -1,0 +1,48 @@
+{
+  "id": "a060959",
+  "title": "火の記憶",
+  "author": "木下夕爾",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "火の記憶",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "火の記憶",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　とある家の垣根から\n\n蔓《つる》草がどんなにやさしい手をのばしても\n\nあの雲をつかまえることはできない\n\n遠いのだ\n\nあんなに手近にうかびながら\n\nとある木の梢《こずえ》の\n\n終りの蝉《せみ》がどんなに小さく鳴いていても\n\nすぐそれがわきかえるような激しさに変る\n\n鳴きやめたものがいつせいに目をさますのだ",
+      "characters": 154,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "町の曲り角で\n\n田舎みちの踏切で\n\n私は立ち止つて自分の影を踏む\n\n太陽がどんなに遠くへ去つても\n\nあの日石畳に刻みつけられた影が消えてしまつても\n\n私はなお強く　濃く　熱く\n\n今在《あ》るものの影を踏みしめる",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

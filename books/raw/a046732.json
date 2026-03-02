@@ -1,0 +1,42 @@
+{
+  "id": "a046732",
+  "title": "蛇と蛙",
+  "author": "土原耕作",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蛇と蛙",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 108,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蛇と蛙",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "冬になると蛇も蛙も何もたべなくなって土の中へもぐってしまいます。\n\n　秋の末になって一匹の蛇が蛙に近づいて、\n\n「どうだい。今までは敵同士だったが、もう君をたべなくてもいいから仲直りをして一緒の穴へ入ろうじゃないか」\n\n　と言いますと、蛙は眼をパチクリさして頭をふりました。\n\n「嫌なこった。そんなことを言って来年の春あたたかくなったら一番に私をたべる積りだろう。私と仲よくしたいならふだんから私たちをたべないようにするがいい」",
+      "characters": 214,
+      "ruby": []
+    }
+  ]
+}

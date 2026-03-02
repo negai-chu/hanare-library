@@ -1,0 +1,72 @@
+{
+  "id": "a055552",
+  "title": "姉へ",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "姉へ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 83,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "姉へ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "蒔付時に子を生んで\n\nあせって起きて働いて\n\n足腰立たなくなったという\n\n姉よ　何たる不幸ぞや\n\n病気をした時\n\n神主に拝んでもらって\n\n紙っ切れを水でのまされて\n\nそれでなおらば、\n\nお安いけれど",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "去年□《一字不明》死んだ妹を\n\n姉よまさかに忘れまい\n\nあの妹が死んだ時\n\n足は青んぶくれ\n\n顔はまんまるお盆のよう\n\n眼が見えなくなったきり、\n\n最後には\n\nわけのわからぬあれこれを\n\n大声でわめいたっけ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あのおとなしかった妹が\n\nいまも耳元にのこる\n\n最後のあの声　死んだ妹の言葉、\n\nプロレタリアだの\n\nキョウサントウだの\n\nロシアだの\n\nあれはどこかでおぼえていたのを\n\nうらみのように\n\nどなって死んだ、",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "不幸はおいらに\n\nぜいたくはあいつら地主に\n\n東郷大将が三十五万円のラジウムとか\n\n使って死んだという\n\n十銭の薬も買えず\n\n木の根　草の葉、\n\n又は正真正銘の紙切れのんで\n\n死んでく人間の\n\n何とこの頃多いことよ、",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "死んだりするのが運命ではない\n\n死ぬのは大方金がない為、\n\n貧乏なため\n\n働いても働いても\n\n生活に余裕が出来ないため\n\nどこかに大きな穴があって\n\nそこでうじゃうじゃと\n\nしたい放題やって\n\n百姓の生血しぼっているため",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "死んじゃだめだよ\n\n生きねばならん\n\n生きて恨みを晴らさにゃならん\n\nロシアのようによい世の中に\n\n作りかえねばならんのだ",
+      "characters": 61,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053353",
+  "title": "〔霧降る萱の細みちに〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔霧降る萱の細みちに〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔霧降る萱の細みちに〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "霧降る萱の細みちに\n\nわれをいぶかり腕組める\n\nなはたくましき漢子かな\n\n白き上着はよそへども\n\nひそに醸せるなが酒を\n\nうち索めたるわれならず\n\nはがねの槌は手にあれど\n\nながしづかなる山畑に\n\n銅を探らんわれならず",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "検土の杖はになへども\n\n四方にすだけるむらどりの\n\n一羽もために落ちざらん\n\n土をけみして培《つちかひ》の\n\n企画をなさんつとめのみ\n\nさあればなれよ高萱の\n\n群うち縫へるこのみちを\n\nわがためにこそひらけかし\n\n権現山のいたゞきの",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "黒き巌は何やらん\n\n霧の中より光り出づるを",
+      "characters": 21,
+      "ruby": []
+    }
+  ]
+}

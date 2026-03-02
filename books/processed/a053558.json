@@ -1,0 +1,42 @@
+{
+  "id": "a053558",
+  "title": "放蕩の虫",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "放蕩の虫",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "放蕩の虫",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　放蕩の蟲は玉蟲\n\nそつと來て心の底で泣く蟲\n\n夜としなればすずろにも\n\nリキユールグラスの端《へり》を這ふ蟲\n\n放蕩の蟲はいとほしや\n\n放蕩の蟲は玉蟲\n\n青いこころでひんやりと\n\n色街の薄らあかりに鳴く蟲\n\n三味線の撥《ばち》にきて光る蟲放蕩の蟲はせんなや",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

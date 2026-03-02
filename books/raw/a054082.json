@@ -1,0 +1,60 @@
+{
+  "id": "a054082",
+  "title": "死の凱旋兵",
+  "author": "国見善弘",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "死の凱旋兵",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 63,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "死の凱旋兵",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "砲煙弾雨の中に\n\n　　　　常に描いて居た\n\n懐かしい故郷の\n\n　　　　停車場だった\n\n白布に包まれた\n\n　　　　木箱の中で\n\n無言の英雄は\n\n　　　　故郷に抱かれた\n\n　　　　　　喜こびに",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "打ちふるえて\n\n　　　　居るだろう\n\n軽々と　けれど\n\n　　　　つつましく\n\n木箱を捧げた\n\n　　　　戦友は\n\n微かな砲煙の臭を\n\n　　　　感じながら\n\n高まって来る",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　　　　感情を\n\nこらえて居た\n\n弔旗がしずかに\n\n　　　　垂れて\n\n水を打った様な\n\n　　　　出迎えの中を\n\n今　悲しい死の\n\n　　　　凱旋兵は\n\n　　　　　　行く",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "一九三七年、善弘が従兄にあてた手紙より\n（一九七九年二月槇村浩の会刊『土佐プロレタリア詩集』を底本）",
+      "characters": 50,
+      "ruby": []
+    }
+  ]
+}

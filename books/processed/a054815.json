@@ -1,0 +1,48 @@
+{
+  "id": "a054815",
+  "title": "夕焼け",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夕焼け",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夕焼け",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　赤い赤い四角い形が\n\n障子に落ちている\n\n青い青い丸い葉が\n\n赤い空気に酔っている\n\nひらひらとコーモリが\n\n躍る\n\n人は\n\n静かに戸を閉めて\n\n電気をつけて",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "汁をすする\n\n赤い明るい西の空も\n\n灰色にむしばまれる\n\nそしてくろくなって\n\nやがてだいやもんどに灯がつく\n\nそして人は日記などつけて\n\n灯を消し\n\n一日が終わったと考えて\n\n神に感謝して祈る",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

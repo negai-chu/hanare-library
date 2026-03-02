@@ -1,0 +1,42 @@
+{
+  "id": "a058742",
+  "title": "鴨　一",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鴨　一",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鴨　一",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "二羽　三羽　霧のかかつた水際に　黒い小鴨が游いでゐる\n\n私は林の小徑を出る　――それとなし彼らはくるりと向きをかへる\n\nやがて一羽は空に揚る　一羽は水の面を飛ぶ　一羽はあとに殘される\n\n彼は周章てて水を打つ　水を打つ　やつとからだが宙に浮く　仲間と違つた方角へ",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

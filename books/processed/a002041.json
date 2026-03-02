@@ -1,0 +1,42 @@
+{
+  "id": "a002041",
+  "title": "あやどり",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あやどり",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あやどり",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　静けき海のかなた、\n\n日影しのびいる、森の奥に、\n\n彩鳥《あやどり》の声すと、きゝぬ。\n\nその音は、裂けし白玉の\n\n一片《ひとは》にも似て、\n\nいささかの悲しみをやる。\n\nいねがたき夏　南国！\n\n浪のよるひるも、起きぶして、\n\nいかばかり彩鳥《あやどり》の音の恋《こ》ひしき。",
+      "characters": 139,
+      "ruby": []
+    }
+  ]
+}

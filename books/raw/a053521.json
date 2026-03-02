@@ -1,0 +1,66 @@
+{
+  "id": "a053521",
+  "title": "俳句",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "俳句",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "俳句",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "○\n\n五月幟立つ家家の向うは海\n\n　　　○\n\n暮鳥忌\n磯濱の煙わびしき年のくれ\n\n笹鳴\n\n笹鳴の日かげをくぐる庭の隅\n\n笹鳴や日脚のおそき縁の先\n\n　　　○\n\n天城ごえ伊豆に入る日や遲櫻",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "青梅に言葉すくなき別れ哉\n\n　　　○\n\n青梅《あをうめ》に言葉すくなき別れかな\n\n　　　○\n\n冬日くれぬ思ひおこせや牡蠣の塚\n\n　　　○\n\n我が心また新しく泣かんとす\n冬日暮れぬ思ひ起せや岩に牡蠣\n\n　　　○\n\nブラジルに珈琲植ゑむ秋の風",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "枯菊や日日にさめゆくいきどほり\n\n　　　○\n\nプラタヌの葉は散りはてぬ靴磨き\n\n冬さるる畠に乾ける靴の泥\n\n　　　○\n\n虹立つや人馬にぎはふ空の上\n\n　　　○\n\n人間に火星近づく暑さかな\n\n秋さびし皿みなわれて納屋の隅",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "枯菊や日日に醒めゆく憤り\n\n虹たつや人馬にぎはふ空の上\n\n『遺稿』より\n\n我が齡すでに知命を過ぎぬ\n枯菊や日日にさめゆく憤り\n\n若き日の希望《のぞみ》すべて皆空しくなりぬ\n秋さびし皿みな割れて納屋の隅\n\n嗚呼すでに衰へ、わが心また新しく泣かむとす\n冬日くれぬ思ひ起せや岩に牡蠣《かき》\n\n故郷に歸れる日、利根の河原をひとり歩きて\n磊落と河原を行けば草雲雀",
+      "characters": 177,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "わが幻想の都市は空にあり\n虹立つや人馬賑ふ空の上\n\n隱遁の情止みがたく、芭蕉を思ふこと切なり\n藪蔭や蔦もからまぬ唐辛子\n\n晩秋の日、湘南の或る侘しき海水浴場にて\nコスモスや海少し見ゆる邸道",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

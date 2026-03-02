@@ -1,0 +1,42 @@
+{
+  "id": "a055226",
+  "title": "忘れたるにあらねども",
+  "author": "サッフォ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "忘れたるにあらねども",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "忘れたるにあらねども",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "たかき樹の枝にかかり、\n\n梢にかかり、\n\n果實《このみ》とるひとが忘れてゆきたる、\n\nいな、\n\n忘れたるにあらねども、\n\nえがたくて、\n\nのこしたる紅き林檎の果《み》のやうに。",
+      "characters": 88,
+      "ruby": []
+    }
+  ]
+}

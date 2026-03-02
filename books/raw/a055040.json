@@ -1,0 +1,42 @@
+{
+  "id": "a055040",
+  "title": "体操",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "体操",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 43,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "体操",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "煉瓦塀をおし破つて転《まろ》びにゆく青い草地\n\n肩にのぼる花やかな雲\n\n雲をよんで刺しとめる新しい剣\n\n口にとびこんでくる微細な飛行機\n\n飛行機が逃げぐちを求める一枚の空",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

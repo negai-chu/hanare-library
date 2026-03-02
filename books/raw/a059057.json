@@ -1,0 +1,54 @@
+{
+  "id": "a059057",
+  "title": "ふしあわせ者のうた",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ふしあわせ者のうた",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 92,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ふしあわせ者のうた",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "人間には幸福と不幸がある\n\nそれは何処からきているか\n\nみなもと深く学者はしらべた\n\n人々は自分に照りあわせ\n\n実際的に納得した\n\nけれども\n\n目ざす彼岸は高く\n\nあまりに遠い\n\nふしあわせは",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "片時もはなれずつきまとう\n\n人という人はことごとく\n\n本能　感情　意志を持つ\n\n不幸は四六時中五感をつっさす\n\nみんなは生きる\n\nふしあわせとの組み打ち\n\nふしあわせは一様でない\n\nその千差万別をうたいたい\n\nことに　普遍的なものよりも",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "特殊なふしあわせをうたいたい\n\nたとえば肉体的なかたわ者\n\n人は彼を見ることさえうとんじ\n\n愛の花もしぼませる\n\nそれにもまして心のかたわもの\n\n愛も怒りも消え失せ\n\n人は彼をさけ　自分は我が身を投げ深ばまりしてゆく\n\nわたしは彼らのビッコの心の中をうたいたい\n\n仲間の心をもって、愛と泪をもって",
+      "characters": 148,
+      "ruby": []
+    }
+  ]
+}

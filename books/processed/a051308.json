@@ -1,0 +1,48 @@
+{
+  "id": "a051308",
+  "title": "秋の日曜",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋の日曜",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋の日曜",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　私の部屋の、窓越しに\n\nみえるのは、エヤ・サイン\n\n軽くあがつた　二つの気球\n\n青い空は金色に澄み、\n\nそこから茸《きのこ》の薫りは生れ、\n\n娘は生れ夢も生れる。\n\nでも、風は冷え、\n\n街はいつたいに雨の翌日のやうで\n\nはじめて紹介される人同志はなじまない。",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "誰もかも再会に懐しむ、\n\nあの貞順な奥さんも\n\n昔の喜びに笑ひいでる。",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

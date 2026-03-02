@@ -1,0 +1,54 @@
+{
+  "id": "a053818",
+  "title": "峠",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "峠",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 32,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "峠",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "とて馬車\n\nとろとろ\n\n峠の眞晝よ\n\nひらひら\n\n蝶々よ\n\n青い空だよ\n\nとろとろ\n\nかげろふ\n\n白い道だよ",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ゐねむり\n\nとろとろ\n\n馬車屋の爺さよ\n\nとろとろ\n\nお馬も\n\n足並おそいよ\n\nお客も\n\nとろとろ\n\n何だかとろとろ",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "とろとろ\n\n峠は\n\n遠い道だよ",
+      "characters": 15,
+      "ruby": []
+    }
+  ]
+}

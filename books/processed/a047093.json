@@ -1,0 +1,88 @@
+{
+  "id": "a047093",
+  "title": "機縁",
+  "author": "蒲原有明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "機縁",
+        "startPage": 1,
+        "endPage": 7,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "その一",
+            "startPage": 2,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "その二",
+            "startPage": 5,
+            "endPage": 7
+          }
+        ]
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "機縁",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "その一",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　大海《おほうみ》かたち定めぬ劫初《はじめ》の代《よ》に\n\n水泡《みなわ》の嵐たゆたふ千尋《ちひろ》の底。\n\n折しも焔《ほのほ》はゆるき『時』の鎖《くさり》、\n\nまひろく永き刻みに囚《とらは》れつつ、\n\n群鳥《むらどり》翔《かけ》る翼のその噪《さわ》ぎと、\n\nその疾《と》さあらめ、宛《あたか》も眠《ねぶ》り転《まろ》び、\n\n無際の上枝《ほつえ》下枝《しづえ》を火の殻《から》負《お》ひ\n\n這《は》ひもてわたる蝸牛《くわぎゆう》の姿しめす。\n\n火と水、相遇はざりし心を、今、",
+      "characters": 237,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "夜《よ》とせば、かりそめならぬ朝や日や、\n\n舞ひたつ疾風《はやち》歓喜《よろこび》空を揺《ゆ》りて、\n\n擁《いだ》きぬ、触れぬ、燃えなす願ひよ、将《は》た、\n\n霑《うるほ》すおもひよ、ここに力の芽《め》は\n\n男子《をのこ》と燻《くゆ》りて、雙手《もろて》、見よ、披《ひら》けり。",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "その二",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "水と火、噫《あゝ》相遇へり、青き膏《あぶら》、\n\n浮浪ただよふひまをかぎろひたち、\n\nくちづけ、手握《たにぎ》るや、このひと時こそ\n\n生命《いのち》の精《き》なれ、よろづの調《しらべ》のもと。\n\n歌へり『劫初《ごふしよ》』、かかれば極《はて》のくまも\n\n讃頌《ほめうた》こだまにこたへ、化《な》り出でたる\n\n真白き姿―しぶきと消えぬ花や、\n\n奇《くす》しきにほひ焔の蘂《ずゐ》をまとふ。\n\n現ぜる女《をみな》よ、胸乳抑《おそ》ふる手の",
+      "characters": 217,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "とこしへ解きもあへざる深きおもひ\n\nつゝみて独りながむるけはひ著《し》るし\n\nなべての秘事《ひめごと》孕《はら》むこは母ぞと\n\n知れりや、水泡胡蝶のつばさ浮び、\n\n千条《ちすじ》の烟いぶきて薫りみちぬ。\n\n（月刊スケツチ　第十一号　明治三十九年二月）",
+      "characters": 125,
+      "ruby": []
+    }
+  ]
+}

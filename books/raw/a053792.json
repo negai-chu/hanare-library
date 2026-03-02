@@ -1,0 +1,42 @@
+{
+  "id": "a053792",
+  "title": "肉親の章",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "肉親の章",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 158,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "肉親の章",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私は24歳。丁度母が私を産んだ齢である。聖セバスチアンの様に美しい弟、ローザルクサムブルグの木像の様な妹、母は吾等三人に孕胎分娩の苦楽を話して聞かせた。私は三人を代表して\n\n――遂に――\n\n　オカアサマ　ボクラ　モスコシキョウダイガホシカツタンデス\n\n――遂に母は弟の次の孕胎に六個月で流産した顛末を告げた。\n\n　アレハオトコダツタンダ　コトシデ19　　（母の溜息）\n\n　三人は各々見識らぬ兄弟の幻の面貌を見た。――コノクライモ大――と形容する母の腕と拳固は痩せている。二回もの咯血をした私が冷清を極めている家族のために早く娶らうと焦る気持ちであつた。私は24歳　私も母が私を産んだ様に――何か産まねばと私は思ふのであつた。",
+      "characters": 312,
+      "ruby": []
+    }
+  ]
+}

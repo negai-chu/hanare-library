@@ -1,0 +1,60 @@
+{
+  "id": "a054009",
+  "title": "運勢",
+  "author": "波立一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "運勢",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "運勢",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "腰を下して\n\n膝かぶに\n\nのっけた掌《たなごころ》\n\n俺らの運勢をみろ\n\nごつごつの節くれ奴\n\n大根　ごっそりひきぬいて\n\n町さ　うんとこ運んでも\n\n伜の\n\n雑記帳と読本は軽いもんだ",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "なあ女房\n\nいくら人参が好物だって\n\n堪《こら》えて呉ろよ\n\n鎮守の店《たな》に借があるだぞ\n\n役場の赤紙も溜ってるだ\n\nごつごつの節くれ奴！\n\n一生\n\n運勢だとあきらめて\n\n地主の倉に",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "種を蒔いているだか\n\n一体《てい》？\n\n俺らの収穫《とりいれ》はいつの秋だ\n\n夜の星　鋤《すき》を洗って\n\n朝の星　鎌を掴んで\n\nごすごす研《と》いでると\n\n冴えた刃先に真赤な空映《そらばえ》\n\nほう　朝焼だ！\n\n町の工場の弟が",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "朝陽をいっぱい浴びながら\n\n帽子をふりふりやってくる\n\n待ってたぞ\n\n便りは何だ\n\n鎌をぎっしり握るんだ\n\nごつごつの節くれ奴！\n\n（『戦旗』一九二八年十一月号に発表）",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

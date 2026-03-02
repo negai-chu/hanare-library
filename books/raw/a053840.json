@@ -1,0 +1,42 @@
+{
+  "id": "a053840",
+  "title": "一番幌馬車",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "一番幌馬車",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "一番幌馬車",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "駈けて行きます　霧の街\n\n一番幌馬車　カポカポと\n\n駈けてゆきます　霧の街\n\n柳並木の　アスフアルト\n\nランタンゆれます　霧のなか\n\nぬれてほのかな　あかりです\n\n駈けてゆきます　霧の街\n\n古いみやこの　はやい朝",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

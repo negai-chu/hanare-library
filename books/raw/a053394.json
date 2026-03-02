@@ -1,0 +1,54 @@
+{
+  "id": "a053394",
+  "title": "四八　黄泉路",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "四八　黄泉路",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "四八　黄泉路",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "アリイルスチュアール\n一九二七\n\n（房中寒くむなしくて\n\n灯は消え月は出でざるに\n\n大なる恐怖《クフ》の声なして\n\nいま起ちたるはそも何ぞ！……\n\nわが知るものの霊《たましひ》よ\n\n何とてなれは来りしや？）\n\n　　　（君は云へりき　わが待たば\n\n　　　　君も必ず来らんと……）",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "（愛しきされど愚かしき\n\n遙けくなれの死しけるを\n\n亡きと生けるはもろ共に\n\n行き交ふことの許されね\n\nいざはやなれはくらやみに\n\nわれは愛にぞ行くべかり）\n\n　　　（ゆふべはまことしかるらん\n\n　　　　今宵はしかくあらぬなり）\n\n（とは云へなれは何をもて",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ひととわれとをさまたぐる\n\nそのひとまことそのむかし\n\n汝《な》がありしごと愛しきに\n\nしかも汝はいま亡きものを！）\n\n　　　（しかも汝とていまは亡し）",
+      "characters": 76,
+      "ruby": []
+    }
+  ]
+}

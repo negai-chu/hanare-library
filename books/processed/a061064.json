@@ -1,0 +1,42 @@
+{
+  "id": "a061064",
+  "title": "人が人に",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "人が人に",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "人が人に",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　人が人に砂をかけるから\n\n心が心に砂をかけるから\n\n砂をかける人\n\nかけられる人\n\nかけられたからかけ返す\n\nかけ返すからまたもどって来る",
+      "characters": 70,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053415",
+  "title": "〔棕梠の葉やゝに痙攣し〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔棕梠の葉やゝに痙攣し〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔棕梠の葉やゝに痙攣し〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "棕梠の葉やゝに痙攣し\n\n陽光横目に過ぐるころ\n\n湯屋には声のほのかにて\n\n溝《どぶ》水ほとと落ちたるに\n\n放蕩無頼の息子の大工\n\nこのとき古きスコットランドの\n\n貴族風して戻り来れり",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

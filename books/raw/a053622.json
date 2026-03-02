@@ -1,0 +1,48 @@
+{
+  "id": "a053622",
+  "title": "疾患光路",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "疾患光路",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "疾患光路",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "我れのゆく路、\n\n菊を捧げてあゆむ路、\n\nいつしん供養、\n\nにくしんに血をしたたらすの路、\n\n肉さかな、きやべつの路、\n\n邪淫の路、\n\n電車軌道のみちもせに、\n\n犬、畜生をして純銀たらしむる、\n\n疾患せんちめんたる夕ぐれの路、",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ああ、素つぱだかの聖者の路。\n\n――十月作――",
+      "characters": 23,
+      "ruby": []
+    }
+  ]
+}

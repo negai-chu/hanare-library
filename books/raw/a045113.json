@@ -1,0 +1,54 @@
+{
+  "id": "a045113",
+  "title": "ちらちら光れ小い星",
+  "author": "テーラージェーン",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ちらちら光れ小い星",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ちらちら光れ小い星",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ちらちら光れ小い星、\n\nあなたは何だろ小い星。\n\n金剛石だおほ空の、\n\n遠くて高いおほ空の。\n\n真赤に燃えた陽が落ちて\n\n光がみんな失《な》くなると\n\nあなたは小さく光り出す、\n\nそしてちらちら夜明けまで。\n\n暗い闇ゆく旅びとは",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あなたの光に礼をいふ。\n\nもしもあなたが光らねば、\n\n道に迷つて困るもの。\n\nあなたは暗いお空から\n\nカアテンの隙のぞいてる。\n\nそしてよつぴて眠らない、\n\n明日の朝が来るまでは、\n\nあなたの光はちらちらと\n\n夜の旅びと照すけど",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あなたは何だろ、わからない。\n\nちらちら光れよ小い星。",
+      "characters": 27,
+      "ruby": []
+    }
+  ]
+}

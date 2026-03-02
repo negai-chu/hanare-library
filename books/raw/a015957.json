@@ -1,0 +1,42 @@
+{
+  "id": "a015957",
+  "title": "私の本年の希望と計画",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の本年の希望と計画",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の本年の希望と計画",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "具体的のことは実際出来て見なければわかりませんが、今年は少し仕事が出来そうなので悦んで居ります。\n\n〔一九二四年一月〕",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

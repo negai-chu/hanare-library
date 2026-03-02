@@ -1,0 +1,42 @@
+{
+  "id": "a048757",
+  "title": "欲望と理想",
+  "author": "田山花袋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "欲望と理想",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "欲望と理想",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "深い心理に入つて見ることが第一だ。\n\n　欲望と理想――これは生存には無論必要であるが、それが實際に當つて、如何に破壞されて行くかを細心に研究して見るが好い。欲望は即ち破壞ではないか。",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

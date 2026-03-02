@@ -1,0 +1,42 @@
+{
+  "id": "a053721",
+  "title": "二十二年",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "二十二年",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "二十二年",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　前後左右を除く唯一の痕跡に於ける\n\n翼段不逝　目大不覩\n\n胖矮小形の神の眼前に我は落傷した故事を有つ。\n\n　┌──┐　　　　┌──┐\n\n　│　　│　　　　│　　│\n\n　│　←┘　　　　└→　│\n\n　└──────────┘\n\n（臓腑　其者は浸水された畜舎とは異るものであらうか）",
+      "characters": 140,
+      "ruby": []
+    }
+  ]
+}

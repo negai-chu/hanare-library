@@ -1,0 +1,48 @@
+{
+  "id": "a053553",
+  "title": "ものごころ",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ものごころ",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ものごころ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ものごころ覺えそめたるわが性のうすらあかりは\n\n春の夜の雪のごとくにしめやかにして\n\nふきあげのほとりに咲けるなでしこの花にも似たり\n\nああこのうるほひをもておん身の髮を濡らすべきか\n\nしからずはその手をこそ\n\nふくらかなる白きお指にくちをあて\n\nやみがたき情愁の海にひたりつくさむ\n\nおん身よ\n\nなになればかくもわが肩によりすがり",
+      "characters": 167,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いつもいつもくさばなの吐息もてささやき給ふや\n\nこのごろは涙しげく流れ出でて\n\nひるもゆふべもやむことなし\n\nああ友よ\n\nかくもいたいけなる我がものごころのもよほしに\n\n秋もまぢかのひとむら時雨\n\nさもさつさつとおとし來れり",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

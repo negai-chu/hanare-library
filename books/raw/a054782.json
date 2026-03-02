@@ -1,0 +1,54 @@
+{
+  "id": "a054782",
+  "title": "夜通し風がふいていた",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜通し風がふいていた",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜通し風がふいていた",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "上衣のボタンもかけずに\n\n厠《かわや》へつっ走って行った\n\n厠のまん中に\n\nくさったリンゴみたいな電灯が一つ\n\nまっ黒な兵舎の中では\n\n兵隊たちが\n\nあたまから毛布をかむって\n\n夢もみずにねむっているのだ\n\nくらやみの中で",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "まじめくさった目をみひらいている\n\nやつもいるのだ\n\n東の方が白《しら》んできて\n\n細い月がのぼっていた\n\n風に夜どおしみがかれた星は\n\nだんだん小さくなって\n\n光をうしなってゆく\n\nたちどまって空をあおいで\n\n空からなにか来そうな気で",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "まってたけれども\n\nなんにもくるはずもなかった",
+      "characters": 23,
+      "ruby": []
+    }
+  ]
+}

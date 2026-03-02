@@ -1,0 +1,72 @@
+{
+  "id": "a002628",
+  "title": "樹木とその葉",
+  "author": "若山牧水",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 8
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "樹木とその葉",
+        "startPage": 1,
+        "endPage": 7
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "樹木とその葉",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ソレ、君と通つて\n\n此處なら屹度《きつと》釣れると云つた\n\nあの淀み\n\n富士からと天城《あまぎ》からとの\n\n二つの川の出合つた\n\n大きな淀みに\n\nたうとう出かけて行つて釣つて見ました\n\nかなり重い錘《おもり》でしたが\n\n沈むのによほどかゝる",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "四尋からの深さがありました\n\nとろりとした水面に\n\nすれ／＼に釣竿が影を落す\n\nそれだけで私の心は大滿足でした\n\n山の根はいゝが\n\n惜しいことに\n\n釣つてゐる上に道がある\n\nなるたけ身體を\n\n小松の蔭にかくしてゐるのだが",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "竿だけは上から眼につく\n\n「あたりますかナ」\n\n一人の男が上に蹲踞《しやが》んで云ふのです\n\n「イヤ一向……\n\n一體此處では何が釣れるのです」\n\nこの私の問には\n\n向うで困つたやうです\n\n「さア……\n\nうなぎ",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "なまづ\n\nふな\n\nまア、まるた位ゐでせうナ……\n\n餌は何です」\n\n「みゝずです」\n\n「みゝずなら\n\n何にでもいゝ」\n\nと言つてのそりと大きな男は立ち上りました\n\nそして言ひ添へました",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "「どうも此頃\n\nあたらなくなりましたよ」\n\n「ですかねヱ……\n\n左樣なら」\n\n私は振返つて言ひました\n\nそのうち\n\nこまかな雨が來ました\n\n身體のめぐりの\n\n曼珠沙華《まんじゆさげ》が次第に濡れて",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "なんとも云へぬ赤い色です\n\nそれが水にも映つてる\n\n對岸の藪の向うでは\n\n見えはしないが\n\n蟲送りでせう\n\nかん、かん、かんと秋らしい鉦《かね》が聞える\n\n富士から愛鷹《あしたか》にかけては\n\nいちめんに塗りつぶした樣な雲で\n\n私の釣竿からもたうとう雫が落ち出しました",
+      "characters": 134,
+      "ruby": []
+    }
+  ]
+}

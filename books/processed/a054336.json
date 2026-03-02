@@ -1,0 +1,42 @@
+{
+  "id": "a054336",
+  "title": "都の話",
+  "author": "渡久山水鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "都の話",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "都の話",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　浪笛兄のふるさとを読み同じ趣向を例の小曲にて試みたるが「都の話」一篇\n\n母は問ふ都の話\n\n馬車、電車、宮城門の\n\n楠公の御像《みぞう》の雄姿《ゆうし》\n\n又問ひぬ、上野パノラマ、\n\n動物園浅草菩薩《あさくさぼさつ》。",
+      "characters": 109,
+      "ruby": []
+    }
+  ]
+}

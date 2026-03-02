@@ -1,0 +1,42 @@
+{
+  "id": "a054515",
+  "title": "ある歴史に就て",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ある歴史に就て",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ある歴史に就て",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　星が一つ\n\n森林の中の\n\n忘れられた静かな湖水へ降りて来て\n\n暫く思案にくれていた\n\n（それを知っていたものは誰もいない天空にいる星達さえも存じなかった）\n\n星にも厭世があるのかしら？\n\n星は湖水へ沈んで行った",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

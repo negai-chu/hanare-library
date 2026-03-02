@@ -1,0 +1,54 @@
+{
+  "id": "a053617",
+  "title": "巡礼紀行",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "巡礼紀行",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "巡礼紀行",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　きびしく凍りて、\n\n指ちぎれむとすれども、\n\n杖は絶頂《いただき》にするどく光る、\n\n七重の氷雪、\n\n山路ふかみ、\n\nわがともがらは一列に、\n\nいためる心山峽《はざま》たどる。\n\nしだいに四方《よも》を眺むれば、\n\n遠き地平を超え、",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "黒き眞冬を超えて叫びしんりつす、\n\nああ聖地靈感の狼ら、\n\nかなしみ切齒《はがみ》なし、\n\nにくしんを研ぎてもとむるものを、\n\n息絶えんとしてかつはしる。\n\n疾走《はし》れるものを見るなかれ、\n\nいまともがらは一列に、\n\n手に手に銀の鈴ふりて、\n\n雪ふる空に鳥を薫じ、",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "涙ぐましき夕餐《ゆふげ》とはなる。\n\n―一九一四、一〇―",
+      "characters": 28,
+      "ruby": []
+    }
+  ]
+}

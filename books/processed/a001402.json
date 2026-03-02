@@ -1,0 +1,42 @@
+{
+  "id": "a001402",
+  "title": "心",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "心",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "心",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　淋しき日悲しき思ひ\n\n吾が心弄《ろう》し去んぬる。\n\nあわれその心のすむは、\n\n落寞の森の木《こ》ぬれか。\n\nきゝなれし歌のしらべも、\n\n今日《けふ》も又、明日《あす》も消ゑゆく。\n\n消ゑ去るを止むすべきなき、\n\nこの心、「総」むなしき。",
+      "characters": 120,
+      "ruby": []
+    }
+  ]
+}

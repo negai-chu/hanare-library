@@ -1,0 +1,42 @@
+{
+  "id": "a051117",
+  "title": "月が出る",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月が出る",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 95,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月が出る",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　だれが山《やま》でらっぱ吹《ふ》く、\n\n青《あお》い空《そら》から月《つき》が出《で》る。\n\nだれが野《の》で太鼓《たいこ》打《う》つ、\n\n広《ひろ》い畑《はた》から月《つき》が出《で》る。\n\nだれが海《うみ》で笛《ふえ》を吹《ふ》く、\n\n波《なみ》の中《なか》から月《つき》がでる。\n\nだれが町《まち》で歌《うた》うたう、\n\n月《つき》がまんまるく照《て》らしている。",
+      "characters": 186,
+      "ruby": []
+    }
+  ]
+}

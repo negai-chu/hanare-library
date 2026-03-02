@@ -1,0 +1,48 @@
+{
+  "id": "a043026",
+  "title": "雪中の日光より",
+  "author": "木下尚江",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪中の日光より",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 159,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪中の日光より",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十八日發　　　樹蔭生\n\n十六日夜は渡良瀬河畔に父老と語り明かしつ、明けの日も爲めにいたく時をうつしぬ、堤上の茂竹枯れて春は來ぬれど鶯も鳴かずなど訴ふるを聽て\n\n　鶯も鳴かずなりぬる里人は\n\n　　　　　　なにをしるしに春は知るらん\n\n佐野の停車場に車を待ちぬるに山風に雪の降り來ぬれば\n\n　袖さへに拂はでむかし忍ぶかな\n\n　　　　　　佐野のわたりの雪の夕暮\n\n　覺束な、明日入る路や絶へぬらん\n\n　　　　　　足尾の山はみ雪降るなり",
+      "characters": 214,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "十七日、日光に泊りぬ、奧羽地方より雪ふみ分けて來ぬる參詣の旅客にて賑はし、\n\n今朝起き出でぬれば雪積もること三尺、美觀言はん方なし\n\n　まれに來し人の爲めとや山姫は\n\n　　　　　　雪の白綾かつぎしぬらん\n\n去れど心さす方のある身には如何ばかり苦しかるらん、今も尚ほ繽紛《ひんぷん》として止まんともせず、せめては雪のはるゝを待ちて登山せん\n\n　行方さへあはれ何れとしら雪の\n\n　　　　　　あまきる空をながめぬるかな\n\n華氏五十三度されど雪後の寒さこそ思ひやらるれ、\n\n（明治三十三年二月二十二日　毎日新聞第八八二六號）",
+      "characters": 258,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "a046407",
+  "title": "京都人の夜景色",
+  "author": "村山槐多",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "京都人の夜景色",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "京都人の夜景色",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ま、綺麗やおへんかどうえ\n\nこのたそがれの明るさや暗さや\n\nどうどつしやろ紫の空のいろ\n\n空中に女の毛がからまる\n\nま、見とみやすなよろしゆおすえな\n\n西空がうつすらと薄紅い玻璃みたいに\n\nどうどつしやろえええなあ\n\nほんまに綺麗えな、きらきらしてまぶしい\n\n灯がとぼる、アーク燈も電気も提灯も",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ホイツスラーの薄ら明かりに\n\nあては立つて居る四条大橋\n\nじつと北を見つめながら\n\n虹の様に五色に霞んでるえ北山が\n\n河原の水の仰山さ、あの仰山の水わいな\n\n青うて冷たいやろえなあれ先斗町の灯が\n\nきらきらと映つとおすわ\n\n三味線が一寸もきこえんのはどうしたのやろ\n\n芸妓はんがちらちらと見えるのに",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ま、もう夜どすか早いえな\n\nお空が紫でお星さんがきらきらと\n\nたんとの人出やな、美しい人ばかり\n\nまるで燈と顔との戦場\n\nあ、びつくりした電車が走る\n\nあ、こはかつた\n\nええ風が吹く事、今夜は\n\n綺麗やけど冷めたい晩やわ\n\nあては四条大橋に立つて居る",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "花の様に輝く仁丹の色電気\n\nうるしぬりの夜空に\n\nなんで、ぽかんと立つて居るのやろ\n\nあても知りまへんに。",
+      "characters": 53,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053429",
+  "title": "〔かくまでに〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔かくまでに〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 32,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔かくまでに〕",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かくまでに\n\n心をいたましむるは\n\n薄明穹の黒き血痕\n\n新らしき\n\n見習士官の肩章をつけ\n\nなが恋敵笑ひ過ぐるを",
+      "characters": 57,
+      "ruby": []
+    }
+  ]
+}

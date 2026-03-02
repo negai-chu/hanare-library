@@ -1,0 +1,42 @@
+{
+  "id": "a055918",
+  "title": "（天才が一度恋をすると）",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "（天才が一度恋をすると）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "（天才が一度恋をすると）",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　天才が一度恋をすると\n\n思惟の対象がみんな恋人になります。\n\n御覧なさい\n\n天才は彼の自叙伝を急ぎさうなものに\n\n恋愛伝の方を先に書きました",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

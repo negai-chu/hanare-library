@@ -1,0 +1,48 @@
+{
+  "id": "a001327",
+  "title": "かの日の歌【四】",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かの日の歌【四】",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かの日の歌【四】",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ささへかねたる苦痛の重さ！\n\n心と肉とは、時ふるへり。\n\n年わかき悲哀《かなしみ》とそのきほひは、\n\n何日《いつ》きゆべき！　あわれ迷はしきかな。\n\n人通りの繁《しげ》き町へゆかむ、\n\n南！旧暦十五夜の黄金《こがね》の涙を\n\nたゝへし町へ！\n\nそこにはあまき女《ひと》の声、\n\n暗の中に紅きルビーの如くゆれる。",
+      "characters": 156,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "吾れはそこにゆかむ、かわほりの如く、\n\n――そこに歓楽の響きを聞くべし！",
+      "characters": 36,
+      "ruby": []
+    }
+  ]
+}

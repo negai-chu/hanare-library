@@ -1,0 +1,147 @@
+{
+  "id": "a050411",
+  "title": "唱歌",
+  "author": "石川啄木",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 10
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "校友歌",
+        "startPage": 2,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "一",
+            "startPage": 3,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "二",
+            "startPage": 4,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "三",
+            "startPage": 4,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "四",
+            "startPage": 5,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "五",
+            "startPage": 6,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-2",
+        "title": "別れ",
+        "startPage": 7,
+        "endPage": 9,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "一",
+            "startPage": 8,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "二",
+            "startPage": 8,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "三",
+            "startPage": 9,
+            "endPage": 9
+          }
+        ]
+      }
+    ],
+    "totalPages": 9,
+    "averageCharsPerPage": 61,
+    "chapterTitles": [
+      "校友歌",
+      "別れ"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "唱歌",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "校友歌",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　澁民尋常小學校生徒のために。\n\n丙午七月一日作歌。\n\n一\n\n文の林の淺緑\n\n樹影しづけきこの庭に\n\n桂の庵の露むすび\n\n惠みの星を迎ぎ見て\n\n春また春といそしめば\n\n心の枝も若芽すも。",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "二\n\n芽ぐめる枝に水そそぎ\n\nまた培ふや朝夕に\n\n父母のなさけを身にしめて\n\n螢雪の苦をつみゆかば\n\n智慧の木の實の味甘き\n\n常世の苑も遠からじ。\n\n三\n\n導びく人の温かき",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "み手にひかれて睦み合ふ\n\n我が三百の兄弟よ\n\n木枯ふけど雪ふれど\n\nきえぬ學びの燈の\n\n光を永久に守らまし。\n\n四\n\n雪をいただく岩手山\n\n名さへ優しき姫神の\n\n山の間を流れゆく",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "千古の水の北上に\n\n心を洗ひ筆洗ふ\n\nこの樂しみを誰か知る。\n\n五\n\n山は秀でて水清く\n\n秀麗の氣をあつめたる\n\nこのみちのくの澁民の\n\n母校の友よいざさらば\n\n文の林の奧深く理想の旗を推し立てむ。",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "別れ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "澁民小學校卒業式に歌へる。\n\n譜「荒城の月」に同じ。\n\n一\n\n心は高し岩手山\n\n思ひは長し北上や\n\nこゝ澁民の學舍に\n\nむつびし年の重りて\n\n二\n\n梅こそ咲かね風かほる",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "彌生二十日の春の晝\n\n若き心の歌ごゑに\n\nわかれのむしろ興たけぬ\n\n三\n\nあゝわが友よいざさらば\n\n希望の海に帆をあげよ\n\n思ひはつきぬ今日の日の\n\nつどひを永久の思ひ出に\n\n（明治四十年三月作）",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

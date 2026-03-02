@@ -1,0 +1,48 @@
+{
+  "id": "a053654",
+  "title": "南京陥落の日に",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "南京陥落の日に",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "南京陥落の日に",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　歳まさに暮れんとして\n\n兵士の銃劍は白く光れり。\n\n軍旅の暦は夏秋をすぎ\n\nゆうべ上海を拔いて百千キロ。\n\nわが行軍の日は憩はず\n\n人馬先に爭ひ走りて\n\n輜重は泥濘の道に續けり。\n\nああこの曠野に戰ふもの\n\nちかつて皆生歸を期せず",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鐵兜きて日に燒けたり。\n\n天寒く日は凍り\n\n歳まさに暮れんとして\n\n南京ここに陷落す。\n\nあげよ我等の日章旗\n\n人みな愁眉をひらくの時\n\nわが戰勝を決定して\n\nよろしく萬歳を祝ふべし。\n\nよろしく萬歳を叫ぶべし。",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

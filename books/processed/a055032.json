@@ -1,0 +1,42 @@
+{
+  "id": "a055032",
+  "title": "最後の手紙",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "最後の手紙",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 113,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "最後の手紙",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　氷になつて\n午后一時　Ａ広場のまんなかで消えてしまう。\n\n　　　　　\n\n贈つてもらつた独逸製の目醒し時計の中に隠れるから\n燈台の尖へあがつていつて\n海の方へ力いつぱい抛つてくれたまへ。\n\n　　　　　\n\n太平洋のまんなかには、ちツちやくて綺麗な魚はゐないだらうか\nかならず僕を喰べてほしい、豆になつて跳びこむから。\n\n　　　　　\n\nせツちやん。\n君は僕のいふことを聞いてはくれぬ故、僕は以上三ツのいづれかを実行します。では、達者でね。さよなら。",
+      "characters": 222,
+      "ruby": []
+    }
+  ]
+}

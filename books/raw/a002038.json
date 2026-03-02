@@ -1,0 +1,48 @@
+{
+  "id": "a002038",
+  "title": "つかれ",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "つかれ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "つかれ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "淋しき夜の音づれ、\n\nつかれし眼にうつり\n\nわなゝき震ふ心は、たゆむ隙なく、\n\nあるかなきかの影にも似たれ。\n\n青める星の空《そら》より、\n\n涙ににじむ曲《ふし》を、地になげかわす、\n\nそはわれに、\n\n耳そばだてゝ聞けとや…………\n\nつかれし心に、何をかきかむ、",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "願ふは、眼の光をとざし。\n\n淋しき夜の音づれ――\n\n闇のかほりを、すはむと思ふ。",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

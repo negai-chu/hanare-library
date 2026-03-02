@@ -1,0 +1,42 @@
+{
+  "id": "a051114",
+  "title": "お母さん",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お母さん",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 127,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お母さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「お母《かあ》さん海《うみ》が見《み》えた！\n\nあれあれかもめが飛《と》んでいるよ。\n\nあれあれあんなに遠《とお》く帆掛船《ほかけぶね》が\n\n見《み》えるよ。\n\nお母《かあ》さんお母《かあ》さん海《うみ》が見《み》えたよ！」と\n\n子供《こども》がいった。\n\n「沖《おき》の白帆《しらほ》が白《しろ》いか、飛《と》んでいるかもめが白《しろ》いか、わたしの姿《すがた》が白《しろ》いか。」と\n\n波《なみ》がいった。\n\n「さあ、車夫《くるまや》さん、かまわんで引《ひ》いてください。」と　母《はは》がいった。",
+      "characters": 251,
+      "ruby": []
+    }
+  ]
+}

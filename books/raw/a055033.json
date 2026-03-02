@@ -1,0 +1,42 @@
+{
+  "id": "a055033",
+  "title": "氏",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "氏",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "氏",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "氏は書を能くし\n発句や謡をたしなみ　就中　たいてい柔道二段ぐらゐの腕まへあり\n氏は毎朝　東天遙拝　のちラヂオ体操\nたのまれて話の屑籠なども執筆なさるのだ\n氏は　氏の一挙手一投足は逸話となつて細大洩らさず新聞などに珍重され\n氏の巾広い声量《バス》は氏の身代のやうに潤沢\nたとへば除幕式などに周知の風采をあらはして一言もつて祝辞などを述べ\n給ふ",
+      "characters": 170,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054525",
+  "title": "星と過去",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "星と過去",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "星と過去",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　星はある夜\n\n緑の灯を輝やかし\n\n仲よく円座で評議する\n\n星はある夜\n\n右手を長くさし伸べて\n\n神秘な事件を信号する\n\n星はある夜\n\nさやさやさや\n\n清水の流れにたわむれる",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "星はある夜\n\n森林の小枝に\n\n小さな首を吊していた",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

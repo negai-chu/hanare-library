@@ -1,0 +1,42 @@
+{
+  "id": "a003731",
+  "title": "有島氏の死を知って",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "有島氏の死を知って",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "有島氏の死を知って",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一、実に心を打れた驚き、同時に畏ろしい厳粛な心持。人生の深みを、はっと見た心。\n\n二、私は、世の中に起ったああ云うことに対しての所謂世間の批評を、そう一々注意して居りません。\n\n〔一九二三年九月〕",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

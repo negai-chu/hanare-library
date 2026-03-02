@@ -1,0 +1,42 @@
+{
+  "id": "a053621",
+  "title": "冬を待つひと",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬を待つひと",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬を待つひと",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　こほれる利根のみなかみに、\n\nひねもす銀の針を垂れ、\n\nしづかに水に針を垂れ、\n\nさしぐみきたる冬を待つ。\n\nああ、その空さへもうすくもり、\n\nかみつけの山に雪くれば、\n\n魚らひそかに針をのみ、\n\nま芝は霜にいろづけど、\n\nひとり岸邊に針を垂れ、來らむとする冬を待つ。",
+      "characters": 135,
+      "ruby": []
+    }
+  ]
+}

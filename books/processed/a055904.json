@@ -1,0 +1,48 @@
+{
+  "id": "a055904",
+  "title": "春の夕暮",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春の夕暮",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春の夕暮",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　塗板がセンベイ食べて\n\n春の日の夕暮は静かです\n\nアンダースロウされた灰が蒼ざめて\n\n春の日の夕暮は穏かです\n\nあゝ、案山子はなきか――あるまい\n\n馬嘶くか――嘶きもしまい\n\nたゞたゞ青色の月の光のノメランとするまゝに\n\n従順なのは春の日の夕暮か\n\nポトホトと臘涙に野の中の伽藍は赤く",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "荷馬車の車、油を失ひ\n\n私が歴史的現在に物を言へば\n\n嘲る嘲る空と山とが\n\n瓦が一枚はぐれました\n\n春の日の夕暮はこれから無言ながら\n\n前進します\n\n自らの静脈管の中へです",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

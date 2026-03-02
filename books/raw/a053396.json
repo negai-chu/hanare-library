@@ -1,0 +1,42 @@
+{
+  "id": "a053396",
+  "title": "宅地",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "宅地",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 25,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "宅地",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "白日雲の角に入り\n\n害条桐を辞し堕ちぬ\n\n黒き豚《ゐのこ》は巣を出でて\n\nキャベヂの茎を穿ちたり",
+      "characters": 48,
+      "ruby": []
+    }
+  ]
+}

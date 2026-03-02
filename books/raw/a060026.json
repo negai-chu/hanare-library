@@ -1,0 +1,93 @@
+{
+  "id": "a060026",
+  "title": "藤村いろは歌留多",
+  "author": "島崎藤村",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 9
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "藤村いろは歌留多",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "このいろはがるた",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 9,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "藤村いろは歌留多",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "「歌留多」の函\n\n「歌留多」のなかに折りたたみで入っていたパンフレット",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "このいろはがるた",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 4,
+      "content": "　長いこと私は民話を書くことを思ひ立つて、未だにそれを果さずにゐますが、このいろはがるたもそんな心持から作つて見ました。私の『幼きものに』や、『ふるさと』や、『をさなものがたり』は、形こそ童話でありますが、その心持は民話に近いやうに、子供のために作つたこのいろはがるたも矢張それに近いものです。子供よ、來て遊べ、と言つて、父母も一緒に遊んで下さい。\n\nい　犬も道を知る。\n\nろ　櫓は深い水、棹は淺い水。\n\nは　鼻から提灯。\n\nに　鷄のおはやうも三度。\n\nほ　星まで高く飛べ。\n\nへ　臍も身の内。\n\nと　虎の皮自慢。\n\nち　ちひさい時からあるものは、大きくなつてもある。",
+      "characters": 284,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "り　林檎に目鼻。\n\nぬ　沼に住む鯰、沼に遊ぶ鯰。\n\nる　瑠璃や駒鳥をきけば父母がこひしい。\n\nを　丘のやうに古い。\n\nわ　わからずやにつける藥はないか。\n\nか　賢い鴉は黒く化粧する。\n\nよ　好いお客は後から。\n\nた　竹のことは竹に習へ。\n\nれ　零點か百點か。",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "そ　空飛ぶ鳥も土を忘れず。\n\nつ　つんぼに内證話。\n\nね　猫には手毬。\n\nな　なんにも知らない馬鹿、何もかも知つてゐる馬鹿。\n\nら　蝋燭は靜かに燃え。\n\nむ　胸を開け。\n\nう　瓜は四つにも輪にも切られる。\n\nゐ　猪の尻もちつき。\n\nの　のんきに根氣。",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "お　玩具は野にも畠にも。\n\nく　草も餅になる。\n\nや　藪から棒。\n\nま　誠實は殘る。\n\nけ　決心一つ。\n\nふ　不思議な御縁。\n\nこ　獨樂の澄む時、心棒のる時。\n\nえ　枝葉より根元。\n\nて　手習も三年。",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "あ　鸚鵡の口に戸はたてられず。\n\nさ　里芋の山盛り。\n\nき　菊の風情、朝顏の心。\n\nゆ　雪がふれば犬でもうれしい。\n\nめ　めづらしからう、面白からう。\n\nみ　耳を貸して手を借りられ。\n\nし　仕合せの明後日。\n\nゑ　笑顏は光る。\n\nひ　日和に足駄ばき。",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "も　持ちつ持たれつ。\n\nせ　蝉はぬけがらを忘る。\n\nす　西瓜丸裸。",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

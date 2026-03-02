@@ -1,0 +1,42 @@
+{
+  "id": "a053400",
+  "title": "校庭",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "校庭",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "校庭",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　さ霧する白き木柵\n\n幹彫れる桐のいくもと\n\n剥げそめし白きペンキの\n\n木柵に人人は倚り\n\nそのペンキあるいは剥げ\n\nあるものは庭をのぞめり\n\n一鐘のラッパが鳴りて\n\n急ぎ行く港先生\n\n白堊城秋のガラスはひらごとにうつろなりけり",
+      "characters": 114,
+      "ruby": []
+    }
+  ]
+}

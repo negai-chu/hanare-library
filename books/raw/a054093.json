@@ -1,0 +1,66 @@
+{
+  "id": "a054093",
+  "title": "朝へ行く",
+  "author": "平林彪吾",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "朝へ行く",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "朝へ行く",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "午前六時\n\n私はアングルにまたがる\n\nクレーンはアングルをよこす\n\n私はつかんでひきよせる\n\nリベットはやける\n\n鉄と鉄をしめつける\n\nそれは私の仕事だ。\n\n思想はやける\n\n人と人とをむすびつける",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "それは私の仕事だ。\n\n午後六時\n\n私は言う\n\n集会は言うのがたたかいだ\n\n「異議なし」と聞く\n\n私は誇る、\n\n仕事は進む、\n\n「異議あり」という\n\n仕事は練れる",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "夜更け\n\n昂奮の顔を風に冷やして帰る\n\n夜更け\n\n今日の思想を消化し\n\n明日の仕事に輝いて帰る\n\n歩く足、大地につけて\n\n一歩も一歩も\n\n私は進む、夜明けに連る道\n\n十二時、私は眠る",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "明日の仕事が寝て来いという\n\n私は眠る、私は眠る\n\n疲労が逃げて、朝が起す\n\n午前六時、\n\n私はアングルにまたがる\n\nだが、位置はちがう\n\nおとついのアングルは縦に立ち\n\nきのうのアングルは横に架《かか》る\n\nそして今日",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "私は胴腹をしめる\n\n仕事は進む、夜明けに連る道を\n\n私たちは進む\n\nおお、棟上げは迫る。\n\n（一九三四年八月三十日作　『詩精神』同年十月号に松元実名で発表）",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053857",
+  "title": "コスモスとお母さま",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "コスモスとお母さま",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "コスモスとお母さま",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　コスモスの　咲いてるお庭\n\nお母さまは　せんたくなさる\n\nコスモスの　花より高く\n\nお母さまは　竿をあげなさる\n\nコスモスと　お母さまと\n\nせいくらべ　せいくらべ\n\nコスモスは　とても咲いてる\n\nミルクの色の　雲も浮いてる",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

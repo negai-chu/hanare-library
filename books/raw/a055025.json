@@ -1,0 +1,48 @@
+{
+  "id": "a055025",
+  "title": "月あかり",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月あかり",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月あかり",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "青い　おほきい船にのつてゆかう。\n\nほんとうに痩せてしまつたぼくの肩\n\nあたらしい紺飛白ばかり匂ひがたかいよ。\n\n月あかりは胸から背なへぬけてしまつた\n\nほそながい影ひとつ　ぼくのうしろへ映つてゐやしない。\n\nたゞ青くつて\n\nしづかな航海はほんとうにこころぼそい\n\n楽隊ずきのペンギン鳥が氷の島に\n\n月のしたに並んでゐたつて",
+      "characters": 162,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "陽気な唄も\n\n銀笛ひとつ持ちあはしてはゐないのさ。\n\n月あかりの向ふにみんなみんな消えていつた\n\n弟のやつも　母も　友だちも消えていつた\n\n船尾にうごくさびしい旗と。\n\n旗のしたに立つた僕と。\n\nたゞ青くつて\n\nしづかな航海はほんとうにこころぼそい。",
+      "characters": 125,
+      "ruby": []
+    }
+  ]
+}

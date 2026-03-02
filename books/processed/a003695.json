@@ -1,0 +1,42 @@
+{
+  "id": "a003695",
+  "title": "今年改良したき事",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年改良したき事",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年改良したき事",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　日常生活の形式等は、出来る丈単純にしているので、今私の心に在るものは、改良したいというより、寧ろ進展したい心持でございます。けれども故石川啄木の歌に\n\nひと晩に咲かせてみむと梅の鉢を\n\n　　火に焙りしが咲かざりしかな\n\nとある心持を深く、切実に感ぜられます。\n\n〔一九二一年一月〕",
+      "characters": 141,
+      "ruby": []
+    }
+  ]
+}

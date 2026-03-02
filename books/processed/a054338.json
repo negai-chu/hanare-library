@@ -1,0 +1,42 @@
+{
+  "id": "a054338",
+  "title": "室内",
+  "author": "渡久山水鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "室内",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 35,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "室内",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　垣間見ぬ君が室内《へやぬち》\n\n明日《あす》来むと云いし其の日に\n\n待てど君姿は見ゑず\n\n我心苛苛《いらいら》しさに\n\n垣間見ぬ君が室内",
+      "characters": 69,
+      "ruby": []
+    }
+  ]
+}

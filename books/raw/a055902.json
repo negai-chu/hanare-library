@@ -1,0 +1,48 @@
+{
+  "id": "a055902",
+  "title": "初恋",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "初恋",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "初恋",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "最も弱いものは\n\n弱いもの――\n\n最も強いものは\n\n強いもの――\n\nタバコの灰は\n\n霧の不平――\n\n燈心は\n\n決闘――\n\n最も弱いものが",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "最も強いものに――\n\nタバコの灰が\n\n燈心に――\n\n霧の不平が\n\n決闘に\n\n嘗てみえたことはありませんでしたか？\n\n――それは初恋です",
+      "characters": 67,
+      "ruby": []
+    }
+  ]
+}

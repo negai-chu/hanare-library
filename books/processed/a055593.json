@@ -1,0 +1,42 @@
+{
+  "id": "a055593",
+  "title": "闘士の恋の歌",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "闘士の恋の歌",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "闘士の恋の歌",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　この腕で木刀をうけとめ\n\nこの肋骨で拷問にこたえ\n\nこの眼で奴らをねめかえし\n\nこの歯で奴等に喰いつき\n\nこの脚で敵の包囲を蹴破った\n\nこの私のからだは\n\nお前のもの、そして一緒に階級のもの\n\nプロレタリアートの陣営のもの",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

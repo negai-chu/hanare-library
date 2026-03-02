@@ -1,0 +1,48 @@
+{
+  "id": "a052144",
+  "title": "新政府綱領八策",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "新政府綱領八策",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "新政府綱領八策",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "第一義\n\n天下有名ノ人材ヲ招致シ　顧問ニ供フ\n第二義\n\n有材ノ諸侯ヲ撰用シ　朝廷ノ官爵ヲ賜ヒ　現今有名無実ノ官ヲ除ク\n第三義\n\n外国ノ交際ヲ議定ス\n第四義\n\n律令ヲ撰シ　新ニ無窮ノ大典ヲ定ム　律令既ニ定レバ諸侯伯皆此ヲ奉ジテ部下ヲ率ス\n第五義\n\n上下議政所\n第六義\n\n海陸軍局",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "第七義\n\n親兵\n第八義\n\n皇国今日ノ金銀物価ヲ外国ト平均ス\n右預《（アラカジ）》メ二三ノ明眼士ト議定シ　諸侯会盟ノ日ヲ待ッテ云々○○○自ラ盟主ト為リ　此ヲ以テ朝廷ニ奉リ　始テ天下万民ニ公布云々　強抗非礼公議ニ違フ者ハ断然征討ス　権門貴族モ貸借スルナシ\n\n　慶応丁卯十一月坂本直柔",
+      "characters": 139,
+      "ruby": []
+    }
+  ]
+}

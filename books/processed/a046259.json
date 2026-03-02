@@ -1,0 +1,712 @@
+{
+  "id": "a046259",
+  "title": "日記",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 30
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "五月",
+        "startPage": 2,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-2",
+        "title": "六月",
+        "startPage": 8,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "一日",
+            "startPage": 9,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "三日",
+            "startPage": 9,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "五日",
+            "startPage": 9,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-2-section-4",
+            "number": "七日",
+            "startPage": 9,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-2-section-5",
+            "number": "八日",
+            "startPage": 9,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-2-section-6",
+            "number": "十日",
+            "startPage": 10,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-2-section-7",
+            "number": "十一日",
+            "startPage": 10,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-2-section-8",
+            "number": "十三日",
+            "startPage": 10,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-2-section-9",
+            "number": "十四日",
+            "startPage": 10,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-2-section-10",
+            "number": "十五日",
+            "startPage": 11,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-2-section-11",
+            "number": "十六日",
+            "startPage": 11,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-2-section-12",
+            "number": "十七日",
+            "startPage": 11,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-2-section-13",
+            "number": "十八日",
+            "startPage": 11,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-2-section-14",
+            "number": "十九日",
+            "startPage": 12,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-2-section-15",
+            "number": "二十日",
+            "startPage": 12,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-2-section-16",
+            "number": "二十一日",
+            "startPage": 12,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-2-section-17",
+            "number": "二十二日",
+            "startPage": 12,
+            "endPage": 11
+          },
+          {
+            "id": "chapter-2-section-18",
+            "number": "二十三日",
+            "startPage": 12,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-2-section-19",
+            "number": "二十四日",
+            "startPage": 13,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-2-section-20",
+            "number": "二十六日",
+            "startPage": 13,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-2-section-21",
+            "number": "二十八日",
+            "startPage": 13,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-2-section-22",
+            "number": "二十九日",
+            "startPage": 13,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-3",
+        "title": "七月",
+        "startPage": 14,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-3-section-1",
+            "number": "一日",
+            "startPage": 15,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-3-section-2",
+            "number": "二日",
+            "startPage": 15,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-3-section-3",
+            "number": "三日",
+            "startPage": 15,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-3-section-4",
+            "number": "四日",
+            "startPage": 15,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-3-section-5",
+            "number": "二十六日",
+            "startPage": 16,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-3-section-6",
+            "number": "三十日",
+            "startPage": 16,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-3-section-7",
+            "number": "三十一日",
+            "startPage": 16,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-4",
+        "title": "八月",
+        "startPage": 17,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-4-section-1",
+            "number": "一日",
+            "startPage": 18,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-4-section-2",
+            "number": "二日",
+            "startPage": 18,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-4-section-3",
+            "number": "三日",
+            "startPage": 18,
+            "endPage": 18
+          },
+          {
+            "id": "chapter-4-section-4",
+            "number": "五日",
+            "startPage": 19,
+            "endPage": 18
+          },
+          {
+            "id": "chapter-4-section-5",
+            "number": "七日",
+            "startPage": 19,
+            "endPage": 18
+          },
+          {
+            "id": "chapter-4-section-6",
+            "number": "八日",
+            "startPage": 19,
+            "endPage": 18
+          },
+          {
+            "id": "chapter-4-section-7",
+            "number": "九日",
+            "startPage": 19,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-4-section-8",
+            "number": "十日",
+            "startPage": 20,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-4-section-9",
+            "number": "十一日",
+            "startPage": 20,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-4-section-10",
+            "number": "十二日",
+            "startPage": 20,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-4-section-11",
+            "number": "十三日",
+            "startPage": 20,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-4-section-12",
+            "number": "十四日",
+            "startPage": 20,
+            "endPage": 20
+          },
+          {
+            "id": "chapter-4-section-13",
+            "number": "十五日",
+            "startPage": 21,
+            "endPage": 20
+          },
+          {
+            "id": "chapter-4-section-14",
+            "number": "十六日",
+            "startPage": 21,
+            "endPage": 20
+          },
+          {
+            "id": "chapter-4-section-15",
+            "number": "十九日",
+            "startPage": 21,
+            "endPage": 20
+          },
+          {
+            "id": "chapter-4-section-16",
+            "number": "二十日",
+            "startPage": 21,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-4-section-17",
+            "number": "二十一日",
+            "startPage": 22,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-4-section-18",
+            "number": "二十四日",
+            "startPage": 22,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-4-section-19",
+            "number": "二十九日",
+            "startPage": 22,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-5",
+        "title": "九月",
+        "startPage": 23,
+        "endPage": 30,
+        "sections": [
+          {
+            "id": "chapter-5-section-1",
+            "number": "一日",
+            "startPage": 24,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-5-section-2",
+            "number": "二日",
+            "startPage": 24,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-5-section-3",
+            "number": "三日",
+            "startPage": 24,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-5-section-4",
+            "number": "四日",
+            "startPage": 24,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-5-section-5",
+            "number": "五日",
+            "startPage": 24,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-5-section-6",
+            "number": "六日",
+            "startPage": 25,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-5-section-7",
+            "number": "七日",
+            "startPage": 25,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-5-section-8",
+            "number": "八日",
+            "startPage": 25,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-5-section-9",
+            "number": "九日",
+            "startPage": 25,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-5-section-10",
+            "number": "十日",
+            "startPage": 25,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-5-section-11",
+            "number": "十二日",
+            "startPage": 25,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-5-section-12",
+            "number": "十三日",
+            "startPage": 26,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-5-section-13",
+            "number": "十五日",
+            "startPage": 26,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-5-section-14",
+            "number": "十六日",
+            "startPage": 26,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-5-section-15",
+            "number": "二十日",
+            "startPage": 26,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-5-section-16",
+            "number": "二十一日",
+            "startPage": 26,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-5-section-17",
+            "number": "二十二日",
+            "startPage": 26,
+            "endPage": 26
+          },
+          {
+            "id": "chapter-5-section-18",
+            "number": "二十八日",
+            "startPage": 27,
+            "endPage": 26
+          },
+          {
+            "id": "chapter-5-section-19",
+            "number": "二十九日",
+            "startPage": 27,
+            "endPage": 26
+          },
+          {
+            "id": "chapter-5-section-20",
+            "number": "三十日",
+            "startPage": 27,
+            "endPage": 30
+          }
+        ]
+      },
+      {
+        "id": "chapter-6",
+        "title": "日記",
+        "startPage": 1,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-6-section-1",
+            "number": "十月一日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-2",
+            "number": "十月二日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-3",
+            "number": "三日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-4",
+            "number": "四日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-5",
+            "number": "五日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-6",
+            "number": "六日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-6-section-7",
+            "number": "七日",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 30,
+    "averageCharsPerPage": 84,
+    "chapterTitles": [
+      "五月",
+      "六月",
+      "七月",
+      "八月",
+      "九月",
+      ""
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日記",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "五月",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　あわれアンポンの密輸出。うらめしや。（No. ）\n\n一日　水\n　メーデー。ゆくか、ゆけぬか、トラック次第。（多賀ちゃんと降車口より日本橋で見る）\n\n二日　木\n　御婚礼、高島や式場　午後芸術学校開校にゆく、\n\n三日　金\n　御出発（どこへ？　行けなかった千葉へ）\n\n五日　日\n『新日本』へ　いつかのとりかえ原稿　五枚　岡倉古志郎宛、\n\n六日　月\n　中央委員会\n\n七日　火",
+      "characters": 184,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　同\n\n八日　水\n　同\n\n九日　木\n　出版協会文化委員会雑誌部、\n\n十日　金\n　さち子さん来訪\n\n十二日　日\n　ゴリキイ幼年時代　帝大25番教室\n\n十三日　月\n　放送委員会（小）　出版委員会（欠席）\n\n十四日　火",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "　出版委員会（単行本　雑誌ののこり）『前衛』5000 ポンド増大。\n\n十五日　水\n『新日本文学』の〆切、放送委員会（高島や三階）\n\n十六日　木\n　眼鏡の事、著作家組合会合、\n\n十七日　金\n　婦人部会、出席\n\n十八日　土\n　文化部会、前10時ヨリ　初台　小野宅ニテ、（遂にへばっておなか底ぬけ）\n\n十九日　日\n（一日コンコント眠る）\n\n二十日　月",
+      "characters": 172,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "　午後、四時半ヨリ、放送会議、（自宅）\n\n二十一日　火\n　日ソ文化協会　広順社12時（（欠席メッセージ））より（文部省婦人教育研究会欠席書面）\n\n二十二日　水\n　放送小委員会、午後一時半　五階会議室、\n\n二十三日　木\n　午前十時より、新日本文学会議、小野方　婦人部会、\n\n二十四日　金\n　午後一時　著作家組合世話人会\n\n二十五日　土\n　朴恩徹、学校　五時半ヨリ、\n\n二十六日　日",
+      "characters": 189,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "　午後二時頃ヨリ　ネルさんその他文学談\n\n〔欄外に〕\n\n　四月十五日以来、所謂政局、グラグラにてｍ寸暇なし。",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "六月",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "　一日\n\n　日ソ　午後五時\n\n三日\n\n　日ソ監事会、\n\n五日\n\n　帝劇、真夏の夜の夢　舞台ケイコ、十一時\n\n七日\n\n　婦人民主クラブの新聞編輯会議\n\n八日",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "　民主々義学校　　午前十時、小野宅　文化部会、\n\n十日\n\n　著作家組合相談\n\n十一日\n\n『大学新聞』（信義について）『青年ノ旗』（行為の価値）\n\n十三日\n\n　十二時、後楽園　婦人民主クラブ常任　ユリちゃんいじめの会\n\n十四日\n\n　党学校　午後五時、四谷第六国民学校（信濃町）",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "十五日\n\n　民主主義学校（朝日、救国連盟のこと、誰がために鳴る）\n\n十六日\n\n　婦人民主クラブ世話人会、午後一時　コーラク園\n\n〔欄外に〕創刊号\n\n十七日\n\n　夜から小説かきはじめ\n\n十八日\n\n　仕事",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "十九日\n\n　仕事（日ソのゴーリキーの会欠席）\n\n二十日\n\n『新日本文学』〆切、仕事（宮さん来る百日ぶりの由）\n\n二十一日\n\n　新聞編輯会議（新聞用紙保留　山本、櫛田、商工省へゆく）\n\n二十二日\n\n　文化部会　用紙のことで Miss Weed に会う。\n\n二十三日",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "　大町さんの応援　午後六時半　成城学園母の会\n\n二十四日\n\n　第二区の選挙、ラジオ委員会（小）、\n\n二十六日\n\n　堀内さん　序文\n\n二十八日\n\n　ラジオ大委員会\n\n二十九日\n\n　民主主義学校",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "七月",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 15,
+      "content": "　これから小説のはじまりはじまり。\n\n一日\n\n　夕立、在宅、仕事、八木さんふとん作り。フロ、\n\n二日\n\n　在宅　仕事、\n\n三日\n\n　　〃\n\n四日\n\n　　〃",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "二十六日\n\n　小説終　216 枚\n\n三十日\n\n　出版委員会、\n\n三十一日\n\n　島田のみやげ買",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "八月",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "一日\n\n　夕立、宮、島田出発大さわぎ。ダラで行ってもきょう立つとの仰せ。\n\n〔欄外に〕\n\n　ゴーリキー記念ソ文講習会の開講式でお話。\n\n二日\n\n　映画コンクール\n\n┌文芸春秋から金をとってしまってあり┐\n\n└泣く泣く「風知草」30枚　　　　　　┘\n\n三日",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "　日ソ、理事会、\n\n五日\n\n　ひる、ソ、映、午後、林さんが来る予定（雨なら）\n\n七日\n\n　東芝の話、\n\n八日\n\n　放送委員会、\n\n九日\n\n　出版　午後二時",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "十日\n\n　文化部会　盛岡の朝日夏期大学へ出発　宮本、伊藤律と\n\n十一日\n\n　盛岡　宮本の話の日　自分座談会\n\n十二日\n\n　盛岡　自分の話の日　宮本、伊藤律、秋田へ\n\n十三日\n\n　秋田へ　自分立つ\n\n十四日",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "　秋田で自分　話す。羽仁説子来ず\n\n十五日\n\n　秋田から、上越まわりで立つ\n\n十六日\n\n　朝帰京、ｍ、すっかり馴れて、荷物の一時あずけなど自分でする\n\n十九日\n\n　中央委員総会\n\n二十日\n\n　　〃　　（午後から工合わるく横になる）",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "二十一日\n\n　休む（中、委、総）\n\n二十四日\n\n　文化部会\n\n二十九日\n\n　安藤さんおよばれ",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "九月",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 24,
+      "content": "一日\n「風知草」つづき（第二回）かきはじめる\n\n二日\n　　〃\n\n三日\n\n　　〃　　38枚終\n\n四日\n\n　放送委員会　行きに文、春秋によってわたす。Miss Weed に会う、\n\n五日\n\n　宮　明日出発のため在宅、",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "六日\n\n　宮　八時の夜汽車で、山口に出発、宮さん同道\n\n七日\n\n　婦人民主クラブの集\n\n八日\n　ラジオ・コードの原稿直し（髪を洗う）\n\n九日\n　映画、日ソの理事会　　『学生評論』\n\n十日\n　朝十時、放送ふきこみ\n\n十二日",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "　放送委員会、（工業クラブ、コードの審査）文部省教科書局\n\n十三日\n　新日本文学\n\n十五日\n「風知草」（３）にかかるべし（『テアトロ』、ゴーリキイ、手紙の返事）\n\n十六日\n　朝日座談会\n\n二十日\n「風知草」しめ切\n\n二十一日\n　午後五時放送\n\n二十二日",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "　出発\n\n二十八日\n　高知、\n\n二十九日\n　高知党会議\n\n婦人部の活動について、本部からの伝言、\n　夜、講演会、婦人と文学\n\n三十日\n　宮本、地方委員会\n\n　午後四時日章村\n\n宮　世界の動きと将来の日本",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "自分、農村（アメリカとソヴェートの比かく。）の生活\n\n　\n\n十月一日\n\n　土佐交通細胞座談会\n\n　文化レんめいの会\n\n　郡是の娘の座談会\n\n十月二日\n\n　午後　師範文教講演会\n\n　稲生　組合の講演会、",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "三日\n\n　午前稲生見学\n\n　徳島\n\n四日\n\n　徳島貯金支局\n\n　豊岡町役場\n\n五日\n\n　徳島市富岡国民学校\n\n講演（師範、医専）",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "六日\n\n　香川琴平　党会議\n\n　○婦人部の活動について\n\n　○文化部の活動について\n\n　夜、多度津の講演会　婦人3, 4名\n\n七日\n\n　電報でかえる。",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

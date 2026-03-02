@@ -1,0 +1,42 @@
+{
+  "id": "a002962",
+  "title": "民主戦線と文学者",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "民主戦線と文学者",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 88,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "民主戦線と文学者",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一　今日の日本において民主戦線統一は、単なる政治上のやりかたという以上に意味をもつと思います。一つの救国運動と思えます。\n\n二　戦争犯罪人を包括する政党に、人民の幸福を売ることを絶対にしたくないと思います。\n\n三　人民の生活必要が本当に分っていて、実行する責任感を持つ政府を。ジェスチュアでなく民主化を実現する政府を。〔一九四六年四月〕",
+      "characters": 169,
+      "ruby": []
+    }
+  ]
+}

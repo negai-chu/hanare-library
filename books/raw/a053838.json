@@ -1,0 +1,48 @@
+{
+  "id": "a053838",
+  "title": "診断　０：１",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "診断　０：１",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "診断　０：１",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "或る患者の容態に関する問題。\n\n１２３４５６７８９０・\n\n１２３４５６７８９・０\n\n１２３４５６７８・９０\n\n１２３４５６７・８９０\n\n１２３４５６・７８９０\n\n１２３４５・６７８９０\n\n１２３４・５６７８９０\n\n１２３・４５６７８９０",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "１２・３４５６７８９０\n\n１・２３４５６７８９０\n\n・１２３４５６７８９０\n\n診断　０：１\n\n２６・１０・１９３１\n\n以上　責任医師　李箱",
+      "characters": 69,
+      "ruby": []
+    }
+  ]
+}

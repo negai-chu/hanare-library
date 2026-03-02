@@ -1,0 +1,48 @@
+{
+  "id": "a054803",
+  "title": "メンデルスゾーンのヴァイオリンコンチェルト",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "メンデルスゾーンのヴァイオリンコンチェルト",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "メンデルスゾーンのヴァイオリンコンチェルト",
+      "characters": 21,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　若草山や\n\nそよ風の吹く\n\n大和の野　かすみ　かすみ\n\nそよ風の吹く\n\nおなごの髪や\n\nそよ風の吹く\n\nおなごの髪や\n\n枯草のかかれるを\n\n手をのばし　とってやる",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おなごのスカアトや\n\nつぎあとのはげしさ\n\nおなごの目や\n\n雲の映れる\n\nそよ風の映れる\n\n二人は　いつまで　と\n\nその言葉や\n\nその言葉や\n\nそよ風の吹く",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

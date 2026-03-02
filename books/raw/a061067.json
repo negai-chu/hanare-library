@@ -1,0 +1,60 @@
+{
+  "id": "a061067",
+  "title": "闇と光と",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "闇と光と",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "闇と光と",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "時間は流れていたのだ\n\n囚われたまま\n\n盲目となったままに\n\n恐ろしい事実の成立\n\nその日々\n\nよみがえった自覚\n\n日にさらされ\n\n心を閉じ\n\n身をさいなむ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "このように\n\n絶対な\n\n過失　捺印\n\n日にいく度\n\n生きがたい闇の淵に立つ\n\nしかもなお\n\n胸に抱く\n\n一つのかがり火\n\nひろがり照る",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "時代の暗雲に堪え\n\n辛苦と犠牲を越えて\n\n高く広く\n\n新しき世界\n\n新しき建設\n\n困難とはげましと遠い長い里程\n\n小さい大きいたくさんの仕事\n\n仕事に役立つ\n\n小さき働き手としての願い",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "一つのあくがれ\n\n信念の星\n\n最後の最大のかがり火\n\n闇に立つ\n\nわたしを呼ぶ\n\n立ちはだかって呼ぶ",
+      "characters": 50,
+      "ruby": []
+    }
+  ]
+}

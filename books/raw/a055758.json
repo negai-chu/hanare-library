@@ -1,0 +1,54 @@
+{
+  "id": "a055758",
+  "title": "蟇",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蟇",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蟇",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夏の昼間《ひるま》の\n\nひきがへる、\n\nそなたは、なんで\n\nさびしいぞ。\n\n白い女の\n\n指さきで、\n\n刺され、突かれて\n\nうれしいか。\n\n夏の昼間の",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ひきがへる、\n\n海鼠色《なまこいろ》した\n\nひきがへる。\n\n金の指輪に、\n\n肢《て》が切れて、\n\n血でも出したら\n\n何とする。\n\n夏の昼間《ひるま》の\n\nひきがへる、",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "海鼠色した\n\nひきがへる。",
+      "characters": 13,
+      "ruby": []
+    }
+  ]
+}

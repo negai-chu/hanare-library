@@ -1,0 +1,48 @@
+{
+  "id": "a053419",
+  "title": "秘境",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秘境",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秘境",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "漢子称して秘処といふ\n\nその崖上にたどりしに\n\n樺柏に囲まれて\n\nはうきだけこそうち群れぬ\n\n漢子首巾をきと結ひて\n\n黄ばめるものは熟したり\n\nなはそを集へわれはたゞ\n\n白きを得んと気おひ云ふ\n\n漢子《をのこ》が黒《くろ》き双の脚",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "大コムパスのさまなして\n\n草地の黄金をみだるれば\n\n峯の火口に風鳴りぬ\n\n漢子は蕈を山と負ひ\n\n首巾をやゝにめぐらしつ\n\n東に青き野をのぞみ\n\nにと笑みにつゝ先立ちぬ",
+      "characters": 83,
+      "ruby": []
+    }
+  ]
+}

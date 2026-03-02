@@ -1,0 +1,42 @@
+{
+  "id": "a060958",
+  "title": "晩夏",
+  "author": "木下夕爾",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "晩夏",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "晩夏",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "停車場のプラットホームに\n\n南瓜《かぼちや》の蔓《つる》が匍《は》いのぼる\n\n閉された花の扉《と》のすきまから\n\nてんとう虫が外を見ている\n\n軽便車が来た\n\n誰も乗らない\n\n誰も下りない\n\n柵《さく》のそばの黍《きび》の葉つぱに\n\n若い切符きりがちよつと鋏《はさみ》を入れる",
+      "characters": 137,
+      "ruby": []
+    }
+  ]
+}

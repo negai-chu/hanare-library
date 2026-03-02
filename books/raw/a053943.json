@@ -1,0 +1,48 @@
+{
+  "id": "a053943",
+  "title": "冬の逗子",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬の逗子",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 119,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬の逗子",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わびしさのつもれば獨り訪ね來て悲しき海の冬を聞くなり\n\n水面擦り飛ぶおほ鳥の眞白なる翼に疲れ見えて哀しも\n\nうら枯れし濱晝顏のながながと此處別莊の裏につゞけり\n\n半島の岩に碎くる波見えて浪子不動に日は暮れなずむ\n\n不動堂の折鶴の色あせゆきて冬に入るなりこゝ逗子の濱\n\n手向けたる菊も懷かし不動堂やさしき主の住まひ給へば\n\n折鶴の吊られたるまゝ色あせし不動の冬の夕べは哀し\n\nマリやマリ汝《なれ》知るやこの不動尊汝の瞳清らかなるよ\n\n不如歸蘆花と刻みし石碑なほ倒れたるまゝ冬に入りたり",
+      "characters": 241,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あまた窓皆カーテンを降したり海濱ホテルに人氣は見えず\n\n濱の夕を馬走らする乙女あり赤き乘馬着のたのもしきかな\n\nなぎさ打つ波のかけらのほの見えて葉山のはまに日は暮れるらし\n\n馳けりゆく馬車馬の背にあかあかと落日にじめり葉山街道",
+      "characters": 113,
+      "ruby": []
+    }
+  ]
+}

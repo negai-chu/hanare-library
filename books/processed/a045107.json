@@ -1,0 +1,60 @@
+{
+  "id": "a045107",
+  "title": "苔人形",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "苔人形",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 46,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "苔人形",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　苔人形は\n\nつくられた、\n\n木の実や苔や\n\n白樺で。\n\nランプのかげに\n\nつくられた、\n\nシベリア樅の\n\n森のかげ。\n\nいろんな顔に",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ゑがかれた、\n\nほだの消えてく\n\n寒い夜に。\n\nこつこつこつと\n\nけづられた、\n\n木こりや娘や\n\n妻たちに。\n\n赤いシヤツポも\n\nつけられた、",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "春に売られて\n\n行くやうに。\n\nコペイカ銅貨に\n\nなるように。\n\nそして貧しい\n\n森かげの\n\nきこりが暮して\n\n行くように。\n\n苔人形は",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "つくられた、\n\n吹雪の音を\n\nききながら。",
+      "characters": 21,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a059016",
+  "title": "現代作家は古典をどうみるか",
+  "author": "芥川紗織",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "現代作家は古典をどうみるか",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "現代作家は古典をどうみるか",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "〔設問〕\n\n　一　明治以前の日本の伝統美術で最も興味をもっているものは何か\n\n　二　その理由\n\n芥川紗織\n\n一、土偶\n二、埴輪にはみられないプリミチーブな生命力――はげしく、生々しく、グロテスクなものを感じるからです。当時の人間の生活とどの様につながっているかを、現代的な立場から識りたいと思います。",
+      "characters": 150,
+      "ruby": []
+    }
+  ]
+}

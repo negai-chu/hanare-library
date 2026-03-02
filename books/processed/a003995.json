@@ -1,0 +1,42 @@
+{
+  "id": "a003995",
+  "title": "終刊に寄す",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "終刊に寄す",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "終刊に寄す",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　用紙節約から廃刊になるということはさけがたいことながらやはりそれぞれにつながる編輯者のこれ迄の御骨折りや読者の好意について感想を新しくいたします。これ迄の足かけ八年間にこの雑誌のつくして来た文化の上での意義が読者の生活の裡で育ちつづけることを願います。\n\n〔一九四一年十月〕",
+      "characters": 138,
+      "ruby": []
+    }
+  ]
+}

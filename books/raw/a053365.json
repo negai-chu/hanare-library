@@ -1,0 +1,42 @@
+{
+  "id": "a053365",
+  "title": "水部の線",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水部の線",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水部の線",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "きみがおもかげうかべんと\n\n夜を仰げばこのまひる\n\n蝋紙に描きし北上の\n\n水線青くひかるなれ\n\n竜や棲みしと伝へたる\n\nこのこもりぬの辺を来れば\n\n夜ぞらに泛ぶ水線の\n\n火花となりて青々と散る",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

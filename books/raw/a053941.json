@@ -1,0 +1,133 @@
+{
+  "id": "a053941",
+  "title": "赤穂御崎詠草集",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 11
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "赤穂御崎詠草集",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "――カムバスを立つ――",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "――貨物船――",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "――潮光園など――",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "――鳶――",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "――猿數多鐵柵の中に飼ひてあれば――",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 11,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "赤穂御崎詠草集",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "――カムバスを立つ――",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "岳の上はひたに靜もり妹は合歡の木の下にカムバスを立つ\n\n妹は默して立てりひたすらに海を描かむ心一つに\n\n帆の形面白しなど語らひつ雜草の丘にデツサンをする",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "――貨物船――",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "やゝ沖に貨物船はとまりたりデツキを動く人の氣配す\n\n貨物船の投錨の音たかだかと朝の海にひろごりわたる\n\n蟲にたかる蟻の如くに船をめぐり塩運ぶ船集りてきぬ\n\n凪なれど海に寫らず貨物船の朱の船腹はなかばあせたり",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "――潮光園など――",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "潮光園對鴎館など好ましき旅館を持つよ御崎の海は\n\nベランダの朝のてすりにそと凭りて海を見居たる少女を想ふ\n\n潮光園のベランダはよろしやゝ沖に眞赤な貨物船の點景を持つ\n\n赤き屋根白きベランダたへまなく青き海風さやさやと入る",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "――鳶――",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "海にすめば海になれたり鳶三羽怒濤の岩に降りて動かず\n\n曇り日の空は低くして南風に吹かれて鳶はその空に居り\n\n蝉をついばみ鳶はましぐら昇りゆくその猛しさは心にくきや",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "――猿數多鐵柵の中に飼ひてあれば――",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "鐵柵に猿は並びぬ眼をむきて手をさしのばし物乞ふかたち\n\n怒り悲しみ恐れはすれど猿なれば笑ひを何處かに忘れたる如し\n\n餌に寄りて爭《いさか》ふかたち猿なればわれら笑ふもわれらも似たり",
+      "characters": 90,
+      "ruby": []
+    }
+  ]
+}

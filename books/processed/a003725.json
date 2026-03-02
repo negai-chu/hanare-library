@@ -1,0 +1,42 @@
+{
+  "id": "a003725",
+  "title": "日本髷か束髪か",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日本髷か束髪か",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日本髷か束髪か",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　１、日本髪も束髪も実際的な立場から批評したら、共に一長一短をもっていると思います。出来上りの形、方法こそ異っても、おしゃれをする女性の心持は東西同じで手間をかけたら両方結局同じものでしょう、但し個性的であるだけ洋風が優っています。\n\n　２、自分は人手をからず好な形に又簡単に結べる束髪のみにしています。\n\n〔一九二三年四月〕",
+      "characters": 163,
+      "ruby": []
+    }
+  ]
+}

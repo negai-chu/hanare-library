@@ -1,0 +1,72 @@
+{
+  "id": "a058276",
+  "title": "鬼哭寺の一夜",
+  "author": "夏目漱石",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鬼哭寺の一夜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鬼哭寺の一夜",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "百里に迷ふ旅心、\n\n　古りし伽藍に夜を明かす。\n\n　甍漏る音の雨さびて\n\n　憂きわれのみに世死したり。\n\n　風なく搖らぐ法幢の、\n\n　暗き方へと靡くとき、\n\n　佛も寒く御座すらん。\n\n　黄金と光る蛛の眼の、\n\n　闇を縫ふべき計、",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　銀《しろがね》糸に引く見れば\n\n　冥府《よみ》の色より物凄し。\n\n　折しもあれや枕邊に、\n\n　物の寄り來る氣合して、\n\n　圓かならざる夢冴えつ、\n\n　夜半《よは》の燈《ともし》に鬼氣青し、\n\n　吾を呼ぶなる心地して、\n\n　石を抱くと思ふ間に、\n\n　佛眼颯と血走れり。",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　立つは女か有耶無耶の\n\n　白きを透かす輕羅《うすもの》に\n\n　空しく眉の緑りなる\n\n　佛と見しは女にて、\n\n　女と見しは物の化か\n\n　細き咽喉《のんど》に呪ひけん\n\n　世を隔てたる聲立てゝ\n\n　われに語るは歌か詩か\n\n『昔し思へば珠となる",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "　睫の露に君の影\n\n　寫ると見れば碎けたり\n\n　人つれなくて月を戀ひ\n\n　月かなしくて吾願\n\n　果敢なくなりぬ二十年\n\n　ある夜私かに念ずれば\n\n　天に迷へる星落ちて\n\n　闇をつらぬく光り疾く\n\n　古井の底に響あり",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "　陽炎燃ゆる黒髮の\n\n　長き亂れの化しもせば\n\n　土に蘭麝の香もあらん\n\n　露乾《ひ》て菫枯れしより\n\n　愛、紫に溶けがたく\n\n　恨、碧りと凝るを見よ\n\n　未了の縁に纏はれば\n\n　生死に渡る誓だに\n\n　塚も動けと泣くを聽け』",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "　　…………………\n\n　塚も動けと泣く聲に\n\n　塚も動きて秋の風\n\n　夜すがら吹いて曉の\n\n　茫々として明にけり\n\n　宵見し夢の迹見れば\n\n　草茫々と明にけり\n\n――明治三十七年頃――",
+      "characters": 92,
+      "ruby": []
+    }
+  ]
+}

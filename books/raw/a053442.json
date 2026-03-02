@@ -1,0 +1,48 @@
+{
+  "id": "a053442",
+  "title": "〔夕陽は青めりかの山裾に〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔夕陽は青めりかの山裾に〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔夕陽は青めりかの山裾に〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "夕陽は青めりかの山裾に\n\nひろ野はくらめりま夏の雲に\n\nかの町はるかの地平に消えて\n\nおもかげほがらにわらひは遠し\n\nふたりぞたゞのみさちありなんと\n\nおもへば世界はあまりに暗く\n\nかのひとまことにさちありなんと\n\nまさしくねがへばこころはあかし\n\nいざ起てまことのをのこの恋に",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "もの云ひもの読み苹果を喰める\n\nひとびとまことのさちならざれば\n\nまことのねがひは充ちしにあらぬ\n\n夕陽は青みて木立はひかり\n\nをちこちながるゝ草取うたや\n\nいましものびたつ稲田の氈に\n\nひとびと汗してなほはたらけり",
+      "characters": 108,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a058746",
+  "title": "雪夜　二",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪夜　二",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪夜　二",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "思出　思出　いつまでも心に住むと　誓ひをたてた思出\n\nその思出も年をふれば　塵となる　煙となる　ああその\n\nかの裏切りの片見なら　捉へがたない思出の　性も是非ない\n\n行くがいい　行くがいい　私を殘して　歸る日もなく行くがいい　思出よ",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

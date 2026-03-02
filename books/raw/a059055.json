@@ -1,0 +1,48 @@
+{
+  "id": "a059055",
+  "title": "ある日",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ある日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ある日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "市電ののりかえで待っていると\n\n一人の女の人がやってきた\n\n洋服も帽子も見たこともないような古い型で\n\n汚れて穴もあいている\n\n断髪の毛は赤ちゃけ\n\n木綿靴下の足がすりこぎのように弾力がない\n\n電車がきて\n\n彼女はわたしの前に向かい合った\n\n健康でない",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "むしろやつれた細面《ほそおもて》のかお\n\nけれども\n\n目は\n\n生き生きとして\n\nひとところを見ていた\n\n彼女はどんな過去を持っているのだろう\n\n風呂敷き包みをきちんとかかえ\n\nどんな仕事をしているんだろう\n\n亭主や子供があるんだろうか",
+      "characters": 117,
+      "ruby": []
+    }
+  ]
+}

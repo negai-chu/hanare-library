@@ -1,0 +1,42 @@
+{
+  "id": "a003683",
+  "title": "花、土地、人",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "花、土地、人",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "花、土地、人",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　（一）今、奈良から帰ったばかりなので、印象の新らしい故か、第一番に此処が頭に浮びました。\n\n（二）朴の木の花。鉄砲百合。フリージア。真白いものか、暗いほど濃い紅の花などがすきです。\n\n（三）段々に変って行く最中なので、はっきりは申されません。が、今一番好きと云うより偉いと思うのは、レオナルド・ダ・ヴィンチ。\n\n〔一九一八年五月〕",
+      "characters": 166,
+      "ruby": []
+    }
+  ]
+}

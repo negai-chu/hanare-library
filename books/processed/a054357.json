@@ -1,0 +1,48 @@
+{
+  "id": "a054357",
+  "title": "季節抄",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "季節抄",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "季節抄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　葩束を編みながら美しく羞むひとよ\n\n夕べバルコンの影の跫音の言葉なら\n\nはるかな愛情も匂ふでせう\n\n　　★\n\n梢に鴉の喪章はゐない＊＊＊\n\n新しいアアチの青貝路にペンキの響き\n\n自転車で春の帽子がかけてくる\n\n　　★\n\n樹樹の梯子を登りをりして歌ふものたち＊＊＊",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "花に飾られた日射しの緑のブランコの\n\n優しい肩にのりあなたは空まで駈けあがる\n\n　　★\n\n雲がじぶんでドアをあける\n\n光りにまじつて小鳥の声もおちてくる\n\nやはらかい枝や影がぼくを支へる",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

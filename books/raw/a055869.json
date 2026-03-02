@@ -1,0 +1,706 @@
+{
+  "id": "a055869",
+  "title": "短歌集　日まはり",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 103
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "短歌集　日まはり",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "やま鳥",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "白骨温泉にて",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "行潦",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "神崎川附近",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "をりふしの歌",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "信濃路",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "發哺《ほつぽ》温泉にて",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "上林温泉にて",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 103,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "短歌集　日まはり",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "わが跫音\n\n路をうつわが杖の音\n\nわれは聴く\n\nわが生の音づれ\n\n日まはりや床屋しづけき菜園に",
+      "characters": 47,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "やま鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 4,
+      "content": "草生ふる電車線路を\n\nあしびきの\n\nやま鳥はつと\n\n走り越えにき",
+      "characters": 32,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "白骨温泉にて",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "うら山に\n\n銃の音せり\n\n時をへず　またも音せり\n\n鶫落ちけむ\n\n日のあたる\n\n石垣の裾の　鷄ら\n\nたちて歩めり\n\n一羽のこれる\n\n落葉松の林に入りぬ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "繍眼兒《めじろ》らは\n\nわれをさけつつ\n\n枝うつりする\n\nもろもろの\n\n想ひのはてよ\n\n落葉松のしづ枝にたちて\n\n松の香をかぐ\n\nこれやこの\n\nさやかに胸にしのびいる",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "落葉松の香に\n\nにし戀もがな\n\n夕づつの　傾くころを\n\n谿あひの\n\n住ひの前に\n\n薪を割るひと\n\n夕ぐれの\n\n谿間に薪を割る人の\n\n鉈のうごきの",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "あはれなるかも\n\n木枯しも\n\n四邊の山のをちをゆく\n\n靜けき庭に\n\n狐啼きたり\n\nきその夜も　この夜も\n\n水車小屋にきて\n\nただひとこゑを\n\n啼く狐かな",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "戞然と\n\n狐啼きたり\n\n筆を擱きぬ\n\nわが嘆かひも　歩み出でんとす\n\nめでたさは\n\n冬のはじめの山峽に\n\n太しき熊を\n\n獲てし狩くら\n\n熊を割き",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "酒ほがひせる　夜のふけの\n\n歌ごゑきけば\n\n山はかなしき",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "行潦",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "秋の日の\n\n行潦《にはたづみ》の邊に　雀兒ら\n\nこもごも來り\n\nみそぎするかも\n\n小春日の\n\n百日紅の枝　撓めつつ\n\n搖れつつ\n\n蟲を　食める雀兒\n\nあたたかき藥壜こそ",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "しみじみと\n\n手によろしけれ\n\n病みて秋更く\n\n友は來ね\n\n軒端にあそぶ雀兒の\n\nつばさのかげり\n\nわが書《ふみ》に落つ\n\n病ひいえて\n\nまた山川を戀ひそめぬ",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "鴫にも似たる\n\nわがこころかな\n\nしみじみと\n\n世のみじかきを思ふかな\n\nこころしづかに\n\nあめつちを見む\n\nひとしきり\n\n落葉は土にひそまりぬ\n\n御堂の影を",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "飛べる黄の蝶",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "神崎川附近",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "茜さす\n\nかの夕燒をよしといひ\n\n母ぢやと渡る\n\n冬の橋かな\n\n除夜の鐘\n\n川のあなたに起るらし\n\n汽車の遠音の\n\nとどろきくるも\n\n汽車のゆく",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "遠音はきこゆ\n\n物置きの　亞鉛《なまこ》の屋根に\n\n猫とび下りつ\n\n色ふりし\n\n富士紡績の煉瓦塀\n\nその裏路を\n\nオートバイ行く\n\n堀割の\n\n夕ぐれをゆく艪のきしみ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "煙突はみな\n\nけむをなびかす\n\n枯れ草の黄ばめるほどに\n\n夕陽さす\n\n韓國人《からくにびと》の　屋根にある\n\n沓《くつ》\n\n大橋の\n\n橋の袂にもやひたる\n\nしも肥舟に",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "鶺鴒ゐるも\n\n汪洋と\n\n潮のみちくる　冬の橋\n\nわが見るときに\n\nともりけるかな\n\n霜の夜に　嘆かふこころ\n\n鏘然《さうぜん》と\n\n鎧の袖の\n\nふれあふごとし",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "地にありて\n\n何はなけれど\n\n人情の　濃やかなるに\n\n泪はおつれ\n\n百ばかり\n\n枠に張りたる牛の革\n\nほせる廣場に\n\n霰たばしる\n\n曳船は",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "ゆくらゆくらに上りくる\n\nその煙突の\n\n注連飾りかな\n\n淡雪や\n\nうづのみづ兒の宮詣で\n\nうぶ衣のきぬの\n\nさやさやなるも\n\n雪のふる\n\n鎭守の宮の樟の木に",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "ごむ風船の\n\nゆれてかかれる\n\n網干せり\n\n腰蓑などもほしてあり\n\n家鴨ひそかに\n\n鳴きゐるところ\n\n裏戸でて\n\n蜜柑をむける女あり\n\nまがきの椿",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "莟《ふふ》みかたしも\n\n槻の木に\n\n大根ほせる　冬の家に\n\nピアノのなるも\n\nそぞろなりけれ\n\n晝の月\n\nわがゆくりなくうかがひし\n\n門のうちなる\n\n葱畑かな",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "喘ぎこし\n\n月毛の馬は　暉《ひ》にむかひ\n\nながながし尿《しと》を\n\n放ちそめたり\n\n京菜など\n\n菠薐草などつみし舟\n\n夕べのみづに\n\n泊《は》ててうつれる\n\nたそがるる",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "冬の沮洳地《しよじよち》の　ものの秀《ほ》に\n\n鵙一羽ゐて\n\n尾羽根つくろふ\n\n星月夜\n\n潮の落ちたる川べりの\n\n舟はみな\n\n泥《ひぢ》にかたむける見ゆ\n\n霜の朝\n\nみづのなかにて番ひてし",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "家鴨しづかに\n\nわかれけるかな\n\n曳船の　音はかすかに\n\nはたはたと\n\n森のあなたを\n\n移りゆきけり\n\n橋の上に\n\n樂書をして遊ぶ子ら\n\n春をのせたる",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "馬車もくるらし\n\n若菜もゆ\n\n澱粉工場の　うら庭に\n\nのたたかふ\n\n晝もあはれや\n\n出來島《できしま》と　呼ばふ島なり\n\n乞食《かたゐ》住む　川中島に\n\n春の\n\n草萌ゆ",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "舟夫《かこ》のつま\n\n艫《とも》に坐りて　櫛をとる\n\n朝のけしきも\n\n春めけるかな\n\n荷を揚げし\n\n船の胴間に\n\n飼ひ兎　白きがひとつ\n\n跳ねて遊べり\n\n家鴨五羽",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "おなじ形に睡りたり\n\nほとほと似たる\n\n影を印して\n\nひなた來る\n\n飴屋　無心に鉦うてり\n\n干潟の家鴨\n\nいろめきにけり\n\n丸橋と\n\n壁にしるせる　鍛冶屋あり",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "南の軒に\n\n目じろを飼へり\n\n春のこし　水の香淡し\n\nとほき橋を\n\n荷馬車のわたる\n\n音のよろしも\n\n晝餉する\n\nころほひならし　舟大工\n\n畑の畔《くろ》に",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "焚火してをり\n\n石を斫る\n\n鑿の音冴ゆ\n\n藍ふかき　遠山なみも\n\n陽にかがよふや\n\n春の雪\n\nやがて消えつつ\n\n森の樹の　木肌めでたく\n\n濡れそぼちけり",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "一卷の　書《ふみ》をくはへし\n\n女狐の　石の像にも\n\n春の\n\n雪つむ\n\n砂黄なる\n\n中洲の鼻にさざめける\n\nさざら波はも\n\n潮の香淡し\n\n春の日の",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "うちならされし畝《うね》にゐる\n\n百舌の振舞ひ\n\n蟲はむらしも\n\n春はやき\n\n裸畑に\n\n家鴨二羽　相伴ひて\n\n畝を越えをり\n\n金絲雀《カナリア》ら\n\nきほひ啼くかも",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "街角の　味噌賣る店の\n\n春のひととき\n\n韓國《からくに》の\n\n翁は笊をつくりつつ\n\nかそかに洟を\n\nすすりけるかも\n\n川べりの\n\n冬菜畑の　石たたき\n\nしまらくありて",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "飛びて啼きしか\n\n黄梅を窗に置きたり\n\n川べりの\n\n古自轉車を\n\n商ふ家居\n\n牛の革ほせる廣場に\n\n赭牛の\n\n草食みゐるも\n\nあはれなるかな",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "春の野は\n\n堤に來り\n\nははそはの母ぢやと\n\n嫁菜摘ままくなりぬ\n\nふと家鴨\n\n片脚あげてものおもふ\n\nその蹼《みづかき》の\n\n光に透くや\n\n路のべに",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "鼻なし男\n\n鋸の　目をたててをり\n\n春の晝すぎ\n\n片町の\n\n築地にほせる目じろ籠\n\nなほししづける\n\n三つならべたり\n\n花咲ける椿の蔭に\n\nさくさくと",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "林檎を噛める\n\n馬方ふたり\n\n晝の月\n\n米屋の軒にしき啼ける\n\n雲雀の咽喉《のど》の\n\nうす赤きかな\n\n樟の木の\n\n春の落葉は地に滿てり\n\n仔犬走らせ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "遊べるをみな\n\nわが妹《いも》を　姉を送りし\n\n火葬場の\n\n遙かに見ゆる\n\n野に來つるかも\n\n船に住む　少女《をとめ》なるらし\n\n寺の井ゆ\n\n桶に水みて\n\nいま歸りゆく",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "はつはつと\n\nモーターの音いそがしく\n\n錨を捲けり\n\n浚渫船は\n\nこの郷《さと》に　つばくら來り\n\n春の風\n\nひねもす渡る\n\n樟の木の森\n\n鳶の舞ふ　橋をわたりて",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "髭しろき\n\n朝鮮人に\n\nもの問はれけり\n\n春水に\n\n婆娑と錨をうちたりし\n\n赤きジャケツの\n\nうら若き船夫《かこ》\n\n海ちかき\n\n春のはじめもかなしけれ",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "癩病院の\n\n屋根の赤旗\n\n非人小舍　樹の間にたてり\n\n日はうらら\n\n鮒つる人も\n\nゐて默《もだ》したり\n\n女きて\n\n橋のてすりにもの干せり\n\n煙のながれ",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "はやき春の日\n\nほの暗き　橋の蔭より\n\n川しもの\n\n橋二つ見えて\n\n家鴨游げり\n\nいただきに\n\nなにの古巣か透いて見ゆ\n\n老いのくすしき\n\n銀杏のおほ樹",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "善念寺\n\nいてふ古りたるこの寺に\n\n人をたばかる\n\n狸すむてふ\n\n桃の村\n\n熊の浦てふ大關の\n\n淺葱の幟\n\nはためける路\n\n菜の畝を",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "踏み越え　たたし\n\nうなじあげ\n\n遠見をしつつ　啼く雲雀かな\n\n雀らは\n\n葱の畑ゆとびたちて\n\n葱の畑に\n\n入りてひそけし\n\n畑を鋤く\n\n牛の歩《あし》より",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "ややはやく\n\n綿を積みたる　船のぼりきぬ\n\n桃の花\n\nひともと咲きて散りにける\n\nこの踏切ゆ\n\n遠き海見ゆ\n\n新緑の\n\n樟の小徑にきて坐る\n\nこのしあはせを",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "ひとりごちたり\n\n黄なる蝶\n\n橋の欄干《てすり》をまつすぐに\n\n飛びて消ぬがに\n\n馬を越えたり\n\n若芽萌ゆ　銀杏のおほ樹\n\nここだくの\n\nほつ枝を風に搖れり\n\n日すがら",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "猫の仔の\n\n三匹は死に\n\n一匹は死ななんとする\n\n枳殼《からたち》の庭\n\n牝ら\n\nうばらの垣をいでにけり\n\n日向の砂に\n\n河豚のまろべる\n\n霧雨の",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "春の堤を歩む猫\n\nかそかになきて\n\n尾をたらしたれ\n\n花柑子\n\nひともとありて影まろき\n\n川中島の\n\n蠶豆《そらまめ》の畑\n\nめじろ鳥　ひととき啼かず\n\nたをやかに",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "籠の格子の\n\n影を身にして\n\n行々子　ひまなく啼けり\n\n時をりに\n\nまじりて啼くは\n\n何の鳥ぞも\n\n尾をあげて\n\n尿《いばり》を放つ黒き牛\n\n花野にあるも",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "あはれ深けれ\n\n麺麭はこぶ\n\n車走りぬ粉糠雨\n\nけむる五月の\n\n朝の麺麭の香\n\nふと杖に　ふれて碎けし\n\n蒲公英の\n\n實の飛ぶ方の\n\n工場の音",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "たそがれの\n\n醤油倉の香をきけば\n\n盜みをしたる\n\nごとくかなしき\n\nむきむきに\n\n空を指したる麥の穗の\n\nいまは動かず\n\n黄ばみ衰ふ\n\n日も暮れぬ",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "家鴨の群れを追ひやらふ\n\n媼《おうな》の聲の\n\n水にひびかひ\n\n茱萸《ぐみ》あかき\n\n庭にひそめる娘子ら\n\n木の實を盜む\n\n晝ふかみかも\n\n砂の上に\n\n尾なき蜥蜴もでて遊ぶ",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "川中島の\n\n南瓜畑《かぼちやばたけ》や\n\n船を\n\nここに舫《もや》ひて　何かよぶ\n\n男のたてる\n\n紫蘇畑かな\n\n母と子の\n\n羊が二匹\n\n黄昏を　めづるさませり",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "草の堤に\n\n新造の\n\n舟成らんとす　鑿の音や\n\n六月三日\n\n茄子の花さく\n\n鳶一羽\n\n甘薯畑に下りんとす\n\n癩病院に\n\n近き河じり",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "浪の音　草の葉の聲\n\n河じりに\n\n雲雀囀る\n\nうす曇りかな\n\n一村の　墓地をかこみて\n\nつらなれる\n\n淀河じりの\n\n薯畑かな\n\n河口の",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 59,
+      "content": "靄に島見ゆ\n\n遙かなる　島に動ける\n\n起重機も見ゆ\n\n消防夫\n\n三人よりて仰ぎゐる\n\n詰所の軒の\n\nつばくらの雛\n\n夏は來ぬ\n\nつばくらの子が親をよぶ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "瓜の花より\n\n黄なる嘴\n\n閘門の　番所の庭に\n\n咲ける花　爪きり草を\n\n蟹よ\n\n爪きれ\n\n氷挽く\n\n鋸の音いさぎよき\n\n氷室の軒を",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 61,
+      "content": "いづるつばくら",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "をりふしの歌",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "柿の花\n\n狹筵《さむしろ》に散る春の日の\n\n少年の日も\n\n人を戀ひゐし\n\n蝉のころ\n\n松の丘べをゆくときは\n\nかなしきほどの\n\n思ひ出もよし\n\n火食鳥",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "土を啄む網の外《と》に\n\n幾輪咲きし\n\n向日葵の花\n\n松が枝に\n\n寄生木の實もうれにけむ\n\n日にしばらくを\n\n鵯どりなくも\n\n百ばかり\n\n枯萱山の日おもてに",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 65,
+      "content": "鴉下りゐる\n\n冬ふかみかも",
+      "characters": 13,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "信濃路",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 67,
+      "content": "水浴みし\n\n山の乙女ら　おのもおのも\n\nほとをかくして\n\n立ちにけるかも\n\n小淺間の　緑の袖に\n\n大淺間\n\n額《ぬか》をかくすと\n\nうなじこごめし\n\n高原《たかはら》の",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 68,
+      "content": "甘藍畑《きやべつばたけ》ゆたつ鳥の\n\n淺間が嶽に\n\nむかふひと列《つら》\n\n大鴉\n\n枝豆青き畦にゐて\n\n肩かがやかし\n\nかへりみするも",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "發哺《ほつぽ》温泉にて",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 70,
+      "content": "山の湯の\n\n軒端の籠に　なれて歌ふ\n\n丹《に》の頬鳥《ほほどり》の\n\n鷽《うそ》の鳥かな\n\n山の湯の\n\n軒端の籠に　なれて眠る\n\n鷽の小鳥を\n\n燭《ひ》を秉《と》りて見し\n\nみすず刈る",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 71,
+      "content": "信濃の國の　蚤をとると\n\nランプの蕊を\n\nまさらしめたる\n\n油蝉なくが靜けし\n\n樺の森の\n\n梢に淡き\n\n晝の月見ゆ\n\n澁の湯へ\n\n駄馬も下りぬ",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "雷の後　ほととぎす啼く\n\n志賀の高原《たかはら》\n\n鶺鴒の　足跡ありて\n\nめぐりたる\n\nテニスコートの\n\n水溜りかな\n\n蛇の皮\n\nほろりほろりと轉がりぬ\n\n白き（かけ）ろの",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 73,
+      "content": "後ろにちかく\n\n牝ら\n\nふふみ鳴きする　日の日なか\n\n洗濯ものに\n\n虻のとまれる\n\n虹の橋　谿にかけたり\n\n七彩の\n\n橋の袂に\n\nなける鶯",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "女客　白き靴ぬぎ\n\n石の上に\n\n干して\n\nしばらく　そこに立ちたり\n\n白き馬\n\n郵便物をのせてきぬ\n\n燕むらがる\n\n山の湯の宿\n\n山畑に",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 75,
+      "content": "馬鈴薯《じやがたらいも》の花さけり\n\nつばくら番《つが》ふ\n\n八月の晝\n\nひなぐもる\n\nこの裏山の道標《だうへう》に\n\n鶺鴒一羽\n\n嘴《はし》をとぎゐし\n\n油蝉　山毛欅《ぶな》にきたりて\n\nしまらくは",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "川瀬の音を\n\n歌ひけしたり\n\n山兎　箱に飼はれて\n\nあるときは\n\n伸びして見せつ\n\nあはれ深しも\n\n向つ山\n\n人の住まざるまろ山の\n\n青草山に",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 77,
+      "content": "雲の影見ゆ\n\nまらうどの\n\n熊蜂ひとり卓をしむ\n\n南瓜の花の\n\n黄なる部屋かな\n\n路のべに　子らの築《つ》きたる\n\nこれはこれ\n\n山鳩の墓\n\n野兎の墓",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "蜻蛉《あきつ》より\n\nやや高く飛ぶ　秋の雲\n\n光りかがよひ\n\n山に入るかも\n\n藥師湯の\n\n赭土庭《あかつちには》にたつ馬の\n\n尾をふる影も\n\nさやけし　秋は\n\n天狗湯の",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 79,
+      "content": "天狗の宮の小太鼓を\n\nうつ戲れも\n\n秋は身にしむ\n\n馬糞茸\n\nはかなき命寄りて生ふる\n\nそのまろ山を\n\n見つつをかしき\n\n南瓜うれ\n\nこの一山《いちざん》の岩燕",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "數をへりつつ\n\n秋ふかみけり\n\n上林《かんばやし》　澁《しぶ》の方より\n\nしまきくる\n\n夕立雨に\n\n岩燕まふ\n\n爪黄なる\n\n蟹の甲羅に\n\nたまゆらの　水の飛沫の",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 81,
+      "content": "うつりてあるかも\n\n黒き蝶\n\n物置小屋の小廂に\n\nとまりて歩む\n\n秋の朝のま\n\n婢《をんな》きて\n\nわが住む部屋に音をたてて\n\n掃《はは》くさま見ゆ\n\nこのうら山ゆ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "山畑に\n\nトマトやうやく色づきし\n\n二百十日の\n\n晝のしづけさ\n\n秋立ちし\n\n山懷ろの葱畑に\n\n雲母《きらら》の羽を\n\nいこふ蜻蛉《あきつ》ら\n\nあけの雲",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
+      "content": "黒姫山をつつみたり\n\nテニスコートに\n\n鳴ける馬追ひ\n\n晝の雲\n\n舟のさまして動かざる\n\n鹿島鎗てふ\n\n藍の山かな\n\n牝ら\n\n二羽三羽きて",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 84,
+      "content": "路の上に\n\n蝗の蟲を　捕へけるかも\n\n山の湯に\n\n鷽の雛飼ふ\n\n秋の日の\n\n二百二十日となりにけるかも\n\n秋たちぬ\n\n人と別るる　旅の日の\n\n沓打茶屋の",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 85,
+      "content": "きりぎりすかな\n\nもの振りて\n\nわが名よぶらし　うかららを\n\n沓打茶屋の\n\n高處《たかど》より見し\n\n空青し\n\n人と別れし高原《たかはら》に\n\n耳鳴りににし\n\n音のきこゆる",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "秋深み\n\n黒き蝗の　一つゐて\n\n羽すり鳴けり\n\n赭土の路\n\n谿の霧\n\nこの湯の宿の　一百の\n\nランプを戀ひて\n\n捲き來るらし\n\n秋深み",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 87,
+      "content": "石の上にも葉ずゑにも\n\n蜻蛉《あきつ》らを見ず\n\nはやもほろびし\n\n西海に\n\n平氏の亡ぶさまににて\n\n山にうせたる\n\nあはれ蜻蛉ら\n\nわが歌の\n\nかばかり　調べあやふしと",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "兎跳ねたる\n\n朝の斷崖《きりぎし》\n\n一羽\n\nねむげに　ここに坐りたる\n\nあけの冠（とさか）の\n\nそれもたふれし\n\nつばくらら　泥《ひぢ》うちつけし\n\nわが部屋の　玻璃戸もよろし\n\n白馬嶽",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 89,
+      "content": "見ゆ\n\n高原の奧草野といふに熊笹を伐る山人らの笹もて葺ける小屋三四あり\n\nあしびきの\n\n山の麓の秋祭り\n\n草野の小屋に\n\n人らをらずも\n\n今宵また\n\n不知火見ゆと　國原の\n\n長野の街の",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 90,
+      "content": "灯《ひ》をめづるかな\n\nひもすがら\n\n山の小徑の落葉を\n\n踐むをよろこぶ\n\nあはれなるさが\n\n懸巣どり\n\n羽たたき急に歸りくる\n\nあなはろばろし\n\n紅葉の谿は",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 91,
+      "content": "名なし山\n\nこの日おもてに\n\n楢の木の　落葉する日も\n\n啼ける鶯\n\n笠ヶ嶽\n\n笠かたむけてかへりみる\n\n平床《ひらとこ》の原を\n\nわがいそぐなり\n\n平床の　原のみんなみ",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 92,
+      "content": "色ふりし\n\n旗をたてたる\n\n熊の湯どころ\n\nあなあはれ\n\nいまだもありし黄の蝶の\n\nこの裏山の\n\n樺をめぐれる\n\nいまはとて\n\n黄の羽衣のここに舞ふ",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 93,
+      "content": "落葉のころの\n\n裏山の蝶\n\n遠方《をちかた》は\n\n妙高嶽の秀《ほ》のみ見え\n\n紅葉の谿に\n\n狹霧流らふ\n\nいづこより　こし烏かも\n\n火焔《ほのほ》なす\n\n紅葉林《こうえふりん》に",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "半日《ひなか》啼きゐし\n\n鶴作《つるさく》の\n\nはだら佐渡牛《さどつこ》\n\nみすず刈る　信濃の篠《すず》を\n\n負ひて下るも\n\n實の赤き\n\n眞弓の枝を甕に入れ\n\nこころ足らふに\n\nにたるひととき",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 95,
+      "content": "二ひらの　三ひらの落葉\n\n枕邊に\n\n甕の眞弓の\n\nふらしたり朝\n\n何の葉か\n\n一ひら高く空に舞ふ\n\n谿の上なる\n\n木枯しの宿\n\n大工ひとり",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "物置小屋にこもりゐて\n\n冬さりにけり\n\n臼をつくれる\n\n山峽の\n\n雪の日暮れにともしたる\n\nランプの火屋《ほや》の\n\n指のあとかな\n\n鎗ヶ嶽\n\n雲の間に躍りたる",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 97,
+      "content": "晴れやめでたき\n\n神無月かな\n\n旅人の\n\n伴ひてこし赭き犬\n\nもの追ふさまに\n\n走り勇みき\n\n實をもてる\n\n柿の數株のしだり枝の\n\nとりめぐりたる",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 98,
+      "content": "家ゐひそけし",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 99,
+      "content": "上林温泉にて",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 100,
+      "content": "雪の村\n\nこのかた岡に　陽をうけて\n\nいささかばかり\n\n竹のある　よし\n\n人戀ひし\n\n藁家の屋根に\n\n鶺鴒の　一羽ゐて啼く\n\n春の夕ぐれ\n\nつくつくし",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 101,
+      "content": "ほのかに花粉散らしたり\n\n蜥蜴の藍の\n\nふれて走りし\n\n燧《ひうち》嶽\n\n消ぬがに\n\n淡し　月の出の\n\n夕べは閉す　かたくりの花\n\n燧嶽　ほのかに見ゆと\n\nわが妻は",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "月をそがひに\n\n立ちにけるかも\n\n階畑《しなばた》の\n\n杉の林のへりをゆく\n\nかの蛇捕りは\n\nうなじ垂れてし\n\n蛇の腹\n\nかの蛇捕りの手に垂れて\n\n光りつつ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 103,
+      "content": "丘を　越えてけるかな",
+      "characters": 10,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a044930",
+  "title": "おまゝごと",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おまゝごと",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おまゝごと",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "うめのはな\n\nうめのはな、\n\nえだのうへで\n\nあつたかいね。\n\nぽか　ぽか\n\nあつたかいね。\n\nしろいごはん、\n\nしろいごはん\n\nおかまのなかで",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あつたかいね。\n\nぽか　ぽか\n\nあつたかいね。",
+      "characters": 23,
+      "ruby": []
+    }
+  ]
+}

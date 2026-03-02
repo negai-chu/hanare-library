@@ -1,0 +1,48 @@
+{
+  "id": "a054004",
+  "title": "労働者大会",
+  "author": "根岸正吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "労働者大会",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "労働者大会",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　青年会館の正門へ\n\n要求は簡単である。\n\n目的は単一である。\n\n屋内が満員ならば、\n\n屋外に入れよ。\n\n門内は人子一人なき寂寞である。\n\n之こそは\n\n今宵《こよい》此地に集れる\n\n幾千人の要求である。",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "それを遮る警官に\n\nもはや理屈は不要である。\n\n只青年会館の正門へ。\n\n（発表誌不詳『どん底で歌う』を底本）",
+      "characters": 54,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053618",
+  "title": "蛍狩",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蛍狩",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蛍狩",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　愛妹《いもうと》のえりくびから一疋、\n\n瘋癲病院の窓から一疋、\n\n血《けち》えんのつかあなから一疋、\n\nいえすの素足から一疋、\n\n魚の背筋から一疋、\n\n殺人者の心臟から一疋、\n\nおれの磨いた手から一疋、\n\n遠い夜の世界で螢を一疋。",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

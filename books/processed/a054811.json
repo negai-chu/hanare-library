@@ -1,0 +1,42 @@
+{
+  "id": "a054811",
+  "title": "YAMA",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "YAMA",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "YAMA",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　Ishikoro no michi\n\nIshikoro no michi\n\nKaa tto higa sena wo yaku\n\nAoba no Midori ga me ni itai\n\nIshikoro no saka\n\nIshikoro no saka",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

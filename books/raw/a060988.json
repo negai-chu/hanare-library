@@ -1,0 +1,76 @@
+{
+  "id": "a060988",
+  "title": "五十の春に　１",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "五十の春に　１",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "一",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "二",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 23,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "五十の春に　１",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "からだに合わぬ体\n\nこころに合わぬ心\n\n胃に腹に切開手術を受け\n\n一つの手紙もない",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "二",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "きのうはすでに\n\n去年の雪と思え　消えたと思え\n\n来年は向こうからやってくる\n\n明日もやってくる\n\nはじめての人も\n\n新しい言葉も",
+      "characters": 65,
+      "ruby": []
+    }
+  ]
+}

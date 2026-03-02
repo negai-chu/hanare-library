@@ -1,0 +1,48 @@
+{
+  "id": "a001496",
+  "title": "吸い殻",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "吸い殻",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "吸い殻",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "午前七時、\n\n時刻が来たいざ学校へ。\n\n晩秋《おそあき》の市街の上を、\n\n悲しげに風は泣きすぐ。\n\n絶えずしたゝる冷たい鼻汁を、\n\nすゝりつゝ道を通る。\n\nふとして眼にとまる白い吸い殻、\n\n誰れが手から投げ捨てられし……。\n\nもどかしい黄色な煙は、",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "力なく渦をまいて漂ふ。\n\n火の気衰ろへ、煙が消えると、\n\n死人の影がちらつく。\n\n今一しきり秋空が吹き過ぐる、\n\n吸い殻は空しく地上を転ろげる。",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055732",
+  "title": "詩論",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "詩論",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 228,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "詩論",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "L'art, mes enfents, d'tre en soi-meme!    Paul Verlaine\n\n　芸術とは、喩へば金鉱発掘の如きものだ。金鉱を発掘する人は、親や妻子より遠く、山中に分け入るのだ。そのやうに、芸術とは、自分自身に忠実であることだ。\n\n　何を描くべきか？――描くべき何物もない！　芸術とは、自分自身の魂に浸ることいかに誠実にして深いかにあるのだ。即ち自分自身であるための誠実が自らなる基準となつて、折にふれて歌ひたくなるものの謂である！\n\n　自分自身であるといふことは、嘘をつかないことであり、自分自身であることは意志的であることである。\n\n　そして人が、自分自身であること、徒らに迎合的でないことではないか？　かの造型性とは！\n\n　智識でも慈善事業でも其の他何物でもない、断じてない！\n\n　芸術とは、自我を愛することの、誠実であることの、褒賞である！\n\n“L'art, mes enfents, d'tre en soi-meme!”\n\n（生きるとは、自我を愛することである！）",
+      "characters": 455,
+      "ruby": []
+    }
+  ]
+}

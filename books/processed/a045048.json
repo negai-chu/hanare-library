@@ -1,0 +1,42 @@
+{
+  "id": "a045048",
+  "title": "燕",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "燕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "燕",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　きり\n\nきり\n\nつばめ\n\n燕《つばめ》、どこいつた\n\nわたしの目へ飛びこんだ\n\nきり\n\nきり\n\nさへづつて\n\n飛びこんだとおもつたらもう彼方《あちら》をとんでゐた",
+      "characters": 82,
+      "ruby": []
+    }
+  ]
+}

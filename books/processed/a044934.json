@@ -1,0 +1,54 @@
+{
+  "id": "a044934",
+  "title": "ギツコン　バツタン",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ギツコン　バツタン",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ギツコン　バツタン",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ギツコン\n\nバツタン\n\n　　あがつた\n\n　　あがつた。\n\nギツコン\n\nバツタン\n\n　　さがつた\n\n　　さがつた。\n\nギツコン",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "バツタン\n\n　　そら　そら\n\n　　あたしよ。\n\nギツコン\n\nバツタン\n\n　　こんどは\n\n　　ぼくだよ。\n\nギツコン\n\nバツタン",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　　はやく\n\n　　こがぬと\n\nギツコン\n\nバツタン\n\n　　米つき　ばつたに\n\n　　わらはれる。",
+      "characters": 47,
+      "ruby": []
+    }
+  ]
+}

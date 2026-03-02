@@ -1,0 +1,48 @@
+{
+  "id": "a045097",
+  "title": "ごろぜみ",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ごろぜみ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ごろぜみ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ごろぜみ、ごつとん\n\nでろよ。\n\n月夜に、つちから\n\nでろよ。\n\n合歓《ねむ》の木、ねもとは\n\nにほふよ、\n\n花だか、土だか\n\nにほふよ。\n\nごろぜみ、ころもを",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ぬげよ。\n\n月夜は、つーいと\n\nなけよ。",
+      "characters": 20,
+      "ruby": []
+    }
+  ]
+}

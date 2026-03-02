@@ -1,0 +1,42 @@
+{
+  "id": "a053830",
+  "title": "七面鳥のこゑ",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "七面鳥のこゑ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 40,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "七面鳥のこゑ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "七面鳥のこゑは\n\n空までとほる\n\nあをい空だから\n\nカロカロカロロととほる\n\n七面鳥のこゑは\n\n若草をぬける\n\nよい風だから\n\nカロカロカロロとぬける",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

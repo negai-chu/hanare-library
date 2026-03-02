@@ -1,0 +1,54 @@
+{
+  "id": "a055577",
+  "title": "私の病室の報告",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の病室の報告",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 116,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の病室の報告",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　私の病室は十三号の乙\n\n寝台は三つ　満員\n\n二人は施療で私は有料\n\n一人は堅山と三十越えた男\n\n三年全くこのベットにへばって暮し\n\nるいれきで首の周囲は膿の出た跡赤い肉が盛り上って\n\n此頃も両脇の下から膿がしきりに流れている\n\n肺の方も相当の《ママ》進行している\n\nその咳こむ凄さは恐ろしい",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "俳句を毎日作っている\n\nも一人は鈴木二十二歳\n\n堅山にこの小僧ッ子は生意気だと\n\n泣きながら散々の悪口を言われた男\n\n一月ばかり前に三千グラムも喀血したそうだが\n\nそれほどからだは衰弱していない\n\nだが右肺の下部に大空洞があって一日の喀痰量は\n\nコップに四五杯、熱心なカトリック教徒\n\n熱は毎日三十八度前後",
+      "characters": 153,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "最後に私　私は三十一歳\n\n私は腸結核で\n\n最初の四五日は血便を\n\nあとの十日は激痛ある下痢を\n\nそのあとの四五日は一日中粘液を\n\nそこで浣腸したら腸に穴があいて膿汁が流れ\n\nそれからもう二十日余り未だ\n\n膿が二三回ずつ流れ走って出てくる\n\n肺は相当に悪く熱は三九度五分前後一日二回ずつ発熱、衰弱三人中の第一位五・一四",
+      "characters": 158,
+      "ruby": []
+    }
+  ]
+}

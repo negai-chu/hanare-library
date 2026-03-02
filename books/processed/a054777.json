@@ -1,0 +1,42 @@
+{
+  "id": "a054777",
+  "title": "あきらめろと云うが",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あきらめろと云うが",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あきらめろと云うが",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　かの女を　人は　あきらめろと云うが\n\nおんなを　人は　かの女だけでないと云うが\n\nおれには　遠くの田螺《たにし》の鳴声まで　かの女の歌声にきこえ\n\n遠くの汽車の汽笛まで　かの女の溜息にきこえる\n\nそれでも\n\nかの女を　人は　あきらめろと云う",
+      "characters": 121,
+      "ruby": []
+    }
+  ]
+}

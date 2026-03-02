@@ -1,0 +1,48 @@
+{
+  "id": "a053606",
+  "title": "真如",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "真如",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 41,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "真如",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "金のみ佛\n\n金の足\n\n一列流涕なしたまふ\n\n光る白日《まひる》のうなべりに\n\nとをのおゆびを血はながれ\n\nいたみてほそき瀧ながれ\n\nしたたるものは血のしづく\n\nわれの戀魚の血のしづく\n\n光る眞如のうなべりに",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "金のみ佛\n\n金の足\n\n一列流涕なしたまふ",
+      "characters": 20,
+      "ruby": []
+    }
+  ]
+}

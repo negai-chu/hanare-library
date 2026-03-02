@@ -1,0 +1,48 @@
+{
+  "id": "a051326",
+  "title": "夏と私",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夏と私",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夏と私",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　真ツ白い嘆かひのうちに、\n\n海を見たり。鴎《かもめ》を見たり。\n\n高きより、風のただ中に、\n\n思ひ出の破片の翻転するをみたり。\n\n夏としなれば、高山に、\n\n真ツ白い嘆きを見たり。\n\n燃ゆる山路を、登りゆきて\n\n頂上の風に吹かれたり。\n\n風に吹かれつ、わが来し方に",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "茫然《ばうぜん》としぬ、……涙しぬ。\n\nはてしなき、そが心\n\n母にも、……もとより友にも明さざりき。\n\nしかすがにのぞみのみにて、\n\n拱《こまね》きて、そがのぞみに圧倒さるる。\n\nわが身を見たり、夏としなれば、\n\nそのやうなわが身を見たり。\n\n（一九三〇・六・一四）",
+      "characters": 133,
+      "ruby": []
+    }
+  ]
+}

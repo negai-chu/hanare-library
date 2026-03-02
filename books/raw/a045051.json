@@ -1,0 +1,48 @@
+{
+  "id": "a045051",
+  "title": "冬の木木",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冬の木木",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 27,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冬の木木",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ふゆが\n\nきたとて\n\n木は裸\n\n春に\n\nなるまで\n\n木は裸\n\nちらちら\n\n雪が\n\nふつてきて",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "はなを\n\nきものに\n\nきるけれど\n\nそれが\n\n消えると\n\nまた、裸",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

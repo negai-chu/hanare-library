@@ -1,0 +1,42 @@
+{
+  "id": "a055038",
+  "title": "冒険",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "冒険",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 120,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "冒険",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "騒しい仔猿たちいね\nこちらをむいて雌はしばしの憩ひ\nおれは些少の空地に椅子をだしておれのうへに満天の星座\nおれが空気を呼吸すればかれらも天の青い層をとほして賑やかに息づくかに見えるのだが\nさて　雨ありてたちまちこの界隈\nこの露路の奥\n雨はしづかに市にふる\n雨の車軸よ　おれを恣にこの界隈を敲くがよい\nおれは椅子に動かない\nおれにはできる濡れること！\n滑稽ながらこれが首題《みだし》の冒険だ\nめすよ　糊のきいたゆかたが心配\nはて　風邪をひくのはよいけれど明日のつとめがきにかゝる",
+      "characters": 238,
+      "ruby": []
+    }
+  ]
+}

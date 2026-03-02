@@ -1,0 +1,42 @@
+{
+  "id": "a053439",
+  "title": "火渡り",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "火渡り",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "火渡り",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　竜王の名をしるしたる\n\n紺の旗黄と朱の旗\n\nさうさうと焔はたちて\n\n葉桜の梢まばゆし\n\n布をもてひげをしばりし\n\n行者なほ呪をなしやめず\n\nにくさげに立ちて見まもる\n\n軍帽をかぶれる教師",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053426",
+  "title": "〔聖なる窓〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔聖なる窓〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔聖なる窓〕",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　聖なる窓\n\nそらのひかりはうす青み\n\n汚点ある幕はひるがへる\n\n　Oh, my reverence!\n\n　Sacred St. Window!",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

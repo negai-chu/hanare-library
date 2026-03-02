@@ -1,0 +1,42 @@
+{
+  "id": "a054423",
+  "title": "日曜演奏後",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日曜演奏後",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日曜演奏後",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "音楽堂を繞つて\n\n空椅子の環状配列がいつしんに聴いてゐる\n\n落葉をはく園丁の箒の音を\n\nああよりそふ僕らの囁きを",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

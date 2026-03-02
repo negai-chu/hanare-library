@@ -1,0 +1,48 @@
+{
+  "id": "a054060",
+  "title": "馬",
+  "author": "猪狩満直",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "馬",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "馬",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　昨日四石ひいたら\n\n奴今日五石ふんづけやがった\n\n今日正直に五石ひいたら\n\n奴　明日は六石積むに違いねい\n\nおら坂へ行ったら\n\n死んだって生きたってかまわねい\n\nすべったふりして\n\nねころんでやるベイ\n\nそしたら橇がてんぷくして",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　橇にとっぴしゃがれて\n\nふんぐたばるべ\n\nおれが口きかないともって\n\n畜生\n\n明日はきっとやってやる\n\n（『弾道』一九三〇年三月号に発表）",
+      "characters": 70,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a052152",
+  "title": "和歌一",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "和歌一",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "和歌一",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "先日申てあげたかしらん\n\n世の中の事をよめる\nさてもよににつゝもあるか大井川くだすいかだのはやきとしつき\n\n恋\nきゑやらぬ思ひのさらにうぢ川の川瀬にすだく螢のみかは\n\nみじか夜をあかずも啼てあかしつる心かたるなやまほととぎす",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a045047",
+  "title": "雪虫の唄",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雪虫の唄",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雪虫の唄",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　どんより\n\n雪空\n\nピアノの音《ね》……\n\nふわふわ\n\nふわふわ\n\n雪女郎《ゆきぢよろ》\n\n小女郎《こぢよろ》\n\nピアノの音から\n\nまひだして",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ピアノがやんだら\n\n消えちやつた",
+      "characters": 16,
+      "ruby": []
+    }
+  ]
+}

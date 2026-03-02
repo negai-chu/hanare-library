@@ -1,0 +1,42 @@
+{
+  "id": "a003736",
+  "title": "断片的なもの",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "断片的なもの",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "断片的なもの",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "今年は、ひどく仕事ができませんでした。書いたものは断片的のものであったり、短篇である為、特に云々すべきものを持ちません。\n\n〔一九二四年一月〕",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

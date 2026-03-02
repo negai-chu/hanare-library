@@ -1,0 +1,42 @@
+{
+  "id": "a003713",
+  "title": "死後の世界は有るか無いか",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "死後の世界は有るか無いか",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "死後の世界は有るか無いか",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　主観的にはなしと思う。けれどもその人の生活した真実性、直接性の如何によって、客観的に、人類の裡に永久に、または或る期間、生きるものであると思う。\n\n〔一九二二年四月〕",
+      "characters": 84,
+      "ruby": []
+    }
+  ]
+}

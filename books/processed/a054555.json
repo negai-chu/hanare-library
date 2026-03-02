@@ -1,0 +1,42 @@
+{
+  "id": "a054555",
+  "title": "友の死を懐ふ夜",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "友の死を懐ふ夜",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "友の死を懐ふ夜",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　弥生《やよい》ついたち、はつ燕、\n\n海のあなたの静けき国の\n\n便《たよ》りもて来ぬ、うれしき文を。\n\n春のはつ花、にほひを尋《と》むる\n\nあゝよろこびの時つばくらめ、\n\n黒と白との染分縞《そめわけじま》は\n\n春の心の舞姿。",
+      "characters": 112,
+      "ruby": []
+    }
+  ]
+}

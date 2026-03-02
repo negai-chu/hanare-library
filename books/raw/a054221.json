@@ -1,0 +1,84 @@
+{
+  "id": "a054221",
+  "title": "英雄ナポレオン",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 9
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "英雄ナポレオン",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 9,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "英雄ナポレオン",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "南欧の夜の更け行けば\n\n空には清き星の数\n\n銀河の影もたなびきて\n\n風は香りて薫ばしき\n\n月は折しも青く冴え\n\n波も静けき海原に\n\n俄に殺気みなぎりて\n\nなびく異国の旗の影\n\n沖の鴎も怪みて",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "水の上遠く飛び行けば\n\n羽ばたきに散る水煙\n\n銀月ゆらぐ春の海\n\n東雲《シノノメ》の空月落ちて\n\n残星光失へば\n\n彼方に霞む紅の\n\n雲を破って朝の風\n\n天気に響く万歳に\n\n馬に鞭あて英雄の",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "後に残すや砂煙\n\nパリをさして急ぎ行く\n\n暗雲低くたなびきて\n\n雨濛々と降りしきり\n\n彼方此方に旗の影\n\n殺気漲《ミナギ》るワーテルロ\n\n戦既におさまりて\n\n屍積みし山の跡\n\n流るゝ血汐河をなし",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "月物すごく照らすなり\n\n沈み果てぬる勢は\n\n西に傾く夕陽の\n\n進退こゝに谷《キハ》まりて\n\n身を其艦に託したり\n\n艦は次第に沖の浪\n\nいよ／＼高くセーヌ湾\n\nおゝ紫の山影よ\n\nおゝ緑なる島の影",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "なつかしの国フランスよ\n\n我は南の島守に\n\nいざ永しへに別れなん\n\n噫々我が祖国いざさらば\n\n天を仰げど答ふなし\n\n海に叫べど云ふ非ず\n\nまぶたを伝ふ一雫\n\n彼の心や如何ならむ\n\n山は次第にうすれ行き",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "夜のとばりはフランスの\n\n姿をやがて隠したり\n\n白波の音も悲しげに\n\n見る／＼空はかきくもり\n\n月は雲間に消え行きて\n\n空に星なく海暗く\n\n天も悲しむ夜半《ヨハ》嵐\n\n月日は巡る小車の\n\nしづのおだまきくりかへし",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "春は七度来れ共\n\nセントヘレナに春ならず\n\nさすが千古の英雄も\n\n末期《マツゴ》の風に敵しかね\n\n諸行無常の鐘の音と\n\n共に散りしぞあはれなる\n\n雷鳴空にとゞろきて\n\n波ごう／＼とすさまじく\n\n風雨天地にあれ狂ひ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "鬼哭《キコク》しう／＼空暗し\n\n（大正十三・一・七）",
+      "characters": 26,
+      "ruby": []
+    }
+  ]
+}

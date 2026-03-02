@@ -1,0 +1,48 @@
+{
+  "id": "a044923",
+  "title": "あめやさん",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "あめやさん",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "あめやさん",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　きみ　には　ボンボン、\n\nきみ　には　チヨコレート、\n\nきみ　には　キヤンデイ、\n\nきみ　には　キヤラメルをあげよう、\n\nさあ\n\nいくらでも\n\nもつてゆきたまへ。\n\nすつかり、\n\nもつてゆきたまへ。",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ぼく　は、まだ、\n\nやまほど\n\nやうふくのしたに\n\nかくしてゐるからね、君。",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

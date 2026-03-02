@@ -1,0 +1,42 @@
+{
+  "id": "a053371",
+  "title": "〔ゆがみつゝ月は出で〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔ゆがみつゝ月は出で〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔ゆがみつゝ月は出で〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ゆがみつゝ月は出で\n\nうすぐもは淡くにほへり\n\n汽車のおとはかなく\n\n恋ごゝろ風のふくらし\n\nペンのさやうしなはれ\n\n山の稜白くひかれり\n\n汽車の音はるけく\n\nなみだゆゑ松いとくろし\n\nかれ草はさやぎてわが手帳たゞほのかなり",
+      "characters": 113,
+      "ruby": []
+    }
+  ]
+}

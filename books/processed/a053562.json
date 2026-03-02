@@ -1,0 +1,48 @@
+{
+  "id": "a053562",
+  "title": "秋日行語",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋日行語",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋日行語",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ちまた、ちまたを歩むとも\n\nちまた、ちまたに散らばへる\n\n秋の光をいかにせむ\n\nたそがれどきのさしぐめる\n\n我が愁をばいかにせむ\n\n捨身に思ふ我が身こそ\n\nびいどろ造りと成りてまし\n\nうすき女の移り香も\n\n今朝の野分に吹き散りて",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "水は涼しく流れたり\n\n薄荷《はつか》に似たるうす涙",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

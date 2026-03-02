@@ -1,0 +1,48 @@
+{
+  "id": "a055218",
+  "title": "よそ人のあざむが如く",
+  "author": "ダンテアリギエリ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "よそ人のあざむが如く",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 122,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "よそ人のあざむが如く",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　よそ人のあざむが如く、君も亦あざみ給ふか\n\n我君よ、君はた知らじ、覺りえじ、世に不思議にも\n\n俤《おもかげ》のかくは移ろひ、變りたる深きいはれを、\n\nそは君がたへなる色を仰ぎ見し惑ひ心地ぞ。\n\n我心、君もし知らば、『憐愍《あはれみ》』のいかで堪ふべき\n\nかうやうのつらき恥目に我心惱ましむるぞ。\n\n見よ、「愛」は君います邊《あたり》、のびらかに心のどけく、\n\n廣大の無邊力《むへんりよく》をぞ安んじて振ひ行ふ。\n\nそれ茲に怯《おび》え戰《をのの》くわが生氣、逐ひやらはれて",
+      "characters": 237,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "家も無く、あるは苦み、あるは失せ、今たゞ「愛」は\n\n殘りゐてふみ止まれる獨住《ひとりずみ》、心地もよきか、\n\n思ふまゝ君を仰ぐも羨まし、これわが顏の\n\nさま變る故と知らずや。默《もだ》しつゝ唯茫然と\n\nわれこゝに佇みきけば、官能の逃げ惑ふ聲。",
+      "characters": 121,
+      "ruby": []
+    }
+  ]
+}

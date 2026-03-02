@@ -1,0 +1,48 @@
+{
+  "id": "a001414",
+  "title": "帰省",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "帰省",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "帰省",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "若夏《わかなつ》の入江の西に、\n\n萎ゆる帆を静かにたゝみ、\n\n大船の錨なぐるや、\n\n波止場には、吾かなつかしき\n\n南国の男女《だんによ》のあまた、\n\nすゝみよる、艀《はしけ》むかへぬ。\n\n艀《はしけ》より人力車《くるま》にうつり、\n\n石原を、左右にゆれて、\n\n店先の軒をたどれば、",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かけつるす芭蕉実《バナナ》のかをり\n\n夏風にゆる／＼薫じて、\n\n故郷《ふるさと》は夢にさながら。\n\n父母《ちゝはゝ》や妹をしのび、\n\n過ぎゆけば、榕樹しげれる、\n\n門に着き――涙こぼれぬ。",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

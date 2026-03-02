@@ -1,0 +1,42 @@
+{
+  "id": "a053783",
+  "title": "街衢ノ寒サ",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街衢ノ寒サ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 106,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街衢ノ寒サ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ねおんさいんハさつくすふおおんノ様ニ痩セテイル。\n\n青イ静脈ヲ剪ツタラ紅イ動脈デアツタ。\n\n　――ソレハ青イ動脈デアツタカラデアル――\n\n　――否！　紅イ動脈ダツテアンナニ皮膚ニ埋レテイルト……\n\n見ヨ！　ネオンサインダツテアンナニジーツトシテイル様ニ見ヘテモ\n\n実ハ不断ニネオンガスガ流レテイルンダヨ。\n\n　――肺病ミガサツクスフオーンヲ吹イタラ危イ血ガ検温計ノ様ニ\n\n　――実ハ不断ニ寿命ガ流レテイルンダヨ。",
+      "characters": 207,
+      "ruby": []
+    }
+  ]
+}

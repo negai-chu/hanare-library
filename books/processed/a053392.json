@@ -1,0 +1,42 @@
+{
+  "id": "a053392",
+  "title": "機会",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "機会",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "機会",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　恋のはじめのおとなひは\n\nかの青春に来りけり\n\nおなじき第二神来は\n\n蒼き上着にありにけり\n\nその第三は諸人の\n\n栄誉のなかに来りけり\n\nいまおゝその四愛憐は\n\n何たるぼろの中に来しぞも",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

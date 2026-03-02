@@ -1,0 +1,48 @@
+{
+  "id": "a055463",
+  "title": "COLLOQUE MOQUEUR",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "COLLOQUE MOQUEUR",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "COLLOQUE MOQUEUR",
+      "characters": 16,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　立ち去つた私のマリアの記念にと\n\n友と二人アプサントを飲んだ帰るさ\n\n星空の下をよろめいて、\n\n互の肩につかまりあつた。\n\n――もうあの女《ひと》に会へないと決まつたときは\n\n泣いたせゐで、俺は結膜炎に罹つたつけ。\n\n――さうさう、すると、眼を泣き潰したといふ昔話も\n\nまんざら嘘ぢやないかもしれない。\n\nさるいかめしい黒塀の角を曲がつたとき",
+      "characters": 172,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "球をつくキユーの花やいだ響きに\n\n見上げる眼にふと入つた\n\n薔薇色の天井に張りわたした蜘蛛手の万国旗……",
+      "characters": 52,
+      "ruby": []
+    }
+  ]
+}

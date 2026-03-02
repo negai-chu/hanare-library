@@ -1,0 +1,42 @@
+{
+  "id": "a052733",
+  "title": "私の変態心理",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の変態心理",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 93,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の変態心理",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "到底こゝには記し切れぬ程、生涯の自分の芸術の対照となすべく充分と思ふ程の病的心理がある――或日はさう思ふ。次の日には――そんなことに興奮したのは幼稚な感傷であつた、と打ち消す。また次の日には――それは愚かな対他的な理性で、わが本来の性癖は第一のことに根す、といふ風にも考へる。この三つの感情に悩されること夥しい。これが現在の自分の最も苦しい変態心理である。以上。",
+      "characters": 181,
+      "ruby": []
+    }
+  ]
+}

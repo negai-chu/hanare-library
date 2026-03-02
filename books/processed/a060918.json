@@ -1,0 +1,42 @@
+{
+  "id": "a060918",
+  "title": "女中",
+  "author": "石川善助",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "女中",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "女中",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　台所は暗くものの焦げる匂ひがした。\n\n前掛ばかり白い婦《をんな》のひとは、\n\n一日たわしのやうに濡《ぬ》れて汚なく、\n\n一日叱られながら働き疲れ、\n\n若さを洗濯板《あらひいた》のやうに減らすのであつた。\n\n夕暮いつも露路へ滲《にじ》んでくる、\n\n人脂を炙《あぶ》るやうな重いものは、\n\nその人の生《いのち》が乾いてゆく匂ひであつた。",
+      "characters": 167,
+      "ruby": []
+    }
+  ]
+}

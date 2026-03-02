@@ -1,0 +1,42 @@
+{
+  "id": "a052814",
+  "title": "春の手紙",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春の手紙",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 151,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春の手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "冬の朝の日差しが深々とした縁先で、去年のノートを拡げてゐると、不図、書きかけの手紙の一片が滾れ落ちた。……一体これは誰に書いた手紙だつたか知ら？\n\n「……朝夕の沼の霧は見るも鮮やかに紫を含んでゐる。鶯は稀だが俺達のあしおとを聞いて、茱萸《ぐみ》や連翹の木蔭から雉子や山鳥やかけすの類が頓狂な声を立てゝ飛び立つたり、間もなく蕨の芽が萌えようとしてゐる夢のやうに伸び渡つた草原を一散に駆けて行く野兎の姿が点となるまで見極められるなどといふことは、珍らしくない。俺は毎日そんな木蔭を脱け、野原を横切つては飽くことなしに、沼のほとりへ通ひ詰めてゐる。浮遊生物《プランクトン》の採集をつゞけてゐるのだ。……」",
+      "characters": 299,
+      "ruby": []
+    }
+  ]
+}

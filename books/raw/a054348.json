@@ -1,0 +1,42 @@
+{
+  "id": "a054348",
+  "title": "雨の出発",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雨の出発",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雨の出発",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "背中の寒暖計に泪がたまる\n\n影もないドアをすぎて\n\n古びた時間はまだ叩いてゐる\n\nあれは樹液の言葉でもない\n\n背中の川を声だけで帰つてゆくものたち",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

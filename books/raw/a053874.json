@@ -1,0 +1,42 @@
+{
+  "id": "a053874",
+  "title": "お月さまとお星さま",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お月さまとお星さま",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 39,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お月さまとお星さま",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "黄金のお皿へ\n\n兎がとびこみました\n\nバアラリと黄金色の金平糖が\n\n紫色のびろうどに散りました\n\n兎も\n\nお皿の中で\n\n　黄金になりました",
+      "characters": 69,
+      "ruby": []
+    }
+  ]
+}

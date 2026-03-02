@@ -1,0 +1,48 @@
+{
+  "id": "a060989",
+  "title": "五十の春に　２",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "五十の春に　２",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 95,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "五十の春に　２",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　いまようやくここまで歩いてきたところだ\n\n誰かが呼んだと思うときもあったが\n\nそれは空耳だった\n\n振り返って返事をしているわたしに\n\n呼び止めたと思った人は気のつかぬ如く\n\nとっとっと先の方を歩いて行った\n\nわたしは一人とぼとぼここまでたどりついた\n\n花の咲く頃には却って身を細くして\n\n自動車をよけるような恰好になったものだ",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ようやくここまでたどりつき\n\n山道にさしかかったところだ\n\nこの山道を入ってゆくと道が分からないようにもなったり\n\n高い崖や　危うい海岸へ出るようなことがあるかも知れない\n\n誰もわたしを呼び止めないように\n\nもう返事をするひまもない",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

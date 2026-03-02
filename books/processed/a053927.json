@@ -1,0 +1,42 @@
+{
+  "id": "a053927",
+  "title": "〔金魚は青空を食べてふくらみ〕",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔金魚は青空を食べてふくらみ〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔金魚は青空を食べてふくらみ〕",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　金魚は青空を食べてふくらみ\n\n鉢の中で動かなくなる\n\n鳩だか　鉢のガラスにうすい影を走らせる\n\n來たのは花辨《はなびら》か　白い雲の斷片《かけら》",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

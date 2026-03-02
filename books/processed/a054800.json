@@ -1,0 +1,48 @@
+{
+  "id": "a054800",
+  "title": "麦",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "麦",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "麦",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　銭湯へゆく\n\n麦畑をとおる\n\nオムレツ形の月\n\n大きな暈《かさ》をきて\n\nひとりぼっち\n\n熟れた麦\n\n強くにおう\n\nかのおなごのにおい\n\nチイチイと胸に鳴く",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かのおなごは\n\nいってしまった\n\nあきらめておくれと\n\nいってしまった\n\n麦の穂を噛み噛み\n\nチイチイと胸に鳴く",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055903",
+  "title": "春の日の怒",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春の日の怒",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春の日の怒",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "田の中にテニスコートがありますかい？\n\n春風です\n\nよろこびやがれ凡俗！\n\n名詞の換言で日が暮れよう\n\nアスファルトの上は凡人がゆく\n\n顔　顔　顔\n\n石版刷のポスターに\n\n木履の音は這ひ込まう",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

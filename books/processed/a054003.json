@@ -1,0 +1,54 @@
+{
+  "id": "a054003",
+  "title": "須賀爺",
+  "author": "根岸正吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "須賀爺",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "須賀爺",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　須賀爺の面の憎さよ。\n\nあの\n\n額に寄する残忍の皺よ。\n\n冷酷のまなざしよ。\n\n憎らしき靨《えくぼ》よ頬っぺたの穴よ。\n\n須賀爺の面の憎くさよ。\n\n今日も亦緯糸《よこいと》をたぐりしと叱りし。\n\n解雇するぞとおどかせし。\n\nそんなに叱るなよ。罵しるなよ。",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おれは慣れないのだ。\n\n機台の前に立つさえ怖いのだ。\n\nあの杼《ひ》の音箴《おさ》打つ音にも驚くのだよ。\n\n須賀爺の面の憎さよ。\n\nおれのみが憎むのではない。\n\nみんなだ。\n\n時間が十二時を打っても機械が止まっても\n\n汽笛の鳴らぬ間《うち》は\n\n飯食いにやらぬと出口に立ち塞がる。",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あの面の憎くさよ\n\n（『新社会』一九一六年六月号にＮ正吉名で発表　一九二〇年五月日本評論社刊『どん底で歌う』を底本）",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}

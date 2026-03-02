@@ -1,0 +1,48 @@
+{
+  "id": "a001316",
+  "title": "かの日の歌【三】",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かの日の歌【三】",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かの日の歌【三】",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　温たかき玉は、君が手より、\n\nすべり落ちぬ。\n\nその玉は他人の手に握られ、\n\n楽しき夢路をたどるなり。\n\n　　　あゝ君は淋しき人なり。\n\n　　　君はいや更に悲しめ！\n\n　　　もだへ、苦しむは君のさがなり。\n\nぬめらかなる玉は、すべり安く、\n\nふしくれだちし手には、",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あまりに痛ましく、たへがたく――\n\nすべり落つるも、ことわりなり。\n\n　　　あゝ君は淋しき人なり。\n\n　　　君はいや更に悲しめ！\n\n　　　もだへ、苦しむは君のさがなり",
+      "characters": 83,
+      "ruby": []
+    }
+  ]
+}

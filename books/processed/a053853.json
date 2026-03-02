@@ -1,0 +1,48 @@
+{
+  "id": "a053853",
+  "title": "街の灯",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "街の灯",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "街の灯",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　見てたよ\n\n窓からじつと\n\n遠い街の灯\n\nほらね\n\nお星樣の下の空\n\nぼーつと明かつたよ\n\nそしてね\n\nお星樣うすかつた\n\n死んでるのあつたよ",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "知つてる\n\nあの遠い街に\n\nいゝこと　うんとあるんだ",
+      "characters": 26,
+      "ruby": []
+    }
+  ]
+}

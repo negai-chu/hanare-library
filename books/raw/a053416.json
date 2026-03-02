@@ -1,0 +1,42 @@
+{
+  "id": "a053416",
+  "title": "〔このみちの醸すがごとく〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔このみちの醸すがごとく〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔このみちの醸すがごとく〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "このみちの醸すがごとく\n\n粟葉などひかりいでしは\n\nひがしなる山彙の上に\n\n黄なる月いざよへるなり\n\n夏の草山とになひて\n\nやうやくに人ら帰るを\n\nなにをかもわがかなしまん\n\nすゝきの葉露をおとせり",
+      "characters": 99,
+      "ruby": []
+    }
+  ]
+}

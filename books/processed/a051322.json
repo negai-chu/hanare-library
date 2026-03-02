@@ -1,0 +1,48 @@
+{
+  "id": "a051322",
+  "title": "早春散歩",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "早春散歩",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 116,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "早春散歩",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　空は晴れてても、建物には蔭があるよ、\n\n春、早春は心なびかせ、\n\nそれがまるで薄絹ででもあるやうに\n\nハンケチででもあるやうに\n\n我等の心を引千切《ひきちぎ》り\n\nきれぎれにして風に散らせる\n\n私はもう、まるで過去がなかつたかのやうに\n\n少くとも通つてゐる人達の手前さうであるかの如くに感じ、\n\n風の中を吹き過ぎる",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "異国人のやうな眼眸《まなざし》をして、\n\n確固たるものの如く、\n\nまた隙間風にも消え去るものの如く\n\nさうしてこの淋しい心を抱いて、\n\n今年もまた春を迎へるものであることを\n\nゆるやかにも、茲《ここ》に春は立返つたのであることを\n\n土の上の日射しをみながらつめたい風に吹かれながら\n\n土手の上を歩きながら、遠くの空を見やりながら\n\n僕は思ふ、思ふことにも慣れきつて僕は思ふ……",
+      "characters": 188,
+      "ruby": []
+    }
+  ]
+}

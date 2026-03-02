@@ -1,0 +1,88 @@
+{
+  "id": "a055564",
+  "title": "やるせなさ",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "やるせなさ",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "〔一〕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "〔二〕",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 122,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "やるせなさ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "〔一〕",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "単《ひとえ》の着物を羽織りたい\nま夏の時季が訪れた\nけれども私の白い単は\n恰《あたか》も乞食の着物の様によごれている\n　　　　＊\nやるせない心は、私の生立ちの\n大切な、又、辛い負いめである\n私は荷われた運命の様に\n灯の下《もと》へも、川へも、丘へも\nともなわねばならない\nこれこそ私の友であるのだ\n　　　　＊\n私はこれまで、商人達、友達、\nああ私よりはたしかに裕福な人達にどんなにか\nいやな思いをさせたろう\nけれども私は決して自分を偽りはしなかった\n私は偽られた自分に鞭打って忠実の僕《しもべ》であった筈だ\n　　　　＊",
+      "characters": 259,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "若し、私に月日の差別がなかったら若し私にすべてが入用でなかったら\n若し私は勝手な王者であったなら私は必ず他人《ひと》の前に、あの悲しかった事を注意しはしなかった\nそして父や母の前で\n元気や夕餐も出来たろう\nそして愛人への贈り物さえ出来たろう\n　　　　＊\n私はあんまり淋しいのだ\n私は人間としての生き物なのだ\nむしろ人間に縛られた小猿らの様に憎み愛する事さえ出来なかったものだ\n　　　　＊\n私ははてしない悲しみに耕され\n冷たい赫土に埋もれて、眠りゆくけものの子だ\n私は幻を愛し、優しい母のふところのいつくしみにあこがれている\n又世界への華やかなる歩みに憧れている\n　　　　＊\n詩人が時代の先駆をした\n詩人が郷土を真実に生かした\nそんな言葉が私の耳に流れては来ないかしら",
+      "characters": 333,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "そんな言葉が地球のどこかで語られる時\n私のからだは墓場の火玉となって消えるだろう",
+      "characters": 40,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "〔二〕",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "私は永遠の子だ\nすくなくも自然の前には、そうある筈だ\nかなしみ、くるしみ、嘆き、喜びそれらの前で、私の魂は、叮嚀にあいさつをする\n私は未だごうまんではあり得ない忠実への信徒だ\n　　　　＊\nやるせない苦悩は私を掩うている私は悪戦した\nけれども敗北か、勝利か\n私には何の信号もない\n　　　　＊\n私は墓場へ運ばれてゆく\nぼうぼうと生茂った草の中で\n静かに、こつこつと\nきりぎりすこおろぎの音楽を学ぼう\nそして又世界のどこかへ\n生れて来よう",
+      "characters": 216,
+      "ruby": []
+    }
+  ]
+}

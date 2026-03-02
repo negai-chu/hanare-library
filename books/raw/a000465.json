@@ -1,0 +1,54 @@
+{
+  "id": "a000465",
+  "title": "農民芸術概論",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "農民芸術概論",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 97,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "農民芸術概論",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "序論\n\n……われらはいっしょにこれから何を論ずるか……\n\n農民芸術の興隆\n\n……何故われらの芸術がいま起らねばならないか……\n\n農民芸術の本質\n\n……何がわれらの芸術の心臓をなすものであるか……\n\n農民芸術の分野\n\n……どんな工合にそれが分類され得るか……\n\n農民芸術の諸主義",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "……それらのなかにどんな主張が可能であるか……\n\n農民芸術の製作\n\n……いかに着手しいかに進んで行ったらいいか……\n\n農民芸術の産者\n\n……われらのなかで芸術家とはどういふことを意味するか……\n\n農民芸術の批評\n\n……正しい評価や鑑賞はまづいかにしてなされるか……\n\n農民芸術の綜合\n\n……おお朋だちよ　いっしょに正しい力を併せ　われらのすべての田園とわれらのすべての生活を一つの巨きな第四次元の芸術に創りあげようでないか……",
+      "characters": 213,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "結論\n\nわれらに要るものは銀河を包む透明な意志巨きな力と熱である",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

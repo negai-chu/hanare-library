@@ -1,0 +1,42 @@
+{
+  "id": "a004033",
+  "title": "光線のように",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "光線のように",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 161,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "光線のように",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "若いこころと体とがもっている様々の新鮮な波。さまざまな光と影とは、何と不思議でつかまえにくくて、そして激しいでしょう。若さは、自分で知らないうちにもうきのうの自分の限界をこえています。いつの間にか心と体とがそこまで動いていっていて、欲求するものをつかまえようとしています。光線のような生活力。ちっとも停滞しないで、よごれてしまわないで。思想さえも感覚として訴えて来るのが青春です。けれども、いまの日本が、若い知性として小器用さばかりかきたてる社会しかもっていないことについて、あなたがたはどんな抗議をおもちですか。真白なきれいな小さいカラーのように、若々しさによく似合って清潔などんな正義感を、おもちでしょうか。\n\n〔一九四八年六月〕",
+      "characters": 317,
+      "ruby": []
+    }
+  ]
+}

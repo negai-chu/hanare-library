@@ -1,0 +1,42 @@
+{
+  "id": "a004221",
+  "title": "無題（十）",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "無題（十）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 160,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "無題（十）",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　三四日梅雨のように降りつづいた雨がひどい地震のあと晴れあがった。\n\n　五時すぎて夕方が迫っているのに　雀がチク　チ　チチと楽しそうに囀り、まだ濡れて軟かく重い青葉は眼に沁みる程　蒼々として見える。どこで《ママ》ホーホケキョと鶯の声がする。遠くの欅の梢や松の梢のあたり　薄すり青っぽい靄がこめている。まだポトリ　ポトリ　雨のしずくがトタン屋根にしたたっているが、前の瓦屋根越に見えるよその排気筒はしずかにゆるやかにまわって、蠅が　巻き上げた簾のところで　かたまってとびまわっている。柿の花が目にとまった。見るととなりの庭の土の上に　いくらかその花が落ちている、梅雨の頃の子供のときを思い出す。水たまり、柿の花が浮んでいる、ところ。",
+      "characters": 315,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054241",
+  "title": "母校を去るにのぞみて",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "母校を去るにのぞみて",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 102,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "母校を去るにのぞみて",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　（一）思へば四年の其の間　教へを受けし学び舎に　今日ぞ別れん別れても　心はなどて別るべき\n（二）我は学びぬこの部屋に　我は遊びぬこの庭に　一つ／＼の思ひ出に　今ぞ身にしむ師の教\n（三）桜の花に送られて　小鳥の声に励まされ　学びの林ふみ分けて　希望の山に登りなむ\n（四）草鞋ふみしめふみ鳴らし　名残は尽きぬ学び舎に　いざや別れん師と友に　「さきくましませ」師よ友よ\n（大正十二・三・二七）",
+      "characters": 194,
+      "ruby": []
+    }
+  ]
+}

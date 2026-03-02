@@ -1,0 +1,54 @@
+{
+  "id": "a044928",
+  "title": "ポックリ　キノクツ",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ポックリ　キノクツ",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ポックリ　キノクツ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ポックリコ\n\n「コーヒー　オクレ」\n\nポックリコ\n\nポックリ　キノクツ\n\nポックリコ\n\n「イヤ　イヤ　ヤレナイ」\n\nポックリコ\n\nポックリ　キノクツ\n\nポックリコ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "「ナゼ　ナゼ　クレナイ」\n\nポックリコ\n\nポックリ　キノクツ\n\nポックリコ\n\n「ヤレバ　ナクナル」\n\nポックリコ\n\nポックリ　キノクツ\n\nポックリコ\n\n「クレナキヤ　オツカケ」",
+      "characters": 88,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ポックリコ\n\nポックリ　キノクツ\n\nポックリコ\n\n「ソレハ　コマツタ」\n\nポックリコ\n\nポックリ　キノクツ\n\nポックリコ\n\nポックリ　ポックリ\n\nポックリコ",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

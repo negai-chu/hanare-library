@@ -1,0 +1,42 @@
+{
+  "id": "a059537",
+  "title": "窓",
+  "author": "古賀春江",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "窓",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "窓",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　沢山な窓のある家、\n\n一つ一つの窓から顔が出てゐる。\n\n顔には地図が描いてある。\n\nみんなの地図が読める、\n\n鳥籠も描いてある、花もあり、コップも、望遠鏡も、並ぶ顔、水筒、\n\n霧、黎明とパイプも確実につながつてお互の陰翳を持つてゐる。\n\n痙攣する避雷針の窓からまた一つの顔を見ないか、\n\n揺れる、揺れる、椅子が、星が、\n\n黒い夜の絵具は沈黙して語らない――その後の顔等に就いては。今はただ明るく揺れる顔がある。",
+      "characters": 206,
+      "ruby": []
+    }
+  ]
+}

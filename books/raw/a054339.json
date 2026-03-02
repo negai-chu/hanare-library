@@ -1,0 +1,42 @@
+{
+  "id": "a054339",
+  "title": "馬車",
+  "author": "渡久山水鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "馬車",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "馬車",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "炭俵載せたる馬車は\n\nやや高き坂にかかりぬ、\n\nそを馭する人は肝やみ\n\nくるしげにむちをば振ふ。\n\n馬よりも人ぞ労れぬ",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a055596",
+  "title": "楽しい会合",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "楽しい会合",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "楽しい会合",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "叔母に伯父\n\n山の人々\n\n尋ね来て\n\n語り合う久方の話\n\nさても又十年前の物語\n\n内地のこと\n\nその山その川その家すべて\n\n今ならば夢か知らね\n\n柿の木も桑の木も",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "背戸の林も表の山も\n\n美しい思い出の国\n\n母もまた我を背負いて\n\n渡り来し松前のなぞえの山を\n\nおぼろげに\n\nおもい出でしか\n\n語り明す夜はうれしも",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

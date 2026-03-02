@@ -1,0 +1,42 @@
+{
+  "id": "a047279",
+  "title": "マイクロフォン",
+  "author": "国枝史郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "マイクロフォン",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "マイクロフォン",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "小酒井不木氏の「見得ぬ顔」は単なる探偵小説のための探偵小説で無い処《ところ》が私には嬉しいと思われました。法律に対する完解、人間の好悪感に就《つ》いての意見、わけても最後の庄司弁護士の心持などには鋭い深い氏の物の見方が窺われました。従来やや自己韜晦の気味に居られた氏が、それに満足されずに次第に本質を現わして行かれようとして居ります。",
+      "characters": 167,
+      "ruby": []
+    }
+  ]
+}

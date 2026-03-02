@@ -1,0 +1,42 @@
+{
+  "id": "a003737",
+  "title": "すきな食べ物と嫌いな食べ物",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "すきな食べ物と嫌いな食べ物",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "すきな食べ物と嫌いな食べ物",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、蝦、鰒《ふぐ》類、うなぎ、肉類、新鮮な野菜（特に、うど、セレリー、チサ、若いなま胡瓜、よい玉葱）\n\n二、味のすっぱいものは食べられません。見た形や色がいやな連想を与えるもの、例えて云うと、近頃焼魚をまるで食べられない如く。\n\n〔一九二四年一月〕",
+      "characters": 125,
+      "ruby": []
+    }
+  ]
+}

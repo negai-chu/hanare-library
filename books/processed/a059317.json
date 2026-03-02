@@ -1,0 +1,60 @@
+{
+  "id": "a059317",
+  "title": "梶井君",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "梶井君",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "梶井君",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　なにがしの書物を持ちて\n\n君を訪ふ　慣ひなりしを\n\n花をもて\n\n訪ふ\n\n垂乳根の\n\n君の母とし語へど\n\nこの秋の日に\n\n君はあらなく\n\nすずろかに",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鐘うち鳴らし　しまらくは\n\n君のみ靈に\n\n香をまつらむ\n\n病いゆと\n\n昔淋しき旅をせし\n\n山の小徑を\n\n夢に見しかな\n\nやうやくに\n\n岫《くき》をめぐりて",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "海を見る　この街道に\n\n憩ふ巡禮\n\n蝶一つ\n\n二つ三ついま下りゆく\n\n溪間に見ゆる\n\n菊畠かな\n\n伊太利の\n\n水兵たちが街をゆく\n\n紺のズボンに",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "照る秋陽かな\n\n機關車の\n\n車輪《こま》の轂に　梨の芯\n\nなげつけてみし\n\n鄙驛の晝",
+      "characters": 42,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a054536",
+  "title": "玉盃の曲",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "玉盃の曲",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 98,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "玉盃の曲",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ふくよかの顔面《おもざし》あげて\n\n紅潮の浜にさすごと\n\n華《はな》やかの笑みひろごりて\n\nまなざしの光すゞしく\n\nわが胸の奥には深く\n\nよろこびの影こそ跳れ\n\nわが耳に絃《かな》づる歌は\n\n鶯の啼く音をこめね\n\nあたたかき玉の腕《かひな》に",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "瑠璃色の酒瓶《もたい》たたけば\n\n白百合の花よりすべる\n\n露のごと湧くや甘酒《うまざけ》\n\n玉盃の縁《ふち》にあふれて\n\n白銀や黄金の花の\n\nそこゐには咲きそむものと\n\n口ごもる若き恋人\n\n手をのべて盃をうくれば\n\nわが心天《あめ》の永久春《とこはる》",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "美しき追憶《おもひで》ばかり\n\n絃《いと》かけぬ心をゆする\n\n新たなる生命《いのち》の花の\n\n色馨る唇よせて\n\n玉盃の縁《ふち》にあつれば\n\nわれならぬ影こそ映《うつ》れ\n\nなめらかなうまらの酒を\n\n喉笛《のどぶえ》にそとすべらせば\n\n血の浪の生々《いき／＼》ゆらぎ天地に吾が脈かよふ",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

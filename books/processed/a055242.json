@@ -1,0 +1,595 @@
+{
+  "id": "a055242",
+  "title": "天の狼",
+  "author": "富沢赤黄男",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 39
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "天の狼",
+        "startPage": 1,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "虎",
+            "startPage": 3,
+            "endPage": 2
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "縞",
+            "startPage": 3,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "明暗",
+            "startPage": 4,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "影",
+            "startPage": 5,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "夜景",
+            "startPage": 5,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "無音",
+            "startPage": 6,
+            "endPage": 5
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "冬",
+            "startPage": 6,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "季節",
+            "startPage": 7,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "結氷期",
+            "startPage": 7,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "冬日記",
+            "startPage": 8,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "灰鳥",
+            "startPage": 9,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "夜の歌",
+            "startPage": 10,
+            "endPage": 9
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "秋炎",
+            "startPage": 10,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-2",
+        "title": "阿呆の大地",
+        "startPage": 12,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "春日記",
+            "startPage": 13,
+            "endPage": 13
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "陽炎",
+            "startPage": 14,
+            "endPage": 14
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "阿呆の大地",
+            "startPage": 15,
+            "endPage": 15
+          },
+          {
+            "id": "chapter-2-section-4",
+            "number": "雲を搏つ",
+            "startPage": 16,
+            "endPage": 16
+          },
+          {
+            "id": "chapter-2-section-5",
+            "number": "雑花",
+            "startPage": 17,
+            "endPage": 16
+          },
+          {
+            "id": "chapter-2-section-6",
+            "number": "群島",
+            "startPage": 17,
+            "endPage": 16
+          },
+          {
+            "id": "chapter-2-section-7",
+            "number": "雲のラツパ",
+            "startPage": 17,
+            "endPage": 17
+          },
+          {
+            "id": "chapter-2-section-8",
+            "number": "ある民族",
+            "startPage": 18,
+            "endPage": 18
+          },
+          {
+            "id": "chapter-2-section-9",
+            "number": "微塵",
+            "startPage": 19,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-3",
+        "title": "蒼い弾痕",
+        "startPage": 20,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-3-section-1",
+            "number": "ランプ",
+            "startPage": 21,
+            "endPage": 21
+          },
+          {
+            "id": "chapter-3-section-2",
+            "number": "蒼い弾痕",
+            "startPage": 22,
+            "endPage": 22
+          },
+          {
+            "id": "chapter-3-section-3",
+            "number": "空中戦",
+            "startPage": 23,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-3-section-4",
+            "number": "武漢つひに陥つ",
+            "startPage": 24,
+            "endPage": 23
+          },
+          {
+            "id": "chapter-3-section-5",
+            "number": "木の実",
+            "startPage": 24,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-3-section-6",
+            "number": "枯野",
+            "startPage": 25,
+            "endPage": 24
+          },
+          {
+            "id": "chapter-3-section-7",
+            "number": "ある地形",
+            "startPage": 25,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-3-section-8",
+            "number": "不発地雷",
+            "startPage": 26,
+            "endPage": 26
+          },
+          {
+            "id": "chapter-3-section-9",
+            "number": "東洋の雲",
+            "startPage": 27,
+            "endPage": 27
+          },
+          {
+            "id": "chapter-3-section-10",
+            "number": "江岸要塞図",
+            "startPage": 28,
+            "endPage": 28
+          },
+          {
+            "id": "chapter-3-section-11",
+            "number": "寒山寺",
+            "startPage": 29,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-4",
+        "title": "鶴の抒情",
+        "startPage": 30,
+        "endPage": 0,
+        "sections": [
+          {
+            "id": "chapter-4-section-1",
+            "number": "落日の名園",
+            "startPage": 31,
+            "endPage": 30
+          },
+          {
+            "id": "chapter-4-section-2",
+            "number": "初夏",
+            "startPage": 31,
+            "endPage": 30
+          },
+          {
+            "id": "chapter-4-section-3",
+            "number": "南国の歌",
+            "startPage": 31,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-4-section-4",
+            "number": "蟹の歌",
+            "startPage": 32,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-4-section-5",
+            "number": "女",
+            "startPage": 33,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-4-section-6",
+            "number": "青い蜜柑",
+            "startPage": 33,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-4-section-7",
+            "number": "島",
+            "startPage": 33,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-4-section-8",
+            "number": "砂丘",
+            "startPage": 34,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-4-section-9",
+            "number": "晩秋",
+            "startPage": 34,
+            "endPage": 33
+          },
+          {
+            "id": "chapter-4-section-10",
+            "number": "秋音",
+            "startPage": 34,
+            "endPage": 32
+          },
+          {
+            "id": "chapter-4-section-11",
+            "number": "女",
+            "startPage": 33,
+            "endPage": 34
+          },
+          {
+            "id": "chapter-4-section-12",
+            "number": "闇",
+            "startPage": 35,
+            "endPage": 34
+          },
+          {
+            "id": "chapter-4-section-13",
+            "number": "黄昏は",
+            "startPage": 35,
+            "endPage": 35
+          },
+          {
+            "id": "chapter-4-section-14",
+            "number": "枯野抄",
+            "startPage": 36,
+            "endPage": 36
+          },
+          {
+            "id": "chapter-4-section-15",
+            "number": "窓",
+            "startPage": 37,
+            "endPage": 0
+          }
+        ]
+      },
+      {
+        "id": "chapter-5",
+        "title": "跋",
+        "startPage": 38,
+        "endPage": 39
+      }
+    ],
+    "totalPages": 39,
+    "averageCharsPerPage": 107,
+    "chapterTitles": [
+      "天の狼",
+      "阿呆の大地",
+      "蒼い弾痕",
+      "鶴の抒情",
+      "跋"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "天の狼",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "天の狼",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　虎\n\n爛々と虎の眼に降る落葉\n\n冬日呆　虎陽炎の虎となる\n\n凝然と豹の眼に枯れし蔓\n\n日に憤怒る黒豹くろき爪を研ぎ\n\n馬馳ける冬まんだらの雲の影\n\n寒雷や一匹の魚天を搏ち\n\nからたちの冬天蒼く亀裂せり\n\n縞",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "枯葦の月の罅けゆく影ばかり\n\n海昏るる黄金の魚を雲にのせ\n\n草原のたてがみいろの昏れにけり\n\n火口湖は日のぽつねんとみづすまし\n\n海峡を越えんと紅きものうごく\n\nひた／＼と肺より蒼き蝶の翅\n\n蜂の巣に蜜のあふれる日のおもたさ\n\n明暗\n\n早春の鶴の背にある光の輪",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "鉄の門《と》の錆びたれば山脈《やま》青かりき\n\n木々の芽のしづかなるかな蒼空《そら》の音\n\nむらさきの花咲きてより※せり\n\nもくせいの夜はうつくしきもの睡る\n\nこの宵のおぼろなるもの頬にあり\n\nかん／＼と鐘なるときの花の澪\n\n影\n\n影はただ白き鹹湖の候鳥《わたりどり》\n\n夜景",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "灯を消してあゝ水銀のおもたさよ\n\n無音\n\n絶壁のわん／＼と鳴るとき碧落\n\n地の果の風の涯なる炎の櫟\n\n落日のしづかにうごく雲の鰭\n\n冬\n\n冬がくる火を噴く山は火を噴かしめ\n\n雪ふれば雪のしづかにふる裸\n\n冬天に牡丹のやうなひとの舌",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "瞳に古典紺々とふる牡丹雪\n\n冬薔薇神をおそれぬ瞳よ唇\n\n季節\n\n屋根々々はをとこをみなと棲む三日月\n\n木枯のひとは奈落に灯を抱き\n\n雪をきく瞳にくれなゐの葩を灯し\n\n雪晴れのひたすらあふれたり微笑\n\n冬日閑々とおもきみどりの油垂れ\n\n結氷期",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "冬天の黒い金魚に富士とほく\n\n冬蝶のひそかにきいた雪崩の響\n\n蝶墜ちて大音響の結氷期\n\n風雪の火焔めら／＼はしる雉\n\n風すさぶ夜は孤島と目を醒むる\n\n冬日記\n\n鳥のゐて木々明暗に跫もなし\n\n鳥うせて烟のごとく木の枯るる\n\n冬の川キンキンたればふところで",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "雪つもる夜は深海の魚となる\n\n夕風の馬も女も風の中\n\n牡蠣うまし大焼雲を眉間にし\n\n妻は湯にわれには濃ゆき冬夕焼\n\n灰鳥\n\n藻を焚けば烈しき鳥は海へ墜つ\n\n火を焚いてつんざくものの跫をきく\n\nリンリンと冬　灰鳥の張るつばさ\n\n冬波に向へばあつきわがめがしら",
+      "characters": 128,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "冬波に背けば炎《あか》き常陸山脈\n\n夜の歌\n\n月のふる夜は木の葉の翳に棲む\n\n雨けむる夜は花弁《びら》と閉ぢてあり\n\n花のちる夜はけだものと地を嗅ぐ\n\n秋炎\n\n雲の水掬めば凛烈たる季節\n\n葦枯れて山脈《やま》キシキシとあとすざる\n\n秋の鶏馳ければへらへらと白焔《ほのほ》",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "ゆく雲はくろい運河の秋の雲\n\n一本のマツチをすれば湖は霧",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "阿呆の大地",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "春日記\n\n椿散るあゝなまぬるき昼の火事\n\n空想の水平線の花雌蘂\n\n花粉の日　鳥は乳房をもたざりき\n\n花粉とぶ倫理は水とながれたり\n\n葩散りて赤い傷ふくわが季節\n\n春睡はしろき花粉をみなぎらし\n\n日溢れ腹のおもたい魚およぐ\n\n窓あけて虻を追ひ出す野のうねり",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "チユウリツプこの日五月の日傘をさす\n\n風光る蝶の真昼の技巧なり\n\nわが日記尺取虫は壁を匍ふ\n\n陽炎\n\n炎天に蒼い氷河のある向日葵\n\n鶏交り太陽泥をしたゝらし\n\n陽炎はぬら／＼ひかる午后のわれ\n\n日に吼ゆる鮮烈の口あけて虎\n\n揺れてくる鵞鳥　緑の焔の風景",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "けだものに樹林の蒼の烟が匍ふ\n\n黄昏れてゆくあぢさゐの花にげてゆく\n\n阿呆の大地\n\n蛇となり水滴となる散歩かな\n\n鶴渡る大地の阿呆　日の阿呆\n\n豹の檻一滴の水天になし\n\n白日の麦の穂はなぜ痒いのか\n\n海鳥は絶海を画かねばならぬ\n\n蒼海が蒼海がまはるではないか",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "雲　雲は　かの花びらは崩れたり\n\n太陰のをんなのしづかなる暴風\n\n蝶ひかりひかりわたしは昏くなる\n\nはた／＼の赤い風車の花のまぼろし\n\n黴の花イスラエルからひとがくる\n\n雲を搏つ\n\n詩《うた》枯れて雲搏つしろき秋の鶏\n\n詩涸れて蒼天の石掌に焦ける\n\n詩空し河床に炎える牛一つ",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "雑花\n\n青き虫匍ふ地の底に立つ火ばしら\n\n炎天の巨きトカゲとなりし河\n\n藻の花がさく人間に流離あり\n\n群島\n\n鱗雲かの澎湃と湧く魚群\n\n喨々と断雲が吹きならすラツパ\n\n赤い花買ふ猛烈な雲の下\n\n雲のラツパ",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "朝焼の汚れた雲を洗濯する\n\n帆柱の雲を倉庫へ積み上げる\n\n河涸れて雲を搬んでゆく車\n\nある民族\n\nとある夜は呼吸とめてきく長江の跫\n\n民族の郷愁　鶏を焼くにほひ\n\n黄風にとほく家鴨を裸にす\n\n水車ふむ悠久にして黄なる地\n\n銅幣を掌にうらがへしたる日輪",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "烈日を溶かさんと罌粟をさかしむる\n\n瓜を啖ふ大紺碧の穹の下\n\n微塵\n\n落葉松《からまつ》の葉のふりしきるとき陽の箭",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "蒼い弾痕",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "ランプ\n\n――潤子よお父さんは小さい支那のランプを拾つたよ――\n\n落日に支那のランプのホヤを拭く\n\nやがてランプに戦場のふかい闇がくるぞ\n\n灯はちさし生きてゐるわが影はふとし\n\n靴音がコツリコツリとあるランプ\n\n銃声がポツンポツンとあるランプ\n\n灯をともし潤子のやうな小さいランプ\n\nこのランプ小さけれどものを想はすよ",
+      "characters": 159,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "藁に醒めちさきつめたきランプなり\n\n蒼い弾痕\n\n戞々とゆき戞々と征くばかり\n\n秋風のまんなかにある蒼い弾痕\n\n断雲よ地にあるは十五糎榴弾砲\n\n秋ふかく飯盒をカラカラと鳴し喰ふ\n\nまつかふに雲耀かせ強行渡河\n\n鱗雲　流れ弾きて流れたり\n\n雨あかくぬれてゐるのは手榴弾",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "繃帯の血のにじむ夜の雁鳴きわたる\n\n滾々と水湧きあつきわがいのち\n\n塹壕の腹がまつかにうねる雨\n\n蒼天のキンキンと鳴る釘をうつ\n\n寒月のわれふところに遺書もなし\n\n空中戦\n\n湖はしんしんとある空中戦\n\n向日葵の貌らんらんと空中戦\n\n罌粟の花うつうつとある空中戦",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "武漢つひに陥つ\n\n眼底に塹壕匍へり赤く匍へり\n\n耳底に紅い機銃を一つ秘む\n\n網膜にはりついてゐる泥濘なり\n\n胸底に灰色の砲車くつがへる\n\nめつむれば虚空を黒き馬をどる\n\n掌が白い武漢の地図となる\n\n吾はなほ生きてあり山河目にうるむ\n\n木の実",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "砲音の輪の中にふる木の実なり\n\n赫土は弾子と木の実ところがせり\n\n茫々と馬哭きければふる木の実\n\n枯野\n\n梅干の紅が眼にしむ枯野なり\n\n梅干は酸ゆく流弾こそばゆし\n\n流弾に噛んで吐き出す梅のたね\n\nある地形\n\n困憊の日輪をころがしてゐる傾斜",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "蒼茫と風の彼方に雲あつまり\n\n幻の砲車を曳いて馬は斃れ\n\n彷徨へる馬郷愁となりて消ぬ\n\n一木の凄絶の木に月あがるや\n\n眼を貫くはしろがねのすゝきの穂\n\n不発地雷\n\n戦闘はかくまで地のつめたさよ\n\n戦闘はわがまへをゆく蝶のまぶしさ\n\n一輪のきらりと花が光る突撃",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "雲ながれ　雲がながれる不発地雷\n\nめつむれば祖国は蒼き海の上\n\n東洋の雲\n\n息つけば東洋の雲といへるが飛び\n\n風錯落錯落とある焚火かな\n\n焚火してあるとき蒼き海となる\n\n蛇よぎる戦《いくさ》にあれしわがまなこ\n\n沛然と雨ふれば地に鉄甲\n\n弾々を担ふ激怒の雲炎《あか》く",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "地雷まろ／＼ほりおこしたる雲の冷さ\n\n兵燹をみるあめつちにわれはひとり\n\n草の香よ愛慾とへだたれるかな\n\n江岸要塞図\n\n魚光り老文明は沖積せり\n\n回想は鶴要塞をかゞやき翔び\n\n執着の砲座は昼の月をのこし\n\n陽炎の砲身迂愚の裸となる\n\n要塞と烟と瓜の蔓からまり",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "江光り艦現実を溯る\n\n寒山寺\n\n鐘つけば春雨の音鐘の音\n\n壁くらく「月落」の詩につきあたる\n\n石刷りの墨の匂のあまき雨\n\n雨ほそく魚板の魚は瞳をつむる",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "鶴の抒情",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "落日の名園\n\n鶴は鳴く雲の炎《ほのほ》に身を絞り\n\n鶴の舌赤銅の日に哭きたゞれ\n\n鶴燻ゆるひろげし翼のむらさきに\n\n鶴はなく雲の※に盲《めつぶ》れて\n\n鶴昏れて煙のごとき翼ひけり\n\n初夏\n\n南国のこの早熟の青貝よ\n\n南国の歌",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "潮すゞし錨は肱をたてゝ睡る\n\n青貝に月の匂ののこる朝\n\n貝殻の頬幸福に日焦けつつ\n\n蟹の歌\n\n雲聳ちて蟹は甲羅の干きゆく\n\n波耀れば蟹はしづかに眸をつむる\n\nゆく船へ蟹はかひなき手をあぐる\n\n水泡をいだいて蟹はかなしめり\n\n白日の砂丘は寂し蟹こゆる",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "女\n\n春宵のきんいろの鳥瞳に棲める\n\n青い蜜柑\n\n雲流れ少年はるかなる空想《おもひ》\n\n少年の雲白ければむく蜜柑\n\n青い蜜柑のにほひと白雲の匂\n\n夕風の青い蜜柑をふところにし\n\n蜜柑酸ゆければふるさとの酸ゆさかな\n\n島",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "貝殻と蟹で賑はつてゐる真昼\n\n砂丘\n\n陽炎の中へ貝殻を捨てて去る\n\n晩秋\n\n秋は寂かにゐる雲　狐のやうな雲\n\n秋はきいろい丘　海坂より低い丘\n\n秋晩れていまははた／＼とばぬ丘\n\n秋はほそみちまむかふに日の没つる径\n\n秋音",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "秋風の下にゐるのはほろほろ鳥\n\n秋の壁白ければ目で鳥を描く\n\n暗がりに坐れば水の湧くおもひ\n\n女\n\nしづけさはきみあけぼののごとく坐る\n\nかなしさはきみ黄昏のごとく去る\n\n闇\n\n恋びとは土龍のやうにぬれてゐる\n\n黄昏は",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "黄昏は枯木がぬいだ白いシヤツポ\n\n黄昏は枯木が抱いてゐる竪琴《ハープ》\n\n黄昏は枯木むかふをむいて去る\n\n枯野抄\n\n沼をみる背に灰色の都市を負ひ\n\n枯原の風が電車になつてくる\n\n冬の日は墜ち一ぽんの葦のこる\n\n枯葦を瞳につめこんでたちもどる\n\n灯よ氷柱は闇の中にある",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "窓\n\n三日月よ　けむりを吐かぬ煙突《けむりだし》",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "跋",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 39,
+      "content": "　すぐるかた六年間の作品を集め、逆年順に並べて『天の狼』として上梓することにした。\n\n　内容を、「鶴の抒情」は今事変従軍以前のものから、「蒼い弾痕」は従軍中、「阿呆の大地」と「天の狼」は帰還後今日迄のものの四章に分けた。\n\n　俳句に憑かれてから、略二十年になる。特にこゝ六七年間の生活の変転苦難に堪へて、ともかくも、真正直にひとすぢ、己が道を歩みつゞけ得たと信ずることが出来るのは幸せだと思ふ。これは一には畏友、水谷砕壺の大きな愛によるものであつた。いまこゝに、この書を、万感をこめて贈る所以である。\n\n　なほこの『天の狼』には、先輩知友の無言の愛情がこめられてある。殊に、これの上梓のための一切の煩雑な仕事を直接引受けて頂いた多くの心友に対し、心から御礼を申上げねばならぬ。\n\n　この『天の狼』をもつてひとまづ僕の青年の歌を劃したものだとも言へる。今後は、更に一歩をふみ出して、たくましい壮年の歌をうたはねばならぬと考へる。\n\n　幸にこのまづしい句集が、なんらかの特徴をもち、いさゝかでもの存在の理由をもち得るならば僕の願は足りる。\n\n紀元二千六百一年六月\n著者\n（昭和十六年八月刊）",
+      "characters": 493,
+      "ruby": []
+    }
+  ]
+}

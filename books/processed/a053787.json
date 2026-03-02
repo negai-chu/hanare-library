@@ -1,0 +1,42 @@
+{
+  "id": "a053787",
+  "title": "囚人の作つた箱庭",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "囚人の作つた箱庭",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "囚人の作つた箱庭",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　露を知らないダーリヤと海を知らない金魚とが飾られている。囚人の作つた箱庭だ。雲は何うして室内に迄這入つて来ないのか。露は窓硝子に触れて早や泣く許り。\n\n　季節の順序も終る。算盤の高低は旅費と一致しない。罪を捨て様。罪を棄て様。",
+      "characters": 114,
+      "ruby": []
+    }
+  ]
+}

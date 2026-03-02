@@ -1,0 +1,48 @@
+{
+  "id": "a053355",
+  "title": "〔われらが書に順ひて〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔われらが書に順ひて〕",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔われらが書に順ひて〕",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　われらが書《ふみ》に順ひて\n\nその三稜の壇に立ち\n\nクラリネットとオボーもて\n\n七たび青くひらめける\n\n四連音符をつゞけ奏《な》し\n\nあたり雨降るけしきにて\n\nひたすら吹けるそのときに\n\nいつかわれらの前に立ち\n\nかなしき川をうち流し",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "渦まく風をあげありし\n\nかの逞ましき肩もてる\n\n黒き上着はそも誰なりし",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

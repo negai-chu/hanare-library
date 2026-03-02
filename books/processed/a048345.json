@@ -1,0 +1,42 @@
+{
+  "id": "a048345",
+  "title": "育児",
+  "author": "坂口安吾",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "育児",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 162,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "育児",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　五十ちかい年で初子が生れると、てれたり、とまどったりするばかりで育児については無能である。いまもって子の抱き方も知らないが、たまに父が子を抱いたり世話したり母のしてやるようなことをすると、たいそう喜ぶものである。別にしつけらしいことはしないが、父のすることをまねながら自然に育つものらしい。私のしてやることといえば毎日何か食べさせて時々オナカを悪くさせることぐらいで、女房にたしなめられるばかりだが、オッパイのある母親とちがって、父の愛情の表現は何かうまそうな物を食べさせてやるくらいしかないことを母は理解してくれない。\n\n　そして母親は本能的に子供の独占慾が旺盛であるが、結局その方が無能な父には手が省けるので、専ら母の独占慾にまかせている。",
+      "characters": 323,
+      "ruby": []
+    }
+  ]
+}

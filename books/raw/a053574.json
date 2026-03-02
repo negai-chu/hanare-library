@@ -1,0 +1,48 @@
+{
+  "id": "a053574",
+  "title": "晩秋哀語",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "晩秋哀語",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "晩秋哀語",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ああ秋も暮れゆく\n\nこのままに\n\n故郷にて朽つる我にてはよもあらじ\n\n草の根を噛みつつゆくも\n\nのどの渇きをこらへんためぞ\n\n畠より疲れて歸り\n\n停車場の裏手なる\n\n便所のほとりにたたずめり\n\n日はシグナルにうす赤く",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "今日の晝餉に何をたうべむ\n\n（故郷前橋にて）",
+      "characters": 22,
+      "ruby": []
+    }
+  ]
+}

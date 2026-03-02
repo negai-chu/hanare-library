@@ -1,0 +1,42 @@
+{
+  "id": "a053858",
+  "title": "レインコートを着たてんと虫",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "レインコートを着たてんと虫",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 54,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "レインコートを着たてんと虫",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "春の雨は　絹の雨\n\nレインコートのてんと虫\n\nペンペン草のてつぺんで\n\n明日も雨だと　知らせてる\n\n春の風はそより風\n\nレインコートのてんと虫\n\nペンペン草のてつぺんで\n\n南の風だと知らせてる",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a004783",
+  "title": "五年後",
+  "author": "原民喜",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "五年後",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 142,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "五年後",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "竜ノ彫刻モ\n\n高イ石段カラ割レテ\n\n墜チ\n\n石段ワキノ　チョロチョロ水ヲ\n\nニンゲンハ来テハノム\n\n炎天ノ溝ヤ樹ノ根ニ\n\n黒クナッタママシンデイル\n\n死骸ニトリマカレ\n\nシンデユク　ハヤサ",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "鳥居ノ下デ　火ノツイタヨウニ\n\nナキワメク真紅ナ女\n\n　これは五年前のノートに書きなぐっておいたものである。\n\n　五年前……。私はあの惨劇の翌日、東照宮の境内にたどりつき、そこで一昼夜をおくった。\n\n　石段わきの木陰に、沸いて流れる水があって、私はときどき咽喉を潤したものだ。あの水のところには、絶えず誰かが来て、かがんでいたようだ。水を飲むためばかりでなく何となく、私の足はあの清水のところに向かうのだった。今でも……。満目惨たる記憶のなかで、あのささやかな水は何かを囁いていてくれるようだ。\n\n　東照宮の鳥居の下で、反転していた火傷の娘、\n\n　兵隊サン　助ケテ\n\n　あの声が真紅だったのか、あの口が真紅だったのか……くらくらと頭上に空間がくずれ墜ちるようだ。",
+      "characters": 331,
+      "ruby": []
+    }
+  ]
+}

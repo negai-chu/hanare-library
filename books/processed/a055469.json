@@ -1,0 +1,48 @@
+{
+  "id": "a055469",
+  "title": "横臥合掌",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "横臥合掌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "横臥合掌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　病みさらぼへたこの肉身を\n\n湿りたるわくら葉に横たへよう\n\nわがまはりにはすくすくと\n\n節の間《ま》長き竹が生え\n\n冬の夜の黒い疾い風ゆゑに\n\n茎は戛々の音を立てる\n\n節の間長き竹の茎は\n\n我が頭上に黒々と天蓋を捧げ\n\n網目なすそのひと葉ひと葉は",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "夜半の白い霜を帯び\n\nいとも鋭い葉先をさし延べ\n\nわが力ない心臓の方《かた》をゆびさす",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

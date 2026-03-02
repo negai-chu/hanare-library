@@ -1,0 +1,132 @@
+{
+  "id": "a049179",
+  "title": "初期詩篇",
+  "author": "原口統三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 12
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "初期詩篇",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "天外脱走",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "海に眠る日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "小唄",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "断片",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 12,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "初期詩篇",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "天外脱走",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "日輪は遠く逃げゆく\n\n有明けの天上ふかく\n\n日輪は遠ざかりゆく\n\n仰ぎ見よ暁闇の空\n\n罪びとの涙もしるく\n\n薄冥の雲間に凍り\n\n日輪は遠く消えゆく\n\n一九四三・十二・三十一",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "海に眠る日",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "　　　　海に溶け込む太陽だ　　　ランボオ\n\nかれは真昼の海に眠る。\n\n茫洋たる音楽のみどりに触れあう　はるかな\n\n蜃気楼の奥深くかれは眠る\n\nあふれる香髪《においがみ》のみだれ巻いて溺れるあたり\n\nとおく水平線の波間にさ青の太陽は溶けこむ。\n\nそうして　はるばると潮の流れる耳もとちかく\n\nかれは一つのなつかしい言葉をきく\n\nお兄さん！　お兄さん！　お兄さん……",
+      "characters": 181,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "ああ　こんな恍惚の夢のような日は\n\nどこの海辺で待っているのか\n\n昭和十九年五月三十一日向陵時報",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "小唄",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "水のほとりに立てば\n\nこころなぐさむ\n\nわがうらぶれの姿さえ\n\nやさしげにうかみいづるを\n\n（注）　「隅田川のほとりに立ちて清岡学兄と共に歌える小唄」。原稿なし。清岡卓行の記憶による。一七九ページ（注）五参照。清岡卓行については略年譜および一八七ページ（注）四参照。",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "断片",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "俺の涙が出ないから\n\nお前を一つひっぱたいて\n\nお前の落とす涙に酔おうと\n\nそう思って俺は――\n\n（エチュード・十七歳の詩）\n\n…………\n\nひとり怒りに耐え\n\nかの遠き秋をゆかむ。\n\n…………",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "（エチュード・十八歳の詩）\n…………\n\n夜明けの海はまだ暗く\n\n夢の中に　幻の城は聳えていた\n\n…………\n\n（エチュード）\n（注）「暁の使者」の断片。原詩は次の「永劫への旅」と共に一高同窓会雑誌『枯葉』に投稿、同誌は校正刷りのまま戦災に遇い、原稿は散佚した。\n\nかつてはおれの胸の中にも　驕りの花はひらいていた。\n\nかつてはおれの額の上にも\n\n勇ましい流浪のあらしは吹き荒れていた、",
+      "characters": 191,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "（エチュード・「永劫への旅」より）",
+      "characters": 17,
+      "ruby": []
+    }
+  ]
+}

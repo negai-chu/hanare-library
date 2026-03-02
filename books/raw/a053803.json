@@ -1,0 +1,48 @@
+{
+  "id": "a053803",
+  "title": "善夫孤独",
+  "author": "金鍾漢",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "善夫孤独",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 92,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "善夫孤独",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "下関でうつた電報から　ひねもす\n\n朝鮮漬《キムチ》のにほひがしてならない\n\nそして　貴公はやつてきた\n\nムカヘニコナイトマヒゴニナルゾ\n\nそして　貴公はやつてきた\n\n天下大将軍《チヤンスン》のやうな顔をして\n\nそして　貴公はやつてきた\n\nぶあつい手を　にゆつとつき出した\n\nそして　私は案内した",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "天神の鳩に豆をやつた\n\nふたりの背に　陽ざしがあたたかく\n\n幼年の日が　そこにあつた\n\nそして　私は案内した\n\nとんかつやの　ふるぼけた暖簾《のれん》をくぐると\n\nふるさとの淳朴な風俗が\n\n郷愁のやうに　湯気をたてて流れた\n\nそして　貴公は帰つていつた",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

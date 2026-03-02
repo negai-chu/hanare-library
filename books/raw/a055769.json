@@ -1,0 +1,42 @@
+{
+  "id": "a055769",
+  "title": "夏",
+  "author": "北原白秋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夏",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 23,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夏",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "近景ニ一本ノ葦、\n\n遠景ニ不二ノ山、\n\n不二ヨリモサラニ高ク、\n\n新鮮ニ葦ハ戦《ソヨ》ゲリ。",
+      "characters": 46,
+      "ruby": []
+    }
+  ]
+}

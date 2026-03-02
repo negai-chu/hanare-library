@@ -1,0 +1,158 @@
+{
+  "id": "a054794",
+  "title": "泥葬",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 14
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "泥葬",
+        "startPage": 1,
+        "endPage": 14,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "腐り船",
+            "startPage": 3,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "星夜",
+            "startPage": 5,
+            "endPage": 6
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "日記",
+            "startPage": 7,
+            "endPage": 8
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "フロイド",
+            "startPage": 9,
+            "endPage": 10
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "オンナ",
+            "startPage": 11,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "戦場",
+            "startPage": 13,
+            "endPage": 14
+          }
+        ]
+      }
+    ],
+    "totalPages": 14,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "泥葬",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　われ、山にむかいて、目をぞあぐる。わがたすけは、いづくよりきたるならん。\n\n（讃美歌第四百七十六）",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "腐り船",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 4,
+      "content": "　鼻もちならねえ、どぶ水なんだ。屍臭を放つ腐り船が半《はん》沈みなんだ。青みどろなんかが、からみついてるんだ。\n\n　舷側にたった一つ、モオゼのピストルが置いてあるんだ。しかも、太陽はきらきらしているんだ。",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "星夜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "　月はないけれど、星が一杯かがやいていた。気色のわるいほど、星には愛嬌があった。\n\n　ぼくは、ワイシャツのはじをズボンからはだけさせて、寝静まった街を歩いていた。",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "日記",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "　ふしぎな日であった。池袋でも、新宿でも、高円寺でも、そして神田でも、友だちに会った。彼らは、みんなぼくにあいそよくしていた。\n\n　中野のコオヒイ店で、ぼくに会った時には、ぼくはまったくびっくりしてしまった。",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "フロイド",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "　女のことばかり考えている日があった。\n\n　机の上に、蛾がごまんと止まっている夢を見た日であった。\n\n　その日の夕刻には、衛生器具店の陳列棚を眺めて暮らした。",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "オンナ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 12,
+      "content": "　そのころ、ぼくは、恋人の家によく泊ったものだ。となりの部屋で、恋人の兄貴と一緒に寝たものだ。\n\n　すると、ある夜、恋人が手淫をはじめたらしい物音がしてきたんだ。あのときほど、やるせなく思ったことはなかった。",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "戦場",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "　十畳の部屋は、戦場のように崩れていった。\n\n　裸の書物や、机から落ちたインキ壺や、裏むきになった灰皿や、ゲートルと角力《すもう》を取っている屑フィルムや、フタのないヤカンが、その位置で根を張りだした。手のほどこしようは、もうとっくになくなった。どうにでもなりくされ。",
+      "characters": 134,
+      "ruby": []
+    }
+  ]
+}

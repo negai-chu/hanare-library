@@ -1,0 +1,48 @@
+{
+  "id": "a053577",
+  "title": "春の来る頃",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春の来る頃",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春の来る頃",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　なじかは春の歩み遲く\n\nわが故郷《ふるさと》は消え殘る雪の光れる\n\nわが眼になじむ遠き山山\n\nその山脈《やまなみ》もれんめんと\n\n煙の見えざる淺間は哀し\n\n今朝より家を逃れいで\n\n木ぬれに石をかくして遊べる\n\nをみな來りて問ふにあらずば\n\nなんとて家路を教ふべき",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "はやも晝餉になりぬれど\n\nひとり木立にかくれつつ\n\n母もにくしや\n\n父もにくしやとこそ唄ふなる。\n\n（滯郷哀語篇ヨリ）",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

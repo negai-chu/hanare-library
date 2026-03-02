@@ -1,0 +1,48 @@
+{
+  "id": "a051124",
+  "title": "海",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　海《うみ》\n\n海《うみ》\n\n黒《くろ》い\n\n黒《くろ》い旗《はた》のように\n\n黒《くろ》い\n\n海《うみ》\n\n海《うみ》\n\n海《うみ》が鳴《うな》る\n\n黒《くろ》い旗《はた》振《ふ》るように",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "黒《くろ》いふろしき振《ふ》るように\n\n海《うみ》が鳴《な》る\n\n海《うみ》\n\n海《うみ》\n\n黒《くろ》い\n\n晩《ばん》のように黒《くろ》い\n\n墨《すみ》のように黒《くろ》い",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

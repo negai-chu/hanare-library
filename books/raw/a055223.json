@@ -1,0 +1,48 @@
+{
+  "id": "a055223",
+  "title": "泣けよ恋人",
+  "author": "ダンテアリギエリ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "泣けよ恋人",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 121,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "泣けよ恋人",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "泣けよ、戀人《こひびと》、神の身の「愛」の君だに、\n\n愁歎《しうたん》のいはれを識《し》りて泣き入りぬ。\n\n「愛」は悲《かなし》み堪《た》へ難く、いらつめたちの\n\n雙眼《さうがん》に溢るる涙、眺めたり。\n\n忌々《ゆゝ》しき「死」の大君《おほぎみ》は貴《あて》なる人も\n\n憚《はゞか》らず、さすがに徳を避けたれど、\n\nなべての人が、たをやめの譽《ほまれ》とふもの、\n\nめぐしくも、毀《こぼ》ちたるこそ無殘《むざん》なれ。\n\n聞けよ、諸人《もろびと》、「愛」は今、このたをやめを",
+      "characters": 237,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "褒めたたふ。見ようつそ身に現《あらは》れて、\n\n眠れる如きかんばせの上にあらずや。\n\n折ふしは天頂《てんちやう》高くうちあふぎ、\n\nかくて貴《あて》なる魂《たましひ》のゆくへや求《と》むる、\n\n塵《ちり》の世の濁《にごり》に染まぬたましひの。",
+      "characters": 121,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a015981",
+  "title": "「播州平野」創作メモ",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "「播州平野」創作メモ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 83,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "「播州平野」創作メモ",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "┌細君、小枝\n\n　　　　　│七歳の伸一\n\n┌富井行雄┤四つの健吉\n\n│　　　　│百姓　与田初五郎\n\n│　　　　└　　　酒井「五兵衛さん」\n\n│石田重吉┐直次　つや子\n\n└　ひろ子└進三\n\n〔欄外に〕\n\n坂上夫妻　　友人の家",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　┌──┐\n\n九月│五日│八日\n\n　　└──┘\n\nPoliceman　　Military Police\n\n下駄の音\n\n電燈カバーの細工\n\n汽車の中\n\n┌母　　　登代\n\n│義妹　　直三の妻つや　　　（六）より",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "└　　　子供　　昭夫　三歳\n\n　　　　　　　　治郎　二歳\n\n┌　前の家　沢田　　かじや\n\n└　（野原）の町の風景（四五年前の夏の祭のとき水瓜）\n\n┌姫路　戸田屋の二階\n\n│　　　播州平野の馬車\n\n│\n\n└永田さん（森永）",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a045037",
+  "title": "百舌鳥",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "百舌鳥",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "百舌鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　百舌鳥や\n\nきいり　きり\n\n鉄砲ぶちにきをつけろ\n\nあつちみろ\n\nこつちみろ\n\nもずや\n\nきいり　きり\n\n枯草山《かれくさやま》に火をつけろ",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

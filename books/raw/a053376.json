@@ -1,0 +1,42 @@
+{
+  "id": "a053376",
+  "title": "会計課",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "会計課",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 33,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "会計課",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "九時六分のかけ時計\n\nその青じろき盤面《ダイアル》に\n\nにはかに雪の反射来て\n\nパンのかけらは床に落ち\n\nインクの雫かわきたり",
+      "characters": 63,
+      "ruby": []
+    }
+  ]
+}

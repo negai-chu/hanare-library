@@ -1,0 +1,42 @@
+{
+  "id": "a046702",
+  "title": "働く町",
+  "author": "夢野久作",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "働く町",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 151,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "働く町",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ある国で第一番の上手というお医者さんが、ある町に招かれて来ました。お医者さんは町に着くと直ぐ、\n\n「ここの人はどうして一日を過ごしていますか」\n\n　と尋ねました。\n\n　町の人はこう答えました。\n\n「別に変った生活もしませんが、私達は日の出前に起床し、日が暮れて床に就き、明るいうちはせっせと働いて日を送っています。又餓《ひも》じい時はお腹を一パイにするだけ御飯を食べます」\n\n　と答えました。\n\n　お医者さんは、\n\n「それでは私はここにおっても仕事がありません。そんな生活《くらし》をする人達はいつも健全《たっしゃ》で医者の厄介になる事がありませんから」\n\n　と言ってさっさとここを立ち去りました。",
+      "characters": 299,
+      "ruby": []
+    }
+  ]
+}

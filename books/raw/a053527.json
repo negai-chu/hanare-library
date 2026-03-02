@@ -1,0 +1,42 @@
+{
+  "id": "a053527",
+  "title": "大江満雄に",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "大江満雄に",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 157,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "大江満雄に",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "こゝに機械の哲学者がある―――\n彼は思考し、血潮の中に機械のどよめきをでなく、血潮と共に脈動する機械のリズムを感ずる\n彼ははつらつたる工場の諧調を背負うて、齟齬しながら鈍重に歩いて行く\n\nこゝに機械の哲学者がある―――\n彼は技師を宣言し、一切に正面照明を送る\n照明はゆかいに大大阪を漫歩する\n機械にまで虚偽を造る資本の虚偽と、百万の労働の精神とを透過し\n浮揚する二重性をもって、飢えた子供の胃のレントゲン絵にまで照入する\n\nこゝに機械の哲学者がある―――\nたしかに彼は巧みな限りにおいて危う気なく進む\nだがわたしらをして提議せしめよ―――\n現実を後にでなく\n前に置こう！\n前方をして常にかちうべき真実の生産であらしめよ！",
+      "characters": 310,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "a044967",
+  "title": "いぬさん　と　おねこさん",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ゑほん",
+        "startPage": 2,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-2",
+        "title": "さんぽ",
+        "startPage": 4,
+        "endPage": 6,
+        "sections": [
+          {
+            "id": "chapter-2-section-1",
+            "number": "一",
+            "startPage": 5,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-2-section-2",
+            "number": "二",
+            "startPage": 5,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-2-section-3",
+            "number": "三",
+            "startPage": 5,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-2-section-4",
+            "number": "四",
+            "startPage": 5,
+            "endPage": 6
+          }
+        ]
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 110,
+    "chapterTitles": [
+      "ゑほん",
+      "さんぽ"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "いぬさん　と　おねこさん",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ゑほん",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　いぬさん　と　おねこさん　が　ストーヴ　に　あたりながら　ハイカラな　ゑほん　を　みて　ゐました。\n\n　いぬさん　が　まうしました。\n\n「ぼく　は　なぜ　こんな　ハイカラな　犬　に　うまれなかつたんだらう。このちぢれた毛　は　どうだ」と　じぶん　の　みじかい毛　を　ひつぱりました。\n\n「ああ　あたし　は　どうして　この　ペルシヤねこに　うまれなかつたんでせう。この　大きな　目」と　ゑほんの　猫を　みて　おねこさん　は　まうしました。\n\n　二人　は　がつかりして　しまひました。が、ストーヴ　の　火　が　あんまり　あたたかかつたので　ねむつて　しまひました。\n\n　おしやうがつ　ぐわんじつ　の　ばん　のことで　ありました。",
+      "characters": 313,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "さんぽ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "　一\n\n　おねこさんが散歩してゐました。\n\n二\n\n　風が吹いてきて、お猫《ねこ》さんのかたかけが飛ばされました。かたかけは川の中へ。\n\n　そこへ犬さんがやつてきて、二人で川のそこにしづんでゐるかたかけをみつけました。\n\n三\n\n「いぬさん。あなたは水およぎができるんでせう？　とつて下さい。」とおねこさんがいひました。いぬさんは、\n\n「こんなにさむくちやあ、とれない。なつになるまで待たう」と、いひました。\n\n四",
+      "characters": 205,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "　それを見てゐた、あひるさんのおぢさんが、水の中にとびこんで、とつてくれました。\n\n　二人は、あんまりうれしくて、おれいもいはずに家にかへりました。\n\n　あひるのおぢさんは、ぶつ／＼おこりましたが、のんきなおねこさんといぬさんは、それに気がつきませんでした。",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

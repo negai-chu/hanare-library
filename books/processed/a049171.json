@@ -1,0 +1,504 @@
+{
+  "id": "a049171",
+  "title": "のきばすずめ",
+  "author": "野口雨情",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 57
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "金雀枝",
+        "startPage": 33,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-2",
+        "title": "青い芒",
+        "startPage": 4,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-3",
+        "title": "蜻蛉釣り",
+        "startPage": 7,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-4",
+        "title": "軒端雀",
+        "startPage": 10,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-5",
+        "title": "下総のお吉",
+        "startPage": 13,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-6",
+        "title": "みなと",
+        "startPage": 16,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-7",
+        "title": "人形さんよ",
+        "startPage": 19,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-8",
+        "title": "水の流れ\r\n　　　（続「船頭小唄」の一節）",
+        "startPage": 32,
+        "endPage": 32,
+        "sections": [
+          {
+            "id": "chapter-8-section-1",
+            "number": "一",
+            "startPage": 2,
+            "endPage": 2
+          },
+          {
+            "id": "chapter-8-section-2",
+            "number": "二",
+            "startPage": 2,
+            "endPage": 2
+          }
+        ]
+      },
+      {
+        "id": "chapter-9",
+        "title": "夜明し千鳥",
+        "startPage": 47,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-10",
+        "title": "お艶",
+        "startPage": 50,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-11",
+        "title": "寝ずの番",
+        "startPage": 53,
+        "endPage": 0
+      },
+      {
+        "id": "chapter-12",
+        "title": "こんこん狐",
+        "startPage": 55,
+        "endPage": 58,
+        "sections": [
+          {
+            "id": "chapter-12-section-1",
+            "number": "一",
+            "startPage": 56,
+            "endPage": 55
+          },
+          {
+            "id": "chapter-12-section-2",
+            "number": "二",
+            "startPage": 56,
+            "endPage": 56
+          },
+          {
+            "id": "chapter-12-section-3",
+            "number": "三",
+            "startPage": 57,
+            "endPage": 58
+          }
+        ]
+      }
+    ],
+    "totalPages": 58,
+    "averageCharsPerPage": 71,
+    "chapterTitles": [
+      "金雀枝",
+      "青い芒",
+      "蜻蛉釣り",
+      "軒端雀",
+      "下総のお吉",
+      "みなと",
+      "人形さんよ",
+      "水の流れ\r\n　　　（続「船頭小唄」の一節）",
+      "夜明し千鳥",
+      "お艶",
+      "寝ずの番",
+      "こんこん狐"
+    ]
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "のきばすずめ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "金雀枝",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　金雀枝《えにしだ》の\n\n　　花咲く頃は\n\nほととぎすが啼く　ほととぎすが啼く\n\n故郷《ふるさと》の森の中にも\n\n　　もう　金雀枝の花咲く頃か\n\nほととぎすが啼く　ほととぎすが啼く",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "青い芒",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "青いすすきに\n\n　　　螢の虫は\n\n　夜の細道　夜の細道　通《かよ》て来る\n\n細いすすきの姿が可愛ネ\n\n細い姿にこがれた螢ネ\n\n夏の短い\n\n　　　夜は明け易や\n\n　夜明け頃まで　夜明け頃まで　通て来る\n\n夜明け頃なら",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "　　　ちらちらお星や\n\n　夜明け星なら　夜明け星なら　ちらちらと\n\n通《かよ》ちや来なされすすきの蔭にヨ\n\nすすきア姿は細くて可愛ヨ\n\n夏の一夜《いちや》の\n\n　　　仮寝《かりね》の夢も\n\n　寝ずに通へば　寝ずに通へば　夜は長い",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "蜻蛉釣り",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 8,
+      "content": "烏ア帰るに\n\n　　日は暮れゆくに\n\n　ササドンドン\n\n　　蜻蛉《とんぼ》釣りでもしてるかよ\n\n蜻蛉ア姉《あね》さん\n\n　　小松の蔭を\n\n　ササドンドン\n\n　　連れ衆たづねて飛んで来る\n\n連れ衆釣るなよ",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "　　日は暮れゆくに\n\n　ササドンドン\n\n　　暮れりや蜻蛉も松に寝る",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "軒端雀",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "軒端《のきば》で雀の\n\n　　　　言ふことにや\n\n窓から手紙を\n\n　　　　ちよいと投げりや\n\nちよいと見て袂に\n\n　　　　ちよいと入れた\n\nアララのラ\n\n　　　　アララのラ\n\nお母《つか》さんは知らない",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "　　　　アララのラ\n\nお父《とつ》さんも知らない\n\n　　　　アララのラ",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "下総のお吉",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "去年別れた\n\n　　　下総《しもふさ》の\n\nお吉《きち》は\n\n　　　今も　ゐるだろか\n\n浮草の\n\n　　　花かと聞けば\n\n浮草の\n\n　　　花だと泣いた\n\n下総の",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "　　　お吉は\n\n今も　ゐるだろか\n\n俺を待ち待ち\n\n　　　下総に\n\n嫁にゆかずに\n\n　　　ゐるだろか",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "みなと",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 17,
+      "content": "山が晴《はれ》れば\n\n　　母《かか》やんよ　母やんよ\n\n　　　アレサ港に　風が吹く\n\n風は別れの\n\n　　母やんよ\n\n　　　アレサわたしの袖に吹く\n\n山が曇れば\n\n　　父《とと》やんよ　父やんよ\n\n　　　アレサ港に　雨が降る",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 18,
+      "content": "雨は涙の\n\n　　父やんよ\n\n　　　アレサわたしの袖に降る",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "人形さんよ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 20,
+      "content": "七つ八つまで\n\n赤い下駄はいた\n\n　　　　人形さんよ\n\n　赤い下駄見りや\n\n　思ひ出す\n\n赤い鼻緒の\n\n下駄はく頃にや\n\n　　　　人形さんよ\n\n　わたしやお母《つか》さんと",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 21,
+      "content": "　寝んねした\n\nいつの間にやら\n\n物恥かしい\n\n　　　　人形さんよ\n\n　淡いあはれの\n\n　夢もみる\n\n水の流れ\n\n　　　（続「船頭小唄」の一節）\n\n一",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "俺もお前も\n\n　　　ゆく末は\n\nどうせ浮世の\n\n　　　荒波に\n\n辛《つら》や浮世の\n\n　　　荒波は\n\n泣いて渡らにや\n\n　　　渡られぬ\n\n二",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "水の流れも\n\n　　　誰ゆゑに\n\n同じ浮世の\n\n　　　恋心\n\n恋は短し\n\n　　　吹くな風\n\nわたしや涙で\n\n　　　船を漕ぐ\n\n夜明し千鳥",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 24,
+      "content": "今宵《こよひ》忍ぶは\n\n　　恋ではないに　サイサイ\n\n千鳥ア宵から\n\n　　チロチロリンと啼きやる\n\n寒や　河原の\n\n　　夜明し千鳥　サイサイ\n\nわたしや恋路で\n\n　　ゆくぢやない\n\n恋や恋路で",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "　　忍んだ頃は　サイサイ\n\n赤い焔の\n\n　　火も吐いた\n\nお艶\n\nお艶《つや》が風呂に\n\n　　　はいつてゐると\n\n若い男が\n\n　　　だましに来た\n\n小《ちひさ》い声で",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "　　　だましてゐる\n\nお艶がざぶり湯を\n\n　　　かけてやると\n\n男はうろうろ\n\n　　　してゐたが\n\n裏からすうつと\n\n　　　逃げていつた\n\n馬は厩《うまや》で\n\n　　　馬堰棒《ませんぼ》を",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 27,
+      "content": "がらんがらんと\n\n　　　鳴らしてゐる\n\n天の川は\n\n　　　北から西へ流れてゐた\n\n寝ずの番\n\n寝ずの番すりや\n\n　　　この夜の長さ\n\n錆りや腐れる\n\n　　　腐れりや朽ちる",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "月も霜夜にや\n\n　　　霜枯れ姿\n\n東ア白むにや\n\n　　　まだ長い\n\nこんこん狐\n\n一\n\n急ぎやれ　急ぎやれ　この道は\n\nこんこん狐の出る道ぢや　出る道ぢや\n\n　　　　　さアさ急いで",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "　　　　　　通りやんせ\n\nオホこわ　こわや　狐はこわや\n\nこんこん狐が出りや　こわや\n\n二\n\n急ぎやれ　急ぎやれ　この籔は\n\n日暮れにや狐の出る籔ぢや　出る籔ぢや\n\n　　　さアさ日暮れぢや\n\n　　　　　　急ぎやんせ\n\nオホこわ　こわや　日暮れはこわや",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "こんこん狐が出りや　こわや\n\n三\n\n急ぎやれ　急ぎやれ　この橋は\n\n雨夜に狐の出る橋ぢや　出る橋ぢや\n\n　　　　　さアさ急いで\n\n　　　　　　渡りやんせ\n\nオホこわ　こわや　雨夜はこわや\n\nこんこん狐が出りや　こわや\n\n　この本集に採録した『金雀枝』以下十一篇は、その中の二三をのぞくほかは最近の作であり未発表のものも交じつてゐる。",
+      "characters": 166,
+      "ruby": []
+    },
+    {
+      "pageNumber": 31,
+      "content": "　すでに発表されたものの中には、中山晋平氏の作曲による藤間静枝氏の振付けされたものが数篇ある。\n\n　本集は、自撰集と云ふ意味でなく、なるべく近作を集めたいと云ふ考へを主とした。民謡は純情芸術である。童謡も又純情芸術である。この意味に於て本集の作品中に童謡とみるべきものがあらば、みる人によつて自由でよいのである。\n\n著者",
+      "characters": 160,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "水の流れ\r\n　　　（続「船頭小唄」の一節）",
+      "characters": 21,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "金雀枝",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 34,
+      "content": "金雀枝《えにしだ》の\n\n　　花咲く頃は\n\nほととぎすが啼く　ほととぎすが啼く\n\n故郷《ふるさと》の森の中にも\n\n　　もう　金雀枝の花咲く頃か\n\nほととぎすが啼く　ほととぎすが啼く\n\n青い芒\n\n青いすすきに",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "　　　螢の虫は\n\n　夜の細道　夜の細道　通《かよ》て来る\n\n細いすすきの姿が可愛ネ\n\n細い姿にこがれた螢ネ\n\n夏の短い\n\n　　　夜は明け易や\n\n　夜明け頃まで　夜明け頃まで　通て来る\n\n夜明け頃なら\n\n　　　ちらちらお星や",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "　夜明け星なら　夜明け星なら　ちらちらと\n\n通《かよ》ちや来なされすすきの蔭にヨ\n\nすすきア姿は細くて可愛ヨ\n\n夏の一夜《いちや》の\n\n　　　仮寝《かりね》の夢も\n\n　寝ずに通へば　寝ずに通へば　夜は長い\n\n蜻蛉釣り\n\n烏ア帰るに\n\n　　日は暮れゆくに",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "　ササドンドン\n\n　　蜻蛉《とんぼ》釣りでもしてるかよ\n\n蜻蛉ア姉《あね》さん\n\n　　小松の蔭を\n\n　ササドンドン\n\n　　連れ衆たづねて飛んで来る\n\n連れ衆釣るなよ\n\n　　日は暮れゆくに\n\n　ササドンドン",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "　　暮れりや蜻蛉も松に寝る\n\n軒端雀\n\n軒端《のきば》で雀の\n\n　　　　言ふことにや\n\n窓から手紙を\n\n　　　　ちよいと投げりや\n\nちよいと見て袂に\n\n　　　　ちよいと入れた\n\nアララのラ",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "　　　　アララのラ\n\nお母《つか》さんは知らない\n\n　　　　アララのラ\n\nお父《とつ》さんも知らない\n\n　　　　アララのラ\n\n下総のお吉\n\n去年別れた\n\n　　　下総《しもふさ》の\n\nお吉《きち》は",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "　　　今も　ゐるだろか\n\n浮草の\n\n　　　花かと聞けば\n\n浮草の\n\n　　　花だと泣いた\n\n下総の\n\n　　　お吉は\n\n今も　ゐるだろか\n\n俺を待ち待ち",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "　　　下総に\n\n嫁にゆかずに\n\n　　　ゐるだろか\n\nみなと\n\n山が晴《はれ》れば\n\n　　母《かか》やんよ　母やんよ\n\n　　　アレサ港に　風が吹く\n\n風は別れの\n\n　　母やんよ",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 42,
+      "content": "　　　アレサわたしの袖に吹く\n\n山が曇れば\n\n　　父《とと》やんよ　父やんよ\n\n　　　アレサ港に　雨が降る\n\n雨は涙の\n\n　　父やんよ\n\n　　　アレサわたしの袖に降る\n\n人形さんよ\n\n七つ八つまで",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "　赤い下駄はいた\n\n　　　　人形さんよ\n\n　赤い下駄見りや\n\n　思ひ出す\n\n赤い鼻緒の\n\n下駄はく頃にや\n\n　　　　人形さんよ\n\n　わたしやお母《つか》さんと\n\n　寝んねした",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "いつの間にやら\n\n物恥かしい\n\n　　　　人形さんよ\n\n　淡いあはれの\n\n　夢もみる\n\n水の流れ\n\n　　　（続「船頭小唄」の一節）\n\n一\n\n俺もお前も",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 45,
+      "content": "　　　ゆく末は\n\nどうせ浮世の\n\n　　　荒波に\n\n辛《つら》や浮世の\n\n　　　荒波は\n\n泣いて渡らにや\n\n　　　渡られぬ\n\n二\n\n水の流れも",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "　　　誰ゆゑに\n\n同じ浮世の\n\n　　　恋心\n\n恋は短し\n\n　　　吹くな風\n\nわたしや涙で\n\n　　　船を漕ぐ",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "夜明し千鳥",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 48,
+      "content": "今宵《こよひ》忍ぶは\n\n　　恋ではないに　サイサイ\n\n千鳥ア宵から\n\n　　チロチロリンと啼きやる\n\n寒や　河原の\n\n　　夜明し千鳥　サイサイ\n\nわたしや恋路で\n\n　　ゆくぢやない\n\n恋や恋路で",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "　　忍んだ頃は　サイサイ\n\n赤い焔の\n\n　　火も吐いた",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "お艶",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 51,
+      "content": "お艶《つや》が風呂に\n\n　　　はいつてゐると\n\n若い男が\n\n　　　だましに来た\n\n小《ちひさ》い声で\n\n　　　だましてゐる\n\nお艶がざぶり湯を\n\n　　　かけてやると\n\n男はうろうろ",
+      "characters": 90,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "　　　してゐたが\n\n裏からすうつと\n\n　　　逃げていつた\n\n馬は厩《うまや》で\n\n　　　馬堰棒《ませんぼ》を\n\nがらんがらんと\n\n　　　鳴らしてゐる\n\n天の川は\n\n　　　北から西へ流れてゐた",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "寝ずの番",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 54,
+      "content": "寝ずの番すりや\n\n　　　この夜の長さ\n\n錆りや腐れる\n\n　　　腐れりや朽ちる\n\n月も霜夜にや\n\n　　　霜枯れ姿\n\n東ア白むにや\n\n　　　まだ長い",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "こんこん狐",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "chapter-title"
+    },
+    {
+      "pageNumber": 56,
+      "content": "一\n\n急ぎやれ　急ぎやれ　この道は\n\nこんこん狐の出る道ぢや　出る道ぢや\n\n　　　　　さアさ急いで\n\n　　　　　　通りやんせ\n\nオホこわ　こわや　狐はこわや\n\nこんこん狐が出りや　こわや\n\n二\n\n急ぎやれ　急ぎやれ　この籔は",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 57,
+      "content": "日暮れにや狐の出る籔ぢや　出る籔ぢや\n\n　　　さアさ日暮れぢや\n\n　　　　　　急ぎやんせ\n\nオホこわ　こわや　日暮れはこわや\n\nこんこん狐が出りや　こわや\n\n三\n\n急ぎやれ　急ぎやれ　この橋は\n\n雨夜に狐の出る橋ぢや　出る橋ぢや\n\n　　　　　さアさ急いで",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "　　　　　　渡りやんせ\n\nオホこわ　こわや　雨夜はこわや\n\nこんこん狐が出りや　こわや\n\n　この本集に採録した『金雀枝』以下十一篇は、その中の二三をのぞくほかは最近の作であり未発表のものも交じつてゐる。\n\n　すでに発表されたものの中には、中山晋平氏の作曲による藤間静枝氏の振付けされたものが数篇ある。\n\n　本集は、自撰集と云ふ意味でなく、なるべく近作を集めたいと云ふ考へを主とした。民謡は純情芸術である。童謡も又純情芸術である。この意味に於て本集の作品中に童謡とみるべきものがあらば、みる人によつて自由でよいのである。\n\n著者",
+      "characters": 263,
+      "ruby": []
+    }
+  ]
+}

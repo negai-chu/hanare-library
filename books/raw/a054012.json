@@ -1,0 +1,48 @@
+{
+  "id": "a054012",
+  "title": "五月一日",
+  "author": "波立一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "五月一日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "五月一日",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ええ、癪だな、畜生！\n\n間抜けた汽笛なんか気にすることあねい。\n\nじゃあ――行くぜ、阿母！\n\nサーベルの四五本もへし折ってくるんだよ。\n\n一八八六年より一九二八年まで\n\n血ぬられた五月一日の顔を見ろ。\n\n行け！　五月祭の真唯中――\n\n空は青く、地上は赤き群衆の奔流だ。\n\n清めろ！",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "十字路を驀進する俺らの行手を。\n\n恐いのか！　兄弟\n\n官服を踏んづけ、突破しろ！\n\n轟け！　幾万の歌声――\n\n響け！　強力な跫音――\n\nええ涙ぐんでる奴は誰だ！\n\n兄弟！　小憎らしい程嬉しい日だよ。\n\n（『戦旗』一九二八年五月創刊号に発表　同年七月全日本無産者芸術連盟刊『労農詩集』を底本）",
+      "characters": 145,
+      "ruby": []
+    }
+  ]
+}

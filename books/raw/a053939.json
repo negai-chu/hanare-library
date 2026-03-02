@@ -1,0 +1,48 @@
+{
+  "id": "a053939",
+  "title": "愚かなるものよ",
+  "author": "徳永保之助",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "愚かなるものよ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 93,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "愚かなるものよ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "愚かなる。\n\n太陽を捕え、朝の日光を、\n\n縄をもって縛《いま》しめむとする。\n\n風に乗り、あるはまた、\n\n走る流れに逆らわむとする。\n\n四季を阻みて、降る雨を止めむとする。\n\n空気と戦う心無さよ。\n\nありとある力を、畢《つい》に無にせむ。\n\nかかるに同じく、かかる業より更に愚かなる。",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人の言う所を咎め、そを強いて教に適《かな》わさんとする。\n\n定めを人の上に立て、\n\n物言うも、そを超えしめぬ。\n\nさなり、人の口を壅《ふさ》がむこと、\n\n吹く風を捕うるよりも難きものを。\n\n愚かなるものよ。\n\n（『近代思想』一九一二年十月創刊号に飄風名で発表）",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

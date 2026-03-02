@@ -1,0 +1,54 @@
+{
+  "id": "a055578",
+  "title": "友と二人の夜",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "友と二人の夜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "友と二人の夜",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "遠い野中の家より\n\n私を慕うて呉れる友は\n\n今夜も十時がなって帰った\n\n夜露を分けて来て呉れても\n\nあたたかいもてなしさえ\n\n貧しい私達にはゆるされず\n\nひとえの着物のはじを\n\n幾度か合せ乍《なが》ら\n\n語りても聞いてもほほえみ乍ら",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "何程のへだてた思いもなく\n\nありのままの事を語らいて\n\nお互に解け合うよろこび\n\n本箱からは\n\n勝手なものをとり出して\n\n入れ様ともせず\n\n一ぱいに机の上につまされる\n\n傍にも又誰ひとり\n\nじゃまになる人もなければ",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ただ二人自由に\n\n束縛の棚をのがれて\n\n友も私もにごりのない\n\n友情にひたっている\n\n……平岡君と語りし夜に……",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

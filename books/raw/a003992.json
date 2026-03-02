@@ -1,0 +1,42 @@
+{
+  "id": "a003992",
+  "title": "読み落した古典作品",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "読み落した古典作品",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "読み落した古典作品",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "私などは読みおとすというところまで参らず、土台読まないのや知らないのだらけであると思います。文学史的に古典をよむということは私の場合大変おくれて必要から学んだので、さかのぼるのはいつも手間どります。\n\n〔一九四一年八月〕",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

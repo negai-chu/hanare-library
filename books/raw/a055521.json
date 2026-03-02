@@ -1,0 +1,48 @@
+{
+  "id": "a055521",
+  "title": "本土の港を指して",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "本土の港を指して",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 101,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "本土の港を指して",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "津軽の海風は\n\n暮れ行く夕日の彼方へと連絡船《ふね》を冷たく吹き送る\n\n桟橋に立ち去り兼ねて見送る人々とも別れて\n\n身をマントに包み\n\n頬をうずめて　物蔭甲板に佇めば\n\n防波堤に点《とも》る明滅の灯火《あかり》も見えずなり\n\n巍然たる函館山の容姿も\n\n次第に海をへだてて\n\n水夫の投げこんだ速度計の速めらるるままに",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "闇の中に失われゆく\n\nかくて海峡の海は次第に荒く\n\n空よりは白き贈り物音もなく\n\n真闇《まっくら》の中に降り来り、海に消え　マストに積る\n\n船は船底にひびくエンジンの音と\n\n波を切り進む海路の跡をしばし残して\n\nひたすらに蜜柑の木々実る本土の\n\n最北端の港　青森へと馳《はし》る",
+      "characters": 139,
+      "ruby": []
+    }
+  ]
+}

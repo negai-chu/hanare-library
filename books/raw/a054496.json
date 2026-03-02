@@ -1,0 +1,48 @@
+{
+  "id": "a054496",
+  "title": "茴香",
+  "author": "末吉安持",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "茴香",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 137,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "茴香",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "なが月《つき》下浣《すゑ》の日のゆふべ、\n\n山下《やました》岩根《いはね》垂る水の\n\n玉のしづくに核《さね》ぐみて、\n\nかつ熟《う》みこぼし斎《いは》ひつゝ、\n\n風《かぜ》に額《ぬか》づく茴香《うひきやう》の\n\nあゝ姉妹《おとゞび》の二人もとよ。\n\n化石《くわせき》もすらむ秋《あき》の木《き》は\n\n骨立《ほねだ》ち強《ごは》に呼吸《いき》つまり、\n\n天つ御法《みのり》のおん宣告《つげ》に、",
+      "characters": 196,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "拗《す》ねては、櫨《はぢ》も葉こそ縒《よ》れ、\n\n孕婦《はらみめ》ながら茴香《うひきやう》は\n\n優婆夷《うばゐ》か、悩《なや》む色《いろ》もなし\n\n伴《つれ》にはぐれし赤蟻《あかあり》の\n\n飢《う》ゑて足《あ》悩《な》ゆむ湿《しめ》り地《ぢ》に、\n\n憐《あはれ》み顔《がお》のおとどひは\n\n茎《くも》も軟《なよ》らに額《ぬか》づきて、\n\n手弱腕《たよわがひな》にそと乗せつ、\n\n弘誓《ぐせい》もさこそ、あゝ茴香《うひきやう》。",
+      "characters": 213,
+      "ruby": []
+    }
+  ]
+}

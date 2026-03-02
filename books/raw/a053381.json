@@ -1,0 +1,48 @@
+{
+  "id": "a053381",
+  "title": "訓導",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "訓導",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "訓導",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "早くもひとり雪をけり\n\nはるかの吹雪をはせ行くは\n\n木鼠捕りの悦治なり\n\n三人ひとしくはせたちて\n\n多吉ぞわらひ軋るとき\n\n寅は溜りに倒れゐし\n\n赤き毛布にくるまりて\n\n風くるごとに足小刻むは\n\n十にたらざる児らなれや",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "吹雪きたればあとなる児\n\n急ぎて前にすがりつゝ\n\n一列遠くうすれ行く",
+      "characters": 34,
+      "ruby": []
+    }
+  ]
+}

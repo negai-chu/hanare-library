@@ -1,0 +1,48 @@
+{
+  "id": "a044921",
+  "title": "コイヌ",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "コイヌ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 36,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "コイヌ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "マアイツタイドコカラ\n\nコンナニタクサン\n\nヤツテキタノカシラ。\n\nコイヌ。\n\nコイヌ。\n\nコイヌ。\n\nコイヌ。\n\nコイヌ。\n\nコイヌ。",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "コイヌ。\n\nマアイツタイドコカラ\n\nコンナニタクサン\n\nヤツテキタノカシラ。",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

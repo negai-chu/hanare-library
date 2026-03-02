@@ -1,0 +1,3358 @@
+{
+  "id": "a055317",
+  "title": "鮪に鰯",
+  "author": "山之口貘",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 407
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鮪に鰯",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "野次馬",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "ひそかな対決",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "弾を浴びた島",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "桃の花",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "核",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "首をのばして",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "ある家庭",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "元旦の風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "十二月のある夜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "かれの奥さん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "表札",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "ぼろたび",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "癖のある靴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "月見草談議",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "昇天した歩兵",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "頭をかかえる宇宙人",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "祟り",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "満員電車",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "胃",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "鼻",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "牛とまじない",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "ろまんす・ぐれい",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "底を歩いて",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "酔漢談義",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "島",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "雲の上",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "正月と島",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "島での話",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "沖縄風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "首",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "たぬき",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "石に雀",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "十二月",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "雲の下",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "貘",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "芭蕉布",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "口のある詩",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "養鶏場風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "花曇り",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "基地日本",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-41",
+            "number": "紳士寸感",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-42",
+            "number": "不沈母艦沖縄",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-43",
+            "number": "歯車",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-44",
+            "number": "玄関",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-45",
+            "number": "処女詩集",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-46",
+            "number": "無銭飲食",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-47",
+            "number": "羊",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-48",
+            "number": "年越の詩《うた》",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-49",
+            "number": "柄にもない日",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-50",
+            "number": "鮪に鰯",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-51",
+            "number": "萎びた約束",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-52",
+            "number": "自問自答",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-53",
+            "number": "編棒",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-54",
+            "number": "蕪の新香",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-55",
+            "number": "鹿と借金",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-56",
+            "number": "右を見て左を見て",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-57",
+            "number": "告別式",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-58",
+            "number": "事故",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-59",
+            "number": "がじまるの木",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-60",
+            "number": "耳と波上風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-61",
+            "number": "坐像",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-62",
+            "number": "珈琲店",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-63",
+            "number": "彼我",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-64",
+            "number": "おさがりの思い出",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-65",
+            "number": "影",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-66",
+            "number": "借り貸し",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-67",
+            "number": "灸をすえる",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-68",
+            "number": "西の家",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-69",
+            "number": "すれちがいの娘",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-70",
+            "number": "ぼすとんばっぐ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-71",
+            "number": "深夜",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-72",
+            "number": "人の酒",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-73",
+            "number": "博学と無学",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-74",
+            "number": "奴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-75",
+            "number": "船",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-76",
+            "number": "借金を背負って",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-77",
+            "number": "その日その時",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-78",
+            "number": "沖縄よどこへ行く",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-79",
+            "number": "郵便やさん",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-80",
+            "number": "税金のうた",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-81",
+            "number": "その畠",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-82",
+            "number": "たねあかし",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-83",
+            "number": "利根川",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-84",
+            "number": "親子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-85",
+            "number": "相子",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-86",
+            "number": "島からの風",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-87",
+            "number": "桃の木",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-88",
+            "number": "不忍池",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-89",
+            "number": "またはじまった",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-90",
+            "number": "かれの戦死",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-91",
+            "number": "巴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-92",
+            "number": "常磐線風景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-93",
+            "number": "ある医師",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-94",
+            "number": "編上靴",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-95",
+            "number": "初夢",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-96",
+            "number": "汽車",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-97",
+            "number": "藁の厠",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-98",
+            "number": "利根川",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-99",
+            "number": "きゃべつ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-100",
+            "number": "蠅",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-101",
+            "number": "闇と※［＃丸公、237-1］",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-102",
+            "number": "ヤマグチイズミ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-103",
+            "number": "ミミコの独立",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-104",
+            "number": "ミミコ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-105",
+            "number": "縁側のひなた",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-106",
+            "number": "湯気",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-107",
+            "number": "夢を評す",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-108",
+            "number": "立札",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-109",
+            "number": "在",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-110",
+            "number": "東の家",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-111",
+            "number": "疎開者",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-112",
+            "number": "弁当",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-113",
+            "number": "竹林とその点景",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-114",
+            "number": "土地〈１〉",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-115",
+            "number": "土地〈２〉",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-116",
+            "number": "土地〈３〉",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-117",
+            "number": "作者",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-118",
+            "number": "鼻の一幕",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-119",
+            "number": "ねずみ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-120",
+            "number": "兄貴の手紙",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-121",
+            "number": "應召",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-122",
+            "number": "チェロ",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-123",
+            "number": "曲り角",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-124",
+            "number": "天から降りて来た言葉",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-125",
+            "number": "生きる先々",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-126",
+            "number": "血",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 407,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鮪に鰯",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "野次馬",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "これはおどろいたこの家にも\n\nテレビがあったのかいと来たのだが\n\n食うのがやっとの家にだって\n\nテレビはあって結構じゃないかと言うと\n\n貰ったのかいそれとも\n\n買ったのかいと首をかしげるのだ\n\nどちらにしても勝手じゃないかと言うと\n\n買ったのではないだろう\n\n貰ったのだろうと言うわけなのだが",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "いかにもそれは真実その通りなのだが\n\nおしつけられては腹立たしくて\n\n余計なお世話をするものだと言うと\n\nまたしてもどこ吹く風なのか\n\nまさかこれではあるまいと来て\n\n物を掴むしぐさをしてみせるのだ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "ひそかな対決",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "ぱあではないかとぼくのことを\n\nこともあろうに精神科の\n\n著名なある医学博士が言ったとか\n\nたった一篇ぐらいの詩をつくるのに\n\n一〇〇枚二〇〇枚だのと\n\n原稿用紙を屑にして積み重ねる詩人なのでは\n\nぱあではないかと言ったとか\n\nある日ある所でその博士に\n\nはじめてぼくがお目にかかったところ",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "お名前はかねがね\n\n存じ上げていましたとかで\n\nこのごろどうです\n\n詩はいかがですかと来たのだ\n\nいかにもとぼけたことを言うもので\n\nぱあにしてはどこか\n\n正気にでも見える詩人なのか\n\nお目にかかったついでにひとつ\n\n博士の診断を受けてみるかと",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "ぼくはおもわぬのでもなかったのだが\n\nお邪魔しましたと腰をあげたのだ",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "弾を浴びた島",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "島の土を踏んだとたんに\n\nガンジューイ（１）とあいさつしたところ\n\nはいおかげさまで元気ですとか言って\n\n島の人は日本語で来たのだ\n\n郷愁はいささか戸惑いしてしまって\n\nウチナーグチマディン　ムル（２）\n\nイクサニ　サッタルバスイ（３）と言うと\n\n島の人は苦笑したのだが\n\n沖縄語は上手ですねと来たのだ",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 11,
+      "content": "（１）　お元気か\n\n（２）　沖縄方言までもすべて\n\n（３）　戦争でやられたのか",
+      "characters": 39,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "桃の花",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 13,
+      "content": "いなかはどこだと\n\nおともだちからきかれて\n\nミミコは返事にこまったと言うのだ\n\nこまることなどないじゃないか\n\n沖縄じゃないかと言うと\n\n沖縄はパパのいなかで\n\n茨城がママのいなかで\n\nミミコは東京でみんなまちまちと言うのだ\n\nそれでなんと答えたのだときくと",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 14,
+      "content": "パパは沖縄で\n\nママが茨城で\n\nミミコは東京と答えたのだと言うと\n\n一ぷくつけて\n\nぶらりと表へ出たら\n\n桃の花が咲いていた",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "核",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 16,
+      "content": "もうお年ですからと言えば\n\nなにをこの青二才がと\n\n老人は怒ってしまったのだが\n\n年甲斐もない顔をしてまで\n\n握っていたいもの\n\nそれはつまり若さなのだ",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "首をのばして",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "出版記念会と来ると\n\n首をすくめてそれを見送り\n\n歓送会と来ると\n\n首をすくめてそれを見送り\n\n祝賀会と来ると\n\n首をすくめてそれを見送り\n\n歓迎会と来ると\n\n首をすくめてそれを見送り\n\n会あるたんびに",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "首をすくめては\n\nいろんな会を見送って来た\n\nある日またかとおもって\n\n首をすくめていると\n\nいいえお顔だけで結構なんです\n\n会費の御心配など\n\nいらないんですと言う",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "ある家庭",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "またしても女房が言ったのだ\n\nラジオもなければテレビもない\n\n電気ストーブも電話もない\n\nミキサーもなければ電気冷蔵庫もない\n\n電気掃除器も電気洗濯機もない\n\nこんな家なんていまどきどこにも\n\nあるもんじゃないやと女房が言ったのだ\n\n亭主はそこで口をつぐみ\n\nあたりを見廻したりしているのだが",
+      "characters": 146,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "こんな家でも女房が文化的なので\n\nないものにかわって\n\nなにかと間に合っているのだ",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "元旦の風景",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 24,
+      "content": "正月三カ日はどこでも\n\n朝はお雑煮を\n\nいただくもので\n\n仕来たりなんじゃありませんか\n\n女房はそう言いながら\n\n雑煮とやらの\n\n仕来たりをたべているのだ\n\nぼくはだまって\n\n味噌汁のおかわりをしたのだが",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "正月も仕来たりもないもので\n\n味噌汁ぬきの朝なんぞ\n\n食ったみたいな\n\n感じがしないのだ",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "十二月のある夜",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "十二月のある夜　金のことで",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 28,
+      "content": "ホテルのマダムを詩人が訪ねた\n\nマダムはそっぽを向いて言った\n\nお金のことなんて\n\n詩人らしくもないことです\n\n俗人の口にするみたいなことを\n\n詩人がおっしゃるもんじゃないですよ\n\nお金に用のないのが詩人なんで\n\n詩人は貧乏であってこそ\n\n光を放ち尊敬もされるんです",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 29,
+      "content": "詩人はそこでかっとなり\n\n借りに来たことも忘れてしまって\n\nまた一段と光を添えていた",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "かれの奥さん",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "煙草を吸えば吸うたんびに\n\n吸いすぎるんだのなんだのと来て\n\nいまにも肺癌とかに\n\nなるみたいなことを云い\n\n酒を飲めば飲むたんびにだ\n\n飲みすぎるんだのなんだのと来て\n\nすぐにも胃潰瘍だか胃癌だかで\n\n死ぬより外にはないみたいなことを云い\n\n帰りが夜なかになったりすると",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "おそすぎるんだのなんだのとはじまって\n\n隠し女があるんだのとわめき立て\n\n安眠の妨害をするとのことなのだ\n\nそれでかれは昨夜もまた\n\nなぐりつけたと云うのだが\n\n亭主のふるまいはとにかくとしてだ\n\nよく似た奥さんもあるもので\n\nうちのだけではないようだ",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 33,
+      "content": "表札",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 34,
+      "content": "ぼくの一家が月田さんのお宅に\n\n御厄介になってまもなくのことなんだ\n\n郵便やさんから叱られてはじめて\n\n自分の表札というものを\n\n門の柱にかかげたのだ\n\n表札は手製のもので\n\n自筆のペン字の書体を拡大し\n\n念入りにそれを浮彫りにしたのだ\n\nぼくは時に石段の下から",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "ふり返って見たりして街へ出かけたのだ\n\nところがある日ぼくは困って\n\n表札を取り外さないではいられなかった\n\nぼくのにしてはいささか\n\n豪華すぎる表札なんで\n\n家主の月田さんがいかにも\n\n山之口貘方みたいに見えたのだ",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
+      "content": "ぼろたび",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 37,
+      "content": "季節はすでに黄ばんでいた\n\n公園のベンチをねぐらにしている筈の\n\n食うや食わずの詩人のかれが\n\nめしを食いに行こうと来たのだ\n\n食うや食わずにビルディングの\n\n空室をねぐらにしている詩人のぼくが\n\nどうなることかともじもじしていると\n\nかれは片方のぼろたびを脱いで\n\n逆さにそれを振ってみせたのだが",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 38,
+      "content": "めし代ぐらいはあるとつぶやきながら\n\n足もとの銀貨を拾いあげた",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "癖のある靴",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 40,
+      "content": "投げて棄てた吸殻の\n\n火を追って\n\n靴がそれを踏んづけたのだが\n\nおもしろいことをする靴なのだ\n\nいつもの癖で\n\n止むを得なかったにしても\n\n巷は雨でぬれているのだ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 41,
+      "content": "月見草談議",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 42,
+      "content": "昼間の明るいうちは眼をつむり\n\n昨日の花もみすぼらしげに\n\n萎びてねじれたほそい首を垂れ\n\nいまが真夜なかみたいな風情をして\n\n陽の照るなかをうつらうつら\n\n夢から夢を追っているのだ\n\nやがて日暮れになると朝が来たみたいに\n\n露の気配でめをさますのか\n\nぽっかりと蕾をひらいて身ぶるいし",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "身ぶるいをしてはぽっかりと\n\n黄色い蕾をひらくのだが\n\n真夜なかともなれば一斉にめざめていて\n\n真昼顔して生きる草なのだ\n\nぼくはそれでその月見草のことを\n\n梟みたいな奴だと云うのだが\n\nうちの娘に云わせると\n\nパパみたいな奴なんだそうな",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "昇天した歩兵",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 45,
+      "content": "村ではぼくのことを\n\n疎開と呼んでいた\n\n疎開はたばこに困ると\n\n東の家をのぞいては\n\nたばこの葉っぱにありついて\n\n米に困ると\n\n西の家をのぞいて\n\n闇の米にありついたりしたのだ\n\nその日も疎開は困り果てて",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "かぼちゃの買い出しに出かけたのだが\n\n途中で引き返して来ると\n\n庭の片隅にこごみ\n\n奉公袋に火をつけた\n\n日本ではつまりその日から\n\n補充兵役陸軍歩兵なんてのも\n\n不要なものに\n\nなったからなのだ",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 47,
+      "content": "頭をかかえる宇宙人",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 48,
+      "content": "青みがかったまるい地球を\n\n眼下にとおく見おろしながら\n\n火星か月にでも住んで\n\n宇宙を生きることになったとしてもだ\n\nいつまで経っても文なしの\n\n胃袋付の宇宙人なのでは\n\nいまに木戸からまた首がのぞいて\n\n米屋なんです　と来る筈なのだ\n\nすると女房がまたあわてて",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 49,
+      "content": "お米なんだがどうします　と来る筈なのだ\n\nするとぼくはまたぼくなので\n\nどうしますもなにも\n\n配給じゃないか　と出る筈なのだ\n\nすると女房がまた角を出し\n\n配給じゃないかもなにもあるものか\n\nいつまで経っても意気地なしの\n\n文なしじゃないか　と来る筈なのだ\n\nそこでぼくがついまた",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 50,
+      "content": "かっとなって女房をにらんだとしてもだ\n\n地球の上での繰り返しなので\n\n月の上にいたって\n\n頭をかかえるしかない筈なのだ",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "祟り",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 52,
+      "content": "ひとたび生れて来たからには\n\nもうそれでおしまいなのだ\n\nたとえ仏になりすまして\n\nあの世のあたりに生きるとしたところで\n\nかかりのかからないあの世はないのだ\n\n棺桶だってさることながら\n\nおとむらいだのお盆だの\n\nお寺のおつきあいだのなんだのとかかって\n\nあの世もこの世もないのでは",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 53,
+      "content": "はじまらないからおしまいなのだ\n\n金はすでにこの世の生を引きずり廻し\n\nあの世では死を抱きすくめ\n\n仏の道にまでつきまとい\n\n人間くさくどこにでも祟ってくるのだ\n\nたとえまずしい仏の住む墓が\n\nみみずのすぐお隣りに建ったとしても\n\nロハってことはない筈なのだ",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "満員電車",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 55,
+      "content": "爪先立ちの\n\n靴がぼやいて言った\n\n踏んづけられまいとすればだ\n\n踏んづけないでは\n\nいられないのだが",
+      "characters": 51,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "胃",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 57,
+      "content": "米粒ひとつも\n\nはいっていないのだから\n\n胃袋が怒りで\n\nいっぱいなのだ",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "鼻",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 59,
+      "content": "その鼻がいいのだ\n\nと答えたところ\n\n鼻はあわてて\n\n掌に身をかくした",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "牛とまじない",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 61,
+      "content": "のうまくざんまんだばざらだんせんだ\n\nまかろしやだそわたようんたらたかんまん\n\nぼくは口にそう唱えながら\n\nお寺を出るとすぐその前の農家へ行った\n\nそこで牛の手綱を百回さすって\n\nまた唱えながらお寺に戻った\n\nお寺ではまた唱えながら\n\n本堂から門へ門から本堂へと\n\n石畳の上を繰り返し往復しては",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "合掌することまた百回なのであった\n\nもう半世紀ほど昔のことなのだが\n\n父は当時死にそこなって\n\n三郎のおかげでたすかったと云った\n\n牛をみるといまでも\n\n文明を乗り越えておもい出すが\n\nまたその手綱でもさすって\n\nきのこ雲でも追っ払ってみるか\n\nのうまくざんまんだばざらだんせんだ",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 63,
+      "content": "まかろしやだそわたようんたらたかんまん",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "ろまんす・ぐれい",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 65,
+      "content": "ラジオ屋さんが帰ったあとだ\n\nぼくの顔を見て\n\nミミコが云ったのだ\n\nうちのにしては上出来で\n\n真新しいものを買ったと云えば\n\nラジオがはじめてなんでしょうと云った\n\nすると横から\n\n女房が云ったのだ\n\nパパはなんでもお古が好きなんで",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 66,
+      "content": "机がお古で本棚もお古だ\n\n電気スタンドだってなんだって\n\n古道具屋さんのが好きなんだと云った\n\nそこでぼくにしてみればだ\n\n余計なことはしたおぼえがないので\n\n余計なことを云うなと云った",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 67,
+      "content": "底を歩いて",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 68,
+      "content": "なんのために\n\n生きているのか\n\n裸の跣で命をかかえ\n\nいつまで経っても\n\n社会の底にばかりいて\n\nまるで犬か猫みたいじゃないかと\n\nぼくは時に自分を罵るのだが\n\n人間ぶったぼくのおもいあがりなのか\n\n猫や犬に即して",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "自分のことを比べて見ると\n\nいかにも人間みたいに見えるじゃないか\n\n犬や猫ほどの裸でもあるまいし\n\n一応なにかでくるんでいて\n\nなにかを一応はいていて\n\n用でもあるみたいな\n\n眼をしているのだ",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 70,
+      "content": "酔漢談義",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 71,
+      "content": "ぼくに２号があるとは\n\nそれは初耳だと言うと\n\nそうじゃないかよそれで毎晩\n\n帰りがおそいんじゃないかよと言う\n\n飲んで酔っぱらって\n\nおそくなったにすぎないのだが\n\nないものをあるみたいに探るので\n\n腹が立って来て\n\n損をしているみたいだ",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "島",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 73,
+      "content": "おねすとじょんだの\n\nみさいるだのが\n\nそこに寄って\n\n宙に口を向けているのだ\n\n極東に不安のつづいている限りを\n\nそうしているのだ\n\nとその飼い主は云うのだが\n\n島はそれでどこもかしこも\n\n金網の塀で区切られているのだ",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "人は鼻づらを金網にこすり\n\n右に避けては\n\n左に避け\n\n金網に沿うて行っては\n\n金網に沿って帰るのだ",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 75,
+      "content": "雲の上",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 76,
+      "content": "たった一つの地球なのに\n\nいろんな文明がひしめき合い\n\n寄ってたかって血染めにしては\n\nつまらぬ灰などをふりまいているのだが\n\n自然の意志に逆ってまでも\n\n自滅を企てるのが文明なのか\n\nなにしろ数ある国なので\n\nもしも一つの地球に異議があるならば\n\n国の数でもなくする仕組みの",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 77,
+      "content": "はだかみたいな普遍の思想を発明し\n\nあめりかでもなければ\n\nそれんでもない\n\nにっぽんでもなければどこでもなくて\n\nどこの国もが互に肌をすり寄せて\n\n地球を抱いて生きるのだ\n\nなにしろ地球がたった一つなのだ\n\nもしも生きるには邪魔なほど\n\n数ある国に異議があるならば",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "生きる道を拓くのが文明で\n\n地球に替るそれぞれの自然を発明し\n\n夜ともなれば月や星みたいに\n\nあれがにっぽん\n\nそれがそれん\n\nこっちがあめりかという風にだ\n\n宇宙のどこからでも指さされては\n\nまばたきしたり\n\n照ったりするのだ",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 79,
+      "content": "いかにも宇宙の主みたいなことを云い\n\nかれはそこで腰をあげたのだが\n\nもういちど下をのぞいてから\n\nかぶった灰をはたきながら\n\n雲を踏んで行ったのだ",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 80,
+      "content": "正月と島",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 81,
+      "content": "つかっている言葉\n\nそれは日本語で\n\nつかっている金\n\nそれはドルなのだ\n\n日本みたいで\n\nさうでもないみたいな\n\nあめりかみたいで\n\nそうでもないみたいな\n\nつかみどころのない島なのだ",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "ところでさすがは\n\n亜熱帯の島\n\n雪を知らないこの風土は\n\nむかしながらの沖縄で\n\n元旦のパーティーに\n\n扇風機のサービスと来た",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
+      "content": "島での話",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 84,
+      "content": "来たぞ　くろいのが\n\nとそう云えば\n\n女たちはもちろんのこと\n\nこども達までがあわてふためいて\n\n一目散に逃げたものだと云う\n\nそれでそれとすぐにわかるような\n\nいかにもくろい男の子なのだが\n\nくろいのが来たぞと云えば\n\nその子までもあわてて",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 85,
+      "content": "みんなといっしょに\n\n一目散だと云うのだ",
+      "characters": 20,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "沖縄風景",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 87,
+      "content": "そこの庭ではいつでも\n\n軍鶏《タウチー》たちが血に飢えているのだ\n\nタウチー達はそれぞれの\n\nミーバーラーのなかにいるのだが\n\nどれもが肩を怒らしていて\n\nいかにも自信ありげに\n\n闘鶏のその日を待ちあぐんでいるのだ\n\n赤嶺家の老人《タンメー》は朝のたんびに\n\n煙草盆をぶらさげては",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "縁先に出て座り\n\n庭のタウチー達のきげんをうかがった\n\nこの朝もタンメーは縁先にいたのだが\n\n煙管がつまってしまったのか\n\nぽんとたたいたその音で\n\nタウチー達が一斉に\n\nひょいと首をのばしたのだ\n\n（ミーバーラー＝養鷄用のかご）",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 89,
+      "content": "首",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 90,
+      "content": "はじめて会ったその人がだ\n\n一杯を飲みほして\n\n首をかしげて言った\n\nあなたが詩人の貘さんですか\n\nこれはまったくおどろいた\n\n詩から受ける感じの貘さんとは\n\n似てもつかない紳士じゃないですかと言った\n\nぼくはおもわず首をすくめたのだが\n\nすぐに首をのばして言った",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 91,
+      "content": "詩から受ける感じのぼろ貘と\n\n紳士に見えるこの貘と\n\nどちらがほんものの貘なんでしょうかと言った\n\nするとその人は首を起して\n\nさあそれはと口をひらいたのだが\n\n首に故障のある人なのか\n\nまたその首をかしげるのだ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 92,
+      "content": "たぬき",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 93,
+      "content": "てんぷらの揚滓それが\n\nたぬきそばのたぬきに化け\n\nたぬきうどんの\n\nたぬきに化けたとしても\n\nたぬきは馬鹿に出来ないのだ\n\nたぬきそばはたぬきのおかげで\n\nてんぷらそばの味にかよい\n\nたぬきうどんはたぬきのおかげで\n\nてんぷらうどんの味にかよい",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 94,
+      "content": "たぬきのその値がまたたぬきのおかげで\n\nてんぷらよりも安あがりなのだ\n\nところがとぼけたそば屋じゃないか\n\nたぬきはお生憎さま\n\nやっていないんですなのに\n\nてんぷらでしたらございますなのだ\n\nそれでぼくはいつも\n\nすぐそこの青い暖簾を素通りして\n\nもう一つ先の",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 95,
+      "content": "白い暖簾をくぐるのだ。",
+      "characters": 11,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "石に雀",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 97,
+      "content": "ペンを投げ出したのが\n\n暁方なのに\n\n寝たかとおもうと\n\n挺子を仕掛ける奴がいて\n\nいつまで寝ているつもりなんですか\n\n起きてはどうです\n\n起きないんですかとくるのだ\n\n何時なんだい\n\nと寝返りをうつと",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 98,
+      "content": "何時もなにもあるもんですか\n\nお昼というのにいつまでも\n\n寝っころがっていてなんですかとくるのだ\n\n降っているのかい\n\nとまた寝返りをうつと\n\n照っているのに\n\nねぼけなさんなとくるのだ\n\n降っている音がしているんじゃないか\n\n雨じゃないのかい",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 99,
+      "content": "と重い頭をもたげてみると\n\n女房は箒の手を休め\n\nトタン屋根の音に耳を傾けたのだが\n\nあし音なんです\n\n雀の　と来たのだ",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "十二月",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 101,
+      "content": "銀杏の落葉に季節の音を踏んで\n\n訪ねて見えたはじめての\n\n若いジャーナリストがふしぎそうに\n\nぼくの顔のぐるりを見廻して云うのだ\n\nこんな大きなりっぱな家に\n\nお住いのこととは知らなかったと云うのだ\n\nそれで御用件はとうかがえば\n\nかれは頭をかいてまたしても\n\nあたりを見廻して云うのだ",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "それが実は申しわけありません\n\n十二月の随筆をおねがいしたいのだが\n\n書いていただきたいのはつまり先生の\n\n貧乏物語なんですと云うのだ",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 103,
+      "content": "雲の下",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 104,
+      "content": "ストロンチウムだ\n\nちょっと待ったと\n\nぼくは顔などしかめて言うのだが\n\nストロンチウムがなんですかと\n\n女房が睨み返して言うわけなのだ\n\n時にはまたセシウムが光っているみたいで\n\nちょっと待ったと\n\n顔をしかめないではいられないのだが\n\nセシウムだってなんだって",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 105,
+      "content": "食わずにいられるもんですかと\n\n女房が腹を立ててみせるのだ\n\nかくて食欲は待ったなしなのか\n\n女房に叱られては\n\n眼をつむり\n\nカタカナまじりの現代を食っているのだ\n\nところがある日ふかしたての\n\nさつまの湯気に顔を埋めて食べていると\n\nちょっとあなたと女房が言うのだ",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 106,
+      "content": "ぼくはまるで待ったをくらったみたいに\n\nそこに現代を意識したのだが\n\n無理してそんなに\n\n食べなさんなと言うのだ",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 107,
+      "content": "貘",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 108,
+      "content": "悪夢はバクに食わせろと\n\nむかしも云われているが\n\n夢を食って生きている動物として\n\nバクの名は世界に有名なのだ\n\nぼくは動物博覧会で\n\nはじめてバクを見たのだが\n\nノの字みたいなちっちゃなしっぽがあって\n\n鼻はまるで象の鼻を短かくしたみたいだ\n\nほんのちょっぴりタテガミがあるので",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 109,
+      "content": "馬にも少しは似ているけれど\n\n豚と河馬とのあいのこみたいな図体だ\n\nまるっこい眼をして口をもぐもぐするので\n\nさては夢でも食っていたのだろうかと\n\n餌箱をのぞけばなんとそれが\n\n夢ではなくてほんものの\n\n果物やにんじんなんか食っているのだ\n\nところがその夜ぼくは夢を見た\n\n飢えた大きなバクがのっそりあらわれて",
+      "characters": 155,
+      "ruby": []
+    },
+    {
+      "pageNumber": 110,
+      "content": "この世に悪夢があったとばかりに\n\n原子爆弾をぺろっと食ってしまい\n\n水素爆弾をぺろっと食ったかとおもうと\n\nぱっと地球が明かるくなったのだ",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 111,
+      "content": "芭蕉布",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 112,
+      "content": "上京してからかれこれ\n\n十年ばかり経っての夏のことだ\n\nとおい母から芭蕉布を送って来た\n\n芭蕉布は母の手織りで\n\nいざりばたの母の姿をおもい出したり\n\n暑いときには芭蕉布に限ると云う\n\n母の言葉をおもい出したりして\n\n沖縄のにおいをなつかしんだものだ\n\n芭蕉布はすぐに仕立てられて",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 113,
+      "content": "ぼくの着物になったのだが\n\nただの一度もそれを着ないうちに\n\n二十年も過ぎて今日になったのだ\n\nもちろん失くしたのでもなければ\n\n着惜しみをしているのでもないのだ\n\n出して来たかとおもうと\n\nすぐにまた入れるという風に\n\n質屋さんのおつき合いで\n\n着ている暇がないのだ。",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 114,
+      "content": "口のある詩",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 115,
+      "content": "たびたび出かけて\n\n出かけるたんびに\n\n借りて来ない日はないみたいで\n\n借りて来る金はそのたんびに\n\n口のなかにいれるので\n\n口のために生きているのかと\n\n腹の立つ日がたびたび重なって来たのだ\n\nその日それで口を後廻しに\n\nわめき立てる生理に逆らいながら",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 116,
+      "content": "ペンを握って詩を夢みていたところ\n\nおもいなおしてひそかに\n\nこれまでの借りを調べてみたのだが\n\n住宅難も口のせいみたいなものか\n\n十坪そこらの家ならば\n\nすぐ建つ筈の\n\n借りを食っているのだ",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 117,
+      "content": "養鶏場風景",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 118,
+      "content": "南の基地の島から来たばかりの\n\n眼だけが光るその男が言った\n\nなんと言っても\n\nさすがは東京なのだ\n\nのっぽの奴らまでがいかにも\n\nおとなしそうに歩いていると言った\n\nそっちの眼のせいじゃないかと言うと\n\nのっぽはのっぽにしてもなんだか\n\n基地のは種がまるで別みたいで",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 119,
+      "content": "偉張り散らしているばかりか\n\n気質が荒くてやり切れないのだと言う\n\n東京あたりはレグホンで\n\n基地の島のがシャモなのかと言うと\n\n男はふとそこに立ち止ったのだが\n\nおとなしそうな奴ではないかと\n\n顎で眼の前をしゃくってみせるのだ",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 120,
+      "content": "花曇り",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 121,
+      "content": "つまりこれが\n\n五十肩とかで\n\n男の更年期障害だと云うのだ\n\nなにしろ両肩の関節が痛み\n\n服を着るにも一々\n\n女房やこどもの手を借りるのだ\n\nまったくこの手の\n\n不自由なこと\n\n電車に乗っても吊革に",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 122,
+      "content": "この手がのびない始末なのだ\n\nそれでその日も腰をかけるために\n\n満員の電車を見送ったあとなのだ\n\nホームの端に突っ立って\n\n五十肩になりすましていたところ\n\nふと柵外に眼をやると\n\nそこの路地裏に猫が群れているのだ\n\nけんかにしてはひっそりしすぎるので\n\n猫らしくもないとおもったのだが",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 123,
+      "content": "四組になってそろいもそろった\n\n若い猫達の\n\nあべっくなのだ",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 124,
+      "content": "基地日本",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 125,
+      "content": "ある国はいかにも\n\n現実的だ\n\n歯舞・色丹を日本に\n\n返してもよいとは云うものの\n\nつかんだその手はなかなか離さないのだ\n\n国後・択捉だってもともと\n\n日本の領土とは知りながらも\n\n返せと云えばたちまちいきり立って\n\n非現実的だと白を切るのだ",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 126,
+      "content": "ある国はまた\n\nもっと現実的なのだ\n\n奄美大島を返しては来たのだが\n\n要らなくなって返したまでのこと\n\nつかんだままの沖縄については\n\nプライス勧告を仕掛けたりするなどが\n\n現実的ではないとは云えないのだ\n\n踏みにじられた\n\n日本",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 127,
+      "content": "北に向いたり南に向いたりして\n\n夢をもがいているのだが\n\n吹出物ばかりが現実なのか\n\nあちらにもこちらにも\n\n吹き出す吹出物\n\n舶来の\n\n基地それなのだ",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 128,
+      "content": "紳士寸感",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 129,
+      "content": "ばくさんらしくも\n\nないじゃないかと\n\n言われてみればいかにも\n\nぼろが似合いのぼくだったのか\n\nだぶるぼたんの\n\nこの服よ\n\n着ろよとよこした先輩は\n\nぼろよりましだと\n\nよこしたのだが",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "不沈母艦沖縄",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 131,
+      "content": "守礼の門のない沖縄\n\n崇元寺のない沖縄\n\nがじまるの木のない沖縄\n\n梯梧の花の咲かない沖縄\n\n那覇の港に山原船のない沖縄\n\n在京三〇年のぼくのなかの沖縄とは\n\nまるで違った沖縄だという\n\nそれでも沖縄からの人だときけば\n\n守礼の門はどうなったかとたずね",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 132,
+      "content": "崇元寺はどうなのかとたずね\n\nがじまるや梯梧についてたずねたのだ\n\nまもなく戦禍の惨劇から立ち上り\n\n傷だらけの肉体を引きずって\n\nどうやら沖縄が生きのびたところは\n\n不沈母艦沖縄だ\n\nいま八〇万のみじめな生命達が\n\n甲板の片隅に追いつめられていて\n\n鉄やコンクリートの上では",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 133,
+      "content": "米を作るてだてもなく\n\n死を与えろと叫んでいるのだ",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 134,
+      "content": "歯車",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 135,
+      "content": "靴にありついて\n\nほっとしたかとおもうと\n\nずぼんがぼろになっているのだ\n\nずぼんにありついて\n\nほっとしたかとおもうと\n\n上衣がぼろぼろになっているのだ\n\n上衣にありついて\n\nほっとしたかとおもうと\n\nもとに戻ってまた",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 136,
+      "content": "ぼろ靴をひきずって\n\n靴を探し廻っているのだ",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 137,
+      "content": "玄関",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 138,
+      "content": "呼び鈴の音にうなされて\n\nあわてて玄関に出てみると\n\nあるばいとなんですがと云うわけなのだ\n\nまあ間に合っていますと断わると\n\nひとつでもいいんですが\n\n買って下さいなのだ\n\nまたにして下さいと尻込みすると\n\n見るだけだって\n\n見て下さいなのだが",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 139,
+      "content": "お金がないのでは見るのもいやなので\n\n首を横にうち振ったのだ\n\nかれは風呂敷包を小脇にかかえなおして\n\n玄関を見廻していたのだが\n\nこんな桧づくりの大きな家に住んでいて\n\nひとつぽっちも買わないなんて法が\n\nあるもんですかと吐き出したのだ\n\nいかにもぼくの家みたいで\n\nまるでもっての外みたいだ",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 140,
+      "content": "処女詩集",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 141,
+      "content": "「思弁の苑」というのが\n\nぼくのはじめての詩集なのだ\n\nその「思弁の苑」を出したとき\n\n女房の前もかまわずに\n\nこえはりあげて\n\nぼくは泣いたのだ\n\nあれからすでに十五、六年も経ったろうか\n\nこのごろになってはまたそろそろ\n\n詩集を出したくなったと",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 142,
+      "content": "女房に話しかけてみたところ\n\nあのときのことをおぼえていやがって\n\n詩集を出したら\n\nまた泣きなと来たのだ",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 143,
+      "content": "無銭飲食",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 144,
+      "content": "飲んだり食ったりの\n\nあげくのはてなのだ\n\nかれはおつりがくるつもりで\n\nぽけっとのなかに手をいれてみると\n\nある筈のその金がないのだ\n\nしかしあのときにたしかに\n\nぽけっとにおしこんでおいたのだと\n\nもういちどかれは手をいれてみるのだが\n\n金は街なかで拾った筈の金",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 145,
+      "content": "どうやら昨夜見たばかりの\n\n夢の千円札を探しているのだ。",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 146,
+      "content": "羊",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 147,
+      "content": "食うや食わずの\n\n荒れた生活をしているうちに\n\n人相までも変って来たのだそうで\n\nぼくの顔は原子爆弾か\n\n水素爆弾みたいになったのかとおもうのだが\n\nそれというのも地球の上なので\n\nめしを食わずにはいられないからなのだ\n\nところが地球の上には\n\n死んでも食いたくないものがあって",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 148,
+      "content": "それがぼくの顔みたいな\n\n原子爆弾だの水素爆弾なのだ\n\nこんな現代をよそに\n\n羊は年が明けても相変らずで\n\n角はあってもそれは渦巻にして\n\n紙など食って\n\nやさしい眼をして\n\n地球の上を生きているのだ",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 149,
+      "content": "年越の詩《うた》",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 150,
+      "content": "詩人というその相場が\n\nすぐに貧乏と出てくるのだ\n\nざんねんながらぼくもぴいぴいなので\n\nその点詩人の資格があるわけで\n\n至るところに借りをつくり\n\n質屋ののれんもくぐったりするのだ\n\n書く詩も借金の詩であったり\n\n詩人としてはまるで\n\n貧乏ものとか借金ものとか",
+      "characters": 131,
+      "ruby": []
+    },
+    {
+      "pageNumber": 151,
+      "content": "質屋ものとかの専門みたいな\n\n詩人なのだ\n\nぼくはこんなぼくのことをおもいうかべて\n\n火のない火鉢に手をかざしていたのだが\n\nことしはこれが\n\n入れじまいだとつぶやきながら\n\n風呂敷包に手をかけると\n\n恥かきじまいだと女房が手伝った。",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 152,
+      "content": "柄にもない日",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 153,
+      "content": "ぼくはその日\n\n借りを返したのだが\n\nぼくにしては似てもつかない\n\nまちがったことをしたみたいな\n\n柄にもない日があるものだ\n\nだから鬼までがきまりわるそうにし\n\nぼくの返したその金をうけとりながら\n\nおかげでたすかったと\n\n礼をのべるのだ",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 154,
+      "content": "鮪に鰯",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 155,
+      "content": "鮪の刺身を食いたくなったと\n\n人間みたいなことを女房が言った\n\n言われてみるとついぼくも人間めいて\n\n鮪の刺身を夢みかけるのだが\n\n死んでもよければ勝手に食えと\n\nぼくは腹だちまぎれに言ったのだ\n\n女房はぷいと横むいてしまったのだが\n\n亭主も女房も互に鮪なのであって\n\n地球の上はみんな鮪なのだ",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 156,
+      "content": "鮪は原爆を憎み\n\n水爆にはまた脅やかされて\n\n腹立ちまぎれに現代を生きているのだ\n\nある日ぼくは食膳をのぞいて\n\nビキニの灰をかぶっていると言った\n\n女房は箸を逆さに持ちかえると\n\n焦げた鰯のその頭をこづいて\n\n火鉢の灰だとつぶやいたのだ",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "萎びた約束",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 158,
+      "content": "結婚したばかりの若夫婦の家なので\n\nお気の毒とはおもいながらも\n\n二カ月ほどのあいだをと\n\nむりにたのんでぼくの一家を\n\nこの家の六畳の間においてもらったのだ\n\n若夫婦のところにはまもなくのこと\n\n女の子が生れたので\n\nぼくのところではほっとしたのだ\n\nつぎに男の子が生れて",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 159,
+      "content": "ぼくのところではまたほっとしたのだ\n\n現在になってはそのつぎのが\n\nまさに生れようとしているので\n\nぼくのところではそのうちに\n\nまたまたほっとすることになるわけなのだ\n\nそれにしてもなんと\n\nあいだのながい二カ月なのだ\n\nすでに五年もこの家のお世話になって\n\n萎びた約束を六畳の間に見ていると",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 160,
+      "content": "このまま更にあとなんねんを\n\nぷらすのお世話になることによって\n\nいこおる二カ月ほどになるつもりなのかと\n\nぼくのところではそのことばかりを\n\n考えないでは一日もいられないのだが\n\nいつ引越しをするのかとおもうと\n\nお金のかかる空想になってしまって\n\n引越してみないことには解けないのだ。",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 161,
+      "content": "自問自答",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 162,
+      "content": "返したためしも\n\nないくせに\n\nお金がはいったらこんどこそ\n\n返そう返そうと\n\nぼくはおもっているのだが\n\nつまりお金のない病気なのだ\n\nそれでたまに\n\nお金を手にしてみると\n\nほっとしたはずみに",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 163,
+      "content": "つい忘れるのだ",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 164,
+      "content": "編棒",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 165,
+      "content": "近所で噂の例のふたりが\n\nそこにいてバスを待っているのだ\n\n和製の女にしては大柄の女で\n\n舶来の男にしてはまたこれが\n\nまことに小柄の男なのだ\n\nふたりは向き合って立っているのだが\n\n女はガムをかみかみ\n\n編物に手をうごかしているところで\n\n男はそれを見い見い",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 166,
+      "content": "ガムをかんでいるところなのだ\n\nしかしなかなか\n\nバスは来なかった\n\nそのうちに編棒の一本が落っこちて\n\nふたりは顔を見合わせたのだが\n\n大柄の和製がその足もとを指さしたので\n\n小柄の舶来は背をこごめたのだ。",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "蕪の新香",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 168,
+      "content": "見おぼえのある顔だとおもっていると\n\n芹田ですと来たのでわかったのだ\n\nかれはいつぞや原稿の催促に\n\nぼくのところを訪ねて来たのだ\n\nぼくのところでは生憎と\n\nなんにもない日ばかりがつづいていたので\n\n来客のたんびに夫婦してまごついたのだ\n\nそれでもお茶のかわりにと\n\n白湯を出してすすめ",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 169,
+      "content": "お茶菓子のかわりに\n\n蕪の新香を出してすすめたのだ\n\nかれはしかし手もつけなかった\n\nいかにも見ぬふりをしているみたいに\n\nそこにかしこまってかたくなっているのだ\n\n足をくずしてお楽にとすすめると\n\nこれが楽ですとひざまづいているのだ\n\n蕪の新香はきらいなのかときくと\n\nこっくりに素直さが漂った",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 170,
+      "content": "ぼくは今日の街なかで\n\nかれに逢ったことを手みやげにして\n\n芹田君に逢ったと女房に伝えたのだが\n\n女房にはすぐには通じなかった\n\n蕪の新香のきらいなと言うと\n\nあああの芹田さんかとうなずいたのだ",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 171,
+      "content": "鹿と借金",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 172,
+      "content": "山の手のでぱあとの一角に\n\n珈琲の店を経営しているとかで\n\nうまい珈琲を\n\nごちそうしたいと彼は言った\n\n岬の方には釣舟をもっているとかで\n\n釣へも案内したいと彼は言った\n\nなかでも自慢なのは鉄砲とかで\n\nいずれそのうちに\n\n鹿を射止め",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "鹿の料理をごちそうしたいとかれは言った\n\nぼくはかれに逢うたんびに\n\nいまにもそこに出て来そうな\n\n鹿だの釣だの珈琲だのをたのしみにして\n\nかれの顔をのぞいては\n\nまだかとおもったりしないではいられなかった\n\nところがどうにも仕方のないことがあって\n\nぼくはついかれに\n\n金を借りてしまったのだ",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 174,
+      "content": "そのかわりみたいにそれっきり\n\nごちそうの話がひっこんでしまって\n\n金の催促ばかりが出てくるのだ",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 175,
+      "content": "右を見て左を見て",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 176,
+      "content": "ミミコのことを\n\nおつかいに出すたんびに\n\n右を見て左を見てと\n\n念をおすのだが\n\n家のすぐまんまえが通りになっている\n\nあめりかさんの自動車の\n\n往ったり来たりがひんぱんなのだ\n\n通りを右へ行くと\n\n石神井方面で",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 177,
+      "content": "かれらの部落がその先にあるというのだ\n\n左は目白廻りで\n\n都心へ出るのだ\n\nミミコは買いもの籠をかかえて\n\nいつでもそこのところで立ち止るのだが\n\n右を見て左を見てまた右を見て\n\nそれからそこの通りを\n\nまっすぐに突っ切るのだ。",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 178,
+      "content": "告別式",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 179,
+      "content": "金ばかりを借りて\n\n歩き廻っているうちに\n\nぼくはある日\n\n死んでしまったのだ\n\n奴もとうとう死んでしまったのかと\n\n人々はそう言いながら\n\n煙を立てに来て\n\n次々に合掌してはぼくの前を立ち去った\n\nこうしてあの世に来てみると",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 180,
+      "content": "そこにはぼくの長男がいて\n\nむくれた顔して待っているのだ\n\nなにをそんなにむっとしているのだときくと\n\nお盆になっても家からの\n\nごちそうがなかったとすねているのだ\n\nぼくはぼくのこの長男の\n\n頭をなでてやったのだが\n\n仏になったものまでも\n\n金のかかることをほしがるのかとおもうと",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 181,
+      "content": "地球の上で生きるのとおなじみたいで\n\nあの世も\n\n　この世もないみたいなのだ",
+      "characters": 38,
+      "ruby": []
+    },
+    {
+      "pageNumber": 182,
+      "content": "事故",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 183,
+      "content": "裏の畑途の方から\n\n背の高いのと\n\nパンパンらしいのとが出て来た\n\n道理でそこに\n\n自動車があった\n\n家に帰ると\n\n帰りを待っていたみたいに\n\n女房がその日の出来事を告げた\n\nいましがた",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 184,
+      "content": "裏の子が\n\nあめりかの自動車に\n\n跳ね飛ばされたというのだ",
+      "characters": 29,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "がじまるの木",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 186,
+      "content": "ぼくの生れは琉球なのだが\n\nそこには亜熱帯や熱帯の\n\nいろんな植物が住んでいるのだ\n\nがじまるの木もそのひとつで\n\n年をとるほどながながと\n\n気根《ひげ》を垂れている木なのだ\n\n暴風なんぞにはつよい木なのだが\n\n気立てのやさしさはまた格別で\n\n木のぼりあそびにくるこどもらの",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 187,
+      "content": "するがままに\n\n身をまかせたりしていて\n\n孫の守りでもしているような\n\n隠居みたいな風情の木だ",
+      "characters": 47,
+      "ruby": []
+    },
+    {
+      "pageNumber": 188,
+      "content": "耳と波上風景",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 189,
+      "content": "ぼくはしばしば\n\n波上《なんみん》の風景をおもい出すのだ\n\n東支那海のあの藍色\n\n藍色を見おろして\n\n巨大な首を据えていた断崖\n\n断崖のむこうの\n\n慶良間島\n\n芝生に岩かげにちらほらの\n\n浴衣や芭蕉布の遊女達",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 190,
+      "content": "ある日は龍舌蘭や阿旦など\n\nそれらの合間に\n\nとおい水平線\n\nくり舟と\n\n山原船の\n\nなつかしい海\n\n沖縄人のおもい出さずにはいられない風景\n\nぼくは少年のころ\n\n耳をわずらったのだが",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 191,
+      "content": "あのころは波上に通って\n\n泳いだりもぐったりしたからなのだ\n\nいまでも風邪をひいたりすると\n\nわんわん鳴り出す\n\nおもい出の耳なのだ",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 192,
+      "content": "坐像",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 193,
+      "content": "かれはどこかの\n\n高いところから\n\nすべり落ちて来た物みたいに\n\nいつでもそこの\n\nガード下にいるのだ\n\nぺたんと坐って\n\nこごんではいても\n\n神など拝んでいるのではないのだ\n\nかれはどっしりとそこのところにいて",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 194,
+      "content": "静かに息づきながら\n\n自らの座を\n\n地球の上に占め\n\nその身をぼろにくるんで\n\n虱など持参で生きているのだが\n\n人間を信じて\n\n生きているのだ",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 195,
+      "content": "珈琲店",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 196,
+      "content": "のんでものまなくても\n\nぼくはかならずなのだ\n\n一日に一度はこの珈琲店に来て\n\nいかにもこのように\n\nひとやすみしているのだ\n\n置き手紙の男はそれを知っているからで\n\nこの間の金を至急に\n\n返してほしいと来たわけなのだ",
+      "characters": 109,
+      "ruby": []
+    },
+    {
+      "pageNumber": 197,
+      "content": "彼我",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 198,
+      "content": "その後その人に\n\nなんども逢ったのだが\n\nなんど逢っても逢うたんびに\n\n金の催促をぼくにしないことはないのだ\n\nそれでその日も\n\n雨の池袋駅前で\n\nまたかとおもって立ちすくんでいたのだが\n\nどうやらかれの\n\n眼からのがれたのだ",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 199,
+      "content": "ぼくはそのままそこに小さくなりながら\n\n外れた催促を見送るみたいに\n\nかれの姿を見送ったのだが\n\nかれはびしょぬれのこうもりをつぼめると\n\nわき眼もふらずに\n\n顎を突き出しながら\n\n駅の段々を\n\nのぼって行った",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 200,
+      "content": "おさがりの思い出",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 201,
+      "content": "風景にしても\n\n風俗にしても\n\nむかしの沖縄の姿など\n\nいまでは見る影さえもないのだという\n\nぼくは戦後の\n\nふるさとの話を\n\n風のたよりにききながら\n\nがじまるの樹など眼にうかべ\n\nでいごの花を眼にうかべ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 202,
+      "content": "少年の日に着て歩いた\n\n兄貴のおさがりの\n\n芭蕉布《ばさあぐわあ》のことなど\n\n眼にうかべたりした。",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 203,
+      "content": "影",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 204,
+      "content": "泡盛屋に来て\n\n泡盛を前にしているところを\n\nうしろからぽんと\n\n肩をたたかれた\n\nふりむいてみるとまたかれなのだが\n\nいつぞや駅前のひろばで\n\nぽんと肩をたたいたのもかれ\n\n満員電車の吊皮の下で\n\nぽんと肩をたたいたのもかれで",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 205,
+      "content": "乗ったり歩いたり飲んだりも\n\nうっかりは出来なくなってしまったのだ\n\nかれはいつでもぼくのことを\n\nうしろからばかり狙って来て\n\nぽんと肩をたたいては\n\nひとなつっこそうなまなざしをして\n\nこのあいだのあの金\n\nいつ返すんだいとくるのだ",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 206,
+      "content": "借り貸し",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 207,
+      "content": "たのむ\n\nたのむと拝み倒して\n\nぼくはその人に借りたのだが\n\nその人はその金の\n\n催促に来て\n\nまるでぼくのことを拝み倒すみたいに\n\nたのむ\n\nたのむと言うのだ",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 208,
+      "content": "灸をすえる",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 209,
+      "content": "ひんまがったひどい腰曲りで\n\n竹の杖にすがりながら\n\n草履ばきのひからびたその大足を\n\nひと足ひと足と運んできたのが\n\n西の家の老婆なのだ\n\n老婆は杖を戸袋の脇に立てかけると\n\nはなしに聞いて来たのだがと言いながら\n\n縁側にあがって坐り込み\n\nお灸をすえてくれまいかと言うわけなのだ",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 210,
+      "content": "噂によればなにしろ\n\n虱たかりの老婆なので\n\nぞっとしないではいられなかったのだが\n\nとにかく線香に火をつけたのだ\n\n老婆がやがて肌をぬいで\n\n背なかをこちらに向けると\n\nおそるおそるぼくは膝をすすめ\n\nひからびた背なかを見廻したのだが\n\nいまのうちにと急いで",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 211,
+      "content": "孔穴を探りそこに\n\n急いで艾を立て\n\n急いで線香の火をうつしたのだ",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 212,
+      "content": "西の家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 213,
+      "content": "馬車屋馬車屋と\n\n土地では言うのだが\n\n馬車屋と言うといやがるそうで\n\nぼくのところではその馬車屋のことを\n\n西の家と言っているのだ\n\n西の家は馬車屋なので\n\n荷馬車があって\n\n栗毛の馬などがいて\n\nいかにも物を運ぶ仕掛になっているのだが",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 214,
+      "content": "馬車屋であることそのことばかりが\n\n西の家の仕事なのではないのだ\n\nかぼちゃはつくる\n\nさつまはつくる\n\n麦はつくる\n\n米はつくるで\n\nつくるたんびのその季節のものを\n\nお手のものの馬車に盛りあげて\n\n栗毛の馬がそれを運ぶのだ",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 215,
+      "content": "ある日\n\n杉木立のとろで\n\n西の家の馬車に出会した\n\n馬車には老婆がひとりのっかっていて\n\n毛布にくるまってうなじを垂れているのだ\n\n孫は手綱をふりふり\n\n町の医者までと言うのだ",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 216,
+      "content": "すれちがいの娘",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 217,
+      "content": "この途はここから\n\nでこぼこになり\n\n赤みをおびながら\n\n曲りくねって\n\n松林の中へと這いつくばっているのだ\n\n村の人たちはいつもながら\n\nじぐざぐにこの途を歩いて行って\n\nこの途をじぐざぐに歩いて帰り\n\n牛車も馬車もがた揺れの音を立てるのだ",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 218,
+      "content": "ある日このでこぼこを\n\nあっちへ曲りこっちに曲りして\n\nハイヒールとやらに出会したのだが\n\nすれちがいの挨拶に\n\nふと気がついてみると\n\n野良着の姿でしか見かけなかった\n\n西の家の娘なのだ",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 219,
+      "content": "ぼすとんばっぐ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 220,
+      "content": "ぼすとんばっぐを\n\nぶらさげているので\n\nミミコはふしぎな顔をしていたが\n\nいつものように\n\n手を振った\n\nいってらっしゃいと\n\n手を振った\n\nぼくもまたいつものように\n\nいってまいりまあすとふりかえったが",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 221,
+      "content": "まもなく質屋の\n\n門をくぐったのだ",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 222,
+      "content": "深夜",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 223,
+      "content": "これをたのむと言いながら\n\n風呂敷包にくるんで来たものを\n\nそこにころがせてみせると\n\n質屋はかぶりを横に振ったのだ\n\nなんとかならぬかとたのんでみるのだが\n\n質屋はかぶりをまた振って\n\nおあずかりいたしかねるとのことなのだ\n\nなんとかならぬものかと更にたのんでみると\n\n質屋はかぶりを振り振りして",
+      "characters": 149,
+      "ruby": []
+    },
+    {
+      "pageNumber": 224,
+      "content": "いきものなんてのはどうにも\n\nおあずかりいたしかねると言うのだ\n\n死んではこまるので\n\nお願いに来たのだと言うと\n\n質屋はまたまたかぶりを振って\n\nいきものなんぞおあずかりしたのでは\n\n餌代にかかって\n\n商売にならぬと来たのだ\n\nそこでどうやらぼくの眼がさめた",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 225,
+      "content": "明りをつけると\n\nいましがたそこに\n\n風呂敷包からころがり出たばかり\n\n娘に女房が\n\n寝ころんでいるのだ",
+      "characters": 52,
+      "ruby": []
+    },
+    {
+      "pageNumber": 226,
+      "content": "人の酒",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 227,
+      "content": "飲んでうたっておどったが\n\n翌日その店の名をきかれて\n\nぼくは返事にこまった\n\n人の酒ばかりを\n\n飲んで歩いているので\n\n店の名などいらないのだ",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 228,
+      "content": "博学と無学",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 229,
+      "content": "あれを読んだか\n\nこれを読んだかと\n\nさんざん無学にされてしまった揚句\n\nぼくはその人にいった\n\nしかしヴァレリーさんでも\n\nぼくのなんぞ\n\n読んでない筈だ",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 230,
+      "content": "奴",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 231,
+      "content": "では\n\n死ねと云われたら\n\n死ぬ気なのかときくと\n\n奴はかぶりを振って云った\n\n死ぬまで待つ気なら\n\n死んでもよい",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 232,
+      "content": "船",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 233,
+      "content": "文明諸君\n\n地球ののっかる\n\n船をひとつ\n\nなんとか発明出来ないことはないだろう\n\nすったもんだのこの世の中から\n\n地球をどこかへ\n\nさらって行きたいじゃないか",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 234,
+      "content": "借金を背負って",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 235,
+      "content": "借りた金はすでに\n\nじゅうまんえんを越えて来た\n\nこれらの金をぼくに\n\n貸してくれた人々は色々で\n\nなかには期限つきの条件のもあり\n\nいつでもいいよと言ったのもあり\n\nあずかりものを貸してあげるのだから\n\nなるべく早く返してもらいたいと言ったのや\n\n返すなんてそんなことなど",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 236,
+      "content": "お気にされては困ると言うのもあったのだ\n\nいずれにしても\n\n背負って歩いていると\n\n重たくなるのが借金なのだ\n\nその日ぼくは背負った借金のことを\n\nじゅうまんだろうがなんじゅうまんだろうが\n\n一挙に返済したくなったような\n\nさっぱりしたい衝動にかられたのだ\n\nところが例によって",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 237,
+      "content": "その日にまた一文もないので\n\n借金を背負ったまま\n\n借りに出かけたのだ",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 238,
+      "content": "その日その時",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 239,
+      "content": "その日その時",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 240,
+      "content": "とるものもとりあえず\n\nふたりは戸外に\n\n飛び出してしまったのだ\n\nそれでもかれはかれの\n\nヴァイオリンだけはかかえていた\n\nぼくはぼくの\n\nよごれ切ったずっくの\n\n手提の鞄をひとつかかえていたのだが\n\n鞄のなかにはいっぱい",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 241,
+      "content": "書き溜めた詩がつまっていた\n\nこんな記憶を\n\nいつまでものせて\n\n九月一日の\n\n地球がゆれていた",
+      "characters": 48,
+      "ruby": []
+    },
+    {
+      "pageNumber": 242,
+      "content": "沖縄よどこへ行く",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 243,
+      "content": "蛇皮線の島\n\n泡盛の島\n\n詩の島\n\n踊りの島\n\n唐手の島\n\nパパイヤにバナナに\n\n九年母などの生る島\n\n蘇鉄や龍舌蘭や榕樹の島\n\n仏桑花や梯梧の真紅の花々の",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 244,
+      "content": "焔のように燃えさかる島\n\nいま　こうして郷愁に誘われるまま\n\n途方に暮れては\n\nまた一行づつ\n\nこの詩を綴るこのぼくを生んだ島\n\nいまでは琉球とはその名ばかりのように\n\nむかしの姿はひとつとしてとめるところもなく\n\n島には島とおなじくらいの\n\n補装道路が這っているという",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 245,
+      "content": "その補装道路を歩いて\n\n琉球よ\n\n沖縄よ\n\nこんどはどこへ行くというのだ\n\nおもえばむかし琉球は\n\n日本のものだか\n\n支那のものだか\n\n明っきりしたことはたがいにわかっていなかったという\n\nところがある年のこと",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 246,
+      "content": "台湾に漂流した琉球人たちが\n\n生蕃のために殺害されてしまったのだ\n\nそこで日本は支那に対して\n\nまずその生蕃の罪を責め立ててみたのだが\n\n支那はそっぽを向いてしまって\n\n生蕃のことは支那の管するところではないと言ったのだ\n\nそこで日本はそれならばというわけで\n\n生蕃を征伐してしまったのだが\n\nあわて出したのは支那なのだ",
+      "characters": 160,
+      "ruby": []
+    },
+    {
+      "pageNumber": 247,
+      "content": "支那はまるで居なおって\n\n生蕃は支那の所轄なんだと\n\nこんどは日本に向ってそう言ったと言うのだ\n\nすると日本はすかさず\n\n更にそれならばと出て\n\n軍費償金というものや被害者遺族の撫恤金とかいうものなどを\n\n支那からせしめてしまったのだ\n\nこんなことからして\n\n琉球は日本のものであるということを",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 248,
+      "content": "支那が認めることになったとかいうのだ\n\nそれからまもなく\n\n廃藩置県のもとに\n\nついに琉球は生れかわり\n\nその名を沖縄県と呼ばれながら\n\n三府四十三県の一員として\n\n日本の道をまっすぐに踏み出したのだ\n\nところで日本の道をまっすぐに行くのには\n\n沖縄県の持って生れたところの",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 249,
+      "content": "沖縄語によっては不便で歩けなかった\n\nしたがって日本語を勉強したり\n\nあるいは機会あるごとに\n\n日本語を生活してみるというふうにして\n\n沖縄県は日本の道を歩いて来たのだ\n\nおもえば廃藩置県この方\n\n七十余年を歩いて来たので\n\nおかげでぼくみたいなものまでも\n\n生活の隅々まで日本語になり",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 250,
+      "content": "めしを食うにも詩を書くにも泣いたり笑ったり怒ったりするにも\n\n人生のすべてを日本語で生きて来たのだが\n\n戦争なんてつまらぬことなど\n\n日本の国はしたものだ\n\nそれにしても\n\n蛇皮線の島\n\n泡盛の島\n\n沖縄よ\n\n傷はひどく深いときいているのだが",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 251,
+      "content": "元気になって帰って来ることだ\n\n蛇皮線を忘れずに\n\n泡盛を忘れずに\n\n日本語の\n\n日本に帰って来ることなのだ",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 252,
+      "content": "郵便やさん",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 253,
+      "content": "寝坊した朝のこと\n\n裏の井戸端で歯をみがいていると\n\nむこうの\n\n部落から出て来た\n\nあかい自転車が眼にとまった\n\n自転車は畑途をまがりくねって\n\nこちらにむかってやって来るのだ\n\nいつもはあべこべにこちらを先に廻って\n\nそれからむこうの",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 254,
+      "content": "部落へ\n\nまがりくねって行く筈なのにと\n\nぼくは、そうおもいながら\n\nあかい自転車を見ていると\n\nいつもの郵便屋さんとは\n\n人がちがっていた。",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 255,
+      "content": "税金のうた",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 256,
+      "content": "地球のうえを\n\nぼくは夢中で飛び廻った\n\n税金ならばかかって来ないほど\n\nぼくみたいなものにはありがたいみたいで\n\nかかって来てもなるべく\n\n税金というのはかるいほど\n\n誰もの理想に叶っているのではなかろうかと\n\nぼくはそのようにおもいながらも\n\n免税を願っているのでもなければ",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 257,
+      "content": "差押えなんぞくらいたいほどの\n\n物のある身でもないのだ\n\nぼくは自分の家庭に\n\n納めなくてはならない筈の生活費でさえも\n\n現在まさに滞りがちなところ\n\n税金だけは借りてもなんとか納めたいものと\n\n地球のうえを\n\n金策に飛び廻った\n\nところが至るところに",
+      "characters": 126,
+      "ruby": []
+    },
+    {
+      "pageNumber": 258,
+      "content": "ぼくは前借のある身なのであったのだ\n\nいま地球の一角に\n\n空しく翼をやすめ\n\nどんな風にして税金を納めるかについてぼくは考えているところなのだ\n\n文化国家よ\n\n耳をちょいと貸してもらいたい\n\nぼくみたいな詩人が詩でめしの食えるような文化人になるまでの間を\n\n国家でもって税金の立替えの出来るくらいの文化的方法はないものだろうか。",
+      "characters": 164,
+      "ruby": []
+    },
+    {
+      "pageNumber": 259,
+      "content": "その畠",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 260,
+      "content": "往きも還りも\n\nその畠のまえを通るのだ\n\n夕方などそこにさしかかると\n\n杉木立の影がさしていたりした\n\nある日その畠のために\n\nひともんちゃくが起きてもつれ合い\n\n片方はその畠を返せと怒鳴るが\n\n片方はその畠を返すまいとがんばった\n\nその後その畠を見るたんびに",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 261,
+      "content": "杉木立の影のほかにも\n\n改正農地法の影など映ったりした。",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 262,
+      "content": "たねあかし",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 263,
+      "content": "この日一家を引き連れて\n\n疎開地から東京に移り\n\n練馬の月田家に落ちついた\n\nミミコはあたりを見廻していたのだが\n\nふたばんとまったらまたみんなで\n\nいなかのおうちへ\n\nかえるんでしょうときくのだ\n\nぼくはかぶりを横に振ったのだが\n\n疎開当時のぼくはいかにも",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 264,
+      "content": "鉄兜などをかむってはたびたび\n\n二晩泊りの上京をしたものだ\n\nミミコはやがて庭の端から戻ったのだが\n\nとうきょのおにわってどこにも\n\nはきだめなんか\n\nないのかしらと来たのだ\n\nぼくはあわてて腰をあげてしまい\n\n田舎の庭の一隅をおもい出しながら\n\nおしっこだろうときけばずばり",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 265,
+      "content": "こっくりと来てすまし顔だ",
+      "characters": 12,
+      "ruby": []
+    },
+    {
+      "pageNumber": 266,
+      "content": "利根川",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 267,
+      "content": "水はすでにその流域の\n\n田畑を犯して来たからなのであろう\n\nあちらにかたまり\n\nこちらにかたまりして\n\n藁屑や塵芥がおしながされて来た\n\n藁屑や塵芥にはおびただしいほどの\n\nいなごの群がしがみついて来た\n\n鉄橋はまるでその高さを失ってしまって\n\nかれらの小さな三角頭でさえもが",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 268,
+      "content": "いまにもあやうくぶつかりそうなのか\n\nそこにさしかかっては\n\n飛沫をあげるみたいに\n\nいなごの群が一斉に舞いあがった。",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 269,
+      "content": "親子",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 270,
+      "content": "大きくひらいたその眼からして\n\nミミコはまさに\n\nこの父親似だ\n\nみればみるほどぼくの顔に\n\n似てないものはひとつもないようで\n\n鼻でも耳でもそのひとつひとつが\n\nぼくの造作そのままに見えてくるのだ\n\nただしかしたったひとつだけ\n\nひそかに気を揉んでいたことがあって",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 271,
+      "content": "歩き方までもあるいはまた\n\n父親のぼくみたいな足どりで\n\nいかにももつれるみたいに\n\nミミコも歩き出すのではあるまいかと\n\nひそかにそのことを気にしていたのだ\n\nまもなくミミコは歩き出したのだが\n\nなんのことはない\n\nよっちよっちと\n\n手の鳴る方へ",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 272,
+      "content": "まっすぐに地球を踏みしめたのだ",
+      "characters": 15,
+      "ruby": []
+    },
+    {
+      "pageNumber": 273,
+      "content": "相子",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 274,
+      "content": "どさくさまぎれの汽車にのっていて\n\nぼくは金入を掏られたのだ\n\n掏られてふんがいしていると\n\nふんがいしているじぶんのことが\n\nおかしくなってふき出したくなって来た\n\nまあそうふんがいしなさんなと\n\nとまな自分に言ってやりたくなったのだ\n\nもっとも金入にいれておくほどの\n\nお金なんぞはなかったが",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 275,
+      "content": "金入のなかはみんなの名刺ばかりで\n\nはち切れそうにふくらんでいたのだ\n\nいまごろは掏った奴もまた\n\nとんまな顔つきをして\n\n名刺ばかりのつまった金入に\n\nふんがいしているのかも知れないのだ\n\n奴はきっと\n\n鉄橋のうえあたりに来て\n\nそっとその金入を",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 276,
+      "content": "窓外に投げ棄てたのかも知れないのだ",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 277,
+      "content": "島からの風",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 278,
+      "content": "そんなわけでいまとなっては\n\n生きていることが不思議なのだと\n\n島からの客はそう言って\n\n戦争当時の身の上の話を結んだ\n\nところで島はこのごろ\n\nどんなふうなのだときくと\n\nどんなふうもなにも\n\n異民族の軍政下にある島なのだ\n\n息を喘いでいることに変りはないのだが",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 279,
+      "content": "とにかく物資は島に溢れていて\n\n贅沢品でも日常の必需品でも\n\n輸入品でもないものはないのであって\n\n花や林檎やうなぎまでが\n\n飛行機を乗り廻し\n\n空から来るのだと言う\n\n客はそこでポケットに手をいれたのだが\n\nこれはしかし沖縄の産だと\n\nたばこを一個ぽんと寄越した",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 280,
+      "content": "桃の木",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 281,
+      "content": "時間　時間になると\n\n爺さんごはんです\n\n婆さんごはんですとこえがかかり\n\nふたりの膝元にはそれぞれの\n\n古びた膳が運ばれて来るのだ\n\n膳はいつもとぼけていた\n\n米のごはんの外にも\n\n思想の自由\n\n言論の自由というような",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 282,
+      "content": "あぷれげえるとかものっかってはいるのだが\n\nなんのかんのと言えばすぐにも\n\nだまって食ってろとやられる仕組みの\n\n配給だけがのっかっているのだ\n\n爺さん婆さんはだまって\n\nその日その日の膳にむかい\n\nどこまで生きるかを試めされているみたいに\n\n配給をこづいてはそれを食うのだ\n\nある日の朝のことなのだ",
+      "characters": 150,
+      "ruby": []
+    },
+    {
+      "pageNumber": 283,
+      "content": "膳になるにはまだ早かった\n\n庭には桃の花が咲いていた\n\n爺さんも婆さんも庭へおりると\n\n腰の曲りをのばしたりしていたのだが\n\n天に向って欠伸をした",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 284,
+      "content": "不忍池",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 285,
+      "content": "池をたずねて来たのだが\n\n芝生のうえにぼくは見たのだ\n\nこのまっぴるまかれらはそこにいて\n\nまるでもう舶来みたいに\n\nこれ見よがしの接吻をした\n\nひとりは角帽\n\nひとりは緑の服なのだ\n\n池はすでに戦争のおかげで\n\n代用の田圃になりかわっていたのだが",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 286,
+      "content": "接吻の影など映すてだてもなく\n\n田圃のまんまひからびているのだ\n\nそこを出ると\n\n出たところには\n\nわずかばかりの水がにじんでいて\n\nそこより外には行きどころもないのか\n\n腹をひっくりかえして\n\nボートの群が飢えているのだ",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 287,
+      "content": "またはじまった",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 288,
+      "content": "かれらはぼくのぐるりを\n\nはなはだうるさく飛び廻った\n\nぼくは腹立ちまぎれに\n\nペンをそこにおいては\n\nかれらのことを一々\n\n掌でもってたたきつぶし\n\nあるいは縁のうえにたたきのめした\n\nかれらは蚊であったり\n\n足ながであったり蛾であったり",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 289,
+      "content": "こがね虫または兜虫であったりした\n\nある夜\n\n一匹の兜虫が\n\n電気すたんどの笠にすがりついた\n\nぼくはペンをおいて\n\n兜虫のその首を掴み\n\nそのまま持って縁側に飛び出した\n\nするとよけいな口をきくもので\n\nまたはじまったと女房が言った",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 290,
+      "content": "かれの戦死",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 291,
+      "content": "風のたよりにかれの\n\n戦死をぼくは耳にしたのだが\n\nまぐれあたりの\n\n弾丸よりも\n\nむしろ敗戦そのことのなかに\n\nかれの自決の血煙をおもいうかべた\n\nかれはふだん\n\nぼくなどのことを\n\nおどかすのではなかったのだが",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 292,
+      "content": "大君の詩という詩集を出したり\n\nあるいはまた\n\nぼくなどのことを\n\nなめてまるめるのでもなかったのだが\n\n天皇は詩だと叫んだりしていたので\n\n愛刀にそそのかされての\n\n自害なのではあるまいか",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 293,
+      "content": "巴",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 294,
+      "content": "おまえのお供はつらいと言うと\n\nんじゃこうやってまっててよと来て\n\nミミコは鼻をつまんでみせるのだ\n\nそこでぼくは鼻をつまんで\n\nおおくちゃいと言ったところ\n\nうそだいミミコなんか\n\nくちゃいんじゃないやと言うのだ\n\nミミコのうんこでもごめんだと言うと\n\nかあさんなんかいつだって",
+      "characters": 140,
+      "ruby": []
+    },
+    {
+      "pageNumber": 295,
+      "content": "おおいいにおいって\n\nいうんだもんと来たのだ\n\nいうんだものと来たのだが\n\n失礼なことを言うかあさんだ\n\nいつでも鼻をつまんでしまうくせに\n\nそしてそのまたはなごえで\n\nおおいいにおいって言うからだ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 296,
+      "content": "常磐線風景",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 297,
+      "content": "ぶらさがっている奴\n\nしがみついている奴\n\n屋根のへんにまでへばりついている奴\n\n奴らはみんなそこにせり合って\n\n色めき光り生きてはいるのだが\n\nどの生き方も\n\nいのちまる出しの\n\n出来合いばかりの\n\n人間なのだ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 298,
+      "content": "汽車は時に\n\n奴らのことを\n\n乗せてはみるが振り落して行った\n\n線路のうえにところがる奴\n\n田圃のなかへとめりこんでしまう奴\n\n時にはまた\n\nまるめられて\n\n利根川の水に波紋となる奴",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 299,
+      "content": "ある医師",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 300,
+      "content": "銀座でいきなり\n\nこえかけられて\n\nお茶のごちそうにあずかり\n\n巻たばこなんぞすすめられたりして\n\nすっかりこちらが恐縮していると\n\nこんどは名刺を\n\n差し出された\n\nなにかのときには是非どうぞと云うのだ\n\nみると名刺には",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 301,
+      "content": "医師とあった\n\nぼくはひそかにかれの\n\n医専時代を知っていた\n\nなんども繰り返し落第していたのだが\n\nもうその心配もなくなったのか\n\n医師はいかにもせいせいと\n\nそこに社会を\n\nまるめるみたいにして\n\n生えたばかりの",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 302,
+      "content": "鼻ひげをつけていた",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 303,
+      "content": "編上靴",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 304,
+      "content": "それらの絵をとんちゃんが\n\n一々指さしてきくと\n\nミミコがそれに答えて言った\n\nこれはときくと\n\nボウシ\n\nそれはときくと\n\nウサギ\n\nこれはときくと\n\nタイコ",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 305,
+      "content": "それはときくと\n\nヒヨコ\n\nこれはときくと\n\nオクツ\n\nそこでとんちゃんがミミコに\n\nよしそれじゃそのお靴\n\nなんという靴なんだいときくと\n\n小首をかしげてつまったが\n\nミジカナガグツと言ってのけた",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 306,
+      "content": "初夢",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 307,
+      "content": "ことしこそはと\n\nぼくのみる夢\n\n柿板葺の家を建てる夢\n\nひとまをこどもと女房の部屋に\n\nひとまはぼくの仕事部屋\n\nふたまもあれば沢山の\n\nぼくの家を建てる夢\n\n生きたり死んだりをそこで\n\n繰り返そうと",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 308,
+      "content": "七坪ほどの\n\n家を建てる夢\n\nことしこそはと\n\nみるのだが\n\n坪一万にみたところで\n\n七万はかかる夢。",
+      "characters": 51,
+      "ruby": []
+    },
+    {
+      "pageNumber": 309,
+      "content": "汽車",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 310,
+      "content": "汽車はその発着に定刻があるのだ\n\n定刻は即ち約束の筈なのだが\n\n発車はたびたび遅れ\n\nその到着もまた\n\n遅れることたびたびなのだ\n\n人々はそのためにそこに蹲まり\n\nあちらに立ちつくしここにはしゃがみ\n\n腕組みをしたり顎をなでたり\n\nあくびをしながら重たくたむろして",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 311,
+      "content": "遅れた約束を待ちつづけた\n\nしかし科学的なこの車でも\n\n非科学的な車なのか\n\n遅れることによってはたびたび\n\n約束を破りはするのだが\n\n遅れることによって\n\n約束を果したためしがないのだ",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 312,
+      "content": "藁の厠",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 313,
+      "content": "青いももみたいな\n\nお尻をまる出しにして\n\nミミコはそこにしゃがんだのだが\n\nふとその踏み板の上にあるのを見て\n\nあわのほがあるよ\n\nへんだなと言った\n\nへんじゃないよ粟の穂だものと言うと\n\nだっていなかのおべんじょ\n\nわらなんだのにと言うのだ",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 314,
+      "content": "なるほどまわりが藁なんだのに\n\n落ちているのは粟の穂なのか\n\nあたりを見廻しているとそのときなのだ\n\nミミコがお尻ごともちあげて\n\nわかったあったと指さして言った\n\nいかにも一本の粟のやろうが\n\n藁のふりしてまぎれていた",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 315,
+      "content": "利根川",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 316,
+      "content": "その流域は\n\nすでに黄ばんでいた\n\n水はだんだん\n\nにごって来た\n\n水はだんだん\n\n盛りあがった\n\n水は鉄橋とすれすれにながれた\n\n人はまるで\n\nわん公がするみたいに",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 317,
+      "content": "土手のうえまでかけのぼり\n\n水の様子を見ていたのだが\n\nかけおりて来て\n\nまたかけのぼった",
+      "characters": 45,
+      "ruby": []
+    },
+    {
+      "pageNumber": 318,
+      "content": "きゃべつ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 319,
+      "content": "売るほどつくっては\n\nいないんだと言いながらも\n\nすぐそこの裏の畑から\n\nひとつふたつはもぎって来るのだ\n\nおいくらでしょうかと財布を取り出すと\n\nかぶりを横に振って\n\n銭など要らないお持ちなさいと言うのだ\n\nでもおいくらなんでしょうかと言うと\n\n知らない人でもないのだから",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 320,
+      "content": "高い銭など気の毒なんで\n\nもらえるもんじゃないやと来るのだ\n\nでもとにかくおいくらなんだか\n\nもらいに来たのではないのだからと言うと\n\n純綿の手拭でも一本\n\nほしいのだがと出たのだ\n\nそれでもきゃべつは黙っていた\n\n売ろうと売れまいと買おうと買えまいと\n\n黙っておればいいのだ",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 321,
+      "content": "蠅",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 322,
+      "content": "ぼくらのことをこの土地では\n\n疎開　疎開で呼び棄てるのだ\n\n炭屋にいるのが\n\nすみや疎開\n\n卵屋にいるのが\n\nたまごや疎開\n\n前の家のがまえの疎開\n\n裏の家のがうらの疎開\n\nぼくの一家もまたうちそろって",
+      "characters": 101,
+      "ruby": []
+    },
+    {
+      "pageNumber": 323,
+      "content": "安田家の背中にすがっているものだから\n\nやすだ疎開と呼び棄てるのだ\n\nいずれはみんなこの土地を\n\n追っぱらわれたり飛び立ったりの\n\n下駄ばき靴ばきの\n\n蠅なのだ\n\nぼくらはこの手を摺り摺りするが\n\n天にむかって\n\n気を揉み合っているのだ",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 324,
+      "content": "闇と※\n\nさつまをもらい\n\nねぎをもらい\n\nたばこのはっぱをなんまいだか\n\nもらったこともたしかなのだが\n\nもらいに行って\n\nもらって来たのではなかったのだ\n\n疎開はまったく気の毒でなあとか言って\n\n百姓が裏口からのぞいては",
+      "characters": 112,
+      "ruby": []
+    },
+    {
+      "pageNumber": 325,
+      "content": "食えと出すのでそれをもらい\n\nのぞいてはまたそれを\n\n吸えと出すのでもらったのだ\n\nこんなことからのおつきあいで\n\n女房と僕のとを合わせて百五拾円\n\nその百姓に貸してあげたのだ\n\n百姓はまもなく借りを返しに来たのだが\n\nお米でとってくれまいかと\n\n一升枡きっかりの",
+      "characters": 132,
+      "ruby": []
+    },
+    {
+      "pageNumber": 326,
+      "content": "闇をそこに置いた\n\n貸したお金は※なのだが",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 327,
+      "content": "ヤマグチイズミ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 328,
+      "content": "きけば答えるその口もとには\n\n迷い子になってもその子がすぐに\n\n戻って来る筈の仕掛がしてあって\n\nおなまえはときけば",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 329,
+      "content": "ヤマグチイズミ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 330,
+      "content": "おかあさんはときけば\n\nヤマグチシズエ\n\nおとうさんはときけば\n\nヤマグチジュウサブロウ\n\nおいくつときけば\n\nヨッツと来るのだ\n\nところがこの仕掛おしゃまなので\n\n時には土間にむかって\n\nオーイシズエと呼びかけ",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 331,
+      "content": "時には机の傍に寄って来て\n\nジュウサブロウヤとぬかすのだ",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 332,
+      "content": "ミミコの独立",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 333,
+      "content": "とうちゃんの下駄なんか\n\nはくんじゃないぞ\n\nぼくはその場を見て言ったが\n\nとうちゃんのなんか\n\nはかないよ\n\nとうちゃんのかんこをかりてって\n\nミミコのかんこ\n\nはくんだ　と言うのだ\n\nこんな理窟をこねてみせながら",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 334,
+      "content": "ミミコは小さなそのあんよで\n\nまな板みたいな下駄をひきずって行った\n\n土間では片隅の\n\nかますの上に\n\n赤い鼻緒の\n\n赤いかんこが\n\nかぼちゃと並んで待っていた",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 335,
+      "content": "ミミコ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 336,
+      "content": "おちんちんを忘れて\n\nうまれて来た子だ\n\nその点だけは母親に似て\n\n二重のまぶたやそのかげの\n\nおおきな目玉が父親なのだ\n\n出来は即ち茨城県と\n\n沖縄県との混血の子なのだ\n\nうるおいあるひとになりますようにと\n\nその名を泉とはしたのだが",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 337,
+      "content": "隣り近所はこの子のことを呼んで\n\nいずみこちゃんだの\n\nいみこちゃんだの\n\nいみこちゃんだのと来てしまって\n\n泉にその名を問えばその泉が\n\nすまし顔して\n\nミミコと答えるのだ",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 338,
+      "content": "縁側のひなた",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 339,
+      "content": "年を問われると小さなその指を\n\nだまって四つそろえたのだが\n\nお口はないのかなと言うと\n\n口をとんがらかして\n\nよっつと言い\n\n膝の上にのっかって来ては\n\nパパのしらがをぬくんだと言うのだ\n\nいつのまにだかこのパパも\n\nしらがと言われる白いものを",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 340,
+      "content": "頭のところどころに植えては来たのだが\n\nミミコがたった四つと来たのでは\n\n四十五歳のパパは大あわて\n\nしらがはすぐに植えつけねばならぬので\n\nひなたぼっこもなにもあるものか\n\nミミコをお嫁にやるそのころまでに\n\n白一色の頭に仕上げておいて\n\nこの腰なども\n\nひん曲げておかねばならぬのだ",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 341,
+      "content": "湯気",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 342,
+      "content": "白いのらしいが\n\nいつのまに\n\nこんなところにまでまぎれ込んで来たのやら\n\n股間をのぞいてふとおもったのだ\n\n洗い終ってもう一度のぞいてみると\n\nひそんでいるのは正に\n\n白いちぢれ毛なんだ\n\nぼくは知らぬふりをして\n\nおもむろにまた",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 343,
+      "content": "湯にひたり\n\n首だけをのこして\n\nめをつむった",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 344,
+      "content": "夢を評す",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 345,
+      "content": "またそのつぎからも\n\n飛んでくる\n\nそのつぎからも\n\n飛んでくる\n\nむかしの奥の方から\n\nつぎつぎに飛び立って\n\nつばさをひろげて\n\n飛んでくる\n\n美の絶項を頭上に高く極めながら",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 346,
+      "content": "つばさをひろげて\n\n飛んでくる\n\n飛んでくるのであるが\n\n飛んでくるまでが夢なのか\n\n飛んできては爆弾\n\n飛んで来てはまた爆弾\n\nいつもそこでとぎれるのだ",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 347,
+      "content": "立札",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 348,
+      "content": "かれらはみんな\n\nひそんでいたのだ\n\n蟻だの蠅だの毛虫だの\n\n蜘蛛だの蛇だの蛙だのとそれぞれが任意の場所に身を構えて\n\nいっせいに季節を呼び合っているのだ\n\n義兄がそろそろまたはじまった\n\n鉢巻をして手製の銛を提げて\n\nうえの畑へと出かけるようになった\n\n今年はまだ一匹も",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 349,
+      "content": "銛ににやられた奴を見ないが\n\n土龍のやろうはすでにうえの畑を荒しているというのだ\n\nいよいよここらで世の中も\n\n暑くなるばかりになったのか\n\nかれらはみんな\n\nひそんでいたのだが\n\n緑を慕ってさかんにいろんな姿を地上に現わして来たのだ\n\n隣りの村ではもうその部落の入口に\n\n夏むきなのを一本",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 350,
+      "content": "おっ立てた\n\n村内の協議に依りとあって\n\n物貰いと\n\n押売りなどの立入りを\n\nお断り致しますとあるのだ",
+      "characters": 51,
+      "ruby": []
+    },
+    {
+      "pageNumber": 351,
+      "content": "在",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 352,
+      "content": "土地のものには馬鹿ていねいに\n\n藁の上草履を出してすすめるのだが\n\n疎開のものには知らぬ顔なのか\n\nこんなふうにしてぼくなんぞ\n\nどこに来ても粗末にされてしまうのだと\n\n床屋のおやじのすることを見て\n\nぼくは正に誤解していたのだ\n\nおやじはいかにも\n\nうまいことを考えたもので",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 353,
+      "content": "馬鹿ていねいには見えてもそれが\n\n板の間を汚されないための上草履であって\n\n土地のものらがみんな\n\n野良からそのままの\n\n泥んこの足で来るからなのだ",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 354,
+      "content": "東の家",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 355,
+      "content": "時計を買っては\n\n時計を買ったと\n\nラジオを買っては\n\nラジオを買ったと\n\n長屋を建てては\n\n長屋を建てたと\n\nたのみもしないのにそんなことばかりを\n\nいちいち報告に来るのだが\n\nお米で買ったお米で建てたと",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 356,
+      "content": "つまりはそれが自慢なのだ\n\n東の家ではその日もまた\n\nお米で仕入れて来たものなのか\n\n島田に結ったひとり娘が\n\n牛馬にゆられながら\n\n花婿さんを仕入れて来た",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 357,
+      "content": "疎開者",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 358,
+      "content": "往きも帰りもそれが顔にひっかかり\n\n村の途は蜘蛛の巣がうるさいのだ\n\nそこで義兄が裏の竹藪から\n\n若いのを一本切り出して来た\n\n竹はまもなくすてっきに変った\n\nぼくは竹のすてっきを振り廻しては\n\n蜘蛛の巣をはらいのけ\n\n振り廻してははらいのけて\n\n未明の途を町の駅へと急ぐのだが",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 359,
+      "content": "日暮れてはまたすてっきを\n\n振り廻し振り廻し村に帰って来るのだ\n\nある日ぼくは東京の勤務先に\n\nすてっきをおき忘れて帰って来た\n\n女房から言われてふりむいて見ると\n\n脱ぎ棄てたばかりの鉄兜に\n\n煤色の蜘蛛がしがみついているのだ",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 360,
+      "content": "弁当",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 361,
+      "content": "改札口の行列のなかにしゃがんでいて\n\n弁当ひらいている眼の前に\n\n青んぶくれの顔が立ち止まった\n\nごはんの粒々にくるまった\n\n一本の薩摩芋を彼にあたえて\n\n食べかけているところへまた立ち止まった\n\n戦災孤児か欠食児童なのか\n\n霜降りの服のがふたりなのだ\n\n一本づつあたえるとひったくるようにして埃のなかへ消え失せた",
+      "characters": 157,
+      "ruby": []
+    },
+    {
+      "pageNumber": 362,
+      "content": "食べかけるとまた止まった\n\n青んぶくれの先程のだが\n\n見合わせたはずみに目礼を落してそのまま彼はそれてしまった\n\nそこで僕はいそいで\n\n残りのものを食べおわった\n\n思えばたがいに素直すぎて\n\nみすぼらしくなったのか\n\n敗戦国の弁当そのものが\n\nありのままでも食い足りないのだが",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 363,
+      "content": "竹林とその点景",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 364,
+      "content": "竹林をひと廻り廻って見て\n\n買い手の男はこう言った\n\n一把が二十両\n\n百把とみつもって二千両だと\n\nそこで話はすぐにきまった\n\n老婆はその手に初めての重いお金を受取った\n\n八十二さいになったという\n\n老婆の顔色をひと廻り\n\nあととりむすこが見て言った",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 365,
+      "content": "うっかり死ねない世の中なんだぞ\n\n棺桶ひとつが千両もするんだと言った\n\nそこで話はすぐにまとまって\n\nお金は葬式代に化けるため\n\n老婆の手からあととりむすこの手に落ちた\n\n竹林はたちまち\n\nまばらになって\n\n筑波山が見えると老婆がつぶやいた",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 366,
+      "content": "土地〈１〉",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 367,
+      "content": "利根川を渡って\n\n私鉄にのりかえると\n\nいきなり車内が\n\nこの土地らしくなるのだ\n\nやろう　ばかやろ\n\nこのやろだのと\n\nそんな言葉がやたらに耳にはいって来て\n\nこの土地らしくなってくるのか\n\n困ったところに",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 368,
+      "content": "疎開したものだと\n\nこの土地生れの女房に話しかけると\n\n女房はいささかあわてたのだが\n\nこのばかやろがと\n\n言いそこなったみたいに\n\n沖縄生れの\n\nくせにと来たのだ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 369,
+      "content": "土地〈２〉",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 370,
+      "content": "東に柿の木　西には樫の木\n\n南は栗の木まじりの松林\n\n北から東へかけて竹林\n\n竹林を背にしてそこに\n\n古ぼけたトタンの屋根をかむって\n\n首をかしげてたたずんでいる家\n\nここがぼくらの疎開先で\n\n女房の里の家なのだ\n\n奥のくらがりにいた老婆が",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 371,
+      "content": "腰をあげて縁側に出て来たのだが\n\nよく来たなあと歯のない口を開けた\n\n女房の妹によく似た顔だ\n\n老婆は両手をさしのべながら\n\n女房の背中の赤ん坊に言った\n\nどれどれこのやろ\n\n来たのかこのやろと言った",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 372,
+      "content": "土地〈３〉",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 373,
+      "content": "住めば住むほど身のまわりが\n\nいろんなヤロウに化けて来るのだ\n\n疎開当時の赤ん坊も\n\nいつのまにやらすっかり\n\nミミコヤロウになってしまって\n\nつぎはぎだらけのもんぺに\n\n赤い鼻緒の赤いかんこで\n\nいまではこの土地を踏みこなし\n\n鼠を見ると",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 374,
+      "content": "ネズミヤロウ\n\n猫を見ると\n\nネコヤロウ\n\n時にはコノヤロバカヤロなどと\n\nおやじのぼくにぬかしたりするのだ\n\n化けないうちにこの土地を\n\n引揚げたいとはおもいながらだ",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 375,
+      "content": "作者",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 376,
+      "content": "ほめてみたり\n\nけなしてみたりの\n\n世間の批評を蒙むるたびごとに\n\nおまえは秤をたのしんだ\n\nあちらの批評と\n\nこちらの作品と",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 377,
+      "content": "鼻の一幕",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 378,
+      "content": "かつておまえは見て言った\n\nもしも自分があんなふうに\n\n鼻がかけてしまったら\n\n生きてはいまいとおまえは言った\n\n生きてはいまいとおまえは言ったが\n\n自分の鼻が落ちたとみると\n\nなんとおまえはこう言った\n\n命があれば仕合わせだと言った\n\n命があれば仕合わせだと",
+      "characters": 130,
+      "ruby": []
+    },
+    {
+      "pageNumber": 379,
+      "content": "おまえは言ったがそれにしても\n\n物のにおいがわかるのか\n\n鼻あるものらがするみたいに\n\nこの世を嗅いだり首をかしげたりするのだが\n\nどうやらおまえの出る番だ\n\nいかにも風とまぎらわしげに\n\nおまへは顔に仮面をして\n\n生きながらえた命を抱きすくめながら\n\n鼻ある人みたいに登場したのだが",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 380,
+      "content": "もののはずみかついその仮面を外して\n\nきつねの色だか\n\nたぬきの色か\n\n鼻の廃墟もあらわな姿をして\n\n敗戦国のにおいを嗅いだ",
+      "characters": 62,
+      "ruby": []
+    },
+    {
+      "pageNumber": 381,
+      "content": "ねずみ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 382,
+      "content": "生死の生をほっぽり出して\n\nねずみが一匹浮彫みたいに\n\n往来のまんなかにもりあがっていた\n\nまもなくねずみはひらたくなった\n\nいろんな\n\n車輪が\n\nすべって来ては\n\nあいろんみたいにねずみをのした\n\nねずみはだんだんひらたくなった",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 383,
+      "content": "ひらたくなるにしたがって\n\nねずみは\n\nねずみ一匹の\n\nねずみでもなければ一匹でもなくなって\n\nその死の影すら消え果てた\n\nある日　往来に出て見ると\n\nひらたい物が一枚\n\n陽にたたかれて反っていた",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 384,
+      "content": "兄貴の手紙",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 385,
+      "content": "大きな詩を書け\n\n大きな詩を\n\n身辺雑記には飽き飽きしたと来た\n\n僕はこのんで小さな詩や\n\n身辺雑記の詩などを\n\n書いているのではないけれど\n\n僕の詩よ\n\nきこえるか\n\nるんぺんあがりのかなしい詩よ",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 386,
+      "content": "自分の着る洋服の一着も買えないで\n\n月俸六拾五円也のみみっちい詩よ\n\n弁天町あぱあとの四畳半にくすぶっていて\n\n物音に舞いあがっては\n\nまごついたりして\n\n埃みたいに生きている詩よ\n\n兄貴の手紙の言うことがきこえるか\n\n大きな詩になれ\n\n大きな詩に",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 387,
+      "content": "應召",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 388,
+      "content": "こんな夜更けに\n\n誰が来て\n\nのっくするのかと思ったが\n\nこれはいかにも\n\nこの世の姿\n\nすっかりかあきい色になりすまして\n\nすぐに立たねばならぬという\n\nすぐに立たねばならぬという\n\nこの世の姿の",
+      "characters": 99,
+      "ruby": []
+    },
+    {
+      "pageNumber": 389,
+      "content": "かあきい色である\n\nおもえばそれはあたふたと\n\nいつもの衣を脱ぎ棄てたか\n\nあの世みたいににおっていた\n\nお寺の人とは\n\n見えないよ",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 390,
+      "content": "チェロ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 391,
+      "content": "むかしに戻って会いに来たように渕上君の手紙が舞い込んで来た。十年前に僕のきいたところでは、未来のチェロ彈きだった彼なのだが、詩集の序文を書けと来た。序文の素人は面喰ったが、くされ縁だから書けという。\n\n十年前の\n\n未来のチェロ彈きよ\n\nチェロは彈かずに\n\nうたったか\n\nきけばずいぶん\n\nずいぶんながいこと\n\nチェロを忘れて仰臥《ね》ているとか\n\nチェロの脊中もまたつらかろう",
+      "characters": 188,
+      "ruby": []
+    },
+    {
+      "pageNumber": 392,
+      "content": "十年前の\n\nあのチェロ彈きよ\n\nチェロは鳴らずに\n\n詩が鳴った",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 393,
+      "content": "曲り角",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 394,
+      "content": "産めよ\n\n殖やせよの時勢にふさわしく\n\n国策に副うたと女房は言う\n\nたべものなどにしてみても\n\n好きなわさびを当分はたべないと言い\n\n小魚なんぞは骨ごとたべてしまう\n\n女房の言うこと\n\n為すことには\n\n私的な味がなくなって",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 395,
+      "content": "おなかばかりが目立ってきた\n\nあるとき\n\n僕はながめていた\n\n桜の木のある曲り角から\n\nおおきなおなかが現われた\n\nむろんそれは一目みて\n\n産めよ殖やせよの見事な国策とわかつたが\n\n女房の姿とわかったのは\n\nしばらく経ってからのことみたいで",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 396,
+      "content": "おなかに遅れてかなしそうに\n\n息を喘いで現われて来た\n\nその眼\n\nその鼻\n\n見てわかった",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 397,
+      "content": "天から降りて来た言葉",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 398,
+      "content": "しゃべる僕のこのしゃべり方が\n\nぼくの詩にそっくりだという\n\nそこで僕が\n\nまたしゃべる\n\nなにしろ僕も詩人なので\n\nしゃべるばかりがぼくの詩に似ているのではないのである\n\nごはんの食べ方\n\nわらい方\n\nものをかんがえる考え方",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 399,
+      "content": "こいの仕方\n\nうんこの仕方まで\n\nどれもまるでぼくの詩なのである\n\nそこでぼくの\n\n詩がおもう\n\nいつまた天にのぼるのかこんな地べたに降りて来た\n\n文語体らにしてみても\n\nかれらが詩になるまでにはどうしても\n\nひとりぐらいの詩人は要る筈だ",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 400,
+      "content": "いよいよはげしく立ち騒いでくる文明どもの音に入り混って\n\nなりにけりとか\n\nたりとかと\n\n日常語にまでその文語体らを\n\n生活できる詩人をひとりだ",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 401,
+      "content": "生きる先々",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 402,
+      "content": "僕には是非とも詩が要るのだ\n\nかなしくなっても詩が要るし\n\nさびしいときなど詩がないと\n\nよけいにさびしくなるばかりだ\n\n僕はいつでも詩が要るのだ\n\nひもじいときにも詩を書いたし\n\n結婚したかったあのときにも\n\n結婚したいという詩があった\n\n結婚してからもいくつかの結婚に関する詩が出来た",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 403,
+      "content": "おもえばこれも詩人の生活だ\n\nぼくの生きる先々には\n\n詩の要るようなことばっかりで\n\n女房までがそこにいて\n\nすっかり詩の味おぼえたのか\n\nこのごろは酸っぱいものなどをこのんでたべたりして\n\n僕にひとつの詩をねだるのだ\n\n子供が出来たらまたひとつ\n\n子供の出来た詩をひとつ",
+      "characters": 136,
+      "ruby": []
+    },
+    {
+      "pageNumber": 404,
+      "content": "血",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 405,
+      "content": "斉藤さんは発音した\n\nだんだんだんということを\n\nたんたんだんだんと発音した\n\nそれは矢張りのやはりのことを\n\nそれはやぱりと発音した\n\n学校のことを\n\nかっこう\n\n下駄のことを\n\nけたと発音した",
+      "characters": 98,
+      "ruby": []
+    },
+    {
+      "pageNumber": 406,
+      "content": "こんな調子で斉藤さんはまずその\n\nごじぶんの名前の斉藤を\n\nさいどうですと発音した\n\n争えないのは血なのであるが\n\nかなしいまでに生々と\n\n大陸\n\n大海\n\n大空はむろん\n\nたったひとりの人間の舌の端っこでも",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 407,
+      "content": "血らは既に血を争っていた\n\n斉藤さんは誰に訊かれても決して\n\nごじぶんの生れた国を言わなかった\n\n言うには言うが\n\n眉間のあたりに皺などよせて\n\n九州です　と発音した",
+      "characters": 83,
+      "ruby": []
+    }
+  ]
+}

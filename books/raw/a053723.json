@@ -1,0 +1,48 @@
+{
+  "id": "a053723",
+  "title": "真昼",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "真昼",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 95,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "真昼",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "○\n\nELEVATER FOR AMERICA.\n\n　　　　　　○\n\n三羽の鶏は蛇紋石の階段である。ルンペンと毛布。\n\n　　　　　　○\n\nビルデイングの吐き出す新聞配達夫の群。都市計画の暗示。\n\n　　　　　　○\n\n二度目の正午サイレン。\n\n　　　　　　○",
+      "characters": 127,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "シヤボンの泡沫に洗はれてゐる鶏。蟻の巣に集つてコンクリヒトを食べてゐる。\n\n　　　　　　○\n\n男を※※《ハコ》ぶ石頭《イシ》。\n\n男は石頭を屠獣人を嫌ふ様に嫌ふ。\n\n　　　　　　○\n\n三毛猫の様な格好で太陽群の隙間を歩く詩人。\n\nコケコツコホ。\n\n　途端　磁器の様な太陽が更《マタ》一つ昇つた。\n\n　　　　　　○",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

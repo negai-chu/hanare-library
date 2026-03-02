@@ -1,0 +1,54 @@
+{
+  "id": "a007919",
+  "title": "夜",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夜",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夜",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "青銅の扉に秘密を閉して\n\nもだせる夜の厳さよ！\n\n万物はかたずのみて\n\n闇に立ち迷う奇蹟をながめ\n\n故知らぬ暗示に胸をとどろかす\n\n偉なるかな！\n\n奇なるかな！\n\n生あるものは総てかく低唱しつつ\n\n厚き帳のかなた身じろぐ夜の精を見んと",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "行手すかしつつさぐり見るなり\n\n無限の闇の広き宙には\n\n乾坤の敗者の歎きと\n\n勝者の鬨の声と\n\n石棺の底より\n\n過去を叫ぶ亡霊のうごめき\n\n奇しき形に\n\n其の音波を伝えつつ\n\n闇に生れ闇に消え行く――",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "そが中を神秘は\n\nささやかなる各々の細胞となりて\n\nうす青く輝きつつ飛び違う――",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

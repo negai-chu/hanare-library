@@ -1,0 +1,42 @@
+{
+  "id": "a052130",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 94,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　其後ハ御物遠奉レ存候。\n\n作《（ママ）》日頃より御風気ニ御引籠のよし御大事可レ被レ成、奉レ存候。\n\n然ニ拙儀御国の無二余儀一方ニ文通し申度、独兄ならでハ不レ叶事拝顔仕度奉レ存候。\n\n彼海軍士官被二仰付一候者も、大坂表ニて被二仰付一候時ハ拙者、急下坂仕らねバ彼者とよる所を不レ知と申事ニ相成申候。\n\n早御聞合可レ被レ下候。頓首。\n　廿二日直陰\n池蔵《（ママ）》太様濤次郎",
+      "characters": 185,
+      "ruby": []
+    }
+  ]
+}

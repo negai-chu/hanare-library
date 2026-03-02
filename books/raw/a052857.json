@@ -1,0 +1,42 @@
+{
+  "id": "a052857",
+  "title": "附記（夜見の巻）",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "附記（夜見の巻）",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 125,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "附記（夜見の巻）",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "本篇は昭和八年十一月ごろの作であり、作者にとつては寧ろ近作の部に属するものであるが、既にしてこの作を前後とする四・五年間の一連の作品は作者にとつての小時代を劃して歴然たる過去の夢である。当時わたしは、空想を現実らしく描くといふ創作上の第一義に拘泥するいとまを無視せずには居られなかつた。もと／＼無から咲かせた花を、何の為に在り得べき種目の花と擬さねばならぬかと疑つてゐた。これも御覧の如く去来の夢をそのまゝ単に色彩つた架空の産であつた。さあれ、架空は架空として厳たる事実に相違なかつた。",
+      "characters": 243,
+      "ruby": []
+    }
+  ]
+}

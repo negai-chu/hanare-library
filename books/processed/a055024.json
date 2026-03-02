@@ -1,0 +1,42 @@
+{
+  "id": "a055024",
+  "title": "郷愁",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "郷愁",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "郷愁",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　友よ　肩をならべて街へゆかう\n質屋をだして外套は僕らの肩によいおもさ\n友よ　腕をくめ\n街は霧だ\n燈火の美しくなる十二月\n何だらう　僕らを呼んでゐるものは？\n友よ　新しい気流が渡つてるにすぎぬのだよ　街のうへを\n何だらう　僕らの顔に匂つてくるものは？\n気弱い友よ\nナフタリンの玉がころがつてるにすぎぬのだよ　かくしの底に\n霧は僕らの肩におりるやうす\n友よ　友よ　話してゆかう\n声だかに燈火のあひだ霧のしたを。",
+      "characters": 204,
+      "ruby": []
+    }
+  ]
+}

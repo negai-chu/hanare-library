@@ -1,0 +1,48 @@
+{
+  "id": "a045032",
+  "title": "葭切鳥",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "葭切鳥",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "葭切鳥",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "よしきり\n\nこきり\n\n葭《よし》がゆれても\n\nとびだすな\n\nなんでもないぞ\n\n河風だ\n\nよしきり\n\nこきり\n\n葭の笛をふいてみせ",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "葭の笛ができたらば\n\nおらにも\n\n一つくれないか",
+      "characters": 24,
+      "ruby": []
+    }
+  ]
+}

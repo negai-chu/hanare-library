@@ -1,0 +1,42 @@
+{
+  "id": "a003942",
+  "title": "オリンピック開催の是非",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "オリンピック開催の是非",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "オリンピック開催の是非",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "日本へオリンピックを招致しようとしたときの雰囲気を思いおこします。日本へよばなければ意地でも承知せぬという気分が示されていたことがきつく印象されています。何の意地によってそのやめられるのでしょうか。はじめにも終りにもある無理の感が与えられるのを遺憾と思います。\n\n〔一九三七年十一月〕",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

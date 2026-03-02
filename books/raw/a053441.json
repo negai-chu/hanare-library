@@ -1,0 +1,42 @@
+{
+  "id": "a053441",
+  "title": "〔モザイク成り〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔モザイク成り〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔モザイク成り〕",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "モザイク成り、\n\n佳人は窓より見るを\n\n何ぞ七面鳥の二所をけちらし窪めしや、\n\n何の花を移してこゝを埋めん\n\n然りたゞ七面鳥なんぢそこに座して動かざれ\n\n然り七面鳥動くも又可なり\n\nなんぢ事務長のひいきする\n\n花",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

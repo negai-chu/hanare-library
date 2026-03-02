@@ -1,0 +1,48 @@
+{
+  "id": "a055591",
+  "title": "波濤よ",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "波濤よ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "波濤よ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おお　はるけき方より寄せ来る波濤よ\n\n汝が最大の実力と自信を持って\n\n岩礁を打て、万丈のしぶきを上げよ\n\nその時、海神は大空に懸る天日をおおいて。\n\n凄惨なる自然の風景を\n\n汝がその雄々しき門出の餞《はなむけ》に送るであろう\n\nああ、かかる時、\n\n汝の使命は\n\n世のその努力の頂点《クライマックス》に到達すべきである",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "されど汝は\n\nかの海洋はるかに煙を吐きつつ走る\n\nすべの船を\n\n船に乗れる同胞を、愛人を\n\n使者を\n\nどよもす波濤の底へ没し去らんか、\n\nおお汝波濤よ　若しさらば汝等の哀しみ　歎くを如何にせん。",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

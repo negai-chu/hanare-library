@@ -1,0 +1,48 @@
+{
+  "id": "a053637",
+  "title": "春日詠嘆調",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春日詠嘆調",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春日詠嘆調",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ああいかなればこそ、\n\nきのふにかはるわが身の上とはなりもはてしぞ、\n\nけふしもさくら芽をつのぐみ、\n\n利根川のながれぼうぼうたれども、\n\nあすは逢はれず、\n\nあすのあすとてもいかであはれむ、\n\nあなあはれむかしの春の、\n\nみちゆきの夢もありやなし、\n\nおとろへすぎし白雀の、",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "わがゆびさきにきてしみじみとついばむものを。",
+      "characters": 22,
+      "ruby": []
+    }
+  ]
+}

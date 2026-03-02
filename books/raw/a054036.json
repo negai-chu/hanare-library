@@ -1,0 +1,54 @@
+{
+  "id": "a054036",
+  "title": "ある日",
+  "author": "陀田勘助",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ある日",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 91,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ある日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "砂糖のような安逸が\n\nおれの感覚をにぶらしている\n\n鍋底で倦怠だ！　憂鬱だ！　と小声でつぶやいている\n\n若い熱情が下駄の歯のようにすりへりそうだ\n\n残火が火消壺で喘いでいる\n\n短気な意志が放心した心臓をつかんでいる\n\nそいつは滓《かす》だ\n\nおれの食慾がめしを喰ってる\n\nおれの性慾が女を恋しようとしている",
+      "characters": 153,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "オブロモフ！　オブロモフ！　オブロモフ！\n\n倦怠をつぶやきながらも安逸は砂糖のように甘い\n\n憂鬱の霧を逃れようともしないでおれはうずくまっている\n\nだがそこを突きぬけようとする意志！\n\n沈頽した牢獄に投げられた\n\nやり場のない憤怒！\n\n内抗する病菌だ！\n\n月蝕だ！\n\n月蝕だ！",
+      "characters": 138,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "熱情がむしばまれようとしている\n\n月蝕が煙突の上にはいのぼる\n\n（『鎖』一九二三年六月創刊号に発表　一九六三年八月国文社刊『陀田勘助詩集』を底本）",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

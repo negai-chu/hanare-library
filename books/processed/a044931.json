@@ -1,0 +1,54 @@
+{
+  "id": "a044931",
+  "title": "一人　二人",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "一人　二人",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "一人　二人",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一人、二人、\n\nようふくさん　が　はいる\n\nようふく　きてるから\n\nようふくさん。\n\n三人、四人、\n\nおくつさん　が　はいる\n\nおくつ　はいてるから\n\nおくつさん。\n\n五人、六人、",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ぼうしさん　が　はいる\n\nぼうし　かぶつてるから\n\nぼうしさん。\n\n七人、八人、\n\nおかつぱさん　が　はいる\n\nおかつぱ　に　してるから\n\nおかつぱさん。\n\n九人、十人、\n\nじてんしやさん　が　はいる",
+      "characters": 100,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "じてんしや　に\n\nのつてるから\n\nじてんしやさん。\n\n子供に数をかぞへさせる練習のために。",
+      "characters": 45,
+      "ruby": []
+    }
+  ]
+}

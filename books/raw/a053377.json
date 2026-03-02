@@ -1,0 +1,42 @@
+{
+  "id": "a053377",
+  "title": "〔昤々としてひかれるは〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔昤々としてひかれるは〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔昤々としてひかれるは〕",
+      "characters": 12,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "々としてひかれるは\n\n硫黄ヶ岳の尾根の雪\n\n雲灰白に亙せるは\n\n鳥ヶ森また駒頭山\n\n焼き枕木を負ひ行きて\n\n水路に橋をなさんとや\n\n雪の荒野のたゞなかを\n\n小刻みに行く人のあり",
+      "characters": 88,
+      "ruby": []
+    }
+  ]
+}

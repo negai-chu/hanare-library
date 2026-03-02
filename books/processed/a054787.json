@@ -1,0 +1,48 @@
+{
+  "id": "a054787",
+  "title": "三ツ星さん",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "三ツ星さん",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "三ツ星さん",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　私のすきな三ツ星さん\n\n私はいつも元気です\n\nいつでも私を見て下さい\n\n私は諸君に見られても\n\nはずかしくない生活を\n\n力一ぱいやりまする\n\n私のすきなカシオペヤ\n\n私は諸君が大すきだ\n\nいつでも三人きっちりと",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ならんですゝむ星さんよ\n\n生きることはたのしいね\n\nほんとに私は生きている",
+      "characters": 37,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a051329",
+  "title": "干物",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "干物",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "干物",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　秋の日は、干物の匂ひがするよ\n\n外苑の鋪道しろじろ、うちつづき、\n\n千駄ヶ谷　森の梢のちろちろと\n\n空を透かせて、われわれを\n\n視守る　如し。\n\n秋の日は、干物の匂ひがするよ\n\n干物の、匂ひを嗅いで、うとうとと\n\n秋蝉の鳴く声聞いて、われ睡《ねむ》る\n\n人の世の、もの事すべて患《わづ》らはし",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "匂を嗅いで睡ります、ひとびとよ、\n\n秋の日は、干物の匂ひがするよ",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

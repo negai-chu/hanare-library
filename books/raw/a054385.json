@@ -1,0 +1,42 @@
+{
+  "id": "a054385",
+  "title": "樹樹",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "樹樹",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "樹樹",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "つつましい文字のやうにその指を組み\n\nいま　じぶんの脚で立つてゐた\n\n空にとどいた梢に\n\n天使のやうな雲がふとつつかかる\n\nと\n\n花の咲かない樹樹は\n\nそのほそい指のあひだから\n\nおびただしいいのちを零した\n\n38.11.20",
+      "characters": 113,
+      "ruby": []
+    }
+  ]
+}

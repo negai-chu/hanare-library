@@ -1,0 +1,48 @@
+{
+  "id": "a053393",
+  "title": "〔われらひとしく丘に立ち〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔われらひとしく丘に立ち〕",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔われらひとしく丘に立ち〕",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　われらひとしく丘に立ち\n\n青ぐろくしてぶちうてる\n\nあやしきもののひろがりを\n\n東はてなくのぞみけり\n\nそは巨いなる塩の水\n\n海とはおのもさとれども\n\n伝へてきゝしそのものと\n\nあまりにたがふこゝちして\n\nたゞうつゝなるうすれ日に",
+      "characters": 116,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "そのわだつみの潮騒の\n\nうろこの国の波がしら\n\nきほひ寄するをのぞみゐたりき",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

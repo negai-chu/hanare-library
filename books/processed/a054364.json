@@ -1,0 +1,76 @@
+{
+  "id": "a054364",
+  "title": "習作",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "習作",
+        "startPage": 1,
+        "endPage": 5,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "１",
+            "startPage": 2,
+            "endPage": 3
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "２",
+            "startPage": 4,
+            "endPage": 5
+          }
+        ]
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 26,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "習作",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　テラアスにちかい海の日は\n\nアメシストの鏡から水もながれる\n\nだから　頬をみがけぼくのアリサ\n\n葉ざくらのかげでお前は青い花だ",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "２",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "ハアプがながれてゐる月夜\n\n葡萄の木蔭はフオルマリンの匂ひがいつぱい\n\n歌のやうにぬれたこころを\n\nこほろぎがくすぐりはじめる",
+      "characters": 63,
+      "ruby": []
+    }
+  ]
+}

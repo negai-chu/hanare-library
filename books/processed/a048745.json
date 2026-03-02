@@ -1,0 +1,42 @@
+{
+  "id": "a048745",
+  "title": "本能",
+  "author": "田山花袋",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "本能",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 67,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "本能",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　本能は人間の如何ともすべからざるものである。人は本能の衝動に逢へば、必ずずる／＼と引摺られて行つて了ふ。本能と戰ふは痛快な事業ではあるが、しかも愚かなる行爲たるを免れない。本能に同化した處に平和があり、樂天生活がある。本能に反抗した處に、皮肉があり、悲壯がある。",
+      "characters": 132,
+      "ruby": []
+    }
+  ]
+}

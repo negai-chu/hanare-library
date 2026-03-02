@@ -1,0 +1,48 @@
+{
+  "id": "a054784",
+  "title": "しかられて",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "しかられて",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "しかられて",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　外へは出たが\n\n我家から\n\n夕餉の烟と\n\n灯火《ともしび》の\n\n黄色い光に\n\n混ぜられた\n\nたのしい飯《めし》の音がする\n\n強情はってわるかった\n\nおなかがすいた",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "風も吹く\n\n三日月さんも\n\n出て来たよ\n\nあやまりに\n\n行くのも\n\nはずかしい\n\nさらさら木の葉の\n\n音がした",
+      "characters": 55,
+      "ruby": []
+    }
+  ]
+}

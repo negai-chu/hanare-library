@@ -1,0 +1,48 @@
+{
+  "id": "a054417",
+  "title": "十二月の島だより",
+  "author": "泉芳朗",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "十二月の島だより",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "十二月の島だより",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "十二月ですね\n\nもうすっかり冬になったやうな\n\n而もまだ秋らしいやうな\n\nどちらかと言へば煮切らないお天気です\n\nけれども矢張り島の生活《くらし》はいいですよ\n\n昨日も鶯の声がピヨロピヨロやりましてね\n\nはにかみやで　なきむしの僕には\n\nぴったりふさわしい時季です\n\n机にだまりこくって",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "「迷想」をかみしめるにとてもいい時です\n\n今日は小雨が哀しく飛んでゐます\n\nかぼちゃ畑が黄色にうるんで\n\nすみっこのやぶかげからは\n\n何やら小鳥のおしゃべりが聞えます\n\nこんな日には\n\n矢張りおしゃべりもなつかしいですね",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a003934",
+  "title": "見ない写真へ",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "見ない写真へ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 99,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "見ない写真へ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　どんな写真がとれただろうかしら。まだ見ていない。それなのに、その写真に添える文章を書くというのは何だか変である。\n\n　きっと濡縁がうつっていることだろう。濡縁のある庭というと特別な趣でもありそうだが、ここに繁茂しているのは八ツ手と青木である。窪川鶴次郎さんが、うまく樹を植え込んで上げるよと自信ありげに約束してくれたが、実現しないうちに梅雨も上ってしまいそうだ。\n\n〔一九三七年八月〕",
+      "characters": 193,
+      "ruby": []
+    }
+  ]
+}

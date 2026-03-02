@@ -1,0 +1,48 @@
+{
+  "id": "a053609",
+  "title": "情慾",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "情慾",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "情慾",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "手に釘うて、\n\n足に釘うて、\n\n十字にはりつけ、\n\n邪淫のいましめ、\n\n齒がみをなして我こたふ。\n\n空もいんいん、\n\n地もいんいん、\n\n肢體に青き血ながれ、\n\nするどくしたたり、",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "電光したたり、\n\n身肉ちぎれやぶれむとす、\n\nいま裸形を恥ぢず、\n\n十字架のうへ、\n\n齒がみをなしてわれいのる。",
+      "characters": 56,
+      "ruby": []
+    }
+  ]
+}

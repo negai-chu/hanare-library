@@ -1,0 +1,42 @@
+{
+  "id": "a052817",
+  "title": "私の崇拝する偉人",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の崇拝する偉人",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の崇拝する偉人",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、崇拝する偉人　一、現存の人の裡世界第一の偉人と思惟する人　一、右理由\n\n一、プラトー、シェイキスピア、ゲーテ\n\n一、アインシュタイン",
+      "characters": 69,
+      "ruby": []
+    }
+  ]
+}

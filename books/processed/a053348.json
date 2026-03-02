@@ -1,0 +1,54 @@
+{
+  "id": "a053348",
+  "title": "八戸",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "八戸",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 73,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "八戸",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　さやかなる夏の衣して\n\nひとびとは汽車を待てども\n\n疾みはてしわれはさびしく\n\n琥珀もて客を待つめり\n\nこの駅はきりぎしにして\n\n玻璃の窓海景を盛り\n\n幾条の遙けき青や\n\n岬にはあがる白波\n\n南なるかの野の町に",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "歌ひめとなるならはしの\n\nかゞやける唇や頬\n\nわれとても昨日はありにき\n\nかのひとになべてを捧げ\n\nかゞやかに四年を経しに\n\nわが胸はにはかに重く\n\n病葉と髪は散りにき\n\nモートルの爆音高く\n\n窓過ぐる黒き船あり",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ひらめきて鴎はとび交ひ\n\n岩波はまたしもあがる\n\nそのかみもうなゐなりし日\n\nこゝにして琥珀うりしを\n\nあゝいまはうなゐとなりて\n\nかのひとに行かんすべなし",
+      "characters": 78,
+      "ruby": []
+    }
+  ]
+}

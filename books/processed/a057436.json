@@ -1,0 +1,54 @@
+{
+  "id": "a057436",
+  "title": "水の上",
+  "author": "安西冬衛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "水の上",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 77,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "水の上",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　中央公会堂の赤煉瓦\n\n緑青《ろくしよう》色の高裁のドーム\n\n中洲の葉柳をかすめて\n\nとび去る水中翼船の渦巻から\n\nムツとするような水苔の匂い。\n\nついさつきまで\n\nランチ・タイムを愉《たの》しんでいた\n\nＢＧやホワイト・カラー達も\n\nみんな今は引き揚げていつてしまい",
+      "characters": 134,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あとには\n\n濡れ手で銭勘定の\n\n貸ボート屋ののどかな浮世哲学。\n\n上げ潮にむつかしい家裏《やうら》をみせた川魚料理の\n\n昼もほのぐらい煤天井《すすてんじよう》に\n\nうららかな水かげろうの文《あや》\n\n軒場に張り出した\n\n巣箱のようなエア・コンの上に\n\nかえりそびれた",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "新聞社の伝書鳩が\n\nちよこなんと一つ\n\nそろそろ夕刊の\n\n降版の時間だというのに。",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a045946",
+  "title": "小説集「白い朝」後記",
+  "author": "豊島与志雄",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小説集「白い朝」後記",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 115,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小説集「白い朝」後記",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　茲に収められてるものは、都会の知識階級のおかしな物語である。これらの物語はみな、小悪魔の角度から眺められた。小悪魔は虚構の人物であるが、この場合、必要な創作技法であり、モラール探求の特殊な触手であった。だが、この類の物語を更に蒐集することに、小悪魔は退屈しないだろうけれど、作者は恐らく倦きるだろう。それ故作者はすぐに、少年正夫にとびついていった。正夫は結論であり、また新たな出発点である。前途はおのずから開けてくるであろう。――作者記す。",
+      "characters": 221,
+      "ruby": []
+    }
+  ]
+}

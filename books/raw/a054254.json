@@ -1,0 +1,48 @@
+{
+  "id": "a054254",
+  "title": "幸福",
+  "author": "加藤一夫",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "幸福",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 126,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "幸福",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ほんの僅かな時でよい\n生活のわずらいから脱れ\n静な時をもつ事は――\nおお　何と云う仕合せだろう\n\n昨日　私は　書斎で\nたった一人ッきりの私の世界で\n海を越えた遠い国の　心の友の著書を読み\n今日も亦《また》　別の友のを読んだが\n\n私は私のこころにふれ\n私の一番懐しい私を\n彼処に\nそして　一人はもう此の世を去った過ぎし日に\n時と処とを越えて見出した\n\nああ　その歓び　その深い歓び\n永遠の自分を感じた霊の潤い",
+      "characters": 203,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "これこそ　まことの私の幸福\nそれにしてもそれにしても\nその僅な時をすら与えられないとは\n\n友よ　取ろうではないか\nこの最もハンブルな　無形な幸福を――いやその幸福を　邪魔する間垣を破ろうではないか\n永遠の人類のために――さあ\nそのために此の身を捨てても進もうではないか\n我等のつとめを果すために\n（発表誌不詳　『社会派アンソロジー集成』別巻を底本）",
+      "characters": 174,
+      "ruby": []
+    }
+  ]
+}

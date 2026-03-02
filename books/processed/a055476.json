@@ -1,0 +1,60 @@
+{
+  "id": "a055476",
+  "title": "深夜の道士",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "深夜の道士",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 104,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "深夜の道士",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　人語なく、月なき今宵\n\n色ねびし窓帷《ぎぬ》の吐息する\n\n此の古城なる図書室の中央の\n\n遠き異国の材もて組める\n\n残忍の相ある堅き牀机に\n\nありし日よりの凝固せる大気の重圧に\n\n生得《しやうとく》の歪《ひづみ》悉皆消散せる\n\n一片の此の肉体を枯坐せしめ\n\n勇猛《ゆうみやう》なく效《かひ》なき修道なれど",
+      "characters": 152,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "なほそが為に日頃捨離せる真夜中の休息を\n\n貪りて、また貪らうとはする。\n\n青笠に銀の台ある古いらんぷが\n\nこの陰惨の大図書室の\n\n四周に、はた床上に高々と積みなせる\n\nありし世の虚しき錬金の道士、呪文の行者らの\n\nこれら怪奇の古書冊を照し出だせば\n\n一切は錯落の影を湛へ\n\n影は層々の影を生む。",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "何者の驕慢ぞ――この深夜一切倦怠の時\n\n薄明のわだつみの泡のやうに\n\n数夥しい侏儒のやから\n\nおのがじゝ濃藍色の影に拠り\n\n乱舞して湧き出でゝ\n\n竜眼肉の核《たね》めいたつぶら眼《まなこ》をむき出だし、今\n\n侮慢を、嘲笑を踏歌すれば\n\n宿命の氷れる嵐\n\n狂ほしく胸の扉《とぼそ》に吹き入つて",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "今や、はや、肉枯れし腕《かひな》さし延べ\n\nはかなき指頭に現象の秘奥まさぐり\n\nまことの君に帰命せん心も失せて\n\n難行の坐に、放心し、仮睡する……。",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

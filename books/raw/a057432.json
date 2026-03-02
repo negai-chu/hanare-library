@@ -1,0 +1,60 @@
+{
+  "id": "a057432",
+  "title": "老境",
+  "author": "河井酔茗",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "老境",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "老境",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "吾老いぬれど\n\n仙家に入らず\n\n茶烟軽く\n\n紅塵の裡《うち》に住む\n\n柴門《さいもん》を守るは\n\n吾家の月\n\n竹窓に吹くは\n\n隣家の風\n\n人来れば",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "迎へて会ふ\n\n人去れば\n\n吾座《わがざ》にもどる\n\n眠り足りて\n\n夢なく\n\n起きて\n\n倦《う》むことなし\n\n昼には\n\n昼に書くことあり",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "夜には\n\n夜に語ることあり\n\n世にあづけたる\n\nわが寿《いのち》は\n\n時来らば\n\n世に返さむ\n\n草の生命は\n\nわが生命より短く\n\n樹の年輪は",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "わが年輪より多し\n\nわが生命の一瞬\n\n心眼明らかに\n\n天人の五衰は\n\n問はず",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

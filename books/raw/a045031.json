@@ -1,0 +1,48 @@
+{
+  "id": "a045031",
+  "title": "海辺にて",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "海辺にて",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "海辺にて",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "浪よ\n\n　浪、浪\n\n　ここまでおいで\n\n浪よ\n\n　浪、浪\n\n　つかまへておくれ\n\nどんと打つてくりや\n\nそらにげた\n\n浪よ",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　浪、浪\n\n　ここまでおいで\n\n腹がたつたか\n\n浪よ\n\n　浪\n\nさつとひくとき\n\n砂の小山をけちらした",
+      "characters": 51,
+      "ruby": []
+    }
+  ]
+}

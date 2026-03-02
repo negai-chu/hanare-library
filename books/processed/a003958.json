@@ -1,0 +1,42 @@
+{
+  "id": "a003958",
+  "title": "生きてゆく姿の感銘",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "生きてゆく姿の感銘",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 120,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "生きてゆく姿の感銘",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　この小説の最後の一行を読み終って、さてと心にのこされたものをさぐって見ると、それは作者がカソリック精神で表現している「死の意味」への納得ではなくて、死というものをもこれだけに追究しとり組んで行く、人間の生きてゆく姿の感銘であるのは、非常に面白いところであると思われる。私たちの世代では、人間一人の生の意味の面からの追究でなければ、死にも触れなくなって来ているところも、フランスと日本の習慣の相異を超えた今日から明日への相似であろうと思う。\n\n〔一九三九年十一月〕",
+      "characters": 232,
+      "ruby": []
+    }
+  ]
+}

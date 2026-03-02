@@ -1,0 +1,42 @@
+{
+  "id": "a048303",
+  "title": "狐の手套〈小序〉",
+  "author": "堀辰雄",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "狐の手套〈小序〉",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "狐の手套〈小序〉",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "昔からよく隨筆の題にはその筆者の好む花の名などが用ひられてゐる。あれは何んとなく氣もちの好いものである。いま、ここにすこし隨筆めいたものを集めたついでに、ひとつその眞似をしてやらうと思つて、こんな題をつけて見た。因みに『狐の手套《てぶくろ》』と云ふのは、あの夏の日ざかりに紫いろの花を咲かせるヂギタリスの花の異名ださうだ。",
+      "characters": 161,
+      "ruby": []
+    }
+  ]
+}

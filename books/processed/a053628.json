@@ -1,0 +1,48 @@
+{
+  "id": "a053628",
+  "title": "竹の根の先を掘るひと",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "竹の根の先を掘るひと",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 82,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "竹の根の先を掘るひと",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　病氣はげしくなり\n\nいよいよ哀しくなり\n\n三日月空にくもり\n\n病人の患部に竹が生え\n\n肩にも生え\n\n手にも生え\n\n腰からしたにもそれが生え\n\nゆびのさきから根がけぶり\n\n根には纖毛がもえいで",
+      "characters": 96,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "血管の巣は身體いちめんなり\n\nああ巣がしめやかにかすみかけ\n\nしぜんに哀しみふかくなりて憔悴れさせ\n\n絹糸のごとく毛が光り\n\nますます鋭どくして耐へられず\n\nつひにすつぱだかとなつてしまひ\n\n竹の根にすがりつき、すがりつき\n\nかなしみ心頭にさけび\n\nいよいよいよいよ竹の根の先を掘り。",
+      "characters": 142,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054395",
+  "title": "高館",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "高館",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "高館",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "高館に登りて見れば\n\n小糠雨烟りて寒く\n\n朽ちかけし家のほとりの\n\n高き木に鳴く蝉かなし\n\n苔かほる古き木に倚り\n\nその昔の人をしのべど\n\n木々に吹く風も寂しく\n\n消えて行く思ひ儚し\n\n遠山の淡くけむりて",
+      "characters": 102,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "北上は北の果より\n\nその昔の夢を語らず\n\nうね／＼とうねりて流る\n\n故郷を遠くはなれて\n\n旅に見る夢跡かなし\n\n生ひ繁る草木の緑\n\n高館に吹く風寒し",
+      "characters": 74,
+      "ruby": []
+    }
+  ]
+}

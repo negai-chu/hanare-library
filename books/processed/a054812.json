@@ -1,0 +1,48 @@
+{
+  "id": "a054812",
+  "title": "入営のことば",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "入営のことば",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "入営のことば",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　十月一日、すきとおった空に、ぼくは、高々と、日の丸をかかげます。\n\nぼくの日の丸は日にかがやいて、ぱたぱた鳴りましょう。\n\n十月一日、ぼくは○○聯隊に入営します。\n\nぼくの日の丸は、たぶんいくさ場に立つでしょう。\n\nぼくの日の丸は、どんな風にも雨にもまけませぬ。\n\nちぎれてとびちるまで、ぱたぱた鳴りましょう。\n\nぼくは、今までみなさんにいろいろめいわくをおかけしました。\n\nみなさんは、ぼくに対して、じつに親切でした。\n\nただ、ありがたく思っています。",
+      "characters": 228,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ありがとうございました。\n\n死ぬるまで、ひたぶる、たたかって、きます。",
+      "characters": 35,
+      "ruby": []
+    }
+  ]
+}

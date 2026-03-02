@@ -1,0 +1,42 @@
+{
+  "id": "a054994",
+  "title": "奉悼歌",
+  "author": "芳賀矢一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "奉悼歌",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "奉悼歌",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、地にひれふしてあめつちに\n\n　　いのりしまこといれられず\n\n　　日出づる國のくにたみは\n\n　　あやめもわかぬやみぢゆく\n\n二、御大喪《オホミハフリ》の今日の日に\n\n　　流るゝ涙はてもなし\n\n　　きさらぎの空はるあさみ\n\n　　寒風いとゞ身にはしむ",
+      "characters": 125,
+      "ruby": []
+    }
+  ]
+}

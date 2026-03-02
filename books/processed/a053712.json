@@ -1,0 +1,48 @@
+{
+  "id": "a053712",
+  "title": "横浜市歌",
+  "author": "森林太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "横浜市歌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 102,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "横浜市歌",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　わが日《ひ》の本《もと》は島国《しまぐに》よ\n\n　朝日《あさひ》かがよう海《うみ》に\n\n　　連《つらな》りそばだつ島々《しまじま》なれば\n\n　　　あらゆる国《くに》より舟《ふね》こそ通《かよ》え\n\nされば港《みなと》の数《かず》多《おお》かれど\n\n　この横浜《よこはま》にまさるあらめや\n\n　　むかし思《おも》えば　とま屋《や》の煙《けむり》\n\n　　　ちらりほらりと立《た》てりし処《ところ》\n\n今《いま》はもも舟《ふね》もも千舟《ちふね》",
+      "characters": 221,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　泊《とま》る処《ところ》ぞ見《み》よや\n\n　　果《はて》なく栄《さか》えて行《ゆ》くらんみ代《よ》を\n\n　　　飾《かざ》る宝《たから》も入《い》りくる港《みなと》",
+      "characters": 82,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a045102",
+  "title": "お月さまを",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お月さまを",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お月さまを",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "みいあげた。\n\n　マストにのぼつた\n\n　ふなのりが。\n\n　何だか青いと、さういつた。\n\nお月さまを\n\nみいあげた。\n\n　わたしが窓から\n\n　一人きり。\n\n　母さん静かね、さういつた。",
+      "characters": 91,
+      "ruby": []
+    }
+  ]
+}

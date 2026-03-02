@@ -1,0 +1,48 @@
+{
+  "id": "a054775",
+  "title": "望郷",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "望郷",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 87,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "望郷",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "東京がむしょうに恋しい。カスバのペペル・モコみたいに、東京を望郷しておる。\n\nあの街　あの道　あの角で\n\nおれや　おまえや　あいつらと\n\nあんなことして　ああいうて\n\nあんな風して　あんなこと\n\nあんなにあんなに　くらしたに\n\nあの部屋　あの丘　あの雲を\n\nおれや　おまえや　あいつらと\n\nあんな絵をかき　あんな詩を",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あんなに歌って　あんなにも\n\nあんなにあんなに　くらしたに\n\nあの駅　あのとき　あの電車\n\nおれや　おまえや　あいつらと\n\nあああ　あんなにあの街を\n\nおれはこんなに　こいしがる\n\n赤いりんごを　みていても",
+      "characters": 103,
+      "ruby": []
+    }
+  ]
+}

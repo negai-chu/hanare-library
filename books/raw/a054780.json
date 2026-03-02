@@ -1,0 +1,54 @@
+{
+  "id": "a054780",
+  "title": "行軍一",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "行軍一",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 108,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "行軍一",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "白い小学校の運動場で\n\nおれたちはひるやすみした\n\n枝のないポプラの列の影がながい\n\nポプラの枝のきれたところに　肋木《ろくぼく》の奇妙なオブジェに\n\n赤い帽子に黒い服の　ガラスのような子供たちが\n\n流れくずれて　かちどきをあげて\n\nおれたちの眼をいたくさせる\n\n日の丸が上っている\n\n校舎からオルガンがシャボン玉みたいにはじけてくる",
+      "characters": 167,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おれのよごれた手は　ヂストマみたいに\n\n飯盒《はんごう》の底をはいまわり　飯粒をあさっている\n\nさあ　この手でもって「ほまれ」をはさんで\n\nうまそうにけぶりでもはいてやろうか\n\n雲で星がみえなくなった\n\nまっくらになった\n\nみんなだまっていて　タバコの火だけが呼吸している\n\nまだまだ兵営はとおくにある\n\n村をこえて",
+      "characters": 158,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "橋をこえて　線路をよこぎって\n\nひるま女学生が自転車にのっていた畑もよこぎって\n\nずんずんあるかねばならぬ\n\n汗がさめてきた　うごきたくない\n\n星もない道ばたで　おれは発熱しながら　昆虫のように脱皮してゆくようだ",
+      "characters": 106,
+      "ruby": []
+    }
+  ]
+}

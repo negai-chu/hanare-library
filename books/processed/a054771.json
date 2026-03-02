@@ -1,0 +1,42 @@
+{
+  "id": "a054771",
+  "title": "村へ行く",
+  "author": "鶴彬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "村へ行く",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 120,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "村へ行く",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　晴れわたる\n秋の遠山は、らんじゅくした、女のらたい、ふっくらとした、山肌は、女の、いんこうのごとき、谷をきざむ。ああ、はるかに見る、秋の山山は肉感的なるかな\n十時五分前\n太陽はさんらんと放散するのに馬車にへこんだ、村の道を、詩人があるく\n　　×\n一せいに高い、けやきの枝は、やみ上がりの女のかみのごとく、うすく宙をねらう\n土蔵の壁の白く明るく。\n村を吐き出されたひとびとは、\n絵のごとく、でんぱたにうごく高い空――\n十時。\n地蔵が、もくして立つ、詩の入り口に詩人がつく。",
+      "characters": 236,
+      "ruby": []
+    }
+  ]
+}

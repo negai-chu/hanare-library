@@ -1,0 +1,48 @@
+{
+  "id": "a060968",
+  "title": "離れてゆく秋",
+  "author": "萩原恭次郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "離れてゆく秋",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 73,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "離れてゆく秋",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　鴎《かもめ》はシグナルのやうに飛び交《か》ふ！\n\n海底に私は濡《ぬ》れた火薬として沈む！\n\n赤いマストは折れてドテツ腹を突き通してゐる！\n\n君の心臓には黒い無為の切手が刷つてある！\n\n錨《いかり》の上らない程の海の憂愁は\n\n幾匹もの魚を胸に泳がせる！\n\n寒流である――――――――●　●　●\n\n鋏《はさみ》で切られてゐる空だ！\n\n握手にのみ充満と爆発はひそむ！",
+      "characters": 181,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "すでに秋は海底から熱情に錆《さ》びをあたへる！\n\n「さようなら！」",
+      "characters": 33,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054218",
+  "title": "板垣先生の銅像を拝して",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "板垣先生の銅像を拝して",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 60,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "板垣先生の銅像を拝して",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　（一）たそがれ告ぐる鐘の音に\n\n誘はれて散る木々の葉の\n\n雪は夕日に照りはへて\n\nげに厳めしの銅像や\n\n（二）自由の祖先高知市の\n\n偉人を偲ぶ銅像の\n\n其の勇ましき姿こそ\n\n永き偉人のかたみなれ\n\n（大正十三・一・六）",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

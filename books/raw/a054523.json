@@ -1,0 +1,54 @@
+{
+  "id": "a054523",
+  "title": "土の上で",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "土の上で",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "土の上で",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おまえはまだ立っているか\n\n力強く立っていようとするか\n\n風は吹いても地はゆらいでも\n\nおまえはまだ立っていようと願い《（ママ）》るか\n\n　　　　＊\n\n久し振りで地に親しむ事の出来た\n\n土へのおまえの愛は\n\nまことに美しいものだ\n\nけれども今はおまえの執着は",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "おそろしいものだ\n\n　　　　＊\n\nあくまで地に立っている事は\n\nあくまで反逆の意味がふくまれている、真実に地を愛し慕うならば\n\nおまえは立つ事を\n\nやめねばならない\n\nおとなしく大地のふところに\n\n横たわらなければならない\n\n　　　　＊",
+      "characters": 118,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "立つ事は不自然だ\n\n捨て様として捨て得ない\n\nみれんなみにくい執着だ\n\nおおおまえは安らかに\n\nこのすべての母なる\n\n土の上で静かに\n\n休む事を願わないか\n\n一九二三・三",
+      "characters": 85,
+      "ruby": []
+    }
+  ]
+}

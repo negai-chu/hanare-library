@@ -1,0 +1,42 @@
+{
+  "id": "a058738",
+  "title": "黄昏",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "黄昏",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "黄昏",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　どこかで鳥の聲がする　雪の山の黄昏時\n\n私は一つの尾根に彳つ　谿間の宿のランプの灯《ひ》\n\n私の部屋の小さな窗　窗に映つた帽子の影\n\nあはれあはれ　それは思出のやうに見える　微かな谿の水の聲",
+      "characters": 96,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a054114",
+  "title": "かつてわが悲しみは",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "かつてわが悲しみは",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 110,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "かつてわが悲しみは",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "かつてわが悲しみは　かの丘のほとりにいこへり\n\nかつてわが悲しみは　かの丘のほとりにいこへり\n\n五月またみどりはふかく　見よ\n\nかなたに白き鳥のとぶあり\n\nおのが身ははやく老いしか\n\nこの日また何にいそぐや\n\nあてどなき旅のひと日の\n\n夕ぐれの汽車のまどべに\n\nかの丘はしづかに來り",
+      "characters": 141,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "かの丘は來りぬかづく\n\n見よかしこに　なつかしきかの細路は　木の間をいゆきめぐりたり\n\n見よかしこに　なつかしきかの細路は　木の間をいゆきめぐりたり\n\nされど今はなし　今はなし　今はなし\n\nかの遠き日の　かずかずのわがもの思ひ\n\nあはれ　今はなし\n\n今はなし　げに\n\nあはれげに　わが思出はかの丘の木かげに眠れり\n\nあはれげに　わが思出はかの丘の木かげに眠れり",
+      "characters": 180,
+      "ruby": []
+    }
+  ]
+}

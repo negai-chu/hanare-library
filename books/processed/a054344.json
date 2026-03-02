@@ -1,0 +1,54 @@
+{
+  "id": "a054344",
+  "title": "哀歌",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "哀歌",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "哀歌",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　枝を折るのは誰だらう\n\nあはただしく飛びたつ影は何であらう\n\nふかい吃水のほとりから\n\nそこここの傷痕から\n\nながれるものは流れつくし\n\nかつてあつたままに暮れていつた\n\nいちどゆけばもはや帰れない\n\n歩みゆくものの遅速に\n\n思ひをひそめ",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "想ひのかぎりをこめ\n\nいくたびこの頂に立つたことか\n\nしづかな推移に照り翳り\n\n風影はどこまで暮れてゆくのか\n\nみづから哀しみを捉へて佇むと\n\nふと\n\nこころの佗しい断面から\n\nわたしのなかから\n\n風がおこり",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "その風は\n\n何を貫いて吹くのであらう",
+      "characters": 18,
+      "ruby": []
+    }
+  ]
+}

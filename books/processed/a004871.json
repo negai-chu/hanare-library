@@ -1,0 +1,42 @@
+{
+  "id": "a004871",
+  "title": "私の好きなロマンス中の女性",
+  "author": "芥川竜之介",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "私の好きなロマンス中の女性",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "私の好きなロマンス中の女性",
+      "characters": 13,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一、ロマンスの中の女性は善悪共皆好み候。\n\n二、あゝ云ふ女性は到底この世の中にゐないからに候。",
+      "characters": 48,
+      "ruby": []
+    }
+  ]
+}

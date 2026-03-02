@@ -1,0 +1,42 @@
+{
+  "id": "a053722",
+  "title": "熱河略図 No.2",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "熱河略図 No.2",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "熱河略図 No.2",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "1931年の風雲を寂しく語つてゐるタンクが早晨《アサ》の大霧に赭く錆びついてゐる。\n\n客桟のの中。（実験用アルコホルランプが灯の代りをしてゐる）\n\nベルが鳴る。\n\n小孩が二十年前に死んだ温泉の再噴出を知らせる。",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

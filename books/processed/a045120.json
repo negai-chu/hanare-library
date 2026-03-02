@@ -1,0 +1,60 @@
+{
+  "id": "a045120",
+  "title": "僕の国",
+  "author": "スティーブンソンロバート・ルイス",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 5
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "僕の国",
+        "startPage": 1,
+        "endPage": 5
+      }
+    ],
+    "totalPages": 5,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "僕の国",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　光つて泉の湧くそばに\n\n僕の小さな窪《くぼ》がある。\n\n　僕の丈ほどふかくない。\n\nはりえにしだなど生えてゐる。\n\n夏には夏の花が咲く。\n\n　黄つぽい花や赤い花。\n\n泉を僕は海と呼ぶ\n\nあたりの丘を山と呼ぶ。\n\n　そんなに僕は小いのだ。",
+      "characters": 119,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "僕はつくつた舩や町。\n\n僕はさがした洞や穴。\n\n　洞や穴には名をつけた。\n\nあたりのものは僕のもの、\n\n頭の上の雀でも、\n\n　泉の中の小ばやでも。\n\nここでは僕は王様だ。\n\n僕は蜂どもうたはせる。\n\n　僕は燕をあそばせる。",
+      "characters": 111,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ここより広い海はない。\n\nここより大きな原はない。\n\n　僕よりほかに王はない。\n\nけれど日暮が来た時に、\n\n母さんの声が呼びに来た。\n\n　「坊やお帰りごはんだよ。」\n\n窪よさよなら僕のくぼ。\n\n泉さよなら、よい水よ。\n\n　花もさよなら僕の花。",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "そしてお家にきて見れば、\n\n何て大きな乳母だらう。\n\n　何て冷い部屋だろう。",
+      "characters": 38,
+      "ruby": []
+    }
+  ]
+}

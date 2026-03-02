@@ -1,0 +1,54 @@
+{
+  "id": "a045103",
+  "title": "どらが鳴る",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "どらが鳴る",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "どらが鳴る",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　どらん　どらん\n\nどらん\n\n　どらが鳴る。\n\nよふけの部落のひろつぱで。\n\nどらん　どらん\n\nどらん\n\n　まどがあく。\n\nあつちこつちで音がする。\n\nどらん　どらん",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "どらん\n\n　かけてくる。\n\nブーメラングや毒鎗が。\n\nどらん　どらん\n\nどらん\n\n　みんな来た。\n\n獅子でも出たか、火事なのか。\n\nどらん　どらん\n\nどらん",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　をどるのだ。\n\n月だよ　月だよ　月なんだ。\n\nどらん　どらん\n\nどらん\n\n　輪がをどる。\n\n月夜の部落のひろつぱで。",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

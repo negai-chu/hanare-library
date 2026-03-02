@@ -1,0 +1,54 @@
+{
+  "id": "a061069",
+  "title": "別れ",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "別れ",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 65,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "別れ",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　広い堂楼の境内\n\n焚火が燃え\n\n村じゅうの人々が集まっている\n\n「しっかり頼むぞの……」\n\n「非常時じゃでのう……」\n\n男衆等みな声を上げてはげます\n\n一人の入営兵士をまん中に\n\n酒徳利をかたむけ\n\n祝いの",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "別れの\n\n冷酒\n\n女、子供、\n\nかたまってふるえつつ\n\n聯隊には十日ほどいて\n\n直ぐ満洲行きやそな……\n\n女房等の目は泪にしばたたき\n\n老婆は鼻をすすり上げる\n\n村の停車場",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "十数本の入営旗\n\n高くはためく\n\n発車の汽笛\n\n萬歳の声\n\n村を揺すぶる\n\n息子の母親\n\nカタカタと汽車を追いかけ\n\n腰を折って泣き伏す",
+      "characters": 68,
+      "ruby": []
+    }
+  ]
+}

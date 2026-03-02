@@ -1,0 +1,48 @@
+{
+  "id": "a057433",
+  "title": "大阪の朝",
+  "author": "安西冬衛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "大阪の朝",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 144,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "大阪の朝",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "川に張り出した道頓堀の盛り場は、仇女の寝くたれ姿のように、たくましい家裏《やうら》をまざまざと水鏡に照し出している。\n\n　太左衛門橋の袂《たもと》。\n\n　舟料理の葭すだれは、まき上げられたままゆうべの歓楽の名残をとどめている。\n\n　宗右衛門町の脂粉の色を溶かしたのであろうか、水の上に臙脂《べに》を流す美しい朝焼けの空。\n\n　だが、宵っ張りの町々は目ぶた重く、まだ眼ざめてはいない。\n\n「朝は宮、昼は料理屋、夜は茶屋……」という大阪の理想である生活与件。そのイの一番に大切な信心の木履の音もしない享楽の街の東雲《しののめ》。\n\n　瓦灯《がとう》が淡くまたたいている。\n\n　私は、安井道頓の掘ったこの掘割に目をおとして、なんとなく、\n\n　――どおとん。",
+      "characters": 325,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　と、つぶやく。そしてフッと\n\n　――秋《ドオトンヌ》\n\n　というフランスの言葉を連想する。\n\n　左様、巴里の空の下をセーヌが流れるように、わが大阪の生活の中を道頓堀川が流れているのだ。\n\n　間もなく秋が来る。",
+      "characters": 105,
+      "ruby": []
+    }
+  ]
+}

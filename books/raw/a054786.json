@@ -1,0 +1,54 @@
+{
+  "id": "a054786",
+  "title": "南からの種子",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "南からの種子",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "南からの種子",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "南から帰った兵隊が\n\nおれたちの班に入ってきた\n\nマラリヤがなおるまでいるのだそうな\n\n大切にもってきたのであろう\n\n小さい木綿袋に\n\n見たこともない色んな木の種子\n\nおれたちは暖炉に集って\n\nその種子を手にして説明をまった\n\nこれがマンゴウの種子",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "樟《くすのき》のような大木に\n\nまっ赤な大きな実がなるという\n\nこれがドリアンの種子\n\nああこのうまさといったら\n\n気も狂わんばかりだ\n\n手をふるわし　身もだえさえして\n\n語る南の国の果実\n\nおれたち初年兵は\n\nこの石ころみたいな種子をにぎって",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "消えかかった暖炉のそばで\n\n吹雪をきいている",
+      "characters": 22,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a052143",
+  "title": "新官制擬定書",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "新官制擬定書",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 140,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "新官制擬定書",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "関白　　一人。\n\n公卿中尤徳望智識兼修ノ者ヲ以テ、之ニ充ツ。\n\n上一人ヲ輔弼シ万機ヲ関白シ、大政ヲ総裁ス。（暗ニ公ヲ以テ之ニ擬ス）\n\n議奏　　若干人。\n\n親王公卿諸侯ノ尤モ徳望智識アル者ヲ以テ、之ニ充ツ。\n\n万機ヲ献替シ、大政ヲ議定敷奏シ、兼テ諸官ノ長ヲ分掌ス。（暗ニ島津、毛利、山内、伊達宗城、鍋島、春嶽諸侯及、岩倉、東久世、嵯峨、中山ノ諸卿ヲ以テ之ニ擬ス）\n\n参議　　若干人。\n\n公卿、諸侯、大夫、士庶人ヲ以テ、之ニ充ツ。大政ニ参与シ兼テ諸官ノ次官ヲ分掌ス。（暗ニ小松、西郷、大久保、木戸、後藤、三岡八郎、横井平四郎、長岡良之助等ヲ以テ之ニ擬ス）",
+      "characters": 275,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a045110",
+  "title": "雀の歌",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雀の歌",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 66,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雀の歌",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "小さい卵のなかにゐる\n\nかあいゝ坊やよでゝおいで、\n\nみんなはおまえを待つてゐる。\n\nお空は青くはれてゐる、\n\n坊やのお歌を待つてゐる。\n\n梢の空気は澄んでゐる。\n\n小麦は軒端にこぼれてる。\n\nお花畑は呼んでゐる、\n\n遊びにおいでと呼んでゐる。",
+      "characters": 122,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "光はいつぱいみちてゐる。\n\n神様までが待つてゐる。\n\n坊やよ坊やでゝおいで、\n\n黄色い嘴《くち》からでゝおいで、\n\n母さん「ばあつ」とでゝおいで。",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

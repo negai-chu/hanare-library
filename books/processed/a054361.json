@@ -1,0 +1,54 @@
+{
+  "id": "a054361",
+  "title": "衢にて",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "衢にて",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "衢にて",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　翳に埋れ\n\n翳に支へられ\n\nその階段はどこへ果ててゐるのか\n\nはかなさに立ちあがり\n\nいくたび踏んでみたことだらう\n\nものいはず濡れた肩や\n\n失はれたいのちの群をこえ\n\nけんめいに\n\nあふれる時間をたどりたかつた",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あてもない歩みの\n\n遅速のままに\n\nどぶどろの秩序をすぎ\n\nもはや\n\n美しいままに欺かれ\n\nうつくしいままに奪はれてゐた\n\nしかし最後の\n\n膝に耐え\n\nこみあげる背をふせ",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "はげしく若さをうちくだいて\n\n未完の忘却のなかから\n\nなほ\n\n何かを信じようとしてゐた",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

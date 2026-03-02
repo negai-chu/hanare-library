@@ -1,0 +1,2304 @@
+{
+  "id": "a049174",
+  "title": "朝おき雀",
+  "author": "野口雨情",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 284
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "朝おき雀",
+        "startPage": 1,
+        "endPage": 280,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "七ツニナレバ",
+            "startPage": 2,
+            "endPage": 4
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "神詣",
+            "startPage": 5,
+            "endPage": 7
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "年賀状",
+            "startPage": 8,
+            "endPage": 12
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "田舎の正月",
+            "startPage": 13,
+            "endPage": 16
+          },
+          {
+            "id": "chapter-1-section-5",
+            "number": "初夢",
+            "startPage": 17,
+            "endPage": 19
+          },
+          {
+            "id": "chapter-1-section-6",
+            "number": "万歳さん",
+            "startPage": 20,
+            "endPage": 22
+          },
+          {
+            "id": "chapter-1-section-7",
+            "number": "凧あげと羽根つき",
+            "startPage": 23,
+            "endPage": 25
+          },
+          {
+            "id": "chapter-1-section-8",
+            "number": "豆マキ",
+            "startPage": 26,
+            "endPage": 31
+          },
+          {
+            "id": "chapter-1-section-9",
+            "number": "初午の太鼓",
+            "startPage": 32,
+            "endPage": 34
+          },
+          {
+            "id": "chapter-1-section-10",
+            "number": "お雛さま",
+            "startPage": 35,
+            "endPage": 40
+          },
+          {
+            "id": "chapter-1-section-11",
+            "number": "春ノ兎アソビ",
+            "startPage": 41,
+            "endPage": 43
+          },
+          {
+            "id": "chapter-1-section-12",
+            "number": "一年生",
+            "startPage": 44,
+            "endPage": 47
+          },
+          {
+            "id": "chapter-1-section-13",
+            "number": "おはやう",
+            "startPage": 48,
+            "endPage": 51
+          },
+          {
+            "id": "chapter-1-section-14",
+            "number": "土筆ノ行列",
+            "startPage": 52,
+            "endPage": 55
+          },
+          {
+            "id": "chapter-1-section-15",
+            "number": "春が呼ぶ",
+            "startPage": 56,
+            "endPage": 61
+          },
+          {
+            "id": "chapter-1-section-16",
+            "number": "潮干狩",
+            "startPage": 62,
+            "endPage": 64
+          },
+          {
+            "id": "chapter-1-section-17",
+            "number": "汐干狩",
+            "startPage": 65,
+            "endPage": 68
+          },
+          {
+            "id": "chapter-1-section-18",
+            "number": "チンチン電車",
+            "startPage": 69,
+            "endPage": 75
+          },
+          {
+            "id": "chapter-1-section-19",
+            "number": "春の風",
+            "startPage": 76,
+            "endPage": 78
+          },
+          {
+            "id": "chapter-1-section-20",
+            "number": "春の田の中",
+            "startPage": 79,
+            "endPage": 82
+          },
+          {
+            "id": "chapter-1-section-21",
+            "number": "森で啼く鳥",
+            "startPage": 83,
+            "endPage": 85
+          },
+          {
+            "id": "chapter-1-section-22",
+            "number": "春の空",
+            "startPage": 86,
+            "endPage": 88
+          },
+          {
+            "id": "chapter-1-section-23",
+            "number": "菜の花",
+            "startPage": 89,
+            "endPage": 93
+          },
+          {
+            "id": "chapter-1-section-24",
+            "number": "桜と小鳥",
+            "startPage": 94,
+            "endPage": 96
+          },
+          {
+            "id": "chapter-1-section-25",
+            "number": "学校の前",
+            "startPage": 97,
+            "endPage": 99
+          },
+          {
+            "id": "chapter-1-section-26",
+            "number": "桜花咲く",
+            "startPage": 100,
+            "endPage": 103
+          },
+          {
+            "id": "chapter-1-section-27",
+            "number": "田螺の泥遊び",
+            "startPage": 104,
+            "endPage": 106
+          },
+          {
+            "id": "chapter-1-section-28",
+            "number": "ひよこ",
+            "startPage": 107,
+            "endPage": 110
+          },
+          {
+            "id": "chapter-1-section-29",
+            "number": "雲雀と蛙",
+            "startPage": 111,
+            "endPage": 113
+          },
+          {
+            "id": "chapter-1-section-30",
+            "number": "ドンドンバシ",
+            "startPage": 114,
+            "endPage": 116
+          },
+          {
+            "id": "chapter-1-section-31",
+            "number": "子守唄",
+            "startPage": 117,
+            "endPage": 120
+          },
+          {
+            "id": "chapter-1-section-32",
+            "number": "燕と柳",
+            "startPage": 121,
+            "endPage": 123
+          },
+          {
+            "id": "chapter-1-section-33",
+            "number": "田植",
+            "startPage": 124,
+            "endPage": 126
+          },
+          {
+            "id": "chapter-1-section-34",
+            "number": "蛙の幼稚園",
+            "startPage": 127,
+            "endPage": 130
+          },
+          {
+            "id": "chapter-1-section-35",
+            "number": "燕の泥ぬり",
+            "startPage": 131,
+            "endPage": 133
+          },
+          {
+            "id": "chapter-1-section-36",
+            "number": "目高",
+            "startPage": 134,
+            "endPage": 136
+          },
+          {
+            "id": "chapter-1-section-37",
+            "number": "螢",
+            "startPage": 137,
+            "endPage": 138
+          },
+          {
+            "id": "chapter-1-section-38",
+            "number": "沼の鮒釣り",
+            "startPage": 139,
+            "endPage": 145
+          },
+          {
+            "id": "chapter-1-section-39",
+            "number": "螢狩り",
+            "startPage": 146,
+            "endPage": 150
+          },
+          {
+            "id": "chapter-1-section-40",
+            "number": "どんと波",
+            "startPage": 151,
+            "endPage": 153
+          },
+          {
+            "id": "chapter-1-section-41",
+            "number": "オハナ　バタケ",
+            "startPage": 154,
+            "endPage": 156
+          },
+          {
+            "id": "chapter-1-section-42",
+            "number": "お風呂",
+            "startPage": 157,
+            "endPage": 159
+          },
+          {
+            "id": "chapter-1-section-43",
+            "number": "お星さん",
+            "startPage": 160,
+            "endPage": 164
+          },
+          {
+            "id": "chapter-1-section-44",
+            "number": "お池つくり",
+            "startPage": 165,
+            "endPage": 167
+          },
+          {
+            "id": "chapter-1-section-45",
+            "number": "海",
+            "startPage": 168,
+            "endPage": 170
+          },
+          {
+            "id": "chapter-1-section-46",
+            "number": "ささぶね",
+            "startPage": 171,
+            "endPage": 173
+          },
+          {
+            "id": "chapter-1-section-47",
+            "number": "すつぽん亀の子",
+            "startPage": 174,
+            "endPage": 179
+          },
+          {
+            "id": "chapter-1-section-48",
+            "number": "夕立",
+            "startPage": 180,
+            "endPage": 182
+          },
+          {
+            "id": "chapter-1-section-49",
+            "number": "螢と露",
+            "startPage": 183,
+            "endPage": 185
+          },
+          {
+            "id": "chapter-1-section-50",
+            "number": "七夕",
+            "startPage": 186,
+            "endPage": 188
+          },
+          {
+            "id": "chapter-1-section-51",
+            "number": "カミシバヰ",
+            "startPage": 189,
+            "endPage": 192
+          },
+          {
+            "id": "chapter-1-section-52",
+            "number": "松虫",
+            "startPage": 193,
+            "endPage": 195
+          },
+          {
+            "id": "chapter-1-section-53",
+            "number": "セイタカコスモス",
+            "startPage": 196,
+            "endPage": 198
+          },
+          {
+            "id": "chapter-1-section-54",
+            "number": "月と兎",
+            "startPage": 199,
+            "endPage": 200
+          },
+          {
+            "id": "chapter-1-section-55",
+            "number": "虫の声",
+            "startPage": 201,
+            "endPage": 203
+          },
+          {
+            "id": "chapter-1-section-56",
+            "number": "おるすです",
+            "startPage": 204,
+            "endPage": 206
+          },
+          {
+            "id": "chapter-1-section-57",
+            "number": "兎の綱引き",
+            "startPage": 207,
+            "endPage": 209
+          },
+          {
+            "id": "chapter-1-section-58",
+            "number": "豚のお鼻",
+            "startPage": 210,
+            "endPage": 212
+          },
+          {
+            "id": "chapter-1-section-59",
+            "number": "月夜の竹やぶ",
+            "startPage": 213,
+            "endPage": 215
+          },
+          {
+            "id": "chapter-1-section-60",
+            "number": "狸のいたづら",
+            "startPage": 216,
+            "endPage": 218
+          },
+          {
+            "id": "chapter-1-section-61",
+            "number": "あわてた烏",
+            "startPage": 219,
+            "endPage": 221
+          },
+          {
+            "id": "chapter-1-section-62",
+            "number": "十五夜",
+            "startPage": 222,
+            "endPage": 224
+          },
+          {
+            "id": "chapter-1-section-63",
+            "number": "鳴子",
+            "startPage": 225,
+            "endPage": 227
+          },
+          {
+            "id": "chapter-1-section-64",
+            "number": "案山子",
+            "startPage": 228,
+            "endPage": 230
+          },
+          {
+            "id": "chapter-1-section-65",
+            "number": "やまがら",
+            "startPage": 231,
+            "endPage": 233
+          },
+          {
+            "id": "chapter-1-section-66",
+            "number": "朝オキ雀",
+            "startPage": 234,
+            "endPage": 236
+          },
+          {
+            "id": "chapter-1-section-67",
+            "number": "大根洗ヒ",
+            "startPage": 237,
+            "endPage": 239
+          },
+          {
+            "id": "chapter-1-section-68",
+            "number": "雀ト山茶花",
+            "startPage": 240,
+            "endPage": 241
+          },
+          {
+            "id": "chapter-1-section-69",
+            "number": "落葉",
+            "startPage": 242,
+            "endPage": 244
+          },
+          {
+            "id": "chapter-1-section-70",
+            "number": "山",
+            "startPage": 245,
+            "endPage": 247
+          },
+          {
+            "id": "chapter-1-section-71",
+            "number": "逃げた小鳥",
+            "startPage": 248,
+            "endPage": 250
+          },
+          {
+            "id": "chapter-1-section-72",
+            "number": "豆腐屋さんのラツパ",
+            "startPage": 251,
+            "endPage": 253
+          },
+          {
+            "id": "chapter-1-section-73",
+            "number": "騎兵",
+            "startPage": 254,
+            "endPage": 256
+          },
+          {
+            "id": "chapter-1-section-74",
+            "number": "おしやべり四十雀",
+            "startPage": 257,
+            "endPage": 259
+          },
+          {
+            "id": "chapter-1-section-75",
+            "number": "輪廻し",
+            "startPage": 260,
+            "endPage": 263
+          },
+          {
+            "id": "chapter-1-section-76",
+            "number": "友だち",
+            "startPage": 264,
+            "endPage": 266
+          },
+          {
+            "id": "chapter-1-section-77",
+            "number": "雀",
+            "startPage": 267,
+            "endPage": 268
+          },
+          {
+            "id": "chapter-1-section-78",
+            "number": "橇と少女子",
+            "startPage": 269,
+            "endPage": 271
+          },
+          {
+            "id": "chapter-1-section-79",
+            "number": "村のかぢや",
+            "startPage": 272,
+            "endPage": 274
+          },
+          {
+            "id": "chapter-1-section-80",
+            "number": "スキー",
+            "startPage": 275,
+            "endPage": 277
+          },
+          {
+            "id": "chapter-1-section-81",
+            "number": "童謡について一言",
+            "startPage": 278,
+            "endPage": 280
+          }
+        ]
+      }
+    ],
+    "totalPages": 280,
+    "averageCharsPerPage": 38,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "朝おき雀",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "七ツニナレバ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　オシヨウガツ　キタヨ\n\nコンドハ　イクツ\n\nコンドハ　六ツ\n\nキヨネンハ　五ツ\n\n七ツニ　ナレバ\n\nガツカウヘ　イクヨ\n\nランドセル　シヨツテ\n\nゴホンヲ　イレテ\n\nアミアゲ　ハイテ",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ボウシヲ　カブリ\n\nオテテヲ　フツテ\n\nヒトリデ　イクヨ",
+      "characters": 28,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "神詣",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "年の初めの\n\n神まゐり\n\nお手々合はせて\n\nお社に\n\nみ国の栄え\n\n心から\n\n神にお願ひ\n\nかけました\n\n空もしづかに",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "ほのぼのと\n\nすがすがしくも\n\n明けていく",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "年賀状",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "お友達から",
+      "characters": 5,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "年賀状",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "字まで正しく\n\n丁寧に\n\n明けて新年\n\nお目出たう\n\n大きく書いて\n\nその次に\n\n優等生に\n\nなるやうに\n\n僕も今年は",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 12,
+      "content": "去年より\n\n勉強しますと\n\n書いてある",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "田舎の正月",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "田舎の正月ア\n\n長閑《のどか》だナ\n\n豊年祭りも\n\nもうすんだ\n\n畑の仕事も\n\n皆了へた\n\n田甫《たんぼ》の仕事も\n\n皆了へた\n\nどの家も俵は",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "積んである\n\n村中　にこにこ\n\nむつましい\n\n山でも　森でも\n\nほほえんだ\n\n軒端にや朝から\n\n日が当り\n\n鶏　雄鶏\n\n遊んでる",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 16,
+      "content": "厩《うまや》の馬まで\n\n気楽だナ",
+      "characters": 16,
+      "ruby": []
+    },
+    {
+      "pageNumber": 17,
+      "content": "初夢",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "正月二日ノ\n\nハツユメニ\n\n　　　エンヤラヤ\n\n　　　ギツチラコ\n\nイソイデ　コイコイ\n\nタカラブネ\n\n　　　ギツチラコ\n\n　　　エンヤラヤ\n\nタカラヲ　ヤマホド",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 19,
+      "content": "ツンデ　コイ\n\n　　　エンヤラヤ\n\n　　　ギツチラコ\n\nイソイデ　コイコイ\n\nタカラブネ",
+      "characters": 44,
+      "ruby": []
+    },
+    {
+      "pageNumber": 20,
+      "content": "万歳さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 21,
+      "content": "お正月は\n\n目出たいな\n\n万歳《まんざい》さんは\n\n目出たいな\n\n鼓《つづみ》を叩いて\n\nポンポン　ポン\n\nお伴《とも》の才蔵も\n\n目出たいな\n\nニコニコ　ニツコリ",
+      "characters": 82,
+      "ruby": []
+    },
+    {
+      "pageNumber": 22,
+      "content": "目出たいな\n\n頭巾をかぶつて\n\n笑ひ顔\n\n鼓を叩いて\n\nポンポン　ポン",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 23,
+      "content": "凧あげと羽根つき",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 24,
+      "content": "風吹け　風吹け\n\n早く吹け\n\n海から山から\n\n青空に\n\n凧あげするから\n\n風よ吹け\n\n羽根つきするから\n\n風吹くな\n\nお庭にお屋根に",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 25,
+      "content": "青空に\n\n羽根つきするから\n\n風吹くな",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 26,
+      "content": "豆マキ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 27,
+      "content": "福ハ　オウチニ\n\n鬼ハ　ソト",
+      "characters": 14,
+      "ruby": []
+    },
+    {
+      "pageNumber": 28,
+      "content": "豆マキ　パラパラ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 29,
+      "content": "パァラ　パラ\n\n鬼ハ　ビックリ\n\n大サワギ\n\n豆ニハ　カナハン\n\nタイヘン　ダ\n\n福ハ　オウチデ\n\nニツコ　ニコ\n\nソレ　マケ　ソレ　マケ\n\nモツト　マケ",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 30,
+      "content": "豆マキ　パラパラ",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 31,
+      "content": "パァラ　パラ\n\n鬼ハ　アワテテ\n\nエツサツサ",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 32,
+      "content": "初午の太鼓",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 33,
+      "content": "初午だ\n\n　　　初午だ\n\nドドンカドン\n\n　　　ドドンカドン\n\nお稲荷さまの\n\n　　　お祭りだ\n\nドドンカドン\n\n　　　ドドンカドン\n\nみんな来い来い",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 34,
+      "content": "　　　早く来い\n\n狐のお面が\n\n　　　はじまつた",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "お雛さま",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 36,
+      "content": "いつでも　やさしい",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 37,
+      "content": "お雛さま",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 38,
+      "content": "今年も来ました\n\nおそろひで\n\nお口も　きかずに\n\nおとなしく\n\nきちんと　ならんで\n\nお上品\n\n去年は　白酒《しろざけ》\n\nあげました\n\n今年も　白酒",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 39,
+      "content": "あげましよか\n\n緋桃《ひもも》も　綺麗に\n\n咲いてます\n\nお遊び下さい",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 40,
+      "content": "お雛さま",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 41,
+      "content": "春ノ兎アソビ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 42,
+      "content": "ミンナ　コイコイ\n\nハヤク　コイ\n\nハルハ　タノシク\n\nゲンキヨク\n\nウサギ　アソビヲ\n\nイタシマセウ\n\nオニハデ　ピヨン　ピヨン\n\nハネナガラ\n\nグルグル　マハツテ",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 43,
+      "content": "オモシロク\n\nピヨンピヨン　ハネハネ\n\nアソビマセウ",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 44,
+      "content": "一年生",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 45,
+      "content": "ボウシモ　オクツモ\n\nアタラシク\n\nイヨイヨ　ケフカラ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 46,
+      "content": "一年生",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 47,
+      "content": "マイアサ　ガツカウヘ\n\nマヰリマス\n\nオウチヘ　カヘレバ\n\nタダイマト\n\nガツカウノ　オハナシ\n\nイタシマス",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 48,
+      "content": "おはやう",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 49,
+      "content": "おはやう　おはやう",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 50,
+      "content": "今日《こんにち》は\n\nお靴も　ひとりで\n\nはきました\n\n歩けば　キツキと\n\n鳴りました\n\nみなさん　おはやう\n\n今日は\n\n唱歌も　元気に\n\n歌ひます",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 51,
+      "content": "楽しい　遊びも\n\nいたしませう",
+      "characters": 15,
+      "ruby": []
+    },
+    {
+      "pageNumber": 52,
+      "content": "土筆ノ行列",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 53,
+      "content": "ツンツン　ツクツク\n\nツクシンボ\n\nツンツン　土筆《ツクシ》ハ\n\n原ツパニ\n\nツクツク並ンデ\n\n立ツテマス\n\n帽子モ揃ヒノ\n\n帽子　デス\n\n袴モ揃ヒノ",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 54,
+      "content": "袴デス\n\nツクツク　ツンツン\n\nツクシンボ\n\nコツチヲ向イタラ\n\n向イタキリ\n\nアツチヲ向イタラ\n\n向イタキリ\n\nツンツン並ンデ\n\n原ツパニ",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 55,
+      "content": "ツンツン　ツクツク\n\n立ツテマス",
+      "characters": 16,
+      "ruby": []
+    },
+    {
+      "pageNumber": 56,
+      "content": "春が呼ぶ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 57,
+      "content": "畑の中から",
+      "characters": 5,
+      "ruby": []
+    },
+    {
+      "pageNumber": 58,
+      "content": "春が呼ぶ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 59,
+      "content": "春は菜種の\n\n花を呼ぶ\n\n菜種も呼ばれて\n\n花が咲き\n\n野原の中から",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 60,
+      "content": "春が呼ぶ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 61,
+      "content": "春は菫の\n\n花を呼ぶ\n\n菫も呼ばれて\n\n花が咲く",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 62,
+      "content": "潮干狩",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 63,
+      "content": "ハダシデ　ピチヤ　ピチヤ\n\nシホヒガリ\n\nハマグリ　アサリハ\n\nスナノ　ナカ\n\nコガニハ　チヨロ　チヨロ\n\nニゲマハル\n\nチヨロ　チヨロ　コガニガ\n\nニゲルノヲ\n\nハマグリ　アサリヲ",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 64,
+      "content": "フミナガラ\n\nハダシデ　ピチヤ　ピチヤ\n\nオヒアルク",
+      "characters": 26,
+      "ruby": []
+    },
+    {
+      "pageNumber": 65,
+      "content": "汐干狩",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 66,
+      "content": "友と連れ立ち",
+      "characters": 6,
+      "ruby": []
+    },
+    {
+      "pageNumber": 67,
+      "content": "汐干狩",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 68,
+      "content": "汐干の渚や\n\n遠浅に\n\n拾ふ小さな\n\n貝の数\n\n月の数ほど\n\n打つ波に\n\n汐干の渚も\n\n汐は満ち\n\nいつかあたりは海となる",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 69,
+      "content": "チンチン電車",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 70,
+      "content": "チンチン電車",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 71,
+      "content": "チン電車\n\nチンチン鳴らして\n\nとまります",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 72,
+      "content": "チンチン電車",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 73,
+      "content": "チン電車",
+      "characters": 4,
+      "ruby": []
+    },
+    {
+      "pageNumber": 74,
+      "content": "チンチン電車",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 75,
+      "content": "ならびます\n\nあれあれ電車\n\nあの電車\n\n電車と電車が\n\nつづきます",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 76,
+      "content": "春の風",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 77,
+      "content": "みんな　出て来い\n\n日の丸持つて\n\n春が　来た来た\n\n愉快だナ\n\nひろい野原に\n\n大空に\n\n吹く春風は\n\n愉快だナ\n\n手には　日の丸",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 78,
+      "content": "ひらひら　国旗\n\n春が　来た来た\n\n愉快だナ\n\n靴も軽《か》る軽る\n\n帽子に旗に\n\n吹く春風は\n\n愉快だナ",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 79,
+      "content": "春の田の中",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 80,
+      "content": "田甫《たんぼ》の　田の中\n\n春になり\n\n泥田に　寝てゐた\n\n田螺《たにし》さへ\n\n朝から　出て来て\n\n遊んでる\n\n　　　氷が張るから\n\n　　　寒いから\n\n　　　田螺は冬より",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 81,
+      "content": "　　　春が好き\n\n田甫の　田の中\n\n春になり\n\n蛙も\n\n目を覚まし\n\n朝から　元気で\n\n遊んでる\n\n　　　蛙も鰌《どじよう》も\n\n　　　春が好き",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 82,
+      "content": "　　　田螺と一緒に\n\n　　　出てあるく",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
+      "content": "森で啼く鳥",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 84,
+      "content": "森の　森の\n\n真ン中\n\n背高《せいたか》のつぽの\n\n杉の木に\n\n春に　なると\n\n鳥が\n\nチンカラ　チンと\n\nとまる\n\n何んと啼いた",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 85,
+      "content": "鳥だ\n\n青空　見てゐて\n\n啼く鳥だ\n\n杉に　ちやんと\n\nとまり\n\nチンカラ　チンと\n\n啼いた",
+      "characters": 46,
+      "ruby": []
+    },
+    {
+      "pageNumber": 86,
+      "content": "春の空",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 87,
+      "content": "空は奇麗に\n\n晴れてゐる\n\n毎日　毎日\n\nよい天気\n\n遠くの山も\n\nよく見えた\n\n山の上まで\n\n雪が解け\n\n小藪で囀《さへづ》る",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 88,
+      "content": "鶯に\n\nうれしい　うれしい\n\n春が来た",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 89,
+      "content": "菜の花",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 90,
+      "content": "とまれよ　とまれ\n\n蝶々よ　とまれ\n\n畑の　中の\n\n菜の葉の　上に\n\n蝶々の　すきな",
+      "characters": 42,
+      "ruby": []
+    },
+    {
+      "pageNumber": 91,
+      "content": "菜の花　咲いた",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 92,
+      "content": "咲いたよ　咲いた\n\nきれいな　花が\n\n菜の葉の　上に\n\nヒラヒラ　ヒラと\n\n蝶々よ　とまれ",
+      "characters": 45,
+      "ruby": []
+    },
+    {
+      "pageNumber": 93,
+      "content": "菜の花　咲いた",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 94,
+      "content": "桜と小鳥",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 95,
+      "content": "山にも　里にも\n\n春が来た\n\n小鳥の　お母さん\n\n春が好き\n\nツーピー　ツーピー\n\nツーピツピツ\n\n小鳥のお母さん\n\n花も好き\n\n花では　桜の",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 96,
+      "content": "花が好き\n\nツーピー　ツーピー\n\nツーピツピツ\n\n山にも　桜の\n\n花が咲き\n\n里でも　桜の\n\n花が咲く\n\nツーピー　ツーピー\n\nツーピツピツ",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 97,
+      "content": "学校の前",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 98,
+      "content": "学校の前は\n\n畑です\n\n畑の菜の花\n\n咲くころに\n\nわたしは入学\n\nしたのです\n\nそれから今日は\n\n一年目\n\n今年も菜の花",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 99,
+      "content": "咲きました\n\nわたしは二年に\n\nなりました\n\n畑に菜の花\n\n咲くたびに\n\n毎年　進級\n\nいたします",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 100,
+      "content": "桜花咲く",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 101,
+      "content": "咲いて　見事に\n\nひらひらと\n\n散るも勇まし\n\n桜花\n\n桜の花は\n\nいさざよき\n\nわが日本の\n\nほこりなり\n\n頃も弥生の",
+      "characters": 60,
+      "ruby": []
+    },
+    {
+      "pageNumber": 102,
+      "content": "春に咲き\n\n富士の高嶺も\n\nうららかに\n\n人の心も\n\nのびのびと\n\n勇まし　ゆかし\n\n限りなく\n\n花の吹雪と\n\nやがて散る",
+      "characters": 61,
+      "ruby": []
+    },
+    {
+      "pageNumber": 103,
+      "content": "国のほこりの\n\n桜花",
+      "characters": 10,
+      "ruby": []
+    },
+    {
+      "pageNumber": 104,
+      "content": "田螺の泥遊び",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 105,
+      "content": "田甫《たんぼ》の　田螺《たにし》は\n\n泥だらけ\n\nお顔が　どこだか\n\nわからない\n\nお目々も　どこだか\n\nわからない\n\nお顔も　お目々も\n\n泥だらけ\n\nたんたん　田螺は",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 106,
+      "content": "田の中に\n\n朝から　晩まで\n\n泥遊び\n\nあつちへ　転げて\n\nどつこいしよ\n\nこつちへ　転げて\n\nどつこいしよ",
+      "characters": 54,
+      "ruby": []
+    },
+    {
+      "pageNumber": 107,
+      "content": "ひよこ",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 108,
+      "content": "ひよこのお家は\n\nよいお家\n\n朝からぽかぽか\n\n日があたる\n\nコツココツコと\n\n親鶏が\n\nひよこを呼び呼び\n\n遊びます\n\nひよこはピヨピヨ",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 109,
+      "content": "親鶏の\n\n背中へあがつて\n\n遊んだり\n\n羽根の蔭から\n\n間から\n\n首を出したり\n\n隠したり\n\nひよこは毎日\n\n親鶏と",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 110,
+      "content": "元気に楽しく\n\n遊びます",
+      "characters": 12,
+      "ruby": []
+    },
+    {
+      "pageNumber": 111,
+      "content": "雲雀と蛙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 112,
+      "content": "雲雀《ひばり》と蛙の\n\n鳴きくらだ\n\n雲雀が負けたら\n\nお空から\n\nピーチク　チクチク\n\n逃げて来る\n\n蛙も負けたら\n\n田甫《たんぼ》から\n\nゲコゲコ　ゲツコと",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 113,
+      "content": "逃げて来る\n\nどつちも負けずに\n\nうんと鳴け\n\n雲雀はどうやら\n\n負けさうだ\n\n蛙もどうやら\n\n負けさうだ\n\nどつちも鳴きくら\n\nくたびれる",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 114,
+      "content": "ドンドンバシ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 115,
+      "content": "ドンドン　バシノ\n\nシタニハ\n\nメダカガ　オヨイデ\n\nアソンデ　ヰル\n\nドンドンバシヲ\n\nトホルト\n\nメダカガ　ミンナデ\n\nニゲテ　イツタ\n\nドンドン　バシヲ",
+      "characters": 79,
+      "ruby": []
+    },
+    {
+      "pageNumber": 116,
+      "content": "ワタルト\n\nドンドンドント\n\nナルカラ\n\nメダカガ\n\nタマゲルノダ",
+      "characters": 33,
+      "ruby": []
+    },
+    {
+      "pageNumber": 117,
+      "content": "子守唄",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 118,
+      "content": "遠くの遠くの\n\n竹山に\n\n露から生れた\n\nお姫さま\n\n姿もやさしく\n\nきりようよし\n\nつづれの錦の\n\n帯をしめ\n\n着物は振り袖",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 119,
+      "content": "一重褄《ひとえづま》\n\n模様は桜の\n\n花ちらし\n\n小笹のお舟に\n\n帆をかけて\n\n黄金のお鈴を\n\n振りながら\n\nねんねする子を\n\nたづねます",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 120,
+      "content": "お舟に積んでる\n\nお土産は\n\n金銀珊瑚《さんご》の\n\nよいおもちや\n\nこの子のお好きな\n\nものばかり",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 121,
+      "content": "燕と柳",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 122,
+      "content": "柳の下から\n\n燕が水汲む\n\n柳の下には\n\n小川が流れる\n\n小川の中から\n\nすいすい汲みます\n\nお嘴《くち》で汲むから\n\nお翼《はね》がぬれます\n\n燕のお家は",
+      "characters": 78,
+      "ruby": []
+    },
+    {
+      "pageNumber": 123,
+      "content": "軒端の蔭です\n\n軒端の蔭から\n\nすいすい出て来る\n\n柳の下から\n\n飛び飛び汲みます\n\nお嘴で汲むから\n\nお翼がぬれます",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 124,
+      "content": "田植",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 125,
+      "content": "今朝から田植が\n\nはじまつた\n\n一枚植ゑれば\n\nまたつぎへ\n\nつぎからつぎへと\n\n植ゑてゆく\n\nひろい田甫《たんぼ》の\n\nすみまでも\n\n日のくれごろには",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 126,
+      "content": "残りなく\n\nみんな青田に\n\nなつてゆく",
+      "characters": 19,
+      "ruby": []
+    },
+    {
+      "pageNumber": 127,
+      "content": "蛙の幼稚園",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 128,
+      "content": "お池は蛙の\n\n幼稚園\n\n毎日泳ぎの\n\n稽古です\n\nバッチヤ　バッチヤ\n\nザンブ　ザンブ\n\nシユシユ　シユ\n\n一番上手に\n\nずんずんと",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 129,
+      "content": "泳ぐは蛙の\n\n先生です\n\nバッチヤ　バッチヤ\n\nザンブ　ザンブ\n\nシユシユ　シユ\n\n泳ぎの出来ない\n\n子蛙に\n\n泳ぎを教へて\n\nゐるのです",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 130,
+      "content": "バッチヤ　バッチヤ\n\nザンブ　ザンブ\n\nシユシユ　シユ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 131,
+      "content": "燕の泥ぬり",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 132,
+      "content": "燕のお家《うち》は\n\n泥の家\n\n田甫《たんぼ》の泥土\n\nはこんだり\n\nお堀の泥土\n\nはこんだり\n\nお口で壁ぬり\n\nいたします\n\n忙がし　忙がし",
+      "characters": 71,
+      "ruby": []
+    },
+    {
+      "pageNumber": 133,
+      "content": "ピイチク　チー\n\nお口も　よごれて\n\n泥だらけ\n\nお花が咲いても\n\nいきません\n\nせつせと　お家を\n\nつくります",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 134,
+      "content": "目高",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 135,
+      "content": "大きい　目高は\n\n隊長さん\n\nツンツク　ツクツク\n\nツンツンツン\n\n小さい　目高は\n\n兵隊さん\n\n負けずに　ツクツク\n\nツンツンツン\n\nどんなに　この川",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 136,
+      "content": "深かろが\n\nどんなに　流れが\n\n早かろが\n\n目高だ　目高だ\n\n行列だ\n\nツンツン　ツクツク\n\nツンツンツン",
+      "characters": 53,
+      "ruby": []
+    },
+    {
+      "pageNumber": 137,
+      "content": "螢",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 138,
+      "content": "ほたるは　たんぼで\n\nひかります\n\nほたるの　ひかりは\n\nぴつかりこ\n\nぴつかり　ぴつかり\n\nぴつかりこ\n\nほたるは　とんで\n\nすういすうい　にげる\n\nたんぼの　たのなかすういすうい",
+      "characters": 91,
+      "ruby": []
+    },
+    {
+      "pageNumber": 139,
+      "content": "沼の鮒釣り",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 140,
+      "content": "銀鮒　金鮒\n\n沼の鮒",
+      "characters": 10,
+      "ruby": []
+    },
+    {
+      "pageNumber": 141,
+      "content": "沼の鮒釣り",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 142,
+      "content": "面白い\n\n釣竿かついで\n\n友達と\n\n田甫《たんぼ》の釣道\n\nエッサッサ\n\n大鮒　小鮒が\n\n寄つて来る\n\n沼の縁でも\n\nよく釣れる",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 143,
+      "content": "今日もにこにこ\n\n元気よく",
+      "characters": 13,
+      "ruby": []
+    },
+    {
+      "pageNumber": 144,
+      "content": "沼の鮒釣り",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 145,
+      "content": "エッサッサ",
+      "characters": 5,
+      "ruby": []
+    },
+    {
+      "pageNumber": 146,
+      "content": "螢狩り",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 147,
+      "content": "螢　来い　来い",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 148,
+      "content": "ここへ　来い\n\n田甫《たんぼ》は　泥田で\n\nいかれない\n\n泥田の田甫は\n\n飛んで　来い",
+      "characters": 43,
+      "ruby": []
+    },
+    {
+      "pageNumber": 149,
+      "content": "螢　来い　来い",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 150,
+      "content": "ここへ　来い\n\n川が　深くて\n\nいかれない\n\n川が深くば\n\n飛んで　来い",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 151,
+      "content": "どんと波",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 152,
+      "content": "どんと波来い\n\n沖から来い\n\n遠くの沖から\n\nつづいて来い\n\n大波　小波で\n\n仲よく来い\n\n来い来い来い\n\nどんと波来い\n\nどんと波どん",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 153,
+      "content": "どんどんどん\n\n道草しないで\n\n急いで来い\n\n仲よく陸《をか》見て\n\nどんどと来い\n\n来い来い来い\n\nどんと波来い",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 154,
+      "content": "オハナ　バタケ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 155,
+      "content": "タカイ　トホクノ\n\nオヤマニハ\n\nオハナ　バタケガ\n\nアルノ　デス\n\nオハナ　バタケニ\n\nサクハナハ\n\nナツヲ　マツテテ\n\nサキマシタ\n\nアカヤ　キイロヤ",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 156,
+      "content": "モモイロヤ\n\nシロヤ　シボリヤ\n\nムラサキヤ\n\nミンナ　ミゴトナ\n\nハナ　デシタ",
+      "characters": 40,
+      "ruby": []
+    },
+    {
+      "pageNumber": 157,
+      "content": "お風呂",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 158,
+      "content": "お風呂が　沸いた\n\nもう沸いた\n\nおもちやの　金魚が\n\n浮いてゐる\n\n一匹　二匹\n\n三　四　匹\n\n金魚と一緒に\n\nはいりませう\n\nおもちやの　金魚は",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 159,
+      "content": "面白い\n\n沈めてやつても\n\n浮きあがり\n\n泳げといつても\n\n泳がない\n\nお風呂に　並んで\n\n遊んでる",
+      "characters": 50,
+      "ruby": []
+    },
+    {
+      "pageNumber": 160,
+      "content": "お星さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 161,
+      "content": "空で　ピカピカ",
+      "characters": 7,
+      "ruby": []
+    },
+    {
+      "pageNumber": 162,
+      "content": "お星さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 163,
+      "content": "あれあれ　お目々が\n\n光ります\n\n空の　上から\n\n遠くまで\n\n毎晩　寝ないで\n\n見てゐます\n\n小さい　お星は\n\nねむいから\n\nお目々が　ぽちぽち",
+      "characters": 72,
+      "ruby": []
+    },
+    {
+      "pageNumber": 164,
+      "content": "するのです\n\nそれでも　やつぱり\n\nねむらずに\n\nお目々を　こすつて\n\n起きてます",
+      "characters": 41,
+      "ruby": []
+    },
+    {
+      "pageNumber": 165,
+      "content": "お池つくり",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 166,
+      "content": "夏はお庭で\n\n父さんと\n\nお池こさえて\n\n遊びませう\n\nお庭掘つたら\n\n真つ先きに\n\n裏の井戸から\n\n父さんと\n\n水をバケツで",
+      "characters": 63,
+      "ruby": []
+    },
+    {
+      "pageNumber": 167,
+      "content": "運びませう\n\nざんぶざんぶと\n\n涼しそに\n\n水がお池に\n\nたまつたら\n\n金魚いかして\n\n眺めませう",
+      "characters": 49,
+      "ruby": []
+    },
+    {
+      "pageNumber": 168,
+      "content": "海",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 169,
+      "content": "海は　青くて\n\nきれいです\n\n海を　眺めて\n\nをりますと\n\n夏でも　凉しく\n\nなるのです\n\n海は　広くて\n\n愉快です\n\n波と　波とが",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 170,
+      "content": "どんどん　と\n\n負《まけ》ずに　駈けくら\n\nいたします",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 171,
+      "content": "ささぶね",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 172,
+      "content": "ささの　はつぱの\n\nささぶねは\n\n川を　ながれて\n\nいきました\n\n川は　うみまで\n\nつづきます\n\nなみも　うみには\n\nうつてます\n\nろもない　ほもない",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 173,
+      "content": "ささぶねは\n\nどこまで　ながれて\n\nいくのでせう",
+      "characters": 24,
+      "ruby": []
+    },
+    {
+      "pageNumber": 174,
+      "content": "すつぽん亀の子",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 175,
+      "content": "註　＊満洲国の河。外蒙古と内蒙古の国境が北へ向かつて興安嶺につき当つた辺から東へ流れ出してゐます。下流は有名な松花江であります。\n\n児河（ドルガ）＊の亀の子\n\nスツポン　ポン",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 176,
+      "content": "すつぽん亀の子",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 177,
+      "content": "ピツチヤ　ピチヤ\n\nピチヤ　ピチヤ　首出せ\n\nスツポン　ポン",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 178,
+      "content": "すつぽん亀の子",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 179,
+      "content": "泥だらけ\n\n泥から　匍ひ出す\n\nスツポン　ポン\n\n児河の泥水\n\nピツチヤ　ピチヤ",
+      "characters": 40,
+      "ruby": []
+    },
+    {
+      "pageNumber": 180,
+      "content": "夕立",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 181,
+      "content": "夕立　駈あし　早いあし",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 182,
+      "content": "出て来た　出て来た　入道雲\n\n忽《たちま》ち　お空に　ひろがつて\n\n見る間に　降り出す　強い雨\n\n鳴り出す　鳴り出す　光り出す\n\nピカピカ　ゴロゴロ　稲光り\n\n忽ち　お空を　駈けぬけて\n\n早いぞ　早いぞ　入道雲",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 183,
+      "content": "螢と露",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 184,
+      "content": "空のお星が\n\n落ちて来て\n\n蛍の　光に\n\nなつたとサ\n\n蛍の　光は\n\nすいすいと\n\n夜露を　たづねて\n\n飛んでます\n\n夜露も　空の",
+      "characters": 65,
+      "ruby": []
+    },
+    {
+      "pageNumber": 185,
+      "content": "お星から\n\n草の葉　木の葉に\n\n降るのです\n\n螢も　お星を\n\n忘れずに\n\n夜露を　たづねて\n\n飛んでます",
+      "characters": 52,
+      "ruby": []
+    },
+    {
+      "pageNumber": 186,
+      "content": "七夕",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 187,
+      "content": "毎年《マイネン》　七月\n\n七日ニハ\n\nタンタン七夕\n\n星祭リ\n\nタンタン七夕\n\n来タナラバ\n\nタンタン短冊\n\n歌カイテ\n\n短冊　ツルシタ",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 188,
+      "content": "竹タテテ\n\nタンタン　七夕\n\n祭リマセウ",
+      "characters": 20,
+      "ruby": []
+    },
+    {
+      "pageNumber": 189,
+      "content": "カミシバヰ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 190,
+      "content": "ハジマル　ハジマル",
+      "characters": 9,
+      "ruby": []
+    },
+    {
+      "pageNumber": 191,
+      "content": "カミシバヰ",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 192,
+      "content": "アワテタ　ネズミノ\n\nオシバヰ　ダ\n\nチヤンキ　チヤンキ\n\nチヤン　チヤン\n\nコネコニ　オハレタ\n\nオヤネズミ\n\nタマゲテ　アワテタ\n\nオシバヰ　ダ\n\nチヤンキ　チヤンキチヤン　チヤン",
+      "characters": 92,
+      "ruby": []
+    },
+    {
+      "pageNumber": 193,
+      "content": "松虫",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 194,
+      "content": "チロリン　チロリン\n\nチンチロ　リン\n\nチロチロ　チロリン\n\n松虫や\n\nハイ　ハイ　御用は\n\nなんですか\n\n野原に　ゐたとき\n\nどうしてた\n\nチロリン　チロリン",
+      "characters": 80,
+      "ruby": []
+    },
+    {
+      "pageNumber": 195,
+      "content": "なきながら\n\n朝露　夜露を\n\n吸ひました",
+      "characters": 20,
+      "ruby": []
+    },
+    {
+      "pageNumber": 196,
+      "content": "セイタカコスモス",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 197,
+      "content": "セイタカ\n\nコスモス\n\nセイクラベ\n\nオテテヲ\n\nアゲテモ\n\nトドカナイ\n\nタカイナ\n\nタカイナ\n\nカテナイナ",
+      "characters": 55,
+      "ruby": []
+    },
+    {
+      "pageNumber": 198,
+      "content": "ワタシノ\n\nセイデハ\n\nカナハナイ",
+      "characters": 17,
+      "ruby": []
+    },
+    {
+      "pageNumber": 199,
+      "content": "月と兎",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 200,
+      "content": "兎はお山で\n\n遊びます\n\nお月さんお空で\n\n見てゐます\n\n兎とお月さんは\n\n昔から\n\n誰でも知つてる\n\nお仲よし",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 201,
+      "content": "虫の声",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 202,
+      "content": "虫の音楽　にぎやかで\n\n誰が聞いても　面白い\n\nチロリン　チロリン\n\nチロリン　チロリン\n\nチンチロ　リン　リン　リン\n\n日暮れごろから　目をさまし\n\n草や小藪の　上に来て\n\nチロリン　チロリン\n\nチロリン　チロリン",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 203,
+      "content": "チンチロ　リン　リン　リン\n\n夜は友達　集つて\n\n細いすずしい　声をして\n\nチロリン　チロリン\n\nチロリン　チロリン\n\nチンチロ　リン　リン　リン",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 204,
+      "content": "おるすです",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 205,
+      "content": "どちらへ　つばめは\n\n　　　いきました\n\nお国へ　かへつて\n\n　　　いきました\n\nつばめの　お国は\n\n　　　どちらです\n\nお国は　南の\n\n　　　遠くです\n\n海こえ　海こえ",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 206,
+      "content": "　　　海こえて\n\n遠くの　遠くの\n\n　　　お国です",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 207,
+      "content": "兎の綱引き",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 208,
+      "content": "お餅も　つかずに\n\nどうした　ことやら\n\nエンヤラ　ヤツサと\n\n兎の　綱引き\n\nお耳を　振り　振り\n\nどつこい　どつこい\n\nすべつて　ころげる\n\n負けては　ならない\n\nさうとも　さうとも",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 209,
+      "content": "ひつぱれ　ひつぱれ\n\n加勢が　来るまで\n\n勝負が　つかなきや\n\n月夜に　なつても\n\nその綱　放すな\n\nよいとも　よいとも\n\n放せば　負けるぞ",
+      "characters": 70,
+      "ruby": []
+    },
+    {
+      "pageNumber": 210,
+      "content": "豚のお鼻",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 211,
+      "content": "豚のお鼻は\n\nぶうぶうお鼻\n\n小さい時から\n\nお鼻が鳴つた\n\n歩きながらも\n\nぶうぶう鳴らす\n\n豚のお鼻は\n\n喇叭《ラツパ》のお鼻\n\nお鼻が喇叭で",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 212,
+      "content": "お鼻が鳴つた\n\n目さへ覚めれば\n\nお鼻を鳴らす\n\n豚のお鼻は\n\n喇叭のお鼻",
+      "characters": 37,
+      "ruby": []
+    },
+    {
+      "pageNumber": 213,
+      "content": "月夜の竹やぶ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 214,
+      "content": "月夜の　竹やぶ\n\nたん　たん　竹やぶ\n\n夜通し\n\nピカピカ\n\n竹の葉つぱに\n\n何ぢやらう\n\n夜通し　ピカピカ\n\n何ぢやらう\n\n星が寝ぼけて",
+      "characters": 69,
+      "ruby": []
+    },
+    {
+      "pageNumber": 215,
+      "content": "来たのやら\n\n星ぢや　ないない\n\n星ぢやない\n\n月夜に生まれた\n\n露の玉\n\n夜通し　ピカピカ\n\nまんまるく\n\n竹の葉つぱで\n\nねんねする",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 216,
+      "content": "狸のいたづら",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 217,
+      "content": "ゴムの毬《まり》は\n\nポンポコ　ポン\n\n狸の太鼓は\n\n腹太鼓\n\n太鼓で毬を\n\nついたなら\n\nポンポコ　ポンノ　ポンポコ　ポン\n\n狸も毬も\n\nポンポコ　ポン",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 218,
+      "content": "軽い瓢箪《へうたん》\n\nポンポコ　ポン\n\n狸の尻尾は\n\n重いから\n\n尻尾で狸が\n\nたたいたら\n\nポンポコ　ポンノ　ポンポコ　ポン\n\n瓢箪ころげて\n\nポンポコ　ポン",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 219,
+      "content": "あわてた烏",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 220,
+      "content": "月夜に烏が\n\n眼をさまし\n\n夜明になつたと\n\n飛び出した\n\nねぼけて月夜を\n\n忘れてる\n\nあわてた烏は\n\nおかしいな　カア　カア　カア\n\n夜明に烏が",
+      "characters": 74,
+      "ruby": []
+    },
+    {
+      "pageNumber": 221,
+      "content": "眼をさまし\n\n日暮になつたと\n\n啼き出した\n\n夜明と日暮と\n\n間違へた\n\nあわてた烏は\n\nをかしいな　カア　カア　カア",
+      "characters": 59,
+      "ruby": []
+    },
+    {
+      "pageNumber": 222,
+      "content": "十五夜",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 223,
+      "content": "まるい　お月さん\n\n十五夜さん\n\nまんまる　お顔で\n\nにこにこと\n\n空の　上から\n\nハイ　今晩は\n\n誰と　お月さん\n\nお友達\n\nぺつたん　ぺつたん",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 224,
+      "content": "お餅つく\n\nぴよんぴよん　うさぎと\n\nハイ　お友達",
+      "characters": 25,
+      "ruby": []
+    },
+    {
+      "pageNumber": 225,
+      "content": "鳴子",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 226,
+      "content": "鳴子の　綱引け\n\nガランガラン　ガラン\n\n田甫《たんぼ》の　小鳥は\n\nキョロォキョロォ　キョロォ\n\n引け引け　やれ引け\n\nガランガラン　ガラン\n\n小鳥が　そろつて\n\nキョロォキョロォ　キョロォ\n\n鳴子だ　鳴子だ",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 227,
+      "content": "ガランガラン　ガラン\n\n飛びませう　逃げませう\n\nキョロォキョロォ　キョロォ\n\n逃げぬか　逃げぬか\n\nガランガラン　ガラン\n\nなかなか　飛ばない\n\nキョロォキョロォ　キョロォ",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 228,
+      "content": "案山子",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 229,
+      "content": "弓矢を握つて\n\n立つてゐる\n\n案山子《かかし》は田甫《たんぼ》の\n\n番兵です\n\n敵の小鳥は\n\n遠くから\n\n案山子を見付けて\n\n逃げていく\n\n簑笠《みのかさ》仕度で",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 230,
+      "content": "元気よく\n\n来たら射るぞと\n\n身構へた\n\n番兵の案山子は\n\n勇ましい",
+      "characters": 34,
+      "ruby": []
+    },
+    {
+      "pageNumber": 231,
+      "content": "やまがら",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 232,
+      "content": "かやの木山へ\n\nやまがらが\n\nかやの実　とりに\n\n来てゐます\n\n枝から　枝へ\n\nとびうつり\n\n声も　高々\n\nなきながら\n\nかやの木山の",
+      "characters": 67,
+      "ruby": []
+    },
+    {
+      "pageNumber": 233,
+      "content": "かやの木に\n\nかやの実　とりに\n\n来てゐます",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 234,
+      "content": "朝オキ雀",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 235,
+      "content": "アサオキ　スズメガ\n\nオ日サマニ\n\nチン　チン　ソロツテ\n\nオヤネカラ\n\nオ日サマ　オハヨト\n\nイヒマシタ\n\nアサオキ　スズメニ\n\nオ日サマモ\n\nソラニ　オカホヲ",
+      "characters": 81,
+      "ruby": []
+    },
+    {
+      "pageNumber": 236,
+      "content": "ダシナガラ\n\nオハヨウ　オハヨト\n\nイヒマシタ",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 237,
+      "content": "大根洗ヒ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 238,
+      "content": "ミンナ　ナランデ\n\nダイコンアラヒ\n\nニイサンモ\n\nハダシデ\n\nゴシゴシ　ヂヤンプ　ヂヤンプ\n\nゴシゴシ　ヂヤンプ　ヂヤンプ\n\nタレモ　タスキヲ\n\nキリリト　カケテ\n\nネエサンモ",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 239,
+      "content": "ハダシデ\n\nゴシゴシ　ヂヤンプ　ヂヤンプ\n\nゴシゴシ　ヂヤンプ　ヂヤンプ",
+      "characters": 36,
+      "ruby": []
+    },
+    {
+      "pageNumber": 240,
+      "content": "雀ト山茶花",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 241,
+      "content": "山茶花《サザンカ》ノ　花ハ\n\n山茶花ノ　枝ニ\n\nイクツモ　咲イタ\n\n山茶花ノ　下デ\n\n山茶花ノ　花ヲ\n\n見ナガラ　遊ボ\n\n山茶花ノ　咲イタ\n\n山茶花ノ　枝ヘ\n\n雀モ　オイデ",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 242,
+      "content": "落葉",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 243,
+      "content": "落葉《おちば》の　学校の\n\n生徒さん\n\n風の　吹くたび\n\n一二の三\n\nエンサカ　ホイサと\n\n飛びまはる\n\n飛ぶのが　上手な\n\n生徒さん\n\nみんな　そろつて",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 244,
+      "content": "一二の三\n\nまけずに　ひらひら\n\n飛びまはる",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 245,
+      "content": "山",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 246,
+      "content": "テテポポ　ポツポ　と\n\nやまばと　が\n\nやまで　ラツパ　を\n\nふきました\n\nテテポポ　テテポポ\n\nポツポツ　ポツ\n\nテテポポ　ポツポ　と\n\nやまばとが\n\nやまで　ふくのが",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 247,
+      "content": "じようず　です\n\nテテポポ　テテポポ\n\nポツポツ　ポツ",
+      "characters": 27,
+      "ruby": []
+    },
+    {
+      "pageNumber": 248,
+      "content": "逃げた小鳥",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 249,
+      "content": "小鳥は丘や\n\n森がすき\n\n丘で遊んで\n\n森で寝る\n\n籠の中には\n\n丘はない\n\n籠の中には\n\n森はない\n\n逃げた小鳥は",
+      "characters": 58,
+      "ruby": []
+    },
+    {
+      "pageNumber": 250,
+      "content": "空高く\n\n小さい翼《はね》の\n\nつづくだけ\n\n丘の向かふへ\n\n飛んでいく\n\n森の向かふへ\n\n飛んでいく",
+      "characters": 51,
+      "ruby": []
+    },
+    {
+      "pageNumber": 251,
+      "content": "豆腐屋さんのラツパ",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 252,
+      "content": "朝起き　早起き\n\n豆腐屋さん\n\nお豆腐かついで\n\nラツパ吹く\n\nトーテトーテ　トテトの\n\nトテ　トテト\n\n雨が降つても\n\n休まない\n\n風が吹いても",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 253,
+      "content": "休まない\n\nトーテトーテ　トテトの\n\nトテ　トテト\n\n街から街へ\n\n吹いていく\n\n優しいラツパ手\n\n豆腐屋さん",
+      "characters": 55,
+      "ruby": []
+    },
+    {
+      "pageNumber": 254,
+      "content": "騎兵",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 255,
+      "content": "みんな　ぱかぱか\n\nお馬に乗つて\n\nいつも　騎兵は\n\n勇ましい\n\nみんな　お馬も\n\n鉄靴はいて\n\nとつと　とつとと\n\n駈《かけ》てゆく\n\nみんな一緒に",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 256,
+      "content": "いくさの時は\n\nいつも　真先\n\nいさましい",
+      "characters": 21,
+      "ruby": []
+    },
+    {
+      "pageNumber": 257,
+      "content": "おしやべり四十雀",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 258,
+      "content": "山で　カラカラ　カラカラ\n\nおしやべり　四十雀\n\n黒い　黒い　黒いソフトの\n\n黒い　小帽子\n\n白い　白い　白いエプロン\n\n白い　チヨツキ\n\nピーピー　カラカラ　カラカラ\n\nピー　カラカラ　ピー\n\n森で　カラカラ　カラ",
+      "characters": 108,
+      "ruby": []
+    },
+    {
+      "pageNumber": 259,
+      "content": "枝から　枝渡り\n\n小さい　小さい　小さいロイドの\n\n小さい　目鏡《めがね》\n\n青い　青い　青い上衣に\n\n青い　マント\n\nピーピー　カラカラ　カラカラ\n\nピ　カラカラ　ピー",
+      "characters": 85,
+      "ruby": []
+    },
+    {
+      "pageNumber": 260,
+      "content": "輪廻し",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 261,
+      "content": "輪廻し　くるくる",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 262,
+      "content": "面白い\n\n急いで廻せば\n\n早くなる\n\nのろのろ廻せば\n\nおそくなる\n\nとまれば廻らず\n\n直ぐころぶ\n\n転ばず廻れと\n\nかけだすと",
+      "characters": 64,
+      "ruby": []
+    },
+    {
+      "pageNumber": 263,
+      "content": "くるくる　くるくる\n\nよく廻る",
+      "characters": 15,
+      "ruby": []
+    },
+    {
+      "pageNumber": 264,
+      "content": "友だち",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 265,
+      "content": "皆さん　皆さん\n\nお友だち\n\nみんなで　仲よく\n\n遊びませう\n\nはねくら　なはとび\n\nランニング\n\nまけても　泣いては\n\nいけません\n\nかつても　自慢は",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 266,
+      "content": "いけません\n\nかちくら　ごつこで\n\n遊びませう",
+      "characters": 23,
+      "ruby": []
+    },
+    {
+      "pageNumber": 267,
+      "content": "雀",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 268,
+      "content": "雀の朝起き\n\n早いこと\n\nお日さまお顔を\n\n出さぬうち\n\nお目々をさまして\n\n下さいと\n\n坊ちやん　嬢ちやん\n\n呼びながら\n\n軒端で　ちんちん啼いてます",
+      "characters": 76,
+      "ruby": []
+    },
+    {
+      "pageNumber": 269,
+      "content": "橇と少女子",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 270,
+      "content": "雪の野原の\n\n遠くから\n\nちんから　ちんから\n\n鈴が鳴る\n\n馬に曳かせて\n\n元気よく\n\n鈴を振り振り\n\n橇《そり》が来る\n\n鈴の鳴るのを",
+      "characters": 68,
+      "ruby": []
+    },
+    {
+      "pageNumber": 271,
+      "content": "少女子が\n\n留守居しながら\n\n聞いてゐる",
+      "characters": 20,
+      "ruby": []
+    },
+    {
+      "pageNumber": 272,
+      "content": "村のかぢや",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 273,
+      "content": "村のかぢやは\n\n早くから\n\nトツテン　トツテン\n\nトツテン　カン\n\n大鎚《おほつち》小鎚の\n\n鎚の音\n\nつくる鋤《すき》　鍬《くわ》\n\n鎌　唐鍬\n\nトツテン　トツテン",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 274,
+      "content": "トツテン　カン\n\n朝から晩まで\n\nいそがしい",
+      "characters": 22,
+      "ruby": []
+    },
+    {
+      "pageNumber": 275,
+      "content": "スキー",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 276,
+      "content": "スキーは　愉快で\n\n面白い\n\nつるつる　滑つて\n\n走つてる\n\n下手では　スキーは\n\n走らない\n\nすつてん　ころりん\n\nよく転ぶ\n\n上手の　スキーは",
+      "characters": 73,
+      "ruby": []
+    },
+    {
+      "pageNumber": 277,
+      "content": "ずんずんと\n\nするする　するする\n\n面白く\n\n原でも坂でも\n\n走つてる",
+      "characters": 35,
+      "ruby": []
+    },
+    {
+      "pageNumber": 278,
+      "content": "童謡について一言",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 279,
+      "content": "　この童謡集「朝おき雀」は、私が年来主張して来た所謂米英文化に影響されず、郷土即ち本来の日本国民性を護るために聊かなりとも児童の情操教育を培ふ基となれば幸ひであります。それについて童謡の立場から二三挙げて申し述べて見ませう。\n\n　一体童謡は、児童の歌でありますから、児童に判りにくいむつかしい文字やむつかしい意味を避けて、誰にも判るやうに書かなくてはならないのです。それは自然の心から生れて来る童心を中心として書くなり作るなりしなくてはなりません。そこでこの童心を除外したり、無視しては童謡は出来ないのです、その上童謡には異性間の愛着があつてはなりません。異性間の愛着のあるのは民謡ですから、童謡は純真無垢と言はるるのもこの点からであります。また教育の上から注意すべきことであります。\n\n　童謡には往々、犬と話をしたり、馬と話をしたり対人的の取りあつかひをします。何故かと言ふと犬も馬も万物あらゆるものは人間と同じに見るからであります。まことに子供らしいのが童謡でありますから、世にいふ普通の文学とは変つてをります。ここに童謡の童謡たる所以があるのであります。",
+      "characters": 480,
+      "ruby": []
+    },
+    {
+      "pageNumber": 280,
+      "content": "　さて、この童謡について言ふならば、「赤子は大人の如し」と昔の聖人が言つてゐますがここに言ふ赤子とは赤ン坊の意味でなく純真の心の持主の意味であります。又大人と言つたのも単におとなの意味でなく人々の手本となるべき人の意味であります。今でも目上の人に対して何々尊大人とか書くのと尊敬して書くのと同じ意味であります。要するに「赤子は大人の如し」と言つたのは子供の心には人々の手本となるべき尊い心があると言ふ意味になるのであります。その外にも昔の聖人と言はるる人は言葉が違つてゐても同じ純真さを説いてをります。昔から子供の心は誰でも純真であることがうなづかれます。\n\n　童謡を作るには仮へば水の低きに流るるやうなもので、すらすらと書かれるのが本当です。考へ考へ書かれたのは、すらすらとなりません。児童の教育に差支へのない限りはこの点に指導者は注意を要すべきことであります。\n\n　童話と童謡とは同じ童心から生まれるのでありますが、童話はお話であつて、童謡は歌でありますから、お話と歌の違ひがありますが、どちらも児童のものであります。歌であるだけ童謡は言葉の調子旋律に重きをおきます。どんなことでも童謡になると思ふのは、違ひます。童謡になるものと、ならないものとあります。童謡にならないものを童謡にしようと思ふと苦心を要します。苦心をした上によくは書けないのであります。この点も指導者はよく考へる必要があると思はれます。\n\n　輝き渡る日本の国です。国民性の純真無垢の児童の心を培ふことが、将来のためにも、又、郷土色を多少でも養ふことがわれわれの努めであります。\n\n　　昭和十七年五月一日\n\n野口雨情",
+      "characters": 693,
+      "ruby": []
+    }
+  ]
+}

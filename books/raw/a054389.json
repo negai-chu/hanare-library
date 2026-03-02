@@ -1,0 +1,48 @@
+{
+  "id": "a054389",
+  "title": "悒鬱な花",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "悒鬱な花",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "悒鬱な花",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "はながさいてゐる\n\n目をつむつてぼくは見てゐる\n\nはなびらは色《いろ》をうしなひ\n\nあを白くうなだれて……\n\nはななれば　はなのやうに\n\nなぜ笑はないのだらう\n\nはながさいてゐる\n\n目をそつとつむると\n\nいつでも黙つてさいてゐる",
+      "characters": 114,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "背中をむけて　向ふを向いて\n\n悒鬱な花よ　匂ひのない――\n\n花ならば　花のやうに……",
+      "characters": 42,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a045118",
+  "title": "誰か",
+  "author": "スティーブンソンロバート・ルイス",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "誰か",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "誰か",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "僕等が原にゐる時は、\n\n誰かこつそりやつて来る。\n\n僕等がたのしくゐる時は、\n\n誰か森からやつて来る。\n\n誰だかちつともわからない、\n\nどんな姿かわからない。\n\nけれどきつとよ、やつて来る、\n\n僕等がたのしくゐる時は。\n\n桂のなかや草《くさ》の上、",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "僕等と一しよに歌うたふ。\n\n僕等がたのしくゐる時は、\n\nきつと誰だかそばにゐる。\n\n僕等が穴をほる時は、\n\nその穴のなかもぐりこむ。\n\n僕等がおもちやで遊ぶ時、\n\n錫の兵士とならんでる。\n\n僕等が毎晩ねる時は、おやすみよつくと必《きつ》と言ふ。\n\nそして僕等がねてる時、",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "おもちやの箱の番してる。",
+      "characters": 12,
+      "ruby": []
+    }
+  ]
+}

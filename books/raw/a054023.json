@@ -1,0 +1,48 @@
+{
+  "id": "a054023",
+  "title": "血を越えてゆく",
+  "author": "松本淳三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "血を越えてゆく",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "血を越えてゆく",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "われら　血を越えてゆく\n\nはらからが流したる\n\nくろき血をぞ　越えて尚ゆく\n\nおそろしき権力は\n\nゆくてをふさぎ\n\nするどき刃は\n\nたえず頭上にひらめけども\n\nあらしの如く\n\n泉のごとく",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "石をおしわけ　春　芽をふく草の\n\n力に似て\n\n彼岸を遠く\n\nたのみ且つ信じ\n\nああ　われら血を越え\n\nたゆまずゆく\n\nはらからに続き　また\n\nはらからを後に率いて――\n\n（『種蒔く人』一九二一年十月号に発表）",
+      "characters": 104,
+      "ruby": []
+    }
+  ]
+}

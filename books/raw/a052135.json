@@ -1,0 +1,42 @@
+{
+  "id": "a052135",
+  "title": "続　手紙",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "続　手紙",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "続　手紙",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "右の本を御こし可レ被レ遣候。太刀のゑがかいてあるナリ。\n\nやどにてかりてあるたんすのひきだしの下タのはしのひきだしに、白ラさや《（鞘）》のたんとふ《（短刀）》がある。\n\n御こし可レ被レ遣（（つかはさるべく））候。\n\n才谷梅太郎\n謹付二貴价一（（つつしんできかいにふし））申候。",
+      "characters": 138,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a003907",
+  "title": "入選小説「新聞配達夫」について",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "入選小説「新聞配達夫」について",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "入選小説「新聞配達夫」について",
+      "characters": 15,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　私が予選をうけもった十数篇の中でもこの位真情にあふれたのはなかった。\n\n　徳永の云っているとおり、もっと高い芸術化が必要であることも分るが、作者の力で今それは不可能であり、これはこのままよいところを買ってよまれ、それでやはり十分読者の心をとらえる力をもっていると思う。\n\n〔一九三四年十月〕",
+      "characters": 146,
+      "ruby": []
+    }
+  ]
+}

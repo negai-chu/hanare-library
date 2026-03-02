@@ -1,0 +1,42 @@
+{
+  "id": "a052766",
+  "title": "推奨する新人",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "推奨する新人",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "推奨する新人",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "井伏鱒二――いつか三田文学で「鯉」といふ作品を見て非常に感心した。その後も同誌や別の同人雑誌でこの作者の名を見出す度に特に熟読したが孰れも相当の出来栄えである。「鯉」の作者よ、次々の作を希待する！",
+      "characters": 98,
+      "ruby": []
+    }
+  ]
+}

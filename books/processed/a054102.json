@@ -1,0 +1,48 @@
+{
+  "id": "a054102",
+  "title": "洗濯デー",
+  "author": "木村好子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "洗濯デー",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 85,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "洗濯デー",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ぷんとにおって来る力強い体臭！\n\nおお　この汚れ物のにおいこそ\n\n獄内の闘いのはげしさを語る\n\nあの人達の生々しいいぶき――\n\nさあ　みんな　元気で初めよう\n\nあたしはポンプ押し\n\n千代ちゃんはすすぎ役\n\nみんなそろって\n\nごし　ごし　ざあざあ",
+      "characters": 123,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "うらみをこめて洗い流す\n\n奴等のテロルに汚された垢を油汗を\n\n空は秋晴れ\n\nあつらえ向きの洗濯日和\n\nなかでがんばる同志達に\n\nせめて小ざっぱりした物を着せるため\n\n妾《わたし》達の胸はあつく腕に力はこもる！\n\n（『プロレタリア詩』一九三一年十一月号に発表）",
+      "characters": 129,
+      "ruby": []
+    }
+  ]
+}

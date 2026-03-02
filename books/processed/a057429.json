@@ -1,0 +1,54 @@
+{
+  "id": "a057429",
+  "title": "春の詩集",
+  "author": "河井酔茗",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "春の詩集",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 119,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "春の詩集",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あなたの懐中《くわいちう》にある小さな詩集を見せてください\n\nかくさないで――。\n\nそれ一冊《さつ》きりしかない若い時の詩集。\n\n隠《かく》してゐるのは、あなたばかりではないが\n\nをりをりは出して見せた方《はう》がよい。\n\nさういふ詩集は\n\n誰《だれ》しも持つてゐます。\n\nをさないでせう、まづいでせう、感傷的《かんしやうてき》でせう\n\n無分別《むふんべつ》で、あさはかで、つきつめてゐるでせう。",
+      "characters": 199,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "けれども歌《うた》はないでゐられない\n\n淋《さび》しい自分が、なつかしく、かなしく、\n\n人恋しく、うたも、涙も、一しよに湧《わ》き出《で》た頃の詩集。\n\nさういふ詩集は\n\n誰しも持つてゐます。\n\nたとへ人に見せないまでも\n\n大切にしまつておいて\n\n春が来る毎《ごと》に\n\n春の心になるやうに",
+      "characters": 145,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "自分の苦《くる》しさを思ひ出してみることです。\n\n詩集には\n\n過ぎて行く春の悩《なや》みが書いてあるでせう。\n\nふところ深《ふか》く秘《ひ》めて置いて\n\nそつと見る詩集でせう。\n\n併し\n\n季節《きせつ》はまた春になりました。\n\nあなたの古い詩集を見せて下さい。",
+      "characters": 130,
+      "ruby": []
+    }
+  ]
+}

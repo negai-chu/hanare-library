@@ -1,0 +1,42 @@
+{
+  "id": "a054520",
+  "title": "楔を打つ男",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "楔を打つ男",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 23,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "楔を打つ男",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　久しくして\n\n土を見ざる男なり\n\n男、地に\n\n楔を打ち\n\nよろこべり\n\n歌うたう",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

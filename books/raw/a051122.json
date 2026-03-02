@@ -1,0 +1,48 @@
+{
+  "id": "a051122",
+  "title": "風ふき鳥",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "風ふき鳥",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 79,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "風ふき鳥",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "風《かぜ》ふき鳥《どり》\n\n飛《と》んでどこへゆく\n\n海《うみ》は暴《あ》れているぞ。\n\nなんで鳴《な》く\n\nかあかあ\n\n山《やま》も暴《あ》れているぞ。\n\nあんなに高《たか》く\n\nあんなに低《ひく》く\n\n後《あと》になり、先《さき》になり。",
+      "characters": 121,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "みんなから、きらわれて\n\n鳴《な》き鳴《な》き\n\n飛《と》んでゆく。\n\n黒《くろ》い衣《べべ》を着《き》かえて\n\nこい。\n\n金《きん》の帯《おび》をしめて\n\nこい。\n\n今度《こんど》の世《よ》には\n\n王《おう》さまにしてやるぞ。",
+      "characters": 114,
+      "ruby": []
+    }
+  ]
+}

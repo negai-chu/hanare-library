@@ -1,0 +1,48 @@
+{
+  "id": "a055548",
+  "title": "光箭",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "光箭",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 59,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "光箭",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "視よ、暁と呼ぶ\n\n東方の王子\n\n我等が上に君臨まします\n\n白日の御幸《みゆき》は今日もある由なり\n\nさてこそ王子は己れが光りの箭《や》を数多《あまた》なる郎党も召従えず\n\n絶えず燦々《さんさん》と放たしむ\n\n箭は放たれたり\n\n地上は皆輝きたり\n\n東方の王子は今日一日にて",
+      "characters": 135,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "中天をすぎさせ給える模様なり\n\n而《しか》して明日も\n\n再び参らせらるると承わる",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

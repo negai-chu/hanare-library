@@ -1,0 +1,48 @@
+{
+  "id": "a053928",
+  "title": "〔花園から月かげが〕",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔花園から月かげが〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔花園から月かげが〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "花園から月かげが\n\n帷をほのかな紫にけぶらせて\n\nマダムの室を訪れるとき\n\n絢爛な裝釘を衣た私の詩集は\n\nその腕の中で\n\n指輪の役をするだらう\n\n詩集から私は生れ出る\n\n花園を月影にくたくたにぬれながらタキシードの詩人は\n\nマダムの幻想にそつと近づく",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "詩集は私が生んだもの\n\n私は詩集から生れる",
+      "characters": 21,
+      "ruby": []
+    }
+  ]
+}

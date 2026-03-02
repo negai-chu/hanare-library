@@ -1,0 +1,54 @@
+{
+  "id": "a054793",
+  "title": "金がきたら",
+  "author": "竹内浩三",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "金がきたら",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 74,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "金がきたら",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ゲタを買おう\n\nそう人のゲタばかり　かりてはいられまい\n\n金がきたら\n\n花ビンを買おう\n\n部屋のソウジもして　気持よくしよう\n\n金がきたら\n\nヤカンを買おう\n\nいくらお茶があっても　水茶はこまる\n\n金がきたら",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "パスを買おう\n\nすこし高いが　買わぬわけにもいくまい\n\n金がきたら\n\nレコード入れを買おう\n\nいつ踏んで　わってしまうかわらかない\n\n金がきたら\n\n金がきたら\n\nボクは借金をはらわねばならない\n\nすると　又　なにもかもなくなる",
+      "characters": 113,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "そしたら又借金をしよう\n\nそして　本や　映画や　うどんや　スシや　バットに使おう\n\n金は天下のまわりもんじゃ\n\n本がふえたから　もう一つ本箱を買おうか",
+      "characters": 75,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053380",
+  "title": "烏百態",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "烏百態",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "烏百態",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雪のたんぼのあぜみちを\n\nぞろぞろあるく烏なり\n\n雪のたんぼに身を折りて\n\n二声鳴けるからすなり\n\n雪のたんぼに首を垂れ\n\n雪をついばむ烏なり\n\n雪のたんぼに首をあげ\n\nあたり見まはす烏なり\n\n雪のたんぼの雪の上",
+      "characters": 106,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "よちよちあるくからすなり\n\n雪のたんぼを行きつくし\n\n雪をついばむからすなり\n\nたんぼの雪の高みにて\n\n口をひらきしからすなり\n\nたんぼの雪にくちばしを\n\nじつとうづめしからすなり\n\n雪のたんぼのかれ畦に\n\nぴよんと飛びたるからすなり",
+      "characters": 117,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "雪のたんぼをかぢとりて\n\nゆるやかに飛ぶからすなり\n\n雪のたんぼをつぎつぎに\n\n西へ飛びたつ烏なり\n\n雪のたんぼに残されて\n\n脚をひらきしからすなり\n\n西にとび行くからすらは\n\nあたかもごまのごとくなり",
+      "characters": 101,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a055707",
+  "title": "感想",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "感想",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 155,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "感想",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "地方の詩のグループも多いことだが、どういふものか、ずつと以前から大連と神戸にだけ面白いものが見られるのだつた。京都は嘗つて小生自身二年間ゐて、詩人にとつては有難い土地だと思つてゐるので、京都あたりからもつと面白いものが出てもよかりさうなものだと、かねがね思つてゐたが、仲々出なかつた。所が今年になつて「新生」を受取るやうになつてから、漸く出たなとおもつた。\n\n「新生」がいいのは、第一に素直な点である。そしてまた肉感的な濃密さがいい。なんだか瓜の肌でも見るやうだ。ただ此の上とも希望したいことは表現の完璧といふことである。つまり簡潔といふことである。このことが果される時に詩は初めて「作品」として通用するのだと思ふ。",
+      "characters": 308,
+      "ruby": []
+    }
+  ]
+}

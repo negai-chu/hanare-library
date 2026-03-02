@@ -1,0 +1,48 @@
+{
+  "id": "a054037",
+  "title": "おれの飛行船",
+  "author": "陀田勘助",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "おれの飛行船",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 84,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "おれの飛行船",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "おれは白蟻のように噛み切ることはできない\n\nおれは飛行機のように軽快に空を飛ぶことはできない\n\nだが脳髄の中の空間に飛行船を遊歩させることはできる\n\n現在の頁を空白に削りとられた者の前には\n\n明日の希望が堂々と逍遥し始める\n\nのぞき窓からのぞき込む鋭い二つの目も\n\n希望の青空を漂泊するおれの飛行船を\n\nのぞき得ないし、捕らえ得ないし、投獄し得ない。\n\nおれの希望の青空に昇るのは",
+      "characters": 190,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "工場の烟突と凍え飢えた野良にかがやく太陽だ\n\n（獄中から大沼渉宛書簡一九三一年二月四日付　『陀田勘助詩集』を底本）",
+      "characters": 57,
+      "ruby": []
+    }
+  ]
+}

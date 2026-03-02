@@ -1,0 +1,54 @@
+{
+  "id": "a058801",
+  "title": "途中で",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "途中で",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 105,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "途中で",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　わたしは途中で一人の女とすれちがった\n\n女のかおは白粉と紅で白く赤く美しかった\n\n背が高くふっくら円かった\n\n年は二十三四\n\nそして藤色チリメンの長袖\n\n厚いフェルト草履の大股でトットッと歩いて行った\n\nそれは大変に自慢そうで\n\nからだ全体が得意で一ぱいのようだった\n\nわたしは洗いざらしの浴衣を着て",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "青《あお》じけた顔をうつむけて通りすぎた\n\nわたしは顔をうつむけて通りすぎた\n\nそうしてわたしは振りかえった\n\n振りかえった時\n\nわたしの胸はわくわくとこみ上げた\n\nいくらでも威張りなさい\n\nいくらでもおけつを振りなさい\n\nあなたがそうしてじゃらじゃらしている間に\n\nわたしたちが何をしようとしているか",
+      "characters": 151,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "何処に向かって着々としているか\n\n高慢ちきな娘よ\n\nこの陽に焼けたゆがんだ顔で\n\nみすぼらしいわたしたちが何をしでかすか\n\n何をしでかすか\n\n振りかえった時\n\nわたしの胸はわくわくとこみ上げた\n\nわたしの胸は色あせた浴衣の中で焼けた",
+      "characters": 116,
+      "ruby": []
+    }
+  ]
+}

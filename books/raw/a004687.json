@@ -1,0 +1,42 @@
+{
+  "id": "a004687",
+  "title": "『心』予告",
+  "author": "夏目漱石",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "『心』予告",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "『心』予告",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "今度は短篇をいくつか書いて見たいと思ひます、その一つ一つには違つた名をつけて行く積《〔つもり〕》ですが予告の必要上全体の題が御入用かとも存じます故それを「心《こゝろ》」と致して置きます。",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

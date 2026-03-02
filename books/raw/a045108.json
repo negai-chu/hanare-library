@@ -1,0 +1,54 @@
+{
+  "id": "a045108",
+  "title": "りんごの車",
+  "author": "新美南吉",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "りんごの車",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 52,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "りんごの車",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "りんごが三かご\n\nのつてる車、\n\nころころいつた。\n\n子供が押した。\n\n　（りんごが一かご\n\n　あちらで売れた。）\n\nりんごが二かご\n\n木箱の車、\n\nころころいつた。",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "子供が押した。\n\n　（りんごが一かご\n\n　こちらで売れた。）\n\nりんごが一かご\n\nのこつた車、\n\nころころいつた。\n\n子供が押した。\n\n　（りんごが一かご\n\n　どこかで売れた。）",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "帰りは子供が\n\nのつてる車、\n\nころころいつた、\n\nお家の方へ。",
+      "characters": 32,
+      "ruby": []
+    }
+  ]
+}

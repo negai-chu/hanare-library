@@ -1,0 +1,48 @@
+{
+  "id": "a055202",
+  "title": "ソネット",
+  "author": "マラルメステファヌ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ソネット",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 80,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ソネット",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "絹には「時」の薫《くん》ずれど\n\n「妄執《まうしふ》」の色褪せにたり、\n\n鏡のそとに溢れたる\n\n雲の御髮《みぐし》に如《しか》めやも。\n\n心急《いら》れの旗じるし\n\n道の衢《ちまた》にいきほへど、\n\nわれはた君がねくたれを\n\n枕《まくら》きてあらむ、眼もきりて。\n\nげに唇のいとせちに",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "憧《あこが》るとてもあやなしや、\n\n君戀ひわたる貴人《あてびと》が、\n\n丈長髮《たけながかみ》のふくだみに\n\n玉を擲《なげう》つここちして\n\n「名利《みやうり》」の叫《さけび》ふたがずば。",
+      "characters": 94,
+      "ruby": []
+    }
+  ]
+}

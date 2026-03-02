@@ -1,0 +1,42 @@
+{
+  "id": "a003719",
+  "title": "手芸について",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "手芸について",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "手芸について",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "切角お尋ねを受けましたが、私は何も手芸を存じません。編物や刺繍の或る物はひとのしている様子、出来上り等見るのを愛しますけれども。\n\n　非常に不器用で困ります。\n\n〔一九二二年八月〕",
+      "characters": 90,
+      "ruby": []
+    }
+  ]
+}

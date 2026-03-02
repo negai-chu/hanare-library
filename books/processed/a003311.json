@@ -1,0 +1,48 @@
+{
+  "id": "a003311",
+  "title": "遺言状・遺族善後策",
+  "author": "二葉亭四迷",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "遺言状・遺族善後策",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 145,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "遺言状・遺族善後策",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　遺言状\n\n一　余死せば朝日新聞社より多少の涙金渡るべし\n一　此金を受取りたる時は年齢に拘らず平均に六人の家族に頭割りにすべし例せば社より六百円渡りたる時は頭割にして一人の所得百円となる計算也\n一　此分配法ニ異議ありとも変更を許さず\n右之通\n\n明治四十二年三月二十二日　露都病院にて\n\n長谷川辰之助\n\n長谷川静子殿\n\n長谷川柳子殿\n\n　　　　　遺族善後策\n\nこれは遺言ではなけれど余死したる跡にて家族の者差当り自分の処分に迷うべし仍《よっ》て余の意見を左に記す",
+      "characters": 230,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "一　玄太郎せつの両人は即時学校をやめ奉公に出ずべし\n一　母上は後藤家の厄介にならせらるるを順当とす\n一　玄太郎、せつの所得金は母上の保管を乞うべし\n一　富継健三の養育は柳子殿ニ頼む\n一　柳子殿は両人を連れて実家へ帰らるべし\n一　富継健三の所得金は柳子殿に於て保管あるべし\n一　柳子殿は時機を見て再婚然るべし\n\n　一時の感情に任せ前後の考もなく薙髪などするは愚の極なり忘れてもさる軽挙を為すべからず",
+      "characters": 198,
+      "ruby": []
+    }
+  ]
+}

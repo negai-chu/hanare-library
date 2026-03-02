@@ -1,0 +1,42 @@
+{
+  "id": "a003957",
+  "title": "アメリカ我観",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "アメリカ我観",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 109,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "アメリカ我観",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "アメリカというところがなかなか興味ありそうに思われます。しかし私としては非常に、わずかのことしか知っていませんので、至極ぼんやりと、一九二九年以後アメリカの繁栄が蒙った変化につれて変化した文学、次第に成長し、ヨーロッパの良質な人をどんどんうけ入れてニュアンスを深めて来る「アメリカの明るさ」がどんな文化を生み出してゆくか、精神のゆとりと経済力をもった文化とはどうのびるものか、興味を感じている次第です。\n\n〔一九三九年十一月〕",
+      "characters": 213,
+      "ruby": []
+    }
+  ]
+}

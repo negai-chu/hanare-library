@@ -1,0 +1,54 @@
+{
+  "id": "a055018",
+  "title": "睡眠",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "睡眠",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 53,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "睡眠",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "絵具は雄弁にねむつてゐる\n\n一水夫は港を想ふ夜！\n\n珊瑚は沈んでゐる\n\n夜。海のそこに朱\n\n帆は死んでゐる\n\n夜。帆桁に白\n\n貨物船は錆びてゐる\n\n夜。港のすみに黒\n\n商店旗は垂れてゐる",
+      "characters": 93,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "夜。街上に紫\n\n飛行機は休んでゐる\n\n夜。広場で青\n\n駝鳥の卵は焦つてゐる\n\n夜。飾窓で黄\n\n仮面は生きてゐる\n\n夜。劇場の壁に赤\n\nおれは睡つてゐる\n\n夜。街裏に紅",
+      "characters": 83,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "女は湿つてゐる\n\n夜。地上いちめん蒼\n\nその体は息をする\n\n斑《まだら》",
+      "characters": 36,
+      "ruby": []
+    }
+  ]
+}

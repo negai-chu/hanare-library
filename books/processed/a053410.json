@@ -1,0 +1,42 @@
+{
+  "id": "a053410",
+  "title": "祭日〔二〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "祭日〔二〕",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "祭日〔二〕",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　アナロナビクナビ睡たく桐咲きて\n\n峡に瘧のやまひつたはる\n\nナビクナビアリナリ赤き幡もちて\n\n草の峠を越ゆる母たち\n\nナリトナリアナロ御堂のうすあかり\n\n毘沙門像に味噌たてまつる\n\nアナロナビクナビ踏まるゝ天の邪鬼\n\n四方につゝどり鳴きどよむなり",
+      "characters": 124,
+      "ruby": []
+    }
+  ]
+}

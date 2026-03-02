@@ -1,0 +1,42 @@
+{
+  "id": "a052150",
+  "title": "俚謡一",
+  "author": "坂本竜馬",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "俚謡一",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "俚謡一",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "川の西にハ松二木川の東ハ梅一木というかへし\n松もたのもしいが風がふかんげな梅ハ春くりや花もさくヨイサ実モナルゲナ\n\n新板けなしぶし\n右の哥ハちと目あてがちがふたかしらんおふかたあたりつろふのふし",
+      "characters": 97,
+      "ruby": []
+    }
+  ]
+}

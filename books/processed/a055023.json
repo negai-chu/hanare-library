@@ -1,0 +1,48 @@
+{
+  "id": "a055023",
+  "title": "頂上",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "頂上",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "頂上",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　植物はとほくけぶる外輪山の緑のいろ。\n\nここはたゞ白昼\n\n玉座の怒る噴煙である。\n\n生ものとては火口に飛び交ふ燕のむれだ\n\n断崖の影にかくれて\n\n燕窩にならぶ幼い卵だ飛翔の夢だ\n\nお、晴れるぞ霧が。\n\n海をしたがへ\n\n雲をとばし",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "てつぺんに僕を飾つてひらく山岳！\n\n伊豆大島三原山にて",
+      "characters": 27,
+      "ruby": []
+    }
+  ]
+}

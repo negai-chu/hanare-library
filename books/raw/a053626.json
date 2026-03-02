@@ -1,0 +1,66 @@
+{
+  "id": "a053626",
+  "title": "南の海へ行きます",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 6
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "南の海へ行きます",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 6,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "南の海へ行きます",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "ながい疾患のいたみも消えさり、\n\n淺間の山の雪も消え、\n\nみんなお客さまたちは都におかへり、\n\n酒はせんすゐにふきあげ、\n\nちらちら緋鯉もおよぎそめしが、\n\n私はひとりぽつちとなり、\n\nなにか知らねど泣きたくなり、\n\nせんちめんたるの夕ぐれとなり、\n\nしくしくとものをおもへば、",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "仲よしの友だちうちつれきたり、\n\n卵のごときもの、\n\n菓子のごときもの、\n\n林檎のごときものを捧げてまくらべにもたらせり、\n\nああ、けれども私はさびしく、\n\nいまはひとりで旅に行く行く、\n\nながい病氣の巣からはなれて、\n\nつばきの花咲く南の島へと行かねばならぬ、\n\nつばめのやうに快活に、",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "とんでゆく、とんでゆく。\n\nけふ利根川のほとりに來てみれば、\n\nしだいに春のめぐみを感じ、\n\n雪わり草のふくめるやうに、\n\nつちはうららにもえあがり、\n\n西も東も雪とけながれ、\n\nめんめんとして山峽《はざま》にながれ、\n\n光り光れる山頂《いただき》さへ、\n\nひろごる桑の畑さへ、",
+      "characters": 139,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "さびしい病人の涙をさそふよ、\n\nしみじみとおもへば、\n\n故郷《ふるさと》の冬空はれ、寂しくて寂しくてたへざれば、\n\nいまはいつさいのものと別れをつげ、\n\nあしたはれいの背廣を着、\n\nいつもの輕い靴をはき、\n\nまだ見も知らぬ南の海へあそばうよ、\n\nその心もちも快活に、\n\nみなさんたちに別れをつげ、",
+      "characters": 148,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "きさらぎなかばのかしまだち、\n\n小鳥ぴよぴよと空に鳴きつれ。\n\n――二月一日――",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

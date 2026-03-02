@@ -1,0 +1,48 @@
+{
+  "id": "a054346",
+  "title": "雨の日",
+  "author": "森川義信",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "雨の日",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 110,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "雨の日",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　硝子窓から青猫がやつて来てぼくの膝にのる\n\nよろよろとまるで一枚の翳のやうなやつだ\n\n背をなでてゐるとぼうぼうと啼き出し\n\nぼくの腹の中までぼうぼうと啼き出し\n\nこいつ　こいつ　…………\n\nだがお前の眼のうるんだ青白い幻燈よ\n\nゆううつな向日葵のやうにくるりくるりと\n\n黒繻子の喪服の似合ふ貴婦人か\n\nお前は晩秋のやうにぼくの膝にやつてくる",
+      "characters": 171,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "苦い散薬の重いしめりに\n\n色変へるまで青猫を思索するぼくの若さよ\n\n何年も座つてゐたやうに立ち上り窓に歩みよる\n\nぼくはもうぼくの青猫を放たう\n\n夕暮は力強く窓硝子をおしつけ\n\nその向ふでは雨の跫音が嗤ふ\n\nぼくは掌をみる　ぼくは胸をみる\n\n青猫は――青猫はもうゐない\n\nいや青猫はまたどこかでぼうぼうと啼きだす",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

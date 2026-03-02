@@ -1,0 +1,48 @@
+{
+  "id": "a055550",
+  "title": "少女受胎",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "少女受胎",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "少女受胎",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　少女　子を孕《はら》めるという\n\n太りたる腹はみにくくかわいらし\n\n少女　子を孕めるという\n\n十月《つき》なる日を算えては頬笑める\n\n孕めるは何の摂理ぞ\n\n夜深く何を悩める\n\n人の世に明日あり　今日あり\n\nさて遠く夢想の国に\n\n青き花咲くとも聞けり",
+      "characters": 125,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "孕めるは何の摂理ぞ\n\n少女　子を孕めるという",
+      "characters": 22,
+      "ruby": []
+    }
+  ]
+}

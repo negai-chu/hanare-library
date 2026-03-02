@@ -1,0 +1,126 @@
+{
+  "id": "a001157",
+  "title": "ふるさと",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 11
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ふるさと",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "無言",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "移香",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "真昼",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-4",
+            "number": "屠牛",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 11,
+    "averageCharsPerPage": 49,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ふるさと",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "無言",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "常によく見る女《ひと》なれど、\n\n心の欲を云ひいでむ、\n\nまた、語るべき機会《をり》もなく、\n\n胸もどかしく、過ぎゆくか。\n\n実にも二人《ふたり》がその中は、\n\n砕けちりしく花硝子《ガラス》――\n\n夕日の国の寂寥に、\n\n絡《から》みて沈む香《かう》の色。\n\nせめては夢にその女《ひと》と、",
+      "characters": 144,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "微笑《ほゝゑみ》つくる嬉れしさを、\n\nふかき思ひに抱きしめ、\n\n無言の恋をくちづけむかな。",
+      "characters": 45,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
+      "content": "移香",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "ながき黒髪《くろげ》のその中に、\n\nあやしく匂ふまなざしの、\n\nたゆたひつゝもしなやかに、\n\n見つむる色の、不思議さよ。\n\n花毛氈の草のへに、\n\n彩羽《あやは》うちふる、楽の譜か、\n\n姿すゞしく、移香《うつりか》の、\n\nやをら心にしみいりて、\n\n愛の泉にゆあみする、",
+      "characters": 133,
+      "ruby": []
+    },
+    {
+      "pageNumber": 7,
+      "content": "新らしき、吾が酔ひごゝち。",
+      "characters": 13,
+      "ruby": []
+    },
+    {
+      "pageNumber": 8,
+      "content": "真昼",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 9,
+      "content": "子守唄、静かにうかび、\n\n平安の木かげの夢を\n\nゆりさます、真昼のまひる。\n\n吾れは今、椰子の実こぼる\n\n南《みんなみ》の、森をしたひて\n\n草にふし、豆の葉とりて、\n\n恋愛の、一つにもゆる\n\n唇に、曲《ふし》折りかへし、\n\n若かき日の、心うたひぬ。",
+      "characters": 124,
+      "ruby": []
+    },
+    {
+      "pageNumber": 10,
+      "content": "屠牛",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 11,
+      "content": "嘯き吼ゆる黄牛よ、\n\n目路にかゞなふ、屠殺場《はふりば》を\n\n知るやしらずや、あな哀れ、\n\nものおぞましき足どりに、\n\n牧場の草を、いでたちぬ。",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

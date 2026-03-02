@@ -1,0 +1,48 @@
+{
+  "id": "a055899",
+  "title": "情慾",
+  "author": "中原中也",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "情慾",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "情慾",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　何故取れない！\n\n何故取れない！\n\n電球よ暑くなれ！\n\n冬の野原を夏の風が行くに\n\n煙が去つた\n\n情熱の火が突進する\n\nブツカルものもなく――\n\nだから不可ない\n\n昔からあつたものだのに",
+      "characters": 94,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "今新たに起つたものだ\n\nそれを如何して呉れるい\n\n横から眺めてゐるな\n\n誰の罪でもない\n\n必要ぢやない\n\n欲しいだけだ",
+      "characters": 59,
+      "ruby": []
+    }
+  ]
+}

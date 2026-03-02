@@ -1,0 +1,42 @@
+{
+  "id": "a058748",
+  "title": "旅人",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "旅人",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 56,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "旅人",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "雪どけの峽の小徑を　行く行く照らしいだす　わが手の燈火\n\n黄色なる火影のうちを　疲れて歩む　あはれ　わが脚の影\n\n重い靴　濡れた帽子　冷めたい耳　空腹　――旅人と\n\n身をなして　思ふことさへ　うつつない　ああ　このひととき",
+      "characters": 111,
+      "ruby": []
+    }
+  ]
+}

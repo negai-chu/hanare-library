@@ -1,0 +1,48 @@
+{
+  "id": "a058800",
+  "title": "月は中天に",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "月は中天に",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 62,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "月は中天に",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　土も凍る夜\n\n友と二人\n\n炭のない部屋にねむろうとしている\n\nわれらの「戦旗」がいま\n\n二三の女の手にカギが渡され\n\n必死のこぶしを\n\n彼らの靴先が踏みくだこうとしている\n\n友の夫　わたしの兄たち\n\nいく百の前衛は牢や",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "いく千の兵士は満洲の戦場に狩り出され\n\n友と二人\n\n破れた雨戸の部屋にねむろうとしている\n\nガラスの窓に月が冴えて光る\n\n月は中天に輝々として",
+      "characters": 71,
+      "ruby": []
+    }
+  ]
+}

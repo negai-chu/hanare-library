@@ -1,0 +1,42 @@
+{
+  "id": "a052865",
+  "title": "処女作の新春",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "処女作の新春",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 89,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "処女作の新春",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "大正八年の春書いた「爪」といふのが処女作であり同年の十二月号に「十三人」といふ同人雑誌に載り、それが偶然にも島崎先生より讃辞を頂いたことに就いては先生も或る文章の中に誌したので省略するが、それが十二月のことであり、日本橋の或る商店に寄食してゐた折から、私は暮から春の休みへかけて、秘かに原稿紙などを鞄に入れてひとりで熱海へ赴いたことを憶ひ出す。",
+      "characters": 172,
+      "ruby": []
+    }
+  ]
+}

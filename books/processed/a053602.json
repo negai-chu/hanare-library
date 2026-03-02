@@ -1,0 +1,54 @@
+{
+  "id": "a053602",
+  "title": "純銀の賽",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "純銀の賽",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "純銀の賽",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　みよわが賽《さい》は空にあり、\n\n空は透青、\n\n白鳥はこてえぢのまどべに泳ぎ、\n\n卓は一列、\n\n同志の瞳は愛にもゆ。\n\nみよわが賽は空にあり、\n\n賽は純銀、\n\nはあとの「Ａ」は指にはじかれ、\n\n緑卓のうへ、",
+      "characters": 104,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "同志の瞳は愛にもゆ。\n\nみよわが光は空にあり、\n\n空は白金、\n\nふきあげのみづちりこぼれて、\n\nわが賽は魚となり、\n\n卓上の手はみどりをくむ。\n\nああいまも想をこらすわれのうへ、\n\nまたえれなのうへ、\n\n愛は祈祷となり、",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "賭博は風にながれて、\n\nさかづきはみ空に高く鳴りもわたれり。\n\n―八月三十一日―",
+      "characters": 40,
+      "ruby": []
+    }
+  ]
+}

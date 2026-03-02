@@ -1,0 +1,48 @@
+{
+  "id": "a055602",
+  "title": "人面凝視",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "人面凝視",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 71,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "人面凝視",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　ふとして眺むれば\n\n彼処《かしこ》に笑めるは一人の不可解なる精霊の所有者である\n\nわれは今その面を見つつ想う\n\n唇……\n\nおおそは紅の渕に囲われし底知れぬ沼である\n\n　鼻……\n\nおおそはまろみあるエジプトのピラミットである\n\n　眼……\n\nおおそはうるおい耀く黒曜石の玉を秘めし二つの湖水である",
+      "characters": 147,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　眉……\n\nおおそは湖水をめぐりて小丘の上に繁れる林である\n\nおおなめらかに広き無毛の原を過ぎ行けば\n\n彼方は千古の密林である。",
+      "characters": 64,
+      "ruby": []
+    }
+  ]
+}

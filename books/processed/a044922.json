@@ -1,0 +1,48 @@
+{
+  "id": "a044922",
+  "title": "〈おかみさん〉",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〈おかみさん〉",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 69,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〈おかみさん〉",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　おかみさん。\n\nとりのおかみさん。\n\n　ぼうしかぶつて\n\n　ぶら／＼\n\n　かごさげて\n\n　なにをかひに\n\n　どこへゆきます。\n\n坊ちやん。\n\n坊ちやん。",
+      "characters": 77,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　ぼうしかぶつて\n\n　ぶら／＼\n\n　かごさげて\n\n　むかふの市場へ\n\n　卵かひにゆきます。\n\n　自働《ママ》車の卵かひにゆきます。\n\n　電車の卵かひにゆきます。\n\n　飛行機の卵かひにゆきます。\n\n　おはなしの卵かひにゆきます。\n　はい。さやうなら。",
+      "characters": 124,
+      "ruby": []
+    }
+  ]
+}

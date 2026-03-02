@@ -1,0 +1,42 @@
+{
+  "id": "a003869",
+  "title": "空の美",
+  "author": "宮本百合子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "空の美",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 128,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "空の美",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　空の美しさという場合、大抵広々とした空、晴やかな空などという。\n\n　郊外に住むようになってから、私は更に種類の異う空の美があることを知った。それは、大都会の上の空――大都会のペーヴメントに立って仰ぐ空の美しさだ。空はそこでは、ただのん気に広々としてはいない。高い建物、広告塔、アンテナ、其等の錯綜した線に切断され、三角の空、ゆがんだ六角の空、悲しい布の切端のような空がある。\n\n　屋根と屋根との狭いすき間からマリが落ちたような月の見える細長い夜の空、郊外の空にない美があるのを感じる。\n\n〔一九二六年八月〕",
+      "characters": 254,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a058607",
+  "title": "立秋",
+  "author": "三好達治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "立秋",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "立秋",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　この一隅に秋立つ日\n\n楓の幹を蟻が上る　急げ\n\n急げ　夕立がくる　鳴神《なるかみ》は隈取りをして\n\n灰色の兩手を擴げて　――軒端を蜂が飛んでゐる",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

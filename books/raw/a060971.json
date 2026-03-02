@@ -1,0 +1,42 @@
+{
+  "id": "a060971",
+  "title": "日比谷のベンチで",
+  "author": "萩原恭次郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "日比谷のベンチで",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 61,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "日比谷のベンチで",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "日比谷《ひびや》のベンチで\n\n雪と愛が悲しいＳの字を描いてゐる\n\n青い魚がどこともなく泳いで\n\n空に寒い街並みが映つてゐる\n\n頭の中に恋人の欧文字があつた\n\n棄《す》てゝある蜜柑《みかん》の皮は自らを嘲笑《わら》ふ赤い舌である！",
+      "characters": 114,
+      "ruby": []
+    }
+  ]
+}

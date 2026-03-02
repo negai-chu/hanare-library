@@ -1,0 +1,42 @@
+{
+  "id": "a055028",
+  "title": "舳",
+  "author": "仲村渠",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "舳",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 48,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "舳",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　帆柱は美しい雲をあげてゐた\n\n帆は裂かれて。\n\n風は栗いろの額を洗つてゐた\n\n髪を飛ばして。\n\nああ傾く水平線にあらはれる初めての島！\n\n魚は舳にとんでコロンブスの襤褸《ころも》を飾つた。",
+      "characters": 95,
+      "ruby": []
+    }
+  ]
+}

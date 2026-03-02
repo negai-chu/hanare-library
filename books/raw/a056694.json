@@ -1,0 +1,48 @@
+{
+  "id": "a056694",
+  "title": "ぼろぼろな駝鳥",
+  "author": "高村光太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "ぼろぼろな駝鳥",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 123,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "ぼろぼろな駝鳥",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "何が面白《おもしろ》くて駝鳥《だちょう》を飼《か》うのだ。\n\n動物園の四坪《つぼ》半のぬかるみの中では、\n\n脚《あし》が大股《また》過ぎるぢ《じ》ゃないか。\n\n頚《くび》があんまり長過ぎるぢ《じ》ゃないか。\n\n雪の降る国にこれでは羽がぼろぼろ過ぎるぢ《じ》ゃないか。\n\n腹がへるから堅《かた》パンも喰ふ《くう》だら《ろ》うが、\n\n駝鳥《だちょう》の眼は遠くばかり見てゐ《い》るぢ《じ》ゃないか。\n\n身も世もない様に燃えてゐ《い》るぢ《じ》ゃないか。\n\n瑠璃《るり》色の風が今にも吹いて来るのを待ちかまへ《え》てゐ《い》るぢ《じ》ゃないか。",
+      "characters": 269,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "あの小さな素朴《そぼく》な頭が無辺大の夢で逆《さか》まいてゐ《い》るぢ《じ》ゃないか。\n\nこれはもう駝鳥《だちょう》ぢ《じ》ゃないぢ《じ》ゃないか。\n\n人間よ、\n\nもう止せ、こんな事は。",
+      "characters": 93,
+      "ruby": []
+    }
+  ]
+}

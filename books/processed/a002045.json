@@ -1,0 +1,42 @@
+{
+  "id": "a002045",
+  "title": "秋　なげかひ",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "秋　なげかひ",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 86,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "秋　なげかひ",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　せちになげける秋の木立に、\n\n青める月の、病めるいぶき。\n\n風のまに／＼に、浮びては消ゆる。\n\n哀れ『世』□《（不明）》さま、夢かまぼろし、\n\n水のおもての泡沫《あわ》と知れど、\n\n『生《せい》』はなほも光をすひぬ。\n\n根もとに重なる、空《むな》し朽葉！\n\n艶《ゑん》なる夏　夢を埋め、\n\n――地下にこゞゑし都《みやこ》会もあるや！",
+      "characters": 167,
+      "ruby": []
+    }
+  ]
+}

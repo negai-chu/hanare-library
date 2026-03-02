@@ -1,0 +1,48 @@
+{
+  "id": "a046268",
+  "title": "星めぐりの歌",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "星めぐりの歌",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "星めぐりの歌",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　あかいめだまの　さそり\n\nひろげた鷲の　　つばさ\n\nあをいめだまの　小いぬ、\n\nひかりのへびの　とぐろ。\n\nオリオンは高く　うたひ\n\nつゆとしもとを　おとす、\n\nアンドロメダの　くもは\n\nさかなのくちの　かたち。\n\n大ぐまのあしを　きたに",
+      "characters": 120,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "五つのばした　　ところ。\n\n小熊のひたいの　うへは\n\nそらのめぐりの　めあて。",
+      "characters": 39,
+      "ruby": []
+    }
+  ]
+}

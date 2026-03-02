@@ -1,0 +1,42 @@
+{
+  "id": "a054335",
+  "title": "舟夫",
+  "author": "渡久山水鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "舟夫",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 37,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "舟夫",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "名護がよひ薪《たきゞ》積《つ》む舟\n\n午後六時入江《いりえ》に来る\n\n舟の中みだらなる歌\n\n三味線のざれ弾《ひ》き聞ゆ\n\nおもしろき舟夫のなりはひ",
+      "characters": 73,
+      "ruby": []
+    }
+  ]
+}

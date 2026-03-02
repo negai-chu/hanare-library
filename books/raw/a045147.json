@@ -1,0 +1,42 @@
+{
+  "id": "a045147",
+  "title": "犬の子",
+  "author": "土田耕平",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "犬の子",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 30,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "犬の子",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "自転車とほる\n\n犬の子はしる\n\n広告隊が\n\n笛ふきとほる\n\n日がかたむけば\n\n春風さむい\n\n走れ走れ\n\n犬の子走れ",
+      "characters": 57,
+      "ruby": []
+    }
+  ]
+}

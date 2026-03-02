@@ -1,0 +1,42 @@
+{
+  "id": "a053842",
+  "title": "お巡さん",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お巡さん",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 64,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お巡さん",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　朝の八時は鈴懸に\n\nほうやり霧が吸はれてる\n\n警察署まへの停留所\n\nお巡りさんが降りてくる\n\n降りますつゞいてお巡りさん\n\nみんな鈴懸くぐります\n\n襟立てマントは短かくて\n\nチカチカサーベル光ります\n\nウエハス色のビルデングまもなく窓が開くでせう",
+      "characters": 124,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a054341",
+  "title": "囚人",
+  "author": "渡久山水鳴",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "囚人",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 32,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "囚人",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　囚人来る赤き衣の\n\n囚人来る暴風《あらしの》雨中を\n\n荷へるをふとみむくれば、\n\n己を責む戒具と戒具と。\n\n人皆は恋の囚人、",
+      "characters": 63,
+      "ruby": []
+    }
+  ]
+}

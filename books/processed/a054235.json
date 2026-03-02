@@ -1,0 +1,42 @@
+{
+  "id": "a054235",
+  "title": "世相の一面",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "世相の一面",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 91,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "世相の一面",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　（一）「熊さん今日はどうしたか、朝から病気でお休か」\n　「いや／＼会社もこまるでネ、賃銀ね上げの怠業さ」\n（二）「熊さん今日はどうしたか、又怠業ヂャあるまいネ」\n　「イエ／＼どうしてもう今日は、会社に者がありすぎて、\n（三）　とう／＼こんなになりました、どこかによい口があったならどうか世話しておくんなさい」\n　熊さん頭をかいて居た。\n（一一・六・一四）",
+      "characters": 178,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a053797",
+  "title": "合唱について",
+  "author": "金鍾漢",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "合唱について",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 103,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "合唱について",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　きみは　半島から来たんぢやないですか\n\nだうりで　すこし変つた顔をしてゐると思つた\n\nでも　そんな心細い思ひをすることはないですよ\n\nほら　松花江《スンガリイ》の上流からも　はろばろ\n\n南京の街はづれからも　来てゐるではないか\n\nスマトラからも　ボルネオからも　いまには\n\n重慶の防空壕からも　やつてくるでせう\n\nでは　みんな並んで下さい　おお\n\n砲口のやうだ　整列されてゐる口の横隊",
+      "characters": 193,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "それは　待つてゐる　待ちあぐんでゐる\n\nタクトの指さす方向へ　未来へ\n\nやがて　声の洪水が発砲されるでせう\n\nくりひろげられた　煙幕のやうに\n\n余韻は渦巻いて　渦巻いて流れるでせう\n\nこのステエジの名を　きみは知つている\n\nこのステエジの名を　ぼくも知つている\n\nほら　タクトが上つたではないか　指揮刀のやうだ\n\nもはや　私にはいふべき言葉がない",
+      "characters": 173,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "ただ　歌ふことだけが残されてゐる　声をかぎりに\n\nただ　歌ふことだけが残されてゐる",
+      "characters": 41,
+      "ruby": []
+    }
+  ]
+}

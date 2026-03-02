@@ -1,0 +1,42 @@
+{
+  "id": "a024426",
+  "title": "蛙の鳴声",
+  "author": "寺田寅彦",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "蛙の鳴声",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 158,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "蛙の鳴声",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　何年頃であったか忘れてしまったが、先生の千駄木《せんだぎ》時代に、晩春のある日、一緒に音楽学校の演奏会に行った帰りに、上野の森をブラブラあるいて帰った。\n\n　その日の曲目の内に管弦楽で蛙の鳴声を真似するのがあった、それはよほど滑稽味を帯びたものであった。先生はあるきながら、その蛙の声を真似して一人で面白がってはさもくすぐったいように笑っておられた。\n\n　それから神田の宝亭で、先生の好きな青豆のスープと小鳥のロースか何か食ってそして一、二杯の酒に顔を赤くして、例の蛙の鳴声の真似をして笑っていた。\n\n　考えてみると、あの時分の先生と晩年の先生とは何だかだいぶちがった人のような気がするのである。（大正七年十二月『渋柿』）",
+      "characters": 312,
+      "ruby": []
+    }
+  ]
+}

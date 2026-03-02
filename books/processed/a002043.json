@@ -1,0 +1,48 @@
+{
+  "id": "a002043",
+  "title": "暮れ方の窓",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "暮れ方の窓",
+        "startPage": 1,
+        "endPage": 3
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 68,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "暮れ方の窓",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　常に夢見る女《ひと》のすがた！\n\n夕暮れ方、\n\nしめやかな窓にしのんで来る。\n\nなつかしい想ひは浪のやう…………。\n\nみつむれば、朦《おぼ》ろにかすみ、\n\nちかよれば、闇のなかにとろけて、\n\n果ては見えなくなる。\n\n物　消えし後《あと》　悲しいことよ！\n\nどこかにすゝり泣きが消えた。",
+      "characters": 143,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "夫れは、鬢《びん》のほつれにからんだ、\n\n青い火のこのやうだ\n\nつひ、私は二つ　眼を掩ひ、\n\n闇の窓にうつ伏した。",
+      "characters": 57,
+      "ruby": []
+    }
+  ]
+}

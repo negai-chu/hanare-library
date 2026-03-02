@@ -1,0 +1,42 @@
+{
+  "id": "a053657",
+  "title": "昔の小出新道にて",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "昔の小出新道にて",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 47,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "昔の小出新道にて",
+      "characters": 8,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "兵士の行軍の後に捨てられ\n\n破れたる軍靴《ぐんくわ》のごとくに\n\n汝は路傍に渇けるかな。\n\n天日《てんじつ》の下に口をあけ\n\n汝の過去を哄笑せよ。\n\n汝の歴史を捨て去れかし。",
+      "characters": 87,
+      "ruby": []
+    }
+  ]
+}

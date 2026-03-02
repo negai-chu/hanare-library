@@ -1,0 +1,48 @@
+{
+  "id": "a053556",
+  "title": "小曲集",
+  "author": "萩原朔太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "小曲集",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 45,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "小曲集",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "×\n\nほほづきよ\n\nひとつ思ひに泣けよかし\n\n女のくちにふくまれて\n\n男ごころのさびしさを\n\nさも忍び音に泣けよかし\n\n　　　×\n\nほんのふとした一言から\n\n人が憎うてならぬぞえ",
+      "characters": 89,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "ほんのその日の出來ごころ\n\nつい張りつめた男氣《をとこぎ》が\n\nしんぞ可愛ゆてならぬぞえ",
+      "characters": 44,
+      "ruby": []
+    }
+  ]
+}

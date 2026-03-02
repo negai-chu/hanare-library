@@ -1,0 +1,42 @@
+{
+  "id": "a044901",
+  "title": "北軽井沢にて",
+  "author": "岸田国士",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "北軽井沢にて",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 96,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "北軽井沢にて",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一年の大部分を山で暮してゐる私は、季節の足音に耳をすます習慣がいつの間にかできました。八月にはいるともう秋の気配が感じられますが、家畜の世話や、魚釣りや、たまに机に向つての仕事やをひつくるめて、私は今、自然のふところといふものに、大きな魅力と、言ひやうのない不安とを感じてゐます。この時代に、秋の訪れを待つことは、たゞの風流ではすまされぬ気持をわかつていたゞけるでせう。",
+      "characters": 186,
+      "ruby": []
+    }
+  ]
+}

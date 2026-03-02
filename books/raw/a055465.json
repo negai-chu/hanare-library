@@ -1,0 +1,95 @@
+{
+  "id": "a055465",
+  "title": "AU RIMBAUD",
+  "author": "富永太郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 7
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "AU RIMBAUD",
+        "startPage": 1,
+        "endPage": 1,
+        "sections": [
+          {
+            "id": "chapter-1-section-1",
+            "number": "１",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-2",
+            "number": "２",
+            "startPage": 1,
+            "endPage": 1
+          },
+          {
+            "id": "chapter-1-section-3",
+            "number": "３",
+            "startPage": 1,
+            "endPage": 1
+          }
+        ]
+      }
+    ],
+    "totalPages": 7,
+    "averageCharsPerPage": 44,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "AU RIMBAUD",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "１",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "Kiosque au Rimbaud\n\n“Marila”  la main,\n\nLe ciel est beau,\n\nEh ! tout le sang est Pain.",
+      "characters": 86,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "２",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 5,
+      "content": "Ne voici le pote,\n\nMille familles dans le mme toit\n\nRevoici le pote :\n\nOn ne fait que le droit.",
+      "characters": 95,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
+      "content": "３",
+      "characters": 1,
+      "ruby": [],
+      "displayType": "section-title"
+    },
+    {
+      "pageNumber": 7,
+      "content": "Que Dieu le luise et le pose !\n\nQu'il ne voie pas ouvrir\n\nLes parasols bleus et rose\n\nParmi les flots : les martyrs !",
+      "characters": 117,
+      "ruby": []
+    }
+  ]
+}

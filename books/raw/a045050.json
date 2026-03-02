@@ -1,0 +1,48 @@
+{
+  "id": "a045050",
+  "title": "時雨",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 3
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "時雨",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 3,
+    "averageCharsPerPage": 25,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "時雨",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "からす\n\nからす\n\n巣にかへれ\n\n峠の\n\n時雨が\n\nやつてきた\n\n雀《すずめ》も\n\nかへれ\n\n竹藪《たけやぶ》へ",
+      "characters": 56,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "たうげの\n\nしぐれが\n\nやつてきた",
+      "characters": 17,
+      "ruby": []
+    }
+  ]
+}

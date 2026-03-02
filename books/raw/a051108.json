@@ -1,0 +1,42 @@
+{
+  "id": "a051108",
+  "title": "お江戸は火事だ",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お江戸は火事だ",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 81,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お江戸は火事だ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "お江戸《えど》は火事《かじ》だ、\n\nお江戸《えど》は火事《かじ》だ。\n\n出《で》てみい、出《で》てみい、\n\n東《ひがし》の空《そら》が真紅《まっか》っか。\n\n露《つゆ》が降《お》りたよ、もう、お寝《ね》よ。\n\n隣《となり》のじいさん、臼《うす》ついて、\n\n娘《むすめ》は、夜業《よなべ》に機《はた》を織《お》る。",
+      "characters": 156,
+      "ruby": []
+    }
+  ]
+}

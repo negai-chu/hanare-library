@@ -1,0 +1,54 @@
+{
+  "id": "a054224",
+  "title": "お節供",
+  "author": "槙村浩",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "お節供",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 78,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "お節供",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　五月五日はお節供だ\n\nいろ／＼並んだ人形の\n\n中から飛出す金太郎\n\nけものを集めて角力をやらす\n\nそこへ大きな大虎が\n\nノッコリノッコリやって来ると\n\n今までの元気はどこへやら\n\n顔はまっ青ふるへ出す\n\nそこへいろ／＼　並んでた",
+      "characters": 115,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "人形の中から加藤清正とび出した\n\nやりをふるって大虎を\n\n只一つきにつき殺す\n\nみんなは初めて大安心\n\n加藤清正の人形は\n\n大へんいばって居ったら\n\n鬼ガ島の鬼共が\n\n「ワーッ」とばかり攻めよせる\n\n加藤清正驚いて",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "もったやりをも投出して\n\nガタ／＼／＼とふるへ出す\n\nそこへ飛び出す桃太郎\n\n犬、猿、きじをともにつれ\n\nむらがるをにをみな殺し\n\nこゝで皆々ホッと吐いき\n\nたちまち祝のお酒もり",
+      "characters": 89,
+      "ruby": []
+    }
+  ]
+}

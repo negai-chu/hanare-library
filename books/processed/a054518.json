@@ -1,0 +1,42 @@
+{
+  "id": "a054518",
+  "title": "馬を愛す",
+  "author": "今野大力",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "馬を愛す",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 42,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "馬を愛す",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　地表を走らせて競馬という\n\n桜のすぐる頃\n\n葉桜の蔭に\n\n人々\n\n金を懸《かけ》て馬をひょろひょろと走らす\n\n競馬という\n\nそして\n\n人間\n\n『馬を愛す』という",
+      "characters": 81,
+      "ruby": []
+    }
+  ]
+}

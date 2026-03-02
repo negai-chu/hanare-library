@@ -1,0 +1,54 @@
+{
+  "id": "a001423",
+  "title": "車室",
+  "author": "漢那浪笛",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "車室",
+        "startPage": 1,
+        "endPage": 4
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 72,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "車室",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　一頭のやせ馬に、\n\nひかれゆく黒塗りのかた馬車。\n\n乗ひ合は六人、\n\nその中に一人《ひとり》の若かい女。\n\n膝向き合はした客は、\n\nお互に眼をひらめかし、\n\nたゞ無言。\n\n――疑ひの多き車内だ。\n\n沙漠に似たる車内に、",
+      "characters": 110,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "一人の若かい女、\n\n今宵の旅の疲れに、\n\n一つの慰めとなる。\n\nあゝ車内の若かい女、\n\n夜のランプにたとへやう？。\n\nその異性の光は、\n\n私の淋しい心を照らす。\n\n時々色と匂ひと、\n\n車のゴタック毎にとろけて、",
+      "characters": 105,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "静かになつかしく、\n\n膩《アブラ》にしんた肉にふるゝ。\n\n哀れなものはやせ馬、\n\n鼻息荒らく、たゆむ隙がない、\n\n鞭の鳴る毎に\n\nいや更に走る。",
+      "characters": 72,
+      "ruby": []
+    }
+  ]
+}

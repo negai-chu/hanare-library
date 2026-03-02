@@ -1,0 +1,54 @@
+{
+  "id": "a056509",
+  "title": "饑餓の饗宴",
+  "author": "ランボージャン・ニコラ・アルチュール",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "饑餓の饗宴",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 90,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "饑餓の饗宴",
+      "characters": 5,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "俺の饑《うゑ》よ、アヌ、アヌ、\n\n　　驢馬に乗つて　逃げろ。\n\n俺に食気《くひけ》が　あるとしたら、\n\n食ひたいものは、土と石。\n\nヂヌ、ヂヌ、ヂヌ、ヂヌ、空気を食はう、\n\n岩を、火を、鉄を。\n\n俺の饑《うゑ》よ、廻れ、去れ。\n\n　　音《おん》の平原！\n\n旋花《ひるがほ》のはしやいだ",
+      "characters": 142,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　毒を吸へ。\n\n貧者の砕いた　礫を啖へ、\n\n　教会堂の　古びた石を、\n\n　洪水の子なる　磧の石を、\n\n　くすんだ谷に　臥てゐる麺麭《パン》を。\n\n俺の饑は、黒い空気のどんづまり、\n\n　鳴り響く蒼空！\n\n――俺を牽くのは　胃の腑ばかり、\n\n　　それが不幸だ。",
+      "characters": 129,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "地の上に　葉が現はれた。\n\n饐えた果実の　肉へ行かう。\n\n畝《うね》の胸で　俺が摘むのは、\n\n野萵苣《のぢしや》に菫。\n\n　俺の饑よ、アヌ、アヌ、\n\n　驢馬に乗つて逃げろ。",
+      "characters": 86,
+      "ruby": []
+    }
+  ]
+}

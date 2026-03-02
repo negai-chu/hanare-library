@@ -1,0 +1,54 @@
+{
+  "id": "a053691",
+  "title": "BOITEUX ・ BOITEUSE",
+  "author": "李箱",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "BOITEUX ・ BOITEUSE",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 76,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "BOITEUX ・ BOITEUSE",
+      "characters": 18,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "長イモノ\n\n短イモノ\n\n十文字\n\n　　　　　×\n\n　然シ CROSS ニハ油ガツイテイタ\n\n　墜落\n\n　已ムヲ得ナイ平行\n\n　物理的ニ痛クアツタ\n\n　（以上平面幾何学）",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "　　　　　×\n\nをれんぢ\n\n大砲\n\n匍匐\n\n　　　　　×\n\n　若シ君ガ重症ヲ負フタトシテモ血ヲ流シタトスレバ味気ナイ\n\n　おー\n\n　沈黙ヲ打撲シテホシイ\n\n　沈黙ヲ如何ニ打撲シテ俺ハ洪水ノヨウニ騒乱スベキカ",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　沈黙ハ沈黙カ\n\n　めすヲ持タヌトテ医師デアリ得ナイデアラウカ\n\n　天体ヲ引キ裂ケバ音位スルダラウ\n\n　俺ノ歩調ハ継続スル\n\n　何時迄モ俺ハ屍体デアラントシテ屍体ナラヌコトデアラウカ\n\n１９３１・６・５",
+      "characters": 101,
+      "ruby": []
+    }
+  ]
+}

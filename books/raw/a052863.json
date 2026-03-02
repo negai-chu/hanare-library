@@ -1,0 +1,42 @@
+{
+  "id": "a052863",
+  "title": "今年の文壇で",
+  "author": "牧野信一",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "今年の文壇で",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 58,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "今年の文壇で",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "一、最も印象に残つた作品　二、最も活躍した人\n\n一、広津和郎「一時期」\n\n　　小島政二郎「眼中の人」\n\n　　室生犀星「弄獅子」\n\n以上五月までに読んだもの。六月以来今年は主に昆虫採集旅行に耽つてゐたゝめ読書の機を逸した。",
+      "characters": 110,
+      "ruby": []
+    }
+  ]
+}

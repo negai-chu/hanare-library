@@ -1,0 +1,42 @@
+{
+  "id": "a053363",
+  "title": "開墾地",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "開墾地",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 32,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "開墾地",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　焦ぎ木のむらはなほあれば\n\n山の畑の雪消えて〔以下なし〕\n\n　――――――――\n\n青年団が総出にて\n\nしだれ桜を截りしなり",
+      "characters": 62,
+      "ruby": []
+    }
+  ]
+}

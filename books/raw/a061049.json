@@ -1,0 +1,54 @@
+{
+  "id": "a061049",
+  "title": "著者におくる",
+  "author": "中野鈴子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "著者におくる",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 57,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "著者におくる",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "今ここに君を見る　昔の姿そのままに\n\n若き日に志したる\n\n君が望み\n\n君が年輪に添い磨き輝く\n\n立派なる結実よ\n\nはじめて\n\n君を見し時\n\n君は人の家に我ならぬ日を送りてありき\n\n君あまりに若く",
+      "characters": 97,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "こころ失わんとし\n\n立ち出でんとし\n\n路分かたず\n\nわれ君を祈り\n\n祈ることを与えられしに\n\n黒き手\n\n十八の我を阻みぬ\n\nわれは狂い\n\n狂いたれども",
+      "characters": 75,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "我は君を離れたるなり\n\n十数年の歳月去り\n\n今ここに君を見る\n\n立派なる結実よ\n\n手にとり\n\n重みを捧ぐ",
+      "characters": 52,
+      "ruby": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a053374",
+  "title": "〔甘藍の球は弾けて〕",
+  "author": "宮沢賢治",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "〔甘藍の球は弾けて〕",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 26,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "〔甘藍の球は弾けて〕",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "甘藍の球は弾けて\n\n青ぞらに白雲の房\n\n呑屋より二人の馬丁\n\nよろめきてあらはれ出づる",
+      "characters": 43,
+      "ruby": []
+    }
+  ]
+}

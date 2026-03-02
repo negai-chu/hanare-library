@@ -1,0 +1,42 @@
+{
+  "id": "a043700",
+  "title": "編輯後記（大正十五年三月号）",
+  "author": "梶井基次郎",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "編輯後記（大正十五年三月号）",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 70,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "編輯後記（大正十五年三月号）",
+      "characters": 14,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　試驗期で編輯は少し困難で、頁數が少なかつたが、とにかく私の當番もすんだ。\n\n　京都の清水のものが出たこと、眞素木にワクが入つたこと共に新味である。\n\n　一月號から使つてゐたが、表紙は清水を通して本庄俊一氏にいただいたものである。今改めて御禮申します。",
+      "characters": 126,
+      "ruby": []
+    }
+  ]
+}

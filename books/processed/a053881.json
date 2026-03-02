@@ -1,0 +1,42 @@
+{
+  "id": "a053881",
+  "title": "夢の国",
+  "author": "桜間中庸",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夢の国",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 55,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夢の国",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　お目目のおへやの小ちやいドアーを\n\n　　　　そつと誰だかしめてゆく\n\nおめめのおへやの小ちやいドアーは\n\n　　　　しまつたままではひらかない\n\nおめめのおへやの小ちやいドアーを\n\n　　　　ゆめはトン／＼入つてくる",
+      "characters": 107,
+      "ruby": []
+    }
+  ]
+}

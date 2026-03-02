@@ -1,0 +1,42 @@
+{
+  "id": "a051111",
+  "title": "古巣",
+  "author": "小川未明",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "古巣",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 107,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "古巣",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "つばめが帰《かえ》るとき\n\n真紅《まっか》な美《うつく》しい夕焼《ゆうや》けに、\n\n少年《しょうねん》はらっぱを鳴《な》らして\n\n遊《あそ》んでいた。\n\nつばめがきたとき\n\n家《いえ》の周囲《まわり》を幾《いく》たびも飛《と》びまわった。\n\nすると、少年《しょうねん》の吹《ふ》いていたらっぱは\n\n窓《まど》の下《した》に捨《す》てられて、\n\n赤《あか》いさびがところどころに出《で》ていて、泥《どろ》に塗《まみ》れていた。",
+      "characters": 212,
+      "ruby": []
+    }
+  ]
+}

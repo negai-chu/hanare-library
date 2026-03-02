@@ -1,0 +1,42 @@
+{
+  "id": "a045045",
+  "title": "鰹釣り",
+  "author": "山村暮鳥",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "鰹釣り",
+        "startPage": 1,
+        "endPage": 2
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 51,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "鰹釣り",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "　父《とう》よ\n\nおいらも行《い》きてえな\n\n大きな海のまんなかで\n\nおいらも鰹《かつを》が釣つてみてえな\n\nおいらも船にのりてえな\n\nまつてろ\n\nまつてろ\n\nその腕が樫《かし》の木のやうになるまで",
+      "characters": 99,
+      "ruby": []
+    }
+  ]
+}

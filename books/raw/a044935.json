@@ -1,0 +1,54 @@
+{
+  "id": "a044935",
+  "title": "うさぎのくだものや",
+  "author": "村山籌子",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 4
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "うさぎのくだものや",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 4,
+    "averageCharsPerPage": 50,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "うさぎのくだものや",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "もぅりの\n\nもぅりの木のかげで、\n\nみゝながうさぎのくだものや。\n\nつぶのそろつた\n\nさくらんぼ、\n\nまつかであまい\n\n大西瓜《おほずいくわ》。\n\nやすうり\n\nなげうり",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 3,
+      "content": "大べんきやう。\n\nかわいいぼつちやんは\n\nじてんしやで、\n\nきれいなおぢやうさんは\n\nかごもつて、\n\nさあ　さあ\n\nいらつしやい、\n\nおほやすうり。\n\nめかたはたつぷり",
+      "characters": 84,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "まちがひなし、\n\nどこのみせより\n\nおほやすうり。",
+      "characters": 25,
+      "ruby": []
+    }
+  ]
+}

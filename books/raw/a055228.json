@@ -1,0 +1,42 @@
+{
+  "id": "a055228",
+  "title": "夕づつの清光を歌ひて",
+  "author": "サッフォ",
+  "metadata": {
+    "publicationYear": 1900,
+    "genre": [
+      "文学"
+    ],
+    "estimatedReadTime": 30,
+    "difficulty": 2,
+    "pages": 2
+  },
+  "structure": {
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "夕づつの清光を歌ひて",
+        "startPage": 1,
+        "endPage": 1
+      }
+    ],
+    "totalPages": 2,
+    "averageCharsPerPage": 34,
+    "chapterTitles": []
+  },
+  "content": [
+    {
+      "pageNumber": 1,
+      "content": "夕づつの清光を歌ひて",
+      "characters": 10,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 2,
+      "content": "汝は晨朝《あした》の蒔き散したるものをあつむ。\n\n羊を集め、山羊《やぎ》を集め、\n\n母の懷に稚兒《うなゐご》を歸す。",
+      "characters": 58,
+      "ruby": []
+    }
+  ]
+}
