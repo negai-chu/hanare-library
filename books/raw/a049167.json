@@ -691,27 +691,7 @@
         "id": "chapter-99",
         "title": "娘と劉さん",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-99-section-1",
-            "number": "",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-99-section-2",
-            "number": "",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-99-section-3",
-            "number": "",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       }
     ],
     "totalPages": 272,

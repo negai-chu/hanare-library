@@ -24,18 +24,6 @@
             "number": "飛鳥《あすか》の祈り",
             "startPage": 1,
             "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "救世《くせ》観音",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-3",
-            "number": "書簡",
-            "startPage": 1,
-            "endPage": 1
           }
         ]
       },
@@ -43,157 +31,37 @@
         "id": "chapter-2",
         "title": "法隆寺",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "初旅の思い出",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "金堂の春",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-3",
-            "number": "宝蔵殿にて",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-4",
-            "number": "鳥仏師",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",
         "title": "中宮寺",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-3-section-1",
-            "number": "思惟《しゆい》の像",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-2",
-            "number": "天寿国曼荼羅《まんだら》",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-3",
-            "number": "微笑について",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-4",
         "title": "法輪寺",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-4-section-1",
-            "number": "荒廃",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-2",
-            "number": "虚空蔵菩薩《こくうぞうぼさつ》",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-5",
         "title": "薬師寺",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-5-section-1",
-            "number": "春",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "白鳳《はくほう》の光",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-3",
-            "number": "塔について",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-6",
         "title": "唐招提寺《とうしょうだいじ》",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-6-section-1",
-            "number": "秋",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-6-section-2",
-            "number": "円柱と翼",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-7",
         "title": "東大寺",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-7-section-1",
-            "number": "天平《てんぴょう》の花華《はな》",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-7-section-2",
-            "number": "大仏殿にて",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-7-section-3",
-            "number": "不空羂索《ふくうけんじゃく》観音",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-7-section-4",
-            "number": "講堂の址《あと》",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-8",

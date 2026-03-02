@@ -17,33 +17,7 @@
         "id": "chapter-1",
         "title": "夕がたの人々",
         "startPage": 1,
-        "endPage": 6,
-        "sections": [
-          {
-            "id": "chapter-1-section-1",
-            "number": "",
-            "startPage": 3,
-            "endPage": 2
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "",
-            "startPage": 3,
-            "endPage": 2
-          },
-          {
-            "id": "chapter-1-section-3",
-            "number": "",
-            "startPage": 3,
-            "endPage": 2
-          },
-          {
-            "id": "chapter-1-section-4",
-            "number": "",
-            "startPage": 3,
-            "endPage": 6
-          }
-        ]
+        "endPage": 6
       }
     ],
     "totalPages": 6,

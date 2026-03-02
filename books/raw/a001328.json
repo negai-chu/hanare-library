@@ -24,24 +24,6 @@
             "number": "【時代を知ること】",
             "startPage": 1,
             "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "【足利期の茶道】",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-3",
-            "number": "【やきものの壽命】",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-4",
-            "number": "【史的標本】",
-            "startPage": 1,
-            "endPage": 1
           }
         ]
       },
@@ -49,33 +31,7 @@
         "id": "chapter-2",
         "title": "形",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "【時代の生む線】",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "【土瓶の葢】",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-3",
-            "number": "【糸切】",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-4",
-            "number": "【線の認識】",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",
@@ -158,12 +114,6 @@
             "number": "【持ち方】",
             "startPage": 1,
             "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "【燒物の玩讀】",
-            "startPage": 1,
-            "endPage": 1
           }
         ]
       },
@@ -197,15 +147,7 @@
         "id": "chapter-9",
         "title": "先づ得よ",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-9-section-1",
-            "number": "【半面の眞理】",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-10",

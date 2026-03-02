@@ -127,13 +127,7 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 45,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },
@@ -257,37 +251,7 @@
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 96,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-10-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-10-section-3",
-            "number": "三",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-10-section-4",
-            "number": "四",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-10-section-5",
-            "number": "五",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-10-section-6",
-            "number": "六",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },

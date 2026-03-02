@@ -619,31 +619,7 @@
             "id": "chapter-14-section-1",
             "number": "一",
             "startPage": 375,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-14-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-14-section-3",
-            "number": "三",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-14-section-4",
-            "number": "四",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-14-section-5",
-            "number": "五",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },

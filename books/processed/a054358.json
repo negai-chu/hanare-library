@@ -17,33 +17,7 @@
         "id": "chapter-1",
         "title": "季節抄",
         "startPage": 1,
-        "endPage": 5,
-        "sections": [
-          {
-            "id": "chapter-1-section-1",
-            "number": "",
-            "startPage": 2,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "",
-            "startPage": 2,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-3",
-            "number": "",
-            "startPage": 2,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-4",
-            "number": "",
-            "startPage": 2,
-            "endPage": 5
-          }
-        ]
+        "endPage": 5
       }
     ],
     "totalPages": 5,

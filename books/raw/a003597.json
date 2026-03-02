@@ -29,97 +29,19 @@
         "id": "chapter-3",
         "title": "第一篇",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-3-section-1",
-            "number": "一　社会に於ける自然科学の役割",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-2",
-            "number": "二　自然科学とイデオロギー\r\n　　　　――現代物理学の危機は何を意味するか",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-3",
-            "number": "三　ヘーゲルと自然哲学",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-4",
-            "number": "四　自然弁証法",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-4",
         "title": "第二篇",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-4-section-1",
-            "number": "五　社会科学に於ける実験と統計\r\n　　　　――社会科学的実験方法に関して",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-2",
-            "number": "六　歴史と弁証法\r\n　　　　――形而上学的範疇は哲学的範疇ではない",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-3",
-            "number": "七　イデオロギーとしての哲学\r\n　　　　――諸哲学のイデオロギー論的分析のための基準",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-4",
-            "number": "八　日常性の原理と歴史的時間",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-5",
         "title": "第三篇",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-5-section-1",
-            "number": "九　新聞の問題",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "一〇　新聞現象の分析\r\n　　　　――イデオロギー論による計画図",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-3",
-            "number": "一一　アカデミーとジャーナリズム",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-4",
-            "number": "一二　批評の問題\r\n　　　　――イデオロギー論によるジャーナリズムの一問題",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-6",

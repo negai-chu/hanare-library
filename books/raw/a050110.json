@@ -17,157 +17,37 @@
         "id": "chapter-1",
         "title": "みつぎもの",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-1-section-1",
-            "number": "一",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-2",
         "title": "裏関所",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "三",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "四",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",
         "title": "丁か半か",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-3-section-1",
-            "number": "五",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-2",
-            "number": "六",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-3",
-            "number": "七",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-4",
         "title": "室咲",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-4-section-1",
-            "number": "八",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-2",
-            "number": "九",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-3",
-            "number": "十",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-4-section-4",
-            "number": "十一",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-5",
         "title": "日金颪",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-5-section-1",
-            "number": "十二",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "十三",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-3",
-            "number": "十四",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-4",
-            "number": "十五",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-5",
-            "number": "十六",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-6",
         "title": "神妙候",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-6-section-1",
-            "number": "十七",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-6-section-2",
-            "number": "十八",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-7",

@@ -23,137 +23,13 @@
         "id": "chapter-2",
         "title": "第一部",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "１　批評に於ける文学・道徳・及び科学",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "２　匿名批評論",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-3",
-            "number": "３　局外批評論",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-4",
-            "number": "４　批評観三題",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-5",
-            "number": "５　科学と批評",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-6",
-            "number": "６　批評家の客観的公正",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-7",
-            "number": "７　モーラリストの立場による科学と文学",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-8",
-            "number": "８　文学と科学とに於ける共変法則",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-9",
-            "number": "９　唯物論と文学",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-10",
-            "number": "10　科学的道徳の創造",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",
         "title": "第二部",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-3-section-1",
-            "number": "11　文学に於ける偶然性と必然性",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-2",
-            "number": "12　風刺文学に対して",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-3",
-            "number": "13　笑い・喜劇・及びユーモア",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-4",
-            "number": "14　シェストーフ的現象に就いて",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-5",
-            "number": "15　行動主義文学について",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-6",
-            "number": "16　モダーニズム文学について",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-7",
-            "number": "17　「純文学」の問題",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-8",
-            "number": "18　主体及び道徳",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-9",
-            "number": "19　文芸評論家の意識",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-3-section-10",
-            "number": "20　横光利一の論理",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-4",

@@ -9,7 +9,7 @@
     ],
     "estimatedReadTime": 30,
     "difficulty": 2,
-    "pages": 53
+    "pages": 55
   },
   "structure": {
     "chapters": [
@@ -148,8 +148,8 @@
         ]
       }
     ],
-    "totalPages": 53,
-    "averageCharsPerPage": 64,
+    "totalPages": 55,
+    "averageCharsPerPage": 62,
     "chapterTitles": []
   },
   "content": [
@@ -354,140 +354,153 @@
     },
     {
       "pageNumber": 32,
-      "content": "はぐれて縁のうすければ、\n\n砂にうもれて、うたかたの、\n\n世をこそ遂のさだめなり。\n\n哀音\n\n　　　　　――故渡久地政佐君を悼みて\n\n奥津城の闇をもりたる、\n\nその底に君ねむる時、\n\nあやなくも時雨《しぐ》るゝまなこ、\n\n悲哀《かなしみ》はたえず雫きぬ、",
-      "characters": 127,
+      "content": "はぐれて縁のうすければ、\n\n砂にうもれて、うたかたの、\n\n世をこそ遂のさだめなり。",
+      "characters": 41,
       "ruby": []
     },
     {
       "pageNumber": 33,
-      "content": "年若かき愁ひをおびし、\n\n臨終のほそき泣き声――\n\n身動《みじろぎ》も得ならぬ思ひ、\n\n君ならで誰か知るべき。\n\nのこりたる吾等友がら、\n\n明闇の境《きはみ》にたちて、\n\nなつかしき君が声する、\n\nその方へ憧《あこが》れわたる。",
-      "characters": 114,
-      "ruby": []
+      "content": "哀音",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
     },
     {
       "pageNumber": 34,
+      "content": "　　　　　――故渡久地政佐君を悼みて\n\n奥津城の闇をもりたる、\n\nその底に君ねむる時、\n\nあやなくも時雨《しぐ》るゝまなこ、\n\n悲哀《かなしみ》はたえず雫きぬ、\n\n年若かき愁ひをおびし、\n\n臨終のほそき泣き声――\n\n身動《みじろぎ》も得ならぬ思ひ、\n\n君ならで誰か知るべき。",
+      "characters": 137,
+      "ruby": []
+    },
+    {
+      "pageNumber": 35,
+      "content": "のこりたる吾等友がら、\n\n明闇の境《きはみ》にたちて、\n\nなつかしき君が声する、\n\nその方へ憧《あこが》れわたる。",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 36,
       "content": "夜",
       "characters": 1,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 35,
+      "pageNumber": 37,
       "content": "物倦《うん》ず、夜の十二時、\n\n死に似たる周囲《あたり》に、泣くは、\n\nたゆみなき時計の刻み、\n\nあわれ、その闇の滴り。\n\nかくて世も過ぎゆくものか、――\n\n胸のぬち心の海は、\n\n惨《いた》ましき綾を印《しる》して、\n\n日輪のかゞなふ気色《けはひ》。\n\n薄命の青き灯《ひ》の華、",
       "characters": 139,
       "ruby": []
     },
     {
-      "pageNumber": 36,
+      "pageNumber": 38,
       "content": "かすれゆく光を見れば、\n\n寂滅や今か――吾が身も、\n\nうつぶせぬ、冷たきねやに。",
       "characters": 40,
       "ruby": []
     },
     {
-      "pageNumber": 37,
+      "pageNumber": 39,
       "content": "影",
       "characters": 1,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 38,
+      "pageNumber": 40,
       "content": "阿古屋の玉をとき流し、\n\n輝きわたる心には、\n\n色さま／″＼の夢の華。\n\nうつして咲きぬ、艶たちぬ。\n\nさはさりながら吾が秋の、\n\n坂のぼりゆく寂寞《じやくまく》に、\n\n影うすれゆき、色蒼《あお》み、\n\n玉の光も鈍褪《どんざめ》ぬ。",
       "characters": 116,
       "ruby": []
     },
     {
-      "pageNumber": 39,
+      "pageNumber": 41,
       "content": "白明",
       "characters": 2,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 40,
+      "pageNumber": 42,
       "content": "罪も汚れも一斉《さい》に、\n\n花みだれ咲く森の奥、\n\n只だ吹上の水の下《もと》、\n\nひたりて更にときながせ。\n\n悲哀の琴《きん》に指ふせて、\n\n物の哀れを泣くなくは\n\nあだしこの世の泡《あわ》ごころ、\n\nすべてを捨つによしはなし。\n\n枕重ねて宵《よひ》々に、",
       "characters": 129,
       "ruby": []
     },
     {
-      "pageNumber": 41,
+      "pageNumber": 43,
       "content": "心こめたる涅※《ニルバナ》も、\n\n碧空《あをぞら》ひくき垂れさがる\n\n恋しき森の末なれば。",
       "characters": 45,
       "ruby": []
     },
     {
-      "pageNumber": 42,
+      "pageNumber": 44,
       "content": "漁夫",
       "characters": 2,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 43,
+      "pageNumber": 45,
       "content": "夕日さす遠《とほ》の海原、\n\n追風に浪にゆさぶり、\n\n阿旦葉《あだんは》の葉づれにまじり、\n\n南国の浜の静けさ。\n\n白き帆のたわむ刳舟《くりぶね》、\n\n湾《いりうみ》に絶えず入りこみ、\n\n銛《もり》かづぐ南蛮人は、\n\nあかがねの額《ひたひ》日にゆれ、\n\n投げかわす魚族のあまた――",
       "characters": 140,
       "ruby": []
     },
     {
-      "pageNumber": 44,
+      "pageNumber": 46,
       "content": "白銀《しろがね》の鱗ひるがへ、\n\n或はまた胸肉《むなじし》はりて、\n\n大鮫《おおざめ》を引きずる景色――\n\n熱帯の華奢《くわしや》のきはみを、\n\nつくしたる絵巻の模様。\n\n日も暮れて江の底にごり、\n\n物のかげ朧ろにさすや、\n\n椰子茂げる漁村のかひま、\n\n紅《あか》々と灯《ともし》いざよふ。",
       "characters": 145,
       "ruby": []
     },
     {
-      "pageNumber": 45,
+      "pageNumber": 47,
       "content": "人ふたり",
       "characters": 4,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 46,
+      "pageNumber": 48,
       "content": "空さむき冬の窓ごし、\n\n灯《ひ》は消えて町の暗《くら》がり、\n\nものゝ音も絶えて久々。\n\nその中を若かき愁ひの\n\n人ふたり添ひつ別れつ――\n\n疲れ倦み眩暈《くるめく》けわひ。\n\n吾れは今、うするる影に、\n\n物事《ものごと》の終り味ひ、\n\n戸をしめて胸をいだきぬ。",
       "characters": 131,
       "ruby": []
     },
     {
-      "pageNumber": 47,
+      "pageNumber": 49,
       "content": "森",
       "characters": 1,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 48,
+      "pageNumber": 50,
       "content": "夕暮れを森をいそぎぬ、\n\n吾れ独り、あゝ吾れひとり、\n\n物も得云はぬ唇に、\n\n色おのづから憂愁の\n\n無言の吾れを語るなり。\n\n実に若かき身は熱帯の\n\n花の姿か、色に出て、\n\n色に現はれ、繊弱《しなやか》に\n\nからみてよるゝ「運命」の",
       "characters": 116,
       "ruby": []
     },
     {
-      "pageNumber": 49,
+      "pageNumber": 51,
       "content": "それにも似たり、哀れ淋しく。\n\n踏み分け入りし森の奥、\n\n筋目もわかぬ木下路《こしたじ》や、\n\n足の労れのいやますに、\n\n住みゆき場所《ところ》何方ぞ、\n\n尚ほも見えねど、吾は進ぬ。",
       "characters": 91,
       "ruby": []
     },
     {
-      "pageNumber": 50,
+      "pageNumber": 52,
       "content": "海",
       "characters": 1,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 51,
+      "pageNumber": 53,
       "content": "海のかなたへ、たへ／″＼に、\n\nひろがりわたる浪の調べ、\n\n曲《ふし》は優《やさ》しく、白銀《しろがね》の\n\n絃《いと》をたはしる阿古屋玉。\n\n人間道のなりわひを、\n\nあざけり笑ふ浪の調べ。",
       "characters": 95,
       "ruby": []
     },
     {
-      "pageNumber": 52,
+      "pageNumber": 54,
       "content": "星",
       "characters": 1,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 53,
+      "pageNumber": 55,
       "content": "椰子の葉末に燃えあがり、\n\n天《あま》さかりゆく黄金の\n\n星の言《こと》の葉《は》君知るや、\n\n知らずば吾れと伴《とも》にゆき、\n\n傾ぶく迄もきくが嬉しき。",
       "characters": 78,
       "ruby": []

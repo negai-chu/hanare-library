@@ -9,7 +9,7 @@
     ],
     "estimatedReadTime": 30,
     "difficulty": 2,
-    "pages": 407
+    "pages": 408
   },
   "structure": {
     "chapters": [
@@ -617,13 +617,13 @@
             "id": "chapter-1-section-100",
             "number": "蠅",
             "startPage": 314,
-            "endPage": 1
+            "endPage": 316
           },
           {
             "id": "chapter-1-section-101",
-            "number": "闇と※［＃丸公、237-1］",
-            "startPage": 1,
-            "endPage": 1
+            "number": "闇と※",
+            "startPage": 317,
+            "endPage": 319
           },
           {
             "id": "chapter-1-section-102",
@@ -2784,20 +2784,21 @@
     },
     {
       "pageNumber": 317,
-      "content": "闇と※\n\nさつまをもらい\n\nねぎをもらい\n\nたばこのはっぱをなんまいだか\n\nもらったこともたしかなのだが\n\nもらいに行って\n\nもらって来たのではなかったのだ\n\n疎開はまったく気の毒でなあとか言って\n\n百姓が裏口からのぞいては",
-      "characters": 112,
-      "ruby": []
+      "content": "闇と※",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "section-title"
     },
     {
       "pageNumber": 318,
-      "content": "食えと出すのでそれをもらい\n\nのぞいてはまたそれを\n\n吸えと出すのでもらったのだ\n\nこんなことからのおつきあいで\n\n女房と僕のとを合わせて百五拾円\n\nその百姓に貸してあげたのだ\n\n百姓はまもなく借りを返しに来たのだが\n\nお米でとってくれまいかと\n\n一升枡きっかりの",
-      "characters": 132,
+      "content": "さつまをもらい\n\nねぎをもらい\n\nたばこのはっぱをなんまいだか\n\nもらったこともたしかなのだが\n\nもらいに行って\n\nもらって来たのではなかったのだ\n\n疎開はまったく気の毒でなあとか言って\n\n百姓が裏口からのぞいては\n\n食えと出すのでそれをもらい",
+      "characters": 122,
       "ruby": []
     },
     {
       "pageNumber": 319,
-      "content": "闇をそこに置いた\n\n貸したお金は※なのだが",
-      "characters": 21,
+      "content": "のぞいてはまたそれを\n\n吸えと出すのでもらったのだ\n\nこんなことからのおつきあいで\n\n女房と僕のとを合わせて百五拾円\n\nその百姓に貸してあげたのだ\n\n百姓はまもなく借りを返しに来たのだが\n\nお米でとってくれまいかと\n\n一升枡きっかりの\n\n闇をそこに置いた貸したお金は※なのだが",
+      "characters": 138,
       "ruby": []
     },
     {

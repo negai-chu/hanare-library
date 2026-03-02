@@ -857,19 +857,7 @@
             "id": "chapter-34-section-1",
             "number": "一",
             "startPage": 407,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-34-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-34-section-3",
-            "number": "三",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },
@@ -1007,13 +995,13 @@
             "id": "chapter-40-section-2",
             "number": "二",
             "startPage": 474,
-            "endPage": 1
+            "endPage": 476
           },
           {
             "id": "chapter-40-section-3",
-            "number": "三［＃「三」は底本では「二」］",
-            "startPage": 1,
-            "endPage": 1
+            "number": "三",
+            "startPage": 477,
+            "endPage": 0
           }
         ]
       },

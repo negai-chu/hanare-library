@@ -9,7 +9,7 @@
     ],
     "estimatedReadTime": 30,
     "difficulty": 2,
-    "pages": 89
+    "pages": 91
   },
   "structure": {
     "chapters": [
@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "聖三稜玻璃",
         "startPage": 1,
-        "endPage": 87,
+        "endPage": 88,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -214,25 +214,25 @@
           {
             "id": "chapter-1-section-33",
             "number": "誘惑",
-            "startPage": 82,
-            "endPage": 83
+            "startPage": 83,
+            "endPage": 84
           },
           {
             "id": "chapter-1-section-34",
             "number": "冬",
-            "startPage": 84,
-            "endPage": 85
+            "startPage": 85,
+            "endPage": 86
           },
           {
             "id": "chapter-1-section-35",
             "number": "いのり",
-            "startPage": 86,
-            "endPage": 87
+            "startPage": 87,
+            "endPage": 88
           }
         ]
       }
     ],
-    "totalPages": 87,
+    "totalPages": 88,
     "averageCharsPerPage": 54,
     "chapterTitles": []
   },
@@ -736,63 +736,70 @@
     },
     {
       "pageNumber": 78,
-      "content": "どんよりした午後のひかりで膝まで浸し\n\n瞳の中では微風の纖毛の動搖。\n\n風景\n\n　　　純銀もざいく\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな",
-      "characters": 104,
+      "content": "どんよりした午後のひかりで膝まで浸し\n\n瞳の中では微風の纖毛の動搖。",
+      "characters": 34,
       "ruby": []
     },
     {
       "pageNumber": 79,
-      "content": "いちめんのなのはな\n\nいちめんのなのはな\n\nかすかなるむぎぶえ\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな",
-      "characters": 97,
-      "ruby": []
+      "content": "風景",
+      "characters": 2,
+      "ruby": [],
+      "displayType": "section-title"
     },
     {
       "pageNumber": 80,
-      "content": "いちめんのなのはな\n\nいちめんのなのはな\n\nひばりのおしやべり\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな",
+      "content": "　　　純銀もざいく\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nかすかなるむぎぶえ",
       "characters": 97,
       "ruby": []
     },
     {
       "pageNumber": 81,
-      "content": "いちめんのなのはな\n\nいちめんのなのはな\n\nやめるはひるのつき\n\nいちめんのなのはな。",
-      "characters": 43,
+      "content": "いちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nひばりのおしやべり",
+      "characters": 97,
       "ruby": []
     },
     {
       "pageNumber": 82,
+      "content": "いちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nいちめんのなのはな\n\nやめるはひるのつきいちめんのなのはな。",
+      "characters": 107,
+      "ruby": []
+    },
+    {
+      "pageNumber": 83,
       "content": "誘惑",
       "characters": 2,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 83,
+      "pageNumber": 84,
       "content": "ほのかなる月の觸手\n\n薔薇の陰影《かげ》のじふてりあ\n\nみなそこでなくした瞳\n\nそれらが壺にみちあふれる。\n\n榲のふくらみ\n\n空間のたるみ\n\nそして愛の重み\n\n蟲めがねの中なる悲哀。",
       "characters": 91,
       "ruby": []
     },
     {
-      "pageNumber": 84,
+      "pageNumber": 85,
       "content": "冬",
       "characters": 1,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 85,
+      "pageNumber": 86,
       "content": "ふところに電流を仕掛け\n\n眞珠頸飾りのいりゆじよん\n\nひかりまばゆし\n\nぬつとつき出せ\n\n餓ゑた水晶のその手を……\n\nおお酒杯\n\n何といふ間抜けな雪だ\n\n何と……凝視《みつむ》るゆびさきの噴水。",
       "characters": 97,
       "ruby": []
     },
     {
-      "pageNumber": 86,
+      "pageNumber": 87,
       "content": "いのり",
       "characters": 3,
       "ruby": [],
       "displayType": "section-title"
     },
     {
-      "pageNumber": 87,
+      "pageNumber": 88,
       "content": "つりばりぞそらよりたれつ\n\nまぼろしのこがねのうをら\n\nさみしさに\n\nさみしさに\n\nそのはりをのみ。",
       "characters": 50,
       "ruby": []

@@ -49,19 +49,7 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 15,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-3",
-            "number": "三",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },
@@ -139,49 +127,7 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 63,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "二",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-3",
-            "number": "三",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-4",
-            "number": "四",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-5",
-            "number": "五",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-6",
-            "number": "六",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-7",
-            "number": "七",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-5-section-8",
-            "number": "八",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },
@@ -1463,13 +1409,7 @@
             "id": "chapter-40-section-6",
             "number": "六",
             "startPage": 771,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-40-section-7",
-            "number": "七",
-            "startPage": 1,
-            "endPage": 1
+            "endPage": 0
           }
         ]
       },

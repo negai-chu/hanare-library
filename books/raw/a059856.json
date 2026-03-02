@@ -24,18 +24,6 @@
             "number": "――絶海孤島の教育",
             "startPage": 1,
             "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "――教育の普及",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-3",
-            "number": "――跣足の生徒",
-            "startPage": 1,
-            "endPage": 1
           }
         ]
       },
@@ -43,15 +31,7 @@
         "id": "chapter-2",
         "title": "二",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "――軽便なる懇親会",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",

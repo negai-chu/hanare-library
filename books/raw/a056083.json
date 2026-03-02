@@ -20,12 +20,6 @@
         "endPage": 1,
         "sections": [
           {
-            "id": "chapter-1-section-1",
-            "number": "第一場　博徒六ツ田の三蔵の家",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
             "id": "chapter-1-section-2",
             "number": "第二場　三蔵の家の前",
             "startPage": 1,
@@ -55,15 +49,7 @@
         "id": "chapter-2",
         "title": "〔二幕目〕",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "中仙道熊谷宿裏通り",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",

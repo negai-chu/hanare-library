@@ -17,27 +17,7 @@
         "id": "chapter-1",
         "title": "ランボオへ",
         "startPage": 1,
-        "endPage": 3,
-        "sections": [
-          {
-            "id": "chapter-1-section-1",
-            "number": "",
-            "startPage": 2,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "",
-            "startPage": 2,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-1-section-3",
-            "number": "",
-            "startPage": 2,
-            "endPage": 3
-          }
-        ]
+        "endPage": 3
       }
     ],
     "totalPages": 3,

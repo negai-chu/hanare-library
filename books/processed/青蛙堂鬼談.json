@@ -23,30 +23,12 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-1-section-2",
-            "number": "二",
-            "startPage": 25,
             "endPage": 29
           },
           {
             "id": "chapter-1-section-3",
             "number": "一",
             "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-1-section-4",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-1-section-5",
-            "number": "三",
-            "startPage": 44,
             "endPage": 222
           }
         ]
@@ -55,171 +37,25 @@
         "id": "chapter-2",
         "title": "一",
         "startPage": 187,
-        "endPage": 222,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-2-section-3",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 29
-          },
-          {
-            "id": "chapter-2-section-4",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-2-section-5",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-2-section-6",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 222
-          }
-        ]
+        "endPage": 222
       },
       {
         "id": "chapter-3",
         "title": "一",
         "startPage": 187,
-        "endPage": 222,
-        "sections": [
-          {
-            "id": "chapter-3-section-1",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-3-section-2",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-3-section-3",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 29
-          },
-          {
-            "id": "chapter-3-section-4",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-3-section-5",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 222
-          }
-        ]
+        "endPage": 222
       },
       {
         "id": "chapter-4",
         "title": "一",
         "startPage": 187,
-        "endPage": 222,
-        "sections": [
-          {
-            "id": "chapter-4-section-1",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-4-section-2",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-4-section-3",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 29
-          },
-          {
-            "id": "chapter-4-section-4",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-4-section-5",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-4-section-6",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 222
-          }
-        ]
+        "endPage": 222
       },
       {
         "id": "chapter-5",
         "title": "一",
         "startPage": 187,
-        "endPage": 222,
-        "sections": [
-          {
-            "id": "chapter-5-section-1",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-5-section-2",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-5-section-3",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 29
-          },
-          {
-            "id": "chapter-5-section-4",
-            "number": "一",
-            "startPage": 30,
-            "endPage": 24
-          },
-          {
-            "id": "chapter-5-section-5",
-            "number": "二",
-            "startPage": 25,
-            "endPage": 43
-          },
-          {
-            "id": "chapter-5-section-6",
-            "number": "三",
-            "startPage": 44,
-            "endPage": 222
-          }
-        ]
+        "endPage": 222
       },
       {
         "id": "chapter-6",

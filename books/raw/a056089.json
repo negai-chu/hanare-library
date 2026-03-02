@@ -20,12 +20,6 @@
         "endPage": 1,
         "sections": [
           {
-            "id": "chapter-1-section-1",
-            "number": "第一場　金町瓦焼の家（春）",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
             "id": "chapter-1-section-2",
             "number": "第二場　夏の夜の街（引返）",
             "startPage": 1,
@@ -43,27 +37,7 @@
         "id": "chapter-2",
         "title": "〔大詰〕",
         "startPage": 1,
-        "endPage": 1,
-        "sections": [
-          {
-            "id": "chapter-2-section-1",
-            "number": "第一場　柳橋水熊横丁",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-2",
-            "number": "第二場　おはまの居間",
-            "startPage": 1,
-            "endPage": 1
-          },
-          {
-            "id": "chapter-2-section-3",
-            "number": "第三場　荒川堤（引返）",
-            "startPage": 1,
-            "endPage": 1
-          }
-        ]
+        "endPage": 1
       },
       {
         "id": "chapter-3",
