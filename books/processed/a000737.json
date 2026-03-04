@@ -23,45 +23,53 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "凍える夜の独白"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "大阪の街と人々"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 24,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "戦時下の暮らし"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 32,
-            "endPage": 42
+            "endPage": 42,
+            "summary": "文学と放蕩"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 43,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "人間観察の断章"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 49,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "乱世を生きる知恵"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 56,
-            "endPage": 67
+            "endPage": 67,
+            "summary": "世相の行方"
           }
-        ]
+        ],
+        "summary": "戦中戦後の大阪の世相と人間模様"
       }
     ],
     "totalPages": 67,

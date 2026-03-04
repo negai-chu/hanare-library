@@ -23,75 +23,88 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "ローラの写真"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "女の訪問"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 19,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "感情の揺れ"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 25,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "南風の季節"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 33,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "恋の進展"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 42,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "決別の予感"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 52,
-            "endPage": 61
+            "endPage": 61,
+            "summary": "再会と別離"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 62,
-            "endPage": 79
+            "endPage": 79,
+            "summary": "孤独の深まり"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 80,
-            "endPage": 87
+            "endPage": 87,
+            "summary": "過去の回想"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 88,
-            "endPage": 98
+            "endPage": 98,
+            "summary": "風の変化"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 99,
-            "endPage": 112
+            "endPage": 112,
+            "summary": "新たな出発"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 113,
-            "endPage": 120
+            "endPage": 120,
+            "summary": "南風の終わり"
           }
-        ]
+        ],
+        "summary": "南風の吹く恋と写真"
       }
     ],
     "totalPages": 120,

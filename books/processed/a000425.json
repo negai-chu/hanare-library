@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "吉田の呑気な闘病"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "隣人の死の衝撃"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 25,
-            "endPage": 37
+            "endPage": 37,
+            "summary": "迫りくる病の現実"
           }
-        ]
+        ],
+        "summary": "肺病患者の日常と不安"
       }
     ],
     "totalPages": 37,

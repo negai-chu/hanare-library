@@ -23,45 +23,53 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "事件の勃発"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 6,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "帝都の恐怖"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 13,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "捜査の難航"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 20,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "新たな犠牲者"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 32,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "射撃手の正体"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 44,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "追い詰める捜査陣"
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
             "startPage": 51,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "事件の決着"
           }
-        ]
+        ],
+        "summary": "省線電車の謎の射撃手"
       }
     ],
     "totalPages": 58,

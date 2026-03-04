@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "天地開闢の始まり"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "国生みの営み"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 8,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "黄泉の国への追跡"
           }
-        ]
+        ],
+        "summary": "国生みと女神の死"
       },
       {
         "id": "chapter-2",
@@ -49,15 +53,18 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 13,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "須佐之男の乱行"
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "岩戸開きの祭り"
           }
-        ]
+        ],
+        "summary": "天照大神と岩戸隠れ"
       },
       {
         "id": "chapter-3",
@@ -69,9 +76,11 @@
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 23,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "出雲での大蛇退治"
           }
-        ]
+        ],
+        "summary": "八岐大蛇の退治"
       },
       {
         "id": "chapter-4",
@@ -83,27 +92,32 @@
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 29,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "大国主の受難"
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 32,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "蛇と蜂の試練"
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 36,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "須勢理姫の助け"
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 39,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "根の国からの脱出"
           }
-        ]
+        ],
+        "summary": "根の国の試練"
       },
       {
         "id": "chapter-5",
@@ -115,15 +129,18 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 43,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "天上からの使者"
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 47,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "出雲の国譲り"
           }
-        ]
+        ],
+        "summary": "国譲りの使者"
       },
       {
         "id": "chapter-6",
@@ -135,15 +152,18 @@
             "id": "chapter-6-section-1",
             "number": "一",
             "startPage": 54,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "日向への降臨"
           },
           {
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "笠沙での婚姻"
           }
-        ]
+        ],
+        "summary": "天孫降臨の物語"
       },
       {
         "id": "chapter-7",
@@ -155,21 +175,25 @@
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 63,
-            "endPage": 64
+            "endPage": 64,
+            "summary": "兄弟の争い"
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 65,
-            "endPage": 70
+            "endPage": 70,
+            "summary": "海神の宮殿"
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 71,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "潮の玉の力"
           }
-        ]
+        ],
+        "summary": "海幸彦と山幸彦"
       },
       {
         "id": "chapter-8",
@@ -181,21 +205,25 @@
             "id": "chapter-8-section-1",
             "number": "一",
             "startPage": 76,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "東方への出発"
           },
           {
             "id": "chapter-8-section-2",
             "number": "二",
             "startPage": 78,
-            "endPage": 84
+            "endPage": 84,
+            "summary": "八咫烏の導き"
           },
           {
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 85,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "大和の平定"
           }
-        ]
+        ],
+        "summary": "神武天皇の東征"
       },
       {
         "id": "chapter-9",
@@ -207,15 +235,18 @@
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 91,
-            "endPage": 92
+            "endPage": 92,
+            "summary": "赤い盾の勇者"
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "戦場の決着"
           }
-        ]
+        ],
+        "summary": "英雄の戦いと裁き"
       },
       {
         "id": "chapter-10",
@@ -227,27 +258,32 @@
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 99,
-            "endPage": 100
+            "endPage": 100,
+            "summary": "口のきけぬ皇子"
           },
           {
             "id": "chapter-10-section-2",
             "number": "二",
             "startPage": 101,
-            "endPage": 103
+            "endPage": 103,
+            "summary": "白鳥との出会い"
           },
           {
             "id": "chapter-10-section-3",
             "number": "三",
             "startPage": 104,
-            "endPage": 107
+            "endPage": 107,
+            "summary": "言葉を得る奇跡"
           },
           {
             "id": "chapter-10-section-4",
             "number": "四",
             "startPage": 108,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "皇子の成長"
           }
-        ]
+        ],
+        "summary": "声なき皇子の物語"
       },
       {
         "id": "chapter-11",
@@ -259,33 +295,39 @@
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 112,
-            "endPage": 113
+            "endPage": 113,
+            "summary": "西征の旅立ち"
           },
           {
             "id": "chapter-11-section-2",
             "number": "二",
             "startPage": 114,
-            "endPage": 116
+            "endPage": 116,
+            "summary": "熊襲征伐の智略"
           },
           {
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 117,
-            "endPage": 121
+            "endPage": 121,
+            "summary": "東征への出立"
           },
           {
             "id": "chapter-11-section-4",
             "number": "四",
             "startPage": 122,
-            "endPage": 129
+            "endPage": 129,
+            "summary": "草薙剣の奇跡"
           },
           {
             "id": "chapter-11-section-5",
             "number": "五",
             "startPage": 130,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "白い鳥となる最期"
           }
-        ]
+        ],
+        "summary": "倭建命の英雄譚"
       },
       {
         "id": "chapter-12",
@@ -297,27 +339,32 @@
             "id": "chapter-12-section-1",
             "number": "一",
             "startPage": 132,
-            "endPage": 135
+            "endPage": 135,
+            "summary": "神託の下命"
           },
           {
             "id": "chapter-12-section-2",
             "number": "二",
             "startPage": 136,
-            "endPage": 137
+            "endPage": 137,
+            "summary": "海を渡る軍船"
           },
           {
             "id": "chapter-12-section-3",
             "number": "三",
             "startPage": 138,
-            "endPage": 141
+            "endPage": 141,
+            "summary": "異国での戦い"
           },
           {
             "id": "chapter-12-section-4",
             "number": "四",
             "startPage": 142,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "凱旋と皇子の誕生"
           }
-        ]
+        ],
+        "summary": "神功皇后の出征"
       },
       {
         "id": "chapter-13",
@@ -329,15 +376,18 @@
             "id": "chapter-13-section-1",
             "number": "一",
             "startPage": 147,
-            "endPage": 148
+            "endPage": 148,
+            "summary": "神秘な玉の出現"
           },
           {
             "id": "chapter-13-section-2",
             "number": "二",
             "startPage": 149,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "玉がもたらす運命"
           }
-        ]
+        ],
+        "summary": "赤い玉の不思議"
       },
       {
         "id": "chapter-14",
@@ -349,33 +399,39 @@
             "id": "chapter-14-section-1",
             "number": "一",
             "startPage": 153,
-            "endPage": 157
+            "endPage": 157,
+            "summary": "皇位の譲り合い"
           },
           {
             "id": "chapter-14-section-2",
             "number": "二",
             "startPage": 158,
-            "endPage": 159
+            "endPage": 159,
+            "summary": "兄弟の情愛"
           },
           {
             "id": "chapter-14-section-3",
             "number": "三",
             "startPage": 160,
-            "endPage": 160
+            "endPage": 160,
+            "summary": "宇治川の悲劇"
           },
           {
             "id": "chapter-14-section-4",
             "number": "四",
             "startPage": 161,
-            "endPage": 164
+            "endPage": 164,
+            "summary": "身代わりの死"
           },
           {
             "id": "chapter-14-section-5",
             "number": "五",
             "startPage": 165,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "嘆きの結末"
           }
-        ]
+        ],
+        "summary": "宇治の兄弟の譲り合い"
       },
       {
         "id": "chapter-15",
@@ -387,33 +443,39 @@
             "id": "chapter-15-section-1",
             "number": "一",
             "startPage": 168,
-            "endPage": 169
+            "endPage": 169,
+            "summary": "民のかまどの煙"
           },
           {
             "id": "chapter-15-section-2",
             "number": "二",
             "startPage": 170,
-            "endPage": 171
+            "endPage": 171,
+            "summary": "仁政の始まり"
           },
           {
             "id": "chapter-15-section-3",
             "number": "三",
             "startPage": 172,
-            "endPage": 176
+            "endPage": 176,
+            "summary": "后の嫉妬"
           },
           {
             "id": "chapter-15-section-4",
             "number": "四",
             "startPage": 177,
-            "endPage": 179
+            "endPage": 179,
+            "summary": "宮中の恋と嘆き"
           },
           {
             "id": "chapter-15-section-5",
             "number": "五",
             "startPage": 180,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "難波の繁栄"
           }
-        ]
+        ],
+        "summary": "仁徳天皇の治世"
       },
       {
         "id": "chapter-16",
@@ -425,39 +487,46 @@
             "id": "chapter-16-section-1",
             "number": "一",
             "startPage": 183,
-            "endPage": 184
+            "endPage": 184,
+            "summary": "二人の后の対立"
           },
           {
             "id": "chapter-16-section-2",
             "number": "二",
             "startPage": 185,
-            "endPage": 186
+            "endPage": 186,
+            "summary": "鈴の音の由来"
           },
           {
             "id": "chapter-16-section-3",
             "number": "三",
             "startPage": 187,
-            "endPage": 187
+            "endPage": 187,
+            "summary": "宮廷の策略"
           },
           {
             "id": "chapter-16-section-4",
             "number": "四",
             "startPage": 188,
-            "endPage": 188
+            "endPage": 188,
+            "summary": "追放と逃避行"
           },
           {
             "id": "chapter-16-section-5",
             "number": "五",
             "startPage": 189,
-            "endPage": 190
+            "endPage": 190,
+            "summary": "和解への道"
           },
           {
             "id": "chapter-16-section-6",
             "number": "六",
             "startPage": 191,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "鈴の音の余韻"
           }
-        ]
+        ],
+        "summary": "大鈴小鈴の物語"
       },
       {
         "id": "chapter-17",
@@ -469,27 +538,32 @@
             "id": "chapter-17-section-1",
             "number": "一",
             "startPage": 194,
-            "endPage": 196
+            "endPage": 196,
+            "summary": "御猟の場面"
           },
           {
             "id": "chapter-17-section-2",
             "number": "二",
             "startPage": 197,
-            "endPage": 199
+            "endPage": 199,
+            "summary": "鹿と猪の群れ"
           },
           {
             "id": "chapter-17-section-3",
             "number": "三",
             "startPage": 200,
-            "endPage": 200
+            "endPage": 200,
+            "summary": "臣下の忠節"
           },
           {
             "id": "chapter-17-section-4",
             "number": "四",
             "startPage": 201,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "狩猟の結末"
           }
-        ]
+        ],
+        "summary": "狩場の天皇と臣下"
       },
       {
         "id": "chapter-18",
@@ -501,33 +575,39 @@
             "id": "chapter-18-section-1",
             "number": "一",
             "startPage": 204,
-            "endPage": 204
+            "endPage": 204,
+            "summary": "若き天皇の即位"
           },
           {
             "id": "chapter-18-section-2",
             "number": "二",
             "startPage": 205,
-            "endPage": 207
+            "endPage": 207,
+            "summary": "武勇と暴虐"
           },
           {
             "id": "chapter-18-section-3",
             "number": "三",
             "startPage": 208,
-            "endPage": 208
+            "endPage": 208,
+            "summary": "歌垣の恋"
           },
           {
             "id": "chapter-18-section-4",
             "number": "四",
             "startPage": 209,
-            "endPage": 209
+            "endPage": 209,
+            "summary": "蜻蛉の歌"
           },
           {
             "id": "chapter-18-section-5",
             "number": "五",
             "startPage": 210,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "大和の秋津島"
           }
-        ]
+        ],
+        "summary": "雄略天皇の御世"
       },
       {
         "id": "chapter-19",
@@ -539,27 +619,32 @@
             "id": "chapter-19-section-1",
             "number": "一",
             "startPage": 214,
-            "endPage": 215
+            "endPage": 215,
+            "summary": "天皇と牧人"
           },
           {
             "id": "chapter-19-section-2",
             "number": "二",
             "startPage": 216,
-            "endPage": 217
+            "endPage": 217,
+            "summary": "献上と褒賞"
           },
           {
             "id": "chapter-19-section-3",
             "number": "三",
             "startPage": 218,
-            "endPage": 220
+            "endPage": 220,
+            "summary": "牧場の風景"
           },
           {
             "id": "chapter-19-section-4",
             "number": "四",
             "startPage": 221,
-            "endPage": 223
+            "endPage": 223,
+            "summary": "古事記の結び"
           }
-        ]
+        ],
+        "summary": "牛飼い馬飼いの話"
       }
     ],
     "totalPages": 223,

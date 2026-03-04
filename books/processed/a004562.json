@@ -23,69 +23,81 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "旅立ちの決意"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "道中の出会い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "街道の風景"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "宿場の一夜"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "伊勢への接近"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "神宮参拝"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 31,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "帰途の感慨"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 35,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "旅の余韻"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 39,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "土産話の数々"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 47,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "旅の教訓"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 51,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "旅の終わり"
           }
-        ]
+        ],
+        "summary": "貧乏旅の伊勢参り"
       }
     ],
     "totalPages": 55,

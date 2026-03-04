@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "石田周吉の性格"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 15,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "運命の転機"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 25,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "逡巡と決断"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 35,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "運命の受容"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 47,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "静かな覚悟"
           }
-        ]
+        ],
+        "summary": "運命に身を委ねる男"
       }
     ],
     "totalPages": 58,

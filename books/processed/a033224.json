@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "物語の序章"
       },
       {
         "id": "chapter-2",
@@ -37,7 +38,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "乱世の時代背景"
       },
       {
         "id": "chapter-3",
@@ -81,7 +83,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "紅玉をめぐる因縁"
       },
       {
         "id": "chapter-4",
@@ -119,7 +122,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "叡山への修行の道"
       },
       {
         "id": "chapter-5",
@@ -175,7 +179,8 @@
             "startPage": 457,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "去来する迷いと悟り"
       },
       {
         "id": "chapter-6",
@@ -225,7 +230,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "女人との邂逅"
       },
       {
         "id": "chapter-7",
@@ -257,7 +263,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "大盗との対峙"
       },
       {
         "id": "chapter-8",
@@ -301,7 +308,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "恋愛と信仰の葛藤"
       },
       {
         "id": "chapter-9",
@@ -327,7 +335,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "師弟同車の旅"
       },
       {
         "id": "chapter-10",
@@ -371,7 +380,8 @@
             "startPage": 894,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "法敵との闘い"
       },
       {
         "id": "chapter-11",
@@ -427,7 +437,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "悪人正機の思想"
       },
       {
         "id": "chapter-12",
@@ -519,7 +530,8 @@
             "startPage": 1221,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "氷雪の中の布教"
       },
       {
         "id": "chapter-13",
@@ -569,7 +581,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "田歌の里での暮らし"
       }
     ],
     "totalPages": 1361,

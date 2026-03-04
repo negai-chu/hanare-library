@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "喧騒の街"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "山彦の反響"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "夜の騒乱"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 27,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "街の夜明け"
           }
-        ]
+        ],
+        "summary": "哄笑と罵声の街の夜"
       }
     ],
     "totalPages": 35,

@@ -23,7 +23,8 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "不可思議な夢"
           },
           {
             "id": "chapter-1-section-2",
@@ -47,7 +48,8 @@
             "id": "chapter-1-section-5",
             "number": "二",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "夢の反復"
           },
           {
             "id": "chapter-1-section-6",
@@ -83,7 +85,8 @@
             "id": "chapter-1-section-11",
             "number": "三",
             "startPage": 42,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "現実の歪み"
           },
           {
             "id": "chapter-1-section-12",
@@ -101,7 +104,8 @@
             "id": "chapter-1-section-14",
             "number": "四",
             "startPage": 55,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "鬼の正体"
           },
           {
             "id": "chapter-1-section-15",
@@ -119,7 +123,8 @@
             "id": "chapter-1-section-17",
             "number": "五",
             "startPage": 66,
-            "endPage": 69
+            "endPage": 69,
+            "summary": "恐怖の深化"
           },
           {
             "id": "chapter-1-section-18",
@@ -155,7 +160,8 @@
             "id": "chapter-1-section-23",
             "number": "六",
             "startPage": 95,
-            "endPage": 98
+            "endPage": 98,
+            "summary": "逃げ場なし"
           },
           {
             "id": "chapter-1-section-24",
@@ -179,7 +185,8 @@
             "id": "chapter-1-section-27",
             "number": "七",
             "startPage": 112,
-            "endPage": 114
+            "endPage": 114,
+            "summary": "夢と現実の境界"
           },
           {
             "id": "chapter-1-section-28",
@@ -209,7 +216,8 @@
             "id": "chapter-1-section-32",
             "number": "八",
             "startPage": 135,
-            "endPage": 141
+            "endPage": 141,
+            "summary": "鬼との対峙"
           },
           {
             "id": "chapter-1-section-33",
@@ -233,7 +241,8 @@
             "id": "chapter-1-section-36",
             "number": "九",
             "startPage": 160,
-            "endPage": 163
+            "endPage": 163,
+            "summary": "狂気の淵"
           },
           {
             "id": "chapter-1-section-37",
@@ -257,7 +266,8 @@
             "id": "chapter-1-section-40",
             "number": "十",
             "startPage": 180,
-            "endPage": 185
+            "endPage": 185,
+            "summary": "覚醒への道"
           },
           {
             "id": "chapter-1-section-41",
@@ -275,7 +285,8 @@
             "id": "chapter-1-section-43",
             "number": "十一",
             "startPage": 196,
-            "endPage": 200
+            "endPage": 200,
+            "summary": "夢鬼の結末"
           },
           {
             "id": "chapter-1-section-44",
@@ -301,7 +312,8 @@
             "startPage": 214,
             "endPage": 216
           }
-        ]
+        ],
+        "summary": "夢に棲む鬼の恐怖"
       }
     ],
     "totalPages": 216,

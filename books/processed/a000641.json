@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 3,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "方向感覚の喪失"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 11,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "見知らぬ街への迷入"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 23,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "猫の町の発見"
           }
-        ]
+        ],
+        "summary": "迷い込んだ猫だらけの町"
       }
     ],
     "totalPages": 24,

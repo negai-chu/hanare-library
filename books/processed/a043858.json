@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "官庁での出会いと友情"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "嫉妬と悪態の応酬"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "心理の深層にある感情"
           }
-        ]
+        ],
+        "summary": "タイピスト二人の友情と対立"
       }
     ],
     "totalPages": 24,

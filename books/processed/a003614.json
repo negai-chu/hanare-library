@@ -41,21 +41,25 @@
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "孤独な日常"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "人との交わり"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 24,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "独身の心境"
           }
-        ]
+        ],
+        "summary": "小倉での独り暮らし"
       }
     ],
     "totalPages": 28,

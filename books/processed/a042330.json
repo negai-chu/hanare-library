@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "日本の悪魔の系譜"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "魔王の出現"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "魔王との対決"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 14,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "修験者の挑戦"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 17,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "退治の方策"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 21,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "魔王の反撃"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 25,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "決戦の時"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 30,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "魔王の最期"
           }
-        ]
+        ],
+        "summary": "日本の魔王伝説"
       }
     ],
     "totalPages": 32,

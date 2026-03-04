@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "物語の序"
       },
       {
         "id": "chapter-2",
@@ -47,7 +48,8 @@
             "id": "chapter-2-section-4",
             "number": "二",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "婚礼の情景"
           },
           {
             "id": "chapter-2-section-5",
@@ -139,7 +141,8 @@
             "startPage": 74,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "若き夫婦の出会い"
       },
       {
         "id": "chapter-3",
@@ -289,9 +292,11 @@
             "id": "chapter-3-section-24",
             "number": "十",
             "startPage": 176,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "別れの宣告"
           }
-        ]
+        ],
+        "summary": "離縁の悲劇"
       },
       {
         "id": "chapter-4",
@@ -473,7 +478,8 @@
             "startPage": 284,
             "endPage": 288
           }
-        ]
+        ],
+        "summary": "病と死の運命"
       }
     ],
     "totalPages": 288,

@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "久々の東京"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "都会の刺激"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "感想の断片"
           }
-        ]
+        ],
+        "summary": "田舎から東京への感想"
       }
     ],
     "totalPages": 12,

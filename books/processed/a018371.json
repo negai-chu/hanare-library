@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "博物館論の序文"
       },
       {
         "id": "chapter-2",
@@ -37,7 +38,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "博物館の概論"
       },
       {
         "id": "chapter-3",
@@ -63,7 +65,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "考古博物館の上巻"
       },
       {
         "id": "chapter-4",
@@ -89,7 +92,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "考古博物館の下巻"
       }
     ],
     "totalPages": 252,

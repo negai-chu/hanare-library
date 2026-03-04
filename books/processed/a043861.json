@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "やり遂げる意志の力"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "思い込みの危うさ"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "周囲との軋轢"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "菜の花の真実"
           }
-        ]
+        ],
+        "summary": "信念を貫く人物の物語"
       }
     ],
     "totalPages": 23,

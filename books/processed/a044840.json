@@ -23,45 +23,53 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "演劇の定義と範囲"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 5,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "様式の歴史的変遷"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 10,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "写実主義の様式"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 14,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "象徴主義と表現主義"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 17,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "演劇様式の分類法"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 22,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "東洋演劇の様式的特質"
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
             "startPage": 25,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "現代演劇の様式的課題"
           }
-        ]
+        ],
+        "summary": "演劇の様式の総論的考察"
       }
     ],
     "totalPages": 28,

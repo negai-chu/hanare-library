@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "樽野の日向ぼっこ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 14,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "村の人々との交流"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 26,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "ストア哲学的日常"
           }
-        ]
+        ],
+        "summary": "泉水のほとりの隠遁者"
       }
     ],
     "totalPages": 38,

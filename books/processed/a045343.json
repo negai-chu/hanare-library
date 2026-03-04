@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "蝉の神話的役割"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "歌への渇望"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "芸術と日常"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 28,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "歌える日を待つ"
           }
-        ]
+        ],
+        "summary": "蝉とミューズへの憧憬"
       }
     ],
     "totalPages": 38,

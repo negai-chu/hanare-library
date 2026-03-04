@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "学問か就職かの岐路"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "雪の中の散歩"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "深まる内面の葛藤"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "冬の中の一時の安寧"
           }
-        ]
+        ],
+        "summary": "雪景色の中の進路の迷い"
       }
     ],
     "totalPages": 20,

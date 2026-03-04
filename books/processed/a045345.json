@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "ネクタイを買う"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "女性への緊張"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "不器用な恋"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 23,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "臆病の苦悩"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 28,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "恋の行方"
           }
-        ]
+        ],
+        "summary": "女性に臆病な勤め人"
       }
     ],
     "totalPages": 32,

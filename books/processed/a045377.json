@@ -23,75 +23,88 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "雨で延びた約束"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "出発の朝"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "道中の会話"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "乗馬の練習"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "馬との親しみ"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 20,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "ダイアナの馬"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 24,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "森の中の騎行"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 28,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "草原の疾走"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 32,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "夕暮れの帰路"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 36,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "馬と人の絆"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 40,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "再訪の約束"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 44,
-            "endPage": 47
+            "endPage": 47,
+            "summary": "物語の締め括り"
           }
-        ]
+        ],
+        "summary": "雨の土曜日と馬の話"
       }
     ],
     "totalPages": 47,

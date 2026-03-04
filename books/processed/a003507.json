@@ -71,7 +71,8 @@
             "id": "chapter-1-section-9",
             "number": "四",
             "startPage": 45,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "信仰と葛藤"
           },
           {
             "id": "chapter-1-section-10",
@@ -95,7 +96,8 @@
             "id": "chapter-1-section-13",
             "number": "六",
             "startPage": 66,
-            "endPage": 71
+            "endPage": 71,
+            "summary": "決意の表明"
           },
           {
             "id": "chapter-1-section-14",
@@ -155,7 +157,8 @@
             "id": "chapter-1-section-23",
             "number": "十",
             "startPage": 112,
-            "endPage": 118
+            "endPage": 118,
+            "summary": "苦難の道程"
           },
           {
             "id": "chapter-1-section-24",
@@ -173,7 +176,8 @@
             "id": "chapter-1-section-26",
             "number": "十二",
             "startPage": 131,
-            "endPage": 134
+            "endPage": 134,
+            "summary": "闘争の激化"
           },
           {
             "id": "chapter-1-section-27",
@@ -203,7 +207,8 @@
             "id": "chapter-1-section-31",
             "number": "十五",
             "startPage": 155,
-            "endPage": 158
+            "endPage": 158,
+            "summary": "転換の時"
           },
           {
             "id": "chapter-1-section-32",
@@ -287,13 +292,15 @@
             "id": "chapter-1-section-45",
             "number": "十九",
             "startPage": 225,
-            "endPage": 228
+            "endPage": 228,
+            "summary": "新たな局面"
           },
           {
             "id": "chapter-1-section-46",
             "number": "二十",
             "startPage": 229,
-            "endPage": 232
+            "endPage": 232,
+            "summary": "覚悟の刻"
           },
           {
             "id": "chapter-1-section-47",
@@ -329,7 +336,8 @@
             "id": "chapter-1-section-52",
             "number": "二十二",
             "startPage": 256,
-            "endPage": 259
+            "endPage": 259,
+            "summary": "運命の分岐"
           },
           {
             "id": "chapter-1-section-53",
@@ -389,7 +397,8 @@
             "id": "chapter-1-section-62",
             "number": "二十六",
             "startPage": 302,
-            "endPage": 305
+            "endPage": 305,
+            "summary": "試練と希望"
           },
           {
             "id": "chapter-1-section-63",
@@ -407,7 +416,8 @@
             "id": "chapter-1-section-65",
             "number": "二十八",
             "startPage": 317,
-            "endPage": 320
+            "endPage": 320,
+            "summary": "終局への歩み"
           },
           {
             "id": "chapter-1-section-66",
@@ -425,9 +435,11 @@
             "id": "chapter-1-section-68",
             "number": "三十",
             "startPage": 339,
-            "endPage": 342
+            "endPage": 342,
+            "summary": "最後の決断"
           }
-        ]
+        ],
+        "summary": "社会運動の炎"
       }
     ],
     "totalPages": 342,

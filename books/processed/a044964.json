@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 3,
-            "endPage": 2
+            "endPage": 2,
+            "summary": "母あひるの優しさ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 3,
-            "endPage": 2
+            "endPage": 2,
+            "summary": "子供たちの世話"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 3,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "困った子の助け"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 4,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "皆で仲良く暮らす"
           }
-        ]
+        ],
+        "summary": "あひるのお母さんの親切"
       },
       {
         "id": "chapter-2",
@@ -55,27 +60,32 @@
             "id": "chapter-2-section-1",
             "number": "１",
             "startPage": 6,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "誕生日の朝の喜び"
           },
           {
             "id": "chapter-2-section-2",
             "number": "２",
             "startPage": 6,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "お友達のお祝い"
           },
           {
             "id": "chapter-2-section-3",
             "number": "３",
             "startPage": 6,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "楽しいパーティー"
           },
           {
             "id": "chapter-2-section-4",
             "number": "４",
             "startPage": 6,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "素敵な一日の終わり"
           }
-        ]
+        ],
+        "summary": "あひるさんの誕生日"
       },
       {
         "id": "chapter-3",
@@ -87,27 +97,32 @@
             "id": "chapter-3-section-1",
             "number": "１",
             "startPage": 8,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "わがままを言い出す"
           },
           {
             "id": "chapter-3-section-2",
             "number": "２",
             "startPage": 8,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "困った結果になる"
           },
           {
             "id": "chapter-3-section-3",
             "number": "３",
             "startPage": 8,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "反省と気づき"
           },
           {
             "id": "chapter-3-section-4",
             "number": "４",
             "startPage": 8,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "仲直りと成長"
           }
-        ]
+        ],
+        "summary": "わがままの報い"
       },
       {
         "id": "chapter-4",
@@ -119,27 +134,32 @@
             "id": "chapter-4-section-1",
             "number": "１",
             "startPage": 10,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "プールへ向かう"
           },
           {
             "id": "chapter-4-section-2",
             "number": "２",
             "startPage": 10,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "水遊びの楽しさ"
           },
           {
             "id": "chapter-4-section-3",
             "number": "３",
             "startPage": 10,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "小さな事件"
           },
           {
             "id": "chapter-4-section-4",
             "number": "４",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "無事に帰宅"
           }
-        ]
+        ],
+        "summary": "プールへの楽しい遠足"
       },
       {
         "id": "chapter-5",
@@ -151,27 +171,32 @@
             "id": "chapter-5-section-1",
             "number": "１",
             "startPage": 12,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "怖がりのあひるさん"
           },
           {
             "id": "chapter-5-section-2",
             "number": "２",
             "startPage": 12,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "勇気を出す場面"
           },
           {
             "id": "chapter-5-section-3",
             "number": "３",
             "startPage": 12,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "友達の励まし"
           },
           {
             "id": "chapter-5-section-4",
             "number": "４",
             "startPage": 12,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "恐怖の克服"
           }
-        ]
+        ],
+        "summary": "おくびょうなあひるの勇気"
       },
       {
         "id": "chapter-6",
@@ -183,27 +208,32 @@
             "id": "chapter-6-section-1",
             "number": "１",
             "startPage": 14,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "のんびりした朝"
           },
           {
             "id": "chapter-6-section-2",
             "number": "２",
             "startPage": 14,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "呑気な失敗"
           },
           {
             "id": "chapter-6-section-3",
             "number": "３",
             "startPage": 14,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "笑い話の種"
           },
           {
             "id": "chapter-6-section-4",
             "number": "４",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "平和な一日の終わり"
           }
-        ]
+        ],
+        "summary": "のんきな二人の日常"
       },
       {
         "id": "chapter-7",
@@ -215,27 +245,32 @@
             "id": "chapter-7-section-1",
             "number": "１",
             "startPage": 16,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "海苔巻き作りの挑戦"
           },
           {
             "id": "chapter-7-section-2",
             "number": "２",
             "startPage": 16,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "泥だらけの失敗"
           },
           {
             "id": "chapter-7-section-3",
             "number": "３",
             "startPage": 16,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "作り直しの工夫"
           },
           {
             "id": "chapter-7-section-4",
             "number": "４",
             "startPage": 16,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "美味しい海苔巻き完成"
           }
-        ]
+        ],
+        "summary": "泥だらけの海苔巻き"
       },
       {
         "id": "chapter-8",
@@ -247,27 +282,32 @@
             "id": "chapter-8-section-1",
             "number": "１",
             "startPage": 18,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "仲良しの二人の日常"
           },
           {
             "id": "chapter-8-section-2",
             "number": "２",
             "startPage": 18,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "ちょっとした喧嘩"
           },
           {
             "id": "chapter-8-section-3",
             "number": "３",
             "startPage": 18,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "お互いの良さの再発見"
           },
           {
             "id": "chapter-8-section-4",
             "number": "４",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "より深い友情"
           }
-        ]
+        ],
+        "summary": "仲良しの秘訣"
       },
       {
         "id": "chapter-9",
@@ -279,27 +319,32 @@
             "id": "chapter-9-section-1",
             "number": "１",
             "startPage": 21,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "いじめっ子の犬の登場"
           },
           {
             "id": "chapter-9-section-2",
             "number": "２",
             "startPage": 21,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "困った出来事"
           },
           {
             "id": "chapter-9-section-3",
             "number": "３",
             "startPage": 21,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "勇気を出して立ち向かう"
           },
           {
             "id": "chapter-9-section-4",
             "number": "４",
             "startPage": 21,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "仲間の力で解決"
           }
-        ]
+        ],
+        "summary": "いじめっ子の犬への対処"
       }
     ],
     "totalPages": 21,

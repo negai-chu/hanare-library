@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "森林の伐木場"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "星に祝福された歌"
           }
-        ]
+        ],
+        "summary": "伐木場の星と歌"
       }
     ],
     "totalPages": 11,

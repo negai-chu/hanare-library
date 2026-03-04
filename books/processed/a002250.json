@@ -25,13 +25,15 @@
             "startPage": 3,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "青春期の歌の萌芽"
       },
       {
         "id": "chapter-2",
         "title": "明治三十六年",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "感性が深まる初期の詠草"
       },
       {
         "id": "chapter-3",
@@ -51,7 +53,8 @@
             "startPage": 18,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "戦時下の青年の心象"
       },
       {
         "id": "chapter-4",
@@ -71,7 +74,8 @@
             "startPage": 23,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "日露戦争期の歌"
       },
       {
         "id": "chapter-5",
@@ -91,7 +95,8 @@
             "startPage": 28,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "自然と孤独の詠嘆"
       },
       {
         "id": "chapter-6",
@@ -105,25 +110,29 @@
             "startPage": 31,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "沈潜する内面の歌"
       },
       {
         "id": "chapter-7",
         "title": "明治四十二年",
         "startPage": 32,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩的感覚の深化と展開"
       },
       {
         "id": "chapter-8",
         "title": "明治四十三年",
         "startPage": 34,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "都市生活と憂愁の歌"
       },
       {
         "id": "chapter-9",
         "title": "明治四十四年",
         "startPage": 38,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "成熟する抒情の世界"
       },
       {
         "id": "chapter-10",
@@ -173,13 +182,15 @@
             "startPage": 51,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "大正期の新たな境地"
       },
       {
         "id": "chapter-11",
         "title": "『草稿ノート』『書簡』より",
         "startPage": 55,
-        "endPage": 57
+        "endPage": 57,
+        "summary": "未発表の草稿と書簡の歌"
       }
     ],
     "totalPages": 57,

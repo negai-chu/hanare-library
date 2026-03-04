@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "朗々たる歌声"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 14,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "花嫁の登場"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 22,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "ダニューヴの結末"
           }
-        ]
+        ],
+        "summary": "白雲の歌と花嫁の物語"
       }
     ],
     "totalPages": 27,

@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "序文"
       },
       {
         "id": "chapter-2",
         "title": "著者自序",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "著者の立場"
       },
       {
         "id": "chapter-3",
         "title": "一円本流行の害毒と其裏面談",
         "startPage": 1,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "一円本ブームの実態"
       },
       {
         "id": "chapter-4",
@@ -133,13 +136,15 @@
             "startPage": 23,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "害毒十六ヶ条"
       },
       {
         "id": "chapter-5",
         "title": "円助芸者と円本芸者",
         "startPage": 24,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "円助芸者と円本芸者"
       },
       {
         "id": "chapter-6",
@@ -231,25 +236,29 @@
             "startPage": 42,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "出版界の裏面"
       },
       {
         "id": "chapter-7",
         "title": "一年半前に於ける著者の予言的中記",
         "startPage": 44,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "著者の予言的中"
       },
       {
         "id": "chapter-8",
         "title": "コケがモト",
         "startPage": 50,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "失敗の元"
       },
       {
         "id": "chapter-9",
         "title": "円本総マクリの自跋",
         "startPage": 52,
-        "endPage": 54
+        "endPage": 54,
+        "summary": "円本総括の跋文"
       }
     ],
     "totalPages": 54,

@@ -29,15 +29,18 @@
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "宣戦布告の衝撃"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "戦局の展開"
           }
-        ]
+        ],
+        "summary": "未来戦争の想像図"
       }
     ],
     "totalPages": 17,

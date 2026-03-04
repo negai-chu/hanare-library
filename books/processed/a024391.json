@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "闇に生まれる焔"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "音楽と思索の交錯"
           }
-        ]
+        ],
+        "summary": "闇の中に燃える焔の幻想"
       }
     ],
     "totalPages": 6,

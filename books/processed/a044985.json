@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "八つになった山羊さん"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "山羊さんの日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 6,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "お友達との遊び"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 8,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "ちょっとした冒険"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 10,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "困った出来事"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 12,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "周りの助け"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 14,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "学びと成長"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 16,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "山羊さんの幸せ"
           }
-        ]
+        ],
+        "summary": "可愛い山羊さんの成長記"
       }
     ],
     "totalPages": 18,

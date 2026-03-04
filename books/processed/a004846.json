@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "鎌倉からの手紙"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "美と悲しみの対話"
           }
-        ]
+        ],
+        "summary": "作家同士の往復書簡"
       }
     ],
     "totalPages": 11,

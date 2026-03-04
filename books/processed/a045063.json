@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "倉庫裏の少年"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "靴磨きの腕前"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "世界一の靴"
           }
-        ]
+        ],
+        "summary": "靴磨き少年の矜持"
       }
     ],
     "totalPages": 14,

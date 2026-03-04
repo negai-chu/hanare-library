@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩集への序文"
       },
       {
         "id": "chapter-2",
@@ -217,7 +218,8 @@
             "startPage": 49,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "蝶の夢の詩篇"
       },
       {
         "id": "chapter-3",
@@ -369,7 +371,8 @@
             "startPage": 84,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "松葉に光る詩群"
       },
       {
         "id": "chapter-4",
@@ -401,7 +404,8 @@
             "startPage": 88,
             "endPage": 88
           }
-        ]
+        ],
+        "summary": "散文詩四篇"
       }
     ],
     "totalPages": 88,

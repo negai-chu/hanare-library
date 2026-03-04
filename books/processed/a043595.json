@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 2
+            "endPage": 2,
+            "summary": "献納の発端"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 3,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "美談の広がり"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 4,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "結末と後日譚"
           }
-        ]
+        ],
+        "summary": "両袖を献納する美談"
       },
       {
         "id": "chapter-2",
         "title": "アメリカ人形",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "アメリカ人形の交流"
       },
       {
         "id": "chapter-3",
         "title": "担架",
         "startPage": 8,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "担架で運ぶ者の心情"
       },
       {
         "id": "chapter-4",
         "title": "遠足",
         "startPage": 12,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "遠足の一場面"
       },
       {
         "id": "chapter-5",
         "title": "次男",
         "startPage": 15,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "次男の立場と生き方"
       },
       {
         "id": "chapter-6",
         "title": "禁酒",
         "startPage": 19,
-        "endPage": 29
+        "endPage": 29,
+        "summary": "禁酒をめぐる人間模様"
       }
     ],
     "totalPages": 29,

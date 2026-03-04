@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "村への帰還"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "変わった村の風景"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "山峡の暮らし"
           }
-        ]
+        ],
+        "summary": "一年ぶりの山峡の村"
       }
     ],
     "totalPages": 15,

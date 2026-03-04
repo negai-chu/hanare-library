@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "卓上の狂騒"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "花鬘の酒"
           }
-        ]
+        ],
+        "summary": "花鬘と酒宴の熱狂"
       }
     ],
     "totalPages": 9,

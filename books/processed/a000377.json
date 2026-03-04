@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "一　音韻組織と連音上の法則",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "音韻組織の基本原理"
       },
       {
         "id": "chapter-2",
@@ -43,7 +44,8 @@
             "startPage": 39,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "奈良時代の音韻"
       },
       {
         "id": "chapter-3",
@@ -63,7 +65,8 @@
             "startPage": 60,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "平安時代の音韻"
       },
       {
         "id": "chapter-4",
@@ -83,13 +86,15 @@
             "startPage": 68,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "鎌倉以降の音韻"
       },
       {
         "id": "chapter-5",
         "title": "五　国語音韻変化の概観",
         "startPage": 70,
-        "endPage": 74
+        "endPage": 74,
+        "summary": "音韻変化の全体像"
       }
     ],
     "totalPages": 74,

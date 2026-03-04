@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "国民組織と職域奉公の意義"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "文化団体の組織的課題"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "文化職域の具体的構想"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 10,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "実践と展望"
           }
-        ]
+        ],
+        "summary": "文化職域の組織と理念"
       }
     ],
     "totalPages": 22,

@@ -23,57 +23,67 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "首縊りの罵声と竹藪"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "家の中の荒廃した暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "過去の記憶の断片"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 31,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "隣人との軋轢"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 61,
-            "endPage": 84
+            "endPage": 84,
+            "summary": "夜の竹藪の恐怖"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 85,
-            "endPage": 104
+            "endPage": 104,
+            "summary": "女の訪問と動揺"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 105,
-            "endPage": 117
+            "endPage": 117,
+            "summary": "酒に溺れる日々"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 118,
-            "endPage": 136
+            "endPage": 136,
+            "summary": "竹藪の中の彷徨"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 137,
-            "endPage": 141
+            "endPage": 141,
+            "summary": "孤独の果ての静寂"
           }
-        ]
+        ],
+        "summary": "竹藪の家での狂気と孤独"
       }
     ],
     "totalPages": 141,

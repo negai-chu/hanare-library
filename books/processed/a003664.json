@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "旅館の出会い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "不思議な縁"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "心の動き"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "秘められた想い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 24,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "運命の糸"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 29,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "旅の途中"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 35,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "告白の時"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 40,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "結ばれる縁"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 46,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "幸福の予感"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 51,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "旅の終わり"
           }
-        ]
+        ],
+        "summary": "旅先の縁結びの話"
       }
     ],
     "totalPages": 60,

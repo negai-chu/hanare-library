@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩集への自序"
       },
       {
         "id": "chapter-2",
@@ -193,7 +194,8 @@
             "startPage": 36,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "子守唄の温もり"
       },
       {
         "id": "chapter-3",
@@ -321,7 +323,8 @@
             "startPage": 111,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "暮笛の響き"
       },
       {
         "id": "chapter-4",
@@ -395,7 +398,8 @@
             "startPage": 162,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "行く春の惜別"
       },
       {
         "id": "chapter-5",
@@ -475,7 +479,8 @@
             "startPage": 239,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "二十五絃の調べ"
       },
       {
         "id": "chapter-6",
@@ -675,7 +680,8 @@
             "startPage": 307,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "白羊宮の幻想"
       },
       {
         "id": "chapter-7",
@@ -743,7 +749,8 @@
             "startPage": 347,
             "endPage": 350
           }
-        ]
+        ],
+        "summary": "十字街頭の詩群"
       }
     ],
     "totalPages": 350,

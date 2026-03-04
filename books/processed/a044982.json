@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "欲張り猫と写真屋の広告"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 4,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "写真を撮りに行く"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 6,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "思いがけない結果"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 8,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "泣き出すお猫さん"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 10,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "仲間の慰め"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 12,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "気持ちの立て直し"
           }
-        ]
+        ],
+        "summary": "泣いている猫の写真騒動"
       }
     ],
     "totalPages": 13,

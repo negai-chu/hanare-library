@@ -23,99 +23,116 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "帰郷か京都かの迷い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "故郷への汽車旅"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "実家の変わらぬ風景"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "村の知人との再会"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 25,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "幼馴染の消息"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 34,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "父との静かな対話"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 45,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "墓参りと回想"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 50,
-            "endPage": 54
+            "endPage": 54,
+            "summary": "村祭りの夜"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 55,
-            "endPage": 61
+            "endPage": 61,
+            "summary": "旧友との酒席"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 62,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "女との再会と動揺"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 66,
-            "endPage": 70
+            "endPage": 70,
+            "summary": "海辺での逡巡"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 71,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "母の病と看護"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 78,
-            "endPage": 82
+            "endPage": 82,
+            "summary": "村を去る決意"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 83,
-            "endPage": 87
+            "endPage": 87,
+            "summary": "別離の朝の情景"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 88,
-            "endPage": 95
+            "endPage": 95,
+            "summary": "汽車の中の感傷"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 96,
-            "endPage": 100
+            "endPage": 100,
+            "summary": "都会への帰還と覚悟"
           }
-        ]
+        ],
+        "summary": "厄年の男の帰郷と煩悶"
       }
     ],
     "totalPages": 100,

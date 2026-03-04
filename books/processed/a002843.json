@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩の原理への序文"
       },
       {
         "id": "chapter-2",
         "title": "新版の序",
         "startPage": 9,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "新版への序文"
       },
       {
         "id": "chapter-3",
         "title": "――読者のために――",
         "startPage": 12,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "読者への案内"
       },
       {
         "id": "chapter-4",
@@ -43,19 +46,22 @@
             "startPage": 15,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "詩の概論"
       },
       {
         "id": "chapter-5",
         "title": "内容論",
         "startPage": 19,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩の内容論"
       },
       {
         "id": "chapter-6",
         "title": "形式論",
         "startPage": 21,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩の形式論"
       },
       {
         "id": "chapter-7",
@@ -75,7 +81,8 @@
             "startPage": 284,
             "endPage": 294
           }
-        ]
+        ],
+        "summary": "詩論の結論"
       }
     ],
     "totalPages": 294,

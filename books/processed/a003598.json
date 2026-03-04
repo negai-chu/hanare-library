@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "唯物論への序"
       },
       {
         "id": "chapter-2",
@@ -37,7 +38,8 @@
             "startPage": 40,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "物質の本質"
       },
       {
         "id": "chapter-3",
@@ -63,7 +65,8 @@
             "startPage": 181,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "認識の構造"
       },
       {
         "id": "chapter-4",
@@ -89,7 +92,8 @@
             "startPage": 323,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "科学の方法"
       },
       {
         "id": "chapter-5",
@@ -115,7 +119,8 @@
             "startPage": 456,
             "endPage": 465
           }
-        ]
+        ],
+        "summary": "文化の位置づけ"
       }
     ],
     "totalPages": 465,

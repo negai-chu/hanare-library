@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "吉原の宵の登場"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "事件の発端"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "探索と推理"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 24,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "敵との対峙"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 33,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "痛快な決着"
           }
-        ]
+        ],
+        "summary": "退屈を持て余す旗本の活劇"
       }
     ],
     "totalPages": 40,

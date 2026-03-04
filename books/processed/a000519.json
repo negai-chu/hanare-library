@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "演説の序文"
       },
       {
         "id": "chapter-2",
@@ -37,7 +38,8 @@
             "startPage": 32,
             "endPage": 71
           }
-        ]
+        ],
+        "summary": "後世に遺すべき最大のもの"
       }
     ],
     "totalPages": 71,

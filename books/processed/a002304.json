@@ -23,57 +23,67 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "正月の芸事の稽古"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "老弾きの若き日"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "芸の腕前と評判"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "変わりゆく時代"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "新しい芸への戸惑い"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "衰える伝統芸能"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 31,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "孤独な老弾きの日々"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 36,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "最後の舞台への決意"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 41,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "消えゆく音色の余韻"
           }
-        ]
+        ],
+        "summary": "村の胡弓弾きの生涯"
       }
     ],
     "totalPages": 44,

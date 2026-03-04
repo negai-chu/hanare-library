@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "天才の人物像"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "相対論の核心"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 22,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "日本訪問の印象"
           }
-        ]
+        ],
+        "summary": "相対性理論の天才"
       }
     ],
     "totalPages": 25,

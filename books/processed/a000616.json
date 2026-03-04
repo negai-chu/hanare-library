@@ -43,13 +43,15 @@
             "startPage": 6,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "写生俳句の精華"
       },
       {
         "id": "chapter-2",
         "title": "長塚節略年譜",
         "startPage": 7,
-        "endPage": 10
+        "endPage": 10,
+        "summary": "歌人の足跡"
       }
     ],
     "totalPages": 10,

@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序篇　降矢木一族釈義",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "降矢木一族の来歴"
       },
       {
         "id": "chapter-2",
@@ -43,7 +44,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "死体と密室の謎"
       },
       {
         "id": "chapter-3",
@@ -69,7 +71,8 @@
             "startPage": 119,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "呪文と暗号の解読"
       },
       {
         "id": "chapter-4",
@@ -95,7 +98,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "精神病理の深淵"
       },
       {
         "id": "chapter-5",
@@ -115,7 +119,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "詩と甲冑の幻影"
       },
       {
         "id": "chapter-6",
@@ -135,7 +140,8 @@
             "startPage": 339,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "第三の凶事"
       },
       {
         "id": "chapter-7",
@@ -155,7 +161,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "埋葬の夜の真相"
       },
       {
         "id": "chapter-8",
@@ -175,7 +182,8 @@
             "startPage": 456,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "法水の推理の果て"
       },
       {
         "id": "chapter-9",
@@ -201,7 +209,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "一族の終焉"
       }
     ],
     "totalPages": 602,

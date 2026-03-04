@@ -23,141 +23,165 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "名古屋城の怪異"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "唸り声の調査"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "城の由来と伝説"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "深夜の探索行"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "音の正体への推理"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "天主閣の秘密"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 30,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "怪奇の真相"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 35,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "古城の記憶"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 40,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "闇の中の発見"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 45,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "隠された部屋"
           },
           {
             "id": "chapter-1-section-11",
             "number": "一一",
             "startPage": 50,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "封印された過去"
           },
           {
             "id": "chapter-1-section-12",
             "number": "一二",
             "startPage": 56,
-            "endPage": 61
+            "endPage": 61,
+            "summary": "藩の秘事"
           },
           {
             "id": "chapter-1-section-13",
             "number": "一三",
             "startPage": 62,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "証拠の断片"
           },
           {
             "id": "chapter-1-section-14",
             "number": "一四",
             "startPage": 66,
-            "endPage": 72
+            "endPage": 72,
+            "summary": "真犯人への接近"
           },
           {
             "id": "chapter-1-section-15",
             "number": "一五",
             "startPage": 73,
-            "endPage": 79
+            "endPage": 79,
+            "summary": "対決の時"
           },
           {
             "id": "chapter-1-section-16",
             "number": "一六",
             "startPage": 80,
-            "endPage": 86
+            "endPage": 86,
+            "summary": "明かされる真実"
           },
           {
             "id": "chapter-1-section-17",
             "number": "一七",
             "startPage": 87,
-            "endPage": 93
+            "endPage": 93,
+            "summary": "城主の決断"
           },
           {
             "id": "chapter-1-section-18",
             "number": "一八",
             "startPage": 94,
-            "endPage": 99
+            "endPage": 99,
+            "summary": "怨念の解放"
           },
           {
             "id": "chapter-1-section-19",
             "number": "一九",
             "startPage": 100,
-            "endPage": 105
+            "endPage": 105,
+            "summary": "城の鎮魂"
           },
           {
             "id": "chapter-1-section-20",
             "number": "二〇",
             "startPage": 106,
-            "endPage": 111
+            "endPage": 111,
+            "summary": "静寂の訪れ"
           },
           {
             "id": "chapter-1-section-21",
             "number": "二一",
             "startPage": 112,
-            "endPage": 115
+            "endPage": 115,
+            "summary": "事件の後日譚"
           },
           {
             "id": "chapter-1-section-22",
             "number": "二二",
             "startPage": 116,
-            "endPage": 120
+            "endPage": 120,
+            "summary": "語り継がれる話"
           },
           {
             "id": "chapter-1-section-23",
             "number": "二三",
             "startPage": 121,
-            "endPage": 125
+            "endPage": 125,
+            "summary": "天主閣の夜明け"
           }
-        ]
+        ],
+        "summary": "天主閣の怪音の謎"
       }
     ],
     "totalPages": 125,

@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "不思議な子供の登場"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "春雄の孤立と葛藤"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 22,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "民族の壁と偏見"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 35,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "教師の苦悩と決意"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 45,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "光の中への解放"
           }
-        ]
+        ],
+        "summary": "孤独な少年の光と影"
       }
     ],
     "totalPages": 52,

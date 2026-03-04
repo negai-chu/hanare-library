@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "小田原城下の策謀"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 16,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "秀吉への献策"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 25,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "戦術の転換"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "二流の男の覚悟"
           }
-        ]
+        ],
+        "summary": "黒田官兵衛の小田原"
       },
       {
         "id": "chapter-2",
@@ -55,21 +60,25 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 50,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "朝鮮出兵の実態"
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 58,
-            "endPage": 80
+            "endPage": 80,
+            "summary": "異国での孤立"
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 81,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "帰還への道"
           }
-        ]
+        ],
+        "summary": "朝鮮での苦闘"
       },
       {
         "id": "chapter-3",
@@ -81,21 +90,25 @@
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 86,
-            "endPage": 95
+            "endPage": 95,
+            "summary": "天下分け目の前夜"
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 96,
-            "endPage": 99
+            "endPage": 99,
+            "summary": "九州での挙兵"
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 100,
-            "endPage": 104
+            "endPage": 104,
+            "summary": "二流の人の結末"
           }
-        ]
+        ],
+        "summary": "関ヶ原の賭け"
       }
     ],
     "totalPages": 104,

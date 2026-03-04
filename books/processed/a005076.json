@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "短歌の言葉の制約"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "万葉のさびし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "中古の展開"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "近世の変容"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "近代短歌の表現"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "さびしの伝統"
           }
-        ]
+        ],
+        "summary": "短歌における寂しさ"
       }
     ],
     "totalPages": 29,

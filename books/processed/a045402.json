@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "海辺へのスケッチ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "雪の風景"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "描く苦悩"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 28,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "雪景色の完成"
           }
-        ]
+        ],
+        "summary": "創作に行き詰まる画家"
       }
     ],
     "totalPages": 29,

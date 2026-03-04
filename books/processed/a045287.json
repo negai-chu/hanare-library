@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "語学の用事で外出"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "堤での出会い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "黄昏の帰路"
           }
-        ]
+        ],
+        "summary": "夕暮れの堤の散策"
       }
     ],
     "totalPages": 17,

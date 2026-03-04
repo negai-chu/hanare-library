@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "工場勤めの始まり"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "職場の日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "恋の芽生え"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "風と花粉の比喩"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 15,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "結婚への道"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 19,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "風媒の結末"
           }
-        ]
+        ],
+        "summary": "望遠鏡工場の理学士の恋"
       }
     ],
     "totalPages": 21,

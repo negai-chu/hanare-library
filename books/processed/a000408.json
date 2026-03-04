@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "遺書",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "映画人の最期の言葉"
       },
       {
         "id": "chapter-2",
         "title": "従軍記",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "戦地の日々の記録"
       },
       {
         "id": "chapter-3",
@@ -103,7 +105,8 @@
             "startPage": 29,
             "endPage": 31
           }
-        ]
+        ],
+        "summary": "故郷への便り"
       }
     ],
     "totalPages": 31,

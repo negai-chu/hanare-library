@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "カフェでの対話"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 12,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "崖上の二人"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 18,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "海と灯火への感情"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 24,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "夜の余韻"
           }
-        ]
+        ],
+        "summary": "崖上から見下ろす夜の情景"
       }
     ],
     "totalPages": 27,

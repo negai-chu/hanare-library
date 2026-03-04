@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "復讐の決意"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 17,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "計画の実行"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 32,
-            "endPage": 42
+            "endPage": 42,
+            "summary": "思わぬ展開"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 43,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "結末の皮肉"
           }
-        ]
+        ],
+        "summary": "復讐の物語"
       }
     ],
     "totalPages": 49,

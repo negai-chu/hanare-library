@@ -23,105 +23,123 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "監獄からの始まり"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "脱出への準備"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 14,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "仲間との合流"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 20,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "作戦の概要"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 29,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "潜入の開始"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 35,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "敵地での緊張"
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
             "startPage": 41,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "予期せぬ障害"
           },
           {
             "id": "chapter-1-section-8",
             "number": "８",
             "startPage": 47,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "危機一髪の脱出"
           },
           {
             "id": "chapter-1-section-9",
             "number": "９",
             "startPage": 52,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "味方との連絡"
           },
           {
             "id": "chapter-1-section-10",
             "number": "10",
             "startPage": 59,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "上陸作戦の準備"
           },
           {
             "id": "chapter-1-section-11",
             "number": "11",
             "startPage": 66,
-            "endPage": 72
+            "endPage": 72,
+            "summary": "嵐の前の静けさ"
           },
           {
             "id": "chapter-1-section-12",
             "number": "12",
             "startPage": 73,
-            "endPage": 78
+            "endPage": 78,
+            "summary": "決戦の朝"
           },
           {
             "id": "chapter-1-section-13",
             "number": "13",
             "startPage": 79,
-            "endPage": 82
+            "endPage": 82,
+            "summary": "上陸の瞬間"
           },
           {
             "id": "chapter-1-section-14",
             "number": "14",
             "startPage": 83,
-            "endPage": 87
+            "endPage": 87,
+            "summary": "激戦の渦中"
           },
           {
             "id": "chapter-1-section-15",
             "number": "15",
             "startPage": 88,
-            "endPage": 96
+            "endPage": 96,
+            "summary": "戦況の転換"
           },
           {
             "id": "chapter-1-section-16",
             "number": "16",
             "startPage": 97,
-            "endPage": 98
+            "endPage": 98,
+            "summary": "勝利への道"
           },
           {
             "id": "chapter-1-section-17",
             "number": "17",
             "startPage": 99,
-            "endPage": 110
+            "endPage": 110,
+            "summary": "作戦の結末"
           }
-        ]
+        ],
+        "summary": "英本土上陸前夜の物語"
       }
     ],
     "totalPages": 110,

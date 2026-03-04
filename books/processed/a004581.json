@@ -23,81 +23,95 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "月夜の始まり"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "怪しい影"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "古寺の闇"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "亡霊の声"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 25,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "恐怖の増幅"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 30,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "正体の暗示"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 35,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "逃走と追跡"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 40,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "夜明けの安堵"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 46,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "真相への接近"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 51,
-            "endPage": 56
+            "endPage": 56,
+            "summary": "怪異の正体"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 57,
-            "endPage": 61
+            "endPage": 61,
+            "summary": "浅茅生の謎"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 62,
-            "endPage": 67
+            "endPage": 67,
+            "summary": "因縁の解明"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 68,
-            "endPage": 75
+            "endPage": 75,
+            "summary": "怪異の終焉"
           }
-        ]
+        ],
+        "summary": "丑三つ時の怪異"
       }
     ],
     "totalPages": 75,

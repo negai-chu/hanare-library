@@ -17,127 +17,148 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "思想対立への序"
       },
       {
         "id": "chapter-2",
         "title": "一　三四年度思想界の講評",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "三四年度の思想界"
       },
       {
         "id": "chapter-3",
         "title": "二　愛国運動と右翼小児病",
         "startPage": 19,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "愛国運動の批判"
       },
       {
         "id": "chapter-4",
         "title": "三　三五年度思想界の動向",
         "startPage": 28,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "三五年度の動向"
       },
       {
         "id": "chapter-5",
         "title": "四　文化統制の種々相",
         "startPage": 36,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "文化統制の諸相"
       },
       {
         "id": "chapter-6",
         "title": "五　三六年度思想界の展望",
         "startPage": 47,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "三六年度の展望"
       },
       {
         "id": "chapter-7",
         "title": "六　三六年度思想界の回顧",
         "startPage": 53,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "三六年度の回顧"
       },
       {
         "id": "chapter-8",
         "title": "七　自由排撃三法案",
         "startPage": 62,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "自由を排する法案"
       },
       {
         "id": "chapter-9",
         "title": "八　不穏文書取締",
         "startPage": 70,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "不穏文書の取締"
       },
       {
         "id": "chapter-10",
         "title": "九　改革熱の流行",
         "startPage": 76,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "改革熱の分析"
       },
       {
         "id": "chapter-11",
         "title": "一〇　吏道振粛",
         "startPage": 83,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "官僚粛正の実態"
       },
       {
         "id": "chapter-12",
         "title": "一一　挙国一致の擬装",
         "startPage": 91,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "挙国一致の虚偽"
       },
       {
         "id": "chapter-13",
         "title": "一二　国体明徴運動と内閣審議会",
         "startPage": 99,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "国体明徴と審議会"
       },
       {
         "id": "chapter-14",
         "title": "一三　重臣ブロックと機関説",
         "startPage": 107,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "重臣と機関説"
       },
       {
         "id": "chapter-15",
         "title": "一四　その後の国体明徴運動",
         "startPage": 118,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "国体運動のその後"
       },
       {
         "id": "chapter-16",
         "title": "一五　農村匡救の種々相",
         "startPage": 129,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "農村救済の実態"
       },
       {
         "id": "chapter-17",
         "title": "一六　「農村対策」のからくり",
         "startPage": 145,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "農村対策の裏側"
       },
       {
         "id": "chapter-18",
         "title": "一七　「社会政策」株式会社",
         "startPage": 154,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "社会政策の実態"
       },
       {
         "id": "chapter-19",
         "title": "一八　義金と予算",
         "startPage": 163,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "義捐金と予算"
       },
       {
         "id": "chapter-20",
         "title": "一九　統制主義の名目と実質",
         "startPage": 171,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "統制主義の名と実"
       },
       {
         "id": "chapter-21",
         "title": "二〇　国民生活の安定とは何か",
         "startPage": 181,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "国民生活安定とは"
       },
       {
         "id": "chapter-22",
@@ -181,7 +202,8 @@
             "startPage": 231,
             "endPage": 240
           }
-        ]
+        ],
+        "summary": "日本思想界の展望"
       }
     ],
     "totalPages": 240,

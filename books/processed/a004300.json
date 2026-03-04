@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "列車の不快な客"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "香水の手がかり"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "紳士の正体"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "追跡と推理"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "事件の解決"
           }
-        ]
+        ],
+        "summary": "香水の紳士と謎"
       }
     ],
     "totalPages": 23,

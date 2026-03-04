@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "１",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "通夜の始まり"
       },
       {
         "id": "chapter-2",
@@ -31,7 +32,8 @@
             "startPage": 10,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "第一の怪談"
       },
       {
         "id": "chapter-3",
@@ -45,7 +47,8 @@
             "startPage": 18,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "第二の怪談"
       },
       {
         "id": "chapter-4",
@@ -59,7 +62,8 @@
             "startPage": 25,
             "endPage": 36
           }
-        ]
+        ],
+        "summary": "軍医の戦場怪談"
       }
     ],
     "totalPages": 36,

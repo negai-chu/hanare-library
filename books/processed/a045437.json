@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "二",
             "startPage": 8,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "訪問の逡巡"
           },
           {
             "id": "chapter-1-section-2",
             "number": "五",
             "startPage": 34,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "悪の定義を問う"
           },
           {
             "id": "chapter-1-section-3",
             "number": "八",
             "startPage": 53,
-            "endPage": 76
+            "endPage": 76,
+            "summary": "同意語の探求"
           }
-        ]
+        ],
+        "summary": "芸妓と遠い友の間で"
       }
     ],
     "totalPages": 76,

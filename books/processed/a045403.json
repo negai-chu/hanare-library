@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "娘たちの到着"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "山を越える"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "新天地の仕事"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 26,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "山越えの帰結"
           }
-        ]
+        ],
+        "summary": "二人の娘を迎える山越え"
       }
     ],
     "totalPages": 30,

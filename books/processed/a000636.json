@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "旅するサーカス団"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "正坊とクロの出会い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "深まる絆"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 12,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "別れの危機"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 14,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "再会の願い"
           }
-        ]
+        ],
+        "summary": "少年とサーカスの熊の絆"
       }
     ],
     "totalPages": 15,

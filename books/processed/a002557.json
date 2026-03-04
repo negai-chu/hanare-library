@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩篇全集の自序"
       },
       {
         "id": "chapter-2",
@@ -361,13 +362,15 @@
             "startPage": 61,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "雲の小曲五十六章"
       },
       {
         "id": "chapter-3",
         "title": "小鳥の巣\r\n　　　（押韻小曲五十九章）",
         "startPage": 63,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "小鳥の巣の押韻詩"
       },
       {
         "id": "chapter-4",
@@ -615,7 +618,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "夢と現実の雑詩"
       },
       {
         "id": "chapter-5",
@@ -713,7 +717,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "壺の花の小曲"
       },
       {
         "id": "chapter-6",
@@ -871,7 +876,8 @@
             "startPage": 265,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "薔薇の陰影の雑詩"
       },
       {
         "id": "chapter-7",
@@ -1089,7 +1095,8 @@
             "startPage": 304,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "月を釣る小曲"
       },
       {
         "id": "chapter-8",
@@ -1343,7 +1350,8 @@
             "startPage": 372,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "陣痛の雑詩"
       },
       {
         "id": "chapter-9",
@@ -1873,7 +1881,8 @@
             "startPage": 591,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "幻想と風景の雑詩"
       },
       {
         "id": "chapter-10",
@@ -2055,7 +2064,8 @@
             "startPage": 684,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "欧州旅行前後の詩"
       },
       {
         "id": "chapter-11",
@@ -2267,7 +2277,8 @@
             "startPage": 806,
             "endPage": 807
           }
-        ]
+        ],
+        "summary": "冷たい夕飯の雑詩"
       }
     ],
     "totalPages": 807,

@@ -23,111 +23,130 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 4,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "多助の生い立ち"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 26,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "奉公先への旅立ち"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 46,
-            "endPage": 62
+            "endPage": 62,
+            "summary": "江戸での下積み生活"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 63,
-            "endPage": 83
+            "endPage": 83,
+            "summary": "商売修業の日々"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 84,
-            "endPage": 103
+            "endPage": 103,
+            "summary": "信用を積む努力"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 104,
-            "endPage": 122
+            "endPage": 122,
+            "summary": "独立への足掛かり"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 123,
-            "endPage": 135
+            "endPage": 135,
+            "summary": "炭屋としての開業"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 136,
-            "endPage": 146
+            "endPage": 146,
+            "summary": "商売繁盛の兆し"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 147,
-            "endPage": 161
+            "endPage": 161,
+            "summary": "困難と試練の時"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 162,
-            "endPage": 185
+            "endPage": 185,
+            "summary": "人情と義理の世界"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 186,
-            "endPage": 204
+            "endPage": 204,
+            "summary": "名声の広がり"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 205,
-            "endPage": 220
+            "endPage": 220,
+            "summary": "富の蓄積と慈善"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 221,
-            "endPage": 234
+            "endPage": 234,
+            "summary": "故郷への錦"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 235,
-            "endPage": 252
+            "endPage": 252,
+            "summary": "多助の人徳と交友"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 253,
-            "endPage": 273
+            "endPage": 273,
+            "summary": "晩年への道筋"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 274,
-            "endPage": 290
+            "endPage": 290,
+            "summary": "多助の遺訓"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 291,
-            "endPage": 307
+            "endPage": 307,
+            "summary": "後世への影響"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 308,
-            "endPage": 320
+            "endPage": 320,
+            "summary": "多助伝の結び"
           }
-        ]
+        ],
+        "summary": "塩原多助の立身出世譚"
       }
     ],
     "totalPages": 320,

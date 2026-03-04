@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "昨日の今日"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "漁船の音"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 27,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "卓子を囲んで"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 44,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "話の結末"
           }
-        ]
+        ],
+        "summary": "麗らかな日の円卓子の話"
       }
     ],
     "totalPages": 51,

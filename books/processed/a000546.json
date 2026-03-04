@@ -25,7 +25,8 @@
             "startPage": 3,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "日本の子供への序文"
       },
       {
         "id": "chapter-2",
@@ -39,7 +40,8 @@
             "startPage": 10,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "開幕の詩"
       },
       {
         "id": "chapter-3",
@@ -821,13 +823,15 @@
             "startPage": 151,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "英国伝承童謡の数々"
       },
       {
         "id": "chapter-4",
         "title": "巻末に",
         "startPage": 152,
-        "endPage": 159
+        "endPage": 159,
+        "summary": "訳者あとがき"
       }
     ],
     "totalPages": 159,

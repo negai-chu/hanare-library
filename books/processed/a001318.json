@@ -29,27 +29,32 @@
             "id": "chapter-1-section-2",
             "number": "一",
             "startPage": 5,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "聖堂の異様な事件"
           },
           {
             "id": "chapter-1-section-3",
             "number": "二",
             "startPage": 13,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "手がかりの探索"
           },
           {
             "id": "chapter-1-section-4",
             "number": "三",
             "startPage": 39,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "推理の交錯"
           },
           {
             "id": "chapter-1-section-5",
             "number": "四",
             "startPage": 58,
-            "endPage": 71
+            "endPage": 71,
+            "summary": "真相への到達"
           }
-        ]
+        ],
+        "summary": "大伽藍の惨劇"
       }
     ],
     "totalPages": 71,

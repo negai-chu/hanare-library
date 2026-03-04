@@ -23,141 +23,165 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 3,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "深夜の市長との遭遇"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 11,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "銀座の夜の異変"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 22,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "市長の正体への疑惑"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 35,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "深夜の巡回"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 51,
-            "endPage": 64
+            "endPage": 64,
+            "summary": "闇に蠢く者たち"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 65,
-            "endPage": 74
+            "endPage": 74,
+            "summary": "不審な目撃情報"
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
             "startPage": 75,
-            "endPage": 80
+            "endPage": 80,
+            "summary": "夜の都市の裏側"
           },
           {
             "id": "chapter-1-section-8",
             "number": "８",
             "startPage": 81,
-            "endPage": 86
+            "endPage": 86,
+            "summary": "追跡の開始"
           },
           {
             "id": "chapter-1-section-9",
             "number": "９",
             "startPage": 87,
-            "endPage": 97
+            "endPage": 97,
+            "summary": "謎の集会"
           },
           {
             "id": "chapter-1-section-10",
             "number": "10",
             "startPage": 98,
-            "endPage": 107
+            "endPage": 107,
+            "summary": "市長の秘密の活動"
           },
           {
             "id": "chapter-1-section-11",
             "number": "11",
             "startPage": 108,
-            "endPage": 113
+            "endPage": 113,
+            "summary": "真相への手がかり"
           },
           {
             "id": "chapter-1-section-12",
             "number": "12",
             "startPage": 114,
-            "endPage": 122
+            "endPage": 122,
+            "summary": "暗躍する人々"
           },
           {
             "id": "chapter-1-section-13",
             "number": "13",
             "startPage": 123,
-            "endPage": 129
+            "endPage": 129,
+            "summary": "対峙の時"
           },
           {
             "id": "chapter-1-section-14",
             "number": "14",
             "startPage": 130,
-            "endPage": 139
+            "endPage": 139,
+            "summary": "危機的状況"
           },
           {
             "id": "chapter-1-section-15",
             "number": "15",
             "startPage": 140,
-            "endPage": 149
+            "endPage": 149,
+            "summary": "逃走と追撃"
           },
           {
             "id": "chapter-1-section-16",
             "number": "16",
             "startPage": 150,
-            "endPage": 156
+            "endPage": 156,
+            "summary": "同志たちの結集"
           },
           {
             "id": "chapter-1-section-17",
             "number": "17",
             "startPage": 157,
-            "endPage": 165
+            "endPage": 165,
+            "summary": "潜入調査の結末"
           },
           {
             "id": "chapter-1-section-18",
             "number": "18",
             "startPage": 166,
-            "endPage": 175
+            "endPage": 175,
+            "summary": "真実の暴露"
           },
           {
             "id": "chapter-1-section-19",
             "number": "19",
             "startPage": 176,
-            "endPage": 186
+            "endPage": 186,
+            "summary": "市長の告白"
           },
           {
             "id": "chapter-1-section-20",
             "number": "20",
             "startPage": 187,
-            "endPage": 194
+            "endPage": 194,
+            "summary": "深夜の決断"
           },
           {
             "id": "chapter-1-section-21",
             "number": "21",
             "startPage": 195,
-            "endPage": 203
+            "endPage": 203,
+            "summary": "事件の波紋"
           },
           {
             "id": "chapter-1-section-22",
             "number": "22",
             "startPage": 204,
-            "endPage": 211
+            "endPage": 211,
+            "summary": "都市の夜明け"
           },
           {
             "id": "chapter-1-section-23",
             "number": "23",
             "startPage": 212,
-            "endPage": 230
+            "endPage": 230,
+            "summary": "物語の幕引き"
           }
-        ]
+        ],
+        "summary": "深夜の都市と謎の市長"
       }
     ],
     "totalPages": 230,

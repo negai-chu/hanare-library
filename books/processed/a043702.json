@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "翻訳の序文と方針"
       },
       {
         "id": "chapter-2",
         "title": "緒言",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "時代の緒言と背景"
       },
       {
         "id": "chapter-3",
@@ -67,7 +69,8 @@
             "startPage": 87,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "囚人の甦りの物語"
       },
       {
         "id": "chapter-4",
@@ -129,7 +132,8 @@
             "startPage": 239,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "黄金の糸で結ぶ運命"
       },
       {
         "id": "chapter-5",
@@ -155,7 +159,8 @@
             "startPage": 269,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "訳註と補足説明"
       },
       {
         "id": "chapter-6",
@@ -175,7 +180,8 @@
             "startPage": 287,
             "endPage": 297
           }
-        ]
+        ],
+        "summary": "作品の解説と評価"
       }
     ],
     "totalPages": 297,

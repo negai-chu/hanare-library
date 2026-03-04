@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "哲学入門の序文"
       },
       {
         "id": "chapter-2",
@@ -67,7 +68,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "哲学の基本問題"
       },
       {
         "id": "chapter-3",
@@ -111,7 +113,8 @@
             "startPage": 147,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "認識論の探究"
       },
       {
         "id": "chapter-4",
@@ -137,7 +140,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "実践哲学の問い"
       }
     ],
     "totalPages": 202,

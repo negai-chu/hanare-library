@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "コーヒーへの異常な執着"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "コーヒーをめぐる日常の逸話"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "コーヒーと人生の機微"
           }
-        ]
+        ],
+        "summary": "コーヒー好きの田巻安里の話"
       }
     ],
     "totalPages": 11,

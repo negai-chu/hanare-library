@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "崖の藪のざわめき"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "柿の実と鶏の争い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "鳶と動物たちの結末"
           }
-        ]
+        ],
+        "summary": "丘の上の生き物たち"
       }
     ],
     "totalPages": 26,

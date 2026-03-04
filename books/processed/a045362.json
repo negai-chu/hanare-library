@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "片田舎の共同生活"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "盗みで命をつなぐ"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "船出の話"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "鼠との格闘"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "航海の苦難"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "船中の結末"
           }
-        ]
+        ],
+        "summary": "田舎の森での窮乏生活"
       }
     ],
     "totalPages": 29,

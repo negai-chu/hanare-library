@@ -29,63 +29,74 @@
             "id": "chapter-1-section-2",
             "number": "一",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "研究の緒言と方法"
           },
           {
             "id": "chapter-1-section-3",
             "number": "二",
             "startPage": 13,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "古代の記録"
           },
           {
             "id": "chapter-1-section-4",
             "number": "三",
             "startPage": 20,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "戦乱期の事例"
           },
           {
             "id": "chapter-1-section-5",
             "number": "四",
             "startPage": 26,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "飢饉時の記録"
           },
           {
             "id": "chapter-1-section-6",
             "number": "五",
             "startPage": 33,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "復讐としての風習"
           },
           {
             "id": "chapter-1-section-7",
             "number": "六",
             "startPage": 37,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "薬用としての人肉"
           },
           {
             "id": "chapter-1-section-8",
             "number": "七",
             "startPage": 42,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "孝行との関連"
           },
           {
             "id": "chapter-1-section-9",
             "number": "八",
             "startPage": 49,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "刑罰との関係"
           },
           {
             "id": "chapter-1-section-10",
             "number": "九",
             "startPage": 56,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "近世の事例"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十",
             "startPage": 60,
-            "endPage": 82
+            "endPage": 82,
+            "summary": "結論と考察"
           }
-        ]
+        ],
+        "summary": "中国史上の食人風習"
       }
     ],
     "totalPages": 82,

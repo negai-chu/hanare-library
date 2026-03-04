@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "野社の伝説"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "不思議な出来事"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "怪異の結末"
           }
-        ]
+        ],
+        "summary": "紫陽花と蛇の怪異"
       }
     ],
     "totalPages": 12,

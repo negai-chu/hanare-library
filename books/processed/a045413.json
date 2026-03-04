@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "学生時代の遺物"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 13,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "夏の気配"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 29,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "変化の兆し"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 34,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "友人との交流"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 41,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "夏近き日々"
           }
-        ]
+        ],
+        "summary": "本箱のノートと夏の予感"
       }
     ],
     "totalPages": 45,

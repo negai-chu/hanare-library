@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "人間だけが笑う能力"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "笑いの種類と機能"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "笑いの文化的意義"
           }
-        ]
+        ],
+        "summary": "笑いの本質への探究"
       }
     ],
     "totalPages": 16,

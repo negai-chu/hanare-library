@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "異国の子供たちとの出会い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "極寒の駐屯地"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "兵士たちの不満"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 18,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "上官との対立"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 23,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "戦場の矛盾"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 30,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "烏の群れと荒涼"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 40,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "同胞の死"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 44,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "撤退への渇望"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 51,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "反戦の意志"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 54,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "帰還への道"
           }
-        ]
+        ],
+        "summary": "シベリア出兵の兵士たちの苦悩"
       }
     ],
     "totalPages": 58,

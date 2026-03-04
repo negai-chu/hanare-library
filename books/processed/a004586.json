@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "紅葉の山道"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "不思議な罎"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "山中の出会い"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "魔法の力"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 25,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "罎の秘密"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 30,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "月夜の変化"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 36,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "妖しい誘い"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 42,
-            "endPage": 47
+            "endPage": 47,
+            "summary": "危機の到来"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 48,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "魔法の解除"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 53,
-            "endPage": 56
+            "endPage": 56,
+            "summary": "秋の山の結末"
           }
-        ]
+        ],
+        "summary": "信濃の秋と魔法の罎"
       }
     ],
     "totalPages": 56,

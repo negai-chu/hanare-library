@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "花を探す散策"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "蝶との遭遇"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "花見の結末"
           }
-        ]
+        ],
+        "summary": "遅い花見と蝶の訪れ"
       }
     ],
     "totalPages": 17,

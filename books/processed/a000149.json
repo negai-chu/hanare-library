@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "白犬の穏やかな日々"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "黒い犬への変身"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "追放と放浪"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "贖罪の道"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "白い毛への回帰"
           }
-        ]
+        ],
+        "summary": "白い犬の罪と罰"
       }
     ],
     "totalPages": 23,

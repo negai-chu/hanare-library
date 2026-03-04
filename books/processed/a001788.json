@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "珍らしいものをかくしてゐる人への序文",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "秘蔵の人への序文"
       },
       {
         "id": "chapter-2",
         "title": "自序",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩集の自序"
       },
       {
         "id": "chapter-3",
         "title": "出版に際して",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "出版への言葉"
       },
       {
         "id": "chapter-4",
@@ -145,7 +148,8 @@
             "startPage": 33,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "愛と哀れの詩篇"
       },
       {
         "id": "chapter-5",
@@ -213,7 +217,8 @@
             "startPage": 47,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "郷土の風景詩"
       },
       {
         "id": "chapter-6",
@@ -257,13 +262,15 @@
             "startPage": 51,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "望景詩の後記"
       },
       {
         "id": "chapter-7",
         "title": "跋",
         "startPage": 52,
-        "endPage": 55
+        "endPage": 55,
+        "summary": "詩集の跋文"
       }
     ],
     "totalPages": 55,

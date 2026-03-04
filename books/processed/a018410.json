@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "神道と倫理の関係"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "天つ罪と国つ罪"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "清明心の思想"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "祓と禊の意味"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 22,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "神道の倫理観"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 36,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "民族精神の核心"
           }
-        ]
+        ],
+        "summary": "神道の民族倫理"
       }
     ],
     "totalPages": 39,

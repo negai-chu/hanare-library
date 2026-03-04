@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "団子屋での出来事"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "松の葉の怪異"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "不思議な女"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "謎の深まり"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 28,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "松の葉の結末"
           }
-        ]
+        ],
+        "summary": "根岸の団子屋から始まる話"
       }
     ],
     "totalPages": 36,

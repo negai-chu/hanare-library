@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "白浜の原風景"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "若水の由来"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "海辺の祭祀"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 18,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "水の霊力"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 24,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "新年の行事"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 29,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "全国の若水"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 34,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "民俗の残影"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 39,
-            "endPage": 42
+            "endPage": 42,
+            "summary": "信仰の変遷"
           }
-        ]
+        ],
+        "summary": "若水の信仰と民俗"
       }
     ],
     "totalPages": 42,

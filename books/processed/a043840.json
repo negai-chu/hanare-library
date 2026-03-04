@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 3,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "生まれ育った土地の記憶"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 16,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "家族との暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 32,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "自然との触れ合い"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 45,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "幼き日の遊びと友"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 60,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "心に残る光景"
           }
-        ]
+        ],
+        "summary": "幼年期の原風景"
       },
       {
         "id": "chapter-2",
@@ -61,51 +67,60 @@
             "id": "chapter-2-section-1",
             "number": "１",
             "startPage": 83,
-            "endPage": 109
+            "endPage": 109,
+            "summary": "学びへの志"
           },
           {
             "id": "chapter-2-section-2",
             "number": "２",
             "startPage": 110,
-            "endPage": 147
+            "endPage": 147,
+            "summary": "師との出会い"
           },
           {
             "id": "chapter-2-section-3",
             "number": "３",
             "startPage": 148,
-            "endPage": 182
+            "endPage": 182,
+            "summary": "友情の芽生え"
           },
           {
             "id": "chapter-2-section-4",
             "number": "４",
             "startPage": 183,
-            "endPage": 211
+            "endPage": 211,
+            "summary": "内なる葛藤"
           },
           {
             "id": "chapter-2-section-5",
             "number": "５",
             "startPage": 212,
-            "endPage": 230
+            "endPage": 230,
+            "summary": "信仰への傾斜"
           },
           {
             "id": "chapter-2-section-6",
             "number": "６",
             "startPage": 231,
-            "endPage": 252
+            "endPage": 252,
+            "summary": "精神の成長"
           },
           {
             "id": "chapter-2-section-7",
             "number": "７",
             "startPage": 253,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "新たな世界への旅立ち"
           }
-        ]
+        ],
+        "summary": "少年時代の目覚め"
       },
       {
         "id": "chapter-3",
         "title": "［参考］はしがき",
         "startPage": 281,
-        "endPage": 283
+        "endPage": 283,
+        "summary": "執筆の背景と経緯"
       }
     ],
     "totalPages": 283,

@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "手紙を書く決意と動機"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "子供の教育への助言"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "生活再建への励まし"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 23,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "人生の意味と希望"
           }
-        ]
+        ],
+        "summary": "戦争未亡人への手紙"
       }
     ],
     "totalPages": 31,

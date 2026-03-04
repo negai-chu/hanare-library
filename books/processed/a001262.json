@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "岬の邸への馬旅"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 15,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "快走船の出航"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 28,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "海上の異変"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 46,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "深まる疑惑"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 60,
-            "endPage": 67
+            "endPage": 67,
+            "summary": "推理の展開"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 68,
-            "endPage": 76
+            "endPage": 76,
+            "summary": "事件の帰結"
           }
-        ]
+        ],
+        "summary": "岬の邸宅と快走船"
       }
     ],
     "totalPages": 76,

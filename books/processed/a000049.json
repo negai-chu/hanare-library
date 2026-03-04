@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "信仰に生きる少女"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 22,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "炎の中の奇跡"
           }
-        ]
+        ],
+        "summary": "切支丹の殉教と奇跡"
       }
     ],
     "totalPages": 24,

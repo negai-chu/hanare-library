@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "科学と芸術の価値の違い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "政治的価値と芸術的価値"
           }
-        ]
+        ],
+        "summary": "政治と芸術の価値論"
       }
     ],
     "totalPages": 20,

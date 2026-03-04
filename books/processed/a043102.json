@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "丘への登攀の感動"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "神殿の建築美"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "彫刻群の鑑賞"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "歴史の重層性"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "夕暮れの神殿"
           }
-        ]
+        ],
+        "summary": "古代神殿への感動"
       }
     ],
     "totalPages": 23,

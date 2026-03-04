@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "点字と朗読の日常"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "夫婦の静かな暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "読み聞かせの温もり"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "触れる世界と聞く世界"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 28,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "髪の毛に触れる手"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 37,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "花びらのような愛情"
           }
-        ]
+        ],
+        "summary": "盲目の夫と妻の朗読の日々"
       }
     ],
     "totalPages": 39,

@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "初版への序文"
       },
       {
         "id": "chapter-2",
         "title": "増補版序文",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "増補版の序文"
       },
       {
         "id": "chapter-3",
         "title": "増補版重版序文",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "重版の序文"
       },
       {
         "id": "chapter-4",
@@ -43,7 +46,8 @@
             "startPage": 10,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "問題の設定"
       },
       {
         "id": "chapter-5",
@@ -105,7 +109,8 @@
             "startPage": 234,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "日本主義の批判"
       },
       {
         "id": "chapter-6",
@@ -119,7 +124,8 @@
             "startPage": 249,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "自由主義の批判"
       },
       {
         "id": "chapter-7",
@@ -133,7 +139,8 @@
             "startPage": 416,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "批判の総括"
       },
       {
         "id": "chapter-8",
@@ -159,7 +166,8 @@
             "startPage": 485,
             "endPage": 503
           }
-        ]
+        ],
+        "summary": "補足的考察"
       }
     ],
     "totalPages": 503,

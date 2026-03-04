@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "ルーズベルトの時代"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 16,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "桜の花びら"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 24,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "歴史の断片"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 28,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "日米の接点"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 41,
-            "endPage": 47
+            "endPage": 47,
+            "summary": "花びらの舞い"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 48,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "物語の幕"
           }
-        ]
+        ],
+        "summary": "桜と大統領の物語"
       }
     ],
     "totalPages": 53,

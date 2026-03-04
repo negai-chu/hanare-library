@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "仕事帰りの迷い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "雪の中の訪問"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "同志との再会"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 18,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "雪夜の会話"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 25,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "朝の別れ"
           }
-        ]
+        ],
+        "summary": "雪夜の逡巡と決意"
       }
     ],
     "totalPages": 38,

@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "場末への転落"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "家族との断絶"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "父としての無力"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "酒に溺れる日々"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "子への罪悪感"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 20,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "哀しき父の行方"
           }
-        ]
+        ],
+        "summary": "場末に追い込まれた父の哀愁"
       }
     ],
     "totalPages": 21,

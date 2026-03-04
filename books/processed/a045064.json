@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "出発の朝"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "池への道"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "不思議の始まり"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "池の異変"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "水中の世界"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "驚きの発見"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 31,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "深まる謎"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 36,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "危険な兆候"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 40,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "脱出の試み"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 47,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "冒険の帰結"
           }
-        ]
+        ],
+        "summary": "子供たちの不思議な冒険"
       }
     ],
     "totalPages": 55,

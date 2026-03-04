@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "言語の統計的研究"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "音韻の分布法則"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "言葉と文化の関連"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "言語研究の将来"
           }
-        ]
+        ],
+        "summary": "言葉の統計的不思議"
       }
     ],
     "totalPages": 24,

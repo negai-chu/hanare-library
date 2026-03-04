@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "狂人の母"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "養父の横顔"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "伯母の死"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "義兄の最期"
           }
-        ]
+        ],
+        "summary": "狂母と養家の記憶"
       }
     ],
     "totalPages": 14,

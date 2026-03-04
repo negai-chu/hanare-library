@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "停車場への道"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "シノン物語"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "漁場の風景"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 24,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "都の酒場"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 32,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "二つの世界"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 35,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "物語の結末"
           }
-        ]
+        ],
+        "summary": "漁場と酒場を行き来する"
       }
     ],
     "totalPages": 43,

@@ -37,7 +37,8 @@
             "startPage": 3,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "写生の目覚め"
       },
       {
         "id": "chapter-2",
@@ -81,7 +82,8 @@
             "startPage": 6,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "自然詠の深化"
       },
       {
         "id": "chapter-3",
@@ -245,7 +247,8 @@
             "startPage": 25,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "表現の模索"
       },
       {
         "id": "chapter-4",
@@ -343,7 +346,8 @@
             "startPage": 32,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "独自の境地"
       },
       {
         "id": "chapter-5",
@@ -471,7 +475,8 @@
             "startPage": 63,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "風土への眼差し"
       },
       {
         "id": "chapter-6",
@@ -629,7 +634,8 @@
             "startPage": 98,
             "endPage": 103
           }
-        ]
+        ],
+        "summary": "歌風の成熟"
       }
     ],
     "totalPages": 103,

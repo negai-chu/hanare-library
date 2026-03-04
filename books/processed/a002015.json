@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 240,
-            "endPage": 425
+            "endPage": 425,
+            "summary": "物語の始まり"
           }
-        ]
+        ],
+        "summary": "伸子の出発"
       },
       {
         "id": "chapter-2",
         "title": "二",
         "startPage": 246,
-        "endPage": 271
+        "endPage": 271,
+        "summary": "新しい世界"
       },
       {
         "id": "chapter-3",
         "title": "三",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "揺れる感情"
       },
       {
         "id": "chapter-4",
         "title": "四",
         "startPage": 426,
-        "endPage": 510
+        "endPage": 510,
+        "summary": "自我の覚醒"
       },
       {
         "id": "chapter-5",
         "title": "五",
         "startPage": 511,
-        "endPage": 520
+        "endPage": 520,
+        "summary": "選択の時"
       },
       {
         "id": "chapter-6",
@@ -61,21 +67,25 @@
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 16,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "変化の兆し"
           },
           {
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 27,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "決断の時"
           },
           {
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 37,
-            "endPage": 553
+            "endPage": 553,
+            "summary": "新たな道へ"
           }
-        ]
+        ],
+        "summary": "転機の訪れ"
       },
       {
         "id": "chapter-7",
@@ -87,63 +97,74 @@
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 86,
-            "endPage": 85
+            "endPage": 85,
+            "summary": "旅立ちの朝"
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 86,
-            "endPage": 104
+            "endPage": 104,
+            "summary": "異国の地"
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 105,
-            "endPage": 114
+            "endPage": 114,
+            "summary": "人々との出会い"
           },
           {
             "id": "chapter-7-section-4",
             "number": "四",
             "startPage": 115,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "思想の深化"
           },
           {
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 45,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "創作の日々"
           },
           {
             "id": "chapter-7-section-6",
             "number": "六",
             "startPage": 49,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "孤独と連帯"
           },
           {
             "id": "chapter-7-section-7",
             "number": "七",
             "startPage": 56,
-            "endPage": 64
+            "endPage": 64,
+            "summary": "帰国の決意"
           },
           {
             "id": "chapter-7-section-8",
             "number": "八",
             "startPage": 65,
-            "endPage": 70
+            "endPage": 70,
+            "summary": "故国の風"
           },
           {
             "id": "chapter-7-section-9",
             "number": "九",
             "startPage": 71,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "新たな使命"
           },
           {
             "id": "chapter-7-section-10",
             "number": "十",
             "startPage": 78,
-            "endPage": 323
+            "endPage": 323,
+            "summary": "伸子の未来"
           }
-        ]
+        ],
+        "summary": "自立への歩み"
       }
     ],
     "totalPages": 553,

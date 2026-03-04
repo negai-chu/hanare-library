@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序論",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "意識と時間の問題提起"
       },
       {
         "id": "chapter-2",
@@ -55,13 +56,15 @@
             "startPage": 9,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "時間意識の哲学的考察"
       },
       {
         "id": "chapter-3",
         "title": "後記",
         "startPage": 14,
-        "endPage": 15
+        "endPage": 15,
+        "summary": "論考の補足と後書き"
       }
     ],
     "totalPages": 15,

@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "チエ子の不思議な性質"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "人の顔への執着"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "恐ろしい才能の発露"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "周囲の戸惑い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "チエ子の運命"
           }
-        ]
+        ],
+        "summary": "奇妙な孤児の顔への執着"
       }
     ],
     "totalPages": 19,

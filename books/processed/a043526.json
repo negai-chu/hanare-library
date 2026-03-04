@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序言",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "商道への志と序言"
       },
       {
         "id": "chapter-2",
@@ -97,7 +98,8 @@
             "startPage": 39,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "本郷でのパン屋創業期"
       },
       {
         "id": "chapter-3",
@@ -183,7 +185,8 @@
             "startPage": 93,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "新宿中村屋への発展"
       },
       {
         "id": "chapter-4",
@@ -251,7 +254,8 @@
             "startPage": 131,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "若い世代への訓言"
       },
       {
         "id": "chapter-5",
@@ -265,7 +269,8 @@
             "startPage": 137,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "補足的な記録と逸話"
       },
       {
         "id": "chapter-6",
@@ -429,7 +434,8 @@
             "startPage": 205,
             "endPage": 207
           }
-        ]
+        ],
+        "summary": "妻黒光の商売回想"
       }
     ],
     "totalPages": 207,

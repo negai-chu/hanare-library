@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "丘の上の小学校"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "校舎の異変"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "消えた教師"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 11,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "恐怖の地下室"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 17,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "拷問の幻影"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "疑惑の深まり"
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
             "startPage": 26,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "真相への手がかり"
           },
           {
             "id": "chapter-1-section-8",
             "number": "８",
             "startPage": 30,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "錯覚の正体"
           },
           {
             "id": "chapter-1-section-9",
             "number": "９",
             "startPage": 36,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "追い詰められる真実"
           },
           {
             "id": "chapter-1-section-10",
             "number": "10",
             "startPage": 41,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "衝撃の結末"
           }
-        ]
+        ],
+        "summary": "丘の小学校の錯覚と恐怖"
       }
     ],
     "totalPages": 43,

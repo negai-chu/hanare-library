@@ -23,99 +23,116 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "看護婦の不在"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "信子の来訪"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "二人の会話"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 26,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "過去の回想"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 34,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "揺れる感情"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 40,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "決断の時"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 53,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "別離の予感"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 60,
-            "endPage": 64
+            "endPage": 64,
+            "summary": "病状の変化"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 65,
-            "endPage": 72
+            "endPage": 72,
+            "summary": "信子の苦悩"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 73,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "二つの道"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 78,
-            "endPage": 85
+            "endPage": 85,
+            "summary": "最後の対話"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 86,
-            "endPage": 92
+            "endPage": 92,
+            "summary": "分かれ道"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 93,
-            "endPage": 99
+            "endPage": 99,
+            "summary": "信子の決意"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 100,
-            "endPage": 112
+            "endPage": 112,
+            "summary": "別れの朝"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 113,
-            "endPage": 120
+            "endPage": 120,
+            "summary": "残された者"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 121,
-            "endPage": 124
+            "endPage": 124,
+            "summary": "新たな道へ"
           }
-        ]
+        ],
+        "summary": "病床の男と女の選択"
       }
     ],
     "totalPages": 124,

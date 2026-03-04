@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "少年文学序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "少年文学への序"
       },
       {
         "id": "chapter-2",
         "title": "凡例",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "凡例の説明"
       },
       {
         "id": "chapter-3",
@@ -79,7 +81,8 @@
             "startPage": 34,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "子犬の冒険の始まり"
       },
       {
         "id": "chapter-4",
@@ -135,7 +138,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "仇討ちと成長"
       }
     ],
     "totalPages": 73,

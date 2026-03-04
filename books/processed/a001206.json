@@ -23,117 +23,137 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "下宿屋の代替わり"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 13,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "義雄の放蕩な性格"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 31,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "継母との確執"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 54,
-            "endPage": 69
+            "endPage": 69,
+            "summary": "文学者の自負"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 70,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "女との出会い"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 78,
-            "endPage": 89
+            "endPage": 89,
+            "summary": "情事の始まり"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 90,
-            "endPage": 95
+            "endPage": 95,
+            "summary": "妻子への無関心"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 96,
-            "endPage": 99
+            "endPage": 99,
+            "summary": "刹那主義の実践"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 100,
-            "endPage": 104
+            "endPage": 104,
+            "summary": "下宿屋の騒動"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 105,
-            "endPage": 129
+            "endPage": 129,
+            "summary": "女たちの嫉妬"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 130,
-            "endPage": 146
+            "endPage": 146,
+            "summary": "義雄の弁明"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 147,
-            "endPage": 161
+            "endPage": 161,
+            "summary": "金銭の窮迫"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 162,
-            "endPage": 170
+            "endPage": 170,
+            "summary": "新たな女との関係"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 171,
-            "endPage": 181
+            "endPage": 181,
+            "summary": "世間体との葛藤"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 182,
-            "endPage": 196
+            "endPage": 196,
+            "summary": "自堕落な日々"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 197,
-            "endPage": 201
+            "endPage": 201,
+            "summary": "友人たちの忠告"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 202,
-            "endPage": 220
+            "endPage": 220,
+            "summary": "破滅への予感"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 221,
-            "endPage": 224
+            "endPage": 224,
+            "summary": "情欲の深淵"
           },
           {
             "id": "chapter-1-section-19",
             "number": "十九",
             "startPage": 225,
-            "endPage": 238
+            "endPage": 238,
+            "summary": "耽溺の果て"
           }
-        ]
+        ],
+        "summary": "下宿屋の主人と女たち"
       }
     ],
     "totalPages": 238,

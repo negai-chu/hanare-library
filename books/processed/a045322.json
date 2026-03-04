@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "結婚の約束"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "村の暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "揺れる気持ち"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "恋の行方"
           }
-        ]
+        ],
+        "summary": "滝のある村での恋"
       }
     ],
     "totalPages": 15,

@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "堕落時代の概観"
       },
       {
         "id": "chapter-2",
@@ -91,7 +92,8 @@
             "startPage": 15,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "各方面に見る徴候"
       },
       {
         "id": "chapter-3",
@@ -129,13 +131,15 @@
             "startPage": 21,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "上流社会の堕落"
       },
       {
         "id": "chapter-4",
         "title": "職業婦人",
         "startPage": 23,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "職業婦人の実態"
       },
       {
         "id": "chapter-5",
@@ -197,7 +201,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "下層社会の暗部"
       },
       {
         "id": "chapter-6",
@@ -295,7 +300,8 @@
             "startPage": 105,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "不良少年少女の群像"
       },
       {
         "id": "chapter-7",
@@ -333,7 +339,8 @@
             "startPage": 237,
             "endPage": 239
           }
-        ]
+        ],
+        "summary": "堕落時代の結論"
       }
     ],
     "totalPages": 239,

@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "港町の名家と不穏な影"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "仮面の下の真実"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "交錯する思惑"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 23,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "決着と明かされる謎"
           }
-        ]
+        ],
+        "summary": "港町の旧家を巡る怪事件"
       }
     ],
     "totalPages": 31,

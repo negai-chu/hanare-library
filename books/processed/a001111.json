@@ -23,57 +23,67 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "創作への志と葛藤"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "漁村の青年との出会い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "北海の過酷な暮らし"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 34,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "絵筆への渇望"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 36,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "生活の重圧"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 46,
-            "endPage": 61
+            "endPage": 61,
+            "summary": "芸術と労働の狭間"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 62,
-            "endPage": 79
+            "endPage": 79,
+            "summary": "創作への執念"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 80,
-            "endPage": 100
+            "endPage": 100,
+            "summary": "苦悩のなかの光明"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 101,
-            "endPage": 104
+            "endPage": 104,
+            "summary": "生まれいずる表現"
           }
-        ]
+        ],
+        "summary": "芸術と生活の相克"
       }
     ],
     "totalPages": 104,

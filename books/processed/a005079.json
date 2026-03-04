@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "寺院での脱帽"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "挨拶の習慣"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 6,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "文化の違い"
           }
-        ]
+        ],
+        "summary": "欧州での脱帽の作法"
       }
     ],
     "totalPages": 7,

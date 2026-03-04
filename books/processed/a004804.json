@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "東下りの少女時代"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "都への憧れ"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "姨捨山の月"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 18,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "追憶と諦念"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 24,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "老いの境地"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 28,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "月に寄せる孤愁"
           }
-        ]
+        ],
+        "summary": "更級日記と月の山"
       }
     ],
     "totalPages": 29,

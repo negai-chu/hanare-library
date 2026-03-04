@@ -29,171 +29,200 @@
             "id": "chapter-1-section-2",
             "number": "一",
             "startPage": 11,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "勘次の貧しい日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "二",
             "startPage": 33,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "畑仕事の厳しさ"
           },
           {
             "id": "chapter-1-section-4",
             "number": "三",
             "startPage": 56,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "家族の負担"
           },
           {
             "id": "chapter-1-section-5",
             "number": "四",
             "startPage": 78,
-            "endPage": 108
+            "endPage": 108,
+            "summary": "村の人間関係"
           },
           {
             "id": "chapter-1-section-6",
             "number": "五",
             "startPage": 109,
-            "endPage": 136
+            "endPage": 136,
+            "summary": "季節の巡りと労働"
           },
           {
             "id": "chapter-1-section-7",
             "number": "六",
             "startPage": 137,
-            "endPage": 177
+            "endPage": 177,
+            "summary": "借金の重圧"
           },
           {
             "id": "chapter-1-section-8",
             "number": "七",
             "startPage": 178,
-            "endPage": 213
+            "endPage": 213,
+            "summary": "子供たちの行方"
           },
           {
             "id": "chapter-1-section-9",
             "number": "八",
             "startPage": 214,
-            "endPage": 244
+            "endPage": 244,
+            "summary": "病と老い"
           },
           {
             "id": "chapter-1-section-10",
             "number": "九",
             "startPage": 245,
-            "endPage": 257
+            "endPage": 257,
+            "summary": "自然の猛威"
           },
           {
             "id": "chapter-1-section-11",
             "number": "一〇",
             "startPage": 258,
-            "endPage": 305
+            "endPage": 305,
+            "summary": "収穫の季節"
           },
           {
             "id": "chapter-1-section-12",
             "number": "一一",
             "startPage": 306,
-            "endPage": 336
+            "endPage": 336,
+            "summary": "冬の訪れ"
           },
           {
             "id": "chapter-1-section-13",
             "number": "一二",
             "startPage": 337,
-            "endPage": 352
+            "endPage": 352,
+            "summary": "正月の情景"
           },
           {
             "id": "chapter-1-section-14",
             "number": "一三",
             "startPage": 353,
-            "endPage": 381
+            "endPage": 381,
+            "summary": "春への期待"
           },
           {
             "id": "chapter-1-section-15",
             "number": "一四",
             "startPage": 382,
-            "endPage": 419
+            "endPage": 419,
+            "summary": "田植えの時期"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十五",
             "startPage": 420,
-            "endPage": 450
+            "endPage": 450,
+            "summary": "夏の暑さ"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十六",
             "startPage": 451,
-            "endPage": 476
+            "endPage": 476,
+            "summary": "水争いの季節"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十七",
             "startPage": 477,
-            "endPage": 505
+            "endPage": 505,
+            "summary": "秋の実り"
           },
           {
             "id": "chapter-1-section-19",
             "number": "一八",
             "startPage": 506,
-            "endPage": 541
+            "endPage": 541,
+            "summary": "年貢の厳しさ"
           },
           {
             "id": "chapter-1-section-20",
             "number": "一九",
             "startPage": 542,
-            "endPage": 574
+            "endPage": 574,
+            "summary": "冬支度"
           },
           {
             "id": "chapter-1-section-21",
             "number": "二〇",
             "startPage": 575,
-            "endPage": 604
+            "endPage": 604,
+            "summary": "妻の苦労"
           },
           {
             "id": "chapter-1-section-22",
             "number": "二一",
             "startPage": 605,
-            "endPage": 644
+            "endPage": 644,
+            "summary": "隣人の助け"
           },
           {
             "id": "chapter-1-section-23",
             "number": "二二",
             "startPage": 645,
-            "endPage": 662
+            "endPage": 662,
+            "summary": "暮らしの工夫"
           },
           {
             "id": "chapter-1-section-24",
             "number": "二三",
             "startPage": 663,
-            "endPage": 710
+            "endPage": 710,
+            "summary": "子の成長"
           },
           {
             "id": "chapter-1-section-25",
             "number": "二四",
             "startPage": 711,
-            "endPage": 724
+            "endPage": 724,
+            "summary": "老いの足音"
           },
           {
             "id": "chapter-1-section-26",
             "number": "二五",
             "startPage": 725,
-            "endPage": 772
+            "endPage": 772,
+            "summary": "土との格闘"
           },
           {
             "id": "chapter-1-section-27",
             "number": "二六",
             "startPage": 773,
-            "endPage": 797
+            "endPage": 797,
+            "summary": "季節の移ろい"
           },
           {
             "id": "chapter-1-section-28",
             "number": "二七",
             "startPage": 798,
-            "endPage": 824
+            "endPage": 824,
+            "summary": "生の重さ"
           },
           {
             "id": "chapter-1-section-29",
             "number": "二八",
             "startPage": 825,
-            "endPage": 836
+            "endPage": 836,
+            "summary": "土に生きる覚悟"
           }
-        ]
+        ],
+        "summary": "農民の苦しい暮らし"
       }
     ],
     "totalPages": 836,

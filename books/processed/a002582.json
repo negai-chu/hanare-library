@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "脱出記への序文"
       },
       {
         "id": "chapter-2",
@@ -29,27 +30,32 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 45,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "巴里到着の混乱"
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 47,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "街中の便所事情"
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 50,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "異国の生活感覚"
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 53,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "巴里の裏側の風景"
           }
-        ]
+        ],
+        "summary": "パリの便所の体験"
       },
       {
         "id": "chapter-3",
@@ -61,21 +67,25 @@
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 61,
-            "endPage": 62
+            "endPage": 62,
+            "summary": "獄中の日常"
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 63,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "囚人たちとの交流"
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 66,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "牢獄の歌の記憶"
           }
-        ]
+        ],
+        "summary": "牢屋での歌と日々"
       },
       {
         "id": "chapter-4",
@@ -87,45 +97,53 @@
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 70,
-            "endPage": 73
+            "endPage": 73,
+            "summary": "逮捕の瞬間"
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 74,
-            "endPage": 78
+            "endPage": 78,
+            "summary": "取調べの日々"
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 79,
-            "endPage": 83
+            "endPage": 83,
+            "summary": "獄中の生活"
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 84,
-            "endPage": 89
+            "endPage": 89,
+            "summary": "裁判の経過"
           },
           {
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 90,
-            "endPage": 97
+            "endPage": 97,
+            "summary": "判決と収監"
           },
           {
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 98,
-            "endPage": 109
+            "endPage": 109,
+            "summary": "追放の準備"
           },
           {
             "id": "chapter-4-section-7",
             "number": "七",
             "startPage": 110,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "国外追放の顛末"
           }
-        ]
+        ],
+        "summary": "入獄から追放までの経緯"
       },
       {
         "id": "chapter-5",
@@ -137,63 +155,74 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 122,
-            "endPage": 122
+            "endPage": 122,
+            "summary": "出国の準備"
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 123,
-            "endPage": 124
+            "endPage": 124,
+            "summary": "船上の生活"
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 125,
-            "endPage": 126
+            "endPage": 126,
+            "summary": "異国での見聞"
           },
           {
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 127,
-            "endPage": 129
+            "endPage": 129,
+            "summary": "各地の印象"
           },
           {
             "id": "chapter-5-section-5",
             "number": "五",
             "startPage": 130,
-            "endPage": 131
+            "endPage": 131,
+            "summary": "革命家との交流"
           },
           {
             "id": "chapter-5-section-6",
             "number": "六",
             "startPage": 132,
-            "endPage": 133
+            "endPage": 133,
+            "summary": "帰路の出来事"
           },
           {
             "id": "chapter-5-section-7",
             "number": "七",
             "startPage": 134,
-            "endPage": 135
+            "endPage": 135,
+            "summary": "旅の教訓"
           },
           {
             "id": "chapter-5-section-8",
             "number": "八",
             "startPage": 136,
-            "endPage": 137
+            "endPage": 137,
+            "summary": "言語の壁と克服"
           },
           {
             "id": "chapter-5-section-9",
             "number": "九",
             "startPage": 138,
-            "endPage": 139
+            "endPage": 139,
+            "summary": "異文化の衝撃"
           },
           {
             "id": "chapter-5-section-10",
             "number": "十",
             "startPage": 140,
-            "endPage": 142
+            "endPage": 142,
+            "summary": "旅の総括"
           }
-        ]
+        ],
+        "summary": "外遊中の雑多な話"
       }
     ],
     "totalPages": 142,

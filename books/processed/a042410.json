@@ -23,69 +23,81 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "漁村への到着"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "村の暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "月夜の散策"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "海辺の出会い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "村人との交流"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 27,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "夜の海辺の情景"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 32,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "月光の下で"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 36,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "別離の予感"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 42,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "最後の夜"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 46,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "朝の別れ"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 52,
-            "endPage": 56
+            "endPage": 56,
+            "summary": "去りゆく者"
           }
-        ]
+        ],
+        "summary": "月明かりの海辺の物語"
       }
     ],
     "totalPages": 56,

@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 290,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "小売商道の序文"
       },
       {
         "id": "chapter-2",
@@ -67,7 +68,8 @@
             "startPage": 218,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "田舎者の東京での失敗"
       },
       {
         "id": "chapter-3",
@@ -123,7 +125,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "新規開店の留意点"
       },
       {
         "id": "chapter-4",
@@ -161,7 +164,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "田舎者に多い商種と真理"
       },
       {
         "id": "chapter-5",
@@ -193,7 +197,8 @@
             "startPage": 533,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "時代変化と商法の適応"
       },
       {
         "id": "chapter-6",
@@ -291,7 +296,8 @@
             "startPage": 571,
             "endPage": 573
           }
-        ]
+        ],
+        "summary": "雇用関係の心得"
       }
     ],
     "totalPages": 573,

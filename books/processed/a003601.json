@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "日本論への序"
       },
       {
         "id": "chapter-2",
@@ -85,7 +86,8 @@
             "startPage": 121,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "日本の社会現象"
       },
       {
         "id": "chapter-3",
@@ -159,7 +161,8 @@
             "startPage": 248,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "日本の文化現象"
       },
       {
         "id": "chapter-4",
@@ -221,7 +224,8 @@
             "startPage": 379,
             "endPage": 393
           }
-        ]
+        ],
+        "summary": "日本の報道現象"
       }
     ],
     "totalPages": 393,

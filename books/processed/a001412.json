@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "親鸞劇の序文"
       },
       {
         "id": "chapter-2",
@@ -31,7 +32,8 @@
             "startPage": 5,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "信仰への目覚め"
       },
       {
         "id": "chapter-3",
@@ -51,13 +53,15 @@
             "startPage": 32,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "出家の決意と別離"
       },
       {
         "id": "chapter-4",
         "title": "第二幕",
         "startPage": 57,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "弟子との邂逅"
       },
       {
         "id": "chapter-5",
@@ -77,7 +81,8 @@
             "startPage": 107,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "煩悩と信仰の相克"
       },
       {
         "id": "chapter-6",
@@ -97,7 +102,8 @@
             "startPage": 145,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "愛と罪の葛藤"
       },
       {
         "id": "chapter-7",
@@ -117,7 +123,8 @@
             "startPage": 180,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "赦しと救済の道"
       },
       {
         "id": "chapter-8",
@@ -149,7 +156,8 @@
             "startPage": 227,
             "endPage": 234
           }
-        ]
+        ],
+        "summary": "師弟の悟りと別れ"
       }
     ],
     "totalPages": 234,

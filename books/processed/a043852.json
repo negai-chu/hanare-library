@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "予期せぬ陣痛の兆し"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "過去の記憶との食い違い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "記憶が暴く真実"
           }
-        ]
+        ],
+        "summary": "妻の出産をめぐる記憶の齟齬"
       }
     ],
     "totalPages": 22,

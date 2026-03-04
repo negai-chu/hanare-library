@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "自分を見失う瞬間"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 25,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "他者の中の自分"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 44,
-            "endPage": 63
+            "endPage": 63,
+            "summary": "仮面の生活"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 64,
-            "endPage": 81
+            "endPage": 81,
+            "summary": "本当の自分への問い"
           }
-        ]
+        ],
+        "summary": "自己喪失と存在の揺らぎ"
       }
     ],
     "totalPages": 81,

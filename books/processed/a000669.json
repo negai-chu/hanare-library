@@ -23,165 +23,193 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "秋子への呼びかけ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "渡航の始まり"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 19,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "船上の日々"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 24,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "太平洋の旅路"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 29,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "異国への期待"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 36,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "ロサンゼルス到着"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 45,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "選手村の生活"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 52,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "練習と仲間"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 61,
-            "endPage": 75
+            "endPage": 75,
+            "summary": "秋子への思慕"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 76,
-            "endPage": 81
+            "endPage": 81,
+            "summary": "競技の緊張"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 82,
-            "endPage": 89
+            "endPage": 89,
+            "summary": "ボート競技の展開"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 90,
-            "endPage": 94
+            "endPage": 94,
+            "summary": "勝敗の行方"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 95,
-            "endPage": 101
+            "endPage": 101,
+            "summary": "異国の夜"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 102,
-            "endPage": 110
+            "endPage": 110,
+            "summary": "仲間との交流"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 111,
-            "endPage": 115
+            "endPage": 115,
+            "summary": "孤独と郷愁"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 116,
-            "endPage": 120
+            "endPage": 120,
+            "summary": "秋子の記憶"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 121,
-            "endPage": 126
+            "endPage": 126,
+            "summary": "大会の熱狂"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 127,
-            "endPage": 133
+            "endPage": 133,
+            "summary": "帰途の始まり"
           },
           {
             "id": "chapter-1-section-19",
             "number": "十九",
             "startPage": 134,
-            "endPage": 141
+            "endPage": 141,
+            "summary": "船上の回想"
           },
           {
             "id": "chapter-1-section-20",
             "number": "二十",
             "startPage": 142,
-            "endPage": 148
+            "endPage": 148,
+            "summary": "恋の苦悩"
           },
           {
             "id": "chapter-1-section-21",
             "number": "二十一",
             "startPage": 149,
-            "endPage": 155
+            "endPage": 155,
+            "summary": "海上の孤独"
           },
           {
             "id": "chapter-1-section-22",
             "number": "二十二",
             "startPage": 156,
-            "endPage": 157
+            "endPage": 157,
+            "summary": "故国への思い"
           },
           {
             "id": "chapter-1-section-23",
             "number": "二十三",
             "startPage": 158,
-            "endPage": 161
+            "endPage": 161,
+            "summary": "帰国の日"
           },
           {
             "id": "chapter-1-section-24",
             "number": "二十四",
             "startPage": 162,
-            "endPage": 166
+            "endPage": 166,
+            "summary": "再会と失望"
           },
           {
             "id": "chapter-1-section-25",
             "number": "二十五",
             "startPage": 167,
-            "endPage": 178
+            "endPage": 178,
+            "summary": "変わりゆく関係"
           },
           {
             "id": "chapter-1-section-26",
             "number": "二十六",
             "startPage": 179,
-            "endPage": 181
+            "endPage": 181,
+            "summary": "青春の代償"
           },
           {
             "id": "chapter-1-section-27",
             "number": "二十七",
             "startPage": 182,
-            "endPage": 190
+            "endPage": 190,
+            "summary": "届かぬ果実"
           }
-        ]
+        ],
+        "summary": "五輪への船旅と叶わぬ恋"
       }
     ],
     "totalPages": 190,

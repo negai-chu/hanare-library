@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "子供たちへの前書き"
       },
       {
         "id": "chapter-2",
@@ -85,7 +86,8 @@
             "startPage": 23,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "十の小話集"
       },
       {
         "id": "chapter-3",
@@ -165,7 +167,8 @@
             "startPage": 35,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "母への想い"
       },
       {
         "id": "chapter-4",
@@ -209,7 +212,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "雷さまの話ほか"
       },
       {
         "id": "chapter-5",
@@ -277,7 +281,8 @@
             "startPage": 68,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "友の中の教師"
       },
       {
         "id": "chapter-6",
@@ -369,7 +374,8 @@
             "startPage": 85,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "宮城野の思い出"
       },
       {
         "id": "chapter-7",
@@ -437,7 +443,8 @@
             "startPage": 100,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "姉の肖像"
       },
       {
         "id": "chapter-8",
@@ -511,7 +518,8 @@
             "startPage": 119,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "浅間山麓の日々"
       },
       {
         "id": "chapter-9",
@@ -591,13 +599,15 @@
             "startPage": 136,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "十二の小話集"
       },
       {
         "id": "chapter-10",
         "title": "『力餅』の後に",
         "startPage": 137,
-        "endPage": 138
+        "endPage": 138,
+        "summary": "力餅の後日譚"
       }
     ],
     "totalPages": 138,

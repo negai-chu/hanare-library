@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "隊長と兵士たちの語り"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "異国の地での行軍"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "極寒の中の緊張"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "帰還への想い"
           }
-        ]
+        ],
+        "summary": "シベリア近くの軍隊生活"
       }
     ],
     "totalPages": 22,

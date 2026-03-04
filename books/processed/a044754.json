@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "軍人家庭に育った少年時代"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "文学への転身の経緯"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "戦時下の行動への省察"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "知識人の責任と反省"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 15,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "真の反省とは何か"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 19,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "未来への建設的姿勢"
           }
-        ]
+        ],
+        "summary": "戦後の反省と自己批判"
       }
     ],
     "totalPages": 21,

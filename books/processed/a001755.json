@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "現実世界の構造"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 30,
-            "endPage": 55
+            "endPage": 55,
+            "summary": "矛盾の論理"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 56,
-            "endPage": 79
+            "endPage": 79,
+            "summary": "自己同一の深化"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 80,
-            "endPage": 97
+            "endPage": 97,
+            "summary": "絶対の立場"
           }
-        ]
+        ],
+        "summary": "矛盾的自己同一の哲学"
       }
     ],
     "totalPages": 97,

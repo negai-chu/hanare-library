@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "シャボン玉との出会い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "空へ飛んでいく"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "不思議な冒険"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 13,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "壊れやすい美しさ"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 16,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "シャボン玉の教え"
           }
-        ]
+        ],
+        "summary": "シャボン玉の物語"
       }
     ],
     "totalPages": 18,

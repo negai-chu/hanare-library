@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "池部の家に集合"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "麻雀と音楽"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "夜の不思議"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "奇蹟の目撃"
           }
-        ]
+        ],
+        "summary": "雨の日の海辺の集い"
       }
     ],
     "totalPages": 27,

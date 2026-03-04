@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "盗人たちの登場"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 14,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "花の村の美しさ"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "盗みの躊躇い"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 31,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "盗人たちの改心"
           }
-        ]
+        ],
+        "summary": "花の村に来た盗人たちの改心"
       }
     ],
     "totalPages": 32,

@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "旅立ちの準備"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "最初の地への到着"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "異国の風習"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "思わぬ出会い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 23,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "試練の道中"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 28,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "名勝の地にて"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 33,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "危難の克服"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 36,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "新たな土地へ"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 41,
-            "endPage": 46
+            "endPage": 46,
+            "summary": "望郷の念"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 47,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "旅の終着"
           }
-        ]
+        ],
+        "summary": "武者の諸国巡り"
       }
     ],
     "totalPages": 49,

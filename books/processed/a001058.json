@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "心象スケッチの宣言"
       },
       {
         "id": "chapter-2",
@@ -139,7 +140,8 @@
             "startPage": 42,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "修羅の春の幻想"
       },
       {
         "id": "chapter-3",
@@ -159,7 +161,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "真空溶媒の詩世界"
       },
       {
         "id": "chapter-4",
@@ -173,7 +176,8 @@
             "startPage": 2,
             "endPage": 2
           }
-        ]
+        ],
+        "summary": "小岩井農場の風景詩"
       },
       {
         "id": "chapter-5",
@@ -301,7 +305,8 @@
             "startPage": 181,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "電柱と宇宙の交感"
       },
       {
         "id": "chapter-6",
@@ -333,7 +338,8 @@
             "startPage": 217,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "東岩手火山の詩"
       },
       {
         "id": "chapter-7",
@@ -371,7 +377,8 @@
             "startPage": 245,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "妹への無声慟哭"
       },
       {
         "id": "chapter-8",
@@ -409,7 +416,8 @@
             "startPage": 307,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "オホーツクの挽歌"
       },
       {
         "id": "chapter-9",
@@ -495,7 +503,8 @@
             "startPage": 368,
             "endPage": 371
           }
-        ]
+        ],
+        "summary": "風景とオルゴールの詩"
       }
     ],
     "totalPages": 371,

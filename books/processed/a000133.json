@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "堕天使の反逆"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "悔恨と贖い"
           }
-        ]
+        ],
+        "summary": "堕天使の誘惑と改悛"
       }
     ],
     "totalPages": 13,

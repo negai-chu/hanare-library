@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "文学論への序"
       },
       {
         "id": "chapter-2",
         "title": "第一部",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "思想と文学の関係"
       },
       {
         "id": "chapter-3",
         "title": "第二部",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "文学の社会性"
       },
       {
         "id": "chapter-4",
@@ -103,7 +106,8 @@
             "startPage": 368,
             "endPage": 382
           }
-        ]
+        ],
+        "summary": "批評の方法"
       }
     ],
     "totalPages": 382,

@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "大師の縁日"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "鷲の出現"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "怪鳥の正体"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 25,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "鷲の伝承"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 32,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "江戸の風聞"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 42,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "鷲の結末"
           }
-        ]
+        ],
+        "summary": "川崎大師詣での鷲の話"
       }
     ],
     "totalPages": 48,

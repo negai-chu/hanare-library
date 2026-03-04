@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "まえがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "快人伝のまえがき"
       },
       {
         "id": "chapter-2",
         "title": "頭山満",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "頭山満の人物像"
       },
       {
         "id": "chapter-3",
         "title": "杉山茂丸",
         "startPage": 21,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "杉山茂丸の生涯"
       },
       {
         "id": "chapter-4",
@@ -49,7 +52,8 @@
             "startPage": 70,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "奈良原到の気骨"
       },
       {
         "id": "chapter-5",
@@ -75,7 +79,8 @@
             "startPage": 153,
             "endPage": 168
           }
-        ]
+        ],
+        "summary": "篠崎仁三郎の逸話"
       }
     ],
     "totalPages": 168,

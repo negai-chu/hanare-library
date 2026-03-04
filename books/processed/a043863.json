@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "東京で消息を絶つ若主人"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "留守居の細君の不安"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "捜索と噂"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "若主人の秘密"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 24,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "山形屋に戻る青春"
           }
-        ]
+        ],
+        "summary": "若主人の失踪と商家の動揺"
       }
     ],
     "totalPages": 28,

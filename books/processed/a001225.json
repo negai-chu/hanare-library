@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 4,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "事件の発端"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "殺人団の手口"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 15,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "捜査の糸口"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 19,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "追跡と対決"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 25,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "組織の全容"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 32,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "崩壊への道筋"
           }
-        ]
+        ],
+        "summary": "国際殺人団の壊滅"
       }
     ],
     "totalPages": 39,

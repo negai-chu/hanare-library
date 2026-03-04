@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "最初の出会い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "変化の兆候"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "堕落の始まり"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "周囲の反応"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "深まる闇"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 24,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "抗えぬ流れ"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 28,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "最後の姿"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 32,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "残された印象"
           }
-        ]
+        ],
+        "summary": "ある男の転落の過程"
       }
     ],
     "totalPages": 36,

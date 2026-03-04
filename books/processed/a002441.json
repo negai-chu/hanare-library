@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "都会と田舎の比較"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "田園風景の魅力"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 8,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "農村の暮らしの観察"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 11,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "自然と人間の関係"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 14,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "季節と風土の味わい"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "田園生活の総括"
           }
-        ]
+        ],
+        "summary": "都会と田舎への雑感"
       }
     ],
     "totalPages": 19,

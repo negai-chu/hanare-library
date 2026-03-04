@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "料亭への初訪問"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 17,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "芸者との交遊"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "喪中の放蕩"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 25,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "父への思い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 39,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "百箇日の頃"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 52,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "放蕩の果て"
           }
-        ]
+        ],
+        "summary": "父の百箇日前後の放蕩"
       }
     ],
     "totalPages": 57,

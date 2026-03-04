@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "文章家としての才"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "翻訳と著述の業績"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "独自の文体と表現"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 11,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "文人としての遺産"
           }
-        ]
+        ],
+        "summary": "兆民先生の文士としての姿"
       }
     ],
     "totalPages": 13,

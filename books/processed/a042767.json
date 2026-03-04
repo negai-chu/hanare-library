@@ -97,7 +97,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "無人島への漂着"
       },
       {
         "id": "chapter-2",
@@ -207,7 +208,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "島での生活の確立"
       },
       {
         "id": "chapter-3",
@@ -293,7 +295,8 @@
             "startPage": 197,
             "endPage": 198
           }
-        ]
+        ],
+        "summary": "島での学習生活"
       }
     ],
     "totalPages": 198,

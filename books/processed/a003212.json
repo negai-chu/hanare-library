@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "伜への朝の声かけ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "浮浪する心の行方"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "放浪先での創作"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 24,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "家族への遠い想い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 32,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "孤独な執筆の日々"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 36,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "帰るべき場所の喪失"
           }
-        ]
+        ],
+        "summary": "浮浪する作家の日々"
       }
     ],
     "totalPages": 39,

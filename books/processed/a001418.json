@@ -23,201 +23,235 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "苦力と一輪車の街"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "兵士たちの日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "占領地の緊張"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "住民との摩擦"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 29,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "市街の夜警"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 36,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "密かな抵抗"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 50,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "不穏な情報"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 61,
-            "endPage": 67
+            "endPage": 67,
+            "summary": "戦場の噂話"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 68,
-            "endPage": 77
+            "endPage": 77,
+            "summary": "偵察と報告"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 78,
-            "endPage": 83
+            "endPage": 83,
+            "summary": "敵襲への警戒"
           },
           {
             "id": "chapter-1-section-11",
             "number": "一一",
             "startPage": 84,
-            "endPage": 91
+            "endPage": 91,
+            "summary": "塹壕の生活"
           },
           {
             "id": "chapter-1-section-12",
             "number": "一二",
             "startPage": 92,
-            "endPage": 97
+            "endPage": 97,
+            "summary": "補給の困窮"
           },
           {
             "id": "chapter-1-section-13",
             "number": "一三",
             "startPage": 98,
-            "endPage": 105
+            "endPage": 105,
+            "summary": "負傷兵の苦痛"
           },
           {
             "id": "chapter-1-section-14",
             "number": "一四",
             "startPage": 106,
-            "endPage": 117
+            "endPage": 117,
+            "summary": "戦友の絆"
           },
           {
             "id": "chapter-1-section-15",
             "number": "一五",
             "startPage": 118,
-            "endPage": 127
+            "endPage": 127,
+            "summary": "攻撃の予感"
           },
           {
             "id": "chapter-1-section-16",
             "number": "一六",
             "startPage": 128,
-            "endPage": 133
+            "endPage": 133,
+            "summary": "市街戦の火蓋"
           },
           {
             "id": "chapter-1-section-17",
             "number": "一七",
             "startPage": 134,
-            "endPage": 146
+            "endPage": 146,
+            "summary": "砲火の下で"
           },
           {
             "id": "chapter-1-section-18",
             "number": "一八",
             "startPage": 147,
-            "endPage": 154
+            "endPage": 154,
+            "summary": "混乱する戦線"
           },
           {
             "id": "chapter-1-section-19",
             "number": "一九",
             "startPage": 155,
-            "endPage": 161
+            "endPage": 161,
+            "summary": "避難する民衆"
           },
           {
             "id": "chapter-1-section-20",
             "number": "二〇",
             "startPage": 162,
-            "endPage": 169
+            "endPage": 169,
+            "summary": "瓦礫の中の命"
           },
           {
             "id": "chapter-1-section-21",
             "number": "二一",
             "startPage": 170,
-            "endPage": 180
+            "endPage": 180,
+            "summary": "撤退の判断"
           },
           {
             "id": "chapter-1-section-22",
             "number": "二二",
             "startPage": 181,
-            "endPage": 184
+            "endPage": 184,
+            "summary": "包囲網の突破"
           },
           {
             "id": "chapter-1-section-23",
             "number": "二三",
             "startPage": 185,
-            "endPage": 193
+            "endPage": 193,
+            "summary": "夜陰の脱出"
           },
           {
             "id": "chapter-1-section-24",
             "number": "二四",
             "startPage": 194,
-            "endPage": 201
+            "endPage": 201,
+            "summary": "味方との合流"
           },
           {
             "id": "chapter-1-section-25",
             "number": "二五",
             "startPage": 202,
-            "endPage": 208
+            "endPage": 208,
+            "summary": "戦場の静寂"
           },
           {
             "id": "chapter-1-section-26",
             "number": "二六",
             "startPage": 209,
-            "endPage": 218
+            "endPage": 218,
+            "summary": "戦死者への弔い"
           },
           {
             "id": "chapter-1-section-27",
             "number": "二七",
             "startPage": 219,
-            "endPage": 228
+            "endPage": 228,
+            "summary": "新たな命令"
           },
           {
             "id": "chapter-1-section-28",
             "number": "二八",
             "startPage": 229,
-            "endPage": 236
+            "endPage": 236,
+            "summary": "再編成の朝"
           },
           {
             "id": "chapter-1-section-29",
             "number": "二九",
             "startPage": 237,
-            "endPage": 243
+            "endPage": 243,
+            "summary": "兵士の疲弊"
           },
           {
             "id": "chapter-1-section-30",
             "number": "三〇",
             "startPage": 244,
-            "endPage": 248
+            "endPage": 248,
+            "summary": "厭戦の想い"
           },
           {
             "id": "chapter-1-section-31",
             "number": "三一",
             "startPage": 249,
-            "endPage": 256
+            "endPage": 256,
+            "summary": "故郷への手紙"
           },
           {
             "id": "chapter-1-section-32",
             "number": "三二",
             "startPage": 257,
-            "endPage": 263
+            "endPage": 263,
+            "summary": "終わらぬ戦争"
           },
           {
             "id": "chapter-1-section-33",
             "number": "三三",
             "startPage": 264,
-            "endPage": 267
+            "endPage": 267,
+            "summary": "武装する街の行方"
           }
-        ]
+        ],
+        "summary": "戦火の中国市街の群像"
       }
     ],
     "totalPages": 267,

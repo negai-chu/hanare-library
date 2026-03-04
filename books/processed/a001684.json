@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "随筆集の序文"
       },
       {
         "id": "chapter-2",
@@ -217,7 +218,8 @@
             "startPage": 122,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "日常の断章"
       },
       {
         "id": "chapter-3",
@@ -285,7 +287,8 @@
             "startPage": 150,
             "endPage": 169
           }
-        ]
+        ],
+        "summary": "科学者の眼差し"
       }
     ],
     "totalPages": 169,

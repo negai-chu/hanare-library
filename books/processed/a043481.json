@@ -17,19 +17,22 @@
         "id": "chapter-1",
         "title": "満蒙遊記の初めに",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "満蒙旅行の動機と序文"
       },
       {
         "id": "chapter-2",
         "title": "出発と船中（與謝野　寛）",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "出発から船中の印象"
       },
       {
         "id": "chapter-3",
         "title": "大連雑記（同上）",
         "startPage": 9,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "大連の街と風物"
       },
       {
         "id": "chapter-4",
@@ -223,25 +226,29 @@
             "startPage": 166,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "金州以北の旅路と風土"
       },
       {
         "id": "chapter-5",
         "title": "満蒙の歌　其一　　　與謝野　寛",
         "startPage": 168,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "寛の満蒙詠歌集"
       },
       {
         "id": "chapter-6",
         "title": "満蒙の歌　其二　　　與謝野晶子",
         "startPage": 199,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "晶子の満蒙詠歌集"
       },
       {
         "id": "chapter-7",
         "title": "満蒙遊草　漢詩　　　與謝野　寛",
         "startPage": 227,
-        "endPage": 235
+        "endPage": 235,
+        "summary": "寛の漢詩による旅の記録"
       }
     ],
     "totalPages": 235,

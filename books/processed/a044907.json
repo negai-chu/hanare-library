@@ -23,109 +23,127 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "孝道は支那の国本"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "経典における孝の教え"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "孝行の実践と規範"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "不孝の罪と刑罰"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 29,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "親に対する法的義務"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 33,
-            "endPage": 37
+            "endPage": 37,
+            "summary": "復讐と孝道の関係"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 38,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "喪中の礼制と法律"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 45,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "孝と忠の優先関係"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 50,
-            "endPage": 54
+            "endPage": 54,
+            "summary": "法律上の孝道の変遷"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 55,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "歴代王朝の孝道政策"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 60,
-            "endPage": 63
+            "endPage": 63,
+            "summary": "孝道の社会的機能"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 64,
-            "endPage": 70
+            "endPage": 70,
+            "summary": "孝道の弊害と批判"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 71,
-            "endPage": 75
+            "endPage": 75,
+            "summary": "近代法と孝道の衝突"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 76,
-            "endPage": 79
+            "endPage": 79,
+            "summary": "日本との比較考察"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 80,
-            "endPage": 87
+            "endPage": 87,
+            "summary": "孝道の哲学的基盤"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 88,
-            "endPage": 92
+            "endPage": 92,
+            "summary": "民間の孝行説話"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 93,
-            "endPage": 97
+            "endPage": 97,
+            "summary": "孝道の現代的意義"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 98,
-            "endPage": 109
+            "endPage": 109,
+            "summary": "支那の孝道の総括"
           },
           {
             "id": "chapter-1-section-19",
@@ -133,7 +151,8 @@
             "startPage": 110,
             "endPage": 148
           }
-        ]
+        ],
+        "summary": "支那の孝道と法律の考察"
       }
     ],
     "totalPages": 148,

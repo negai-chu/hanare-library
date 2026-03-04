@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "川沿いの住居の夏"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 41,
-            "endPage": 71
+            "endPage": 71,
+            "summary": "一族の確執と対話"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 72,
-            "endPage": 93
+            "endPage": 93,
+            "summary": "華やかさの裏の亀裂"
           }
-        ]
+        ],
+        "summary": "華々しき一族の群像"
       }
     ],
     "totalPages": 93,

@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "根岸への初訪問"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "句会の思い出"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "病床の子規"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 9,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "最後の面会"
           }
-        ]
+        ],
+        "summary": "子規との出会いの記"
       }
     ],
     "totalPages": 10,

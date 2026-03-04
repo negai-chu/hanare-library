@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "古河への旅路"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "新たな出会い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 19,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "揺れる思い"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 29,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "過去との対峙"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 37,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "決断の時"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 46,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "別離の予感"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 53,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "変化の兆し"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 61,
-            "endPage": 69
+            "endPage": 69,
+            "summary": "未来への一歩"
           }
-        ]
+        ],
+        "summary": "人生の転換点"
       }
     ],
     "totalPages": 69,

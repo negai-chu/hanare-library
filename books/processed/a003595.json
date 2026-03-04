@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "序論の提示"
       },
       {
         "id": "chapter-2",
@@ -43,7 +44,8 @@
             "startPage": 79,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "社会科学的分析"
       },
       {
         "id": "chapter-3",
@@ -63,13 +65,15 @@
             "startPage": 172,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "社会学的批判"
       },
       {
         "id": "chapter-4",
         "title": "文献",
         "startPage": 222,
-        "endPage": 300
+        "endPage": 300,
+        "summary": "参考文献一覧"
       }
     ],
     "totalPages": 300,

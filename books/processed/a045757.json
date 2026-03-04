@@ -23,87 +23,102 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "霞ヶ浦と飛行船の紹介"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "頭の大きな少年の登場"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "飛行船への強い憧れ"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 14,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "基地への忍び込み"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 18,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "飛行船の構造の学習"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 21,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "乗組員との交流"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 24,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "初めての搭乗体験"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 30,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "空からの霞ヶ浦の眺望"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 33,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "嵐の中の危機"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 36,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "少年の機転と勇気"
           },
           {
             "id": "chapter-1-section-11",
             "number": "一一",
             "startPage": 39,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "着陸と歓声"
           },
           {
             "id": "chapter-1-section-12",
             "number": "一二",
             "startPage": 44,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "村人たちの驚嘆"
           },
           {
             "id": "chapter-1-section-13",
             "number": "一三",
             "startPage": 49,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "飛行士への夢"
           },
           {
             "id": "chapter-1-section-14",
             "number": "一四",
             "startPage": 54,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "少年の新たな出発"
           }
-        ]
+        ],
+        "summary": "霞ヶ浦の少年と飛行船"
       }
     ],
     "totalPages": 58,

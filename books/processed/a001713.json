@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "科学方法論の序"
       },
       {
         "id": "chapter-2",
         "title": "再版序",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "再版にあたって"
       },
       {
         "id": "chapter-3",
@@ -43,7 +45,8 @@
             "startPage": 30,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "方法概念の分析一"
       },
       {
         "id": "chapter-4",
@@ -63,13 +66,15 @@
             "startPage": 76,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "方法概念の分析二"
       },
       {
         "id": "chapter-5",
         "title": "学問の分類",
         "startPage": 95,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "学問分類の考察"
       },
       {
         "id": "chapter-6",
@@ -89,7 +94,8 @@
             "startPage": 118,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "科学の本質を問う"
       },
       {
         "id": "chapter-7",
@@ -109,13 +115,15 @@
             "startPage": 243,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "科学の学問性"
       },
       {
         "id": "chapter-8",
         "title": "結論",
         "startPage": 268,
-        "endPage": 270
+        "endPage": 270,
+        "summary": "方法論の結論"
       }
     ],
     "totalPages": 270,

@@ -23,57 +23,67 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "一通の郵便の到来"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "下宿の日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "妻への想い"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "揺れる心情"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "鱧の皮の味"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 25,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "義理と人情の板挟み"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 28,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "帰郷への逡巡"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 35,
-            "endPage": 37
+            "endPage": 37,
+            "summary": "決断の時"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 38,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "夫婦の情の結末"
           }
-        ]
+        ],
+        "summary": "大阪の下宿の人間模様"
       }
     ],
     "totalPages": 39,

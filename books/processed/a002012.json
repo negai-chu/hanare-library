@@ -37,7 +37,8 @@
             "startPage": 361,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "道標の第一部"
       },
       {
         "id": "chapter-2",
@@ -57,7 +58,8 @@
             "startPage": 690,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "道標の第二部"
       },
       {
         "id": "chapter-3",
@@ -89,7 +91,8 @@
             "startPage": 1315,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "道標の第三部"
       },
       {
         "id": "chapter-4",
@@ -109,7 +112,8 @@
             "startPage": 1606,
             "endPage": 1623
           }
-        ]
+        ],
+        "summary": "関連資料"
       }
     ],
     "totalPages": 1623,

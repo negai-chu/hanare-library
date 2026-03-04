@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "品行方正な語り手の告白"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "隣室の気配への好奇"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "覗き見の誘惑"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 23,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "秘密の深まり"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 27,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "罪悪感との葛藤"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 35,
-            "endPage": 47
+            "endPage": 47,
+            "summary": "隣人の正体への接近"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 48,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "真相への手がかり"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 59,
-            "endPage": 67
+            "endPage": 67,
+            "summary": "秘密の結末"
           }
-        ]
+        ],
+        "summary": "隣室の客の秘密"
       }
     ],
     "totalPages": 67,

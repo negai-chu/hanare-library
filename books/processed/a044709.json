@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "国防と文化の講演の回顧"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 13,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "開戦後の文化的課題"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "戦争遂行と文化の力"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 21,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "国民精神の高揚"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 33,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "文化的抵抗力の涵養"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 45,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "芸術と戦意の関係"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 58,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "教育と文化の一体化"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 61,
-            "endPage": 63
+            "endPage": 63,
+            "summary": "科学技術と文化"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 64,
-            "endPage": 68
+            "endPage": 68,
+            "summary": "文化の国際的発信"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 69,
-            "endPage": 71
+            "endPage": 71,
+            "summary": "戦後文化への展望"
           }
-        ]
+        ],
+        "summary": "戦争と文化の不可分の関係"
       }
     ],
     "totalPages": 71,

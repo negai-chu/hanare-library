@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "温泉への道行き"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "松浦の浦の景色"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "歴史の跡を辿る"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "帰路の感懐"
           }
-        ]
+        ],
+        "summary": "松浦の温泉と山の旅"
       }
     ],
     "totalPages": 30,

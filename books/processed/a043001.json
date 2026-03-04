@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "新潟の暗い気候"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 36,
-            "endPage": 112
+            "endPage": 112,
+            "summary": "青年たちの集い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 113,
-            "endPage": 139
+            "endPage": 139,
+            "summary": "思想と恋愛の交錯"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 140,
-            "endPage": 232
+            "endPage": 232,
+            "summary": "吹雪の中の孤独"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 233,
-            "endPage": 331
+            "endPage": 331,
+            "summary": "人間関係の破綻"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 332,
-            "endPage": 406
+            "endPage": 406,
+            "summary": "精神の彷徨"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 407,
-            "endPage": 477
+            "endPage": 477,
+            "summary": "冬の終わりの予感"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 478,
-            "endPage": 485
+            "endPage": 485,
+            "summary": "別離と旅立ち"
           }
-        ]
+        ],
+        "summary": "雪国の青年たちの群像"
       }
     ],
     "totalPages": 485,

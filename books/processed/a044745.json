@@ -23,81 +23,95 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "演劇革新の精神と形式"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "大正期の戯曲運動"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "築地小劇場の意義"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 14,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "戯曲黄金時代の到来"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 17,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "作家群像と作品の特徴"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 19,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "戯曲の大衆化と変質"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 24,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "思想統制と戯曲の衰退"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 29,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "戦時下の演劇状況"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 33,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "戦後の戯曲の復興"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 39,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "第二の戯曲時代の特質"
           },
           {
             "id": "chapter-1-section-11",
             "number": "一一",
             "startPage": 42,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "新世代の作家たち"
           },
           {
             "id": "chapter-1-section-12",
             "number": "一二",
             "startPage": 50,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "現代戯曲の課題"
           },
           {
             "id": "chapter-1-section-13",
             "number": "一三",
             "startPage": 54,
-            "endPage": 56
+            "endPage": 56,
+            "summary": "戯曲文学の未来への展望"
           }
-        ]
+        ],
+        "summary": "二つの戯曲時代の変遷"
       }
     ],
     "totalPages": 56,

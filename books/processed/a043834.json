@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "個人主義と封建の闘争"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 8,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "美学体系の動揺"
           }
-        ]
+        ],
+        "summary": "美学の危機と映画の可能性"
       }
     ],
     "totalPages": 14,

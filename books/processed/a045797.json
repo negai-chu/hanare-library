@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "夜の海辺の霧と街燈"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 6,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "霧中の人影と邂逅"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 13,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "酒場での会話と孤独"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 19,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "波打際の散策と回想"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 24,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "夜明けの霧の晴れ間"
           }
-        ]
+        ],
+        "summary": "海辺の霧に包まれた夜"
       }
     ],
     "totalPages": 25,

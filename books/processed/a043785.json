@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "「論語」を読む人のために",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "論語を読むための手引き"
       },
       {
         "id": "chapter-2",
         "title": "訳註その他について",
         "startPage": 16,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "訳註の方針と凡例"
       },
       {
         "id": "chapter-3",
@@ -127,7 +129,8 @@
             "startPage": 28,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "学びの喜びと道徳"
       },
       {
         "id": "chapter-4",
@@ -279,7 +282,8 @@
             "startPage": 41,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "政治と人格の修養"
       },
       {
         "id": "chapter-5",
@@ -443,7 +447,8 @@
             "startPage": 58,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "礼楽の精神と実践"
       },
       {
         "id": "chapter-6",
@@ -607,7 +612,8 @@
             "startPage": 70,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "仁の道と人の在り方"
       },
       {
         "id": "chapter-7",
@@ -777,7 +783,8 @@
             "startPage": 91,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "人物評と才徳の判断"
       },
       {
         "id": "chapter-8",
@@ -953,7 +960,8 @@
             "startPage": 109,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "仁者の心と中庸の徳"
       },
       {
         "id": "chapter-9",
@@ -1183,7 +1191,8 @@
             "startPage": 129,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "学問の方法と聖人の道"
       },
       {
         "id": "chapter-10",
@@ -1317,7 +1326,8 @@
             "startPage": 141,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "大人の志と道義の守り"
       },
       {
         "id": "chapter-11",
@@ -1505,7 +1515,8 @@
             "startPage": 158,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "君子の嘆きと自省"
       },
       {
         "id": "chapter-12",
@@ -1621,7 +1632,8 @@
             "startPage": 167,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "聖人の日常と礼の実践"
       },
       {
         "id": "chapter-13",
@@ -1779,7 +1791,8 @@
             "startPage": 186,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "門人たちの才能と個性"
       },
       {
         "id": "chapter-14",
@@ -1931,7 +1944,8 @@
             "startPage": 209,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "仁と克己の実践"
       },
       {
         "id": "chapter-15",
@@ -2119,7 +2133,8 @@
             "startPage": 229,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "政治と正名の教え"
       },
       {
         "id": "chapter-16",
@@ -2409,7 +2424,8 @@
             "startPage": 261,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "賢人の処世と古今の評"
       },
       {
         "id": "chapter-17",
@@ -2663,7 +2679,8 @@
             "startPage": 283,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "仁と道の普遍的教え"
       },
       {
         "id": "chapter-18",
@@ -2755,7 +2772,8 @@
             "startPage": 295,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "君主の務めと礼楽"
       },
       {
         "id": "chapter-19",
@@ -2919,7 +2937,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "善悪の判断と教化"
       },
       {
         "id": "chapter-20",
@@ -2993,7 +3012,8 @@
             "startPage": 329,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "隠遁者の生き方"
       },
       {
         "id": "chapter-21",
@@ -3151,7 +3171,8 @@
             "startPage": 342,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "門人たちの学問観"
       },
       {
         "id": "chapter-22",
@@ -3177,7 +3198,8 @@
             "startPage": 347,
             "endPage": 347
           }
-        ]
+        ],
+        "summary": "堯舜の治世と天命"
       }
     ],
     "totalPages": 347,

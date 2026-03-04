@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "禰宜の暮らし"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 14,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "村の人々"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 23,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "季節の移ろい"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 42,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "信仰の形"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 58,
-            "endPage": 72
+            "endPage": 72,
+            "summary": "変化の兆し"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 73,
-            "endPage": 85
+            "endPage": 85,
+            "summary": "宮田の行末"
           }
-        ]
+        ],
+        "summary": "禰宜宮田の物語"
       }
     ],
     "totalPages": 85,

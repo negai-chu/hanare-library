@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "秋の松蔭の語らい"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 12,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "恋の告白と戸惑い"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 18,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "恋の行方"
           }
-        ]
+        ],
+        "summary": "恋に恋する青年たち"
       }
     ],
     "totalPages": 26,

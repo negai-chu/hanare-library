@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "瓜二つの兄弟"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 13,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "疣のある日々"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 18,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "疣をめぐる騒動"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 27,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "兄弟の顛末"
           }
-        ]
+        ],
+        "summary": "よく似た兄弟の疣の話"
       }
     ],
     "totalPages": 30,

@@ -23,45 +23,53 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "青春と夢の不可分の関係"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "夢の種類と意味"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "理想と現実の葛藤"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "憂欝の正体と克服"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 28,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "行動と夢の実現"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 31,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "青年期の精神的試練"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 37,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "夢を持ち続ける力"
           }
-        ]
+        ],
+        "summary": "青年の夢と憂欝の本質"
       }
     ],
     "totalPages": 40,

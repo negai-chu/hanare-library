@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "荒涼とした高原の異人"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 21,
-            "endPage": 47
+            "endPage": 47,
+            "summary": "村の反応と結末"
           }
-        ]
+        ],
+        "summary": "高原の村に現れた異人"
       }
     ],
     "totalPages": 47,

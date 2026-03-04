@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "老婦人と青年の午後"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 15,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "来客と人間関係の交錯"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 32,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "落葉の季節の別れ"
           }
-        ]
+        ],
+        "summary": "秋の別荘での人間模様"
       }
     ],
     "totalPages": 49,

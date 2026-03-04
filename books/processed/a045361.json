@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "旅の出発"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "風流な道中"
           }
-        ]
+        ],
+        "summary": "飲酒癖の旅の記録"
       }
     ],
     "totalPages": 15,

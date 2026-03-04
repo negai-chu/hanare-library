@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "古陶との出会い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "窯の歴史"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "色と形の美"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 24,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "職人の技"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 30,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "陶器の魂"
           }
-        ]
+        ],
+        "summary": "伊太利亜の古陶の美"
       }
     ],
     "totalPages": 39,

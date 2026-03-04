@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "幼なじみの三人"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "兄弟の葛藤"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "歌津子への想い"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "競い合う兄弟"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 18,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "青草のごとき結末"
           }
-        ]
+        ],
+        "summary": "杉兄弟と娘の青春"
       }
     ],
     "totalPages": 20,

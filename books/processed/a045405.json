@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "扇の不思議"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "訳あり気な装飾"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "藪の探索"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "謎の解明"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 27,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "藪のほとりの真実"
           }
-        ]
+        ],
+        "summary": "欄間の扇の謎を追う"
       }
     ],
     "totalPages": 36,

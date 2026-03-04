@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "買うのを躊躇する人に",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "冒険への誘い"
       },
       {
         "id": "chapter-2",
@@ -61,7 +62,8 @@
             "startPage": 57,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "謎の老海賊の来訪"
       },
       {
         "id": "chapter-3",
@@ -105,7 +107,8 @@
             "startPage": 114,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "船の料理番の正体"
       },
       {
         "id": "chapter-4",
@@ -131,7 +134,8 @@
             "startPage": 141,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "島での冒険の始まり"
       },
       {
         "id": "chapter-5",
@@ -175,7 +179,8 @@
             "startPage": 193,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "柵壁での攻防"
       },
       {
         "id": "chapter-6",
@@ -219,7 +224,8 @@
             "startPage": 247,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "海上での危難"
       },
       {
         "id": "chapter-7",
@@ -233,7 +239,8 @@
             "startPage": 258,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "船長の策略と決着"
       },
       {
         "id": "chapter-8",
@@ -283,7 +290,8 @@
             "startPage": 342,
             "endPage": 344
           }
-        ]
+        ],
+        "summary": "訳注と解説"
       }
     ],
     "totalPages": 344,

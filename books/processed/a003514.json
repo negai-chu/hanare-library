@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "七十年祭の集い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "幕末の志士たち"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "筑波の記憶"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "遺族の思い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 15,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "歴史の証言"
           }
-        ]
+        ],
+        "summary": "天狗党の遺族たち"
       }
     ],
     "totalPages": 17,

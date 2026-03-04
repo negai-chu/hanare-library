@@ -23,45 +23,53 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "源吉の漁場到着"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "漁場の過酷な日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "仲間との絆"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 30,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "搾取への怒り"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 36,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "鰊の群来"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 41,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "労働者の団結"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 50,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "漁場の春と闘い"
           }
-        ]
+        ],
+        "summary": "北海道の鰊漁場の過酷な労働"
       }
     ],
     "totalPages": 52,

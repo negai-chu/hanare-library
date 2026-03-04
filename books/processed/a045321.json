@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "マダムの病状"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 25,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "手紙の往来"
           }
-        ]
+        ],
+        "summary": "友の病と素朴な手紙"
       }
     ],
     "totalPages": 35,

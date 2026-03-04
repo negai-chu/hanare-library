@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "予報への世間の誤解"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "地震予報の困難"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "気象予報の仕組み"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "天文学的予報の精度"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 22,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "統計的予報の方法"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "科学と予報の将来"
           }
-        ]
+        ],
+        "summary": "予報の可能性と限界"
       }
     ],
     "totalPages": 28,

@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "泉のほとりの出会い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "約束の履行"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "魔法が解ける時"
           }
-        ]
+        ],
+        "summary": "蛙の王様と姫の約束"
       }
     ],
     "totalPages": 14,

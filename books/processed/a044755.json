@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "カザノヴァ回想録の翻訳動機"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "冒険家としての生涯"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "恋愛遍歴の背景"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "十八世紀ヨーロッパの世相"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "カザノヴァの知性と教養"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 25,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "人間像の総合的評価"
           }
-        ]
+        ],
+        "summary": "カザノヴァの人間像の考察"
       }
     ],
     "totalPages": 27,

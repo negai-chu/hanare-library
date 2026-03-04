@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "母の苛立ち"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "所在なき日常"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "毒気の正体"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 31,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "創作への渇望"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 45,
-            "endPage": 57
+            "endPage": 57,
+            "summary": "外出の試み"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 58,
-            "endPage": 79
+            "endPage": 79,
+            "summary": "毒気の帰結"
           }
-        ]
+        ],
+        "summary": "退屈に苛まれる日々"
       }
     ],
     "totalPages": 79,

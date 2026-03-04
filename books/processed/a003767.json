@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "物語の紹介"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "続きの考察"
           }
-        ]
+        ],
+        "summary": "古今の実話集"
       },
       {
         "id": "chapter-2",
         "title": "二　魂胆色遊懐男",
         "startPage": 10,
-        "endPage": 13
+        "endPage": 13,
+        "summary": "色道の書物の紹介"
       }
     ],
     "totalPages": 13,

@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "幾何学の定義"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 22,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "空間の先験性"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 37,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "非ユークリッド幾何学"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 54,
-            "endPage": 66
+            "endPage": 66,
+            "summary": "幾何学的空間の結論"
           }
-        ]
+        ],
+        "summary": "幾何学と空間の本質"
       }
     ],
     "totalPages": 66,

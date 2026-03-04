@@ -55,13 +55,15 @@
             "startPage": 53,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "決戦戦争の構想"
       },
       {
         "id": "chapter-2",
         "title": "第二部　「最終戦争論」に関する質疑回答",
         "startPage": 57,
-        "endPage": 98
+        "endPage": 98,
+        "summary": "最終戦争論への質疑"
       }
     ],
     "totalPages": 98,

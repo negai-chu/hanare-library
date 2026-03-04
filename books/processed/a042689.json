@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "跣足の少女時代の記憶"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 18,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "結婚と夫との暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 35,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "雨の中の最期の日々"
           }
-        ]
+        ],
+        "summary": "跣足を愛した女の生涯"
       }
     ],
     "totalPages": 48,

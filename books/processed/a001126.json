@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "盗人たちの宝争い"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "王女をめぐる冒険"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "宝の真の価値"
           }
-        ]
+        ],
+        "summary": "三つの魔法の宝物"
       }
     ],
     "totalPages": 17,

@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "人情噺の発端"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 21,
-            "endPage": 42
+            "endPage": 42,
+            "summary": "事件の展開"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 43,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "闇夜の結末"
           }
-        ]
+        ],
+        "summary": "闇夜に咲く梅の人情"
       }
     ],
     "totalPages": 53,

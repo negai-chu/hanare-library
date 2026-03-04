@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "谷底の炭焼き小屋"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "娘の日常の暮らし"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "山里の季節の移ろい"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 16,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "別れの時の訪れ"
           }
-        ]
+        ],
+        "summary": "山間の炭焼き小屋の娘"
       }
     ],
     "totalPages": 21,

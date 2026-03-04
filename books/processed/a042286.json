@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "翻訳者の序文"
       },
       {
         "id": "chapter-2",
         "title": "作者より",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "作者による前書き"
       },
       {
         "id": "chapter-3",
@@ -61,7 +63,8 @@
             "startPage": 59,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "カラマゾフ家の来歴"
       },
       {
         "id": "chapter-4",
@@ -117,7 +120,8 @@
             "startPage": 211,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "修道院での対面"
       },
       {
         "id": "chapter-5",
@@ -191,7 +195,8 @@
             "startPage": 405,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "情欲に溺れる者たち"
       },
       {
         "id": "chapter-6",
@@ -241,7 +246,8 @@
             "startPage": 534,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "危機と衝突の連鎖"
       },
       {
         "id": "chapter-7",
@@ -291,7 +297,8 @@
             "startPage": 731,
             "endPage": 752
           }
-        ]
+        ],
+        "summary": "信仰と懐疑の対話"
       }
     ],
     "totalPages": 752,

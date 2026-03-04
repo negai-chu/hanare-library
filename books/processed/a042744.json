@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "二つの文句の呪縛"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 17,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "自由への渇望"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 26,
-            "endPage": 37
+            "endPage": 37,
+            "summary": "社会との対峙"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 38,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "内面の苦悩"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 52,
-            "endPage": 78
+            "endPage": 78,
+            "summary": "孤独の中の思索"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 79,
-            "endPage": 91
+            "endPage": 91,
+            "summary": "生と死の境界"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 92,
-            "endPage": 106
+            "endPage": 106,
+            "summary": "新たな出発の予感"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 107,
-            "endPage": 131
+            "endPage": 131,
+            "summary": "人間関係の断絶"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 132,
-            "endPage": 146
+            "endPage": 146,
+            "summary": "自己との対話"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 147,
-            "endPage": 159
+            "endPage": 159,
+            "summary": "自由人の結末"
           }
-        ]
+        ],
+        "summary": "悲しみと自由の葛藤"
       }
     ],
     "totalPages": 159,

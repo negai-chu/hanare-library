@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "スキーの楽しみ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "鵞鳥のいる家"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "冬の日々"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "少女の心情"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 23,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "手帳の結び"
           }
-        ]
+        ],
+        "summary": "少女の手帳に綴る冬休み"
       }
     ],
     "totalPages": 27,

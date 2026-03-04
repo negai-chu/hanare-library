@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "梅雨の鬱屈と病状"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "療養生活の風景"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "橡の木への観察"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "文学と存在への思索"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 23,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "結びの感慨"
           }
-        ]
+        ],
+        "summary": "病床からの書簡と橡の花"
       }
     ],
     "totalPages": 27,

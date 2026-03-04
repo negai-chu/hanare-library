@@ -25,13 +25,15 @@
             "startPage": 4,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "やきものの時代考"
       },
       {
         "id": "chapter-2",
         "title": "形",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "器の形の妙味"
       },
       {
         "id": "chapter-3",
@@ -75,7 +77,8 @@
             "startPage": 17,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "釉薬の奥深さ"
       },
       {
         "id": "chapter-4",
@@ -101,7 +104,8 @@
             "startPage": 23,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "古さの魅力"
       },
       {
         "id": "chapter-5",
@@ -115,7 +119,8 @@
             "startPage": 27,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "手触りの味わい"
       },
       {
         "id": "chapter-6",
@@ -129,31 +134,36 @@
             "startPage": 30,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "土の質感の鑑賞"
       },
       {
         "id": "chapter-7",
         "title": "歪",
         "startPage": 32,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "歪みに宿る美"
       },
       {
         "id": "chapter-8",
         "title": "殘念物",
         "startPage": 35,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "惜しまれる逸品"
       },
       {
         "id": "chapter-9",
         "title": "先づ得よ",
         "startPage": 40,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "蒐集の第一歩"
       },
       {
         "id": "chapter-10",
         "title": "價",
         "startPage": 42,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "価値と値段の考察"
       },
       {
         "id": "chapter-11",
@@ -167,13 +177,15 @@
             "startPage": 47,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "蒐集の喜びを謳う"
       },
       {
         "id": "chapter-12",
         "title": "窓繪の土瓶",
         "startPage": 51,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "窓絵の土瓶の趣"
       },
       {
         "id": "chapter-13",
@@ -205,7 +217,8 @@
             "startPage": 61,
             "endPage": 61
           }
-        ]
+        ],
+        "summary": "焼物にまつわる夜話"
       }
     ],
     "totalPages": 61,

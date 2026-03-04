@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "教師生活への疲労"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "計算ずくの人間関係"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "金の貸し借りの顛末"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 18,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "人情と打算の交錯"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 24,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "計算通りにいかぬ人生"
           }
-        ]
+        ],
+        "summary": "戦後の教師と金銭の問題"
       }
     ],
     "totalPages": 33,

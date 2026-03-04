@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "カントの空間概念"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 18,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "数学的空間の分析"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 40,
-            "endPage": 54
+            "endPage": 54,
+            "summary": "物理的空間への展開"
           }
-        ]
+        ],
+        "summary": "カントの空間論考察"
       }
     ],
     "totalPages": 54,

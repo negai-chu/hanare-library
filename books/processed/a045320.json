@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "堅い土塊を砕く"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "アトリエの風景"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "モデルの心象"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 28,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "制作の進行"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 32,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "完成への道"
           }
-        ]
+        ],
+        "summary": "彫刻家のモデルの日々"
       }
     ],
     "totalPages": 38,

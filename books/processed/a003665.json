@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "南渡の背景"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "開発の進展"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "南方の発展"
           }
-        ]
+        ],
+        "summary": "東晋と南方開発の歴史"
       }
     ],
     "totalPages": 19,

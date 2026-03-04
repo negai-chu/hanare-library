@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "山麓の牧場の朝"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "山上の記念碑"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "バルバロッサの伝説"
           }
-        ]
+        ],
+        "summary": "独逸の古戦場と伝説"
       }
     ],
     "totalPages": 13,

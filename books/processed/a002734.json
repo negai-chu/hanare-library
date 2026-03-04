@@ -17,13 +17,15 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "ソヴェト文壇への序"
       },
       {
         "id": "chapter-2",
         "title": "「五ヵ年計画」",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "五ヵ年計画と文学"
       },
       {
         "id": "chapter-3",
@@ -49,13 +51,15 @@
             "startPage": 33,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "文学団体の社会的行軍"
       },
       {
         "id": "chapter-4",
         "title": "社会主義の勝利へ！",
         "startPage": 45,
-        "endPage": 54
+        "endPage": 54,
+        "summary": "社会主義の勝利へ"
       }
     ],
     "totalPages": 54,

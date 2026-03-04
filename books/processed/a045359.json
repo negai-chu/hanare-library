@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "小川の歌"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "剥製の世界"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "博物学の日々"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 14,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "標本の美"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 23,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "剥製の完成"
           }
-        ]
+        ],
+        "summary": "英詩と剥製の物語"
       }
     ],
     "totalPages": 35,

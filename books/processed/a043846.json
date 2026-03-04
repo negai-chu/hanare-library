@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "弘子の満ち足りた日常"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "夫婦の微妙なずれ"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "欲望の際限なさ"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "すべてを得る難しさ"
           }
-        ]
+        ],
+        "summary": "幸福の絶頂と思わぬ綻び"
       }
     ],
     "totalPages": 26,

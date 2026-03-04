@@ -23,39 +23,46 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "ひとりぼっちの狐"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "兵十の母の死"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "ごんの贈り物"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 12,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "届かぬ気持ち"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 15,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "続く償いの日々"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 17,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "悲しい結末"
           }
-        ]
+        ],
+        "summary": "いたずら狐の償いと孤独"
       }
     ],
     "totalPages": 18,

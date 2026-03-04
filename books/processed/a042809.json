@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "貨車破壊事件の発端"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "船上の盗難事件"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "犯人への接近"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "推理と対決"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "意外な正体"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 28,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "逮捕と脱出"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 36,
-            "endPage": 44
+            "endPage": 44,
+            "summary": "新たな変装"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 45,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "華麗なる結末"
           }
-        ]
+        ],
+        "summary": "怪盗ルパンの冒険"
       }
     ],
     "totalPages": 48,

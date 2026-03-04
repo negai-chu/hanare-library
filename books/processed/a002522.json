@@ -41,129 +41,151 @@
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 28,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "東京の新生活"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 36,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "文学への志向"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 42,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "人々との交流"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 52,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "芸術観の深化"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 60,
-            "endPage": 67
+            "endPage": 67,
+            "summary": "女性との出会い"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 68,
-            "endPage": 82
+            "endPage": 82,
+            "summary": "自我の模索"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 83,
-            "endPage": 99
+            "endPage": 99,
+            "summary": "師弟の邂逅"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 100,
-            "endPage": 116
+            "endPage": 116,
+            "summary": "文壇への接近"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 117,
-            "endPage": 130
+            "endPage": 130,
+            "summary": "思想の揺らぎ"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 131,
-            "endPage": 136
+            "endPage": 136,
+            "summary": "恋愛の兆し"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 137,
-            "endPage": 146
+            "endPage": 146,
+            "summary": "創作の苦悩"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 147,
-            "endPage": 158
+            "endPage": 158,
+            "summary": "都会の誘惑"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 159,
-            "endPage": 173
+            "endPage": 173,
+            "summary": "人生観の転機"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 174,
-            "endPage": 186
+            "endPage": 186,
+            "summary": "決意と彷徨"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 187,
-            "endPage": 192
+            "endPage": 192,
+            "summary": "友情の深まり"
           },
           {
             "id": "chapter-1-section-19",
             "number": "十九",
             "startPage": 193,
-            "endPage": 197
+            "endPage": 197,
+            "summary": "内面の葛藤"
           },
           {
             "id": "chapter-1-section-20",
             "number": "二十",
             "startPage": 198,
-            "endPage": 210
+            "endPage": 210,
+            "summary": "新たな出発"
           },
           {
             "id": "chapter-1-section-21",
             "number": "二十一",
             "startPage": 211,
-            "endPage": 221
+            "endPage": 221,
+            "summary": "試練の日々"
           },
           {
             "id": "chapter-1-section-22",
             "number": "二十二",
             "startPage": 222,
-            "endPage": 237
+            "endPage": 237,
+            "summary": "覚醒の予感"
           },
           {
             "id": "chapter-1-section-23",
             "number": "二十三",
             "startPage": 238,
-            "endPage": 254
+            "endPage": 254,
+            "summary": "運命の選択"
           },
           {
             "id": "chapter-1-section-24",
             "number": "二十四",
             "startPage": 255,
-            "endPage": 268
+            "endPage": 268,
+            "summary": "青年の決断"
           }
-        ]
+        ],
+        "summary": "青年の上京と探索"
       }
     ],
     "totalPages": 268,

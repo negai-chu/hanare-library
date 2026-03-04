@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "ゑほん",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "いぬとねこの絵本遊び"
       },
       {
         "id": "chapter-2",
@@ -29,27 +30,32 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 5,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "お散歩に出かける"
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "道中の出来事"
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 5,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "迷子になる騒動"
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "無事に家に帰る"
           }
-        ]
+        ],
+        "summary": "いぬとねこの散歩"
       }
     ],
     "totalPages": 6,

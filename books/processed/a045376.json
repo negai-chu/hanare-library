@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "ナンシーの訪問"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "日本語の稽古"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "タンタレスの春"
           }
-        ]
+        ],
+        "summary": "毎週通うナンシーとの交流"
       }
     ],
     "totalPages": 18,

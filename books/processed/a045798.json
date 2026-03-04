@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "星夜の街と博士の登場"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 10,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "博士の異様な実験室"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 19,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "退廃の哲学と独白"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 27,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "博士の最後の夜"
           }
-        ]
+        ],
+        "summary": "霓博士の奇矯な退廃生活"
       }
     ],
     "totalPages": 32,

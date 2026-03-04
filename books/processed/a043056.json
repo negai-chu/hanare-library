@@ -29,21 +29,25 @@
             "id": "chapter-1-section-2",
             "number": "一",
             "startPage": 4,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "列車消失の報告"
           },
           {
             "id": "chapter-1-section-3",
             "number": "二",
             "startPage": 13,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "捜索と推理"
           },
           {
             "id": "chapter-1-section-4",
             "number": "三",
             "startPage": 27,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "犯人の告白"
           }
-        ]
+        ],
+        "summary": "消えた臨時列車の謎"
       }
     ],
     "totalPages": 32,

@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "養狐場の衰退"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "手放す決心"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "買い手との交渉"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 20,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "理想と現実の乖離"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 28,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "それができたならば"
           }
-        ]
+        ],
+        "summary": "養狐場の主人と戦後の苦境"
       }
     ],
     "totalPages": 34,

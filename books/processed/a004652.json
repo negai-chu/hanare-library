@@ -23,51 +23,60 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "上野から日光へ"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "中禅寺湖畔の宿"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "華厳の滝の壮観"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "滝壺の轟音"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "周辺の散策"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 26,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "自然の威力"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 31,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "滝の変化する姿"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 37,
-            "endPage": 42
+            "endPage": 42,
+            "summary": "帰途の感慨"
           }
-        ]
+        ],
+        "summary": "華厳の滝の探訪"
       }
     ],
     "totalPages": 42,

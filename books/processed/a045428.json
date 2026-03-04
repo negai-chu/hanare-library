@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "旧作を読み返す"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 24,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "小川のほとりの思索"
           }
-        ]
+        ],
+        "summary": "過去の作品への羞恥"
       }
     ],
     "totalPages": 45,

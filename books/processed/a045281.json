@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "焼ける砂の上"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "海辺の仲間たち"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "夏の日の情景"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "砂浜の記憶"
           }
-        ]
+        ],
+        "summary": "灼熱の砂浜の青春"
       }
     ],
     "totalPages": 18,

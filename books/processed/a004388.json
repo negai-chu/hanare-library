@@ -23,123 +23,144 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "闇の中の目覚め"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "墓室からの声"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "滋賀津彦の記憶"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 23,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "姫の蓮糸の願い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 31,
-            "endPage": 36
+            "endPage": 36,
+            "summary": "当麻寺への道"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 37,
-            "endPage": 50
+            "endPage": 50,
+            "summary": "中将姫の信仰"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 51,
-            "endPage": 58
+            "endPage": 58,
+            "summary": "曼荼羅への祈り"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 59,
-            "endPage": 66
+            "endPage": 66,
+            "summary": "藤原南家の動揺"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 67,
-            "endPage": 76
+            "endPage": 76,
+            "summary": "死者の嘆き"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 77,
-            "endPage": 85
+            "endPage": 85,
+            "summary": "二上山の夕日"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 86,
-            "endPage": 93
+            "endPage": 93,
+            "summary": "写経と祈願"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 94,
-            "endPage": 99
+            "endPage": 99,
+            "summary": "春の訪れ"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 100,
-            "endPage": 106
+            "endPage": 106,
+            "summary": "機織る姫"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 107,
-            "endPage": 116
+            "endPage": 116,
+            "summary": "蓮の糸の奇跡"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 117,
-            "endPage": 122
+            "endPage": 122,
+            "summary": "曼荼羅の完成"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 123,
-            "endPage": 132
+            "endPage": 132,
+            "summary": "死者と生者の邂逅"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 133,
-            "endPage": 138
+            "endPage": 138,
+            "summary": "迎講の日"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 139,
-            "endPage": 145
+            "endPage": 145,
+            "summary": "練供養の行列"
           },
           {
             "id": "chapter-1-section-19",
             "number": "十九",
             "startPage": 146,
-            "endPage": 148
+            "endPage": 148,
+            "summary": "夕陽の極楽浄土"
           },
           {
             "id": "chapter-1-section-20",
             "number": "二十",
             "startPage": 149,
-            "endPage": 153
+            "endPage": 153,
+            "summary": "永遠の眠り"
           }
-        ]
+        ],
+        "summary": "古代の死者の目覚め"
       }
     ],
     "totalPages": 153,

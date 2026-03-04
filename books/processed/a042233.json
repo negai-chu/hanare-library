@@ -17,73 +17,85 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩集への序言"
       },
       {
         "id": "chapter-2",
         "title": "例言",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "凡例と方針"
       },
       {
         "id": "chapter-3",
         "title": "希望",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "未来への希望の歌"
       },
       {
         "id": "chapter-4",
         "title": "雲の歌",
         "startPage": 10,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "雲を歌った詩"
       },
       {
         "id": "chapter-5",
         "title": "星と花",
         "startPage": 19,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "星と花の対比"
       },
       {
         "id": "chapter-6",
         "title": "鷲",
         "startPage": 22,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "鷲の雄大さを詠む"
       },
       {
         "id": "chapter-7",
         "title": "萬有と詩人",
         "startPage": 26,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩人と万有の交感"
       },
       {
         "id": "chapter-8",
         "title": "はるのよ",
         "startPage": 43,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "春の夜の情趣"
       },
       {
         "id": "chapter-9",
         "title": "哀歌",
         "startPage": 46,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "悲しみの歌"
       },
       {
         "id": "chapter-10",
         "title": "海棠",
         "startPage": 52,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "海棠の花の美"
       },
       {
         "id": "chapter-11",
         "title": "無題",
         "startPage": 54,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "題なき詩の情感"
       },
       {
         "id": "chapter-12",
         "title": "詩人",
         "startPage": 57,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "詩人の使命"
       },
       {
         "id": "chapter-13",
@@ -115,19 +127,22 @@
             "startPage": 75,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "夕暮れの感慨"
       },
       {
         "id": "chapter-14",
         "title": "岸邊の櫻",
         "startPage": 80,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "川辺の桜を詠む"
       },
       {
         "id": "chapter-15",
         "title": "花一枝",
         "startPage": 83,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "一枝の花の美"
       },
       {
         "id": "chapter-16",
@@ -141,145 +156,169 @@
             "startPage": 87,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "夏の追憶"
       },
       {
         "id": "chapter-17",
         "title": "夏夜",
         "startPage": 91,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "夏の夜の情景"
       },
       {
         "id": "chapter-18",
         "title": "光",
         "startPage": 93,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "光への讃歌"
       },
       {
         "id": "chapter-19",
         "title": "月と戀",
         "startPage": 112,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "月と恋の詩"
       },
       {
         "id": "chapter-20",
         "title": "夕の星",
         "startPage": 115,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "宵の明星を仰ぐ"
       },
       {
         "id": "chapter-21",
         "title": "墓上の花",
         "startPage": 118,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "墓前に供える花"
       },
       {
         "id": "chapter-22",
         "title": "「暗」と「眠」",
         "startPage": 121,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "闇と眠りの思索"
       },
       {
         "id": "chapter-23",
         "title": "廣瀬川",
         "startPage": 125,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "広瀬川の流れ"
       },
       {
         "id": "chapter-24",
         "title": "籠鳥の感",
         "startPage": 129,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "籠の鳥の嘆き"
       },
       {
         "id": "chapter-25",
         "title": "馬前の夢",
         "startPage": 132,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "馬上の一睡の夢"
       },
       {
         "id": "chapter-26",
         "title": "花と星",
         "startPage": 154,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "花と星の照応"
       },
       {
         "id": "chapter-27",
         "title": "浮世の戀",
         "startPage": 157,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "浮世の恋の歌"
       },
       {
         "id": "chapter-28",
         "title": "登高",
         "startPage": 164,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "高みに登る詩"
       },
       {
         "id": "chapter-29",
         "title": "夜",
         "startPage": 167,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "夜の静寂を歌う"
       },
       {
         "id": "chapter-30",
         "title": "小兒",
         "startPage": 170,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "幼子への慈しみ"
       },
       {
         "id": "chapter-31",
         "title": "赤壁圖に題す",
         "startPage": 174,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "赤壁図に題した詩"
       },
       {
         "id": "chapter-32",
         "title": "夏の川",
         "startPage": 177,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "夏の川の情景"
       },
       {
         "id": "chapter-33",
         "title": "青葉城",
         "startPage": 180,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "青葉城址の詠嘆"
       },
       {
         "id": "chapter-34",
         "title": "人の世に",
         "startPage": 183,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "人の世の無常"
       },
       {
         "id": "chapter-35",
         "title": "紅葉青山水急流",
         "startPage": 186,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "紅葉と急流の詩"
       },
       {
         "id": "chapter-36",
         "title": "枯柳",
         "startPage": 199,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "枯れ柳の哀感"
       },
       {
         "id": "chapter-37",
         "title": "造化妙工",
         "startPage": 201,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "自然の巧みさ"
       },
       {
         "id": "chapter-38",
         "title": "靜夜吟",
         "startPage": 212,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "静夜の吟詠"
       },
       {
         "id": "chapter-39",
         "title": "哀樂",
         "startPage": 216,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "哀楽の交錯"
       },
       {
         "id": "chapter-40",
@@ -323,25 +362,29 @@
             "startPage": 251,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "諸葛孔明の最期"
       },
       {
         "id": "chapter-41",
         "title": "夕の磯",
         "startPage": 261,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "夕暮れの磯辺"
       },
       {
         "id": "chapter-42",
         "title": "暮鐘",
         "startPage": 264,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "暮れの鐘の響き"
       },
       {
         "id": "chapter-43",
         "title": "荒城の月",
         "startPage": 280,
-        "endPage": 282
+        "endPage": 282,
+        "summary": "荒城に昇る月"
       }
     ],
     "totalPages": 282,

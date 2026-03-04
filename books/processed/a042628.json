@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "山から降りてきた爺さん"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 5,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "爺さんと子供の友情"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "爺さんの不思議な力"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 12,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "春の訪れと爺さんの帰還"
           }
-        ]
+        ],
+        "summary": "山の爺さんと子供たちの交流"
       }
     ],
     "totalPages": 16,

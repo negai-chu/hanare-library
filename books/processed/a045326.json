@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "枳殻の生垣の秋"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "村の人々との交流"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "肉桂樹の思い出"
           }
-        ]
+        ],
+        "summary": "肉桂の木のある田舎"
       }
     ],
     "totalPages": 15,

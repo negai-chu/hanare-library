@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "久々の帰郷"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "渚の散策"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "故郷の変貌"
           }
-        ]
+        ],
+        "summary": "故郷に帰った純吉の渚"
       }
     ],
     "totalPages": 15,

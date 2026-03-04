@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "城への道と第一印象"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "城内の調度と甲冑"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "庭園と周囲の風景"
           }
-        ]
+        ],
+        "summary": "英国古城の壮麗と歴史"
       }
     ],
     "totalPages": 12,

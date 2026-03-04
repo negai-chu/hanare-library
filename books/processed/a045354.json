@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "西洋哲学への没頭"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "文学との邂逅"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "春の日々"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 28,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "青春の終わり"
           }
-        ]
+        ],
+        "summary": "文科学生の早春の回想"
       }
     ],
     "totalPages": 29,

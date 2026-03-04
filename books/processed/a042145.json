@@ -23,69 +23,81 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "夜の今戸の情景"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "遊女の境涯"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 19,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "男の苦悩"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 26,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "逢瀬の切なさ"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 32,
-            "endPage": 39
+            "endPage": 39,
+            "summary": "追い詰められる二人"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 40,
-            "endPage": 48
+            "endPage": 48,
+            "summary": "別離の予感"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 49,
-            "endPage": 56
+            "endPage": 56,
+            "summary": "決意の夜"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 57,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "最期への道行き"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 66,
-            "endPage": 74
+            "endPage": 74,
+            "summary": "心中の場面"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 75,
-            "endPage": 81
+            "endPage": 81,
+            "summary": "事件の後"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 82,
-            "endPage": 91
+            "endPage": 91,
+            "summary": "世間の反響"
           }
-        ]
+        ],
+        "summary": "遊女と男の悲恋"
       }
     ],
     "totalPages": 91,

@@ -23,63 +23,74 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "文化という言葉の由来"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 16
+            "endPage": 16,
+            "summary": "文化の広い意味"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "日本文化の特質"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "文化と生活の関係"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 28,
-            "endPage": 35
+            "endPage": 35,
+            "summary": "文化と教育の役割"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 36,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "文化と道徳の接点"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 39,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "文化の伝統と革新"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 44,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "国民文化の方向"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 50,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "文化運動の実践"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 52,
-            "endPage": 53
+            "endPage": 53,
+            "summary": "文化建設の展望"
           }
-        ]
+        ],
+        "summary": "文化の定義と国民生活"
       }
     ],
     "totalPages": 53,

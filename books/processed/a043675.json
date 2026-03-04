@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "自警録の執筆意図"
       },
       {
         "id": "chapter-2",
@@ -97,7 +98,8 @@
             "startPage": 28,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "男の独立と覚悟"
       },
       {
         "id": "chapter-3",
@@ -141,7 +143,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "一人前の仕事の基準"
       },
       {
         "id": "chapter-4",
@@ -197,7 +200,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "真の強さとは何か"
       },
       {
         "id": "chapter-5",
@@ -277,7 +281,8 @@
             "startPage": 72,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "柔和な外見と剛毅な内面"
       },
       {
         "id": "chapter-6",
@@ -333,7 +338,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "心を強くする修練"
       },
       {
         "id": "chapter-7",
@@ -389,7 +395,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "怖気を克服する方法"
       },
       {
         "id": "chapter-8",
@@ -451,7 +458,8 @@
             "startPage": 116,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "批判への対処の心得"
       },
       {
         "id": "chapter-9",
@@ -495,7 +503,8 @@
             "startPage": 129,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "成功者への嫉妬と反感"
       },
       {
         "id": "chapter-10",
@@ -551,7 +560,8 @@
             "startPage": 146,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "心身の独立の大切さ"
       },
       {
         "id": "chapter-11",
@@ -595,7 +605,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "人生の成功と失敗"
       },
       {
         "id": "chapter-12",
@@ -651,7 +662,8 @@
             "startPage": 172,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "人生の決勝点の見極め"
       },
       {
         "id": "chapter-13",
@@ -695,7 +707,8 @@
             "startPage": 185,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "人生の表裏を判断する眼"
       },
       {
         "id": "chapter-14",
@@ -733,7 +746,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "広く世を渡る処世術"
       },
       {
         "id": "chapter-15",
@@ -801,7 +815,8 @@
             "startPage": 216,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "報酬以上に働く姿勢"
       },
       {
         "id": "chapter-16",
@@ -839,7 +854,8 @@
             "startPage": 231,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "逆上を戒める教え"
       },
       {
         "id": "chapter-17",
@@ -889,7 +905,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "富と精神性の調和"
       },
       {
         "id": "chapter-18",
@@ -933,7 +950,8 @@
             "startPage": 262,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "実業の精神的昇華"
       },
       {
         "id": "chapter-19",
@@ -1001,7 +1019,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "見えぬ恩人への感謝"
       },
       {
         "id": "chapter-20",
@@ -1051,7 +1070,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "言葉の力と真意"
       },
       {
         "id": "chapter-21",
@@ -1113,7 +1133,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "忠告の取捨選択"
       },
       {
         "id": "chapter-22",
@@ -1151,7 +1172,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "清い感情と正しい思想"
       },
       {
         "id": "chapter-23",
@@ -1201,7 +1223,8 @@
             "startPage": 334,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "感情に基づく職業選択"
       },
       {
         "id": "chapter-24",
@@ -1233,7 +1256,8 @@
             "startPage": 343,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "若返りの精神的工夫"
       },
       {
         "id": "chapter-25",
@@ -1283,7 +1307,8 @@
             "startPage": 353,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "全力投球と心の余裕"
       },
       {
         "id": "chapter-26",
@@ -1333,7 +1358,8 @@
             "startPage": 365,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "理想と実現の距離"
       },
       {
         "id": "chapter-27",
@@ -1401,7 +1427,8 @@
             "startPage": 1,
             "endPage": 1
           }
-        ]
+        ],
+        "summary": "理想の実現する場所"
       },
       {
         "id": "chapter-28",
@@ -1463,7 +1490,8 @@
             "startPage": 402,
             "endPage": 404
           }
-        ]
+        ],
+        "summary": "夢の実用的活用法"
       }
     ],
     "totalPages": 404,

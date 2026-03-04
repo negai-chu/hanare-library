@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 4,
+            "summary": "人間存在と芸術の関係"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 5,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "身体と表現の結びつき"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 10,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "集団と個の芸術行為"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 14,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "芸術的人間の本質"
           }
-        ]
+        ],
+        "summary": "芸術の人間学的分析"
       }
     ],
     "totalPages": 18,

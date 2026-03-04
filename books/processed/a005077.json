@@ -23,15 +23,18 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 10
+            "endPage": 10,
+            "summary": "登山の道程"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 11,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "山頂の夜明け"
           }
-        ]
+        ],
+        "summary": "スイスの山上の一夜"
       }
     ],
     "totalPages": 15,

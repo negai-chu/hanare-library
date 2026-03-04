@@ -23,19 +23,22 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "古典研究と音韻学の基礎"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 34,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "上代特殊仮名遣の分析"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 66,
-            "endPage": 107
+            "endPage": 107,
+            "summary": "母音体系の復元"
           },
           {
             "id": "chapter-1-section-4",
@@ -43,7 +46,8 @@
             "startPage": 108,
             "endPage": 113
           }
-        ]
+        ],
+        "summary": "古代日本語の音韻体系の解説"
       }
     ],
     "totalPages": 113,

@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "北の大地への旅立ち"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 13,
-            "endPage": 22
+            "endPage": 22,
+            "summary": "入植の苦労"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 23,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "原野との格闘"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 35,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "仲間との絆"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 44,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "最初の冬"
           }
-        ]
+        ],
+        "summary": "開拓の始まり"
       },
       {
         "id": "chapter-2",
@@ -61,63 +67,74 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 57,
-            "endPage": 66
+            "endPage": 66,
+            "summary": "春の訪れ"
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 67,
-            "endPage": 74
+            "endPage": 74,
+            "summary": "農作業の日々"
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 75,
-            "endPage": 90
+            "endPage": 90,
+            "summary": "村の形成"
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 91,
-            "endPage": 106
+            "endPage": 106,
+            "summary": "困難との戦い"
           },
           {
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 107,
-            "endPage": 114
+            "endPage": 114,
+            "summary": "収穫の喜び"
           },
           {
             "id": "chapter-2-section-6",
             "number": "六",
             "startPage": 115,
-            "endPage": 125
+            "endPage": 125,
+            "summary": "冬支度"
           },
           {
             "id": "chapter-2-section-7",
             "number": "七",
             "startPage": 126,
-            "endPage": 137
+            "endPage": 137,
+            "summary": "隣人との助け合い"
           },
           {
             "id": "chapter-2-section-8",
             "number": "八",
             "startPage": 138,
-            "endPage": 147
+            "endPage": 147,
+            "summary": "子供たちの成長"
           },
           {
             "id": "chapter-2-section-9",
             "number": "九",
             "startPage": 148,
-            "endPage": 159
+            "endPage": 159,
+            "summary": "病との闘い"
           },
           {
             "id": "chapter-2-section-10",
             "number": "十",
             "startPage": 160,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "土地への愛着"
           }
-        ]
+        ],
+        "summary": "開拓地の暮らし"
       },
       {
         "id": "chapter-3",
@@ -129,69 +146,81 @@
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 172,
-            "endPage": 180
+            "endPage": 180,
+            "summary": "不作の年"
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 181,
-            "endPage": 189
+            "endPage": 189,
+            "summary": "厳しい寒さ"
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 190,
-            "endPage": 200
+            "endPage": 200,
+            "summary": "仲間の離脱"
           },
           {
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 201,
-            "endPage": 211
+            "endPage": 211,
+            "summary": "新たな入植者"
           },
           {
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 212,
-            "endPage": 225
+            "endPage": 225,
+            "summary": "災害の襲来"
           },
           {
             "id": "chapter-3-section-6",
             "number": "六",
             "startPage": 226,
-            "endPage": 238
+            "endPage": 238,
+            "summary": "復興への道"
           },
           {
             "id": "chapter-3-section-7",
             "number": "七",
             "startPage": 239,
-            "endPage": 247
+            "endPage": 247,
+            "summary": "志の再確認"
           },
           {
             "id": "chapter-3-section-8",
             "number": "八",
             "startPage": 248,
-            "endPage": 258
+            "endPage": 258,
+            "summary": "世代の交代"
           },
           {
             "id": "chapter-3-section-9",
             "number": "九",
             "startPage": 259,
-            "endPage": 268
+            "endPage": 268,
+            "summary": "変わる時代"
           },
           {
             "id": "chapter-3-section-10",
             "number": "十",
             "startPage": 269,
-            "endPage": 281
+            "endPage": 281,
+            "summary": "忍耐の実り"
           },
           {
             "id": "chapter-3-section-11",
             "number": "十一",
             "startPage": 282,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "開拓の精神"
           }
-        ]
+        ],
+        "summary": "試練の時代"
       },
       {
         "id": "chapter-4",
@@ -203,63 +232,74 @@
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 295,
-            "endPage": 306
+            "endPage": 306,
+            "summary": "村の発展"
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 307,
-            "endPage": 318
+            "endPage": 318,
+            "summary": "利害の対立"
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 319,
-            "endPage": 329
+            "endPage": 329,
+            "summary": "政治の波"
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 330,
-            "endPage": 340
+            "endPage": 340,
+            "summary": "変革の風"
           },
           {
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 341,
-            "endPage": 353
+            "endPage": 353,
+            "summary": "新旧の対立"
           },
           {
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 354,
-            "endPage": 364
+            "endPage": 364,
+            "summary": "和解への道"
           },
           {
             "id": "chapter-4-section-7",
             "number": "七",
             "startPage": 365,
-            "endPage": 379
+            "endPage": 379,
+            "summary": "共同体の力"
           },
           {
             "id": "chapter-4-section-8",
             "number": "八",
             "startPage": 380,
-            "endPage": 391
+            "endPage": 391,
+            "summary": "土地の権利"
           },
           {
             "id": "chapter-4-section-9",
             "number": "九",
             "startPage": 392,
-            "endPage": 404
+            "endPage": 404,
+            "summary": "未来への布石"
           },
           {
             "id": "chapter-4-section-10",
             "number": "十",
             "startPage": 405,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "石狩川と共に"
           }
-        ]
+        ],
+        "summary": "発展と葛藤"
       },
       {
         "id": "chapter-5",
@@ -271,57 +311,67 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 421,
-            "endPage": 430
+            "endPage": 430,
+            "summary": "時代の転換"
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 431,
-            "endPage": 441
+            "endPage": 441,
+            "summary": "若者の夢"
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 442,
-            "endPage": 452
+            "endPage": 452,
+            "summary": "老いた開拓者"
           },
           {
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 453,
-            "endPage": 464
+            "endPage": 464,
+            "summary": "受け継ぐ意志"
           },
           {
             "id": "chapter-5-section-5",
             "number": "五",
             "startPage": 465,
-            "endPage": 475
+            "endPage": 475,
+            "summary": "北の大地の実り"
           },
           {
             "id": "chapter-5-section-6",
             "number": "六",
             "startPage": 476,
-            "endPage": 487
+            "endPage": 487,
+            "summary": "変わりゆく風景"
           },
           {
             "id": "chapter-5-section-7",
             "number": "七",
             "startPage": 488,
-            "endPage": 499
+            "endPage": 499,
+            "summary": "石狩川の流れ"
           },
           {
             "id": "chapter-5-section-8",
             "number": "八",
             "startPage": 500,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "開拓の遺産"
           }
-        ]
+        ],
+        "summary": "新しい時代へ"
       },
       {
         "id": "chapter-6",
         "title": "あとがき",
         "startPage": 512,
-        "endPage": 513
+        "endPage": 513,
+        "summary": "著者のあとがき"
       }
     ],
     "totalPages": 513,

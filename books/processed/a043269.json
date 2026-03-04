@@ -23,111 +23,130 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "新住職の赴任"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "村の人々との交流"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "奇蹟の噂の広がり"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 21,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "信仰と疑惑"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 25,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "僧の過去の秘密"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 30,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "病人への祈祷"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 34,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "村の変化"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 42,
-            "endPage": 52
+            "endPage": 52,
+            "summary": "信者の増加"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 53,
-            "endPage": 56
+            "endPage": 56,
+            "summary": "対立と葛藤"
           },
           {
             "id": "chapter-1-section-10",
             "number": "十",
             "startPage": 57,
-            "endPage": 59
+            "endPage": 59,
+            "summary": "僧の苦悩"
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 60,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "新たな奇蹟"
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 66,
-            "endPage": 68
+            "endPage": 68,
+            "summary": "信仰の危機"
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 69,
-            "endPage": 73
+            "endPage": 73,
+            "summary": "世間の注目"
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 74,
-            "endPage": 75
+            "endPage": 75,
+            "summary": "真相への接近"
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 76,
-            "endPage": 78
+            "endPage": 78,
+            "summary": "内面の告白"
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 79,
-            "endPage": 85
+            "endPage": 85,
+            "summary": "最後の試練"
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 86,
-            "endPage": 91
+            "endPage": 91,
+            "summary": "決断の時"
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 92,
-            "endPage": 94
+            "endPage": 94,
+            "summary": "僧の最期"
           }
-        ]
+        ],
+        "summary": "無住寺の僧の奇蹟"
       }
     ],
     "totalPages": 94,

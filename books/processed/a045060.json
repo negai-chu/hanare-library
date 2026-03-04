@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "旅の始まり"
       },
       {
         "id": "chapter-2",
@@ -29,21 +30,25 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 5,
-            "endPage": 6
+            "endPage": 6,
+            "summary": "旅立ちの朝"
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "盗賊の登場"
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "危機の脱出"
           }
-        ]
+        ],
+        "summary": "盗賊との遭遇"
       },
       {
         "id": "chapter-3",
@@ -55,9 +60,11 @@
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "夜鳴き鵞鳥の謎"
           }
-        ]
+        ],
+        "summary": "鵞鳥の不思議な鳴き声"
       },
       {
         "id": "chapter-4",
@@ -69,27 +76,32 @@
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 22,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "三人の出会い"
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 24,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "道化の企み"
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 28,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "混乱の顛末"
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "騒動の決着"
           }
-        ]
+        ],
+        "summary": "盲人たちと道化の騒動"
       },
       {
         "id": "chapter-5",
@@ -101,27 +113,32 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 36,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "悪魔の出現"
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 39,
-            "endPage": 41
+            "endPage": 41,
+            "summary": "逃走の始まり"
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 42,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "追跡と策略"
           },
           {
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 44,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "逃亡の結末"
           }
-        ]
+        ],
+        "summary": "悪魔との逃避行"
       },
       {
         "id": "chapter-6",
@@ -133,21 +150,25 @@
             "id": "chapter-6-section-1",
             "number": "一",
             "startPage": 49,
-            "endPage": 51
+            "endPage": 51,
+            "summary": "男と羊の出発"
           },
           {
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 52,
-            "endPage": 54
+            "endPage": 54,
+            "summary": "道中の騒動"
           },
           {
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 55,
-            "endPage": 0
+            "endPage": 0,
+            "summary": "珍道中の結末"
           }
-        ]
+        ],
+        "summary": "太った男と羊の珍道中"
       },
       {
         "id": "chapter-7",
@@ -159,21 +180,25 @@
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 58,
-            "endPage": 60
+            "endPage": 60,
+            "summary": "死神の訪れ"
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 61,
-            "endPage": 62
+            "endPage": 62,
+            "summary": "老婆の知恵"
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 63,
-            "endPage": 65
+            "endPage": 65,
+            "summary": "対決の決着"
           }
-        ]
+        ],
+        "summary": "死神と老婆の対決"
       }
     ],
     "totalPages": 65,

@@ -23,99 +23,116 @@
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "おしゃれなかかしの登場"
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
             "startPage": 4,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "にわとりがやって来る"
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
             "startPage": 6,
-            "endPage": 7
+            "endPage": 7,
+            "summary": "あひるさんの悪戯"
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
             "startPage": 8,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "うさぎさんとの出会い"
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
             "startPage": 10,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "お猫さんの訪問"
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
             "startPage": 12,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "いぬさんの挑戦"
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
             "startPage": 14,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "からすの悪だくみ"
           },
           {
             "id": "chapter-1-section-8",
             "number": "８",
             "startPage": 16,
-            "endPage": 17
+            "endPage": 17,
+            "summary": "かかしの反撃"
           },
           {
             "id": "chapter-1-section-9",
             "number": "９",
             "startPage": 18,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "お友達の応援"
           },
           {
             "id": "chapter-1-section-10",
             "number": "10",
             "startPage": 20,
-            "endPage": 21
+            "endPage": 21,
+            "summary": "みんなで仲直り"
           },
           {
             "id": "chapter-1-section-11",
             "number": "11",
             "startPage": 22,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "雨の日の出来事"
           },
           {
             "id": "chapter-1-section-12",
             "number": "12",
             "startPage": 24,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "風に吹かれて"
           },
           {
             "id": "chapter-1-section-13",
             "number": "13",
             "startPage": 26,
-            "endPage": 27
+            "endPage": 27,
+            "summary": "夕暮れの畑"
           },
           {
             "id": "chapter-1-section-14",
             "number": "14",
             "startPage": 28,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "お月様との対話"
           },
           {
             "id": "chapter-1-section-15",
             "number": "15",
             "startPage": 31,
-            "endPage": 32
+            "endPage": 32,
+            "summary": "朝露のなかで"
           },
           {
             "id": "chapter-1-section-16",
             "number": "16",
             "startPage": 33,
-            "endPage": 34
+            "endPage": 34,
+            "summary": "かかしの幸せな日々"
           }
-        ]
+        ],
+        "summary": "かかしの愉快な冒険"
       }
     ],
     "totalPages": 34,

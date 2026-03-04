@@ -23,33 +23,39 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 13
+            "endPage": 13,
+            "summary": "唯心的な生活"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 14,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "幻の花園"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 27,
-            "endPage": 30
+            "endPage": 30,
+            "summary": "風に吹かれて"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 31,
-            "endPage": 40
+            "endPage": 40,
+            "summary": "熱気の高まり"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 41,
-            "endPage": 49
+            "endPage": 49,
+            "summary": "風の去った後"
           }
-        ]
+        ],
+        "summary": "茫漠たる心に吹く熱い風"
       }
     ],
     "totalPages": 49,

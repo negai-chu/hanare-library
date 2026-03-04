@@ -17,7 +17,8 @@
         "id": "chapter-1",
         "title": "散文詩について",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 0,
+        "summary": "散文詩論"
       },
       {
         "id": "chapter-2",
@@ -463,7 +464,8 @@
             "startPage": 54,
             "endPage": 0
           }
-        ]
+        ],
+        "summary": "宿命の散文詩"
       },
       {
         "id": "chapter-3",
@@ -477,7 +479,8 @@
             "startPage": 62,
             "endPage": 88
           }
-        ]
+        ],
+        "summary": "附録の収録作"
       }
     ],
     "totalPages": 88,

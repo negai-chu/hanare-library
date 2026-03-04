@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "花と水の夕景"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 19,
-            "endPage": 25
+            "endPage": 25,
+            "summary": "蜻蛉の飛翔"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 26,
-            "endPage": 31
+            "endPage": 31,
+            "summary": "茜色の記憶"
           }
-        ]
+        ],
+        "summary": "茜蜻蛉と湧水の情景"
       }
     ],
     "totalPages": 31,

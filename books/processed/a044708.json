@@ -23,69 +23,81 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 8,
+            "summary": "文化は国土と歴史の所産"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 12
+            "endPage": 12,
+            "summary": "日本の地理的条件と文化"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "神話と歴史の精神"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 19
+            "endPage": 19,
+            "summary": "大和魂の本質"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 23
+            "endPage": 23,
+            "summary": "日本の芸術精神"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 24,
-            "endPage": 26
+            "endPage": 26,
+            "summary": "日本語と文化の関係"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 27,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "礼儀作法の文化的意味"
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 30,
-            "endPage": 33
+            "endPage": 33,
+            "summary": "武士道の精神的伝統"
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 34,
-            "endPage": 38
+            "endPage": 38,
+            "summary": "外来文化の摂取と消化"
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 39,
-            "endPage": 43
+            "endPage": 43,
+            "summary": "近代化と文化の変容"
           },
           {
             "id": "chapter-1-section-11",
             "number": "一一",
             "startPage": 44,
-            "endPage": 47
+            "endPage": 47,
+            "summary": "新しい日本文化の創造"
           }
-        ]
+        ],
+        "summary": "日本文化の固有性と世界性"
       }
     ],
     "totalPages": 47,

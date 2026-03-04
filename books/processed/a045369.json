@@ -23,27 +23,32 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 5
+            "endPage": 5,
+            "summary": "酒造所の客"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 15
+            "endPage": 15,
+            "summary": "膜翅類の採集"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 16,
-            "endPage": 18
+            "endPage": 18,
+            "summary": "夜の幻視"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 24
+            "endPage": 24,
+            "summary": "夜見の世界"
           }
-        ]
+        ],
+        "summary": "鬼涙村での蜂の採集"
       }
     ],
     "totalPages": 24,

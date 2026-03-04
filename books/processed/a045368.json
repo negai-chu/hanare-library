@@ -23,21 +23,25 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "狐と短銃"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 15,
-            "endPage": 20
+            "endPage": 20,
+            "summary": "男装の女"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 29
+            "endPage": 29,
+            "summary": "山中の出来事"
           }
-        ]
+        ],
+        "summary": "糧食庫の番人と美女"
       }
     ],
     "totalPages": 29,

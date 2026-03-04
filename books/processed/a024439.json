@@ -23,45 +23,53 @@
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 3,
+            "summary": "虎狩りの発端"
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 9
+            "endPage": 9,
+            "summary": "朝鮮の少年時代"
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 11
+            "endPage": 11,
+            "summary": "趙の豪胆な性格"
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 12,
-            "endPage": 14
+            "endPage": 14,
+            "summary": "猟の準備と山入り"
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 15,
-            "endPage": 28
+            "endPage": 28,
+            "summary": "虎との遭遇"
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 29,
-            "endPage": 45
+            "endPage": 45,
+            "summary": "狩りの顛末"
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 46,
-            "endPage": 54
+            "endPage": 54,
+            "summary": "趙のその後の消息"
           }
-        ]
+        ],
+        "summary": "朝鮮での虎狩りの記憶"
       }
     ],
     "totalPages": 54,
