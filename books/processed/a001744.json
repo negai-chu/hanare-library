@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "古街",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "黄昏の古い街の詩"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 81,
-    "chapterTitles": []
+    "chapterTitles": [
+      "古街"
+    ]
   },
   "content": [
     {

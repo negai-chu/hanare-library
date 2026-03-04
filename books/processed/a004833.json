@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "日記",
         "startPage": 1,
-        "endPage": 81,
+        "endPage": 77,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "〔家廟祭祀行事〕",
-            "startPage": 78,
-            "endPage": 79
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "〔旅行記録〕",
-            "startPage": 80,
-            "endPage": 81
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 81,
-    "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "totalPages": 77,
+    "averageCharsPerPage": 474,
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -498,34 +500,8 @@
     },
     {
       "pageNumber": 77,
-      "content": "十二月三十一日（木曜）\n　三ガ日は私も遊びたいからと云って、今夜十二時すぎまで仕事す。\n\n　女中夜なかに、前のつり橋を渡って髪結いに出かける下駄の音だけがどうやら大晦日らしい。\n\n　昨年の今日は、三時頃までＹと神楽坂を歩いて居た。\n\n　今日と松の内を暮そうとして来る客大分殺到す。子供沢山。あっちこっちで子供の声がする。",
-      "characters": 160,
-      "ruby": []
-    },
-    {
-      "pageNumber": 78,
-      "content": "〔家廟祭祀行事〕",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 79,
-      "content": "　十二月十八日　　祖母上",
-      "characters": 12,
-      "ruby": []
-    },
-    {
-      "pageNumber": 80,
-      "content": "〔旅行記録〕",
-      "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 81,
-      "content": "　京都\n\n　奈良\n\n　鎌倉明月谷\n\n　京都",
-      "characters": 21,
+      "content": "十二月三十一日（木曜）\n　三ガ日は私も遊びたいからと云って、今夜十二時すぎまで仕事す。\n\n　女中夜なかに、前のつり橋を渡って髪結いに出かける下駄の音だけがどうやら大晦日らしい。\n\n　昨年の今日は、三時頃までＹと神楽坂を歩いて居た。\n\n　今日と松の内を暮そうとして来る客大分殺到す。子供沢山。あっちこっちで子供の声がする。〔家廟祭祀行事〕　十二月十八日　　祖母上〔旅行記録〕　京都\n\n　奈良\n\n　鎌倉明月谷\n\n　京都",
+      "characters": 207,
       "ruby": []
     }
   ]

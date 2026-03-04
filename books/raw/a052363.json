@@ -30,7 +30,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "好古小言"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 4,
       "content": "（第二号）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,

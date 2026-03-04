@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "我を愛する歌",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 17
       },
       {
         "id": "chapter-3",
         "title": "煙",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 90,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 90
           }
         ]
       },
@@ -49,13 +49,13 @@
         "id": "chapter-4",
         "title": "秋風のこころよさに",
         "startPage": 91,
-        "endPage": 0
+        "endPage": 108
       },
       {
         "id": "chapter-5",
         "title": "忘れがたき人人",
         "startPage": 109,
-        "endPage": 0,
+        "endPage": 154,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -67,7 +67,7 @@
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 147,
-            "endPage": 0
+            "endPage": 154
           }
         ]
       },

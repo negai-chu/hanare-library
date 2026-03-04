@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "山景",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -83,7 +83,7 @@
             "id": "chapter-1-section-11",
             "number": "遠樹",
             "startPage": 40,
-            "endPage": 0
+            "endPage": 43
           }
         ]
       },
@@ -91,7 +91,7 @@
         "id": "chapter-2",
         "title": "海光",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 82,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -163,7 +163,7 @@
             "id": "chapter-2-section-12",
             "number": "生洲",
             "startPage": 80,
-            "endPage": 0
+            "endPage": 82
           }
         ]
       },

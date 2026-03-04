@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "明治四十四年",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 4,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "乘鞍岳を憶ふ",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 4
           }
         ]
       },
@@ -31,7 +31,7 @@
         "id": "chapter-2",
         "title": "明治四十五年",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 15,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -49,7 +49,7 @@
             "id": "chapter-2-section-3",
             "number": "病中雜咏（補遺）",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 15
           }
         ]
       },

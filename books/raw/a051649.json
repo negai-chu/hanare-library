@@ -36,7 +36,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 388,
-    "chapterTitles": []
+    "chapterTitles": [
+      "野菊の花"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 9,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

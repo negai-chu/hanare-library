@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "公判",
         "startPage": 1,
-        "endPage": 25,
-        "summary": "法廷の出来事"
+        "endPage": 25
       }
     ],
     "totalPages": 25,
     "averageCharsPerPage": 473,
-    "chapterTitles": []
+    "chapterTitles": [
+      "公判"
+    ]
   },
   "content": [
     {

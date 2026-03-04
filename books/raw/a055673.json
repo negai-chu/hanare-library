@@ -96,7 +96,9 @@
     ],
     "totalPages": 48,
     "averageCharsPerPage": 428,
-    "chapterTitles": []
+    "chapterTitles": [
+      "暗夜"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "（その一）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -135,8 +136,7 @@
       "pageNumber": 6,
       "content": "（その二）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -154,8 +154,7 @@
       "pageNumber": 9,
       "content": "（その三）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -179,8 +178,7 @@
       "pageNumber": 13,
       "content": "（その四）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -204,8 +202,7 @@
       "pageNumber": 17,
       "content": "（その五）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -229,8 +226,7 @@
       "pageNumber": 21,
       "content": "（その六）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -260,8 +256,7 @@
       "pageNumber": 26,
       "content": "（その七）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -279,8 +274,7 @@
       "pageNumber": 29,
       "content": "（その八）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -304,8 +298,7 @@
       "pageNumber": 33,
       "content": "（その九）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -335,8 +328,7 @@
       "pageNumber": 38,
       "content": "（その十）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -360,8 +352,7 @@
       "pageNumber": 42,
       "content": "（その十一）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -391,8 +382,7 @@
       "pageNumber": 47,
       "content": "（その十二）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,

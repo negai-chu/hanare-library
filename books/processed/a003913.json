@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "日記",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "夜の古い家の情景"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 525,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {

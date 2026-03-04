@@ -30,7 +30,9 @@
     ],
     "totalPages": 94,
     "averageCharsPerPage": 442,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -578,8 +580,7 @@
       "pageNumber": 91,
       "content": "〔備忘録〕",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "散歩",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "夫婦の散歩のひととき"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "散歩"
+    ]
   },
   "content": [
     {

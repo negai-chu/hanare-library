@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "１　少年",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "２　ケブネカイセのアッカ",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -61,7 +61,7 @@
             "id": "chapter-2-section-3",
             "number": "ガンのいたずら",
             "startPage": 62,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },
@@ -69,7 +69,7 @@
         "id": "chapter-3",
         "title": "３　野の鳥の生活",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 104,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -87,7 +87,7 @@
             "id": "chapter-3-section-3",
             "number": "エーヴェードスクローステル公園にて",
             "startPage": 87,
-            "endPage": 0
+            "endPage": 104
           }
         ]
       },
@@ -95,7 +95,7 @@
         "id": "chapter-4",
         "title": "４　グリンミンゲ城《じょう》",
         "startPage": 105,
-        "endPage": 0,
+        "endPage": 133,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -113,7 +113,7 @@
             "id": "chapter-4-section-3",
             "number": "ネズミつかい",
             "startPage": 126,
-            "endPage": 0
+            "endPage": 133
           }
         ]
       },
@@ -121,55 +121,55 @@
         "id": "chapter-5",
         "title": "５　ツルの大舞踏会《だいぶとうかい》",
         "startPage": 134,
-        "endPage": 0
+        "endPage": 153
       },
       {
         "id": "chapter-6",
         "title": "６　雨の日に",
         "startPage": 154,
-        "endPage": 0
+        "endPage": 164
       },
       {
         "id": "chapter-7",
         "title": "７　三つの段々《だんだん》",
         "startPage": 165,
-        "endPage": 0
+        "endPage": 173
       },
       {
         "id": "chapter-8",
         "title": "８　ロンネビュー川",
         "startPage": 174,
-        "endPage": 0
+        "endPage": 190
       },
       {
         "id": "chapter-9",
         "title": "９　カールスクローナ市",
         "startPage": 191,
-        "endPage": 0
+        "endPage": 205
       },
       {
         "id": "chapter-10",
         "title": "10　エーランド島《とう》へ",
         "startPage": 206,
-        "endPage": 0
+        "endPage": 215
       },
       {
         "id": "chapter-11",
         "title": "11　エーランド島《とう》の南のはし",
         "startPage": 216,
-        "endPage": 0
+        "endPage": 230
       },
       {
         "id": "chapter-12",
         "title": "12　大きなチョウ",
         "startPage": 231,
-        "endPage": 0
+        "endPage": 239
       },
       {
         "id": "chapter-13",
         "title": "13　小カール島《とう》",
         "startPage": 240,
-        "endPage": 0,
+        "endPage": 264,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -195,7 +195,7 @@
         "id": "chapter-14",
         "title": "14　二つの都《みやこ》",
         "startPage": 265,
-        "endPage": 0,
+        "endPage": 289,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -215,13 +215,13 @@
         "id": "chapter-15",
         "title": "15　スモーランドの言いつたえ",
         "startPage": 290,
-        "endPage": 0
+        "endPage": 300
       },
       {
         "id": "chapter-16",
         "title": "16　カラス",
         "startPage": 301,
-        "endPage": 0,
+        "endPage": 340,
         "sections": [
           {
             "id": "chapter-16-section-1",
@@ -239,7 +239,7 @@
             "id": "chapter-16-section-3",
             "number": "小屋",
             "startPage": 331,
-            "endPage": 0
+            "endPage": 340
           }
         ]
       },
@@ -247,19 +247,19 @@
         "id": "chapter-17",
         "title": "17　百姓《ひゃくしょう》のおばあさん",
         "startPage": 341,
-        "endPage": 0
+        "endPage": 362
       },
       {
         "id": "chapter-18",
         "title": "18　ターベルイからフースクヴァルナまで",
         "startPage": 363,
-        "endPage": 0
+        "endPage": 372
       },
       {
         "id": "chapter-19",
         "title": "19　大きな鳥の湖《みずうみ》",
         "startPage": 373,
-        "endPage": 0,
+        "endPage": 407,
         "sections": [
           {
             "id": "chapter-19-section-1",
@@ -285,13 +285,13 @@
         "id": "chapter-20",
         "title": "20　予言《よげん》",
         "startPage": 408,
-        "endPage": 0
+        "endPage": 417
       },
       {
         "id": "chapter-21",
         "title": "21　珍《めず》らしい拾《ひろ》いもの",
         "startPage": 418,
-        "endPage": 0
+        "endPage": 425
       },
       {
         "id": "chapter-22",

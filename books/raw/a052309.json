@@ -36,7 +36,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 504,
-    "chapterTitles": []
+    "chapterTitles": [
+      "動員挿話（二幕）"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 3,
       "content": "第一幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -141,8 +142,7 @@
       "pageNumber": 17,
       "content": "第二幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "部屋の中",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "部屋の中の静かな時間"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 167,
-    "chapterTitles": []
+    "chapterTitles": [
+      "部屋の中"
+    ]
   },
   "content": [
     {

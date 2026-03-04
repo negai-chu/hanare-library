@@ -48,7 +48,9 @@
     ],
     "totalPages": 9,
     "averageCharsPerPage": 235,
-    "chapterTitles": []
+    "chapterTitles": [
+      "江戸の玩具"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "浅草の飛んだり跳《はね》たり",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "亀戸《かめいど》の首振《くびふり》人形　一名つるし",
       "characters": 25,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -88,8 +88,7 @@
       "pageNumber": 6,
       "content": "今戸《いまど》の土人形",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -101,8 +100,7 @@
       "pageNumber": 8,
       "content": "柳原《やなぎわら》の福寿狸《ふくじゅだぬき》　柳森神社",
       "characters": 27,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 49,
     "averageCharsPerPage": 278,
-    "chapterTitles": []
+    "chapterTitles": [
+      "四十不惑"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "綺麗なタイピストの群",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 13,
       "content": "英語の先生とお茶の先生",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -226,8 +226,7 @@
       "pageNumber": 29,
       "content": "契機の芙蓉模様",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -293,8 +292,7 @@
       "pageNumber": 40,
       "content": "一人々々への註文",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 81,
     "averageCharsPerPage": 483,
-    "chapterTitles": []
+    "chapterTitles": [
+      "誰でもない……自分でもない"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -201,8 +202,7 @@
       "pageNumber": 25,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -316,8 +316,7 @@
       "pageNumber": 44,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -437,8 +436,7 @@
       "pageNumber": 64,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,

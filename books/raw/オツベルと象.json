@@ -42,7 +42,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 333,
-    "chapterTitles": []
+    "chapterTitles": [
+      "オツベルと象"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "第一日曜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "第二日曜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -124,8 +124,7 @@
       "pageNumber": 13,
       "content": "第五日曜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

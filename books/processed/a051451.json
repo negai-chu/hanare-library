@@ -17,67 +17,67 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "岡の上で",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-3",
         "title": "秋",
         "startPage": 9,
-        "endPage": 0
+        "endPage": 11
       },
       {
         "id": "chapter-4",
         "title": "妻の柩",
         "startPage": 12,
-        "endPage": 0
+        "endPage": 16
       },
       {
         "id": "chapter-5",
         "title": "武蔵野の夕暮",
         "startPage": 17,
-        "endPage": 0
+        "endPage": 21
       },
       {
         "id": "chapter-6",
         "title": "三番叟の舞",
         "startPage": 22,
-        "endPage": 0
+        "endPage": 24
       },
       {
         "id": "chapter-7",
         "title": "一人",
         "startPage": 25,
-        "endPage": 0
+        "endPage": 31
       },
       {
         "id": "chapter-8",
         "title": "独り坐つて",
         "startPage": 32,
-        "endPage": 0
+        "endPage": 35
       },
       {
         "id": "chapter-9",
         "title": "夕日のあたる丘",
         "startPage": 36,
-        "endPage": 0
+        "endPage": 41
       },
       {
         "id": "chapter-10",
         "title": "戦争に際して思ふ",
         "startPage": 42,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "二　自己と人界",
             "startPage": 44,
-            "endPage": 0
+            "endPage": 50
           }
         ]
       },

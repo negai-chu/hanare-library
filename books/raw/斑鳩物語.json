@@ -42,7 +42,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 383,
-    "chapterTitles": []
+    "chapterTitles": [
+      "斑鳩物語"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 12,
       "content": "中",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -160,8 +160,7 @@
       "pageNumber": 19,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,

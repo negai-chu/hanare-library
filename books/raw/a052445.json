@@ -42,7 +42,9 @@
     ],
     "totalPages": 31,
     "averageCharsPerPage": 229,
-    "chapterTitles": []
+    "chapterTitles": [
+      "下頭橋由来"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "飯櫃《いいびつ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 11,
       "content": "漬物倉",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -184,8 +184,7 @@
       "pageNumber": 23,
       "content": "大根月夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

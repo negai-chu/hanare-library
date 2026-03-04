@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "【第一回】",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 22,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 22
           }
         ]
       },
@@ -49,7 +49,7 @@
         "id": "chapter-2",
         "title": "【第二回】",
         "startPage": 23,
-        "endPage": 0,
+        "endPage": 46,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -79,7 +79,7 @@
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 39,
-            "endPage": 0
+            "endPage": 46
           }
         ]
       },

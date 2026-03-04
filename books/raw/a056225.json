@@ -78,7 +78,9 @@
     ],
     "totalPages": 81,
     "averageCharsPerPage": 486,
-    "chapterTitles": []
+    "chapterTitles": [
+      "来訪者"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -189,8 +190,7 @@
       "pageNumber": 18,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -202,8 +202,7 @@
       "pageNumber": 20,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -245,8 +244,7 @@
       "pageNumber": 27,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -288,8 +286,7 @@
       "pageNumber": 34,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -337,8 +334,7 @@
       "pageNumber": 42,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -404,8 +400,7 @@
       "pageNumber": 53,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -471,8 +466,7 @@
       "pageNumber": 64,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -508,8 +502,7 @@
       "pageNumber": 70,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,

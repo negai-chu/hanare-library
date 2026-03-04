@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "手紙",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "温泉宿からの手紙"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 513,
-    "chapterTitles": []
+    "chapterTitles": [
+      "手紙"
+    ]
   },
   "content": [
     {

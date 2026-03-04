@@ -17,80 +17,79 @@
         "id": "chapter-1",
         "title": "優しき歌",
         "startPage": 2,
-        "endPage": 56,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "序の歌",
-            "startPage": 24,
-            "endPage": 26
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "爽やかな五月に",
-            "startPage": 27,
-            "endPage": 29
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "落葉林で",
-            "startPage": 30,
-            "endPage": 32
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "さびしき野辺",
-            "startPage": 33,
-            "endPage": 35
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "夢のあと",
-            "startPage": 36,
-            "endPage": 38
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-6",
             "number": "また落葉林で",
-            "startPage": 39,
-            "endPage": 41
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-7",
             "number": "朝に",
-            "startPage": 42,
-            "endPage": 44
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-8",
             "number": "また昼に",
-            "startPage": 45,
-            "endPage": 47
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-9",
             "number": "午後に",
-            "startPage": 48,
-            "endPage": 50
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-10",
             "number": "樹木の影に",
-            "startPage": 51,
-            "endPage": 53
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-11",
             "number": "夢見たものは‥‥",
-            "startPage": 54,
-            "endPage": 56
+            "startPage": 1,
+            "endPage": 1
           }
-        ],
-        "summary": "優しき歌の詩篇"
+        ]
       }
     ],
-    "totalPages": 56,
-    "averageCharsPerPage": 103,
+    "totalPages": 45,
+    "averageCharsPerPage": 129,
     "chapterTitles": [
       "優しき歌"
     ]
@@ -232,215 +231,138 @@
     },
     {
       "pageNumber": 23,
-      "content": "さう！　花は　またひらくであらう\n\nさうして鳥は　かはらずに啼いて\n\n人びとは春のなかに笑みかはすであらう\n\n今は　二月　雪の面《おも》につづいた\n\n私の　みだれた足跡……それだけ\n\nたつたそれだけ――私には……\n\n優しき歌　",
-      "characters": 113,
+      "content": "さう！　花は　またひらくであらう\n\nさうして鳥は　かはらずに啼いて\n\n人びとは春のなかに笑みかはすであらう\n\n今は　二月　雪の面《おも》につづいた\n\n私の　みだれた足跡……それだけ\n\nたつたそれだけ――私には……\n\n優しき歌　序の歌",
+      "characters": 116,
       "ruby": []
     },
     {
       "pageNumber": 24,
-      "content": "序の歌",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 25,
       "content": "しづかな歌よ　ゆるやかに\n\nおまへは　どこから　来て\n\nどこへ　私を過ぎて\n\n消えて　行く？\n\n夕映が一日を終らせよう\n\nと　するときに――\n\n星が　力なく　空にみち\n\nかすかに囁きはじめるときに\n\nそして　高まつて　むせび泣く",
       "characters": 114,
       "ruby": []
     },
     {
-      "pageNumber": 26,
-      "content": "絃《げん》のやうに　おまへ　優しい歌よ\n\n私のうちの　どこに　住む？\n\nそれをどうして　おまへのうちに\n\n私は　かへさう　夜ふかく\n\n明るい闇の　みちるときに？",
-      "characters": 80,
+      "pageNumber": 25,
+      "content": "絃《げん》のやうに　おまへ　優しい歌よ\n\n私のうちの　どこに　住む？\n\nそれをどうして　おまへのうちに\n\n私は　かへさう　夜ふかく\n\n明るい闇の　みちるときに？爽やかな五月に",
+      "characters": 87,
       "ruby": []
     },
     {
-      "pageNumber": 27,
-      "content": "爽やかな五月に",
-      "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 28,
+      "pageNumber": 26,
       "content": "月の光のこぼれるやうに　おまへの頬に\n\n溢れた　涙の大きな粒が　すぢを曳いたとて\n\n私は　どうして　それをささへよう！\n\nおまへは　私を　だまらせた……\n\n星よ　おまへはかがやかしい\n\n花よ　おまへは美しかつた\n\n小鳥よ　おまへは優しかつた\n\n……私は語つた おまへの耳に　幾たびも\n\nだが　たつた一度も　言ひはしなかつた",
       "characters": 161,
       "ruby": []
     },
     {
-      "pageNumber": 29,
-      "content": "私は　おまへを　愛してゐる　と\n\nおまへは　私を　愛してゐるか　と\n\nはじめての薔薇が　ひらくやうに\n\n泣きやめた　おまへの頬に　笑ひがうかんだとて\n\n私の心を　どこにおかう？",
-      "characters": 88,
+      "pageNumber": 27,
+      "content": "私は　おまへを　愛してゐる　と\n\nおまへは　私を　愛してゐるか　と\n\nはじめての薔薇が　ひらくやうに\n\n泣きやめた　おまへの頬に　笑ひがうかんだとて\n\n私の心を　どこにおかう？落葉林で",
+      "characters": 92,
       "ruby": []
     },
     {
-      "pageNumber": 30,
-      "content": "落葉林で",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 31,
+      "pageNumber": 28,
       "content": "あのやうに\n\nあの雲が　赤く\n\n光のなかで\n\n死に絶えて行つた\n\n私は　身を凭《もた》せてゐる\n\nおまへは　だまつて　脊を向けてゐる\n\nごらん　かへりおくれた\n\n鳥が一羽　低く飛んでゐる\n\n私らに　一日が",
       "characters": 102,
       "ruby": []
     },
     {
-      "pageNumber": 32,
-      "content": "はてしなく　長かつたやうに\n\n雲に　鳥に\n\nそして　あの夕ぐれの花たちに\n\n私らの　短いいのちが\n\nどれだけ　ねたましく　おもへるだらうか",
-      "characters": 69,
+      "pageNumber": 29,
+      "content": "はてしなく　長かつたやうに\n\n雲に　鳥に\n\nそして　あの夕ぐれの花たちに\n\n私らの　短いいのちが\n\nどれだけ　ねたましく　おもへるだらうかさびしき野辺",
+      "characters": 75,
       "ruby": []
     },
     {
-      "pageNumber": 33,
-      "content": "さびしき野辺",
-      "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 34,
+      "pageNumber": 30,
       "content": "いま　だれかが　私に\n\n花の名を　ささやいて行つた\n\n私の耳に　風が　それを告げた\n\n追憶の日のやうに\n\nいま　だれかが　しづかに\n\n身をおこす　私のそばに\n\nもつれ飛ぶ　ちひさい蝶らに\n\n手をさしのべるやうに\n\nああ　しかし　と",
       "characters": 115,
       "ruby": []
     },
     {
-      "pageNumber": 35,
-      "content": "なぜ私は　いふのだらう\n\nそのひとは　だれでもいい　と\n\nいま　だれかが　とほく\n\n私の名を　呼んでゐる……ああ　しかし\n\n私は答へない　おまへ　だれでもないひとに",
-      "characters": 82,
+      "pageNumber": 31,
+      "content": "なぜ私は　いふのだらう\n\nそのひとは　だれでもいい　と\n\nいま　だれかが　とほく\n\n私の名を　呼んでゐる……ああ　しかし\n\n私は答へない　おまへ　だれでもないひとに夢のあと",
+      "characters": 86,
       "ruby": []
     },
     {
-      "pageNumber": 36,
-      "content": "夢のあと",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 37,
+      "pageNumber": 32,
       "content": "おまへの　心は\n\nわからなくなつた\n\n私の　こころは\n\nわからなくなつた\n\nかけた月が　空のなかばに\n\nかかつてゐる　梢のあひだに――\n\nいつか　風が　やんでゐる\n\n蚊の鳴く声が　かすかにきこえる\n\nそれは　そのまま　過ぎるだらう！",
       "characters": 116,
       "ruby": []
     },
     {
-      "pageNumber": 38,
-      "content": "私らのまはりの　この　しづかな夜\n\nきつといつかは　（あれはむかしのことだつた）と\n\n私らの　こころが　おもひかえすだけならば！　……\n\nおまへの心は　わからなくなつた\n\n私のこころは　わからなくなつた",
-      "characters": 101,
+      "pageNumber": 33,
+      "content": "私らのまはりの　この　しづかな夜\n\nきつといつかは　（あれはむかしのことだつた）と\n\n私らの　こころが　おもひかえすだけならば！　……\n\nおまへの心は　わからなくなつた\n\n私のこころは　わからなくなつたまた落葉林で",
+      "characters": 107,
       "ruby": []
     },
     {
-      "pageNumber": 39,
-      "content": "また落葉林で",
-      "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 40,
+      "pageNumber": 34,
       "content": "いつの間に　もう秋！　昨日は\n\n夏だつた……おだやかな陽気な\n\n陽ざしが　林のなかに　ざわめいてゐる\n\nひとところ　草の葉のゆれるあたりに\n\nおまへが私のところからかへつて行つたときに\n\nあのあたりには　うすい紫の花が咲いてゐた\n\nそしていま　おまへは　告げてよこす\n\n私らは別離に耐へることが出来る　と\n\n澄んだ空に　大きなひびきが",
       "characters": 167,
       "ruby": []
     },
     {
-      "pageNumber": 41,
-      "content": "鳴りわたる　出発のやうに\n\n私は雲を見る　私はとほい山脈《やまなみ》を見る\n\nおまへは雲を見る　おまへはとほい山脈を見る\n\nしかしすでに　離れはじめた　ふたつの眼《まな》ざし……\n\nかへつて来て　みたす日は　いつかへり来る？",
-      "characters": 112,
+      "pageNumber": 35,
+      "content": "鳴りわたる　出発のやうに\n\n私は雲を見る　私はとほい山脈《やまなみ》を見る\n\nおまへは雲を見る　おまへはとほい山脈を見る\n\nしかしすでに　離れはじめた　ふたつの眼《まな》ざし……\n\nかへつて来て　みたす日は　いつかへり来る？朝に",
+      "characters": 114,
       "ruby": []
     },
     {
-      "pageNumber": 42,
-      "content": "朝に",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 43,
+      "pageNumber": 36,
       "content": "おまへの心が　明るい花の\n\nひとむれのやうに　いつも\n\n眼ざめた僕の心に　はなしかける\n\nひとときの朝の　この澄んだ空　青い空\n\n傷ついた　僕の心から\n\n棘《とげ》を抜いてくれたのは　おまへの心の\n\nあどけない　ほほゑみだ　そして\n\n他愛もない　おまへの心の　おしやべりだ\n\nああ　風が吹いてゐる　涼しい風だ",
       "characters": 154,
       "ruby": []
     },
     {
-      "pageNumber": 44,
-      "content": "草や　木の葉や　せせらぎが\n\nこたへるやうに　ざわめいてゐる\n\nあたらしく　すべては　生れた！\n\n霧がこぼれて　かわいて行くとき\n\n小鳥が　蝶が　昼に高く舞ひあがる",
-      "characters": 82,
+      "pageNumber": 37,
+      "content": "草や　木の葉や　せせらぎが\n\nこたへるやうに　ざわめいてゐる\n\nあたらしく　すべては　生れた！\n\n霧がこぼれて　かわいて行くとき\n\n小鳥が　蝶が　昼に高く舞ひあがるまた昼に",
+      "characters": 86,
       "ruby": []
     },
     {
-      "pageNumber": 45,
-      "content": "また昼に",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 46,
+      "pageNumber": 38,
       "content": "僕はもう　はるかな青空やながされる浮雲のことを\n\nうたはないだらう……\n\n昼の　白い光のなかで\n\nおまへは　僕のかたはらに立つてゐる\n\n花でなく　小鳥でなく\n\nかぎりない　おまへの愛を\n\n信じたなら　それでよい\n\n僕は　おまへを　見つめるばかりだ\n\nいつまでも　さうして　ほほゑんでゐるがいい",
       "characters": 146,
       "ruby": []
     },
     {
-      "pageNumber": 47,
-      "content": "老いた旅人や　夜　はるかな昔を　どうして\n\nうたふことがあらう　おまへのために\n\nさへぎるものもない　光のなかで\n\nおまへは　僕は　生きてゐる\n\nここがすべてだ！　……僕らのせまい身のまはりに",
-      "characters": 96,
+      "pageNumber": 39,
+      "content": "老いた旅人や　夜　はるかな昔を　どうして\n\nうたふことがあらう　おまへのために\n\nさへぎるものもない　光のなかで\n\nおまへは　僕は　生きてゐる\n\nここがすべてだ！　……僕らのせまい身のまはりに午後に",
+      "characters": 99,
       "ruby": []
     },
     {
-      "pageNumber": 48,
-      "content": "午後に",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 49,
+      "pageNumber": 40,
       "content": "さびしい足拍子を踏んで\n\n山羊《やぎ》は　しづかに　草を　食べてゐる\n\nあの緑の食物は　私らのそれにまして\n\nどんなにか　美しい食事だらう！\n\n私の飢ゑは　しかし　あれに\n\nたどりつくことは出来ない\n\n私の心は　もつとさびしく　ふるへてゐる\n\n私のおかした　あやまちと　いつはりのために\n\nおだやかな獣の瞳に　うつつた",
       "characters": 159,
       "ruby": []
     },
     {
-      "pageNumber": 50,
-      "content": "空の色を　見るがいい！\n\n〈私には　何が　ある？\n\n〈私には　何が　ある？\n\nああ　さびしい足拍子を踏んで\n\n山羊は　しづかに　草を　食べてゐる",
-      "characters": 72,
+      "pageNumber": 41,
+      "content": "空の色を　見るがいい！\n\n〈私には　何が　ある？\n\n〈私には　何が　ある？\n\nああ　さびしい足拍子を踏んで\n\n山羊は　しづかに　草を　食べてゐる樹木の影に",
+      "characters": 77,
       "ruby": []
     },
     {
-      "pageNumber": 51,
-      "content": "樹木の影に",
-      "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 52,
+      "pageNumber": 42,
       "content": "日々のなかでは\n\nあはれに　目立たなかつた\n\nあの言葉　いま　それは\n\n大きくなつた！\n\nおまへの裡に\n\n僕のなかに　育つたのだ\n\n……外に光が充ち溢れてゐるが\n\nそれにもまして　かがやいてゐる\n\nいま　僕たちは憩《いこ》ふ",
       "characters": 112,
       "ruby": []
     },
     {
-      "pageNumber": 53,
-      "content": "ふたりして持つ　この深い耳に\n\n意味ふかく　風はささやいて過ぎる\n\n泉の上に　ちひさい波らは\n\nふるへてやまない……僕たちの\n\n手にとらへられた　光のために",
-      "characters": 78,
+      "pageNumber": 43,
+      "content": "ふたりして持つ　この深い耳に\n\n意味ふかく　風はささやいて過ぎる\n\n泉の上に　ちひさい波らは\n\nふるへてやまない……僕たちの\n\n手にとらへられた　光のために夢見たものは‥‥",
+      "characters": 86,
       "ruby": []
     },
     {
-      "pageNumber": 54,
-      "content": "夢見たものは‥‥",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 55,
+      "pageNumber": 44,
       "content": "夢見たものは　ひとつの幸福\n\nねがつたものは　ひとつの愛\n\n山なみのあちらにも　しづかな村がある\n\n明るい日曜日の　青い空がある\n\n日傘をさした　田舎の娘らが\n\n着かざつて　唄をうたつてゐる\n\n大きなまるい輪をかいて\n\n田舎の娘らが　踊ををどつてゐる\n\n告げて　うたつてゐるのは",
       "characters": 139,
       "ruby": []
     },
     {
-      "pageNumber": 56,
+      "pageNumber": 45,
       "content": "青い翼の一羽の　小鳥\n\n低い枝で　うたつてゐる\n\n夢みたものは　ひとつの愛\n\nねがつたものは　ひとつの幸福\n\nそれらはすべてここに　ある　と",
       "characters": 70,
       "ruby": []

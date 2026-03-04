@@ -108,7 +108,9 @@
     ],
     "totalPages": 61,
     "averageCharsPerPage": 399,
-    "chapterTitles": []
+    "chapterTitles": [
+      "現代語訳　平家物語"
+    ]
   },
   "content": [
     {
@@ -122,8 +124,7 @@
       "pageNumber": 2,
       "content": "北国下向",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 6,
       "content": "竹生島《ちくぶしま》詣《もうで》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -166,8 +166,7 @@
       "pageNumber": 9,
       "content": "火打《ひうち》合戦",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -185,8 +184,7 @@
       "pageNumber": 12,
       "content": "願書",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -210,8 +208,7 @@
       "pageNumber": 16,
       "content": "倶利迦羅落し",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -235,8 +232,7 @@
       "pageNumber": 20,
       "content": "篠原合戦",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -266,8 +262,7 @@
       "pageNumber": 25,
       "content": "実盛の最後",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -291,8 +286,7 @@
       "pageNumber": 29,
       "content": "牒状《ちょうじょう》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -322,8 +316,7 @@
       "pageNumber": 34,
       "content": "主上都落",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -353,8 +346,7 @@
       "pageNumber": 39,
       "content": "維盛都落",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -390,8 +382,7 @@
       "pageNumber": 45,
       "content": "忠度《ただのり》の都落",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -415,8 +406,7 @@
       "pageNumber": 49,
       "content": "経正《つねまさ》都落",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -446,8 +436,7 @@
       "pageNumber": 54,
       "content": "一門都落",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -483,8 +472,7 @@
       "pageNumber": 60,
       "content": "福原落",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,

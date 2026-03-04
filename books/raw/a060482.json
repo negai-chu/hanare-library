@@ -60,7 +60,9 @@
     ],
     "totalPages": 38,
     "averageCharsPerPage": 471,
-    "chapterTitles": []
+    "chapterTitles": [
+      "紅い花"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -129,8 +130,7 @@
       "pageNumber": 11,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -148,8 +148,7 @@
       "pageNumber": 14,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -185,8 +184,7 @@
       "pageNumber": 20,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -240,8 +238,7 @@
       "pageNumber": 29,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -271,8 +268,7 @@
       "pageNumber": 34,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,

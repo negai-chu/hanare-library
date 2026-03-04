@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "「推理小説」",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "事件と推理の構造"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 447,
-    "chapterTitles": []
+    "chapterTitles": [
+      "「推理小説」"
+    ]
   },
   "content": [
     {

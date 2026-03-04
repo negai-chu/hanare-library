@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "虎の話",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "父と子の虎の話"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 279,
-    "chapterTitles": []
+    "chapterTitles": [
+      "虎の話"
+    ]
   },
   "content": [
     {

@@ -54,7 +54,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 528,
-    "chapterTitles": []
+    "chapterTitles": [
+      "土から手が"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 10,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -160,8 +160,7 @@
       "pageNumber": 17,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -221,8 +220,7 @@
       "pageNumber": 27,
       "content": "４",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -270,8 +268,7 @@
       "pageNumber": 35,
       "content": "５",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,

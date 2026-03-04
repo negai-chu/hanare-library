@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "力",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-2-section-11",
             "number": "枯草ぐるま",
             "startPage": 12,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -97,7 +97,7 @@
         "id": "chapter-3",
         "title": "三崎新居",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -139,7 +139,7 @@
             "id": "chapter-3-section-7",
             "number": "生きの身",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 19
           }
         ]
       },
@@ -147,7 +147,7 @@
         "id": "chapter-4",
         "title": "雲母雲",
         "startPage": 20,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -207,7 +207,7 @@
             "id": "chapter-4-section-10",
             "number": "遊ヶ崎遊泳",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 29
           }
         ]
       },
@@ -215,7 +215,7 @@
         "id": "chapter-5",
         "title": "山海経",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -275,7 +275,7 @@
             "id": "chapter-5-section-10",
             "number": "深夜",
             "startPage": 40,
-            "endPage": 0
+            "endPage": 40
           }
         ]
       },
@@ -283,7 +283,7 @@
         "id": "chapter-6",
         "title": "自然静観",
         "startPage": 41,
-        "endPage": 0,
+        "endPage": 46,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -313,7 +313,7 @@
             "id": "chapter-6-section-5",
             "number": "急須と茶碗",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 46
           }
         ]
       },
@@ -321,7 +321,7 @@
         "id": "chapter-7",
         "title": "地面と野菜",
         "startPage": 48,
-        "endPage": 0,
+        "endPage": 55,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -363,7 +363,7 @@
             "id": "chapter-7-section-7",
             "number": "秋高し",
             "startPage": 55,
-            "endPage": 0
+            "endPage": 55
           }
         ]
       },
@@ -371,7 +371,7 @@
         "id": "chapter-8",
         "title": "深夜抄",
         "startPage": 56,
-        "endPage": 0,
+        "endPage": 60,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -401,7 +401,7 @@
             "id": "chapter-8-section-5",
             "number": "二本の棕梠",
             "startPage": 59,
-            "endPage": 0
+            "endPage": 60
           }
         ]
       },
@@ -409,7 +409,7 @@
         "id": "chapter-9",
         "title": "臨海秋景",
         "startPage": 61,
-        "endPage": 0,
+        "endPage": 68,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -445,7 +445,7 @@
             "id": "chapter-9-section-6",
             "number": "油壺晩景",
             "startPage": 68,
-            "endPage": 0
+            "endPage": 68
           }
         ]
       },
@@ -453,7 +453,7 @@
         "id": "chapter-10",
         "title": "法悦三品",
         "startPage": 69,
-        "endPage": 0,
+        "endPage": 74,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -471,7 +471,7 @@
             "id": "chapter-10-section-3",
             "number": "遠樹抄",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 74
           }
         ]
       },
@@ -479,7 +479,7 @@
         "id": "chapter-11",
         "title": "閻魔の反射",
         "startPage": 76,
-        "endPage": 0,
+        "endPage": 84,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -545,7 +545,7 @@
             "id": "chapter-11-section-11",
             "number": "赤き鳥居",
             "startPage": 84,
-            "endPage": 0
+            "endPage": 84
           }
         ]
       },
@@ -553,7 +553,7 @@
         "id": "chapter-12",
         "title": "見桃寺抄",
         "startPage": 85,
-        "endPage": 0,
+        "endPage": 95,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -613,7 +613,7 @@
             "id": "chapter-12-section-10",
             "number": "三崎遺抄",
             "startPage": 94,
-            "endPage": 0
+            "endPage": 95
           }
         ]
       },

@@ -48,7 +48,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 482,
-    "chapterTitles": []
+    "chapterTitles": [
+      "山彦の街"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 11,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -172,8 +172,7 @@
       "pageNumber": 20,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -215,8 +214,7 @@
       "pageNumber": 27,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

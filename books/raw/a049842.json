@@ -264,7 +264,9 @@
     ],
     "totalPages": 86,
     "averageCharsPerPage": 160,
-    "chapterTitles": []
+    "chapterTitles": [
+      "恢復期"
+    ]
   },
   "content": [
     {
@@ -284,8 +286,7 @@
       "pageNumber": 3,
       "content": "一九二八年六月七日（熱海）",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -303,8 +304,7 @@
       "pageNumber": 6,
       "content": "六月十七日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -316,8 +316,7 @@
       "pageNumber": 8,
       "content": "六月二十四日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -329,8 +328,7 @@
       "pageNumber": 10,
       "content": "六月二十五日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -342,8 +340,7 @@
       "pageNumber": 12,
       "content": "六月二十六日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -355,8 +352,7 @@
       "pageNumber": 14,
       "content": "六月二十八日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -368,8 +364,7 @@
       "pageNumber": 16,
       "content": "六月三十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -381,8 +376,7 @@
       "pageNumber": 18,
       "content": "七月一日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -394,8 +388,7 @@
       "pageNumber": 20,
       "content": "七月二日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -407,8 +400,7 @@
       "pageNumber": 22,
       "content": "七月四日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -420,8 +412,7 @@
       "pageNumber": 24,
       "content": "七月五日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -433,8 +424,7 @@
       "pageNumber": 26,
       "content": "七月九日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -446,8 +436,7 @@
       "pageNumber": 28,
       "content": "七月十日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -459,8 +448,7 @@
       "pageNumber": 30,
       "content": "七月十三日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -472,8 +460,7 @@
       "pageNumber": 32,
       "content": "七月十四日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -485,8 +472,7 @@
       "pageNumber": 34,
       "content": "七月十六日（父の手紙）",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -504,8 +490,7 @@
       "pageNumber": 37,
       "content": "七月十八日（卯女子の返事）",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -517,8 +502,7 @@
       "pageNumber": 39,
       "content": "七月十九日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -530,8 +514,7 @@
       "pageNumber": 41,
       "content": "七月二十一日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -543,8 +526,7 @@
       "pageNumber": 43,
       "content": "七月二十二日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -556,8 +538,7 @@
       "pageNumber": 45,
       "content": "七月二十四日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -569,8 +550,7 @@
       "pageNumber": 47,
       "content": "七月二十五日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -588,8 +568,7 @@
       "pageNumber": 50,
       "content": "七月二十六日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -601,8 +580,7 @@
       "pageNumber": 52,
       "content": "七月二十七日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -614,8 +592,7 @@
       "pageNumber": 54,
       "content": "七月二十九日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -627,8 +604,7 @@
       "pageNumber": 56,
       "content": "七月三十一日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -640,8 +616,7 @@
       "pageNumber": 58,
       "content": "八月一日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -653,8 +628,7 @@
       "pageNumber": 60,
       "content": "八月六日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -666,8 +640,7 @@
       "pageNumber": 62,
       "content": "八月九日（軽井沢）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -679,8 +652,7 @@
       "pageNumber": 64,
       "content": "八月十三日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -692,8 +664,7 @@
       "pageNumber": 66,
       "content": "八月十四日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -705,8 +676,7 @@
       "pageNumber": 68,
       "content": "八月十六日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -718,8 +688,7 @@
       "pageNumber": 70,
       "content": "八月十八日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -731,8 +700,7 @@
       "pageNumber": 72,
       "content": "八月十九日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -744,8 +712,7 @@
       "pageNumber": 74,
       "content": "八月二十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -757,8 +724,7 @@
       "pageNumber": 76,
       "content": "八月二十三日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -770,8 +736,7 @@
       "pageNumber": 78,
       "content": "八月二十四日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -783,8 +748,7 @@
       "pageNumber": 80,
       "content": "八月二十八日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -796,8 +760,7 @@
       "pageNumber": 82,
       "content": "九月三日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -809,8 +772,7 @@
       "pageNumber": 84,
       "content": "九月八日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,

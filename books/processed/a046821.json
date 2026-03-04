@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "まえがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 2
       },
       {
         "id": "chapter-2",
         "title": "花",
         "startPage": 3,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-3",
         "title": "果実",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 94,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-3-section-5",
             "number": "オランダイチゴ",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 94
           }
         ]
       },

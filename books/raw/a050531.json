@@ -48,7 +48,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 352,
-    "chapterTitles": []
+    "chapterTitles": [
+      "平民道"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "渡米船上の感激",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "デモクラシーは平民道",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -94,8 +94,7 @@
       "pageNumber": 7,
       "content": "平民道は武士道の延長",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -119,8 +118,7 @@
       "pageNumber": 11,
       "content": "デモクラシーは国の色合",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

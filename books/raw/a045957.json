@@ -42,7 +42,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 351,
-    "chapterTitles": []
+    "chapterTitles": [
+      "髭の謎"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "博士の死",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 13,
       "content": "怪しい電話",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -196,8 +196,7 @@
       "pageNumber": 25,
       "content": "朝鮮浪人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,

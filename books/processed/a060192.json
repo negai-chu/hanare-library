@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "門をたたけ",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 15
       },
       {
         "id": "chapter-3",
         "title": "キリスト教入門",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-3-section-7",
             "number": "第七章　基督者の生涯",
             "startPage": 113,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-4",
         "title": "キリスト教早わかり",
         "startPage": 121,
-        "endPage": 0,
+        "endPage": 154,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -121,7 +121,7 @@
             "id": "chapter-4-section-7",
             "number": "七　神中心の生活",
             "startPage": 149,
-            "endPage": 0
+            "endPage": 154
           }
         ]
       },
@@ -129,7 +129,7 @@
         "id": "chapter-5",
         "title": "無教会早わかり",
         "startPage": 155,
-        "endPage": 0,
+        "endPage": 177,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -153,7 +153,7 @@
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 175,
-            "endPage": 0
+            "endPage": 177
           }
         ]
       },
@@ -161,7 +161,7 @@
         "id": "chapter-6",
         "title": "聖書について",
         "startPage": 178,
-        "endPage": 0,
+        "endPage": 187,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -179,7 +179,7 @@
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 184,
-            "endPage": 0
+            "endPage": 187
           }
         ]
       },
@@ -187,7 +187,7 @@
         "id": "chapter-7",
         "title": "イエスの生涯",
         "startPage": 188,
-        "endPage": 0,
+        "endPage": 232,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -229,7 +229,7 @@
             "id": "chapter-7-section-7",
             "number": "七　十字架と復活",
             "startPage": 222,
-            "endPage": 0
+            "endPage": 232
           }
         ]
       },

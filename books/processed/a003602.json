@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "１　『経済学大辞典』",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 82,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -89,16 +89,15 @@
             "id": "chapter-1-section-12",
             "number": "模写説　モシャセツ　【英】Imitation-theory【独】Imitationstheorie, Abbildtheorie.",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 82
           }
-        ],
-        "summary": "経済学辞典の検討"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "２　『教育学辞典』",
         "startPage": 83,
-        "endPage": 0,
+        "endPage": 118,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -134,10 +133,9 @@
             "id": "chapter-2-section-6",
             "number": "ジャーナリズム　【英】journalism【独】Journalismus【仏】journalisme",
             "startPage": 115,
-            "endPage": 0
+            "endPage": 118
           }
-        ],
-        "summary": "教育学辞典の検討"
+        ]
       },
       {
         "id": "chapter-3",
@@ -169,8 +167,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "哲学辞典の検討"
+        ]
       }
     ],
     "totalPages": 185,

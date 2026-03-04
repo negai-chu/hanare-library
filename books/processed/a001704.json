@@ -17,51 +17,45 @@
         "id": "chapter-1",
         "title": "故人に",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 5,
-            "summary": "友の思い出"
+            "endPage": 5
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 7,
-            "summary": "交友の日々"
+            "endPage": 7
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 8,
-            "endPage": 2,
-            "summary": "別れの記憶"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 2,
-            "endPage": 2,
-            "summary": "追想の情景"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 2,
-            "endPage": 2,
-            "summary": "永遠の別れ"
+            "endPage": 2
           }
-        ],
-        "summary": "故人への追悼"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "都落ちの手帳から",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -91,16 +85,15 @@
             "id": "chapter-2-section-5",
             "number": "憶出のかず／＼",
             "startPage": 46,
-            "endPage": 0
+            "endPage": 62
           }
-        ],
-        "summary": "都落ちの記録"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "草葉のささやき",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 142,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -166,16 +159,15 @@
             "id": "chapter-3-section-11",
             "number": "安さん",
             "startPage": 136,
-            "endPage": 0
+            "endPage": 142
           }
-        ],
-        "summary": "草葉の囁き"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "麦の穂稲穂",
         "startPage": 143,
-        "endPage": 0,
+        "endPage": 241,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -235,10 +227,9 @@
             "id": "chapter-4-section-10",
             "number": "低い丘の上から",
             "startPage": 231,
-            "endPage": 0
+            "endPage": 241
           }
-        ],
-        "summary": "田園の実り"
+        ]
       },
       {
         "id": "chapter-5",
@@ -294,14 +285,13 @@
             "startPage": 279,
             "endPage": 628
           }
-        ],
-        "summary": "独り言の随想"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "過去帳から",
         "startPage": 282,
-        "endPage": 0,
+        "endPage": 410,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -349,16 +339,15 @@
             "id": "chapter-6-section-8",
             "number": "暁斎画譜",
             "startPage": 406,
-            "endPage": 0
+            "endPage": 410
           }
-        ],
-        "summary": "過ぎし人々の記憶"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "落穂の掻き寄せ",
         "startPage": 411,
-        "endPage": 0,
+        "endPage": 542,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -604,16 +593,15 @@
             "id": "chapter-7-section-41",
             "number": "雪",
             "startPage": 536,
-            "endPage": 0
+            "endPage": 542
           }
-        ],
-        "summary": "拾い集めた断想"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "読者に",
         "startPage": 543,
-        "endPage": 0,
+        "endPage": 570,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -637,10 +625,9 @@
             "id": "chapter-8-section-4",
             "number": "（四）",
             "startPage": 562,
-            "endPage": 0
+            "endPage": 570
           }
-        ],
-        "summary": "読者への言葉"
+        ]
       },
       {
         "id": "chapter-9",
@@ -666,8 +653,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "補遺と資料"
+        ]
       }
     ],
     "totalPages": 628,

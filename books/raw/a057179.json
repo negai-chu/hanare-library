@@ -60,7 +60,9 @@
     ],
     "totalPages": 285,
     "averageCharsPerPage": 627,
-    "chapterTitles": []
+    "chapterTitles": [
+      "古句を観る"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "はじめに",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "新年",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -244,8 +244,7 @@
       "pageNumber": 30,
       "content": "春",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -725,8 +724,7 @@
       "pageNumber": 110,
       "content": "夏",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -1266,8 +1264,7 @@
       "pageNumber": 200,
       "content": "秋",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 201,
@@ -1627,8 +1624,7 @@
       "pageNumber": 260,
       "content": "冬",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,

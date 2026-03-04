@@ -78,7 +78,9 @@
     ],
     "totalPages": 55,
     "averageCharsPerPage": 312,
-    "chapterTitles": []
+    "chapterTitles": [
+      "円太郎馬車"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "長屋の花見",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 7,
       "content": "元日の盆提灯",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -172,8 +172,7 @@
       "pageNumber": 15,
       "content": "お八重",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -209,8 +208,7 @@
       "pageNumber": 21,
       "content": "圓朝の家",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -240,8 +238,7 @@
       "pageNumber": 26,
       "content": "恋ごろも",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -271,8 +268,7 @@
       "pageNumber": 31,
       "content": "一斗桝とは――",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -296,8 +292,7 @@
       "pageNumber": 35,
       "content": "お手討",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -357,8 +352,7 @@
       "pageNumber": 45,
       "content": "その晩のこと",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -400,8 +394,7 @@
       "pageNumber": 52,
       "content": "開通万歳",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,

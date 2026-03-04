@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "詩集への序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "蝶を夢む　　　　詩集前篇",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -216,16 +215,15 @@
             "id": "chapter-2-section-32",
             "number": "波止場の烟",
             "startPage": 49,
-            "endPage": 0
+            "endPage": 50
           }
-        ],
-        "summary": "蝶の夢の詩篇"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "松葉に光る　　　　詩集後篇",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 85,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -369,10 +367,9 @@
             "id": "chapter-3-section-24",
             "number": "くさつた蛤",
             "startPage": 84,
-            "endPage": 0
+            "endPage": 85
           }
-        ],
-        "summary": "松葉に光る詩群"
+        ]
       },
       {
         "id": "chapter-4",
@@ -404,8 +401,7 @@
             "startPage": 88,
             "endPage": 88
           }
-        ],
-        "summary": "散文詩四篇"
+        ]
       }
     ],
     "totalPages": 88,

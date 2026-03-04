@@ -84,7 +84,9 @@
     ],
     "totalPages": 22,
     "averageCharsPerPage": 90,
-    "chapterTitles": []
+    "chapterTitles": [
+      "炭坑長屋物語"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "北海道の樺太",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 4,
       "content": "八号の一",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -124,8 +124,7 @@
       "pageNumber": 6,
       "content": "十号の七",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -137,8 +136,7 @@
       "pageNumber": 8,
       "content": "十号の五",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -150,8 +148,7 @@
       "pageNumber": 10,
       "content": "八号の三",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -169,8 +166,7 @@
       "pageNumber": 13,
       "content": "九号の二",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -182,8 +178,7 @@
       "pageNumber": 15,
       "content": "九号の四",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -195,8 +190,7 @@
       "pageNumber": 17,
       "content": "十号の八",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -208,8 +202,7 @@
       "pageNumber": 19,
       "content": "九号の七",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -221,8 +214,7 @@
       "pageNumber": 21,
       "content": "八号の二",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

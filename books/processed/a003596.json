@@ -17,43 +17,39 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "初版への序文"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "増補版序文",
         "startPage": 5,
-        "endPage": 0,
-        "summary": "増補版の序文"
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "増補版重版序文",
         "startPage": 7,
-        "endPage": 0,
-        "summary": "重版の序文"
+        "endPage": 8
       },
       {
         "id": "chapter-4",
         "title": "序論",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一　現代日本の思想上の諸問題",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 28
           }
-        ],
-        "summary": "問題の設定"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第一編　日本主義の批判とその原則",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 247,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -107,40 +103,37 @@
             "id": "chapter-5-section-9",
             "number": "一〇　日本主義の帰趨",
             "startPage": 234,
-            "endPage": 0
+            "endPage": 247
           }
-        ],
-        "summary": "日本主義の批判"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第二編　自由主義の批判とその原則",
         "startPage": 248,
-        "endPage": 0,
+        "endPage": 263,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "一一　偽装した近代的観念論",
             "startPage": 249,
-            "endPage": 0
+            "endPage": 263
           }
-        ],
-        "summary": "自由主義の批判"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "結論",
         "startPage": 264,
-        "endPage": 0,
+        "endPage": 443,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "二〇　現代日本の思想界と思想家",
             "startPage": 416,
-            "endPage": 0
+            "endPage": 443
           }
-        ],
-        "summary": "批判の総括"
+        ]
       },
       {
         "id": "chapter-8",
@@ -166,8 +159,7 @@
             "startPage": 485,
             "endPage": 503
           }
-        ],
-        "summary": "補足的考察"
+        ]
       }
     ],
     "totalPages": 503,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "失火",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 11,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 0
+            "endPage": 11
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-2",
         "title": "恩賞",
         "startPage": 12,
-        "endPage": 0,
+        "endPage": 25,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -55,7 +55,7 @@
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 0
+            "endPage": 25
           }
         ]
       },

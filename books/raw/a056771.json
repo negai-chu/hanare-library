@@ -84,7 +84,9 @@
     ],
     "totalPages": 220,
     "averageCharsPerPage": 462,
-    "chapterTitles": []
+    "chapterTitles": [
+      "瘋癲老人日記"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -327,8 +328,7 @@
       "pageNumber": 40,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -484,8 +484,7 @@
       "pageNumber": 66,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -749,8 +748,7 @@
       "pageNumber": 110,
       "content": "４",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -876,8 +874,7 @@
       "pageNumber": 131,
       "content": "５",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,
@@ -1069,8 +1066,7 @@
       "pageNumber": 163,
       "content": "６",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,
@@ -1262,8 +1258,7 @@
       "pageNumber": 195,
       "content": "７",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 196,
@@ -1329,8 +1324,7 @@
       "pageNumber": 206,
       "content": "佐々木看護婦看護記録抜萃",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 207,
@@ -1354,8 +1348,7 @@
       "pageNumber": 210,
       "content": "勝海医師病床日記抜萃",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 211,
@@ -1397,8 +1390,7 @@
       "pageNumber": 217,
       "content": "城山五子手記抜萃",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 218,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "女の構図",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 36,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -83,16 +83,15 @@
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 33,
-            "endPage": 0
+            "endPage": 36
           }
-        ],
-        "summary": "大阪の女の素描"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "夜光時計",
         "startPage": 37,
-        "endPage": 0,
+        "endPage": 55,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -128,16 +127,15 @@
             "id": "chapter-2-section-6",
             "number": "六",
             "startPage": 52,
-            "endPage": 0
+            "endPage": 55
           }
-        ],
-        "summary": "夜光時計の秘密"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "貴族",
         "startPage": 56,
-        "endPage": 0,
+        "endPage": 74,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -179,16 +177,15 @@
             "id": "chapter-3-section-7",
             "number": "七",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 74
           }
-        ],
-        "summary": "没落貴族の生態"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "夜の花",
         "startPage": 75,
-        "endPage": 0,
+        "endPage": 99,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -236,16 +233,15 @@
             "id": "chapter-4-section-8",
             "number": "八",
             "startPage": 95,
-            "endPage": 0
+            "endPage": 99
           }
-        ],
-        "summary": "夜に咲く花"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "兄ちゃん",
         "startPage": 100,
-        "endPage": 0,
+        "endPage": 118,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -287,16 +283,15 @@
             "id": "chapter-5-section-7",
             "number": "七",
             "startPage": 116,
-            "endPage": 0
+            "endPage": 118
           }
-        ],
-        "summary": "兄ちゃんの面影"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "東京へ",
         "startPage": 119,
-        "endPage": 0,
+        "endPage": 130,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -320,16 +315,15 @@
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 128,
-            "endPage": 0
+            "endPage": 130
           }
-        ],
-        "summary": "東京への旅立ち"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "身上相談",
         "startPage": 131,
-        "endPage": 0,
+        "endPage": 156,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -377,16 +371,15 @@
             "id": "chapter-7-section-8",
             "number": "八",
             "startPage": 152,
-            "endPage": 0
+            "endPage": 156
           }
-        ],
-        "summary": "人生の身上相談"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "鳩",
         "startPage": 157,
-        "endPage": 0,
+        "endPage": 176,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -428,16 +421,15 @@
             "id": "chapter-8-section-7",
             "number": "七",
             "startPage": 173,
-            "endPage": 0
+            "endPage": 176
           }
-        ],
-        "summary": "鳩のいる風景"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "キャッキャッ団",
         "startPage": 177,
-        "endPage": 0,
+        "endPage": 206,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -491,16 +483,15 @@
             "id": "chapter-9-section-9",
             "number": "九",
             "startPage": 202,
-            "endPage": 0
+            "endPage": 206
           }
-        ],
-        "summary": "キャッキャッ団の騒動"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "暮色",
         "startPage": 207,
-        "endPage": 0,
+        "endPage": 229,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -554,16 +545,15 @@
             "id": "chapter-10-section-9",
             "number": "九",
             "startPage": 227,
-            "endPage": 0
+            "endPage": 229
           }
-        ],
-        "summary": "夕暮れの色彩"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "登場人物",
         "startPage": 230,
-        "endPage": 0,
+        "endPage": 249,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -617,10 +607,9 @@
             "id": "chapter-11-section-9",
             "number": "九",
             "startPage": 248,
-            "endPage": 0
+            "endPage": 249
           }
-        ],
-        "summary": "登場人物たちの群像"
+        ]
       },
       {
         "id": "chapter-12",
@@ -694,8 +683,7 @@
             "startPage": 275,
             "endPage": 278
           }
-        ],
-        "summary": "走馬燈の幕切れ"
+        ]
       }
     ],
     "totalPages": 278,

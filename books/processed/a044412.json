@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "走るノート",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "走りながら綴る雑記"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 343,
-    "chapterTitles": []
+    "chapterTitles": [
+      "走るノート"
+    ]
   },
   "content": [
     {

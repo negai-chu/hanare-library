@@ -60,7 +60,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 358,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本文学における一つの象徴"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一　しゞまの姫",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "二　仮面の話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -130,8 +130,7 @@
       "pageNumber": 11,
       "content": "三　岩根・木根・草のかき葉",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -155,8 +154,7 @@
       "pageNumber": 15,
       "content": "四　この口や物言はぬ口",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -180,8 +178,7 @@
       "pageNumber": 19,
       "content": "五　翁・黒尉",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -205,8 +202,7 @@
       "pageNumber": 23,
       "content": "六　沈黙と饒舌と",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

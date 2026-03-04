@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "京都人の生活",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "京都の暮らしの印象"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 310,
-    "chapterTitles": []
+    "chapterTitles": [
+      "京都人の生活"
+    ]
   },
   "content": [
     {

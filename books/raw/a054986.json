@@ -78,7 +78,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 300,
-    "chapterTitles": []
+    "chapterTitles": [
+      "料理一夕話"
+    ]
   },
   "content": [
     {
@@ -122,8 +124,7 @@
       "pageNumber": 7,
       "content": "ものの妙を生かすこと",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -135,8 +136,7 @@
       "pageNumber": 9,
       "content": "食通",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -148,8 +148,7 @@
       "pageNumber": 11,
       "content": "本末顛倒",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -161,8 +160,7 @@
       "pageNumber": 13,
       "content": "料理のきもの",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -174,8 +172,7 @@
       "pageNumber": 15,
       "content": "色味心経",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -187,8 +184,7 @@
       "pageNumber": 17,
       "content": "個性なき飲食",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -200,8 +196,7 @@
       "pageNumber": 19,
       "content": "食物の理解",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -213,8 +208,7 @@
       "pageNumber": 21,
       "content": "わが典座教訓",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -250,8 +244,7 @@
       "pageNumber": 27,
       "content": "明けても暮れても、ただもう美味いものばかり食って能事終る私の人生",
       "characters": 32,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

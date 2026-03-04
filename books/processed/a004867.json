@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "字で書いた漫画",
         "startPage": 1,
-        "endPage": 16,
-        "summary": "アメリカ街頭の風景画"
+        "endPage": 16
       }
     ],
     "totalPages": 16,
     "averageCharsPerPage": 452,
-    "chapterTitles": []
+    "chapterTitles": [
+      "字で書いた漫画"
+    ]
   },
   "content": [
     {

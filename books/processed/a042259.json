@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ゴルフ随行記",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "ゴルフ場の見学記"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 534,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ゴルフ随行記"
+    ]
   },
   "content": [
     {

@@ -54,7 +54,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 356,
-    "chapterTitles": []
+    "chapterTitles": [
+      "病牀譫語"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "（一）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 7,
       "content": "（二）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -124,8 +124,7 @@
       "pageNumber": 11,
       "content": "（三）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -149,8 +148,7 @@
       "pageNumber": 15,
       "content": "（四）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -180,8 +178,7 @@
       "pageNumber": 20,
       "content": "（五）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,

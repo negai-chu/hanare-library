@@ -36,7 +36,9 @@
     ],
     "totalPages": 62,
     "averageCharsPerPage": 466,
-    "chapterTitles": []
+    "chapterTitles": [
+      "田原氏の犯罪"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 12,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -309,8 +310,7 @@
       "pageNumber": 45,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,

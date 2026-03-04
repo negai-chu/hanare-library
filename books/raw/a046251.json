@@ -36,7 +36,9 @@
     ],
     "totalPages": 51,
     "averageCharsPerPage": 317,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -296,8 +298,7 @@
       "pageNumber": 43,
       "content": "九月二十九日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -333,8 +334,7 @@
       "pageNumber": 49,
       "content": "十二月十八日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,

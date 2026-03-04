@@ -246,7 +246,9 @@
     ],
     "totalPages": 77,
     "averageCharsPerPage": 200,
-    "chapterTitles": []
+    "chapterTitles": [
+      "西方の人"
+    ]
   },
   "content": [
     {
@@ -260,8 +262,7 @@
       "pageNumber": 2,
       "content": "１　この人を見よ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -273,8 +274,7 @@
       "pageNumber": 4,
       "content": "２　マリア",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -286,8 +286,7 @@
       "pageNumber": 6,
       "content": "３　聖霊",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -299,8 +298,7 @@
       "pageNumber": 8,
       "content": "４　ヨセフ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -312,8 +310,7 @@
       "pageNumber": 10,
       "content": "５　エリザベツ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -325,8 +322,7 @@
       "pageNumber": 12,
       "content": "６　羊飼ひたち",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -338,8 +334,7 @@
       "pageNumber": 14,
       "content": "７　博士たち",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -351,8 +346,7 @@
       "pageNumber": 16,
       "content": "８　ヘロデ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -364,8 +358,7 @@
       "pageNumber": 18,
       "content": "９　ボヘミア的精神",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -377,8 +370,7 @@
       "pageNumber": 20,
       "content": "10　父",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -390,8 +382,7 @@
       "pageNumber": 22,
       "content": "11　ヨハネ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -403,8 +394,7 @@
       "pageNumber": 24,
       "content": "12　悪魔",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -416,8 +406,7 @@
       "pageNumber": 26,
       "content": "13　最初の弟子たち",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -429,8 +418,7 @@
       "pageNumber": 28,
       "content": "14　聖霊の子供",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -442,8 +430,7 @@
       "pageNumber": 30,
       "content": "15　女人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -455,8 +442,7 @@
       "pageNumber": 32,
       "content": "16　奇蹟",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -468,8 +454,7 @@
       "pageNumber": 34,
       "content": "17　背徳者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -481,8 +466,7 @@
       "pageNumber": 36,
       "content": "18　クリスト教",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -494,8 +478,7 @@
       "pageNumber": 38,
       "content": "19　ジヤアナリスト",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -507,8 +490,7 @@
       "pageNumber": 40,
       "content": "20　エホバ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -520,8 +502,7 @@
       "pageNumber": 42,
       "content": "21　故郷",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -533,8 +514,7 @@
       "pageNumber": 44,
       "content": "22　詩人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -546,8 +526,7 @@
       "pageNumber": 46,
       "content": "23　ラザロ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -559,8 +538,7 @@
       "pageNumber": 48,
       "content": "24　カナの饗宴",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -572,8 +550,7 @@
       "pageNumber": 50,
       "content": "25　天に近い山の上の問答",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -585,8 +562,7 @@
       "pageNumber": 52,
       "content": "26　幼な児の如く",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -598,8 +574,7 @@
       "pageNumber": 54,
       "content": "27　イエルサレムへ",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -611,8 +586,7 @@
       "pageNumber": 56,
       "content": "28　イエルサレム",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -630,8 +604,7 @@
       "pageNumber": 59,
       "content": "29　ユダ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -643,8 +616,7 @@
       "pageNumber": 61,
       "content": "30　ピラト",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -656,8 +628,7 @@
       "pageNumber": 63,
       "content": "31　クリストよりもバラバを",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -669,8 +640,7 @@
       "pageNumber": 65,
       "content": "32　ゴルゴタ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -682,8 +652,7 @@
       "pageNumber": 67,
       "content": "33　ピエタ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -695,8 +664,7 @@
       "pageNumber": 69,
       "content": "34　クリストの友だち",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -708,8 +676,7 @@
       "pageNumber": 71,
       "content": "35　復活",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -727,8 +694,7 @@
       "pageNumber": 74,
       "content": "36　クリストの一生",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -740,8 +706,7 @@
       "pageNumber": 76,
       "content": "37　東方の人",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,

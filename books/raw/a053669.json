@@ -42,7 +42,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 206,
-    "chapterTitles": []
+    "chapterTitles": [
+      "同志古味峯次郎"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "（１）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "（２）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -136,8 +136,7 @@
       "pageNumber": 15,
       "content": "（３）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

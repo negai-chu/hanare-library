@@ -60,7 +60,9 @@
     ],
     "totalPages": 208,
     "averageCharsPerPage": 219,
-    "chapterTitles": []
+    "chapterTitles": [
+      "村の成功者"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "山の中の山中村",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -273,8 +274,7 @@
       "pageNumber": 35,
       "content": "百間松の狐",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -472,8 +472,7 @@
       "pageNumber": 68,
       "content": "故郷へ錦を飾る人",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -701,8 +700,7 @@
       "pageNumber": 106,
       "content": "若ものゝ心",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -906,8 +904,7 @@
       "pageNumber": 140,
       "content": "のらくら息子",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1111,8 +1108,7 @@
       "pageNumber": 174,
       "content": "捕らぬ狸の皮",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 175,

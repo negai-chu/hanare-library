@@ -17,32 +17,34 @@
         "id": "chapter-1",
         "title": "さかほがひ",
         "startPage": 1,
-        "endPage": 7,
+        "endPage": 4,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
-            "startPage": 6,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 7,
-    "averageCharsPerPage": 45,
-    "chapterTitles": []
+    "totalPages": 4,
+    "averageCharsPerPage": 79,
+    "chapterTitles": [
+      "さかほがひ"
+    ]
   },
   "content": [
     {
@@ -54,39 +56,18 @@
     },
     {
       "pageNumber": 2,
-      "content": "一",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　一\n\n　阿古屋《あこや》の珠を\n\n溶《と》きたる酒は\n\nのこさで酌まむ。\n\nほせよさかづき\n\nほせよ、ほせよ、觴《さかづき》。\n\nのめや、うたへや、\n\nうたへや、のめや。\n\nあゝ、おもしろ\n\nあゝ、おもしろの",
+      "characters": 105,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　阿古屋《あこや》の珠を\n\n溶《と》きたる酒は\n\nのこさで酌まむ。\n\nほせよさかづき\n\nほせよ、ほせよ、觴《さかづき》。\n\nのめや、うたへや、\n\nうたへや、のめや。\n\nあゝ、おもしろ\n\nあゝ、おもしろのさかほがひ。",
-      "characters": 107,
+      "content": "さかほがひ。二薫《かをり》はたかき\n\nさゆりの花は\n\nかざしにさゝむ。\n\nたをれ、かざしに、\n\nたをれ、たをれ、（かざし）頭に\n\nのめやうたへや、\n\nうたへや、のめや。\n\nあゝ、おもしろ、\n\nあゝおもしろのさかほがひ。三",
+      "characters": 110,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "二",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "薫《かをり》はたかき\n\nさゆりの花は\n\nかざしにさゝむ。\n\nたをれ、かざしに、\n\nたをれ、たをれ、（かざし）頭に\n\nのめやうたへや、\n\nうたへや、のめや。\n\nあゝ、おもしろ、\n\nあゝおもしろのさかほがひ。",
-      "characters": 102,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
-      "content": "三",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
       "content": "色さへ香《か》さへ\n\n妙《たへ》なるひとを\n\nあかずもこよひ\n\nみるが樂しさ、\n\nみるが、みるが樂しさ。\n\nのめや、うたへや、\n\nうたへや、のめや。\n\nあゝおもしろ。\n\nあゝおもしろのさかほがひ。",
       "characters": 98,
       "ruby": []

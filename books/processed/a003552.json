@@ -17,84 +17,73 @@
         "id": "chapter-1",
         "title": "国境見物",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "国境見物の旅"
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "鑑査の日",
         "startPage": 7,
-        "endPage": 0,
-        "summary": "展覧会審査の裏側"
+        "endPage": 11
       },
       {
         "id": "chapter-3",
         "title": "真似",
         "startPage": 12,
-        "endPage": 0,
-        "summary": "模倣と独創"
+        "endPage": 16
       },
       {
         "id": "chapter-4",
         "title": "アトリエ二、三日",
         "startPage": 17,
-        "endPage": 0,
-        "summary": "画室の日々"
+        "endPage": 21
       },
       {
         "id": "chapter-5",
         "title": "大阪古物の風景",
         "startPage": 22,
-        "endPage": 0,
-        "summary": "大阪の古い風景"
+        "endPage": 25
       },
       {
         "id": "chapter-6",
         "title": "写生旅行に伴ういろいろの障害",
         "startPage": 26,
-        "endPage": 0,
-        "summary": "写生旅行の困難"
+        "endPage": 30
       },
       {
         "id": "chapter-7",
         "title": "グワッシュとガラス絵",
         "startPage": 31,
-        "endPage": 0,
-        "summary": "不透明画の技法"
+        "endPage": 34
       },
       {
         "id": "chapter-8",
         "title": "触覚の世界とその芸術",
         "startPage": 35,
-        "endPage": 0,
-        "summary": "触覚と芸術の関係"
+        "endPage": 39
       },
       {
         "id": "chapter-9",
         "title": "裸婦漫談",
         "startPage": 40,
-        "endPage": 0,
-        "summary": "裸婦画をめぐる話"
+        "endPage": 45
       },
       {
         "id": "chapter-10",
         "title": "芸事雑感",
         "startPage": 46,
-        "endPage": 0,
-        "summary": "芸事への雑感"
+        "endPage": 50
       },
       {
         "id": "chapter-11",
         "title": "ガラス絵の話",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 68,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 52,
-            "endPage": 53,
-            "summary": "硝子の裏に描く"
+            "endPage": 53
           },
           {
             "id": "chapter-11-section-2",
@@ -124,93 +113,81 @@
             "id": "chapter-11-section-6",
             "number": "六　額縁の事",
             "startPage": 67,
-            "endPage": 0
+            "endPage": 68
           }
-        ],
-        "summary": "ガラス絵の魅力"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "散歩雑感",
         "startPage": 69,
-        "endPage": 0,
-        "summary": "散歩の折々の感想"
+        "endPage": 72
       },
       {
         "id": "chapter-13",
         "title": "芸術と人間の嫌味",
         "startPage": 73,
-        "endPage": 0,
-        "summary": "芸術と人の嫌味"
+        "endPage": 79
       },
       {
         "id": "chapter-14",
         "title": "七月",
         "startPage": 80,
-        "endPage": 0,
-        "summary": "七月の暑さと制作"
+        "endPage": 84
       },
       {
         "id": "chapter-15",
         "title": "神経",
         "startPage": 85,
-        "endPage": 0,
-        "summary": "画家の神経質"
+        "endPage": 89
       },
       {
         "id": "chapter-16",
         "title": "油絵と額縁",
         "startPage": 90,
-        "endPage": 0,
-        "summary": "油絵と額縁の関係"
+        "endPage": 94
       },
       {
         "id": "chapter-17",
         "title": "黒い帽子",
         "startPage": 95,
-        "endPage": 0,
-        "summary": "黒い帽子の思い出"
+        "endPage": 97
       },
       {
         "id": "chapter-18",
         "title": "人間が鹿に侮られた話",
         "startPage": 98,
-        "endPage": 0,
-        "summary": "奈良で鹿に侮られた話"
+        "endPage": 99
       },
       {
         "id": "chapter-19",
         "title": "胃腑漫談",
         "startPage": 100,
-        "endPage": 0,
-        "summary": "胃腑をめぐる漫談"
+        "endPage": 106
       },
       {
         "id": "chapter-20",
         "title": "蜘蛛",
         "startPage": 107,
-        "endPage": 0,
-        "summary": "蜘蛛への観察"
+        "endPage": 110
       },
       {
         "id": "chapter-21",
         "title": "紹介",
         "startPage": 111,
-        "endPage": 0,
-        "summary": "人を紹介する難しさ"
+        "endPage": 113
       },
       {
         "id": "chapter-22",
         "title": "雑念",
         "startPage": 114,
-        "endPage": 0,
-        "summary": "とりとめない雑念"
+        "endPage": 118
       },
       {
         "id": "chapter-23",
         "title": "最近の閑談",
         "startPage": 119,
-        "endPage": 0,
+        "endPage": 126,
         "sections": [
           {
             "id": "chapter-23-section-1",
@@ -234,66 +211,57 @@
             "id": "chapter-23-section-4",
             "number": "所得税",
             "startPage": 125,
-            "endPage": 0
+            "endPage": 126
           }
-        ],
-        "summary": "近頃の閑談の数々"
+        ]
       },
       {
         "id": "chapter-24",
         "title": "鞆の嵐",
         "startPage": 127,
-        "endPage": 0,
-        "summary": "鞆の浦の嵐"
+        "endPage": 130
       },
       {
         "id": "chapter-25",
         "title": "夏の水難",
         "startPage": 131,
-        "endPage": 0,
-        "summary": "夏の水難事故"
+        "endPage": 134
       },
       {
         "id": "chapter-26",
         "title": "足の裏",
         "startPage": 135,
-        "endPage": 0,
-        "summary": "足の裏の感覚"
+        "endPage": 139
       },
       {
         "id": "chapter-27",
         "title": "骨人",
         "startPage": 140,
-        "endPage": 0,
-        "summary": "骨格標本の話"
+        "endPage": 145
       },
       {
         "id": "chapter-28",
         "title": "Ｍ君のテンプラ屋について",
         "startPage": 146,
-        "endPage": 0,
-        "summary": "Ｍ君の天麩羅屋"
+        "endPage": 150
       },
       {
         "id": "chapter-29",
         "title": "怪説絹布団",
         "startPage": 151,
-        "endPage": 0,
-        "summary": "絹布団の怪しい話"
+        "endPage": 156
       },
       {
         "id": "chapter-30",
         "title": "構図の話",
         "startPage": 157,
-        "endPage": 0,
-        "summary": "絵の構図について"
+        "endPage": 164
       },
       {
         "id": "chapter-31",
         "title": "酒と僧帽弁",
         "startPage": 165,
-        "endPage": 0,
-        "summary": "酒と心臓弁膜症"
+        "endPage": 170
       },
       {
         "id": "chapter-32",
@@ -307,8 +275,7 @@
             "startPage": 172,
             "endPage": 175
           }
-        ],
-        "summary": "欧州滞在の思い出"
+        ]
       }
     ],
     "totalPages": 175,

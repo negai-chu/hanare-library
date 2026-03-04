@@ -54,7 +54,9 @@
     ],
     "totalPages": 52,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 5,
       "content": "一月七日　水",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -147,8 +148,7 @@
       "pageNumber": 15,
       "content": "五月十五日　土",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -166,8 +166,7 @@
       "pageNumber": 18,
       "content": "五月二十日　木",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -185,8 +184,7 @@
       "pageNumber": 21,
       "content": "五月二十九日　土",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -318,8 +316,7 @@
       "pageNumber": 43,
       "content": "〔Memoranda〕",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -331,8 +328,7 @@
       "pageNumber": 45,
       "content": "一月七日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -344,8 +340,7 @@
       "pageNumber": 47,
       "content": "五月十五日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -357,8 +352,7 @@
       "pageNumber": 49,
       "content": "五月二十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -370,8 +364,7 @@
       "pageNumber": 51,
       "content": "五月二十九日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,

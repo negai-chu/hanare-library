@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "北へ行く",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "北へ向かう汽車の旅"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "北へ行く"
+    ]
   },
   "content": [
     {

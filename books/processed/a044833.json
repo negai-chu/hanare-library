@@ -17,87 +17,75 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "若い俳優への手紙の序"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "１　舞台俳優と映画俳優",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "舞台俳優と映画俳優の違い"
+        "endPage": 17
       },
       {
         "id": "chapter-3",
         "title": "２　演技の基礎",
         "startPage": 18,
-        "endPage": 0,
-        "summary": "演技の基礎的訓練法"
+        "endPage": 30
       },
       {
         "id": "chapter-4",
         "title": "３　芽生えつつあるもの",
         "startPage": 31,
-        "endPage": 0,
-        "summary": "新しい才能の芽生え"
+        "endPage": 38
       },
       {
         "id": "chapter-5",
         "title": "４　俳優養成機関について",
         "startPage": 39,
-        "endPage": 0,
+        "endPage": 49,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "１",
             "startPage": 40,
-            "endPage": 41,
-            "summary": "養成機関の現状分析"
+            "endPage": 41
           },
           {
             "id": "chapter-5-section-2",
             "number": "２",
             "startPage": 42,
-            "endPage": 45,
-            "summary": "理想的な教育方法"
+            "endPage": 45
           },
           {
             "id": "chapter-5-section-3",
             "number": "３",
             "startPage": 46,
-            "endPage": 0,
-            "summary": "養成制度の改革案"
+            "endPage": 49
           }
-        ],
-        "summary": "俳優養成機関の課題"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "５　回想のジューヴェ",
         "startPage": 50,
-        "endPage": 0,
-        "summary": "ジューヴェの演技論への回想"
+        "endPage": 62
       },
       {
         "id": "chapter-7",
         "title": "６　「雄弁」の魅力",
         "startPage": 63,
-        "endPage": 0,
-        "summary": "雄弁の舞台的魅力"
+        "endPage": 73
       },
       {
         "id": "chapter-8",
         "title": "７　セリフとしての日本語",
         "startPage": 74,
-        "endPage": 0,
-        "summary": "日本語のせりふの課題"
+        "endPage": 81
       },
       {
         "id": "chapter-9",
         "title": "８　俳優の教養について",
         "startPage": 82,
-        "endPage": 0,
-        "summary": "俳優の教養と人間性"
+        "endPage": 89
       },
       {
         "id": "chapter-10",
@@ -109,18 +97,15 @@
             "id": "chapter-10-section-1",
             "number": "１",
             "startPage": 91,
-            "endPage": 91,
-            "summary": "表情の自然さと技術"
+            "endPage": 91
           },
           {
             "id": "chapter-10-section-2",
             "number": "２",
             "startPage": 92,
-            "endPage": 95,
-            "summary": "内面と表情の一致"
+            "endPage": 95
           }
-        ],
-        "summary": "表情の秘密と技法"
+        ]
       }
     ],
     "totalPages": 95,

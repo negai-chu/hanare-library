@@ -60,7 +60,9 @@
     ],
     "totalPages": 36,
     "averageCharsPerPage": 475,
-    "chapterTitles": []
+    "chapterTitles": [
+      "北極のアムンセン"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一　地球の両極",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 7,
       "content": "二　大氷原のたゞ中",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -148,8 +148,7 @@
       "pageNumber": 14,
       "content": "三　飛行船での再挙",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -179,8 +178,7 @@
       "pageNumber": 19,
       "content": "四　極地の国旗",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -222,8 +220,7 @@
       "pageNumber": 26,
       "content": "五　上空遠征",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -265,8 +262,7 @@
       "pageNumber": 33,
       "content": "六　氷海の霊",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,

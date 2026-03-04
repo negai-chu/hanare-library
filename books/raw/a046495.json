@@ -54,7 +54,9 @@
     ],
     "totalPages": 34,
     "averageCharsPerPage": 499,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ロウモン街の自殺ホテル"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -136,8 +136,7 @@
       "pageNumber": 13,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -173,8 +172,7 @@
       "pageNumber": 19,
       "content": "４",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -222,8 +220,7 @@
       "pageNumber": 27,
       "content": "５",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

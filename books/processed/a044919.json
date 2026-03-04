@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文学のふるさと",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "文学のふるさとへの考察"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 544,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文学のふるさと"
+    ]
   },
   "content": [
     {

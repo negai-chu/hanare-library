@@ -96,7 +96,9 @@
     ],
     "totalPages": 107,
     "averageCharsPerPage": 271,
-    "chapterTitles": []
+    "chapterTitles": [
+      "野槌の百"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 8,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -190,8 +190,7 @@
       "pageNumber": 15,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -239,8 +238,7 @@
       "pageNumber": 23,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -282,8 +280,7 @@
       "pageNumber": 30,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -343,8 +340,7 @@
       "pageNumber": 40,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -386,8 +382,7 @@
       "pageNumber": 47,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -447,8 +442,7 @@
       "pageNumber": 57,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -514,8 +508,7 @@
       "pageNumber": 68,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -569,8 +562,7 @@
       "pageNumber": 77,
       "content": "十",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -642,8 +634,7 @@
       "pageNumber": 89,
       "content": "十一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -697,8 +688,7 @@
       "pageNumber": 98,
       "content": "十二",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 22,
     "averageCharsPerPage": 461,
-    "chapterTitles": []
+    "chapterTitles": [
+      "感化院の太鼓（二場）"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 3,
       "content": "第一場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -105,8 +106,7 @@
       "pageNumber": 11,
       "content": "第二場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

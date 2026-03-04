@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "柾木孫平治《まさきまごへいじ》覚《おぼ》え書《がき》",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 9
       },
       {
         "id": "chapter-2",
         "title": "くらやみの太陽",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 21,
-            "endPage": 0
+            "endPage": 26
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-3",
         "title": "大日《だいにち》越《ご》え",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 45
           }
         ]
       },
@@ -93,7 +93,7 @@
         "id": "chapter-4",
         "title": "開《ひら》く桔梗《ききょう》",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 57,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -111,7 +111,7 @@
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 54,
-            "endPage": 0
+            "endPage": 57
           }
         ]
       },
@@ -119,7 +119,7 @@
         "id": "chapter-5",
         "title": "備中行《びっちゅうこう》",
         "startPage": 58,
-        "endPage": 0,
+        "endPage": 72,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -143,7 +143,7 @@
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 69,
-            "endPage": 0
+            "endPage": 72
           }
         ]
       },
@@ -151,7 +151,7 @@
         "id": "chapter-6",
         "title": "さみだれ陣",
         "startPage": 73,
-        "endPage": 0,
+        "endPage": 86,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -175,7 +175,7 @@
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 86
           }
         ]
       },
@@ -183,7 +183,7 @@
         "id": "chapter-7",
         "title": "湖心の扇",
         "startPage": 87,
-        "endPage": 0,
+        "endPage": 98,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -201,7 +201,7 @@
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 94,
-            "endPage": 0
+            "endPage": 98
           }
         ]
       },

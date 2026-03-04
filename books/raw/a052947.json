@@ -48,7 +48,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 306,
-    "chapterTitles": []
+    "chapterTitles": [
+      "静かな歩み"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 6,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -161,8 +160,7 @@
       "pageNumber": 18,
       "content": "４",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

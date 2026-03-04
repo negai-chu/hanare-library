@@ -210,7 +210,9 @@
     ],
     "totalPages": 153,
     "averageCharsPerPage": 295,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一休さん"
+    ]
   },
   "content": [
     {
@@ -224,8 +226,7 @@
       "pageNumber": 2,
       "content": "お母《かあ》さま",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -249,8 +250,7 @@
       "pageNumber": 6,
       "content": "父《ちち》は　てんのう",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -268,8 +268,7 @@
       "pageNumber": 9,
       "content": "雪《ゆき》のあさ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -299,8 +298,7 @@
       "pageNumber": 14,
       "content": "六《むっ》つの　ひな僧《そう》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -318,8 +316,7 @@
       "pageNumber": 17,
       "content": "みずあめと　どくやく",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -367,8 +364,7 @@
       "pageNumber": 25,
       "content": "死《し》ぬ　つもりで！",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -404,8 +400,7 @@
       "pageNumber": 31,
       "content": "かたわれの　月《つき》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -441,8 +436,7 @@
       "pageNumber": 37,
       "content": "皮《かわ》もんどう",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -484,8 +478,7 @@
       "pageNumber": 44,
       "content": "この　はし　わたるな",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -503,8 +496,7 @@
       "pageNumber": 47,
       "content": "この　はし　わたるな",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -528,8 +520,7 @@
       "pageNumber": 51,
       "content": "したから　うえに　さがるもの",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -553,8 +544,7 @@
       "pageNumber": 55,
       "content": "びょうぶの　とら",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -596,8 +586,7 @@
       "pageNumber": 62,
       "content": "さかなと　にくと　おさけと　かたな",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -639,8 +628,7 @@
       "pageNumber": 69,
       "content": "ほんとうの　ぼうさん",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -670,8 +658,7 @@
       "pageNumber": 74,
       "content": "口《くち》と　手《て》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -695,8 +682,7 @@
       "pageNumber": 78,
       "content": "でるか　はいるか",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -726,8 +712,7 @@
       "pageNumber": 83,
       "content": "とりの　もんどう",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -745,8 +730,7 @@
       "pageNumber": 86,
       "content": "十三ねん目《め》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -770,8 +754,7 @@
       "pageNumber": 90,
       "content": "あたまは　石《いし》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -795,8 +778,7 @@
       "pageNumber": 94,
       "content": "米《こめ》がない",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -826,8 +808,7 @@
       "pageNumber": 99,
       "content": "かたい　けっしん",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -845,8 +826,7 @@
       "pageNumber": 102,
       "content": "わかれを　つげて",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -870,8 +850,7 @@
       "pageNumber": 106,
       "content": "雪《ゆき》の　あさ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -895,8 +874,7 @@
       "pageNumber": 110,
       "content": "からすの　こえ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -914,8 +892,7 @@
       "pageNumber": 113,
       "content": "一休《いっきゅう》と　いう　なまえ",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -927,8 +904,7 @@
       "pageNumber": 115,
       "content": "たびに　でる",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -952,8 +928,7 @@
       "pageNumber": 119,
       "content": "てんぐの　どうじょう",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1019,8 +994,7 @@
       "pageNumber": 130,
       "content": "かさ　もんどう",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 131,
@@ -1056,8 +1030,7 @@
       "pageNumber": 136,
       "content": "正月《しょうがつ》の　しゃれこうべ",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 137,
@@ -1081,8 +1054,7 @@
       "pageNumber": 140,
       "content": "とのさまの　そうしき",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1118,8 +1090,7 @@
       "pageNumber": 146,
       "content": "たった　一日《にち》だけの　ようし",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 147,
@@ -1149,8 +1120,7 @@
       "pageNumber": 151,
       "content": "てんのうの　おつかい",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "焼跡"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "洋傘",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "石",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

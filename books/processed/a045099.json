@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "カンテラ",
-        "startPage": 1,
-        "endPage": 3
+        "startPage": 2,
+        "endPage": 4
       }
     ],
-    "totalPages": 3,
-    "averageCharsPerPage": 45,
-    "chapterTitles": []
+    "totalPages": 4,
+    "averageCharsPerPage": 33,
+    "chapterTitles": [
+      "カンテラ"
+    ]
   },
   "content": [
     {
@@ -34,14 +36,21 @@
     },
     {
       "pageNumber": 2,
-      "content": "　カンテラ\n\n坑《あな》の奥、\n\n坑夫の肩を\n\nてらしてる。\n\nつるはし\n\nつるはし\n\n坑の奥、\n\nカーン／＼と\n\nつかれてる。",
-      "characters": 64,
-      "ruby": []
+      "content": "カンテラ",
+      "characters": 4,
+      "ruby": [],
+      "displayType": "book-title"
     },
     {
       "pageNumber": 3,
-      "content": "トロツコ\n\nトロツコ\n\n坑の奥、\n\n一ぱい積んで\n\nよろけてる。\n\n明日《あした》よ\n\n明日よ\n\n坑の奥、\n\n坑夫はカンテラみつめてる。",
-      "characters": 68,
+      "content": "坑《あな》の奥、\n\n坑夫の肩を\n\nてらしてる。\n\nつるはし\n\nつるはし\n\n坑の奥、\n\nカーン／＼と\n\nつかれてる。",
+      "characters": 57,
+      "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "　トロツコ\n\nトロツコ\n\n坑の奥、\n\n一ぱい積んで\n\nよろけてる。\n\n明日《あした》よ\n\n明日よ\n\n坑の奥、\n\n坑夫はカンテラみつめてる。",
+      "characters": 69,
       "ruby": []
     }
   ]

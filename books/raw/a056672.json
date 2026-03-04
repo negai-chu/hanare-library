@@ -222,7 +222,9 @@
     ],
     "totalPages": 202,
     "averageCharsPerPage": 484,
-    "chapterTitles": []
+    "chapterTitles": [
+      "虎の牙"
+    ]
   },
   "content": [
     {
@@ -236,8 +238,7 @@
       "pageNumber": 2,
       "content": "魔法博士",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -279,8 +280,7 @@
       "pageNumber": 9,
       "content": "透明妖怪",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -322,8 +322,7 @@
       "pageNumber": 16,
       "content": "小林少年",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -353,8 +352,7 @@
       "pageNumber": 21,
       "content": "ふしぎな国",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -396,8 +394,7 @@
       "pageNumber": 28,
       "content": "黒《こく》魔術",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -427,8 +424,7 @@
       "pageNumber": 33,
       "content": "空中浮遊術",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -458,8 +454,7 @@
       "pageNumber": 38,
       "content": "宙に浮く首",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -483,8 +478,7 @@
       "pageNumber": 42,
       "content": "かべをはうもの",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -526,8 +520,7 @@
       "pageNumber": 49,
       "content": "石の獅子《しし》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -575,8 +568,7 @@
       "pageNumber": 57,
       "content": "虎の影",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -624,8 +616,7 @@
       "pageNumber": 65,
       "content": "深夜の怪事件",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -655,8 +646,7 @@
       "pageNumber": 70,
       "content": "猛虎ヨーガ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -698,8 +688,7 @@
       "pageNumber": 77,
       "content": "怪屋《かいおく》の怪",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -735,8 +724,7 @@
       "pageNumber": 83,
       "content": "恐怖の歯がた",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -766,8 +754,7 @@
       "pageNumber": 88,
       "content": "怪老人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -797,8 +784,7 @@
       "pageNumber": 93,
       "content": "おそろしきなぞ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,
@@ -840,8 +826,7 @@
       "pageNumber": 100,
       "content": "人どろぼう",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -871,8 +856,7 @@
       "pageNumber": 105,
       "content": "ゴムひも",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -902,8 +886,7 @@
       "pageNumber": 110,
       "content": "名探偵の危難",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -939,8 +922,7 @@
       "pageNumber": 116,
       "content": "魔法の鏡",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -988,8 +970,7 @@
       "pageNumber": 124,
       "content": "名探偵の幽霊",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 125,
@@ -1031,8 +1012,7 @@
       "pageNumber": 131,
       "content": "巨人と怪人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,
@@ -1068,8 +1048,7 @@
       "pageNumber": 137,
       "content": "大魔術",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 138,
@@ -1105,8 +1084,7 @@
       "pageNumber": 143,
       "content": "最後の切り札",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -1142,8 +1120,7 @@
       "pageNumber": 149,
       "content": "地底の怪人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1179,8 +1156,7 @@
       "pageNumber": 155,
       "content": "密室のなぞ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1216,8 +1192,7 @@
       "pageNumber": 161,
       "content": "塔上の魔術師",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 162,
@@ -1253,8 +1228,7 @@
       "pageNumber": 167,
       "content": "墜落する悪魔",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 168,
@@ -1278,8 +1252,7 @@
       "pageNumber": 171,
       "content": "とかれたなぞ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 172,
@@ -1315,8 +1288,7 @@
       "pageNumber": 177,
       "content": "少年尾行隊",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 178,
@@ -1358,8 +1330,7 @@
       "pageNumber": 184,
       "content": "小林少年の冒険",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 185,
@@ -1389,8 +1360,7 @@
       "pageNumber": 189,
       "content": "明智夫人の危難",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1444,8 +1414,7 @@
       "pageNumber": 198,
       "content": "機動警察隊",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 199,

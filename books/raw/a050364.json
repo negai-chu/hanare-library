@@ -54,7 +54,9 @@
     ],
     "totalPages": 22,
     "averageCharsPerPage": 386,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新撰組"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "一　清河八郎《きよかわはちろう》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "二　肥後守容保《かたもり》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -130,8 +130,7 @@
       "pageNumber": 12,
       "content": "三　芹沢鴨《せりざわかも》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -149,8 +148,7 @@
       "pageNumber": 15,
       "content": "四　近藤勇",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -174,8 +172,7 @@
       "pageNumber": 19,
       "content": "五　続",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,

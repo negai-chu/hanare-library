@@ -42,7 +42,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 409,
-    "chapterTitles": []
+    "chapterTitles": [
+      "革命を待つ心"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "環境が人をつくる",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "パンパンにされた日本",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -118,8 +118,7 @@
       "pageNumber": 12,
       "content": "安賣りは止めよ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

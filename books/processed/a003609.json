@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "十歳以前に読んだ本",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "幼少期の読書体験"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 442,
-    "chapterTitles": []
+    "chapterTitles": [
+      "十歳以前に読んだ本"
+    ]
   },
   "content": [
     {

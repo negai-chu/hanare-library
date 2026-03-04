@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "何んでも無い",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 104
       },
       {
         "id": "chapter-2",
         "title": "殺人リレー",
         "startPage": 105,
-        "endPage": 0,
+        "endPage": 128,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-2-section-6",
             "number": "第六の手紙",
             "startPage": 126,
-            "endPage": 0
+            "endPage": 128
           }
         ]
       },

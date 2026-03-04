@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "箱根熱海バス紀行",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "箱根から熱海への旅"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 550,
-    "chapterTitles": []
+    "chapterTitles": [
+      "箱根熱海バス紀行"
+    ]
   },
   "content": [
     {

@@ -30,7 +30,9 @@
     ],
     "totalPages": 60,
     "averageCharsPerPage": 563,
-    "chapterTitles": []
+    "chapterTitles": [
+      "スリーピー・ホローの伝説"
+    ]
   },
   "content": [
     {
@@ -380,8 +382,7 @@
       "pageNumber": 58,
       "content": "あとがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,

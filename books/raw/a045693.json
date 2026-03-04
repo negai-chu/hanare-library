@@ -42,7 +42,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 344,
-    "chapterTitles": []
+    "chapterTitles": [
+      "紅色ダイヤ"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "謎の手紙",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 12,
       "content": "暗号",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -196,8 +196,7 @@
       "pageNumber": 25,
       "content": "意外の犯人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "桜",
         "startPage": 1,
-        "endPage": 17,
-        "summary": "桜を詠む歌の群れ"
+        "endPage": 17
       }
     ],
     "totalPages": 17,
     "averageCharsPerPage": 324,
-    "chapterTitles": []
+    "chapterTitles": [
+      "桜"
+    ]
   },
   "content": [
     {

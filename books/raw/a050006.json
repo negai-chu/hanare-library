@@ -72,7 +72,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 181,
-    "chapterTitles": []
+    "chapterTitles": [
+      "夜寒に火を囲んで懐しい雑炊"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 3,
       "content": "牡蠣《かき》雑炊",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -105,8 +106,7 @@
       "pageNumber": 5,
       "content": "納豆雑炊《なっとうぞうすい》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 7,
       "content": "餅《もち》雑炊",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -131,8 +130,7 @@
       "pageNumber": 9,
       "content": "猪肉《いのしし》雑炊",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -144,8 +142,7 @@
       "pageNumber": 11,
       "content": "鳥肉雑炊《とりぞうすい》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -157,8 +154,7 @@
       "pageNumber": 13,
       "content": "なめこ雑炊",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -170,8 +166,7 @@
       "pageNumber": 15,
       "content": "蟹《かに》雑炊",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -183,8 +178,7 @@
       "pageNumber": 17,
       "content": "焼き魚の雑炊",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

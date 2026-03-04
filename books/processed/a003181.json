@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "列のこころ",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "行列に並ぶ日常"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 522,
-    "chapterTitles": []
+    "chapterTitles": [
+      "列のこころ"
+    ]
   },
   "content": [
     {

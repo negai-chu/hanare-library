@@ -30,7 +30,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 297,
-    "chapterTitles": []
+    "chapterTitles": [
+      "土用干ノ記"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 4,
       "content": "（第二）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,

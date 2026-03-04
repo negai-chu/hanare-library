@@ -60,7 +60,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 282,
-    "chapterTitles": []
+    "chapterTitles": [
+      "泡盛物語"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 7,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -124,8 +124,7 @@
       "pageNumber": 10,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -155,8 +154,7 @@
       "pageNumber": 15,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -174,8 +172,7 @@
       "pageNumber": 18,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -199,8 +196,7 @@
       "pageNumber": 22,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

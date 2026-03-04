@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "序論の提示"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一部「社会科学」的イデオロギー論の綱要",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -42,16 +41,15 @@
             "id": "chapter-2-section-3",
             "number": "第三章　諸科学のイデオロギー論",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 129
           }
-        ],
-        "summary": "社会科学的分析"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二部「社会学」的イデオロギー論の批判",
         "startPage": 130,
-        "endPage": 0,
+        "endPage": 221,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -63,17 +61,15 @@
             "id": "chapter-3-section-2",
             "number": "第五章　知識社会学の批判",
             "startPage": 172,
-            "endPage": 0
+            "endPage": 221
           }
-        ],
-        "summary": "社会学的批判"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "文献",
         "startPage": 222,
-        "endPage": 300,
-        "summary": "参考文献一覧"
+        "endPage": 300
       }
     ],
     "totalPages": 300,

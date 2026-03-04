@@ -54,7 +54,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 240,
-    "chapterTitles": []
+    "chapterTitles": [
+      "我輩の智識吸収法"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "大隈は耳学問だろうと言うものがある",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 4,
       "content": "しかし我輩は耳はあまり使っておらぬ",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -94,8 +94,7 @@
       "pageNumber": 6,
       "content": "勿論暇さえあれば我輩は書物を読む",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -107,8 +106,7 @@
       "pageNumber": 8,
       "content": "社会と遠ざからぬ様に読書が必要である",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -120,8 +118,7 @@
       "pageNumber": 10,
       "content": "現代の青年にはこの悪い習慣がある",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

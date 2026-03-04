@@ -17,31 +17,31 @@
         "id": "chapter-1",
         "title": "日本譯の序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "イギリス譯の序",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 17
       },
       {
         "id": "chapter-3",
         "title": "第一章　ブルジョアとプロレタリヤ（１）",
         "startPage": 18,
-        "endPage": 0
+        "endPage": 38
       },
       {
         "id": "chapter-4",
         "title": "第二章　プロレタリヤと共産主義者",
         "startPage": 39,
-        "endPage": 0
+        "endPage": 51
       },
       {
         "id": "chapter-5",
         "title": "第三章　社會主義および共産主義文書",
         "startPage": 52,
-        "endPage": 0,
+        "endPage": 66,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-5-section-3",
             "number": "三　批評的・空想的の社會主義および共産主義",
             "startPage": 62,
-            "endPage": 0
+            "endPage": 66
           }
         ]
       },

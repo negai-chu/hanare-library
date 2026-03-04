@@ -48,7 +48,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 257,
-    "chapterTitles": []
+    "chapterTitles": [
+      "千里の駒後日譚拾遺"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "（一回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -87,8 +88,7 @@
       "pageNumber": 6,
       "content": "（二回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "（三回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -125,8 +124,7 @@
       "pageNumber": 12,
       "content": "附記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

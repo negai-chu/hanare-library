@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序論",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "意識と時間の問題提起"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "本論",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -54,17 +53,15 @@
             "id": "chapter-2-section-5",
             "number": "五、結論、再び過去に就て",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 13
           }
-        ],
-        "summary": "時間意識の哲学的考察"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "後記",
         "startPage": 14,
-        "endPage": 15,
-        "summary": "論考の補足と後書き"
+        "endPage": 15
       }
     ],
     "totalPages": 15,

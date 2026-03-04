@@ -17,45 +17,39 @@
         "id": "chapter-1",
         "title": "発端",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 18,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 6,
-            "endPage": 8,
-            "summary": "事の起こり"
+            "endPage": 8
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 9,
-            "endPage": 12,
-            "summary": "追跡の旅路"
+            "endPage": 12
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 0,
-            "summary": "仇の発見"
+            "endPage": 18
           }
-        ],
-        "summary": "仇討ちの因縁"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "大団円",
         "startPage": 19,
-        "endPage": 0,
-        "summary": "決闘の結末"
+        "endPage": 24
       },
       {
         "id": "chapter-3",
         "title": "後談",
         "startPage": 25,
-        "endPage": 26,
-        "summary": "仇討ちの後日譚"
+        "endPage": 26
       }
     ],
     "totalPages": 26,

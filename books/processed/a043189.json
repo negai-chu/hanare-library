@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "推理小説論",
         "startPage": 1,
-        "endPage": 13,
-        "summary": "推理小説の本質論"
+        "endPage": 13
       }
     ],
     "totalPages": 13,
     "averageCharsPerPage": 575,
-    "chapterTitles": []
+    "chapterTitles": [
+      "推理小説論"
+    ]
   },
   "content": [
     {

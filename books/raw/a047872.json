@@ -36,7 +36,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 492,
-    "chapterTitles": []
+    "chapterTitles": [
+      "生者と死者"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "閑古鳥",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 14,
       "content": "山茶花など",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

@@ -17,32 +17,34 @@
         "id": "chapter-1",
         "title": "AU RIMBAUD",
         "startPage": 1,
-        "endPage": 7,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
-            "startPage": 6,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 7,
-    "averageCharsPerPage": 44,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 104,
+    "chapterTitles": [
+      "AU RIMBAUD"
+    ]
   },
   "content": [
     {
@@ -54,39 +56,12 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　１\n\nKiosque au Rimbaud\n\n“Marila”  la main,\n\nLe ciel est beau,\n\nEh ! tout le sang est Pain.２Ne voici le pote,\n\nMille familles dans le mme toit\n\nRevoici le pote :\n\nOn ne fait que le droit.３",
+      "characters": 187,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　Kiosque au Rimbaud\n\n“Marila”  la main,\n\nLe ciel est beau,\n\nEh ! tout le sang est Pain.",
-      "characters": 87,
-      "ruby": []
-    },
-    {
-      "pageNumber": 4,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "Ne voici le pote,\n\nMille familles dans le mme toit\n\nRevoici le pote :\n\nOn ne fait que le droit.",
-      "characters": 95,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
-      "content": "３",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
       "content": "Que Dieu le luise et le pose !\n\nQu'il ne voie pas ouvrir\n\nLes parasols bleus et rose\n\nParmi les flots : les martyrs !",
       "characters": 117,
       "ruby": []

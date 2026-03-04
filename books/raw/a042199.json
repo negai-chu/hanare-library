@@ -36,7 +36,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 511,
-    "chapterTitles": []
+    "chapterTitles": [
+      "おとずれ"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 18,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

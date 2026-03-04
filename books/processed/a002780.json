@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "近頃の話題",
         "startPage": 1,
-        "endPage": 13,
-        "summary": "音楽と文壇の近況"
+        "endPage": 13
       }
     ],
     "totalPages": 13,
     "averageCharsPerPage": 539,
-    "chapterTitles": []
+    "chapterTitles": [
+      "近頃の話題"
+    ]
   },
   "content": [
     {

@@ -60,7 +60,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 137,
-    "chapterTitles": []
+    "chapterTitles": [
+      "湯ヶ島の数日"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "十二月二十八日",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "十二月二十九日",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 7,
       "content": "十二月三十日。",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -119,8 +118,7 @@
       "pageNumber": 9,
       "content": "十二月三十一日。",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -132,8 +130,7 @@
       "pageNumber": 11,
       "content": "正月元日。",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -145,8 +142,7 @@
       "pageNumber": 13,
       "content": "正月二日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

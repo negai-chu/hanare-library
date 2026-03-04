@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "自分のこと",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "半生の自画像"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 322,
-    "chapterTitles": []
+    "chapterTitles": [
+      "自分のこと"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "新しい芝居",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "文学座五年の歩みと新しい劇"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 190,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新しい芝居"
+    ]
   },
   "content": [
     {

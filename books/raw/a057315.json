@@ -90,7 +90,9 @@
     ],
     "totalPages": 55,
     "averageCharsPerPage": 261,
-    "chapterTitles": []
+    "chapterTitles": [
+      "大岡越前の独立"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -141,8 +142,7 @@
       "pageNumber": 8,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -178,8 +178,7 @@
       "pageNumber": 14,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -209,8 +208,7 @@
       "pageNumber": 19,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -246,8 +244,7 @@
       "pageNumber": 25,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -271,8 +268,7 @@
       "pageNumber": 29,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -314,8 +310,7 @@
       "pageNumber": 36,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -339,8 +334,7 @@
       "pageNumber": 40,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -364,8 +358,7 @@
       "pageNumber": 44,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -389,8 +382,7 @@
       "pageNumber": 48,
       "content": "十",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -414,8 +406,7 @@
       "pageNumber": 52,
       "content": "十一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,

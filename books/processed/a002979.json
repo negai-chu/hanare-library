@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "作品と生活のこと",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "作品と生活の関係"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 399,
-    "chapterTitles": []
+    "chapterTitles": [
+      "作品と生活のこと"
+    ]
   },
   "content": [
     {

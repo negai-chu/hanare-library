@@ -42,7 +42,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 286,
-    "chapterTitles": []
+    "chapterTitles": [
+      "三つのなぜ"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一　なぜファウストは悪魔に出会ったか？",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "二　なぜソロモンはシバの女王とたった一度しか会わなかったか？",
       "characters": 30,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 10,
       "content": "三　なぜロビンソンは猿を飼ったか？",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

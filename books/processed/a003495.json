@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "新しいアカデミアを",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "新たな学問の府"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新しいアカデミアを"
+    ]
   },
   "content": [
     {

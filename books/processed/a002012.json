@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "道標　第一部",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 456,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,16 +35,15 @@
             "id": "chapter-1-section-3",
             "number": "第三章",
             "startPage": 361,
-            "endPage": 0
+            "endPage": 456
           }
-        ],
-        "summary": "道標の第一部"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "道標　第二部",
         "startPage": 457,
-        "endPage": 0,
+        "endPage": 882,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -56,16 +55,15 @@
             "id": "chapter-2-section-2",
             "number": "第二章",
             "startPage": 690,
-            "endPage": 0
+            "endPage": 882
           }
-        ],
-        "summary": "道標の第二部"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "道標　第三部",
         "startPage": 883,
-        "endPage": 0,
+        "endPage": 1514,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -89,10 +87,9 @@
             "id": "chapter-3-section-4",
             "number": "第四章",
             "startPage": 1315,
-            "endPage": 0
+            "endPage": 1514
           }
-        ],
-        "summary": "道標の第三部"
+        ]
       },
       {
         "id": "chapter-4",
@@ -112,8 +109,7 @@
             "startPage": 1606,
             "endPage": 1623
           }
-        ],
-        "summary": "関連資料"
+        ]
       }
     ],
     "totalPages": 1623,

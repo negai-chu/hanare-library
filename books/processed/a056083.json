@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "〔序幕〕",
         "startPage": 3,
-        "endPage": 0,
+        "endPage": 4,
         "sections": [
           {
             "id": "chapter-1-section-2",
@@ -41,7 +41,7 @@
             "id": "chapter-1-section-5",
             "number": "第五場　三たび三蔵の家",
             "startPage": 4,
-            "endPage": 0
+            "endPage": 4
           }
         ]
       },
@@ -49,7 +49,7 @@
         "id": "chapter-2",
         "title": "〔二幕目〕",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 7
       },
       {
         "id": "chapter-3",

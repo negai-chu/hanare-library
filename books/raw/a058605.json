@@ -36,7 +36,9 @@
     ],
     "totalPages": 33,
     "averageCharsPerPage": 798,
-    "chapterTitles": []
+    "chapterTitles": [
+      "帝室論"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "帝室論緒言",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -63,8 +64,7 @@
       "pageNumber": 4,
       "content": "帝室論",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,

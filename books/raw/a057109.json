@@ -192,7 +192,9 @@
     ],
     "totalPages": 180,
     "averageCharsPerPage": 430,
-    "chapterTitles": []
+    "chapterTitles": [
+      "塔上の奇術師"
+    ]
   },
   "content": [
     {
@@ -206,8 +208,7 @@
       "pageNumber": 2,
       "content": "ふしぎな時計塔",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -255,8 +256,7 @@
       "pageNumber": 10,
       "content": "宝石ばこ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -298,8 +298,7 @@
       "pageNumber": 17,
       "content": "恐ろしい電話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -335,8 +334,7 @@
       "pageNumber": 23,
       "content": "きみょうなうたがい",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -378,8 +376,7 @@
       "pageNumber": 30,
       "content": "午後十時",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -403,8 +400,7 @@
       "pageNumber": 34,
       "content": "四十面相の変装",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -428,8 +424,7 @@
       "pageNumber": 38,
       "content": "小林少年の冒険",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -459,8 +454,7 @@
       "pageNumber": 43,
       "content": "ふたりの一郎青年",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -502,8 +496,7 @@
       "pageNumber": 50,
       "content": "屋上の怪人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -533,8 +526,7 @@
       "pageNumber": 55,
       "content": "変装から変装へ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -558,8 +550,7 @@
       "pageNumber": 59,
       "content": "少女探偵",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -601,8 +592,7 @@
       "pageNumber": 66,
       "content": "赤い道化師",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -638,8 +628,7 @@
       "pageNumber": 72,
       "content": "地底の穴ぐら",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -687,8 +676,7 @@
       "pageNumber": 80,
       "content": "かすかな声",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -730,8 +718,7 @@
       "pageNumber": 87,
       "content": "金ぴかの部屋",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -779,8 +766,7 @@
       "pageNumber": 95,
       "content": "笑う四十面相",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 96,
@@ -804,8 +790,7 @@
       "pageNumber": 99,
       "content": "探偵犬",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -841,8 +826,7 @@
       "pageNumber": 105,
       "content": "大時計の怪",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -878,8 +862,7 @@
       "pageNumber": 111,
       "content": "文字ばんの穴",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
@@ -909,8 +892,7 @@
       "pageNumber": 116,
       "content": "双眼鏡",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -952,8 +934,7 @@
       "pageNumber": 123,
       "content": "白い幽霊",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -977,8 +958,7 @@
       "pageNumber": 127,
       "content": "６・５・４",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1014,8 +994,7 @@
       "pageNumber": 133,
       "content": "３・２・１",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1045,8 +1024,7 @@
       "pageNumber": 138,
       "content": "時計塔の秘密",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,
@@ -1076,8 +1054,7 @@
       "pageNumber": 143,
       "content": "恐ろしい手紙",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -1125,8 +1102,7 @@
       "pageNumber": 151,
       "content": "ヨシ子ちゃんの危難",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1174,8 +1150,7 @@
       "pageNumber": 159,
       "content": "三人のかえだま",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 160,
@@ -1259,8 +1234,7 @@
       "pageNumber": 173,
       "content": "ヘリコプター",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 174,

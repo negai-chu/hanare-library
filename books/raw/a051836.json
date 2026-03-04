@@ -42,7 +42,9 @@
     ],
     "totalPages": 46,
     "averageCharsPerPage": 495,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ママ先生とその夫"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 4,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -147,8 +148,7 @@
       "pageNumber": 17,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -250,8 +250,7 @@
       "pageNumber": 34,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,

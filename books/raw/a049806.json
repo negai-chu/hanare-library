@@ -42,7 +42,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 378,
-    "chapterTitles": []
+    "chapterTitles": [
+      "火葬と大蔵"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一　火葬の初めという事",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "二　洗骨の風",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -124,8 +124,7 @@
       "pageNumber": 13,
       "content": "三　大蔵（屍体処理の一方法）",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

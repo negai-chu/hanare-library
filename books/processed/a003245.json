@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "絵本の春",
         "startPage": 1,
-        "endPage": 16,
-        "summary": "山国の春と絵本の記憶"
+        "endPage": 16
       }
     ],
     "totalPages": 16,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "絵本の春"
+    ]
   },
   "content": [
     {

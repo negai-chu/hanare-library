@@ -42,7 +42,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 381,
-    "chapterTitles": []
+    "chapterTitles": [
+      "不死の薬"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 7,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -118,8 +118,7 @@
       "pageNumber": 12,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

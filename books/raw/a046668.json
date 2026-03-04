@@ -48,7 +48,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 481,
-    "chapterTitles": []
+    "chapterTitles": [
+      "改暦弁"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "大陽暦《たいやうれき》と大陰暦《たいゝんれき》との辨別《べんべつ》",
       "characters": 33,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 8,
       "content": "ウヰークの日の名《な》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -112,8 +112,7 @@
       "pageNumber": 10,
       "content": "一年の月の名《な》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -131,8 +130,7 @@
       "pageNumber": 13,
       "content": "時計《とけい》の見樣《みやう》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 354,
-    "chapterTitles": []
+    "chapterTitles": [
+      "始業式訓示"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "〔すべて時代に従って発達する〕",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "〔世界改造と自由独立の権利〕",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 8,
       "content": "〔欧米の文明は誤れり〕",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -137,8 +136,7 @@
       "pageNumber": 14,
       "content": "〔大なる希望をもって目的を達したい〕",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "時感",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 49,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -173,7 +173,7 @@
             "id": "chapter-2-section-25",
             "number": "女",
             "startPage": 48,
-            "endPage": 0
+            "endPage": 49
           }
         ]
       },
@@ -181,7 +181,7 @@
         "id": "chapter-3",
         "title": "文學",
         "startPage": 50,
-        "endPage": 0,
+        "endPage": 142,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -325,7 +325,7 @@
             "id": "chapter-3-section-24",
             "number": "新聞小説の舊套打破",
             "startPage": 141,
-            "endPage": 0
+            "endPage": 142
           }
         ]
       },
@@ -333,7 +333,7 @@
         "id": "chapter-4",
         "title": "史感",
         "startPage": 143,
-        "endPage": 0,
+        "endPage": 196,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -393,7 +393,7 @@
             "id": "chapter-4-section-10",
             "number": "武者修業時代",
             "startPage": 187,
-            "endPage": 0
+            "endPage": 196
           }
         ]
       },

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "一言二言三言",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "劇壇への率直な一言"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 304,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一言二言三言"
+    ]
   },
   "content": [
     {

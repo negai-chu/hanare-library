@@ -30,7 +30,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 307,
-    "chapterTitles": []
+    "chapterTitles": [
+      "第二真珠抄"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "ほのかなるもの",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

@@ -96,7 +96,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 311,
-    "chapterTitles": []
+    "chapterTitles": [
+      "釣十二ヶ月"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "一月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -135,8 +136,7 @@
       "pageNumber": 6,
       "content": "二月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -160,8 +160,7 @@
       "pageNumber": 10,
       "content": "三月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -173,8 +172,7 @@
       "pageNumber": 12,
       "content": "四月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -192,8 +190,7 @@
       "pageNumber": 15,
       "content": "五月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -211,8 +208,7 @@
       "pageNumber": 18,
       "content": "六月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -224,8 +220,7 @@
       "pageNumber": 20,
       "content": "七月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -249,8 +244,7 @@
       "pageNumber": 24,
       "content": "八月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -262,8 +256,7 @@
       "pageNumber": 26,
       "content": "九月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -275,8 +268,7 @@
       "pageNumber": 28,
       "content": "十月",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -288,8 +280,7 @@
       "pageNumber": 30,
       "content": "十一月",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -301,8 +292,7 @@
       "pageNumber": 32,
       "content": "十二月",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,

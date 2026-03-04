@@ -60,7 +60,9 @@
     ],
     "totalPages": 41,
     "averageCharsPerPage": 436,
-    "chapterTitles": []
+    "chapterTitles": [
+      "観潮楼始末記"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -147,8 +148,7 @@
       "pageNumber": 14,
       "content": "中",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -202,8 +202,7 @@
       "pageNumber": 23,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -269,8 +268,7 @@
       "pageNumber": 34,
       "content": "追記一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -288,8 +286,7 @@
       "pageNumber": 37,
       "content": "追記二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -307,8 +304,7 @@
       "pageNumber": 40,
       "content": "追記三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,

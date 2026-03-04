@@ -72,7 +72,9 @@
     ],
     "totalPages": 68,
     "averageCharsPerPage": 501,
-    "chapterTitles": []
+    "chapterTitles": [
+      "転機"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 12,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -190,8 +190,7 @@
       "pageNumber": 19,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -251,8 +250,7 @@
       "pageNumber": 29,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -300,8 +298,7 @@
       "pageNumber": 37,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -349,8 +346,7 @@
       "pageNumber": 45,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -392,8 +388,7 @@
       "pageNumber": 52,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -441,8 +436,7 @@
       "pageNumber": 60,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,

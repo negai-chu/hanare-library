@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "新春太平綺語",
         "startPage": 106,
-        "endPage": 0
+        "endPage": 202
       },
       {
         "id": "chapter-2",
         "title": "筆間茶話",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 104,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -197,7 +197,7 @@
             "id": "chapter-2-section-29",
             "number": "その二十九",
             "startPage": 89,
-            "endPage": 0
+            "endPage": 104
           }
         ]
       },
@@ -211,7 +211,7 @@
         "id": "chapter-4",
         "title": "太平記寸感",
         "startPage": 203,
-        "endPage": 0
+        "endPage": 207
       },
       {
         "id": "chapter-5",

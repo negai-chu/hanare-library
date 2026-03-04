@@ -72,7 +72,9 @@
     ],
     "totalPages": 48,
     "averageCharsPerPage": 395,
-    "chapterTitles": []
+    "chapterTitles": [
+      "七日七夜"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 8,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -154,8 +154,7 @@
       "pageNumber": 13,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -191,8 +190,7 @@
       "pageNumber": 19,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -222,8 +220,7 @@
       "pageNumber": 24,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -265,8 +262,7 @@
       "pageNumber": 31,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -302,8 +298,7 @@
       "pageNumber": 37,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -339,8 +334,7 @@
       "pageNumber": 43,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,

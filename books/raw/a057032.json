@@ -54,7 +54,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 406,
-    "chapterTitles": []
+    "chapterTitles": [
+      "那須、尾瀬、赤城、志賀高原"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "那須岳",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 5,
       "content": "尾瀬",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 10,
       "content": "赤城山",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -143,8 +142,7 @@
       "pageNumber": 14,
       "content": "志賀高原",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -156,8 +154,7 @@
       "pageNumber": 16,
       "content": "妙高山",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

@@ -17,49 +17,43 @@
         "id": "chapter-1",
         "title": "報告（ウルトラマリン第一）",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "異国からの詩的報告"
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "兇牙利的（ウルトラマリン第二）",
         "startPage": 7,
-        "endPage": 0,
-        "summary": "匈牙利的な感覚の詩"
+        "endPage": 9
       },
       {
         "id": "chapter-3",
         "title": "死ト現象（ウルトラマリン第三）",
         "startPage": 10,
-        "endPage": 0,
-        "summary": "死と現象への凝視"
+        "endPage": 14
       },
       {
         "id": "chapter-4",
         "title": "曝ラサレタ歌",
         "startPage": 15,
-        "endPage": 0,
-        "summary": "剥き出しの歌の断片"
+        "endPage": 17
       },
       {
         "id": "chapter-5",
         "title": "曝ラサレタ歌",
         "startPage": 15,
-        "endPage": 0,
-        "summary": "曝された言葉の続き"
+        "endPage": 17
       },
       {
         "id": "chapter-6",
         "title": "檻",
         "startPage": 23,
-        "endPage": 0,
-        "summary": "檻の中の詩的世界"
+        "endPage": 26
       },
       {
         "id": "chapter-7",
         "title": "シイ天幕",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -67,126 +61,109 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "天幕の下の情景"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "ナマ",
         "startPage": 35,
-        "endPage": 0,
-        "summary": "生々しい感覚の詩"
+        "endPage": 36
       },
       {
         "id": "chapter-9",
         "title": "牙のある肖像",
         "startPage": 37,
-        "endPage": 0,
-        "summary": "牙ある者の肖像"
+        "endPage": 41
       },
       {
         "id": "chapter-10",
         "title": "途上",
         "startPage": 42,
-        "endPage": 0,
-        "summary": "旅の途上の詩情"
+        "endPage": 48
       },
       {
         "id": "chapter-11",
         "title": "煉瓦台にて",
         "startPage": 49,
-        "endPage": 0,
-        "summary": "煉瓦台の風景"
+        "endPage": 50
       },
       {
         "id": "chapter-12",
         "title": "大外套",
         "startPage": 51,
-        "endPage": 0,
-        "summary": "大外套に包まれた詩"
+        "endPage": 53
       },
       {
         "id": "chapter-13",
         "title": "終駅",
         "startPage": 54,
-        "endPage": 0,
-        "summary": "終着駅の情景"
+        "endPage": 59
       },
       {
         "id": "chapter-14",
         "title": "火ヲ享ケル",
         "startPage": 60,
-        "endPage": 0,
-        "summary": "火を受ける者の詩"
+        "endPage": 64
       },
       {
         "id": "chapter-15",
         "title": "海の非情",
         "startPage": 65,
-        "endPage": 0,
-        "summary": "海の冷酷な姿"
+        "endPage": 67
       },
       {
         "id": "chapter-16",
         "title": "神の犬",
         "startPage": 68,
-        "endPage": 0,
-        "summary": "神の犬への詩的想像"
+        "endPage": 69
       },
       {
         "id": "chapter-17",
         "title": "燼",
         "startPage": 70,
-        "endPage": 0,
-        "summary": "燼と化した残骸"
+        "endPage": 72
       },
       {
         "id": "chapter-18",
         "title": "手",
         "startPage": 73,
-        "endPage": 0,
-        "summary": "手という存在の詩"
+        "endPage": 76
       },
       {
         "id": "chapter-19",
         "title": "蠅の家族",
         "startPage": 77,
-        "endPage": 0,
-        "summary": "蠅の一族の描写"
+        "endPage": 80
       },
       {
         "id": "chapter-20",
         "title": "悪霊",
         "startPage": 81,
-        "endPage": 0,
-        "summary": "悪霊の気配"
+        "endPage": 82
       },
       {
         "id": "chapter-21",
         "title": "兇行",
         "startPage": 83,
-        "endPage": 0,
-        "summary": "兇行への衝動"
+        "endPage": 86
       },
       {
         "id": "chapter-22",
         "title": "無題",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "無題の詩的断章"
+        "endPage": 88
       },
       {
         "id": "chapter-23",
         "title": "ある日無音をわびて",
         "startPage": 89,
-        "endPage": 0,
-        "summary": "久しぶりの便り"
+        "endPage": 91
       },
       {
         "id": "chapter-24",
         "title": "青い図面",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 94,
         "sections": [
           {
             "id": "chapter-24-section-1",
@@ -198,101 +175,87 @@
             "id": "chapter-24-section-2",
             "number": "Ｂ",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 94
           }
-        ],
-        "summary": "青い設計図の幻想"
+        ]
       },
       {
         "id": "chapter-25",
         "title": "秋の封塞",
         "startPage": 95,
-        "endPage": 0,
-        "summary": "秋の閉塞感"
+        "endPage": 98
       },
       {
         "id": "chapter-26",
         "title": "眼鏡",
         "startPage": 99,
-        "endPage": 0,
-        "summary": "眼鏡越しの世界"
+        "endPage": 101
       },
       {
         "id": "chapter-27",
         "title": "老将",
         "startPage": 102,
-        "endPage": 0,
-        "summary": "老いた将軍の姿"
+        "endPage": 105
       },
       {
         "id": "chapter-28",
         "title": "哈爾浜",
         "startPage": 106,
-        "endPage": 0,
-        "summary": "哈爾浜の街の記憶"
+        "endPage": 108
       },
       {
         "id": "chapter-29",
         "title": "海拉爾",
         "startPage": 109,
-        "endPage": 0,
-        "summary": "海拉爾の大地"
+        "endPage": 111
       },
       {
         "id": "chapter-30",
         "title": "汗山《ハンオーラ》",
         "startPage": 112,
-        "endPage": 0,
-        "summary": "汗山の荒野"
+        "endPage": 113
       },
       {
         "id": "chapter-31",
         "title": "熱河",
         "startPage": 114,
-        "endPage": 0,
-        "summary": "熱河の風景"
+        "endPage": 115
       },
       {
         "id": "chapter-32",
         "title": "無題",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "無題の大陸の詩"
+        "endPage": 88
       },
       {
         "id": "chapter-33",
         "title": "無題",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "無題の戦地の詩"
+        "endPage": 88
       },
       {
         "id": "chapter-34",
         "title": "無題",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "無題の異境の詩"
+        "endPage": 88
       },
       {
         "id": "chapter-35",
         "title": "無題",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "無題の放浪の詩"
+        "endPage": 88
       },
       {
         "id": "chapter-36",
         "title": "黒竜江のほとりにて",
         "startPage": 124,
-        "endPage": 0,
-        "summary": "黒竜江畔の詩情"
+        "endPage": 126
       },
       {
         "id": "chapter-37",
         "title": "人傑地霊",
         "startPage": 127,
-        "endPage": 130,
-        "summary": "傑物たちの土地"
+        "endPage": 130
       }
     ],
     "totalPages": 130,

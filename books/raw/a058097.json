@@ -30,7 +30,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 477,
-    "chapterTitles": []
+    "chapterTitles": [
+      "物語の絵画化についてなど"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 11,
       "content": "附記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

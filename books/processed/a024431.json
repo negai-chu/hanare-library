@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "山のことぶれ",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "山を訪れる人々の民俗"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "山のことぶれ"
+    ]
   },
   "content": [
     {

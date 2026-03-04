@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序文",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一篇　戦争史大観",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-2-section-7",
             "number": "第七　現在に於ける我が国防",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 10
           }
         ]
       },
@@ -73,7 +73,7 @@
         "id": "chapter-3",
         "title": "第二篇　戦争史大観の序説（別名・戦争史大観の由来記）",
         "startPage": 11,
-        "endPage": 0
+        "endPage": 33
       },
       {
         "id": "chapter-4",

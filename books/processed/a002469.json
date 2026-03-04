@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "映画芸術",
         "startPage": 1,
-        "endPage": 50,
-        "summary": "映画芸術の本質"
+        "endPage": 50
       }
     ],
     "totalPages": 50,
     "averageCharsPerPage": 567,
-    "chapterTitles": []
+    "chapterTitles": [
+      "映画芸術"
+    ]
   },
   "content": [
     {

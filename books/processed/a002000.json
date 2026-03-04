@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "その年",
         "startPage": 1,
-        "endPage": 31,
-        "summary": "その年の出来事"
+        "endPage": 31
       }
     ],
     "totalPages": 31,
     "averageCharsPerPage": 466,
-    "chapterTitles": []
+    "chapterTitles": [
+      "その年"
+    ]
   },
   "content": [
     {

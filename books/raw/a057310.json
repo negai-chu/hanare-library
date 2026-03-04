@@ -102,7 +102,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 375,
-    "chapterTitles": []
+    "chapterTitles": [
+      "農業物理学夜話"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -135,8 +136,7 @@
       "pageNumber": 5,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -154,8 +154,7 @@
       "pageNumber": 8,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -173,8 +172,7 @@
       "pageNumber": 11,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -204,8 +202,7 @@
       "pageNumber": 16,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -223,8 +220,7 @@
       "pageNumber": 19,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -242,8 +238,7 @@
       "pageNumber": 22,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -261,8 +256,7 @@
       "pageNumber": 25,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -292,8 +286,7 @@
       "pageNumber": 30,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -317,8 +310,7 @@
       "pageNumber": 34,
       "content": "一〇",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -336,8 +328,7 @@
       "pageNumber": 37,
       "content": "一一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -355,8 +346,7 @@
       "pageNumber": 40,
       "content": "一二",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -374,8 +364,7 @@
       "pageNumber": 43,
       "content": "一三",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,

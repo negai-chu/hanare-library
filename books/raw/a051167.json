@@ -78,7 +78,9 @@
     ],
     "totalPages": 37,
     "averageCharsPerPage": 411,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私の履歴書"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "一、生まれ故郷は三宅島",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 5,
       "content": "二、早大生のころ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -136,8 +136,7 @@
       "pageNumber": 9,
       "content": "三、震災→監獄→島流し",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -161,8 +160,7 @@
       "pageNumber": 13,
       "content": "四、三時間天下の書記長",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -186,8 +184,7 @@
       "pageNumber": 17,
       "content": "五、検束回数のレコードホルダー",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -217,8 +214,7 @@
       "pageNumber": 22,
       "content": "六、鍛え上げたガラガラ声",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -242,8 +238,7 @@
       "pageNumber": 26,
       "content": "七、戦前の選挙戦",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -267,8 +262,7 @@
       "pageNumber": 30,
       "content": "八、社会党誕生す",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -292,8 +286,7 @@
       "pageNumber": 34,
       "content": "九、野人で通す“マア・マア”居士",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,

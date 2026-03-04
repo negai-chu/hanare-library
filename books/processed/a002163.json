@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "神馬",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "神馬の物語"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 451,
-    "chapterTitles": []
+    "chapterTitles": [
+      "神馬"
+    ]
   },
   "content": [
     {

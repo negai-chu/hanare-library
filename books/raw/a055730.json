@@ -36,7 +36,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 287,
-    "chapterTitles": []
+    "chapterTitles": [
+      "感情喪失時代"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　感情喪失時代",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 5,
       "content": "二　帰省者田舎よりの手紙",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

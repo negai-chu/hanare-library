@@ -354,7 +354,9 @@
     ],
     "totalPages": 225,
     "averageCharsPerPage": 413,
-    "chapterTitles": []
+    "chapterTitles": [
+      "みれん"
+    ]
   },
   "content": [
     {
@@ -368,8 +370,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -393,8 +394,7 @@
       "pageNumber": 6,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -418,8 +418,7 @@
       "pageNumber": 10,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -437,8 +436,7 @@
       "pageNumber": 13,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -462,8 +460,7 @@
       "pageNumber": 17,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -487,8 +484,7 @@
       "pageNumber": 21,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -512,8 +508,7 @@
       "pageNumber": 25,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -543,8 +538,7 @@
       "pageNumber": 30,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -574,8 +568,7 @@
       "pageNumber": 35,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -599,8 +592,7 @@
       "pageNumber": 39,
       "content": "十",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -624,8 +616,7 @@
       "pageNumber": 43,
       "content": "十一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -655,8 +646,7 @@
       "pageNumber": 48,
       "content": "十二",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -680,8 +670,7 @@
       "pageNumber": 52,
       "content": "十三",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -705,8 +694,7 @@
       "pageNumber": 56,
       "content": "十四",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -730,8 +718,7 @@
       "pageNumber": 60,
       "content": "十五",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -755,8 +742,7 @@
       "pageNumber": 64,
       "content": "十六",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -780,8 +766,7 @@
       "pageNumber": 68,
       "content": "十七",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -811,8 +796,7 @@
       "pageNumber": 73,
       "content": "十八",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -842,8 +826,7 @@
       "pageNumber": 78,
       "content": "十九",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -855,8 +838,7 @@
       "pageNumber": 80,
       "content": "二十",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -868,8 +850,7 @@
       "pageNumber": 82,
       "content": "二十一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -887,8 +868,7 @@
       "pageNumber": 85,
       "content": "二十二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 86,
@@ -918,8 +898,7 @@
       "pageNumber": 90,
       "content": "二十三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -943,8 +922,7 @@
       "pageNumber": 94,
       "content": "二十四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -968,8 +946,7 @@
       "pageNumber": 98,
       "content": "二十五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -993,8 +970,7 @@
       "pageNumber": 102,
       "content": "二十六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -1018,8 +994,7 @@
       "pageNumber": 106,
       "content": "二十七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -1043,8 +1018,7 @@
       "pageNumber": 110,
       "content": "二十八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -1068,8 +1042,7 @@
       "pageNumber": 114,
       "content": "二十九",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 115,
@@ -1093,8 +1066,7 @@
       "pageNumber": 118,
       "content": "三十",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -1118,8 +1090,7 @@
       "pageNumber": 122,
       "content": "三十一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -1149,8 +1120,7 @@
       "pageNumber": 127,
       "content": "三十二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1174,8 +1144,7 @@
       "pageNumber": 131,
       "content": "三十三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,
@@ -1199,8 +1168,7 @@
       "pageNumber": 135,
       "content": "三十四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1218,8 +1186,7 @@
       "pageNumber": 138,
       "content": "三十五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,
@@ -1243,8 +1210,7 @@
       "pageNumber": 142,
       "content": "三十六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 143,
@@ -1274,8 +1240,7 @@
       "pageNumber": 147,
       "content": "三十七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 148,
@@ -1299,8 +1264,7 @@
       "pageNumber": 151,
       "content": "三十八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1324,8 +1288,7 @@
       "pageNumber": 155,
       "content": "三十九",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1349,8 +1312,7 @@
       "pageNumber": 159,
       "content": "四十",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 160,
@@ -1374,8 +1336,7 @@
       "pageNumber": 163,
       "content": "四十一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,
@@ -1399,8 +1360,7 @@
       "pageNumber": 167,
       "content": "四十二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 168,
@@ -1424,8 +1384,7 @@
       "pageNumber": 171,
       "content": "四十三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 172,
@@ -1449,8 +1408,7 @@
       "pageNumber": 175,
       "content": "四十四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1474,8 +1432,7 @@
       "pageNumber": 179,
       "content": "四十五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 180,
@@ -1499,8 +1456,7 @@
       "pageNumber": 183,
       "content": "四十六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 184,
@@ -1524,8 +1480,7 @@
       "pageNumber": 187,
       "content": "四十七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 188,
@@ -1549,8 +1504,7 @@
       "pageNumber": 191,
       "content": "四十八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
@@ -1574,8 +1528,7 @@
       "pageNumber": 195,
       "content": "四十九",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 196,
@@ -1599,8 +1552,7 @@
       "pageNumber": 199,
       "content": "五十",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 200,
@@ -1630,8 +1582,7 @@
       "pageNumber": 204,
       "content": "五十一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 205,
@@ -1655,8 +1606,7 @@
       "pageNumber": 208,
       "content": "五十二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 209,
@@ -1680,8 +1630,7 @@
       "pageNumber": 212,
       "content": "五十三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 213,
@@ -1711,8 +1660,7 @@
       "pageNumber": 217,
       "content": "五十四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 218,
@@ -1736,8 +1684,7 @@
       "pageNumber": 221,
       "content": "五十五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 222,

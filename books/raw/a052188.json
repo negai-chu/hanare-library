@@ -102,7 +102,9 @@
     ],
     "totalPages": 36,
     "averageCharsPerPage": 272,
-    "chapterTitles": []
+    "chapterTitles": [
+      "雑器の美"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 4,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -142,8 +142,7 @@
       "pageNumber": 6,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -161,8 +160,7 @@
       "pageNumber": 9,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -180,8 +178,7 @@
       "pageNumber": 12,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -199,8 +196,7 @@
       "pageNumber": 15,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -218,8 +214,7 @@
       "pageNumber": 18,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -237,8 +232,7 @@
       "pageNumber": 21,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -256,8 +250,7 @@
       "pageNumber": 24,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -275,8 +268,7 @@
       "pageNumber": 27,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -294,8 +286,7 @@
       "pageNumber": 30,
       "content": "一〇",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -307,8 +298,7 @@
       "pageNumber": 32,
       "content": "一一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -320,8 +310,7 @@
       "pageNumber": 34,
       "content": "跋",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,

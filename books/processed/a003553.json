@@ -17,182 +17,157 @@
         "id": "chapter-1",
         "title": "めでたき風景",
         "startPage": 1,
-        "endPage": 0,
-        "summary": "目出度い日本の風景"
+        "endPage": 1
       },
       {
         "id": "chapter-2",
         "title": "白光と毒素",
         "startPage": 5,
-        "endPage": 0,
-        "summary": "白い光と毒の関係"
+        "endPage": 8
       },
       {
         "id": "chapter-3",
         "title": "大阪弁雑談",
         "startPage": 9,
-        "endPage": 0,
-        "summary": "大阪弁の味わい"
+        "endPage": 15
       },
       {
         "id": "chapter-4",
         "title": "主として女の顔",
         "startPage": 16,
-        "endPage": 0,
-        "summary": "女の顔についての考察"
+        "endPage": 19
       },
       {
         "id": "chapter-5",
         "title": "旅の断片",
         "startPage": 20,
-        "endPage": 0,
-        "summary": "旅先での断片"
+        "endPage": 24
       },
       {
         "id": "chapter-6",
         "title": "春の彼岸とたこめがね",
         "startPage": 25,
-        "endPage": 0,
-        "summary": "春の彼岸の風物"
+        "endPage": 28
       },
       {
         "id": "chapter-7",
         "title": "春眠雑談",
         "startPage": 29,
-        "endPage": 0,
-        "summary": "春眠の候の漫談"
+        "endPage": 33
       },
       {
         "id": "chapter-8",
         "title": "かんぴょう",
         "startPage": 34,
-        "endPage": 0,
-        "summary": "干瓢のある風景"
+        "endPage": 35
       },
       {
         "id": "chapter-9",
         "title": "グロテスク",
         "startPage": 36,
-        "endPage": 0,
-        "summary": "奇怪なるものの美"
+        "endPage": 37
       },
       {
         "id": "chapter-10",
         "title": "大和の記憶",
         "startPage": 38,
-        "endPage": 0,
-        "summary": "大和路の記憶"
+        "endPage": 39
       },
       {
         "id": "chapter-11",
         "title": "去年のこと",
         "startPage": 40,
-        "endPage": 0,
-        "summary": "去年の出来事"
+        "endPage": 42
       },
       {
         "id": "chapter-12",
         "title": "入湯戯画",
         "startPage": 43,
-        "endPage": 0,
-        "summary": "温泉場の戯画"
+        "endPage": 48
       },
       {
         "id": "chapter-13",
         "title": "歪んだ寝顔",
         "startPage": 49,
-        "endPage": 0,
-        "summary": "歪んだ寝顔の描写"
+        "endPage": 51
       },
       {
         "id": "chapter-14",
         "title": "蟋蟀《こおろぎ》の箱",
         "startPage": 52,
-        "endPage": 0,
-        "summary": "蟋蟀を飼う楽しみ"
+        "endPage": 56
       },
       {
         "id": "chapter-15",
         "title": "迷惑なる奇蹟",
         "startPage": 57,
-        "endPage": 0,
-        "summary": "迷惑な奇蹟の話"
+        "endPage": 68
       },
       {
         "id": "chapter-16",
         "title": "酒がのめない話",
         "startPage": 69,
-        "endPage": 0,
-        "summary": "酒が飲めぬ体質"
+        "endPage": 73
       },
       {
         "id": "chapter-17",
         "title": "因果の種",
         "startPage": 74,
-        "endPage": 0,
-        "summary": "因果の種蒔き"
+        "endPage": 77
       },
       {
         "id": "chapter-18",
         "title": "あまり美しくない話",
         "startPage": 78,
-        "endPage": 0,
-        "summary": "美しくない逸話"
+        "endPage": 81
       },
       {
         "id": "chapter-19",
         "title": "嫌い",
         "startPage": 82,
-        "endPage": 0,
-        "summary": "嫌いなものの話"
+        "endPage": 86
       },
       {
         "id": "chapter-20",
         "title": "五月の風景",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "五月の爽やかな景色"
+        "endPage": 91
       },
       {
         "id": "chapter-21",
         "title": "夏は自動車",
         "startPage": 92,
-        "endPage": 0,
-        "summary": "夏の自動車の話"
+        "endPage": 94
       },
       {
         "id": "chapter-22",
         "title": "上方近代雑景",
         "startPage": 95,
-        "endPage": 0,
-        "summary": "上方の近代風景"
+        "endPage": 99
       },
       {
         "id": "chapter-23",
         "title": "観劇漫談",
         "startPage": 100,
-        "endPage": 0,
-        "summary": "芝居見物の感想"
+        "endPage": 104
       },
       {
         "id": "chapter-24",
         "title": "芦屋風景",
         "startPage": 105,
-        "endPage": 0,
-        "summary": "芦屋の暮らしぶり"
+        "endPage": 109
       },
       {
         "id": "chapter-25",
         "title": "芝居見物",
         "startPage": 110,
-        "endPage": 0,
-        "summary": "芝居見物の楽しみ"
+        "endPage": 113
       },
       {
         "id": "chapter-26",
         "title": "見た夢",
         "startPage": 114,
-        "endPage": 0,
+        "endPage": 117,
         "sections": [
           {
             "id": "chapter-26-section-1",
@@ -234,235 +209,203 @@
             "id": "chapter-26-section-7",
             "number": "Ｇ",
             "startPage": 117,
-            "endPage": 0
+            "endPage": 117
           }
-        ],
-        "summary": "見た夢の話"
+        ]
       },
       {
         "id": "chapter-27",
         "title": "煙管",
         "startPage": 118,
-        "endPage": 0,
-        "summary": "煙管への愛着"
+        "endPage": 123
       },
       {
         "id": "chapter-28",
         "title": "閑談一年",
         "startPage": 124,
-        "endPage": 0,
-        "summary": "一年間の閑談"
+        "endPage": 126
       },
       {
         "id": "chapter-29",
         "title": "夏の都市風景",
         "startPage": 127,
-        "endPage": 0,
-        "summary": "夏の都市の風景"
+        "endPage": 131
       },
       {
         "id": "chapter-30",
         "title": "瀧",
         "startPage": 132,
-        "endPage": 0,
-        "summary": "瀧の美しさ"
+        "endPage": 133
       },
       {
         "id": "chapter-31",
         "title": "池",
         "startPage": 134,
-        "endPage": 0,
-        "summary": "池の情景"
+        "endPage": 135
       },
       {
         "id": "chapter-32",
         "title": "花火",
         "startPage": 136,
-        "endPage": 0,
-        "summary": "花火の夜"
+        "endPage": 137
       },
       {
         "id": "chapter-33",
         "title": "盛夏雑筆",
         "startPage": 138,
-        "endPage": 0,
-        "summary": "盛夏の雑記"
+        "endPage": 141
       },
       {
         "id": "chapter-34",
         "title": "秋の顔",
         "startPage": 142,
-        "endPage": 0,
-        "summary": "秋の顔つき"
+        "endPage": 146
       },
       {
         "id": "chapter-35",
         "title": "大和魂の衰弱",
         "startPage": 147,
-        "endPage": 0,
-        "summary": "衰弱する大和魂"
+        "endPage": 151
       },
       {
         "id": "chapter-36",
         "title": "迷信",
         "startPage": 152,
-        "endPage": 0,
-        "summary": "迷信についての考察"
+        "endPage": 155
       },
       {
         "id": "chapter-37",
         "title": "蛸の足",
         "startPage": 156,
-        "endPage": 0,
-        "summary": "蛸の足の話"
+        "endPage": 158
       },
       {
         "id": "chapter-38",
         "title": "もっさりする漫談",
         "startPage": 159,
-        "endPage": 0,
-        "summary": "もっさりした漫談"
+        "endPage": 163
       },
       {
         "id": "chapter-39",
         "title": "ノスタルジー",
         "startPage": 164,
-        "endPage": 0,
+        "endPage": 173,
         "sections": [
           {
             "id": "chapter-39-section-1",
             "number": "１",
             "startPage": 165,
-            "endPage": 165,
-            "summary": "巴里の記憶"
+            "endPage": 165
           },
           {
             "id": "chapter-39-section-2",
             "number": "２",
             "startPage": 166,
-            "endPage": 166,
-            "summary": "異国の街角"
+            "endPage": 166
           },
           {
             "id": "chapter-39-section-3",
             "number": "３",
             "startPage": 167,
-            "endPage": 167,
-            "summary": "懐かしき日々"
+            "endPage": 167
           },
           {
             "id": "chapter-39-section-4",
             "number": "４",
             "startPage": 168,
-            "endPage": 169,
-            "summary": "帰国後の感慨"
+            "endPage": 169
           },
           {
             "id": "chapter-39-section-5",
             "number": "５",
             "startPage": 170,
-            "endPage": 171,
-            "summary": "色彩の追憶"
+            "endPage": 171
           },
           {
             "id": "chapter-39-section-6",
             "number": "６",
             "startPage": 172,
-            "endPage": 0,
-            "summary": "郷愁の行方"
+            "endPage": 173
           }
-        ],
-        "summary": "異国への郷愁"
+        ]
       },
       {
         "id": "chapter-40",
         "title": "洋画ではなぜ裸体画をかくか",
         "startPage": 174,
-        "endPage": 0,
-        "summary": "裸体画を描く理由"
+        "endPage": 176
       },
       {
         "id": "chapter-41",
         "title": "亀の随筆",
         "startPage": 177,
-        "endPage": 0,
-        "summary": "亀の飼育の随筆"
+        "endPage": 183
       },
       {
         "id": "chapter-42",
         "title": "奈良風景",
         "startPage": 184,
-        "endPage": 0,
-        "summary": "奈良の古都の風景"
+        "endPage": 187
       },
       {
         "id": "chapter-43",
         "title": "ややこしき漫筆",
         "startPage": 188,
-        "endPage": 0,
-        "summary": "ややこしい漫筆"
+        "endPage": 192
       },
       {
         "id": "chapter-44",
         "title": "展覧会案内屋",
         "startPage": 193,
-        "endPage": 0,
-        "summary": "展覧会案内の仕事"
+        "endPage": 195
       },
       {
         "id": "chapter-45",
         "title": "祭礼記",
         "startPage": 196,
-        "endPage": 0,
-        "summary": "祭礼の記録"
+        "endPage": 202
       },
       {
         "id": "chapter-46",
         "title": "新調漫談",
         "startPage": 203,
-        "endPage": 0,
-        "summary": "新調にまつわる漫談"
+        "endPage": 208
       },
       {
         "id": "chapter-47",
         "title": "下手《げて》もの漫談",
         "startPage": 209,
-        "endPage": 0,
-        "summary": "下手ものの味わい"
+        "endPage": 221
       },
       {
         "id": "chapter-48",
         "title": "静物画雑考",
         "startPage": 222,
-        "endPage": 0,
-        "summary": "静物画についての考察"
+        "endPage": 225
       },
       {
         "id": "chapter-49",
         "title": "西洋館漫歩",
         "startPage": 226,
-        "endPage": 0,
-        "summary": "西洋館の散策"
+        "endPage": 231
       },
       {
         "id": "chapter-50",
         "title": "近代洋画家の生活断片",
         "startPage": 232,
-        "endPage": 0,
-        "summary": "洋画家たちの生活"
+        "endPage": 239
       },
       {
         "id": "chapter-51",
         "title": "現代美人風景",
         "startPage": 240,
-        "endPage": 0,
-        "summary": "現代美人の風景"
+        "endPage": 249
       },
       {
         "id": "chapter-52",
         "title": "画室の閑談",
         "startPage": 250,
-        "endPage": 0,
+        "endPage": 256,
         "sections": [
           {
             "id": "chapter-52-section-1",
@@ -486,17 +429,15 @@
             "id": "chapter-52-section-4",
             "number": "Ｄ",
             "startPage": 255,
-            "endPage": 0
+            "endPage": 256
           }
-        ],
-        "summary": "画室での閑談"
+        ]
       },
       {
         "id": "chapter-53",
         "title": "虎",
         "startPage": 257,
-        "endPage": 261,
-        "summary": "虎への思い"
+        "endPage": 261
       }
     ],
     "totalPages": 261,

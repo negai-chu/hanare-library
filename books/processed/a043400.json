@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "タケノコ",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "タケノコの成長物語"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 203,
-    "chapterTitles": []
+    "chapterTitles": [
+      "タケノコ"
+    ]
   },
   "content": [
     {

@@ -84,7 +84,9 @@
     ],
     "totalPages": 131,
     "averageCharsPerPage": 774,
-    "chapterTitles": []
+    "chapterTitles": [
+      "十二支考"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "伝説一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -195,8 +196,7 @@
       "pageNumber": 18,
       "content": "伝説二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -256,8 +256,7 @@
       "pageNumber": 28,
       "content": "名称",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -311,8 +310,7 @@
       "pageNumber": 37,
       "content": "種類",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -378,8 +376,7 @@
       "pageNumber": 48,
       "content": "性質",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -529,8 +526,7 @@
       "pageNumber": 73,
       "content": "心理",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -596,8 +592,7 @@
       "pageNumber": 84,
       "content": "民俗（１）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -627,8 +622,7 @@
       "pageNumber": 89,
       "content": "民俗（２）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -718,8 +712,7 @@
       "pageNumber": 104,
       "content": "民俗（３）",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -863,8 +856,7 @@
       "pageNumber": 128,
       "content": "（付）白馬節会について",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,

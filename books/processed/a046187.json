@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "一　夜半の銃声",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-1-section-6",
             "number": "暗中の怪火",
             "startPage": 25,
-            "endPage": 0
+            "endPage": 28
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-2",
         "title": "二　怪中学生",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -97,7 +97,7 @@
             "id": "chapter-2-section-6",
             "number": "不可思議な暗号紙片",
             "startPage": 40,
-            "endPage": 0
+            "endPage": 42
           }
         ]
       },
@@ -105,7 +105,7 @@
         "id": "chapter-3",
         "title": "三　惨死体",
         "startPage": 43,
-        "endPage": 0,
+        "endPage": 55,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -135,7 +135,7 @@
             "id": "chapter-3-section-5",
             "number": "美少年の重傷",
             "startPage": 53,
-            "endPage": 0
+            "endPage": 55
           }
         ]
       },
@@ -143,7 +143,7 @@
         "id": "chapter-4",
         "title": "四　侠少年対怪盗",
         "startPage": 56,
-        "endPage": 0,
+        "endPage": 98,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -233,7 +233,7 @@
             "id": "chapter-4-section-15",
             "number": "大尉の子孫",
             "startPage": 91,
-            "endPage": 0
+            "endPage": 98
           }
         ]
       },

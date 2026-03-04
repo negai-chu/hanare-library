@@ -42,7 +42,9 @@
     ],
     "totalPages": 84,
     "averageCharsPerPage": 533,
-    "chapterTitles": []
+    "chapterTitles": [
+      "母たち"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -249,8 +250,7 @@
       "pageNumber": 34,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -466,8 +466,7 @@
       "pageNumber": 70,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,

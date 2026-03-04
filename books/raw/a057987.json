@@ -54,7 +54,9 @@
     ],
     "totalPages": 34,
     "averageCharsPerPage": 508,
-    "chapterTitles": []
+    "chapterTitles": [
+      "東亜の平和を論ず"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "〔今日の世界と東アジア〕",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 11,
       "content": "〔「支那保全」論〕",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -148,8 +148,7 @@
       "pageNumber": 15,
       "content": "〔日本と中国の関係〕",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -191,8 +190,7 @@
       "pageNumber": 22,
       "content": "〔日露の媾和条件〕",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -240,8 +238,7 @@
       "pageNumber": 30,
       "content": "〔満州問題への対応〕",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

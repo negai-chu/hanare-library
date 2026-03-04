@@ -84,7 +84,9 @@
     ],
     "totalPages": 53,
     "averageCharsPerPage": 425,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文化とは"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 10,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -190,8 +190,7 @@
       "pageNumber": 17,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -221,8 +220,7 @@
       "pageNumber": 22,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -258,8 +256,7 @@
       "pageNumber": 28,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -307,8 +304,7 @@
       "pageNumber": 36,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -326,8 +322,7 @@
       "pageNumber": 39,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -357,8 +352,7 @@
       "pageNumber": 44,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -394,8 +388,7 @@
       "pageNumber": 50,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -407,8 +400,7 @@
       "pageNumber": 52,
       "content": "一〇",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,

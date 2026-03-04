@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "一、吉田内閣不信任決議案賛成演説",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 15
       },
       {
         "id": "chapter-2",
         "title": "二、政治協商会議講堂における講演",
         "startPage": 16,
-        "endPage": 0,
+        "endPage": 32,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 32
           }
         ]
       },

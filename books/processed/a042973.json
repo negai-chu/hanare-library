@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "近況報告",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "ゴルフで健康回復"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 164,
-    "chapterTitles": []
+    "chapterTitles": [
+      "近況報告"
+    ]
   },
   "content": [
     {

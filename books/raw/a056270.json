@@ -54,7 +54,9 @@
     ],
     "totalPages": 65,
     "averageCharsPerPage": 501,
-    "chapterTitles": []
+    "chapterTitles": [
+      "望岳都東京"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "天城山より笠山まで",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 9,
       "content": "大井川の奥山",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -142,8 +142,7 @@
       "pageNumber": 14,
       "content": "浅間山より男体山まで",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -263,8 +262,7 @@
       "pageNumber": 34,
       "content": "東京市内所望の山岳高度表",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -336,8 +334,7 @@
       "pageNumber": 46,
       "content": "東京から見える山",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,

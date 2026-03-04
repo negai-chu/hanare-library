@@ -54,7 +54,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 339,
-    "chapterTitles": []
+    "chapterTitles": [
+      "競馬の一日に就いて"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "午前中は慎しむこと",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 5,
       "content": "大穴の出た後",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 7,
       "content": "番組の平凡な場合",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -125,8 +124,7 @@
       "pageNumber": 11,
       "content": "馬数多きレース",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -144,8 +142,7 @@
       "pageNumber": 14,
       "content": "第十一競馬の本命",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ランス紀行",
         "startPage": 1,
-        "endPage": 11,
-        "summary": "仏ランス大聖堂紀行"
+        "endPage": 11
       }
     ],
     "totalPages": 11,
     "averageCharsPerPage": 528,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ランス紀行"
+    ]
   },
   "content": [
     {

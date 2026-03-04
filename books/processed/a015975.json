@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "今日の文章",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "時代と文章の変化"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 376,
-    "chapterTitles": []
+    "chapterTitles": [
+      "今日の文章"
+    ]
   },
   "content": [
     {

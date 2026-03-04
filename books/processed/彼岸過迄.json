@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "彼岸過迄に就て",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "風呂の後",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -95,7 +95,7 @@
             "id": "chapter-2-section-12",
             "number": "十二",
             "startPage": 42,
-            "endPage": 0
+            "endPage": 45
           }
         ]
       },
@@ -103,7 +103,7 @@
         "id": "chapter-3",
         "title": "停留所",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 170,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -319,7 +319,7 @@
             "id": "chapter-3-section-36",
             "number": "三十六",
             "startPage": 167,
-            "endPage": 0
+            "endPage": 170
           }
         ]
       },
@@ -327,7 +327,7 @@
         "id": "chapter-4",
         "title": "報告",
         "startPage": 171,
-        "endPage": 0,
+        "endPage": 219,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -411,7 +411,7 @@
             "id": "chapter-4-section-14",
             "number": "十四",
             "startPage": 216,
-            "endPage": 0
+            "endPage": 219
           }
         ]
       },
@@ -419,7 +419,7 @@
         "id": "chapter-5",
         "title": "雨の降る日",
         "startPage": 220,
-        "endPage": 0,
+        "endPage": 248,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -467,7 +467,7 @@
             "id": "chapter-5-section-8",
             "number": "八",
             "startPage": 243,
-            "endPage": 0
+            "endPage": 248
           }
         ]
       },
@@ -475,7 +475,7 @@
         "id": "chapter-6",
         "title": "須永の話",
         "startPage": 249,
-        "endPage": 0,
+        "endPage": 372,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -685,7 +685,7 @@
             "id": "chapter-6-section-35",
             "number": "三十五",
             "startPage": 369,
-            "endPage": 0
+            "endPage": 372
           }
         ]
       },
@@ -693,7 +693,7 @@
         "id": "chapter-7",
         "title": "松本の話",
         "startPage": 373,
-        "endPage": 0,
+        "endPage": 414,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -765,7 +765,7 @@
             "id": "chapter-7-section-12",
             "number": "十二",
             "startPage": 411,
-            "endPage": 0
+            "endPage": 414
           }
         ]
       },

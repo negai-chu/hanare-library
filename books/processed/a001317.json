@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序篇　降矢木一族釈義",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "降矢木一族の来歴"
+        "endPage": 20
       },
       {
         "id": "chapter-2",
         "title": "第一篇　死体と二つの扉を繞って",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 74,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -44,14 +43,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "死体と密室の謎"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二篇　ファウストの呪文",
         "startPage": 75,
-        "endPage": 0,
+        "endPage": 139,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -69,16 +67,15 @@
             "id": "chapter-3-section-3",
             "number": "三、易介は挾まれて殺さるべし",
             "startPage": 119,
-            "endPage": 0
+            "endPage": 139
           }
-        ],
-        "summary": "呪文と暗号の解読"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三篇　黒死館精神病理学",
         "startPage": 140,
-        "endPage": 0,
+        "endPage": 227,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -98,14 +95,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "精神病理の深淵"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第四篇　詩と甲胄と幻影造型",
         "startPage": 228,
-        "endPage": 0,
+        "endPage": 282,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -119,14 +115,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "詩と甲冑の幻影"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第五篇　第三の惨劇",
         "startPage": 283,
-        "endPage": 0,
+        "endPage": 356,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -138,16 +133,15 @@
             "id": "chapter-6-section-2",
             "number": "二、宙に浮んで……殺さるべし",
             "startPage": 339,
-            "endPage": 0
+            "endPage": 356
           }
-        ],
-        "summary": "第三の凶事"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第六篇　算哲埋葬の夜",
         "startPage": 357,
-        "endPage": 0,
+        "endPage": 419,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -161,14 +155,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "埋葬の夜の真相"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "第七篇　法水は遂に逸せり",
         "startPage": 420,
-        "endPage": 0,
+        "endPage": 494,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -180,10 +173,9 @@
             "id": "chapter-8-section-2",
             "number": "二、光と色と音――それが闇に没し去ったとき",
             "startPage": 456,
-            "endPage": 0
+            "endPage": 494
           }
-        ],
-        "summary": "法水の推理の果て"
+        ]
       },
       {
         "id": "chapter-9",
@@ -209,8 +201,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "一族の終焉"
+        ]
       }
     ],
     "totalPages": 602,

@@ -54,7 +54,9 @@
     ],
     "totalPages": 34,
     "averageCharsPerPage": 295,
-    "chapterTitles": []
+    "chapterTitles": [
+      "海浜荘の殺人"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "四人の客",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "不安の兆",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -142,8 +142,7 @@
       "pageNumber": 14,
       "content": "深夜の事件",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -185,8 +184,7 @@
       "pageNumber": 21,
       "content": "誰が犯人か",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -228,8 +226,7 @@
       "pageNumber": 28,
       "content": "一番列車！",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

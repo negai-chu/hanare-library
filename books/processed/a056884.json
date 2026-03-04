@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "大正七年\r\n大正八年",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "大正八年雑詠",
             "startPage": 6,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-2",
         "title": "大正九年",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 63,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -145,7 +145,7 @@
             "id": "chapter-2-section-18",
             "number": "歌会",
             "startPage": 63,
-            "endPage": 0
+            "endPage": 63
           }
         ]
       },
@@ -153,7 +153,7 @@
         "id": "chapter-3",
         "title": "大正十年",
         "startPage": 64,
-        "endPage": 0,
+        "endPage": 107,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -207,7 +207,7 @@
             "id": "chapter-3-section-9",
             "number": "洋行漫吟",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 107
           }
         ]
       },

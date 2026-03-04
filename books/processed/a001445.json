@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "学生時代",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "短い学業時代の回想"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 446,
-    "chapterTitles": []
+    "chapterTitles": [
+      "学生時代"
+    ]
   },
   "content": [
     {

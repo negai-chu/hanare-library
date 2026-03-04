@@ -60,7 +60,9 @@
     ],
     "totalPages": 69,
     "averageCharsPerPage": 548,
-    "chapterTitles": []
+    "chapterTitles": [
+      "逗子物語"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -153,8 +154,7 @@
       "pageNumber": 15,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -238,8 +238,7 @@
       "pageNumber": 29,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -311,8 +310,7 @@
       "pageNumber": 41,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -372,8 +370,7 @@
       "pageNumber": 51,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -451,8 +448,7 @@
       "pageNumber": 64,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,

@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "その一",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "簡素な庭",
             "startPage": 6,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-3",
         "title": "その二",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -79,7 +79,7 @@
             "id": "chapter-3-section-7",
             "number": "童と母",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 42
           }
         ]
       },

@@ -48,7 +48,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 374,
-    "chapterTitles": []
+    "chapterTitles": [
+      "痴酔記"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 8,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -161,8 +160,7 @@
       "pageNumber": 18,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

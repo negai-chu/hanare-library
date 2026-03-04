@@ -108,7 +108,9 @@
     ],
     "totalPages": 62,
     "averageCharsPerPage": 387,
-    "chapterTitles": []
+    "chapterTitles": [
+      "丸の内"
+    ]
   },
   "content": [
     {
@@ -122,8 +124,7 @@
       "pageNumber": 2,
       "content": "ドンが鳴ると",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 6,
       "content": "大玄関",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -178,8 +178,7 @@
       "pageNumber": 11,
       "content": "東京駅",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -203,8 +202,7 @@
       "pageNumber": 15,
       "content": "活動がはじまる",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -228,8 +226,7 @@
       "pageNumber": 19,
       "content": "能舞台",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -253,8 +250,7 @@
       "pageNumber": 23,
       "content": "帝劇",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -278,8 +274,7 @@
       "pageNumber": 27,
       "content": "翁の像",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -303,8 +298,7 @@
       "pageNumber": 31,
       "content": "三十年前",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -328,8 +322,7 @@
       "pageNumber": 35,
       "content": "雨",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -353,8 +346,7 @@
       "pageNumber": 39,
       "content": "蝶",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -378,8 +370,7 @@
       "pageNumber": 43,
       "content": "日曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -403,8 +394,7 @@
       "pageNumber": 47,
       "content": "中央郵便局",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -428,8 +418,7 @@
       "pageNumber": 51,
       "content": "惜別",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -477,8 +466,7 @@
       "pageNumber": 59,
       "content": "薄紅梅",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 486,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明日は天気（二場）"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 3,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -129,8 +130,7 @@
       "pageNumber": 15,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

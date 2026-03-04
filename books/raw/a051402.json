@@ -66,7 +66,9 @@
     ],
     "totalPages": 84,
     "averageCharsPerPage": 482,
-    "chapterTitles": []
+    "chapterTitles": [
+      "チェーホフ序説"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 15,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -202,8 +202,7 @@
       "pageNumber": 22,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -287,8 +286,7 @@
       "pageNumber": 36,
       "content": "４",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -372,8 +370,7 @@
       "pageNumber": 50,
       "content": "５",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -421,8 +418,7 @@
       "pageNumber": 58,
       "content": "６",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -500,8 +496,7 @@
       "pageNumber": 71,
       "content": "７",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,

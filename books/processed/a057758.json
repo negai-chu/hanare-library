@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "前篇",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 79,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 65,
-            "endPage": 0
+            "endPage": 79
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-2",
         "title": "中篇",
         "startPage": 80,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -121,7 +121,7 @@
             "id": "chapter-2-section-7",
             "number": "七",
             "startPage": 122,
-            "endPage": 0
+            "endPage": 129
           }
         ]
       },

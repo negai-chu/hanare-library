@@ -36,7 +36,9 @@
     ],
     "totalPages": 108,
     "averageCharsPerPage": 552,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ユダヤ人のブナの木"
+    ]
   },
   "content": [
     {
@@ -620,8 +622,7 @@
       "pageNumber": 97,
       "content": "註",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -645,8 +646,7 @@
       "pageNumber": 101,
       "content": "解説",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,

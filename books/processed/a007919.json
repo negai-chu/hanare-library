@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "夜",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "夜の厳粛な静寂の詩"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 64,
-    "chapterTitles": []
+    "chapterTitles": [
+      "夜"
+    ]
   },
   "content": [
     {

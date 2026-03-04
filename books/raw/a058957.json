@@ -36,7 +36,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 342,
-    "chapterTitles": []
+    "chapterTitles": [
+      "広島という名の由来"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "輝元の築城",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 5,
       "content": "綱引きと川通りもち",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

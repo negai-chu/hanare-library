@@ -168,7 +168,9 @@
     ],
     "totalPages": 155,
     "averageCharsPerPage": 476,
-    "chapterTitles": []
+    "chapterTitles": [
+      "人生論ノート"
+    ]
   },
   "content": [
     {
@@ -182,8 +184,7 @@
       "pageNumber": 2,
       "content": "死について",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -243,8 +244,7 @@
       "pageNumber": 12,
       "content": "幸福について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -304,8 +304,7 @@
       "pageNumber": 22,
       "content": "懐疑について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -359,8 +358,7 @@
       "pageNumber": 31,
       "content": "習慣について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -414,8 +412,7 @@
       "pageNumber": 40,
       "content": "虚栄について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -451,8 +448,7 @@
       "pageNumber": 46,
       "content": "名誉心について",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -488,8 +484,7 @@
       "pageNumber": 52,
       "content": "怒について",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -531,8 +526,7 @@
       "pageNumber": 59,
       "content": "人間の条件について",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -580,8 +574,7 @@
       "pageNumber": 67,
       "content": "孤独について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -605,8 +598,7 @@
       "pageNumber": 71,
       "content": "嫉妬《しっと》について",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -636,8 +628,7 @@
       "pageNumber": 76,
       "content": "成功について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -667,8 +658,7 @@
       "pageNumber": 81,
       "content": "瞑想《めいそう》について",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -698,8 +688,7 @@
       "pageNumber": 86,
       "content": "噂《うわさ》について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -729,8 +718,7 @@
       "pageNumber": 91,
       "content": "利己主義について",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -760,8 +748,7 @@
       "pageNumber": 96,
       "content": "健康について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -797,8 +784,7 @@
       "pageNumber": 102,
       "content": "秩序について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -834,8 +820,7 @@
       "pageNumber": 108,
       "content": "感傷について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -871,8 +856,7 @@
       "pageNumber": 114,
       "content": "仮説について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 115,
@@ -902,8 +886,7 @@
       "pageNumber": 119,
       "content": "偽善について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -939,8 +922,7 @@
       "pageNumber": 125,
       "content": "娯楽について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 126,
@@ -970,8 +952,7 @@
       "pageNumber": 130,
       "content": "希望について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 131,
@@ -1001,8 +982,7 @@
       "pageNumber": 135,
       "content": "旅について",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1044,8 +1024,7 @@
       "pageNumber": 142,
       "content": "個性について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 143,
@@ -1117,8 +1096,7 @@
       "pageNumber": 154,
       "content": "後記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 155,

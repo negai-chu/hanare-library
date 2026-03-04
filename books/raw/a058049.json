@@ -42,7 +42,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 382,
-    "chapterTitles": []
+    "chapterTitles": [
+      "メンデレーエフ"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "元素の週期律",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "メンデレーエフの生涯",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 9,
       "content": "週期律の発見",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

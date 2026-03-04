@@ -36,7 +36,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 351,
-    "chapterTitles": []
+    "chapterTitles": [
+      "御馳走の話"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　正月の御馳走",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "二　感謝祭の七面鳥",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

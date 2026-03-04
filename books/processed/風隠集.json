@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "震前震後",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 53,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-1-section-9",
             "number": "茶の花",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 53
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-2",
         "title": "山葵と独活",
         "startPage": 55,
-        "endPage": 0,
+        "endPage": 96,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -121,7 +121,7 @@
             "id": "chapter-2-section-7",
             "number": "野分の頃",
             "startPage": 81,
-            "endPage": 0
+            "endPage": 96
           }
         ]
       },
@@ -129,7 +129,7 @@
         "id": "chapter-3",
         "title": "竹林逸興",
         "startPage": 97,
-        "endPage": 0,
+        "endPage": 112,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -165,7 +165,7 @@
             "id": "chapter-3-section-6",
             "number": "柿の葉",
             "startPage": 110,
-            "endPage": 0
+            "endPage": 112
           }
         ]
       },

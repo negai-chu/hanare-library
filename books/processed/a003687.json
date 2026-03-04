@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "一粒の粟",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "太鼓と一粒の粟"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 460,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一粒の粟"
+    ]
   },
   "content": [
     {

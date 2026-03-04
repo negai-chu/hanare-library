@@ -42,7 +42,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 684,
-    "chapterTitles": []
+    "chapterTitles": [
+      "生い立ちの記"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "思い出",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 11,
       "content": "弟と母のこと",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -172,8 +172,7 @@
       "pageNumber": 21,
       "content": "家",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

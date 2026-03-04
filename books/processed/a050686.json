@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "秋の巻",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 123,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -257,7 +257,7 @@
             "id": "chapter-1-section-40",
             "number": "第二百二十一　食物の成分",
             "startPage": 121,
-            "endPage": 0
+            "endPage": 123
           }
         ]
       },

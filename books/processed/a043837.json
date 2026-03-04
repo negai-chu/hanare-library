@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ある自殺者の手記",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "自殺者が遺した孤独の告白"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 508,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ある自殺者の手記"
+    ]
   },
   "content": [
     {

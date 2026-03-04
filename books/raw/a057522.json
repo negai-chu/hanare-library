@@ -234,7 +234,9 @@
     ],
     "totalPages": 270,
     "averageCharsPerPage": 476,
-    "chapterTitles": []
+    "chapterTitles": [
+      "妖虫"
+    ]
   },
   "content": [
     {
@@ -248,8 +250,7 @@
       "pageNumber": 2,
       "content": "青眼鏡《あおめがね》の男",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -309,8 +310,7 @@
       "pageNumber": 12,
       "content": "恐ろしき覗機関《のぞきからくり》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -364,8 +364,7 @@
       "pageNumber": 21,
       "content": "赤い蠍《さそり》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -395,8 +394,7 @@
       "pageNumber": 26,
       "content": "悪魔の紋章",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -456,8 +454,7 @@
       "pageNumber": 36,
       "content": "毒虫の餌食《えじき》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -499,8 +496,7 @@
       "pageNumber": 43,
       "content": "闇に浮く顔",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -542,8 +538,7 @@
       "pageNumber": 50,
       "content": "名探偵",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -591,8 +586,7 @@
       "pageNumber": 58,
       "content": "人罠",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -652,8 +646,7 @@
       "pageNumber": 68,
       "content": "闇を這うもの",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -683,8 +676,7 @@
       "pageNumber": 73,
       "content": "七つ道具",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -714,8 +706,7 @@
       "pageNumber": 78,
       "content": "妖虫の触手《しょくしゅ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -763,8 +754,7 @@
       "pageNumber": 86,
       "content": "魔法の杖",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -800,8 +790,7 @@
       "pageNumber": 92,
       "content": "絶体絶命",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -837,8 +826,7 @@
       "pageNumber": 98,
       "content": "藪《やぶ》の中の美少女",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -880,8 +868,7 @@
       "pageNumber": 105,
       "content": "魑魅魍魎《ちみもうりょう》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -929,8 +916,7 @@
       "pageNumber": 113,
       "content": "罠と罠",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -990,8 +976,7 @@
       "pageNumber": 123,
       "content": "動く岩",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1021,8 +1006,7 @@
       "pageNumber": 128,
       "content": "燃える迷路",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1046,8 +1030,7 @@
       "pageNumber": 132,
       "content": "八裂《やつざ》き蝋《ろう》人形",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 133,
@@ -1113,8 +1096,7 @@
       "pageNumber": 143,
       "content": "銀座の案山子《かかし》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -1150,8 +1132,7 @@
       "pageNumber": 149,
       "content": "蠍の胸飾《むねかざり》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1187,8 +1168,7 @@
       "pageNumber": 155,
       "content": "第三の犠牲者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1230,8 +1210,7 @@
       "pageNumber": 162,
       "content": "病探偵",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 163,
@@ -1291,8 +1270,7 @@
       "pageNumber": 172,
       "content": "秘密函《ばこ》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 173,
@@ -1346,8 +1324,7 @@
       "pageNumber": 181,
       "content": "螯《はさみ》が！　螯が！",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 182,
@@ -1383,8 +1360,7 @@
       "pageNumber": 187,
       "content": "怪しの物",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 188,
@@ -1444,8 +1420,7 @@
       "pageNumber": 197,
       "content": "ビルディングと蠍",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1499,8 +1474,7 @@
       "pageNumber": 206,
       "content": "蛻脱《もぬけ》の殻《から》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 207,
@@ -1560,8 +1534,7 @@
       "pageNumber": 216,
       "content": "大魔術師",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 217,
@@ -1609,8 +1582,7 @@
       "pageNumber": 224,
       "content": "怪老人とトランク",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 225,
@@ -1652,8 +1624,7 @@
       "pageNumber": 231,
       "content": "この部屋に犯人が",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 232,
@@ -1713,8 +1684,7 @@
       "pageNumber": 241,
       "content": "怪しの者",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 242,
@@ -1756,8 +1726,7 @@
       "pageNumber": 248,
       "content": "悪魔の正体",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 249,
@@ -1805,8 +1774,7 @@
       "pageNumber": 256,
       "content": "滴《したた》る血潮",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 257,
@@ -1842,8 +1810,7 @@
       "pageNumber": 262,
       "content": "老探偵の勝利",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 263,

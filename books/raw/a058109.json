@@ -54,7 +54,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 321,
-    "chapterTitles": []
+    "chapterTitles": [
+      "大戦乱後の国際平和"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "将来の世界の平和の予想",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 4,
       "content": "古代の帝国主義",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -106,8 +106,7 @@
       "pageNumber": 8,
       "content": "民族的観念の帝国主義",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -125,8 +124,7 @@
       "pageNumber": 11,
       "content": "民族的僻見の除去",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -156,8 +154,7 @@
       "pageNumber": 16,
       "content": "戦争と平和",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

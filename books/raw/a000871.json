@@ -60,7 +60,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 333,
-    "chapterTitles": []
+    "chapterTitles": [
+      "生きている腸"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "妙な医学生",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 6,
       "content": "三番目の窓",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -130,8 +130,7 @@
       "pageNumber": 11,
       "content": "リンゲル氏液内の生態",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -167,8 +166,7 @@
       "pageNumber": 17,
       "content": "素晴らしき実験",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -198,8 +196,7 @@
       "pageNumber": 22,
       "content": "同棲生活",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -235,8 +232,7 @@
       "pageNumber": 28,
       "content": "誤算",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

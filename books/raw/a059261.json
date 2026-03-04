@@ -66,7 +66,9 @@
     ],
     "totalPages": 75,
     "averageCharsPerPage": 535,
-    "chapterTitles": []
+    "chapterTitles": [
+      "雪の女王"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "さいしょのお話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 7,
       "content": "二番めのお話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -184,8 +184,7 @@
       "pageNumber": 19,
       "content": "三番めのお話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -275,8 +274,7 @@
       "pageNumber": 34,
       "content": "四番めのお話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -360,8 +358,7 @@
       "pageNumber": 48,
       "content": "五番めのお話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -421,8 +418,7 @@
       "pageNumber": 58,
       "content": "六番めのお話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -470,8 +466,7 @@
       "pageNumber": 66,
       "content": "七番めのお話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,

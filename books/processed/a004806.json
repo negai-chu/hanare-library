@@ -17,73 +17,63 @@
         "id": "chapter-1",
         "title": "樹下",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "古寺の木陰の静寂"
+        "endPage": 8
       },
       {
         "id": "chapter-2",
         "title": "十月",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 10,
-            "endPage": 25,
-            "summary": "古都の秋景色"
+            "endPage": 25
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 26,
-            "endPage": 0,
-            "summary": "社寺巡りの記"
+            "endPage": 29
           }
-        ],
-        "summary": "秋の大和路散策"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "古墳",
         "startPage": 30,
-        "endPage": 0,
-        "summary": "古墳の丘の散歩"
+        "endPage": 62
       },
       {
         "id": "chapter-4",
         "title": "斑雪《はだれ》",
         "startPage": 63,
-        "endPage": 0,
-        "summary": "春の淡雪の風情"
+        "endPage": 79
       },
       {
         "id": "chapter-5",
         "title": "辛夷の花",
         "startPage": 80,
-        "endPage": 0,
-        "summary": "辛夷咲く山里"
+        "endPage": 86
       },
       {
         "id": "chapter-6",
         "title": "浄瑠璃寺の春",
         "startPage": 87,
-        "endPage": 0,
-        "summary": "浄瑠璃寺の春日和"
+        "endPage": 97
       },
       {
         "id": "chapter-7",
         "title": "橇の上にて",
         "startPage": 98,
-        "endPage": 0,
-        "summary": "雪原を行く橇の記"
+        "endPage": 107
       },
       {
         "id": "chapter-8",
         "title": "「死者の書」\r\n　　　古都における、初夏のタぐれの対話",
         "startPage": 108,
-        "endPage": 117,
-        "summary": "古都の夕暮れの対話"
+        "endPage": 117
       }
     ],
     "totalPages": 117,

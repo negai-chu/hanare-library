@@ -42,7 +42,9 @@
     ],
     "totalPages": 38,
     "averageCharsPerPage": 443,
-    "chapterTitles": []
+    "chapterTitles": [
+      "雅俗貧困譜"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 4,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -135,8 +136,7 @@
       "pageNumber": 15,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -208,8 +208,7 @@
       "pageNumber": 27,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

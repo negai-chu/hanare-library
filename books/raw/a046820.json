@@ -612,7 +612,9 @@
     ],
     "totalPages": 410,
     "averageCharsPerPage": 396,
-    "chapterTitles": []
+    "chapterTitles": [
+      "植物一日一題"
+    ]
   },
   "content": [
     {
@@ -626,8 +628,7 @@
       "pageNumber": 2,
       "content": "馬鈴薯とジャガイモ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -669,8 +670,7 @@
       "pageNumber": 9,
       "content": "百合とユリ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -694,8 +694,7 @@
       "pageNumber": 13,
       "content": "キャベツと甘藍",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -713,8 +712,7 @@
       "pageNumber": 16,
       "content": "藤とフジ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -732,8 +730,7 @@
       "pageNumber": 19,
       "content": "ヤマユリ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -763,8 +760,7 @@
       "pageNumber": 24,
       "content": "アカザとシロザ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -782,8 +778,7 @@
       "pageNumber": 27,
       "content": "キツネノヘダマ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -807,8 +802,7 @@
       "pageNumber": 31,
       "content": "紀州高野山の蛇柳",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -838,8 +832,7 @@
       "pageNumber": 36,
       "content": "無花果の果",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -881,8 +874,7 @@
       "pageNumber": 43,
       "content": "イチョウの精虫",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -918,8 +910,7 @@
       "pageNumber": 49,
       "content": "茶樹の花序",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -943,8 +934,7 @@
       "pageNumber": 53,
       "content": "二十四歳のシーボルト画像",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -962,8 +952,7 @@
       "pageNumber": 56,
       "content": "サルオガセ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -987,8 +976,7 @@
       "pageNumber": 60,
       "content": "毒麦",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -1012,8 +1000,7 @@
       "pageNumber": 64,
       "content": "馬糞蕈",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -1037,8 +1024,7 @@
       "pageNumber": 68,
       "content": "昔の草餅、今の草餅",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -1062,8 +1048,7 @@
       "pageNumber": 72,
       "content": "ハナタデ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -1081,8 +1066,7 @@
       "pageNumber": 75,
       "content": "イヌタデ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -1100,8 +1084,7 @@
       "pageNumber": 78,
       "content": "ボントクタデ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -1119,8 +1102,7 @@
       "pageNumber": 81,
       "content": "婆羅門参",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -1138,8 +1120,7 @@
       "pageNumber": 84,
       "content": "茶の銘玉露の由来",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -1157,8 +1138,7 @@
       "pageNumber": 87,
       "content": "御会式桜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -1176,8 +1156,7 @@
       "pageNumber": 90,
       "content": "贋の菩提樹",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -1201,8 +1180,7 @@
       "pageNumber": 94,
       "content": "小野蘭山先生の髑髏",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -1220,8 +1198,7 @@
       "pageNumber": 97,
       "content": "小野蘭山先生の髑髏",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -1233,8 +1210,7 @@
       "pageNumber": 99,
       "content": "秋海棠",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -1252,8 +1228,7 @@
       "pageNumber": 102,
       "content": "不許葷酒入山門",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -1289,8 +1264,7 @@
       "pageNumber": 108,
       "content": "日本で最大の南天材",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -1314,8 +1288,7 @@
       "pageNumber": 112,
       "content": "屋根の棟の一八",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -1339,8 +1312,7 @@
       "pageNumber": 116,
       "content": "ワルナスビ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -1358,8 +1330,7 @@
       "pageNumber": 119,
       "content": "カナメゾツネ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1377,8 +1348,7 @@
       "pageNumber": 122,
       "content": "茱萸とグミ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -1402,8 +1372,7 @@
       "pageNumber": 126,
       "content": "アサガオと桔梗",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1421,8 +1390,7 @@
       "pageNumber": 129,
       "content": "ヒルガオとコヒルガオ",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1452,8 +1420,7 @@
       "pageNumber": 134,
       "content": "ハマユウの語原",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 135,
@@ -1483,8 +1450,7 @@
       "pageNumber": 139,
       "content": "バショウと芭蕉",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1514,8 +1480,7 @@
       "pageNumber": 144,
       "content": "オトヒメカラカサ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1539,8 +1504,7 @@
       "pageNumber": 148,
       "content": "西瓜――徳川時代から明治初年へかけて",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 149,
@@ -1564,8 +1528,7 @@
       "pageNumber": 152,
       "content": "ギョリュウ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 153,
@@ -1601,8 +1564,7 @@
       "pageNumber": 158,
       "content": "万葉歌のイチシ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 159,
@@ -1626,8 +1588,7 @@
       "pageNumber": 162,
       "content": "万葉歌のツチハリ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 163,
@@ -1663,8 +1624,7 @@
       "pageNumber": 168,
       "content": "万葉歌のナワノリ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 169,
@@ -1676,8 +1636,7 @@
       "pageNumber": 170,
       "content": "蓬とヨモギ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 171,
@@ -1701,8 +1660,7 @@
       "pageNumber": 174,
       "content": "於多福グルミ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 175,
@@ -1744,8 +1702,7 @@
       "pageNumber": 181,
       "content": "栗とクリ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 182,
@@ -1769,8 +1726,7 @@
       "pageNumber": 185,
       "content": "アスナロノヒジキ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 186,
@@ -1806,8 +1762,7 @@
       "pageNumber": 191,
       "content": "キノコの川村博士逝く",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
@@ -1825,8 +1780,7 @@
       "pageNumber": 194,
       "content": "日本の植物名の呼び方・書き方",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 195,
@@ -1844,8 +1798,7 @@
       "pageNumber": 197,
       "content": "オトコラン",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1875,8 +1828,7 @@
       "pageNumber": 202,
       "content": "風流で盗賊防ぐ思い付き",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 203,
@@ -1888,8 +1840,7 @@
       "pageNumber": 204,
       "content": "中国の椿の字、日本の椿の字",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 205,
@@ -1907,8 +1858,7 @@
       "pageNumber": 207,
       "content": "ノイバラの実、営実",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 208,
@@ -1932,8 +1882,7 @@
       "pageNumber": 211,
       "content": "マコモの中でもアヤメ咲く",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 212,
@@ -1963,8 +1912,7 @@
       "pageNumber": 216,
       "content": "マクワウリの記",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 217,
@@ -1988,8 +1936,7 @@
       "pageNumber": 220,
       "content": "新称天蓋瓜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 221,
@@ -2001,8 +1948,7 @@
       "pageNumber": 222,
       "content": "センジュガンピの語原",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 223,
@@ -2026,8 +1972,7 @@
       "pageNumber": 226,
       "content": "片葉のアシ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 227,
@@ -2057,8 +2002,7 @@
       "pageNumber": 231,
       "content": "高野の万年草",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 232,
@@ -2094,8 +2038,7 @@
       "pageNumber": 237,
       "content": "コンブとワカメ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 238,
@@ -2119,8 +2062,7 @@
       "pageNumber": 241,
       "content": "『草木図説』のサワアザミとマアザミ",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 242,
@@ -2144,8 +2086,7 @@
       "pageNumber": 245,
       "content": "ムクゲとアサガオ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 246,
@@ -2181,8 +2122,7 @@
       "pageNumber": 251,
       "content": "薯蕷とヤマノイモ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 252,
@@ -2206,8 +2146,7 @@
       "pageNumber": 255,
       "content": "ニギリタケ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 256,
@@ -2225,8 +2164,7 @@
       "pageNumber": 258,
       "content": "パンヤ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 259,
@@ -2250,8 +2188,7 @@
       "pageNumber": 262,
       "content": "黄櫨、櫨、ハゼノキ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 263,
@@ -2269,8 +2206,7 @@
       "pageNumber": 265,
       "content": "ワスレグサと甘草",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 266,
@@ -2294,8 +2230,7 @@
       "pageNumber": 269,
       "content": "根笹",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 270,
@@ -2313,8 +2248,7 @@
       "pageNumber": 272,
       "content": "菖蒲とセキショウ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 273,
@@ -2332,8 +2266,7 @@
       "pageNumber": 275,
       "content": "海藻ミルの食べ方",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 276,
@@ -2387,8 +2320,7 @@
       "pageNumber": 284,
       "content": "楓とモミジ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 285,
@@ -2418,8 +2350,7 @@
       "pageNumber": 289,
       "content": "製紙用ガンピ二種",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 290,
@@ -2443,8 +2374,7 @@
       "pageNumber": 293,
       "content": "インゲンマメ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 294,
@@ -2480,8 +2410,7 @@
       "pageNumber": 299,
       "content": "ナガイモとヤマノイモ",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 300,
@@ -2511,8 +2440,7 @@
       "pageNumber": 304,
       "content": "ヒマワリ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 305,
@@ -2536,8 +2464,7 @@
       "pageNumber": 308,
       "content": "シュロと椶櫚",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 309,
@@ -2561,8 +2488,7 @@
       "pageNumber": 312,
       "content": "蜜柑の毛、バナナの皮",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 313,
@@ -2586,8 +2512,7 @@
       "pageNumber": 316,
       "content": "グミの実",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 317,
@@ -2617,8 +2542,7 @@
       "pageNumber": 321,
       "content": "三波丁子",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 322,
@@ -2636,8 +2560,7 @@
       "pageNumber": 324,
       "content": "サネカズラ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 325,
@@ -2667,8 +2590,7 @@
       "pageNumber": 329,
       "content": "桜桃",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 330,
@@ -2686,8 +2608,7 @@
       "pageNumber": 332,
       "content": "種子から生えた孟宗竹",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 333,
@@ -2705,8 +2626,7 @@
       "pageNumber": 335,
       "content": "孟宗竹の中国名",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 336,
@@ -2736,8 +2656,7 @@
       "pageNumber": 340,
       "content": "紫陽花とアジサイ、燕子花とカキツバタ",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 341,
@@ -2761,8 +2680,7 @@
       "pageNumber": 344,
       "content": "楡とニレ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 345,
@@ -2786,8 +2704,7 @@
       "pageNumber": 348,
       "content": "シソのタネ、エゴマのタネ",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 349,
@@ -2805,8 +2722,7 @@
       "pageNumber": 351,
       "content": "麝香草の香い",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 352,
@@ -2830,8 +2746,7 @@
       "pageNumber": 355,
       "content": "狐ノ剃刀",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 356,
@@ -2855,8 +2770,7 @@
       "pageNumber": 359,
       "content": "ハマカンゾウ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 360,
@@ -2880,8 +2794,7 @@
       "pageNumber": 363,
       "content": "イタヤカエデ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 364,
@@ -2899,8 +2812,7 @@
       "pageNumber": 366,
       "content": "三度グリ、シバグリ、カチグリ、ハコグリ",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 367,
@@ -2954,8 +2866,7 @@
       "pageNumber": 375,
       "content": "朝鮮のワングルとカンエンガヤツリ",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 376,
@@ -2991,8 +2902,7 @@
       "pageNumber": 381,
       "content": "無憂花",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 382,
@@ -3022,8 +2932,7 @@
       "pageNumber": 386,
       "content": "アオツヅラフジ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 387,
@@ -3053,8 +2962,7 @@
       "pageNumber": 391,
       "content": "ゴンズイ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 392,
@@ -3072,8 +2980,7 @@
       "pageNumber": 394,
       "content": "辛夷とコブシ、木蘭とモクレン",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 395,
@@ -3091,8 +2998,7 @@
       "pageNumber": 397,
       "content": "万年芝",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 398,
@@ -3128,8 +3034,7 @@
       "pageNumber": 403,
       "content": "オリーブとホルトガル",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 404,
@@ -3147,8 +3052,7 @@
       "pageNumber": 406,
       "content": "冬の美観ユズリハ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 407,
@@ -3166,8 +3070,7 @@
       "pageNumber": 409,
       "content": "序文に代う",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 410,

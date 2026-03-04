@@ -72,7 +72,9 @@
     ],
     "totalPages": 93,
     "averageCharsPerPage": 543,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本芸能史六講"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "第一講",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 14,
       "content": "第二講",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -238,8 +238,7 @@
       "pageNumber": 27,
       "content": "第三講",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -311,8 +310,7 @@
       "pageNumber": 39,
       "content": "第四講",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -396,8 +394,7 @@
       "pageNumber": 53,
       "content": "第五講",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -475,8 +472,7 @@
       "pageNumber": 66,
       "content": "第六講",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -566,8 +562,7 @@
       "pageNumber": 81,
       "content": "三味線唄の発想を辿る",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -627,8 +622,7 @@
       "pageNumber": 91,
       "content": "あとがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,

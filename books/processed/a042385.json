@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ひこうかばん",
         "startPage": 1,
-        "endPage": 14,
-        "summary": "空飛ぶ鞄の冒険譚"
+        "endPage": 14
       }
     ],
     "totalPages": 14,
     "averageCharsPerPage": 540,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ひこうかばん"
+    ]
   },
   "content": [
     {

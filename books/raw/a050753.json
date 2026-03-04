@@ -42,7 +42,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 425,
-    "chapterTitles": []
+    "chapterTitles": [
+      "コロポックル説の誤謬を論ず（上）"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一　アイヌに三派あり",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "二　コロポックルに關する諸説",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -94,8 +94,7 @@
       "pageNumber": 8,
       "content": "三　三派のアイヌ皆竪穴に住せり",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

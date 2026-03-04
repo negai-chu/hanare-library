@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文学について",
         "startPage": 1,
-        "endPage": 13,
-        "summary": "文学と党の関係"
+        "endPage": 13
       }
     ],
     "totalPages": 13,
     "averageCharsPerPage": 537,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文学について"
+    ]
   },
   "content": [
     {

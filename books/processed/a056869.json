@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "武州公秘話序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "武州公秘話総目録",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 6,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-2-section-6",
             "number": "巻之六",
             "startPage": 6,
-            "endPage": 0
+            "endPage": 6
           }
         ]
       },
@@ -67,7 +67,7 @@
         "id": "chapter-3",
         "title": "武州公秘話巻之一",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 17,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -87,7 +87,7 @@
         "id": "chapter-4",
         "title": "武州公秘話巻之二",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 81,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -113,7 +113,7 @@
         "id": "chapter-5",
         "title": "武州公秘話巻之三",
         "startPage": 82,
-        "endPage": 0,
+        "endPage": 119,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -133,7 +133,7 @@
         "id": "chapter-6",
         "title": "武州公秘話巻之四",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 172,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -153,7 +153,7 @@
         "id": "chapter-7",
         "title": "武州公秘話巻之五",
         "startPage": 173,
-        "endPage": 0,
+        "endPage": 215,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -165,7 +165,7 @@
             "id": "chapter-7-section-2",
             "number": "道阿弥感涙を催す事、並びに松雪院悲歎の事",
             "startPage": 204,
-            "endPage": 0
+            "endPage": 215
           }
         ]
       },
@@ -173,7 +173,7 @@
         "id": "chapter-8",
         "title": "武州公秘話巻之六",
         "startPage": 216,
-        "endPage": 0,
+        "endPage": 238,
         "sections": [
           {
             "id": "chapter-8-section-1",

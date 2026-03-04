@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "第一講　ヨブ記はいかなる書であるか",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 14
       },
       {
         "id": "chapter-2",
         "title": "第二講　ヨブの平生と彼に臨みし患難",
         "startPage": 15,
-        "endPage": 0,
+        "endPage": 27,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "第一章、二章の研究",
             "startPage": 16,
-            "endPage": 0
+            "endPage": 27
           }
         ]
       },
@@ -37,13 +37,13 @@
         "id": "chapter-3",
         "title": "第三講　ヨブの哀哭《あいこく》",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 38,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "第三章の研究",
             "startPage": 29,
-            "endPage": 0
+            "endPage": 38
           }
         ]
       },
@@ -51,13 +51,13 @@
         "id": "chapter-4",
         "title": "第四講　老友エリパズまず語る",
         "startPage": 39,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "第四章、五章の研究",
             "startPage": 40,
-            "endPage": 0
+            "endPage": 50
           }
         ]
       },
@@ -65,13 +65,13 @@
         "id": "chapter-5",
         "title": "第五講　ヨブ再び口を啓《ひら》く",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 63,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "第六章、七章の研究",
             "startPage": 52,
-            "endPage": 0
+            "endPage": 63
           }
         ]
       },
@@ -79,13 +79,13 @@
         "id": "chapter-6",
         "title": "第六講　神学者ビルダデ語る",
         "startPage": 64,
-        "endPage": 0,
+        "endPage": 75,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "第八章の研究",
             "startPage": 65,
-            "endPage": 0
+            "endPage": 75
           }
         ]
       },
@@ -93,13 +93,13 @@
         "id": "chapter-7",
         "title": "第七講　ヨブ仲保者を要求す",
         "startPage": 76,
-        "endPage": 0,
+        "endPage": 88,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "第九章の研究",
             "startPage": 77,
-            "endPage": 0
+            "endPage": 88
           }
         ]
       },
@@ -107,13 +107,13 @@
         "id": "chapter-8",
         "title": "第八講　ヨブ愛の神に訴う",
         "startPage": 89,
-        "endPage": 0,
+        "endPage": 101,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "第十章の研究",
             "startPage": 90,
-            "endPage": 0
+            "endPage": 101
           }
         ]
       },
@@ -121,13 +121,13 @@
         "id": "chapter-9",
         "title": "第九講　神智の探索",
         "startPage": 102,
-        "endPage": 0,
+        "endPage": 112,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "第十一章、十二章の研究",
             "startPage": 103,
-            "endPage": 0
+            "endPage": 112
           }
         ]
       },
@@ -135,13 +135,13 @@
         "id": "chapter-10",
         "title": "第十講　再生の欲求",
         "startPage": 113,
-        "endPage": 0,
+        "endPage": 124,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "第十四章の研究",
             "startPage": 114,
-            "endPage": 0
+            "endPage": 124
           }
         ]
       },
@@ -149,13 +149,13 @@
         "id": "chapter-11",
         "title": "第十一講　エリパズ再び語る",
         "startPage": 125,
-        "endPage": 0,
+        "endPage": 136,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "第十五章の研究",
             "startPage": 126,
-            "endPage": 0
+            "endPage": 136
           }
         ]
       },
@@ -163,13 +163,13 @@
         "id": "chapter-12",
         "title": "第十二講　ヨブ答う　終に仲保者を見る（上）",
         "startPage": 137,
-        "endPage": 0,
+        "endPage": 145,
         "sections": [
           {
             "id": "chapter-12-section-1",
             "number": "第十六章の研究",
             "startPage": 138,
-            "endPage": 0
+            "endPage": 145
           }
         ]
       },
@@ -177,13 +177,13 @@
         "id": "chapter-13",
         "title": "第十三講　ヨブ答う　終に仲保者を見る（下）",
         "startPage": 146,
-        "endPage": 0,
+        "endPage": 154,
         "sections": [
           {
             "id": "chapter-13-section-1",
             "number": "第十七章の研究",
             "startPage": 147,
-            "endPage": 0
+            "endPage": 154
           }
         ]
       },
@@ -191,13 +191,13 @@
         "id": "chapter-14",
         "title": "第十四講　ビルダデ再び語る",
         "startPage": 155,
-        "endPage": 0,
+        "endPage": 161,
         "sections": [
           {
             "id": "chapter-14-section-1",
             "number": "第十八章の研究",
             "startPage": 156,
-            "endPage": 0
+            "endPage": 161
           }
         ]
       },
@@ -205,13 +205,13 @@
         "id": "chapter-15",
         "title": "第十五講　ヨブ終に贖主《あがないぬし》を認む",
         "startPage": 162,
-        "endPage": 0,
+        "endPage": 177,
         "sections": [
           {
             "id": "chapter-15-section-1",
             "number": "第十九章の研究",
             "startPage": 163,
-            "endPage": 0
+            "endPage": 177
           }
         ]
       },
@@ -219,13 +219,13 @@
         "id": "chapter-16",
         "title": "第十六講　ゾパル再び語る",
         "startPage": 178,
-        "endPage": 0,
+        "endPage": 183,
         "sections": [
           {
             "id": "chapter-16-section-1",
             "number": "第二十章の研究",
             "startPage": 179,
-            "endPage": 0
+            "endPage": 183
           }
         ]
       },
@@ -233,13 +233,13 @@
         "id": "chapter-17",
         "title": "第十七講　ヨブの見神（一）",
         "startPage": 184,
-        "endPage": 0,
+        "endPage": 192,
         "sections": [
           {
             "id": "chapter-17-section-1",
             "number": "第三十八章の研究",
             "startPage": 185,
-            "endPage": 0
+            "endPage": 192
           }
         ]
       },
@@ -247,13 +247,13 @@
         "id": "chapter-18",
         "title": "第十八講　ヨブの見神（二）",
         "startPage": 193,
-        "endPage": 0,
+        "endPage": 202,
         "sections": [
           {
             "id": "chapter-18-section-1",
             "number": "第三十八章の研究",
             "startPage": 194,
-            "endPage": 0
+            "endPage": 202
           }
         ]
       },
@@ -261,13 +261,13 @@
         "id": "chapter-19",
         "title": "第十九講　ヨブの見神（三）",
         "startPage": 203,
-        "endPage": 0,
+        "endPage": 210,
         "sections": [
           {
             "id": "chapter-19-section-1",
             "number": "第三十八章の研究",
             "startPage": 204,
-            "endPage": 0
+            "endPage": 210
           }
         ]
       },
@@ -275,13 +275,13 @@
         "id": "chapter-20",
         "title": "第二十講　ヨブの見神（四）",
         "startPage": 211,
-        "endPage": 0,
+        "endPage": 219,
         "sections": [
           {
             "id": "chapter-20-section-1",
             "number": "ヨブ記第三十八章三十九節より四十二章六節に至るまでの研究",
             "startPage": 212,
-            "endPage": 0
+            "endPage": 219
           }
         ]
       },

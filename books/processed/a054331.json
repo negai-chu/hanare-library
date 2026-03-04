@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "まえがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-2",
@@ -169,7 +169,7 @@
         "id": "chapter-3",
         "title": "海神宮考",
         "startPage": 68,
-        "endPage": 0,
+        "endPage": 134,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -309,7 +309,7 @@
         "id": "chapter-4",
         "title": "みろくの船",
         "startPage": 135,
-        "endPage": 0,
+        "endPage": 156,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -353,7 +353,7 @@
         "id": "chapter-5",
         "title": "根の国の話",
         "startPage": 157,
-        "endPage": 0,
+        "endPage": 202,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -431,7 +431,7 @@
             "id": "chapter-5-section-13",
             "number": "終りに",
             "startPage": 198,
-            "endPage": 0
+            "endPage": 202
           }
         ]
       },
@@ -439,7 +439,7 @@
         "id": "chapter-6",
         "title": "鼠の浄土",
         "startPage": 203,
-        "endPage": 0,
+        "endPage": 271,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -543,7 +543,7 @@
         "id": "chapter-7",
         "title": "宝貝のこと",
         "startPage": 272,
-        "endPage": 0,
+        "endPage": 286,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -587,7 +587,7 @@
         "id": "chapter-8",
         "title": "人とズズダマ",
         "startPage": 287,
-        "endPage": 0,
+        "endPage": 314,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -659,7 +659,7 @@
             "id": "chapter-8-section-12",
             "number": "一二",
             "startPage": 308,
-            "endPage": 0
+            "endPage": 314
           }
         ]
       },
@@ -667,7 +667,7 @@
         "id": "chapter-9",
         "title": "稲の産屋",
         "startPage": 315,
-        "endPage": 0,
+        "endPage": 367,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -775,7 +775,7 @@
             "id": "chapter-9-section-18",
             "number": "民間新嘗の残留",
             "startPage": 365,
-            "endPage": 0
+            "endPage": 367
           }
         ]
       },
@@ -783,7 +783,7 @@
         "id": "chapter-10",
         "title": "知りたいと思う事二、三",
         "startPage": 368,
-        "endPage": 0,
+        "endPage": 376,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -839,7 +839,7 @@
         "id": "chapter-11",
         "title": "あとがき",
         "startPage": 377,
-        "endPage": 0
+        "endPage": 378
       },
       {
         "id": "chapter-12",

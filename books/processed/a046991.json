@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一話",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 41,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -107,7 +107,7 @@
             "id": "chapter-1-section-15",
             "number": "一五",
             "startPage": 39,
-            "endPage": 0
+            "endPage": 41
           }
         ]
       },
@@ -115,7 +115,7 @@
         "id": "chapter-2",
         "title": "第二話",
         "startPage": 42,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -211,7 +211,7 @@
             "id": "chapter-2-section-16",
             "number": "一六",
             "startPage": 69,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "北と南",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "南北の風土の比較"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 345,
-    "chapterTitles": []
+    "chapterTitles": [
+      "北と南"
+    ]
   },
   "content": [
     {

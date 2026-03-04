@@ -17,74 +17,76 @@
         "id": "chapter-1",
         "title": "ひげ――",
         "startPage": 1,
-        "endPage": 21,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
-            "startPage": 6,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
-            "startPage": 8,
-            "endPage": 9
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
-            "startPage": 10,
-            "endPage": 11
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
-            "startPage": 12,
-            "endPage": 13
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
-            "startPage": 14,
-            "endPage": 15
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-8",
             "number": "８",
-            "startPage": 16,
-            "endPage": 17
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-9",
             "number": "９",
-            "startPage": 18,
-            "endPage": 19
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-10",
             "number": "10",
-            "startPage": 20,
-            "endPage": 21
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 21,
-    "averageCharsPerPage": 17,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 125,
+    "chapterTitles": [
+      "ひげ――"
+    ]
   },
   "content": [
     {
@@ -96,132 +98,14 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　１\n\n目ガアツテ居ナケレバナラナイ筈ノ場所ニハ森林デアル\n\n笑ヒガ在ツテ居タ２人参３あめりかノ幽霊ハ水族館デアルガ非常ニ流麗デアル\n\nソレハ陰欝デデ《ママ》モァルコトダ４渓流ニテ――\n\n乾燥シタ植物性デアル\n\n秋５一小隊ノ軍人ガ東西ノ方向ヘト前進シタト云フコトハ\n\n無意味ナコトデナケレバナラナイ\n\n運動場ガ破裂シ亀裂スルバカリデアルカラ６三心円７粟ヲツメタめりけん袋\n\n簡単ナ須臾ノ月夜デアツタ８",
+      "characters": 200,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　目ガアツテ居ナケレバナラナイ筈ノ場所ニハ森林デアル\n\n笑ヒガ在ツテ居タ",
-      "characters": 36,
-      "ruby": []
-    },
-    {
-      "pageNumber": 4,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "人参",
-      "characters": 2,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
-      "content": "３",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
-      "content": "あめりかノ幽霊ハ水族館デアルガ非常ニ流麗デアル\n\nソレハ陰欝デデ《ママ》モァルコトダ",
-      "characters": 42,
-      "ruby": []
-    },
-    {
-      "pageNumber": 8,
-      "content": "４",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
-      "content": "渓流ニテ――\n\n乾燥シタ植物性デアル\n\n秋",
-      "characters": 21,
-      "ruby": []
-    },
-    {
-      "pageNumber": 10,
-      "content": "５",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 11,
-      "content": "一小隊ノ軍人ガ東西ノ方向ヘト前進シタト云フコトハ\n\n無意味ナコトデナケレバナラナイ\n\n運動場ガ破裂シ亀裂スルバカリデアルカラ",
-      "characters": 62,
-      "ruby": []
-    },
-    {
-      "pageNumber": 12,
-      "content": "６",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 13,
-      "content": "三心円",
-      "characters": 3,
-      "ruby": []
-    },
-    {
-      "pageNumber": 14,
-      "content": "７",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 15,
-      "content": "粟ヲツメタめりけん袋\n\n簡単ナ須臾ノ月夜デアツタ",
-      "characters": 24,
-      "ruby": []
-    },
-    {
-      "pageNumber": 16,
-      "content": "８",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 17,
-      "content": "何時デモ泥棒スルコト許リ計画シテ居タ\n\nソウデハナカツタトスレバ少クトモ物乞ヒデハアツタ",
-      "characters": 44,
-      "ruby": []
-    },
-    {
-      "pageNumber": 18,
-      "content": "９",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 19,
-      "content": "疎ナルモノハ密ナルモノノ相対デアリ又\n\n平凡ナモノハ非凡ナモノノ相対デアツタ\n\n俺ノ神経ハ娼女ヨリモモツト貞淑ナ処女ヲ願ツテイタ",
-      "characters": 64,
-      "ruby": []
-    },
-    {
-      "pageNumber": 20,
-      "content": "10",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 21,
-      "content": "馬――\n\n汗――\n\n　　　　　×\n\n余事務ヲ以テ散歩トスルモ宜シ\n\n余天ノ青キニ飽ク斯ク閉鎖主義ナリ\n\n１９３１・６・５",
-      "characters": 60,
+      "content": "何時デモ泥棒スルコト許リ計画シテ居タ\n\nソウデハナカツタトスレバ少クトモ物乞ヒデハアツタ９疎ナルモノハ密ナルモノノ相対デアリ又\n\n平凡ナモノハ非凡ナモノノ相対デアツタ\n\n俺ノ神経ハ娼女ヨリモモツト貞淑ナ処女ヲ願ツテイタ10馬――\n\n汗――\n\n　　　　　×\n\n余事務ヲ以テ散歩トスルモ宜シ\n\n余天ノ青キニ飽ク斯ク閉鎖主義ナリ\n\n１９３１・６・５",
+      "characters": 171,
       "ruby": []
     }
   ]

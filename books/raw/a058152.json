@@ -36,7 +36,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 400,
-    "chapterTitles": []
+    "chapterTitles": [
+      "戯曲体小説　真夏の夜の恋"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 4,
       "content": "その一　薬局室",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "その二　途上",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 511,
-    "chapterTitles": []
+    "chapterTitles": [
+      "蔭ひなた"
+    ]
   },
   "content": [
     {
@@ -128,8 +130,7 @@
       "pageNumber": 15,
       "content": "その一（中途から。）",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -183,8 +184,7 @@
       "pageNumber": 24,
       "content": "その二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,

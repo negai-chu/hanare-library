@@ -54,7 +54,9 @@
     ],
     "totalPages": 50,
     "averageCharsPerPage": 123,
-    "chapterTitles": []
+    "chapterTitles": [
+      "今日"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "昭和二十三年　一二〇句",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 17,
       "content": "昭和二十四年　八四句",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -226,8 +226,7 @@
       "pageNumber": 28,
       "content": "昭和二十五年　一〇〇句",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -305,8 +304,7 @@
       "pageNumber": 41,
       "content": "昭和二十六年七月まで　六〇句",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -354,8 +352,7 @@
       "pageNumber": 49,
       "content": "後記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,

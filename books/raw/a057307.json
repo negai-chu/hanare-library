@@ -36,7 +36,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 436,
-    "chapterTitles": []
+    "chapterTitles": [
+      "大雪山二題"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　大雪山の雪",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 9,
       "content": "二　大雪山の夜",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "冬の巻",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 17,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-1-section-5",
             "number": "第二百八十　滋養スープ",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 17
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-2",
         "title": "付録",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 282,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -67,7 +67,7 @@
             "id": "chapter-2-section-2",
             "number": "戦地の食物衛生",
             "startPage": 276,
-            "endPage": 0
+            "endPage": 282
           }
         ]
       },

@@ -17,25 +17,25 @@
         "id": "chapter-1",
         "title": "新版の序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "序",
         "startPage": 111,
-        "endPage": 0
+        "endPage": 122
       },
       {
         "id": "chapter-3",
         "title": "緒言",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 11,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -43,13 +43,13 @@
         "id": "chapter-4",
         "title": "工藝の美",
         "startPage": 13,
-        "endPage": 0
+        "endPage": 14
       },
       {
         "id": "chapter-5",
         "title": "正しき工藝",
         "startPage": 15,
-        "endPage": 0,
+        "endPage": 109,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -73,7 +73,7 @@
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 0
+            "endPage": 109
           }
         ]
       },
@@ -107,7 +107,7 @@
         "id": "chapter-7",
         "title": "来るべき工藝",
         "startPage": 123,
-        "endPage": 0,
+        "endPage": 216,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -125,7 +125,7 @@
             "id": "chapter-7-section-3",
             "number": "（下）工藝と協団",
             "startPage": 192,
-            "endPage": 0
+            "endPage": 216
           }
         ]
       },
@@ -133,7 +133,7 @@
         "id": "chapter-8",
         "title": "工藝美論の先駆者について",
         "startPage": 217,
-        "endPage": 0,
+        "endPage": 239,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -175,7 +175,7 @@
             "id": "chapter-8-section-7",
             "number": "七",
             "startPage": 235,
-            "endPage": 0
+            "endPage": 239
           }
         ]
       },
@@ -183,7 +183,7 @@
         "id": "chapter-9",
         "title": "概要",
         "startPage": 240,
-        "endPage": 0
+        "endPage": 270
       },
       {
         "id": "chapter-10",

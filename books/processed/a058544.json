@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "地名の話",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -49,7 +49,7 @@
         "id": "chapter-3",
         "title": "地名と地理",
         "startPage": 41,
-        "endPage": 0,
+        "endPage": 85,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -109,7 +109,7 @@
             "id": "chapter-3-section-10",
             "number": "一〇",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 85
           }
         ]
       },
@@ -117,7 +117,7 @@
         "id": "chapter-4",
         "title": "地名と歴史",
         "startPage": 86,
-        "endPage": 0,
+        "endPage": 127,
         "sections": [
           {
             "id": "chapter-4-section-1",

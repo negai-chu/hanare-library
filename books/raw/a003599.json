@@ -54,7 +54,9 @@
     ],
     "totalPages": 116,
     "averageCharsPerPage": 503,
-    "chapterTitles": []
+    "chapterTitles": [
+      "認識論とは何か"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "第一章　認識について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -213,8 +214,7 @@
       "pageNumber": 26,
       "content": "第二章　真理について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -352,8 +352,7 @@
       "pageNumber": 49,
       "content": "第三章　真理について（続き）",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -467,8 +466,7 @@
       "pageNumber": 68,
       "content": "第四章　意識について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -594,8 +592,7 @@
       "pageNumber": 89,
       "content": "第五章　思想について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,

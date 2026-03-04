@@ -36,7 +36,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 433,
-    "chapterTitles": []
+    "chapterTitles": [
+      "現代語訳　平家物語"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 4,
       "content": "大原入御",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "大原御幸",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

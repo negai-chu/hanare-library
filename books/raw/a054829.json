@@ -42,7 +42,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 358,
-    "chapterTitles": []
+    "chapterTitles": [
+      "歳棚に祭る神"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 4,
       "content": "年男",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "御松迎え",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

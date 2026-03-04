@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "風ばか",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "左右非対称の風の童話"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 360,
-    "chapterTitles": []
+    "chapterTitles": [
+      "風ばか"
+    ]
   },
   "content": [
     {

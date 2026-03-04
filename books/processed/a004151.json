@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "逗子だより",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "逗子の秋の夕景"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 446,
-    "chapterTitles": []
+    "chapterTitles": [
+      "逗子だより"
+    ]
   },
   "content": [
     {

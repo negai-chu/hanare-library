@@ -42,7 +42,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 304,
-    "chapterTitles": []
+    "chapterTitles": [
+      "茶話"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 7,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -99,8 +100,7 @@
       "pageNumber": 9,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -112,8 +112,7 @@
       "pageNumber": 11,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

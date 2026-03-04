@@ -294,7 +294,9 @@
     ],
     "totalPages": 100,
     "averageCharsPerPage": 186,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明治演劇年表"
+    ]
   },
   "content": [
     {
@@ -314,8 +316,7 @@
       "pageNumber": 3,
       "content": "明治元年（戊辰）　一八六八",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -327,8 +328,7 @@
       "pageNumber": 5,
       "content": "二年（己巳）　一八六九",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -340,8 +340,7 @@
       "pageNumber": 7,
       "content": "三年（庚午）　一八七〇",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -353,8 +352,7 @@
       "pageNumber": 9,
       "content": "四年（辛未）　一八七一",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -366,8 +364,7 @@
       "pageNumber": 11,
       "content": "五年（壬申）　一八七二",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -379,8 +376,7 @@
       "pageNumber": 13,
       "content": "六年（癸酉）　一八七三",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -392,8 +388,7 @@
       "pageNumber": 15,
       "content": "七年（甲戌）　一八七四",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -405,8 +400,7 @@
       "pageNumber": 17,
       "content": "八年（乙亥）　一八七五",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -418,8 +412,7 @@
       "pageNumber": 19,
       "content": "九年（丙子）　一八七六",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -431,8 +424,7 @@
       "pageNumber": 21,
       "content": "十年（丁丑）　一八七七",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -444,8 +436,7 @@
       "pageNumber": 23,
       "content": "十一年（戊寅）　一八七八",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -457,8 +448,7 @@
       "pageNumber": 25,
       "content": "十二年（己卯）　一八七九",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -470,8 +460,7 @@
       "pageNumber": 27,
       "content": "十三年（庚辰）　一八八〇",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -483,8 +472,7 @@
       "pageNumber": 29,
       "content": "十四年（辛巳）　一八八一",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -496,8 +484,7 @@
       "pageNumber": 31,
       "content": "十五年（壬午）　一八八二",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -509,8 +496,7 @@
       "pageNumber": 33,
       "content": "十六年（癸未）　一八八三",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -522,8 +508,7 @@
       "pageNumber": 35,
       "content": "十七年（甲申）　一八八四",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -535,8 +520,7 @@
       "pageNumber": 37,
       "content": "十八年（乙酉）　一八八五",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -548,8 +532,7 @@
       "pageNumber": 39,
       "content": "十九年（丙戌）　一八八六",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -567,8 +550,7 @@
       "pageNumber": 42,
       "content": "二十年（丁亥）　一八八七",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -580,8 +562,7 @@
       "pageNumber": 44,
       "content": "二十一年（戊子）　一八八八",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -593,8 +574,7 @@
       "pageNumber": 46,
       "content": "二十二年（己丑）　一八八九",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -606,8 +586,7 @@
       "pageNumber": 48,
       "content": "二十三年（庚寅）　一八九〇",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -625,8 +604,7 @@
       "pageNumber": 51,
       "content": "二十四年（辛卯）　一八九一",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -638,8 +616,7 @@
       "pageNumber": 53,
       "content": "二十五年（壬辰）　一八九二",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -651,8 +628,7 @@
       "pageNumber": 55,
       "content": "二十六年（癸巳）　一八九三",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -664,8 +640,7 @@
       "pageNumber": 57,
       "content": "二十七年（甲午）　一八九四",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -677,8 +652,7 @@
       "pageNumber": 59,
       "content": "二十八年（乙未）　一八九五",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -690,8 +664,7 @@
       "pageNumber": 61,
       "content": "二十九年（丙申）　一八九六",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -703,8 +676,7 @@
       "pageNumber": 63,
       "content": "三十年（丁酉）　一八九七",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -722,8 +694,7 @@
       "pageNumber": 66,
       "content": "三十一年（戊戌）　一八九八",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -735,8 +706,7 @@
       "pageNumber": 68,
       "content": "三十二年（己亥）　一八九九",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -748,8 +718,7 @@
       "pageNumber": 70,
       "content": "三十三年（庚子）　一九〇〇",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -761,8 +730,7 @@
       "pageNumber": 72,
       "content": "三十四年（辛丑）　一九〇一",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -774,8 +742,7 @@
       "pageNumber": 74,
       "content": "三十五年（壬寅）　一九〇二",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -787,8 +754,7 @@
       "pageNumber": 76,
       "content": "三十六年（癸卯）　一九〇三",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -806,8 +772,7 @@
       "pageNumber": 79,
       "content": "三十七年（甲辰）　一九〇四",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -825,8 +790,7 @@
       "pageNumber": 82,
       "content": "三十八年（乙巳）　一九〇五",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -838,8 +802,7 @@
       "pageNumber": 84,
       "content": "三十九年（丙午）　一九〇六",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -857,8 +820,7 @@
       "pageNumber": 87,
       "content": "四十年（丁未）　一九〇七",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -870,8 +832,7 @@
       "pageNumber": 89,
       "content": "四十一年（戊申）　一九〇八",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -889,8 +850,7 @@
       "pageNumber": 92,
       "content": "四十二年（己酉）　一九〇九",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -902,8 +862,7 @@
       "pageNumber": 94,
       "content": "四十三年（庚戌）　一九一〇",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -915,8 +874,7 @@
       "pageNumber": 96,
       "content": "四十四年（辛亥）　一九一一",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -934,8 +892,7 @@
       "pageNumber": 99,
       "content": "四十五年（壬子）　一九一二",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,

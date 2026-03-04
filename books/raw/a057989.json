@@ -48,7 +48,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明治文明史上に於ける福沢翁"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "〔安政五年は如何なる年か〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "〔福沢先生の困難と勇気〕",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -112,8 +112,7 @@
       "pageNumber": 10,
       "content": "〔思想界の大革命と破壊的大運動〕",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -155,8 +154,7 @@
       "pageNumber": 17,
       "content": "〔慶應義塾には福沢先生の精神が宿っている〕",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

@@ -84,7 +84,9 @@
     ],
     "totalPages": 306,
     "averageCharsPerPage": 586,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地上"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 3,
       "content": "第一章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -339,8 +340,7 @@
       "pageNumber": 42,
       "content": "第二章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -610,8 +610,7 @@
       "pageNumber": 87,
       "content": "第三章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -713,8 +712,7 @@
       "pageNumber": 104,
       "content": "第四章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -900,8 +898,7 @@
       "pageNumber": 135,
       "content": "第五章　　――埋れたる過去――",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1099,8 +1096,7 @@
       "pageNumber": 168,
       "content": "第六章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 169,
@@ -1340,8 +1336,7 @@
       "pageNumber": 208,
       "content": "第七章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 209,
@@ -1515,8 +1510,7 @@
       "pageNumber": 237,
       "content": "第八章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 238,
@@ -1642,8 +1636,7 @@
       "pageNumber": 258,
       "content": "第九章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 259,
@@ -1769,8 +1762,7 @@
       "pageNumber": 279,
       "content": "第十章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 280,

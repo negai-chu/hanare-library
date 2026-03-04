@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "観光について",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "観光の本質への考察"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 299,
-    "chapterTitles": []
+    "chapterTitles": [
+      "観光について"
+    ]
   },
   "content": [
     {

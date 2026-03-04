@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "一日",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "蒸し暑い一日の記録"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 266,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一日"
+    ]
   },
   "content": [
     {

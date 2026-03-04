@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "思い出草",
         "startPage": 3,
-        "endPage": 0,
+        "endPage": 119,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -89,16 +89,15 @@
             "id": "chapter-1-section-12",
             "number": "ゆず湯",
             "startPage": 95,
-            "endPage": 0
+            "endPage": 119
           }
-        ],
-        "summary": "過ぎし日の追想"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "旅つれづれ",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 238,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -170,10 +169,9 @@
             "id": "chapter-2-section-12",
             "number": "温泉雑記",
             "startPage": 225,
-            "endPage": 0
+            "endPage": 238
           }
-        ],
-        "summary": "旅先での徒然"
+        ]
       },
       {
         "id": "chapter-3",
@@ -259,8 +257,7 @@
             "startPage": 339,
             "endPage": 346
           }
-        ],
-        "summary": "日常の移ろい"
+        ]
       }
     ],
     "totalPages": 346,

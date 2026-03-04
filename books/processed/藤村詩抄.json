@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 7
       },
       {
         "id": "chapter-2",
         "title": "序のうた",
         "startPage": 8,
-        "endPage": 0,
+        "endPage": 228,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -281,7 +281,7 @@
             "id": "chapter-2-section-43",
             "number": "春やいづこに",
             "startPage": 226,
-            "endPage": 0
+            "endPage": 228
           }
         ]
       },

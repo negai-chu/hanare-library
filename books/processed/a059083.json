@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "間人斷章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 35,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -101,7 +101,7 @@
             "id": "chapter-1-section-14",
             "number": "間人斷章",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 35
           }
         ]
       },
@@ -109,7 +109,7 @@
         "id": "chapter-2",
         "title": "秋風裡",
         "startPage": 36,
-        "endPage": 0,
+        "endPage": 75,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -217,7 +217,7 @@
             "id": "chapter-2-section-18",
             "number": "散文詩　四篇",
             "startPage": 69,
-            "endPage": 0
+            "endPage": 75
           }
         ]
       },

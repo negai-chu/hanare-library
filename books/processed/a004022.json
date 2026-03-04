@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "一刻",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "電車待ちの一刻"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 231,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一刻"
+    ]
   },
   "content": [
     {

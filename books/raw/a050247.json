@@ -36,7 +36,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 291,
-    "chapterTitles": []
+    "chapterTitles": [
+      "高橋新吉論"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 4,
       "content": "彼の欠点",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "手紙",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

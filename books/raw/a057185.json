@@ -36,7 +36,9 @@
     ],
     "totalPages": 36,
     "averageCharsPerPage": 529,
-    "chapterTitles": []
+    "chapterTitles": [
+      "黒手組"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "（上）顕《あらわ》れたる事実",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -189,8 +190,7 @@
       "pageNumber": 25,
       "content": "（下）隠れたる事実",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,

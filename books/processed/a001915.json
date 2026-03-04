@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "消息一通",
         "startPage": 1,
-        "endPage": 19,
-        "summary": "一通の消息文"
+        "endPage": 19
       }
     ],
     "totalPages": 19,
     "averageCharsPerPage": 526,
-    "chapterTitles": []
+    "chapterTitles": [
+      "消息一通"
+    ]
   },
   "content": [
     {

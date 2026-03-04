@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一編　正しき人",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 119,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -101,7 +101,7 @@
             "id": "chapter-1-section-14",
             "number": "十四　彼の思想",
             "startPage": 114,
-            "endPage": 0
+            "endPage": 119
           }
         ]
       },
@@ -109,7 +109,7 @@
         "id": "chapter-2",
         "title": "第二編　墜落",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 228,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -187,7 +187,7 @@
             "id": "chapter-2-section-13",
             "number": "十三　プティー・ジェルヴェー",
             "startPage": 212,
-            "endPage": 0
+            "endPage": 228
           }
         ]
       },
@@ -195,7 +195,7 @@
         "id": "chapter-3",
         "title": "第三編　一八一七年のこと",
         "startPage": 229,
-        "endPage": 0,
+        "endPage": 289,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -249,7 +249,7 @@
             "id": "chapter-3-section-9",
             "number": "九　歓楽のおもしろき終局",
             "startPage": 283,
-            "endPage": 0
+            "endPage": 289
           }
         ]
       },
@@ -257,7 +257,7 @@
         "id": "chapter-4",
         "title": "第四編　委託は時に放棄となる",
         "startPage": 290,
-        "endPage": 0,
+        "endPage": 315,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -275,7 +275,7 @@
             "id": "chapter-4-section-3",
             "number": "三　アルーエット",
             "startPage": 311,
-            "endPage": 0
+            "endPage": 315
           }
         ]
       },
@@ -283,7 +283,7 @@
         "id": "chapter-5",
         "title": "第五編　下降",
         "startPage": 316,
-        "endPage": 0,
+        "endPage": 395,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -361,7 +361,7 @@
             "id": "chapter-5-section-13",
             "number": "十三　市内警察の若干問題の解決",
             "startPage": 377,
-            "endPage": 0
+            "endPage": 395
           }
         ]
       },
@@ -369,7 +369,7 @@
         "id": "chapter-6",
         "title": "第六編　ジャヴェル",
         "startPage": 396,
-        "endPage": 0,
+        "endPage": 421,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -381,7 +381,7 @@
             "id": "chapter-6-section-2",
             "number": "二　ジャン変じてシャンとなる話",
             "startPage": 403,
-            "endPage": 0
+            "endPage": 421
           }
         ]
       },
@@ -389,7 +389,7 @@
         "id": "chapter-7",
         "title": "第七編　シャンマティユー事件",
         "startPage": 422,
-        "endPage": 0,
+        "endPage": 562,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -455,7 +455,7 @@
             "id": "chapter-7-section-11",
             "number": "十一　シャンマティユーますます驚く",
             "startPage": 554,
-            "endPage": 0
+            "endPage": 562
           }
         ]
       },

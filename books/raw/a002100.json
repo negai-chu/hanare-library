@@ -48,7 +48,9 @@
     ],
     "totalPages": 422,
     "averageCharsPerPage": 550,
-    "chapterTitles": []
+    "chapterTitles": [
+      "暗黒公使"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "はしがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 10,
       "content": "上巻",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -1396,8 +1396,7 @@
       "pageNumber": 224,
       "content": "中巻",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 225,
@@ -1853,8 +1852,7 @@
       "pageNumber": 300,
       "content": "下巻",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 301,

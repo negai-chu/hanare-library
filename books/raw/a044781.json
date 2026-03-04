@@ -42,7 +42,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 396,
-    "chapterTitles": []
+    "chapterTitles": [
+      "遂に「知らん」文六（三場）"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "第一場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -87,8 +88,7 @@
       "pageNumber": 7,
       "content": "第二場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -142,8 +142,7 @@
       "pageNumber": 16,
       "content": "第三場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

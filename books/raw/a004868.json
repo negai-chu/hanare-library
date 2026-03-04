@@ -54,7 +54,9 @@
     ],
     "totalPages": 55,
     "averageCharsPerPage": 847,
-    "chapterTitles": []
+    "chapterTitles": [
+      "認識論"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "一　存在と眞理",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -141,8 +142,7 @@
       "pageNumber": 14,
       "content": "二　直觀と判斷",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -208,8 +208,7 @@
       "pageNumber": 25,
       "content": "三　主觀と客觀",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -269,8 +268,7 @@
       "pageNumber": 35,
       "content": "四　認識と生",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -336,8 +334,7 @@
       "pageNumber": 46,
       "content": "五　認識論",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,

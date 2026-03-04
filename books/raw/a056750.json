@@ -90,7 +90,9 @@
     ],
     "totalPages": 61,
     "averageCharsPerPage": 242,
-    "chapterTitles": []
+    "chapterTitles": [
+      "益子の絵土瓶"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 5,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -136,43 +136,37 @@
       "pageNumber": 7,
       "content": "一　決して天才の筆になる絵附ではないこと。",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
       "content": "一　独創的な仕事では少しもないこと。",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
       "content": "一　稀有《けう》な品物ではなく、ざらにあること。",
       "characters": 24,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
       "content": "一　美しさが分って作られたものではないこと。",
       "characters": 22,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
       "content": "一　展観されたり鑑賞されたりするものではないこと。",
       "characters": 25,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
       "content": "一　個性の表現など見当らぬこと。",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -184,57 +178,49 @@
       "pageNumber": 14,
       "content": "一　平凡な無学な者が描いたこと。",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
       "content": "一　自分が生んだ図柄ではないこと。",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
       "content": "一　同一のものが無数に反復されていること。",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
       "content": "一　安ものの実用品に過ぎないこと。",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
       "content": "一　美しさのことなど知らぬままに描いてあること。",
       "characters": 24,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
       "content": "一　労働を伴う汗の多い仕事であること。",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
       "content": "一　優れた個性の持合せなどないこと。",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
       "content": "一　どこにも落款《らっかん》が見られぬこと。",
       "characters": 22,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -246,8 +232,7 @@
       "pageNumber": 23,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -265,8 +250,7 @@
       "pageNumber": 26,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -278,57 +262,49 @@
       "pageNumber": 28,
       "content": "一　繰返しは単調を意味して呪《のろ》わしいこととも考えられますが、しかし反復は仕事に熟達を齎らします。これで充分に技が完成され、作り方をあぶなげのないものに致します。これは美を保障する大切な要因ではないでしょうか。",
       "characters": 107,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
       "content": "一　この熟達は、ついには一々何を描くかを意識させないまでに至ります。意識に縛られないこの自由は大した働きを致します。意識に止まるものが示し得ないものを示します。",
       "characters": 80,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
       "content": "一　この種の絵附は始めから非個人的な仕事であります。そのため個性を欠くという非難も出ましょうが、反面には人間の小さな個性に閉じこめられぬ事をも意味します。それ故かえって普遍なものに繋《つな》がれてきます。誰でもに親しい図柄となる所以《ゆえん》であります。",
       "characters": 127,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
       "content": "一　雑器のこと故、美しく描かねばならぬとか、下手ではいけないとか、そういう悩みから自由になります。仕事はそんな相対的立場にはおりません。のびのびと描いてあるのはこの故であります。",
       "characters": 89,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
       "content": "一　同一の決定された画題を描くことは、不自由を意味するとしても、その題材に身を任せきることによって、少しも不自由を覚えず、かえってそれを内から自由にこなします。図柄はもと人間の考えたものでありますが、その考えから解放させてくれるのは、反復の功徳ともいえましょう。そのため人為を越えて自然さにまで帰ってゆきます。",
       "characters": 155,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
       "content": "一　昨日の絵を今日も描きまた明日も繰返すといいますが、実は凡てを忘れて描くに至りますので、何のこだわりもなくなり、一つ一つが自在なのであります。それ故絵を見ますと、少しも反復の退屈さがなく、筆の跡はいつも新鮮で活々《いきいき》しています。決して線も点も眠ってはおりません。つまりいつも「今描いている」趣きがあります。反復であって反復でないものがあるのであります。",
       "characters": 181,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
       "content": "一　多く早く描くことは、図柄をいつも略化させます。それはただ粗略になるのではなく、結晶されてくることを意味します。しばしば何を描いてあるか分らないまでに変化してしまいますが、実はこの非実より実を強く現わすものはないのであります。",
       "characters": 114,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -352,8 +328,7 @@
       "pageNumber": 39,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -371,8 +346,7 @@
       "pageNumber": 42,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -390,8 +364,7 @@
       "pageNumber": 45,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -409,8 +382,7 @@
       "pageNumber": 48,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -434,8 +406,7 @@
       "pageNumber": 52,
       "content": "一〇",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -459,8 +430,7 @@
       "pageNumber": 56,
       "content": "一一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,

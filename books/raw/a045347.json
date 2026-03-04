@@ -42,7 +42,9 @@
     ],
     "totalPages": 29,
     "averageCharsPerPage": 495,
-    "chapterTitles": []
+    "chapterTitles": [
+      "鬼涙村"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 14,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -154,8 +154,7 @@
       "pageNumber": 18,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

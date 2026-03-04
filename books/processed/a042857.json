@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "てのひら自伝",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "掌の上の自伝"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 357,
-    "chapterTitles": []
+    "chapterTitles": [
+      "てのひら自伝"
+    ]
   },
   "content": [
     {

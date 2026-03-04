@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "秋の筑波山",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "筑波山の秋の紀行文"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 470,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秋の筑波山"
+    ]
   },
   "content": [
     {

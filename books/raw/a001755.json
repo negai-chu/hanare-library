@@ -48,7 +48,9 @@
     ],
     "totalPages": 84,
     "averageCharsPerPage": 599,
-    "chapterTitles": []
+    "chapterTitles": [
+      "絶対矛盾的自己同一"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -207,8 +208,7 @@
       "pageNumber": 26,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -328,8 +328,7 @@
       "pageNumber": 46,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -467,8 +466,7 @@
       "pageNumber": 69,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,

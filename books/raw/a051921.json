@@ -42,7 +42,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 754,
-    "chapterTitles": []
+    "chapterTitles": [
+      "国訳史記列伝"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "箭内亙による譯",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "箭内亙による註",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -136,8 +136,7 @@
       "pageNumber": 15,
       "content": "原文",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

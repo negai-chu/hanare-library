@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "博物館論の序文"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "第一、序の卷",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 39,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -38,14 +37,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "博物館の概論"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二、考古博物館の卷（上）",
         "startPage": 40,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -65,8 +63,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "考古博物館の上巻"
+        ]
       },
       {
         "id": "chapter-4",
@@ -92,8 +89,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "考古博物館の下巻"
+        ]
       }
     ],
     "totalPages": 252,

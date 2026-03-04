@@ -246,7 +246,9 @@
     ],
     "totalPages": 210,
     "averageCharsPerPage": 478,
-    "chapterTitles": []
+    "chapterTitles": [
+      "透明怪人"
+    ]
   },
   "content": [
     {
@@ -260,8 +262,7 @@
       "pageNumber": 2,
       "content": "ろう人形",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -291,8 +292,7 @@
       "pageNumber": 7,
       "content": "第三の尾行者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -316,8 +316,7 @@
       "pageNumber": 11,
       "content": "奇々怪々",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -359,8 +358,7 @@
       "pageNumber": 18,
       "content": "空気男",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -396,8 +394,7 @@
       "pageNumber": 24,
       "content": "百万円の首飾り",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -427,8 +424,7 @@
       "pageNumber": 29,
       "content": "デパートの怪",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -464,8 +460,7 @@
       "pageNumber": 35,
       "content": "つむじ風",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -489,8 +484,7 @@
       "pageNumber": 39,
       "content": "笑う影",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -526,8 +520,7 @@
       "pageNumber": 45,
       "content": "真珠塔",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -569,8 +562,7 @@
       "pageNumber": 52,
       "content": "地下室",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -612,8 +604,7 @@
       "pageNumber": 59,
       "content": "午後九時",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -661,8 +652,7 @@
       "pageNumber": 67,
       "content": "首をひろう紳士",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -704,8 +694,7 @@
       "pageNumber": 74,
       "content": "怪人のすみか",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -741,8 +730,7 @@
       "pageNumber": 80,
       "content": "大友少年の冒険",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -766,8 +754,7 @@
       "pageNumber": 84,
       "content": "怪老人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -803,8 +790,7 @@
       "pageNumber": 90,
       "content": "透明怪人第四号",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -840,8 +826,7 @@
       "pageNumber": 96,
       "content": "透明少年",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -865,8 +850,7 @@
       "pageNumber": 100,
       "content": "Ｂ《ビー》・Ｄ《デー》バッジ",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -902,8 +886,7 @@
       "pageNumber": 106,
       "content": "暗中の妖魔",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -939,8 +922,7 @@
       "pageNumber": 112,
       "content": "洞窟のクラゲ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -982,8 +964,7 @@
       "pageNumber": 119,
       "content": "古井戸の底",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1025,8 +1006,7 @@
       "pageNumber": 126,
       "content": "明智小五郎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1044,8 +1024,7 @@
       "pageNumber": 129,
       "content": "秘密室",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1069,8 +1048,7 @@
       "pageNumber": 133,
       "content": "名探偵の危難",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1112,8 +1090,7 @@
       "pageNumber": 140,
       "content": "透明怪人第五号",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1137,8 +1114,7 @@
       "pageNumber": 144,
       "content": "赤い道化師",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1168,8 +1144,7 @@
       "pageNumber": 149,
       "content": "ふしぎな早わざ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1199,8 +1174,7 @@
       "pageNumber": 154,
       "content": "のろいの影",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 155,
@@ -1230,8 +1204,7 @@
       "pageNumber": 159,
       "content": "第二の道化師",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 160,
@@ -1267,8 +1240,7 @@
       "pageNumber": 165,
       "content": "黒い一寸法師《すんぼうし》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,
@@ -1304,8 +1276,7 @@
       "pageNumber": 171,
       "content": "樋《とい》をはう人",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 172,
@@ -1329,8 +1300,7 @@
       "pageNumber": 175,
       "content": "空家の怪",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1360,8 +1330,7 @@
       "pageNumber": 180,
       "content": "少年名探偵",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 181,
@@ -1403,8 +1372,7 @@
       "pageNumber": 187,
       "content": "三人の明智小五郎",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 188,
@@ -1440,8 +1408,7 @@
       "pageNumber": 193,
       "content": "裏から見る",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 194,
@@ -1465,8 +1432,7 @@
       "pageNumber": 197,
       "content": "大奇術",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1514,8 +1480,7 @@
       "pageNumber": 205,
       "content": "真犯人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 206,

@@ -54,7 +54,9 @@
     ],
     "totalPages": 21,
     "averageCharsPerPage": 362,
-    "chapterTitles": []
+    "chapterTitles": [
+      "芝、麻布"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 5,
       "content": "明舟町",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "化物屋敷",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -124,8 +124,7 @@
       "pageNumber": 11,
       "content": "芝浦",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -143,8 +142,7 @@
       "pageNumber": 14,
       "content": "森元町",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -168,8 +166,7 @@
       "pageNumber": 18,
       "content": "竜土会",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

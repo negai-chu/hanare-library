@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "発端《ほったん》　如是我聞《にょぜがもん》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 6,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -31,14 +31,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "仏師の物語の発端"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "第一　如是相《にょぜそう》",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 9,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -46,14 +45,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "美しき女人の姿"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二　如是体《にょぜたい》",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -61,14 +59,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "仏師の内なる情念"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三　如是性《にょぜしょう》",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 23,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -82,14 +79,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "恋慕の性の深まり"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第四　如是因《にょぜいん》",
         "startPage": 24,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -103,14 +99,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "運命の因と縁"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第五　如是作《にょぜさ》",
         "startPage": 31,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -130,14 +125,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "彫刻への没入"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第六　如是縁《にょぜえん》",
         "startPage": 43,
-        "endPage": 0,
+        "endPage": 52,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -157,14 +151,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "巡り合わせの縁"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "第七　如是報《にょぜほう》",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 59,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -172,14 +165,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "報いの行方"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "第八　如是力《にょぜりき》",
         "startPage": 60,
-        "endPage": 0,
+        "endPage": 70,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -193,14 +185,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "芸術に宿る力"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "第九　如是果《にょぜか》",
         "startPage": 71,
-        "endPage": 0,
+        "endPage": 76,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -214,14 +205,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "恋と芸の結実"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "第十　如是本末究竟等《にょぜほんまつくきょうとう》",
         "startPage": 77,
-        "endPage": 0,
+        "endPage": 93,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -235,8 +225,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "本末究竟の悟り"
+        ]
       },
       {
         "id": "chapter-12",
@@ -250,8 +239,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "諸法実相の団円"
+        ]
       }
     ],
     "totalPages": 97,

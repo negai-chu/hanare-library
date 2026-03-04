@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "青春",
         "startPage": 1,
-        "endPage": 15,
-        "summary": "青春のおもしろさ"
+        "endPage": 15
       }
     ],
     "totalPages": 15,
     "averageCharsPerPage": 523,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青春"
+    ]
   },
   "content": [
     {

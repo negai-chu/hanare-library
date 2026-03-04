@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "わが生ひたち",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 41,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-1-section-9",
             "number": "９",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 41
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-2",
         "title": "序詩",
         "startPage": 42,
-        "endPage": 0,
+        "endPage": 112,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -145,7 +145,7 @@
             "id": "chapter-2-section-11",
             "number": "斷章",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 112
           }
         ]
       },
@@ -153,7 +153,7 @@
         "id": "chapter-3",
         "title": "過ぎし日",
         "startPage": 113,
-        "endPage": 0,
+        "endPage": 125,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -183,7 +183,7 @@
             "id": "chapter-3-section-5",
             "number": "初戀",
             "startPage": 124,
-            "endPage": 0
+            "endPage": 125
           }
         ]
       },
@@ -191,7 +191,7 @@
         "id": "chapter-4",
         "title": "おもひで",
         "startPage": 126,
-        "endPage": 0,
+        "endPage": 175,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -305,7 +305,7 @@
             "id": "chapter-4-section-19",
             "number": "乳母の墓",
             "startPage": 173,
-            "endPage": 0
+            "endPage": 175
           }
         ]
       },
@@ -313,7 +313,7 @@
         "id": "chapter-5",
         "title": "生の芽生",
         "startPage": 176,
-        "endPage": 0,
+        "endPage": 241,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -535,7 +535,7 @@
             "id": "chapter-5-section-37",
             "number": "青い鳥",
             "startPage": 240,
-            "endPage": 0
+            "endPage": 241
           }
         ]
       },
@@ -543,7 +543,7 @@
         "id": "chapter-6",
         "title": "TONKA JOHN の悲哀",
         "startPage": 242,
-        "endPage": 0,
+        "endPage": 282,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -657,7 +657,7 @@
             "id": "chapter-6-section-19",
             "number": "たんぽぽ",
             "startPage": 279,
-            "endPage": 0
+            "endPage": 282
           }
         ]
       },

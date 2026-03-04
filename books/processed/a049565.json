@@ -17,73 +17,73 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 7
       },
       {
         "id": "chapter-2",
         "title": "一　淡島氏の祖――馬喰町の軽焼屋",
         "startPage": 8,
-        "endPage": 0
+        "endPage": 11
       },
       {
         "id": "chapter-3",
         "title": "二　江戸名物軽焼――軽焼と疱瘡痲疹",
         "startPage": 12,
-        "endPage": 0
+        "endPage": 14
       },
       {
         "id": "chapter-4",
         "title": "三　二代目喜兵衛の商才",
         "startPage": 15,
-        "endPage": 0
+        "endPage": 20
       },
       {
         "id": "chapter-5",
         "title": "四　狂歌師岡鹿楼笑名",
         "startPage": 21,
-        "endPage": 0
+        "endPage": 22
       },
       {
         "id": "chapter-6",
         "title": "五　神楽坂路考",
         "startPage": 23,
-        "endPage": 0
+        "endPage": 25
       },
       {
         "id": "chapter-7",
         "title": "六　川越の農家の子――椿岳及び伊藤八兵衛",
         "startPage": 26,
-        "endPage": 0
+        "endPage": 30
       },
       {
         "id": "chapter-8",
         "title": "七　小林城三",
         "startPage": 31,
-        "endPage": 0
+        "endPage": 34
       },
       {
         "id": "chapter-9",
         "title": "八　浅草生活――大眼鏡から淡島堂の堂守",
         "startPage": 35,
-        "endPage": 0
+        "endPage": 39
       },
       {
         "id": "chapter-10",
         "title": "九　椿岳の人物――狷介不羈なる半面",
         "startPage": 40,
-        "endPage": 0
+        "endPage": 43
       },
       {
         "id": "chapter-11",
         "title": "十　椿岳の畸行",
         "startPage": 44,
-        "endPage": 0
+        "endPage": 55
       },
       {
         "id": "chapter-12",
         "title": "十一　画人椿岳",
         "startPage": 56,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-12-section-8",
             "number": "円福寺の椿岳の画",
             "startPage": 69,
-            "endPage": 0
+            "endPage": 71
           }
         ]
       },

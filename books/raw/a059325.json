@@ -66,7 +66,9 @@
     ],
     "totalPages": 33,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "眠りの精"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 4,
       "content": "月曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -117,8 +118,7 @@
       "pageNumber": 8,
       "content": "火曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -154,8 +154,7 @@
       "pageNumber": 14,
       "content": "水曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -179,8 +178,7 @@
       "pageNumber": 18,
       "content": "木曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -204,8 +202,7 @@
       "pageNumber": 22,
       "content": "金曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -235,8 +232,7 @@
       "pageNumber": 27,
       "content": "土曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -254,8 +250,7 @@
       "pageNumber": 30,
       "content": "日曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

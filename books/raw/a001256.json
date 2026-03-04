@@ -498,7 +498,9 @@
     ],
     "totalPages": 311,
     "averageCharsPerPage": 306,
-    "chapterTitles": []
+    "chapterTitles": [
+      "海底大陸"
+    ]
   },
   "content": [
     {
@@ -512,8 +514,7 @@
       "pageNumber": 2,
       "content": "大西洋上のメリー号",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -537,8 +538,7 @@
       "pageNumber": 6,
       "content": "ふしぎな大漁《たいりょう》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -562,8 +562,7 @@
       "pageNumber": 10,
       "content": "口に入らぬサケ料理",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -587,8 +586,7 @@
       "pageNumber": 14,
       "content": "ルゾン号の無電報告",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -606,8 +604,7 @@
       "pageNumber": 17,
       "content": "スミス警部の出発",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -637,8 +634,7 @@
       "pageNumber": 22,
       "content": "ルゾン号に移乗《いじょう》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -662,8 +658,7 @@
       "pageNumber": 26,
       "content": "漂流物《ひょうりゅうぶつ》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -687,8 +682,7 @@
       "pageNumber": 30,
       "content": "洋上の怪物",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -706,8 +700,7 @@
       "pageNumber": 33,
       "content": "怪物を追う",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -731,8 +724,7 @@
       "pageNumber": 37,
       "content": "大西洋の鉄水母《てつくらげ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -750,8 +742,7 @@
       "pageNumber": 40,
       "content": "遭難談",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -775,8 +766,7 @@
       "pageNumber": 44,
       "content": "海賊潜水艦説",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -806,8 +796,7 @@
       "pageNumber": 49,
       "content": "怪《あや》しき目ざめ",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -831,8 +820,7 @@
       "pageNumber": 53,
       "content": "危険信号",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -862,8 +850,7 @@
       "pageNumber": 58,
       "content": "船底からのなげき",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -887,8 +874,7 @@
       "pageNumber": 62,
       "content": "夢の国のとりこ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -912,8 +898,7 @@
       "pageNumber": 66,
       "content": "火におじる者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -943,8 +928,7 @@
       "pageNumber": 71,
       "content": "人間か怪物か",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -968,8 +952,7 @@
       "pageNumber": 75,
       "content": "さあ、やるぞ！",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -993,8 +976,7 @@
       "pageNumber": 79,
       "content": "魚とり大会",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -1018,8 +1000,7 @@
       "pageNumber": 83,
       "content": "意外な獲物",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -1043,8 +1024,7 @@
       "pageNumber": 87,
       "content": "クイーン・メリー号は叫ぶ",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -1068,8 +1048,7 @@
       "pageNumber": 91,
       "content": "怪物見ゆ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -1093,8 +1072,7 @@
       "pageNumber": 95,
       "content": "鉄水母《てつくらげ》からの注意",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 96,
@@ -1118,8 +1096,7 @@
       "pageNumber": 99,
       "content": "長良川博士の大発見",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -1143,8 +1120,7 @@
       "pageNumber": 103,
       "content": "Ｚ光線と海底超人",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,
@@ -1168,8 +1144,7 @@
       "pageNumber": 107,
       "content": "笑うスミス警部",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -1187,8 +1162,7 @@
       "pageNumber": 110,
       "content": "洋上の暗雲《あんうん》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -1218,8 +1192,7 @@
       "pageNumber": 115,
       "content": "又もや大爆撃",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -1243,8 +1216,7 @@
       "pageNumber": 119,
       "content": "たたかう「鉄《てつ》の水母《くらげ》」",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1268,8 +1240,7 @@
       "pageNumber": 123,
       "content": "スミス警部くさる",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1287,8 +1258,7 @@
       "pageNumber": 126,
       "content": "帰港",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1306,8 +1276,7 @@
       "pageNumber": 129,
       "content": "メリー号の人たち",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1325,8 +1294,7 @@
       "pageNumber": 132,
       "content": "解毒剤《げどくざい》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 133,
@@ -1350,8 +1318,7 @@
       "pageNumber": 136,
       "content": "怪しき浮きドック",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 137,
@@ -1375,8 +1342,7 @@
       "pageNumber": 140,
       "content": "うしろの怪敵《かいてき》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1400,8 +1366,7 @@
       "pageNumber": 144,
       "content": "怪生物",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1425,8 +1390,7 @@
       "pageNumber": 148,
       "content": "大襲撃《だいしゅうげき》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 149,
@@ -1450,8 +1414,7 @@
       "pageNumber": 152,
       "content": "つづく死闘《しとう》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 153,
@@ -1481,8 +1444,7 @@
       "pageNumber": 157,
       "content": "絶体絶命",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 158,
@@ -1506,8 +1468,7 @@
       "pageNumber": 161,
       "content": "捜査《そうさ》やりなおし",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 162,
@@ -1525,8 +1486,7 @@
       "pageNumber": 164,
       "content": "あッ潜望鏡！",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 165,
@@ -1574,8 +1534,7 @@
       "pageNumber": 172,
       "content": "へんな風景",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 173,
@@ -1599,8 +1558,7 @@
       "pageNumber": 176,
       "content": "聞こえるひも",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 177,
@@ -1618,8 +1576,7 @@
       "pageNumber": 179,
       "content": "王さまの尋問《じんもん》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 180,
@@ -1643,8 +1600,7 @@
       "pageNumber": 183,
       "content": "叫ぶクーパー",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 184,
@@ -1668,8 +1624,7 @@
       "pageNumber": 187,
       "content": "ロロー王子",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 188,
@@ -1687,8 +1642,7 @@
       "pageNumber": 190,
       "content": "三人の客人《きゃくじん》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 191,
@@ -1706,8 +1660,7 @@
       "pageNumber": 193,
       "content": "やさしい博士の心",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 194,
@@ -1731,8 +1684,7 @@
       "pageNumber": 197,
       "content": "海底超人の秘密",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1756,8 +1708,7 @@
       "pageNumber": 201,
       "content": "運命のわかれみち",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 202,
@@ -1781,8 +1732,7 @@
       "pageNumber": 205,
       "content": "借りた恩",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 206,
@@ -1806,8 +1756,7 @@
       "pageNumber": 209,
       "content": "決心",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 210,
@@ -1831,8 +1780,7 @@
       "pageNumber": 213,
       "content": "海底出発",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 214,
@@ -1850,8 +1798,7 @@
       "pageNumber": 216,
       "content": "浮きあがり作業",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 217,
@@ -1875,8 +1822,7 @@
       "pageNumber": 220,
       "content": "再生《さいせい》の夜",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 221,
@@ -1894,8 +1840,7 @@
       "pageNumber": 223,
       "content": "密令",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 224,
@@ -1919,8 +1864,7 @@
       "pageNumber": 227,
       "content": "やあ！　ラスキン大尉",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 228,
@@ -1944,8 +1888,7 @@
       "pageNumber": 231,
       "content": "催涙液《さいるいえき》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 232,
@@ -1969,8 +1912,7 @@
       "pageNumber": 235,
       "content": "ロンドンわきあがる",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 236,
@@ -1994,8 +1936,7 @@
       "pageNumber": 239,
       "content": "あとしまつ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 240,
@@ -2013,8 +1954,7 @@
       "pageNumber": 242,
       "content": "協調者《きょうちょうしゃ》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 243,
@@ -2032,8 +1972,7 @@
       "pageNumber": 245,
       "content": "ローン号へ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 246,
@@ -2069,8 +2008,7 @@
       "pageNumber": 251,
       "content": "鉄水母待て",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 252,
@@ -2094,8 +2032,7 @@
       "pageNumber": 255,
       "content": "砲撃",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 256,
@@ -2125,8 +2062,7 @@
       "pageNumber": 260,
       "content": "ロンドン帰港",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,
@@ -2150,8 +2086,7 @@
       "pageNumber": 264,
       "content": "おしかけた群衆",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 265,
@@ -2181,8 +2116,7 @@
       "pageNumber": 269,
       "content": "宿泊所《しゅくはくじょ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 270,
@@ -2200,8 +2134,7 @@
       "pageNumber": 272,
       "content": "殿下を守る人々",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 273,
@@ -2219,8 +2152,7 @@
       "pageNumber": 275,
       "content": "遊星植民説と海底進化説",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 276,
@@ -2238,8 +2170,7 @@
       "pageNumber": 278,
       "content": "アトランティス生物の怪《かい》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 279,
@@ -2263,8 +2194,7 @@
       "pageNumber": 282,
       "content": "ドリー助教授",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 283,
@@ -2288,8 +2218,7 @@
       "pageNumber": 286,
       "content": "長良川博士立つ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 287,
@@ -2307,8 +2236,7 @@
       "pageNumber": 289,
       "content": "海底超人の正体",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 290,
@@ -2332,8 +2260,7 @@
       "pageNumber": 293,
       "content": "ロロー殿下の不安",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 294,
@@ -2357,8 +2284,7 @@
       "pageNumber": 297,
       "content": "昂奮《こうふん》の嵐",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 298,
@@ -2376,8 +2302,7 @@
       "pageNumber": 300,
       "content": "爆発点",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 301,
@@ -2401,8 +2326,7 @@
       "pageNumber": 304,
       "content": "土煙《つちけむり》のかなた",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 305,
@@ -2426,8 +2350,7 @@
       "pageNumber": 308,
       "content": "大団円",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 309,

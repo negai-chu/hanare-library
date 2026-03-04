@@ -30,7 +30,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 432,
-    "chapterTitles": []
+    "chapterTitles": [
+      "鬼神"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "一　水の上",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

@@ -498,7 +498,9 @@
     ],
     "totalPages": 468,
     "averageCharsPerPage": 463,
-    "chapterTitles": []
+    "chapterTitles": [
+      "科学の不思議"
+    ]
   },
   "content": [
     {
@@ -512,8 +514,7 @@
       "pageNumber": 2,
       "content": "訳者から",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -537,8 +538,7 @@
       "pageNumber": 6,
       "content": "一　六人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -574,8 +574,7 @@
       "pageNumber": 12,
       "content": "二　お伽話と本当のお話",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -611,8 +610,7 @@
       "pageNumber": 18,
       "content": "三　蟻の都会",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -648,8 +646,7 @@
       "pageNumber": 24,
       "content": "四　牝牛",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -685,8 +682,7 @@
       "pageNumber": 30,
       "content": "五　牛小舎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -734,8 +730,7 @@
       "pageNumber": 38,
       "content": "六　悧巧な坊さん",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -771,8 +766,7 @@
       "pageNumber": 44,
       "content": "七　無数の家族",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -820,8 +814,7 @@
       "pageNumber": 52,
       "content": "八　古い梨の木",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -851,8 +844,7 @@
       "pageNumber": 57,
       "content": "九　樹木の齢",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -894,8 +886,7 @@
       "pageNumber": 64,
       "content": "一〇　動物の寿命",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -925,8 +916,7 @@
       "pageNumber": 69,
       "content": "一一　湯沸",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -950,8 +940,7 @@
       "pageNumber": 73,
       "content": "一二　金属",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -981,8 +970,7 @@
       "pageNumber": 78,
       "content": "一三　被金",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -1012,8 +1000,7 @@
       "pageNumber": 83,
       "content": "一四　金と鉄",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -1049,8 +1036,7 @@
       "pageNumber": 89,
       "content": "一五　毛皮",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -1074,8 +1060,7 @@
       "pageNumber": 93,
       "content": "一六　亜麻と麻",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,
@@ -1105,8 +1090,7 @@
       "pageNumber": 98,
       "content": "一七　綿",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -1142,8 +1126,7 @@
       "pageNumber": 104,
       "content": "一八　紙",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -1167,8 +1150,7 @@
       "pageNumber": 108,
       "content": "一九　本",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -1198,8 +1180,7 @@
       "pageNumber": 113,
       "content": "二〇　印刷",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -1223,8 +1204,7 @@
       "pageNumber": 117,
       "content": "二一　蝶",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -1260,8 +1240,7 @@
       "pageNumber": 123,
       "content": "二二　大食家",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1297,8 +1276,7 @@
       "pageNumber": 129,
       "content": "二三　絹",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1334,8 +1312,7 @@
       "pageNumber": 135,
       "content": "二四　変態",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1365,8 +1342,7 @@
       "pageNumber": 140,
       "content": "二五　蜘蛛",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1402,8 +1378,7 @@
       "pageNumber": 146,
       "content": "二六　絡新婦《じょろうぐも》の橋",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 147,
@@ -1433,8 +1408,7 @@
       "pageNumber": 151,
       "content": "二七　蛛網",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1470,8 +1444,7 @@
       "pageNumber": 157,
       "content": "二八　猟",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 158,
@@ -1513,8 +1486,7 @@
       "pageNumber": 164,
       "content": "二九　毒虫",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 165,
@@ -1556,8 +1528,7 @@
       "pageNumber": 171,
       "content": "三〇　毒",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 172,
@@ -1587,8 +1558,7 @@
       "pageNumber": 176,
       "content": "三一　蝮と蠍",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 177,
@@ -1618,8 +1588,7 @@
       "pageNumber": 181,
       "content": "三二　蕁麻《いらくさ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 182,
@@ -1643,8 +1612,7 @@
       "pageNumber": 185,
       "content": "三三　行列虫",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 186,
@@ -1692,8 +1660,7 @@
       "pageNumber": 193,
       "content": "三四　嵐",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 194,
@@ -1729,8 +1696,7 @@
       "pageNumber": 199,
       "content": "三五　電気",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 200,
@@ -1766,8 +1732,7 @@
       "pageNumber": 205,
       "content": "三六　猫の実験",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 206,
@@ -1791,8 +1756,7 @@
       "pageNumber": 209,
       "content": "三七　紙の実験",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 210,
@@ -1810,8 +1774,7 @@
       "pageNumber": 212,
       "content": "三八　フランクリンとド・ロマ",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 213,
@@ -1859,8 +1822,7 @@
       "pageNumber": 220,
       "content": "三九　雷と避雷針",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 221,
@@ -1914,8 +1876,7 @@
       "pageNumber": 229,
       "content": "四〇　雲",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 230,
@@ -1957,8 +1918,7 @@
       "pageNumber": 236,
       "content": "四一　音の速度",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 237,
@@ -1994,8 +1954,7 @@
       "pageNumber": 242,
       "content": "四二　水差しの実験",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 243,
@@ -2031,8 +1990,7 @@
       "pageNumber": 248,
       "content": "四三　雨",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 249,
@@ -2056,8 +2014,7 @@
       "pageNumber": 252,
       "content": "四四　噴火山",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 253,
@@ -2081,8 +2038,7 @@
       "pageNumber": 256,
       "content": "四五　カタニア",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 257,
@@ -2118,8 +2074,7 @@
       "pageNumber": 262,
       "content": "四六　プリニイの話",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 263,
@@ -2161,8 +2116,7 @@
       "pageNumber": 269,
       "content": "四七　え立つ茶釜",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 270,
@@ -2204,8 +2158,7 @@
       "pageNumber": 276,
       "content": "四八　機関車",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 277,
@@ -2241,8 +2194,7 @@
       "pageNumber": 282,
       "content": "四九　エミルの観察",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 283,
@@ -2278,8 +2230,7 @@
       "pageNumber": 288,
       "content": "五〇　世界の果《はて》への旅",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 289,
@@ -2327,8 +2278,7 @@
       "pageNumber": 296,
       "content": "五一　地球",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 297,
@@ -2364,8 +2314,7 @@
       "pageNumber": 302,
       "content": "五二　空気",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 303,
@@ -2401,8 +2350,7 @@
       "pageNumber": 308,
       "content": "五三　太陽",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 309,
@@ -2444,8 +2392,7 @@
       "pageNumber": 315,
       "content": "五四　昼と夜",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 316,
@@ -2493,8 +2440,7 @@
       "pageNumber": 323,
       "content": "五五　一年と四季",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 324,
@@ -2536,8 +2482,7 @@
       "pageNumber": 330,
       "content": "五六　ベラドンナの実",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 331,
@@ -2567,8 +2512,7 @@
       "pageNumber": 335,
       "content": "五七　有毒植物",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 336,
@@ -2616,8 +2560,7 @@
       "pageNumber": 343,
       "content": "五八　花",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 344,
@@ -2653,8 +2596,7 @@
       "pageNumber": 349,
       "content": "五九　果実",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 350,
@@ -2684,8 +2626,7 @@
       "pageNumber": 354,
       "content": "六〇　花粉",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 355,
@@ -2715,8 +2656,7 @@
       "pageNumber": 359,
       "content": "六一　土蜂",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 360,
@@ -2746,8 +2686,7 @@
       "pageNumber": 364,
       "content": "六二　きのこ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 365,
@@ -2783,8 +2722,7 @@
       "pageNumber": 370,
       "content": "六三　森の中",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 371,
@@ -2820,8 +2758,7 @@
       "pageNumber": 376,
       "content": "六四　大紅茸《おおべにたけ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 377,
@@ -2851,8 +2788,7 @@
       "pageNumber": 381,
       "content": "六五　地震",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 382,
@@ -2894,8 +2830,7 @@
       "pageNumber": 388,
       "content": "六六　寒暖計",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 389,
@@ -2913,8 +2848,7 @@
       "pageNumber": 391,
       "content": "六七　地の下の炉",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 392,
@@ -2950,8 +2884,7 @@
       "pageNumber": 397,
       "content": "六八　貝殻",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 398,
@@ -2987,8 +2920,7 @@
       "pageNumber": 403,
       "content": "六九　蝸牛《かたつむり》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 404,
@@ -3024,8 +2956,7 @@
       "pageNumber": 409,
       "content": "七〇　青貝と真珠",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 410,
@@ -3061,8 +2992,7 @@
       "pageNumber": 415,
       "content": "七一　海",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 416,
@@ -3092,8 +3022,7 @@
       "pageNumber": 420,
       "content": "七二　波、塩、海藻",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 421,
@@ -3135,8 +3064,7 @@
       "pageNumber": 427,
       "content": "七三　流れる水",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 428,
@@ -3172,8 +3100,7 @@
       "pageNumber": 433,
       "content": "七四　巣分れの群",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 434,
@@ -3215,8 +3142,7 @@
       "pageNumber": 440,
       "content": "七五　蜜蝋",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 441,
@@ -3252,8 +3178,7 @@
       "pageNumber": 446,
       "content": "七六　蜜房",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 447,
@@ -3301,8 +3226,7 @@
       "pageNumber": 454,
       "content": "七七　蜂蜜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 455,
@@ -3344,8 +3268,7 @@
       "pageNumber": 461,
       "content": "七八　女王蜂",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 462,

@@ -17,457 +17,393 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "映画脚本の序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一巻",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "１",
             "startPage": 5,
-            "endPage": 4,
-            "summary": "冒頭の情景描写"
+            "endPage": 4
           },
           {
             "id": "chapter-2-section-2",
             "number": "２",
             "startPage": 5,
-            "endPage": 4,
-            "summary": "登場人物の日常"
+            "endPage": 4
           },
           {
             "id": "chapter-2-section-3",
             "number": "３",
             "startPage": 5,
-            "endPage": 5,
-            "summary": "偶然の出会い"
+            "endPage": 5
           },
           {
             "id": "chapter-2-section-4",
             "number": "４",
             "startPage": 6,
-            "endPage": 6,
-            "summary": "人間関係の芽生え"
+            "endPage": 6
           },
           {
             "id": "chapter-2-section-5",
             "number": "５",
             "startPage": 7,
-            "endPage": 7,
-            "summary": "心理的変化の兆し"
+            "endPage": 7
           },
           {
             "id": "chapter-2-section-6",
             "number": "６",
             "startPage": 8,
-            "endPage": 7,
-            "summary": "日常の裏側の描写"
+            "endPage": 7
           },
           {
             "id": "chapter-2-section-7",
             "number": "７",
             "startPage": 8,
-            "endPage": 8,
-            "summary": "新たな展開への布石"
+            "endPage": 8
           },
           {
             "id": "chapter-2-section-8",
             "number": "８",
             "startPage": 9,
-            "endPage": 9,
-            "summary": "関係性の深まり"
+            "endPage": 9
           },
           {
             "id": "chapter-2-section-9",
             "number": "９",
             "startPage": 10,
-            "endPage": 0,
-            "summary": "第一巻の結末"
+            "endPage": 10
           }
-        ],
-        "summary": "物語の発端と人物紹介"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二巻",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 20,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "１",
             "startPage": 12,
-            "endPage": 11,
-            "summary": "新たな場面の展開"
+            "endPage": 11
           },
           {
             "id": "chapter-3-section-2",
             "number": "２",
             "startPage": 12,
-            "endPage": 12,
-            "summary": "人物間の緊張"
+            "endPage": 12
           },
           {
             "id": "chapter-3-section-3",
             "number": "３",
             "startPage": 13,
-            "endPage": 12,
-            "summary": "心情の変化"
+            "endPage": 12
           },
           {
             "id": "chapter-3-section-4",
             "number": "４",
             "startPage": 13,
-            "endPage": 12,
-            "summary": "対立の深化"
+            "endPage": 12
           },
           {
             "id": "chapter-3-section-5",
             "number": "５",
             "startPage": 13,
-            "endPage": 13,
-            "summary": "転機となる出来事"
+            "endPage": 13
           },
           {
             "id": "chapter-3-section-6",
             "number": "６",
             "startPage": 14,
-            "endPage": 13,
-            "summary": "感情の交錯"
+            "endPage": 13
           },
           {
             "id": "chapter-3-section-7",
             "number": "７",
             "startPage": 14,
-            "endPage": 13,
-            "summary": "秘密の露見"
+            "endPage": 13
           },
           {
             "id": "chapter-3-section-8",
             "number": "８",
             "startPage": 14,
-            "endPage": 14,
-            "summary": "関係の再構築"
+            "endPage": 14
           },
           {
             "id": "chapter-3-section-9",
             "number": "９",
             "startPage": 15,
-            "endPage": 14,
-            "summary": "新たな決意"
+            "endPage": 14
           },
           {
             "id": "chapter-3-section-10",
             "number": "10",
             "startPage": 15,
-            "endPage": 15,
-            "summary": "予期せぬ事態"
+            "endPage": 15
           },
           {
             "id": "chapter-3-section-11",
             "number": "11",
             "startPage": 16,
-            "endPage": 16,
-            "summary": "苦悩と逡巡"
+            "endPage": 16
           },
           {
             "id": "chapter-3-section-12",
             "number": "12",
             "startPage": 17,
-            "endPage": 16,
-            "summary": "過去との対峙"
+            "endPage": 16
           },
           {
             "id": "chapter-3-section-13",
             "number": "13",
             "startPage": 17,
-            "endPage": 17,
-            "summary": "和解の糸口"
+            "endPage": 17
           },
           {
             "id": "chapter-3-section-14",
             "number": "14",
             "startPage": 18,
-            "endPage": 17,
-            "summary": "真実への接近"
+            "endPage": 17
           },
           {
             "id": "chapter-3-section-15",
             "number": "15",
             "startPage": 18,
-            "endPage": 17,
-            "summary": "心理的転換点"
+            "endPage": 17
           },
           {
             "id": "chapter-3-section-16",
             "number": "16",
             "startPage": 18,
-            "endPage": 18,
-            "summary": "新たな障害"
+            "endPage": 18
           },
           {
             "id": "chapter-3-section-17",
             "number": "17",
             "startPage": 19,
-            "endPage": 18,
-            "summary": "決断の時"
+            "endPage": 18
           },
           {
             "id": "chapter-3-section-18",
             "number": "18",
             "startPage": 19,
-            "endPage": 18,
-            "summary": "運命の分岐点"
+            "endPage": 18
           },
           {
             "id": "chapter-3-section-19",
             "number": "19",
             "startPage": 19,
-            "endPage": 19,
-            "summary": "意外な発見"
+            "endPage": 19
           },
           {
             "id": "chapter-3-section-20",
             "number": "20",
             "startPage": 20,
-            "endPage": 19,
-            "summary": "感情の噴出"
+            "endPage": 19
           },
           {
             "id": "chapter-3-section-21",
             "number": "21",
             "startPage": 20,
-            "endPage": 0,
-            "summary": "第二巻の結末"
+            "endPage": 20
           }
-        ],
-        "summary": "物語の展開と葛藤"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三巻",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "１",
             "startPage": 22,
-            "endPage": 21,
-            "summary": "新局面の開始"
+            "endPage": 21
           },
           {
             "id": "chapter-4-section-2",
             "number": "２",
             "startPage": 22,
-            "endPage": 22,
-            "summary": "登場人物の変容"
+            "endPage": 22
           },
           {
             "id": "chapter-4-section-3",
             "number": "３",
             "startPage": 23,
-            "endPage": 22,
-            "summary": "外部からの圧力"
+            "endPage": 22
           },
           {
             "id": "chapter-4-section-4",
             "number": "４",
             "startPage": 23,
-            "endPage": 23,
-            "summary": "内面の葛藤の深化"
+            "endPage": 23
           },
           {
             "id": "chapter-4-section-5",
             "number": "５",
             "startPage": 24,
-            "endPage": 23,
-            "summary": "決定的な場面"
+            "endPage": 23
           },
           {
             "id": "chapter-4-section-6",
             "number": "６",
             "startPage": 24,
-            "endPage": 24,
-            "summary": "関係性の再編"
+            "endPage": 24
           },
           {
             "id": "chapter-4-section-7",
             "number": "７",
             "startPage": 25,
-            "endPage": 24,
-            "summary": "真意の告白"
+            "endPage": 24
           },
           {
             "id": "chapter-4-section-8",
             "number": "８",
             "startPage": 25,
-            "endPage": 26,
-            "summary": "危機的状況の到来"
+            "endPage": 26
           },
           {
             "id": "chapter-4-section-9",
             "number": "９",
             "startPage": 27,
-            "endPage": 27,
-            "summary": "苦渋の選択"
+            "endPage": 27
           },
           {
             "id": "chapter-4-section-10",
             "number": "10",
             "startPage": 28,
-            "endPage": 27,
-            "summary": "救いの手"
+            "endPage": 27
           },
           {
             "id": "chapter-4-section-11",
             "number": "11",
             "startPage": 28,
-            "endPage": 28,
-            "summary": "一時の安息"
+            "endPage": 28
           },
           {
             "id": "chapter-4-section-12",
             "number": "12",
             "startPage": 29,
-            "endPage": 28,
-            "summary": "再び動き出す運命"
+            "endPage": 28
           },
           {
             "id": "chapter-4-section-13",
             "number": "13",
             "startPage": 29,
-            "endPage": 1,
-            "summary": "覚悟の表明"
+            "endPage": 1
           },
           {
             "id": "chapter-4-section-14",
             "number": "14",
             "startPage": 1,
-            "endPage": 1,
-            "summary": "第三巻の結末"
+            "endPage": 1
           }
-        ],
-        "summary": "物語の転回と危機"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第四巻",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 37,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "１",
             "startPage": 31,
-            "endPage": 30,
-            "summary": "佳境への突入"
+            "endPage": 30
           },
           {
             "id": "chapter-5-section-2",
             "number": "２",
             "startPage": 31,
-            "endPage": 30,
-            "summary": "最後の試練"
+            "endPage": 30
           },
           {
             "id": "chapter-5-section-3",
             "number": "３",
             "startPage": 31,
-            "endPage": 30,
-            "summary": "隠された真実"
+            "endPage": 30
           },
           {
             "id": "chapter-5-section-4",
             "number": "４",
             "startPage": 31,
-            "endPage": 31,
-            "summary": "感情の爆発"
+            "endPage": 31
           },
           {
             "id": "chapter-5-section-5",
             "number": "５",
             "startPage": 32,
-            "endPage": 31,
-            "summary": "和解への道"
+            "endPage": 31
           },
           {
             "id": "chapter-5-section-6",
             "number": "６",
             "startPage": 32,
-            "endPage": 31,
-            "summary": "決意の確認"
+            "endPage": 31
           },
           {
             "id": "chapter-5-section-7",
             "number": "７",
             "startPage": 32,
-            "endPage": 32,
-            "summary": "最終的な対決"
+            "endPage": 32
           },
           {
             "id": "chapter-5-section-8",
             "number": "８",
             "startPage": 33,
-            "endPage": 32,
-            "summary": "運命の受容"
+            "endPage": 32
           },
           {
             "id": "chapter-5-section-9",
             "number": "９",
             "startPage": 33,
-            "endPage": 33,
-            "summary": "心の平安"
+            "endPage": 33
           },
           {
             "id": "chapter-5-section-10",
             "number": "10",
             "startPage": 34,
-            "endPage": 33,
-            "summary": "別れの予感"
+            "endPage": 33
           },
           {
             "id": "chapter-5-section-11",
             "number": "11",
             "startPage": 34,
-            "endPage": 34,
-            "summary": "新たな出発"
+            "endPage": 34
           },
           {
             "id": "chapter-5-section-12",
             "number": "12",
             "startPage": 35,
-            "endPage": 34,
-            "summary": "過去との訣別"
+            "endPage": 34
           },
           {
             "id": "chapter-5-section-13",
             "number": "13",
             "startPage": 35,
-            "endPage": 35,
-            "summary": "未来への希望"
+            "endPage": 35
           },
           {
             "id": "chapter-5-section-14",
             "number": "14",
             "startPage": 36,
-            "endPage": 36,
-            "summary": "静かな結末"
+            "endPage": 36
           },
           {
             "id": "chapter-5-section-15",
             "number": "15",
             "startPage": 37,
-            "endPage": 0,
-            "summary": "第四巻の結末"
+            "endPage": 37
           }
-        ],
-        "summary": "物語の佳境と収束"
+        ]
       },
       {
         "id": "chapter-6",
@@ -479,158 +415,135 @@
             "id": "chapter-6-section-1",
             "number": "１",
             "startPage": 39,
-            "endPage": 39,
-            "summary": "最終幕の開始"
+            "endPage": 39
           },
           {
             "id": "chapter-6-section-2",
             "number": "２",
             "startPage": 40,
-            "endPage": 40,
-            "summary": "人物たちの現在"
+            "endPage": 40
           },
           {
             "id": "chapter-6-section-3",
             "number": "３",
             "startPage": 41,
-            "endPage": 40,
-            "summary": "再会の場面"
+            "endPage": 40
           },
           {
             "id": "chapter-6-section-4",
             "number": "４",
             "startPage": 41,
-            "endPage": 40,
-            "summary": "過去の清算"
+            "endPage": 40
           },
           {
             "id": "chapter-6-section-5",
             "number": "５",
             "startPage": 41,
-            "endPage": 41,
-            "summary": "感情の最終的整理"
+            "endPage": 41
           },
           {
             "id": "chapter-6-section-6",
             "number": "６",
             "startPage": 42,
-            "endPage": 41,
-            "summary": "真実の受容"
+            "endPage": 41
           },
           {
             "id": "chapter-6-section-7",
             "number": "７",
             "startPage": 42,
-            "endPage": 41,
-            "summary": "赦しと和解"
+            "endPage": 41
           },
           {
             "id": "chapter-6-section-8",
             "number": "８",
             "startPage": 42,
-            "endPage": 42,
-            "summary": "日常への回帰"
+            "endPage": 42
           },
           {
             "id": "chapter-6-section-9",
             "number": "９",
             "startPage": 43,
-            "endPage": 43,
-            "summary": "成長の確認"
+            "endPage": 43
           },
           {
             "id": "chapter-6-section-10",
             "number": "10",
             "startPage": 44,
-            "endPage": 43,
-            "summary": "新しい関係の形"
+            "endPage": 43
           },
           {
             "id": "chapter-6-section-11",
             "number": "11",
             "startPage": 44,
-            "endPage": 44,
-            "summary": "季節の移ろい"
+            "endPage": 44
           },
           {
             "id": "chapter-6-section-12",
             "number": "12",
             "startPage": 45,
-            "endPage": 44,
-            "summary": "人生の機微"
+            "endPage": 44
           },
           {
             "id": "chapter-6-section-13",
             "number": "13",
             "startPage": 45,
-            "endPage": 45,
-            "summary": "静かな決意"
+            "endPage": 45
           },
           {
             "id": "chapter-6-section-14",
             "number": "14",
             "startPage": 46,
-            "endPage": 45,
-            "summary": "未来への歩み"
+            "endPage": 45
           },
           {
             "id": "chapter-6-section-15",
             "number": "15",
             "startPage": 46,
-            "endPage": 47,
-            "summary": "余韻の描写"
+            "endPage": 47
           },
           {
             "id": "chapter-6-section-16",
             "number": "16",
             "startPage": 48,
-            "endPage": 47,
-            "summary": "最後の場面"
+            "endPage": 47
           },
           {
             "id": "chapter-6-section-17",
             "number": "17",
             "startPage": 48,
-            "endPage": 48,
-            "summary": "ゼンマイの暗喩"
+            "endPage": 48
           },
           {
             "id": "chapter-6-section-18",
             "number": "18",
             "startPage": 49,
-            "endPage": 48,
-            "summary": "人間の愚かさと愛"
+            "endPage": 48
           },
           {
             "id": "chapter-6-section-19",
             "number": "19",
             "startPage": 49,
-            "endPage": 48,
-            "summary": "時間と運命の戯れ"
+            "endPage": 48
           },
           {
             "id": "chapter-6-section-20",
             "number": "20",
             "startPage": 49,
-            "endPage": 49,
-            "summary": "静寂のなかの余韻"
+            "endPage": 49
           },
           {
             "id": "chapter-6-section-21",
             "number": "21",
             "startPage": 50,
-            "endPage": 51,
-            "summary": "物語の幕引き"
+            "endPage": 51
           },
           {
             "id": "chapter-6-section-22",
             "number": "22",
             "startPage": 52,
-            "endPage": 52,
-            "summary": "最終場面と終幕"
+            "endPage": 52
           }
-        ],
-        "summary": "物語の結末と余韻"
+        ]
       }
     ],
     "totalPages": 52,

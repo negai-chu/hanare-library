@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "大序",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 4,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 0
+            "endPage": 4
           }
         ]
       },
@@ -37,13 +37,13 @@
         "id": "chapter-2",
         "title": "葛飾閑吟集",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "輪廻三鈔",
         "startPage": 94,
-        "endPage": 0
+        "endPage": 162
       },
       {
         "id": "chapter-4",

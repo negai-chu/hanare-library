@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "新しい文学の誕生",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "読書から始まる文学"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 532,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新しい文学の誕生"
+    ]
   },
   "content": [
     {

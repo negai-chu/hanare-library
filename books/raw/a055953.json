@@ -60,7 +60,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 308,
-    "chapterTitles": []
+    "chapterTitles": [
+      "予が出版事業"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "竹馬余事",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "萩の古枝",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 7,
       "content": "後狩詞記",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -119,8 +118,7 @@
       "pageNumber": 9,
       "content": "遠野物語",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -138,8 +136,7 @@
       "pageNumber": 12,
       "content": "郷土研究",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -151,8 +148,7 @@
       "pageNumber": 14,
       "content": "甲寅叢書",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

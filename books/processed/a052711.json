@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "昭和三十三年一月",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -97,7 +97,7 @@
         "id": "chapter-2",
         "title": "昭和三十三年四月",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 20,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -109,7 +109,7 @@
             "id": "chapter-2-section-2",
             "number": "四月二十九日（火曜）晴",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 20
           }
         ]
       },
@@ -117,7 +117,7 @@
         "id": "chapter-3",
         "title": "昭和三十三年五月",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -171,7 +171,7 @@
             "id": "chapter-3-section-9",
             "number": "五月二十日（火曜）晴",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 34
           }
         ]
       },
@@ -179,7 +179,7 @@
         "id": "chapter-4",
         "title": "昭和三十三年六月",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 61,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -275,7 +275,7 @@
             "id": "chapter-4-section-16",
             "number": "六月二十九日（日曜）晴",
             "startPage": 60,
-            "endPage": 0
+            "endPage": 61
           }
         ]
       },
@@ -283,7 +283,7 @@
         "id": "chapter-5",
         "title": "昭和三十三年七月",
         "startPage": 62,
-        "endPage": 0,
+        "endPage": 72,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -331,7 +331,7 @@
             "id": "chapter-5-section-8",
             "number": "七月三十日（水曜）晴",
             "startPage": 71,
-            "endPage": 0
+            "endPage": 72
           }
         ]
       },
@@ -339,7 +339,7 @@
         "id": "chapter-6",
         "title": "昭和三十三年八月",
         "startPage": 73,
-        "endPage": 0,
+        "endPage": 83,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -399,7 +399,7 @@
             "id": "chapter-6-section-10",
             "number": "八月三十一日（日曜）曇雨",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 83
           }
         ]
       },
@@ -407,7 +407,7 @@
         "id": "chapter-7",
         "title": "昭和三十三年九月",
         "startPage": 84,
-        "endPage": 0,
+        "endPage": 94,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -463,7 +463,7 @@
         "id": "chapter-8",
         "title": "昭和三十三年十月",
         "startPage": 95,
-        "endPage": 0,
+        "endPage": 110,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -531,7 +531,7 @@
         "id": "chapter-9",
         "title": "昭和三十三年十一月",
         "startPage": 111,
-        "endPage": 0,
+        "endPage": 118,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -561,7 +561,7 @@
             "id": "chapter-9-section-5",
             "number": "十一月二十五日（火曜）晴",
             "startPage": 118,
-            "endPage": 0
+            "endPage": 118
           }
         ]
       },

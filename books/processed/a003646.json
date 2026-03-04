@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "少年文学序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "少年文学への序"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "凡例",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "凡例の説明"
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "上巻",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -79,10 +77,9 @@
             "id": "chapter-3-section-8",
             "number": "第八回",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 40
           }
-        ],
-        "summary": "子犬の冒険の始まり"
+        ]
       },
       {
         "id": "chapter-4",
@@ -138,8 +135,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "仇討ちと成長"
+        ]
       }
     ],
     "totalPages": 73,

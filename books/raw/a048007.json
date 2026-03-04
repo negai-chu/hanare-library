@@ -42,7 +42,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 326,
-    "chapterTitles": []
+    "chapterTitles": [
+      "「陰獣」その他"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一　陰獣評",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "二　探偵小説の批評について",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -112,8 +112,7 @@
       "pageNumber": 11,
       "content": "三　探偵小説は芸術",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

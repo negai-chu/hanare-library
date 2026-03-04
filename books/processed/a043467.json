@@ -17,451 +17,391 @@
         "id": "chapter-1",
         "title": "朱鷺船《ときふね》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 6,
-            "summary": "船旅の始まりと出会い"
+            "endPage": 6
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 7,
-            "endPage": 11,
-            "summary": "湖上の不思議な光景"
+            "endPage": 11
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 16,
-            "summary": "岸辺の伝承と語り"
+            "endPage": 16
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 21,
-            "summary": "霧に包まれた航路"
+            "endPage": 21
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 22,
-            "endPage": 26,
-            "summary": "船上での奇縁"
+            "endPage": 26
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 27,
-            "endPage": 0,
-            "summary": "港への到着と別離"
+            "endPage": 30
           }
-        ],
-        "summary": "朱鷺船に乗る彫刻師"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "雪枝《ゆきえ》、菊松《きくまつ》",
         "startPage": 31,
-        "endPage": 0,
+        "endPage": 41,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "七",
             "startPage": 32,
-            "endPage": 36,
-            "summary": "二人の出自と宿縁"
+            "endPage": 36
           },
           {
             "id": "chapter-2-section-2",
             "number": "八",
             "startPage": 37,
-            "endPage": 0,
-            "summary": "再会と新たな展開"
+            "endPage": 41
           }
-        ],
-        "summary": "雪枝と菊松の因縁"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "技芸天《ぎげいてん》",
         "startPage": 42,
-        "endPage": 0,
+        "endPage": 60,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "九",
             "startPage": 43,
-            "endPage": 46,
-            "summary": "仏像彫刻への没入"
+            "endPage": 46
           },
           {
             "id": "chapter-3-section-2",
             "number": "十",
             "startPage": 47,
-            "endPage": 52,
-            "summary": "天女像の霊感"
+            "endPage": 52
           },
           {
             "id": "chapter-3-section-3",
             "number": "十一",
             "startPage": 53,
-            "endPage": 57,
-            "summary": "彫刻の進捗と苦悩"
+            "endPage": 57
           },
           {
             "id": "chapter-3-section-4",
             "number": "十二",
             "startPage": 58,
-            "endPage": 0,
-            "summary": "完成への執念"
+            "endPage": 60
           }
-        ],
-        "summary": "技芸天の彫像と祈り"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "采《さい》",
         "startPage": 66,
-        "endPage": 0,
+        "endPage": 77,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "十三",
             "startPage": 67,
-            "endPage": 70,
-            "summary": "賭けの場面と緊迫"
+            "endPage": 70
           },
           {
             "id": "chapter-4-section-2",
             "number": "十四",
             "startPage": 71,
-            "endPage": 0,
-            "summary": "運命の分岐点"
+            "endPage": 77
           }
-        ],
-        "summary": "采の目に託す運命"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "谺《こだま》",
         "startPage": 78,
-        "endPage": 0,
+        "endPage": 96,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "十五",
             "startPage": 79,
-            "endPage": 82,
-            "summary": "山中の不可思議な反響"
+            "endPage": 82
           },
           {
             "id": "chapter-5-section-2",
             "number": "十六",
             "startPage": 83,
-            "endPage": 87,
-            "summary": "追跡と逃走の果て"
+            "endPage": 87
           },
           {
             "id": "chapter-5-section-3",
             "number": "十七",
             "startPage": 88,
-            "endPage": 91,
-            "summary": "谺に導かれる道行"
+            "endPage": 91
           },
           {
             "id": "chapter-5-section-4",
             "number": "十八",
             "startPage": 92,
-            "endPage": 0,
-            "summary": "真相への接近"
+            "endPage": 96
           }
-        ],
-        "summary": "山間に響く谺の声"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "城《じやう》ヶ沼《ぬま》",
         "startPage": 97,
-        "endPage": 0,
+        "endPage": 113,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "十九",
             "startPage": 98,
-            "endPage": 101,
-            "summary": "沼辺の伝説と異変"
+            "endPage": 101
           },
           {
             "id": "chapter-6-section-2",
             "number": "二十",
             "startPage": 102,
-            "endPage": 107,
-            "summary": "水面下の秘密"
+            "endPage": 107
           },
           {
             "id": "chapter-6-section-3",
             "number": "二十一",
             "startPage": 108,
-            "endPage": 0,
-            "summary": "沼に潜む因果"
+            "endPage": 113
           }
-        ],
-        "summary": "城ヶ沼の秘められた謎"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "雲《くも》の声《こゑ》",
         "startPage": 114,
-        "endPage": 0,
+        "endPage": 131,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "二十二",
             "startPage": 115,
-            "endPage": 118,
-            "summary": "天候の急変と啓示"
+            "endPage": 118
           },
           {
             "id": "chapter-7-section-2",
             "number": "二十三",
             "startPage": 119,
-            "endPage": 125,
-            "summary": "雲上の幻影"
+            "endPage": 125
           },
           {
             "id": "chapter-7-section-3",
             "number": "二十四",
             "startPage": 126,
-            "endPage": 0,
-            "summary": "声の主と対峙"
+            "endPage": 131
           }
-        ],
-        "summary": "雲間より降る天の声"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "誂《あつら》へ物《もの》",
         "startPage": 132,
-        "endPage": 0,
+        "endPage": 149,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "二十五",
             "startPage": 133,
-            "endPage": 137,
-            "summary": "特注品への想い"
+            "endPage": 137
           },
           {
             "id": "chapter-8-section-2",
             "number": "二十六",
             "startPage": 138,
-            "endPage": 143,
-            "summary": "職人の矜持と葛藤"
+            "endPage": 143
           },
           {
             "id": "chapter-8-section-3",
             "number": "二十七",
             "startPage": 144,
-            "endPage": 0,
-            "summary": "完成品の披露"
+            "endPage": 149
           }
-        ],
-        "summary": "誂え物に込めた願い"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "祠《ほこら》",
         "startPage": 150,
-        "endPage": 0,
+        "endPage": 161,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "二十八",
             "startPage": 151,
-            "endPage": 155,
-            "summary": "山中の祠への参詣"
+            "endPage": 155
           },
           {
             "id": "chapter-9-section-2",
             "number": "二十九",
             "startPage": 156,
-            "endPage": 0,
-            "summary": "祠の由来と守護"
+            "endPage": 161
           }
-        ],
-        "summary": "祠に祀られし霊威"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "供揃《ともぞろ》へ",
         "startPage": 162,
-        "endPage": 0,
+        "endPage": 176,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "三十",
             "startPage": 163,
-            "endPage": 166,
-            "summary": "行列の準備と緊張"
+            "endPage": 166
           },
           {
             "id": "chapter-10-section-2",
             "number": "三十一",
             "startPage": 167,
-            "endPage": 171,
-            "summary": "威厳ある行進"
+            "endPage": 171
           },
           {
             "id": "chapter-10-section-3",
             "number": "三十二",
             "startPage": 172,
-            "endPage": 0,
-            "summary": "行列の到着と儀式"
+            "endPage": 176
           }
-        ],
-        "summary": "供揃えの行列と威容"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "バサリ",
         "startPage": 177,
-        "endPage": 0,
+        "endPage": 191,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "三十三",
             "startPage": 178,
-            "endPage": 181,
-            "summary": "決断の時が迫る"
+            "endPage": 181
           },
           {
             "id": "chapter-11-section-2",
             "number": "三十四",
             "startPage": 182,
-            "endPage": 186,
-            "summary": "斬撃の瞬間"
+            "endPage": 186
           },
           {
             "id": "chapter-11-section-3",
             "number": "三十五",
             "startPage": 187,
-            "endPage": 0,
-            "summary": "斬り結ぶ結末"
+            "endPage": 191
           }
-        ],
-        "summary": "一刀のもとに断つ覚悟"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "天守《てんしゆ》の下《した》",
         "startPage": 192,
-        "endPage": 0,
+        "endPage": 198,
         "sections": [
           {
             "id": "chapter-12-section-1",
             "number": "三十六",
             "startPage": 193,
-            "endPage": 0,
-            "summary": "天守での最終決戦"
+            "endPage": 198
           }
-        ],
-        "summary": "天守閣の下の対決"
+        ]
       },
       {
         "id": "chapter-13",
         "title": "双六盤《すごろくばん》",
         "startPage": 199,
-        "endPage": 0,
+        "endPage": 211,
         "sections": [
           {
             "id": "chapter-13-section-1",
             "number": "三十七",
             "startPage": 200,
-            "endPage": 203,
-            "summary": "遊戯に潜む暗号"
+            "endPage": 203
           },
           {
             "id": "chapter-13-section-2",
             "number": "三十八",
             "startPage": 204,
-            "endPage": 0,
-            "summary": "盤上の真相解明"
+            "endPage": 211
           }
-        ],
-        "summary": "双六盤に隠された秘密"
+        ]
       },
       {
         "id": "chapter-14",
         "title": "人《ひと》さし指《ゆび》",
         "startPage": 212,
-        "endPage": 0,
+        "endPage": 233,
         "sections": [
           {
             "id": "chapter-14-section-1",
             "number": "三十九",
             "startPage": 213,
-            "endPage": 217,
-            "summary": "指し示す先の謎"
+            "endPage": 217
           },
           {
             "id": "chapter-14-section-2",
             "number": "四十",
             "startPage": 218,
-            "endPage": 222,
-            "summary": "導かれる行き先"
+            "endPage": 222
           },
           {
             "id": "chapter-14-section-3",
             "number": "四十一",
             "startPage": 223,
-            "endPage": 227,
-            "summary": "指の示す真実"
+            "endPage": 227
           },
           {
             "id": "chapter-14-section-4",
             "number": "四十二",
             "startPage": 228,
-            "endPage": 0,
-            "summary": "最後の指示"
+            "endPage": 233
           }
-        ],
-        "summary": "人さし指が指す方角"
+        ]
       },
       {
         "id": "chapter-15",
         "title": "四五六谷《しごろくだに》",
         "startPage": 234,
-        "endPage": 0,
+        "endPage": 250,
         "sections": [
           {
             "id": "chapter-15-section-1",
             "number": "四十三",
             "startPage": 235,
-            "endPage": 239,
-            "summary": "谷への道行き"
+            "endPage": 239
           },
           {
             "id": "chapter-15-section-2",
             "number": "四十四",
             "startPage": 240,
-            "endPage": 244,
-            "summary": "谷底の発見"
+            "endPage": 244
           },
           {
             "id": "chapter-15-section-3",
             "number": "四十五",
             "startPage": 245,
-            "endPage": 0,
-            "summary": "秘境からの帰還"
+            "endPage": 250
           }
-        ],
-        "summary": "四五六谷の秘境探索"
+        ]
       },
       {
         "id": "chapter-16",
@@ -473,11 +413,9 @@
             "id": "chapter-16-section-1",
             "number": "四十六",
             "startPage": 252,
-            "endPage": 261,
-            "summary": "獅子の霊と最終場面"
+            "endPage": 261
           }
-        ],
-        "summary": "獅子頭に宿る霊力"
+        ]
       }
     ],
     "totalPages": 261,

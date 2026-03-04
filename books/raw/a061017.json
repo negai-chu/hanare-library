@@ -60,7 +60,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 96,
-    "chapterTitles": []
+    "chapterTitles": [
+      "猫六題"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "猫と三味",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "猫のピアノ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 7,
       "content": "猫の宙返り",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -119,8 +118,7 @@
       "pageNumber": 9,
       "content": "猫と電気",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -132,8 +130,7 @@
       "pageNumber": 11,
       "content": "猫の保護色",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -145,8 +142,7 @@
       "pageNumber": 13,
       "content": "猫の智慧",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

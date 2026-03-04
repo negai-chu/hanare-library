@@ -78,7 +78,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 24,
-    "chapterTitles": []
+    "chapterTitles": [
+      "千葉海岸の詩"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "ａ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 4,
       "content": "ｂ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -118,8 +118,7 @@
       "pageNumber": 6,
       "content": "ｃ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -131,8 +130,7 @@
       "pageNumber": 8,
       "content": "ｄ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -144,8 +142,7 @@
       "pageNumber": 10,
       "content": "ｅ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -157,8 +154,7 @@
       "pageNumber": 12,
       "content": "ｆ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -170,8 +166,7 @@
       "pageNumber": 14,
       "content": "ｇ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -183,8 +178,7 @@
       "pageNumber": 16,
       "content": "ｈ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -196,8 +190,7 @@
       "pageNumber": 18,
       "content": "ｉ",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

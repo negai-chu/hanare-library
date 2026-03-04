@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "詩篇全集の自序"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "雲片片\r\n　　　（小曲五十六章）",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -360,23 +359,21 @@
             "id": "chapter-2-section-56",
             "number": "欲望",
             "startPage": 61,
-            "endPage": 0
+            "endPage": 62
           }
-        ],
-        "summary": "雲の小曲五十六章"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "小鳥の巣\r\n　　　（押韻小曲五十九章）",
         "startPage": 63,
-        "endPage": 0,
-        "summary": "小鳥の巣の押韻詩"
+        "endPage": 103
       },
       {
         "id": "chapter-4",
         "title": "夢と現実\r\n　　　（雑詩四十章）",
         "startPage": 104,
-        "endPage": 0,
+        "endPage": 221,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -618,14 +615,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "夢と現実の雑詩"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "壺の花\r\n　　　（小曲十五章）",
         "startPage": 222,
-        "endPage": 0,
+        "endPage": 234,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -717,14 +713,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "壺の花の小曲"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "薔薇の陰影\r\n　　　（雑詩廿五章）",
         "startPage": 235,
-        "endPage": 0,
+        "endPage": 269,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -874,16 +869,15 @@
             "id": "chapter-6-section-25",
             "number": "百合の花",
             "startPage": 265,
-            "endPage": 0
+            "endPage": 269
           }
-        ],
-        "summary": "薔薇の陰影の雑詩"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "月を釣る\r\n　　　（小曲卅五章）",
         "startPage": 270,
-        "endPage": 0,
+        "endPage": 305,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -1093,16 +1087,15 @@
             "id": "chapter-7-section-35",
             "number": "市上",
             "startPage": 304,
-            "endPage": 0
+            "endPage": 305
           }
-        ],
-        "summary": "月を釣る小曲"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "第一の陣痛\r\n　　　（雑詩四十一章）",
         "startPage": 306,
-        "endPage": 0,
+        "endPage": 373,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -1348,16 +1341,15 @@
             "id": "chapter-8-section-41",
             "number": "白蟻",
             "startPage": 372,
-            "endPage": 0
+            "endPage": 373
           }
-        ],
-        "summary": "陣痛の雑詩"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "幻想と風景\r\n　　　（雑詩八十七章）",
         "startPage": 374,
-        "endPage": 0,
+        "endPage": 592,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -1879,16 +1871,15 @@
             "id": "chapter-9-section-87",
             "number": "雪の上の鴉",
             "startPage": 591,
-            "endPage": 0
+            "endPage": 592
           }
-        ],
-        "summary": "幻想と風景の雑詩"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "西土往来\r\n　　　（欧洲旅行前及び旅中の詩廿九章）",
         "startPage": 593,
-        "endPage": 0,
+        "endPage": 692,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -2062,10 +2053,9 @@
             "id": "chapter-10-section-29",
             "number": "モンソオ公園の雀",
             "startPage": 684,
-            "endPage": 0
+            "endPage": 692
           }
-        ],
-        "summary": "欧州旅行前後の詩"
+        ]
       },
       {
         "id": "chapter-11",
@@ -2277,8 +2267,7 @@
             "startPage": 806,
             "endPage": 807
           }
-        ],
-        "summary": "冷たい夕飯の雑詩"
+        ]
       }
     ],
     "totalPages": 807,

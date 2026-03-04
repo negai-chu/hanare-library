@@ -54,7 +54,9 @@
     ],
     "totalPages": 186,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "浮標"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 5,
       "content": "１　家で",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -279,8 +280,7 @@
       "pageNumber": 37,
       "content": "２　浜で",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -490,8 +490,7 @@
       "pageNumber": 72,
       "content": "３　家で",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -773,8 +772,7 @@
       "pageNumber": 119,
       "content": "４　浜で",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -978,8 +976,7 @@
       "pageNumber": 153,
       "content": "５　家で",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 154,

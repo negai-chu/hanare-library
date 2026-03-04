@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文功章",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "文功章制度への一言"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 429,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文功章"
+    ]
   },
   "content": [
     {

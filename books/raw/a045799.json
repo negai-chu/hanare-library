@@ -78,7 +78,9 @@
     ],
     "totalPages": 137,
     "averageCharsPerPage": 554,
-    "chapterTitles": []
+    "chapterTitles": [
+      "竹藪の家"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -135,8 +136,7 @@
       "pageNumber": 9,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -202,8 +202,7 @@
       "pageNumber": 20,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -263,8 +262,7 @@
       "pageNumber": 30,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -426,8 +424,7 @@
       "pageNumber": 57,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -571,8 +568,7 @@
       "pageNumber": 81,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -692,8 +688,7 @@
       "pageNumber": 101,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -771,8 +766,7 @@
       "pageNumber": 114,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 115,
@@ -886,8 +880,7 @@
       "pageNumber": 133,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,

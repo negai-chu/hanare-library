@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "昭和十七年\r\n　　（十二月九日――十二月二十八日迄）",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 5,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-1-section-6",
             "number": "十二月二十八日（月）",
             "startPage": 5,
-            "endPage": 0
+            "endPage": 5
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-2",
         "title": "昭和十八年",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 65,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -871,7 +871,7 @@
             "id": "chapter-2-section-135",
             "number": "十二月二十四日（金）",
             "startPage": 65,
-            "endPage": 0
+            "endPage": 65
           }
         ]
       },
@@ -879,7 +879,7 @@
         "id": "chapter-3",
         "title": "昭和十九年",
         "startPage": 66,
-        "endPage": 0,
+        "endPage": 153,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -1953,7 +1953,7 @@
             "id": "chapter-3-section-179",
             "number": "十二月三十日（土）",
             "startPage": 153,
-            "endPage": 0
+            "endPage": 153
           }
         ]
       },

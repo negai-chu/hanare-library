@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "冬・断章",
         "startPage": 1,
-        "endPage": 5,
+        "endPage": 2,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 5,
-    "averageCharsPerPage": 10,
-    "chapterTitles": []
+    "totalPages": 2,
+    "averageCharsPerPage": 27,
+    "chapterTitles": [
+      "冬・断章"
+    ]
   },
   "content": [
     {
@@ -48,28 +50,8 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 3,
-      "content": "　鴉は――\n\n異教徒だ",
-      "characters": 11,
-      "ruby": []
-    },
-    {
-      "pageNumber": 4,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "誰だ――\n\n坂の上で笛を鳴らして逃げたのは\n\n母よ、もうラムプを消そう。",
-      "characters": 36,
+      "content": "　１\n\n鴉は――\n\n異教徒だ２誰だ――\n\n坂の上で笛を鳴らして逃げたのは\n\n母よ、もうラムプを消そう。",
+      "characters": 51,
       "ruby": []
     }
   ]

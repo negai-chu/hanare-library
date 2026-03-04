@@ -42,7 +42,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 385,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秩父の渓谷美"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "五月の秩父",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 7,
       "content": "東沢",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -118,8 +118,7 @@
       "pageNumber": 12,
       "content": "入川谷",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

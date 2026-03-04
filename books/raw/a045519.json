@@ -288,7 +288,9 @@
     ],
     "totalPages": 287,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秘境の日輪旗"
+    ]
   },
   "content": [
     {
@@ -302,8 +304,7 @@
       "pageNumber": 2,
       "content": "兄のたより",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -333,8 +334,7 @@
       "pageNumber": 7,
       "content": "雪の足跡",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -376,8 +376,7 @@
       "pageNumber": 14,
       "content": "不思議な客",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -413,8 +412,7 @@
       "pageNumber": 20,
       "content": "祥子の身の上",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -450,8 +448,7 @@
       "pageNumber": 26,
       "content": "意外な命令",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -499,8 +496,7 @@
       "pageNumber": 34,
       "content": "大尉の任務",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -548,8 +544,7 @@
       "pageNumber": 42,
       "content": "南へ飛ぶ夢",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -579,8 +574,7 @@
       "pageNumber": 47,
       "content": "怪潜水艦",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -616,8 +610,7 @@
       "pageNumber": 53,
       "content": "香山飯店",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -671,8 +664,7 @@
       "pageNumber": 62,
       "content": "秘密の地下室",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -726,8 +718,7 @@
       "pageNumber": 71,
       "content": "旅客機の行方",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -757,8 +748,7 @@
       "pageNumber": 76,
       "content": "真夜中の船客",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -788,8 +778,7 @@
       "pageNumber": 81,
       "content": "南支那海",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -825,8 +814,7 @@
       "pageNumber": 87,
       "content": "壁に消えた男",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -868,8 +856,7 @@
       "pageNumber": 94,
       "content": "密航少女",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -905,8 +892,7 @@
       "pageNumber": 100,
       "content": "怪しいトランク",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -942,8 +928,7 @@
       "pageNumber": 106,
       "content": "時計爆弾",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -985,8 +970,7 @@
       "pageNumber": 113,
       "content": "柔道の冴え",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -1022,8 +1006,7 @@
       "pageNumber": 119,
       "content": "海との戦い",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1053,8 +1036,7 @@
       "pageNumber": 124,
       "content": "船長の最期",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 125,
@@ -1096,8 +1078,7 @@
       "pageNumber": 131,
       "content": "椰子のある島",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,
@@ -1145,8 +1126,7 @@
       "pageNumber": 139,
       "content": "星の降る空",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1182,8 +1162,7 @@
       "pageNumber": 145,
       "content": "四つの人影",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 146,
@@ -1219,8 +1198,7 @@
       "pageNumber": 151,
       "content": "ボートの謎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1250,8 +1228,7 @@
       "pageNumber": 156,
       "content": "海底要塞",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 157,
@@ -1323,8 +1300,7 @@
       "pageNumber": 168,
       "content": "無電室での会話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 169,
@@ -1360,8 +1336,7 @@
       "pageNumber": 174,
       "content": "日本艦隊襲撃",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 175,
@@ -1403,8 +1378,7 @@
       "pageNumber": 181,
       "content": "無電奪取",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 182,
@@ -1452,8 +1426,7 @@
       "pageNumber": 189,
       "content": "爆破成功！",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1495,8 +1468,7 @@
       "pageNumber": 196,
       "content": "獅子島《シンガポール》へ",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 197,
@@ -1526,8 +1498,7 @@
       "pageNumber": 201,
       "content": "黒い兄",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 202,
@@ -1575,8 +1546,7 @@
       "pageNumber": 209,
       "content": "ドリアンの夜",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 210,
@@ -1612,8 +1582,7 @@
       "pageNumber": 215,
       "content": "王様の邸で",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 216,
@@ -1661,8 +1630,7 @@
       "pageNumber": 223,
       "content": "同志のひとびと",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 224,
@@ -1698,8 +1666,7 @@
       "pageNumber": 229,
       "content": "旦斎の発見",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 230,
@@ -1729,8 +1696,7 @@
       "pageNumber": 234,
       "content": "兄の研究",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 235,
@@ -1772,8 +1738,7 @@
       "pageNumber": 241,
       "content": "バリト河",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 242,
@@ -1809,8 +1774,7 @@
       "pageNumber": 247,
       "content": "ダイヤ族の酋長",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 248,
@@ -1858,8 +1822,7 @@
       "pageNumber": 255,
       "content": "クラパの身代り",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 256,
@@ -1889,8 +1852,7 @@
       "pageNumber": 260,
       "content": "不安な一夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,
@@ -1932,8 +1894,7 @@
       "pageNumber": 267,
       "content": "三人の捕虜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 268,
@@ -1963,8 +1924,7 @@
       "pageNumber": 272,
       "content": "神秘の扉",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 273,
@@ -2000,8 +1960,7 @@
       "pageNumber": 278,
       "content": "明暗の道",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 279,
@@ -2037,8 +1996,7 @@
       "pageNumber": 284,
       "content": "日輪王国",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 285,

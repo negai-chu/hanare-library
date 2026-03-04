@@ -36,7 +36,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 468,
-    "chapterTitles": []
+    "chapterTitles": [
+      "続スウィス日記（千九百二十三年稿）"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "帰郷",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 11,
       "content": "Bundestag《ブンデスターク》",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

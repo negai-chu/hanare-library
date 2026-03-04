@@ -42,7 +42,9 @@
     ],
     "totalPages": 34,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "見えざる人"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -153,8 +154,7 @@
       "pageNumber": 18,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -214,8 +214,7 @@
       "pageNumber": 28,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

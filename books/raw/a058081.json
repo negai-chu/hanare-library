@@ -42,7 +42,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 210,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青年の新活動方面"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "元気は青年の生命なり",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "科学の競争に於て外国に勝て",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -82,8 +82,7 @@
       "pageNumber": 6,
       "content": "小成に安んぜず奮闘一番せよ",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

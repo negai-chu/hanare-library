@@ -42,7 +42,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 438,
-    "chapterTitles": []
+    "chapterTitles": [
+      "学問の独立と東京専門学校の創立"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "〔社会への初陣〕",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "〔創立についての理想〕",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -112,8 +112,7 @@
       "pageNumber": 11,
       "content": "〔十五年間の困難〕",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

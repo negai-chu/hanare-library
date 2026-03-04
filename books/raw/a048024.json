@@ -42,7 +42,9 @@
     ],
     "totalPages": 86,
     "averageCharsPerPage": 397,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青蛙神"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "第一幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -255,8 +256,7 @@
       "pageNumber": 35,
       "content": "第二幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -388,8 +388,7 @@
       "pageNumber": 57,
       "content": "第三幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,

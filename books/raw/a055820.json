@@ -42,7 +42,9 @@
     ],
     "totalPages": 43,
     "averageCharsPerPage": 289,
-    "chapterTitles": []
+    "chapterTitles": [
+      "人生正会員"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "正直正銘の盲判",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 14,
       "content": "心境の変化",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -214,8 +214,7 @@
       "pageNumber": 28,
       "content": "積極性の悟り",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

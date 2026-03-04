@@ -48,7 +48,9 @@
     ],
     "totalPages": 74,
     "averageCharsPerPage": 460,
-    "chapterTitles": []
+    "chapterTitles": [
+      "童子"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -189,8 +190,7 @@
       "pageNumber": 23,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -292,8 +292,7 @@
       "pageNumber": 40,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -413,8 +412,7 @@
       "pageNumber": 60,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 531,
-    "chapterTitles": []
+    "chapterTitles": [
+      "百三十二番地の貸家"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 3,
       "content": "第一場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -135,8 +136,7 @@
       "pageNumber": 16,
       "content": "第二場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

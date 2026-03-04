@@ -30,7 +30,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 473,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青年"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "第一章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 13,
       "content": "第一章　港町で",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

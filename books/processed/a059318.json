@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "白根山",
-        "startPage": 1,
-        "endPage": 6
+        "startPage": 2,
+        "endPage": 7
       }
     ],
-    "totalPages": 6,
-    "averageCharsPerPage": 58,
-    "chapterTitles": []
+    "totalPages": 7,
+    "averageCharsPerPage": 50,
+    "chapterTitles": [
+      "白根山"
+    ]
   },
   "content": [
     {
@@ -34,30 +36,37 @@
     },
     {
       "pageNumber": 2,
-      "content": "　白根山　寥落として　草もなし\n\n煙たつ\n\n見ゆ\n\n白土尾根に\n\nほのかなる\n\n硫黄のかをり　吹きかよへ\n\n芳《よし》が平の\n\n秋風のうち\n\n行き行きて",
-      "characters": 76,
-      "ruby": []
+      "content": "白根山",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
     },
     {
       "pageNumber": 3,
-      "content": "かへるときなき心地すれ\n\n鳥さへ飛ばぬ\n\n白根山路\n\n草もなし\n\n木もなし\n\nされば　路もなし\n\n湯鳴りさみしき　白埴《しらはに》の山\n\nここすぎて\n\n人かなしみの國にいる",
-      "characters": 86,
+      "content": "　寥落として　草もなし\n\n煙たつ\n\n見ゆ\n\n白土尾根に\n\nほのかなる\n\n硫黄のかをり　吹きかよへ\n\n芳《よし》が平の\n\n秋風のうち\n\n行き行きて",
+      "characters": 72,
       "ruby": []
     },
     {
       "pageNumber": 4,
+      "content": "　かへるときなき心地すれ\n\n鳥さへ飛ばぬ\n\n白根山路\n\n草もなし\n\n木もなし\n\nされば　路もなし\n\n湯鳴りさみしき　白埴《しらはに》の山\n\nここすぎて\n\n人かなしみの國にいる",
+      "characters": 87,
+      "ruby": []
+    },
+    {
+      "pageNumber": 5,
       "content": "地獄の門に\n\nにたる山かな\n\nうかりける　身に杖つきて\n\nいまははや\n\nものも思はず\n\n白根山越ゆ\n\nかうかうと\n\n前に高嶺はとどろけり\n\nなゐふる空に",
       "characters": 76,
       "ruby": []
     },
     {
-      "pageNumber": 5,
+      "pageNumber": 6,
       "content": "雪ふりいでぬ\n\nたちまちに\n\n吹雪となりぬ\n\n一莖の　草だにもなき\n\n天地のきは\n\nいつの世の\n\n火かやきにけん\n\n疎らなる　木立はありて\n\n風の聲すれ",
       "characters": 76,
       "ruby": []
     },
     {
-      "pageNumber": 6,
+      "pageNumber": 7,
       "content": "はたたがみ\n\n土にこもらふ白根山\n\n越えさりゆけば\n\n耳しひにけり",
       "characters": 33,
       "ruby": []

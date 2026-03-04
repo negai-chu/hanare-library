@@ -54,7 +54,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "黒岩山を探る"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 3,
       "content": "一、日光より檜枝岐へ",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -111,8 +112,7 @@
       "pageNumber": 9,
       "content": "二、實川を遡る",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -154,8 +154,7 @@
       "pageNumber": 16,
       "content": "三、硫黄澤を經て黒岩山登山",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -197,8 +196,7 @@
       "pageNumber": 23,
       "content": "四、ヨイチ澤（コダ池澤）の下り",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -228,8 +226,7 @@
       "pageNumber": 28,
       "content": "五、後記",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

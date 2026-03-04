@@ -66,7 +66,9 @@
     ],
     "totalPages": 95,
     "averageCharsPerPage": 141,
-    "chapterTitles": []
+    "chapterTitles": [
+      "松本たかし句集"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 7,
       "content": "春",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -244,8 +244,7 @@
       "pageNumber": 29,
       "content": "夏",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -323,8 +322,7 @@
       "pageNumber": 42,
       "content": "秋",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -438,8 +436,7 @@
       "pageNumber": 61,
       "content": "冬",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -565,8 +562,7 @@
       "pageNumber": 82,
       "content": "新年",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -602,8 +598,7 @@
       "pageNumber": 88,
       "content": "恵那十日句録",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,

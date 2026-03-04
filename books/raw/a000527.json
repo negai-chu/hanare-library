@@ -30,7 +30,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 1117,
-    "chapterTitles": []
+    "chapterTitles": [
+      "十二支考"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 12,
       "content": "（付）兎と亀との話",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

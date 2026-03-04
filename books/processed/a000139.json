@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "猿",
         "startPage": 1,
-        "endPage": 11,
-        "summary": "軍艦の猿の事件"
+        "endPage": 11
       }
     ],
     "totalPages": 11,
     "averageCharsPerPage": 533,
-    "chapterTitles": []
+    "chapterTitles": [
+      "猿"
+    ]
   },
   "content": [
     {

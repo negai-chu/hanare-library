@@ -60,7 +60,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 376,
-    "chapterTitles": []
+    "chapterTitles": [
+      "四谷、赤坂"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "高力松",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 6,
       "content": "エロシェンコ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -124,8 +124,7 @@
       "pageNumber": 10,
       "content": "焼打ち",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -149,8 +148,7 @@
       "pageNumber": 14,
       "content": "横丁ずくし",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -174,8 +172,7 @@
       "pageNumber": 18,
       "content": "津の守附近",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -199,8 +196,7 @@
       "pageNumber": 22,
       "content": "絵双紙屋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

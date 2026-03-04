@@ -36,7 +36,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 461,
-    "chapterTitles": []
+    "chapterTitles": [
+      "北岳と朝日岳"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "白峰北岳",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 13,
       "content": "朝日岳",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

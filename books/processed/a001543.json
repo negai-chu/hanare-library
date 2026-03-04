@@ -17,92 +17,79 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "般若心経講義の序"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "第一講　真理《まこと》の智慧",
         "startPage": 5,
-        "endPage": 0,
-        "summary": "般若の智慧の本質"
+        "endPage": 22
       },
       {
         "id": "chapter-3",
         "title": "第二講　語るより歩む",
         "startPage": 23,
-        "endPage": 0,
-        "summary": "実践の重要性"
+        "endPage": 40
       },
       {
         "id": "chapter-4",
         "title": "第三講　色即是空《しきそくぜくう》",
         "startPage": 41,
-        "endPage": 0,
-        "summary": "色即是空の真意"
+        "endPage": 58
       },
       {
         "id": "chapter-5",
         "title": "第四講　永遠の生命",
         "startPage": 59,
-        "endPage": 0,
-        "summary": "不生不滅の教え"
+        "endPage": 72
       },
       {
         "id": "chapter-6",
         "title": "第五講　空に徹するもの",
         "startPage": 73,
-        "endPage": 0,
-        "summary": "空の境地への道"
+        "endPage": 88
       },
       {
         "id": "chapter-7",
         "title": "第六講　因縁に目覚める",
         "startPage": 89,
-        "endPage": 0,
-        "summary": "縁起の法則"
+        "endPage": 106
       },
       {
         "id": "chapter-8",
         "title": "第七講　四つの正見《まなこ》",
         "startPage": 107,
-        "endPage": 0,
-        "summary": "四諦の正しい眼"
+        "endPage": 127
       },
       {
         "id": "chapter-9",
         "title": "第八講　執著《とらわれ》なきこころ",
         "startPage": 128,
-        "endPage": 0,
-        "summary": "執着を離れる心"
+        "endPage": 145
       },
       {
         "id": "chapter-10",
         "title": "第九講　恐怖《おそれ》なきもの",
         "startPage": 146,
-        "endPage": 0,
-        "summary": "恐れなき境地"
+        "endPage": 169
       },
       {
         "id": "chapter-11",
         "title": "第十講　般若は仏陀《ほとけ》の母",
         "startPage": 170,
-        "endPage": 0,
-        "summary": "般若と仏の関係"
+        "endPage": 192
       },
       {
         "id": "chapter-12",
         "title": "第十一講　真実にして虚《むなし》からず",
         "startPage": 193,
-        "endPage": 0,
-        "summary": "真実の呪文"
+        "endPage": 216
       },
       {
         "id": "chapter-13",
         "title": "第十二講　開かれたる秘密",
         "startPage": 217,
-        "endPage": 230,
-        "summary": "秘密の開示"
+        "endPage": 230
       }
     ],
     "totalPages": 230,

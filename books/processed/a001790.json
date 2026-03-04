@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "散文詩について",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "散文詩論"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "散文詩",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 60,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -462,10 +461,9 @@
             "id": "chapter-2-section-73",
             "number": "物みなは歳日と共に亡び行く",
             "startPage": 54,
-            "endPage": 0
+            "endPage": 60
           }
-        ],
-        "summary": "宿命の散文詩"
+        ]
       },
       {
         "id": "chapter-3",
@@ -479,8 +477,7 @@
             "startPage": 62,
             "endPage": 88
           }
-        ],
-        "summary": "附録の収録作"
+        ]
       }
     ],
     "totalPages": 88,

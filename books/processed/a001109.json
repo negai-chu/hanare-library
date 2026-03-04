@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "東京だより",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "戦時下の東京の少女たち"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 391,
-    "chapterTitles": []
+    "chapterTitles": [
+      "東京だより"
+    ]
   },
   "content": [
     {

@@ -96,7 +96,9 @@
     ],
     "totalPages": 90,
     "averageCharsPerPage": 506,
-    "chapterTitles": []
+    "chapterTitles": [
+      "すみだ川"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -189,8 +190,7 @@
       "pageNumber": 15,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -256,8 +256,7 @@
       "pageNumber": 26,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -317,8 +316,7 @@
       "pageNumber": 36,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -342,8 +340,7 @@
       "pageNumber": 40,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -385,8 +382,7 @@
       "pageNumber": 47,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -440,8 +436,7 @@
       "pageNumber": 56,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -483,8 +478,7 @@
       "pageNumber": 63,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -520,8 +514,7 @@
       "pageNumber": 69,
       "content": "九",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -569,8 +562,7 @@
       "pageNumber": 77,
       "content": "十",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -606,8 +598,7 @@
       "pageNumber": 83,
       "content": "第五版すみだ川之序",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -625,8 +616,7 @@
       "pageNumber": 86,
       "content": "すみだ川序",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,

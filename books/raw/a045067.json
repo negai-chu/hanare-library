@@ -60,7 +60,9 @@
     ],
     "totalPages": 41,
     "averageCharsPerPage": 470,
-    "chapterTitles": []
+    "chapterTitles": [
+      "アフリカのスタンレー"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一　暗黒大陸の父",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 8,
       "content": "二　感激の対面",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -154,8 +154,7 @@
       "pageNumber": 15,
       "content": "三　恵まれた湖水",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -215,8 +214,7 @@
       "pageNumber": 25,
       "content": "四　別離と任務",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -246,8 +244,7 @@
       "pageNumber": 30,
       "content": "五　偉人に忠僕",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -277,8 +274,7 @@
       "pageNumber": 35,
       "content": "六　ナイル河の水源",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,

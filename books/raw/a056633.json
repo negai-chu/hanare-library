@@ -162,7 +162,9 @@
     ],
     "totalPages": 610,
     "averageCharsPerPage": 365,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新書太閤記"
+    ]
   },
   "content": [
     {
@@ -176,8 +178,7 @@
       "pageNumber": 2,
       "content": "寧子《ねね》の胸《むね》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -441,8 +442,7 @@
       "pageNumber": 46,
       "content": "乱雲《らんうん》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -580,8 +580,7 @@
       "pageNumber": 69,
       "content": "明智《あけち》落《お》ち",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -719,8 +718,7 @@
       "pageNumber": 92,
       "content": "風《かぜ》の中《なか》の城《しろ》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -882,8 +880,7 @@
       "pageNumber": 119,
       "content": "三日普請《みっかぶしん》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1117,8 +1114,7 @@
       "pageNumber": 158,
       "content": "鳴海変《なるみへん》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 159,
@@ -1310,8 +1306,7 @@
       "pageNumber": 190,
       "content": "大きな月",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 191,
@@ -1479,8 +1474,7 @@
       "pageNumber": 218,
       "content": "若《わか》き家康《いえやす》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 219,
@@ -1696,8 +1690,7 @@
       "pageNumber": 254,
       "content": "鉄漿将軍《おはぐろしょうぐん》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 255,
@@ -1805,8 +1798,7 @@
       "pageNumber": 272,
       "content": "望蜀《ぼうしょく》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 273,
@@ -1902,8 +1894,7 @@
       "pageNumber": 288,
       "content": "兵糧陣《ひょうろうじん》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 289,
@@ -2137,8 +2128,7 @@
       "pageNumber": 327,
       "content": "天機《てんき》と人《ひと》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 328,
@@ -2282,8 +2272,7 @@
       "pageNumber": 351,
       "content": "出陣《しゅつじん》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 352,
@@ -2517,8 +2506,7 @@
       "pageNumber": 390,
       "content": "この一期《いちご》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 391,
@@ -2674,8 +2662,7 @@
       "pageNumber": 416,
       "content": "田楽狭間《でんがくはざま》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 417,
@@ -2765,8 +2752,7 @@
       "pageNumber": 431,
       "content": "白雨《はくう》・黒風《こくふう》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 432,
@@ -2898,8 +2884,7 @@
       "pageNumber": 453,
       "content": "虹",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 454,
@@ -2995,8 +2980,7 @@
       "pageNumber": 469,
       "content": "夕顔《ゆうがお》の門《もん》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 470,
@@ -3080,8 +3064,7 @@
       "pageNumber": 483,
       "content": "敵国巡遊記《てっこくじゅんゆうき》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 484,
@@ -3213,8 +3196,7 @@
       "pageNumber": 505,
       "content": "菊便《きくだよ》り",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 506,
@@ -3316,8 +3298,7 @@
       "pageNumber": 522,
       "content": "聟《むこ》の君《きみ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 523,
@@ -3455,8 +3436,7 @@
       "pageNumber": 545,
       "content": "水掛祝《みずかけいわ》い",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 546,
@@ -3618,8 +3598,7 @@
       "pageNumber": 572,
       "content": "背和前戦《はいわぜんせん》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 573,

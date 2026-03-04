@@ -288,7 +288,9 @@
     ],
     "totalPages": 139,
     "averageCharsPerPage": 372,
-    "chapterTitles": []
+    "chapterTitles": [
+      "支那目録学"
+    ]
   },
   "content": [
     {
@@ -308,8 +310,7 @@
       "pageNumber": 3,
       "content": "目録學の始",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -321,8 +322,7 @@
       "pageNumber": 5,
       "content": "二劉の學の本旨",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -334,8 +334,7 @@
       "pageNumber": 7,
       "content": "著述流別の源",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -359,8 +358,7 @@
       "pageNumber": 11,
       "content": "劉向校書の由來とその方法",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -384,8 +382,7 @@
       "pageNumber": 15,
       "content": "劉向の別録の佚文とその體裁",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -397,8 +394,7 @@
       "pageNumber": 17,
       "content": "劉向の目録學",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -470,8 +466,7 @@
       "pageNumber": 29,
       "content": "漢書藝文志に遺る二劉の學の究明",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -489,8 +484,7 @@
       "pageNumber": 32,
       "content": "二劉（漢書藝文志）の分類法、著述の史的分類",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -508,8 +502,7 @@
       "pageNumber": 35,
       "content": "二劉の學と司馬遷の史學",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -527,8 +520,7 @@
       "pageNumber": 38,
       "content": "七略の史的書法",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -540,8 +532,7 @@
       "pageNumber": 40,
       "content": "七略と漢書藝文志との異同",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -553,8 +544,7 @@
       "pageNumber": 42,
       "content": "六朝に於ける四部分類法",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -572,8 +562,7 @@
       "pageNumber": 45,
       "content": "簿録に墮した四部分類法",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -591,8 +580,7 @@
       "pageNumber": 48,
       "content": "七部分類法の復興――王儉の七志",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -610,8 +598,7 @@
       "pageNumber": 51,
       "content": "阮孝緒の七録",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -635,8 +622,7 @@
       "pageNumber": 55,
       "content": "七録と隋書經籍志との比較",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -654,8 +640,7 @@
       "pageNumber": 58,
       "content": "六略より四部への過渡とその意義",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -667,8 +652,7 @@
       "pageNumber": 60,
       "content": "抱朴子遐覽篇の道經目",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -680,8 +664,7 @@
       "pageNumber": 62,
       "content": "隋書經籍志",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -699,8 +682,7 @@
       "pageNumber": 65,
       "content": "經典釋文序録",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -712,8 +694,7 @@
       "pageNumber": 67,
       "content": "史通六家",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -725,8 +706,7 @@
       "pageNumber": 69,
       "content": "日本國現在書目録",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -738,8 +718,7 @@
       "pageNumber": 71,
       "content": "舊唐書經籍志の退歩",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -757,8 +736,7 @@
       "pageNumber": 74,
       "content": "新唐書藝文志の粗略",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -770,8 +748,7 @@
       "pageNumber": 76,
       "content": "崇文總目",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -789,8 +766,7 @@
       "pageNumber": 79,
       "content": "唐宋間に於ける子目の變化",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -814,8 +790,7 @@
       "pageNumber": 83,
       "content": "宋祕書省續編到四庫闕書目",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -827,8 +802,7 @@
       "pageNumber": 85,
       "content": "私家書目の勃興――遂初堂書目・郡齋讀書志・直齋書録解題",
       "characters": 27,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 86,
@@ -846,8 +820,7 @@
       "pageNumber": 88,
       "content": "鄭樵の通志の藝文略・校讐略――目録學の理論化",
       "characters": 22,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -865,8 +838,7 @@
       "pageNumber": 91,
       "content": "校讐略の大要",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -914,8 +886,7 @@
       "pageNumber": 99,
       "content": "高似孫の史略・子略",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -939,8 +910,7 @@
       "pageNumber": 103,
       "content": "高似孫の學風",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,
@@ -952,8 +922,7 @@
       "pageNumber": 105,
       "content": "王應麟の目録學",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -971,8 +940,7 @@
       "pageNumber": 108,
       "content": "馬端臨の文獻通考の經籍考",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -984,8 +952,7 @@
       "pageNumber": 110,
       "content": "宋史藝文志――正史藝文志の行詰り",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -997,8 +964,7 @@
       "pageNumber": 112,
       "content": "焦の國史經籍志――目録學の復興",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -1016,8 +982,7 @@
       "pageNumber": 115,
       "content": "明季清初の藏書家書目",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -1029,8 +994,7 @@
       "pageNumber": 117,
       "content": "錢曾の讀書敏求記――異本書目の祖",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -1042,8 +1006,7 @@
       "pageNumber": 119,
       "content": "明史藝文志――正史藝文志の一變",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1055,8 +1018,7 @@
       "pageNumber": 121,
       "content": "朱氏經義考・謝氏小學考・章氏史籍考",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,
@@ -1068,8 +1030,7 @@
       "pageNumber": 123,
       "content": "四庫全書總目提要",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1099,8 +1060,7 @@
       "pageNumber": 128,
       "content": "天祿琳琅書目",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1112,8 +1072,7 @@
       "pageNumber": 130,
       "content": "章學誠の校讐通義――支那目録學の大成",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 131,
@@ -1161,8 +1120,7 @@
       "pageNumber": 138,
       "content": "章學誠の祖述者",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,

@@ -354,7 +354,9 @@
     ],
     "totalPages": 125,
     "averageCharsPerPage": 174,
-    "chapterTitles": []
+    "chapterTitles": [
+      "もの思う葦"
+    ]
   },
   "content": [
     {
@@ -368,8 +370,7 @@
       "pageNumber": 2,
       "content": "はしがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -387,8 +388,7 @@
       "pageNumber": 5,
       "content": "虚栄の市",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -406,8 +406,7 @@
       "pageNumber": 8,
       "content": "敗北の歌",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -419,8 +418,7 @@
       "pageNumber": 10,
       "content": "或る実験報告",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -432,8 +430,7 @@
       "pageNumber": 12,
       "content": "老年",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -457,8 +454,7 @@
       "pageNumber": 16,
       "content": "難解",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -470,8 +466,7 @@
       "pageNumber": 18,
       "content": "塵中《じんちゅう》の人",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -483,8 +478,7 @@
       "pageNumber": 20,
       "content": "おのれの作品のよしあしをひとにたずねることに就いて",
       "characters": 25,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -496,8 +490,7 @@
       "pageNumber": 22,
       "content": "書簡集",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -521,8 +514,7 @@
       "pageNumber": 26,
       "content": "兵法",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -534,8 +526,7 @@
       "pageNumber": 28,
       "content": "In a word",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -547,15 +538,13 @@
       "pageNumber": 30,
       "content": "In a word という小題で、世人、シェストフを贋物《がんぶつ》の一言で言い切り、構光利一を駑馬《どば》の二字で片づけ、懐疑説の矛盾をわずか数語でもって指摘し去り、ジッドの小説は二流也と一刀のもとに屠《ほふ》り、日本浪曼派は苦労知らずと蹴って落ちつき、はなはだしきは読売新聞の壁評論氏の如く、一篇の物語（私の「猿ヶ島」）を一行の諷刺《ふうし》、格言に圧縮せむと努めるなど、さまざまの殺伐なるさまを述べようと思っていたのだが、秋空のせいか、ふっと気がかわって、われながら変なことになってしまった。これは、明かに失敗である。",
       "characters": 262,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
       "content": "病躯の文章とそのハンデキャップに就いて",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -567,8 +556,7 @@
       "pageNumber": 33,
       "content": "「衰運」におくる言葉",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -580,8 +568,7 @@
       "pageNumber": 35,
       "content": "ダス・ゲマイネに就いて",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -599,8 +586,7 @@
       "pageNumber": 38,
       "content": "金銭について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -612,8 +598,7 @@
       "pageNumber": 40,
       "content": "放心について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -625,8 +610,7 @@
       "pageNumber": 42,
       "content": "世渡りの秘訣",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -638,8 +622,7 @@
       "pageNumber": 44,
       "content": "緑雨",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -651,8 +634,7 @@
       "pageNumber": 46,
       "content": "ふたたび書簡のこと",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -664,8 +646,7 @@
       "pageNumber": 48,
       "content": "わが儘《まま》という事",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -677,8 +658,7 @@
       "pageNumber": 50,
       "content": "百花撩乱《ひゃっかりょうらん》主義",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -696,8 +676,7 @@
       "pageNumber": 53,
       "content": "ソロモン王と賤民",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -709,8 +688,7 @@
       "pageNumber": 55,
       "content": "文章",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -722,8 +700,7 @@
       "pageNumber": 57,
       "content": "感謝の文学",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -735,8 +712,7 @@
       "pageNumber": 59,
       "content": "審判",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -748,8 +724,7 @@
       "pageNumber": 61,
       "content": "無間《むけん》奈落",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -761,8 +736,7 @@
       "pageNumber": 63,
       "content": "余談",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -774,8 +748,7 @@
       "pageNumber": 65,
       "content": "Alles Oder Nichts",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -793,8 +766,7 @@
       "pageNumber": 68,
       "content": "葦の自戒",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -806,8 +778,7 @@
       "pageNumber": 70,
       "content": "感想について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -819,8 +790,7 @@
       "pageNumber": 72,
       "content": "すらだにも",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -832,8 +802,7 @@
       "pageNumber": 74,
       "content": "慈眼",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -845,8 +814,7 @@
       "pageNumber": 76,
       "content": "重大のこと",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -858,8 +826,7 @@
       "pageNumber": 78,
       "content": "敵",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -871,8 +838,7 @@
       "pageNumber": 80,
       "content": "健康",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -884,8 +850,7 @@
       "pageNumber": 82,
       "content": "Ｋ君",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -897,8 +862,7 @@
       "pageNumber": 84,
       "content": "ポオズ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -910,8 +874,7 @@
       "pageNumber": 86,
       "content": "絵はがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -923,8 +886,7 @@
       "pageNumber": 88,
       "content": "いつわりなき申告",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -936,8 +898,7 @@
       "pageNumber": 90,
       "content": "乱麻《らんま》を焼き切る",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -949,8 +910,7 @@
       "pageNumber": 92,
       "content": "最後のスタンドプレイ",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -968,8 +928,7 @@
       "pageNumber": 95,
       "content": "冷酷ということについて",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 96,
@@ -981,8 +940,7 @@
       "pageNumber": 97,
       "content": "わがかなしみ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -994,8 +952,7 @@
       "pageNumber": 99,
       "content": "文章について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -1007,8 +964,7 @@
       "pageNumber": 101,
       "content": "ふと思う",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -1020,8 +976,7 @@
       "pageNumber": 103,
       "content": "Ｙ子",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,
@@ -1033,8 +988,7 @@
       "pageNumber": 105,
       "content": "言葉の奇妙",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -1046,8 +1000,7 @@
       "pageNumber": 107,
       "content": "まんざい",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -1059,8 +1012,7 @@
       "pageNumber": 109,
       "content": "わが神話",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 110,
@@ -1072,8 +1024,7 @@
       "pageNumber": 111,
       "content": "最も日常茶飯事的なるもの",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
@@ -1085,8 +1036,7 @@
       "pageNumber": 113,
       "content": "蟹《かに》について",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -1098,8 +1048,7 @@
       "pageNumber": 115,
       "content": "わがダンディスム",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -1111,8 +1060,7 @@
       "pageNumber": 117,
       "content": "「晩年」に就いて",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -1136,8 +1084,7 @@
       "pageNumber": 121,
       "content": "気がかりということに就いて",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,
@@ -1149,8 +1096,7 @@
       "pageNumber": 123,
       "content": "宿題",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,

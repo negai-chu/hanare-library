@@ -42,7 +42,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 290,
-    "chapterTitles": []
+    "chapterTitles": [
+      "世評（一幕二場）"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "人物　所　時",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "情景　一",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 10,
       "content": "情景　二",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

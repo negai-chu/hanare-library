@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "ソヴェト文壇への序"
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "「五ヵ年計画」",
         "startPage": 7,
-        "endPage": 0,
-        "summary": "五ヵ年計画と文学"
+        "endPage": 16
       },
       {
         "id": "chapter-3",
         "title": "「ラップ」の社会主義的行軍",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -49,17 +47,15 @@
             "id": "chapter-3-section-3",
             "number": "（３）　――厳密な自己批判――",
             "startPage": 33,
-            "endPage": 0
+            "endPage": 44
           }
-        ],
-        "summary": "文学団体の社会的行軍"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "社会主義の勝利へ！",
         "startPage": 45,
-        "endPage": 54,
-        "summary": "社会主義の勝利へ"
+        "endPage": 54
       }
     ],
     "totalPages": 54,

@@ -54,7 +54,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 354,
-    "chapterTitles": []
+    "chapterTitles": [
+      "脱出と回帰"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "一つの神話",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 4,
       "content": "遊離の学説",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -100,8 +100,7 @@
       "pageNumber": 7,
       "content": "創造の愕き",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -119,8 +118,7 @@
       "pageNumber": 10,
       "content": "歪んだ推移",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -138,8 +136,7 @@
       "pageNumber": 13,
       "content": "回帰をささえるもの",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

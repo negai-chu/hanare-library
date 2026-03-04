@@ -102,7 +102,9 @@
     ],
     "totalPages": 56,
     "averageCharsPerPage": 283,
-    "chapterTitles": []
+    "chapterTitles": [
+      "グッド・バイ"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "変心　（一）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -135,8 +136,7 @@
       "pageNumber": 5,
       "content": "変心　（二）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -160,8 +160,7 @@
       "pageNumber": 9,
       "content": "行進　（一）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -185,8 +184,7 @@
       "pageNumber": 13,
       "content": "行進　（二）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -216,8 +214,7 @@
       "pageNumber": 18,
       "content": "行進　（三）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -241,8 +238,7 @@
       "pageNumber": 22,
       "content": "行進　（四）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -266,8 +262,7 @@
       "pageNumber": 26,
       "content": "行進　（五）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -297,8 +292,7 @@
       "pageNumber": 31,
       "content": "怪力　（一）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -322,8 +316,7 @@
       "pageNumber": 35,
       "content": "怪力　（二）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -353,8 +346,7 @@
       "pageNumber": 40,
       "content": "怪力　（三）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -378,8 +370,7 @@
       "pageNumber": 44,
       "content": "怪力　（四）",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -409,8 +400,7 @@
       "pageNumber": 49,
       "content": "コールド・ウォー　（一）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -434,8 +424,7 @@
       "pageNumber": 53,
       "content": "コールド・ウォー　（二）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,

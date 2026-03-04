@@ -72,7 +72,9 @@
     ],
     "totalPages": 40,
     "averageCharsPerPage": 487,
-    "chapterTitles": []
+    "chapterTitles": [
+      "失念術講義"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "序言",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 4,
       "content": "第一章　發端",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -118,8 +118,7 @@
       "pageNumber": 7,
       "content": "第二章　失※術の利益",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -137,8 +136,7 @@
       "pageNumber": 10,
       "content": "第三章　失※術の解釋",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -150,8 +148,7 @@
       "pageNumber": 12,
       "content": "第四章　失※術の原理",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -193,8 +190,7 @@
       "pageNumber": 19,
       "content": "第五章　失※術の方法第一",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -242,8 +238,7 @@
       "pageNumber": 27,
       "content": "第六章　失※術の方法第二",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -279,8 +274,7 @@
       "pageNumber": 33,
       "content": "第七章　結論",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,

@@ -54,7 +54,9 @@
     ],
     "totalPages": 59,
     "averageCharsPerPage": 494,
-    "chapterTitles": []
+    "chapterTitles": [
+      "運命のままに"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 3,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -147,8 +148,7 @@
       "pageNumber": 15,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -214,8 +214,7 @@
       "pageNumber": 26,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -275,8 +274,7 @@
       "pageNumber": 36,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -348,8 +346,7 @@
       "pageNumber": 48,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,

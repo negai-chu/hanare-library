@@ -150,7 +150,9 @@
     ],
     "totalPages": 55,
     "averageCharsPerPage": 62,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小曲二十篇"
+    ]
   },
   "content": [
     {
@@ -164,8 +166,7 @@
       "pageNumber": 2,
       "content": "落葉のなげき",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -183,8 +184,7 @@
       "pageNumber": 5,
       "content": "物の哀れ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -196,8 +196,7 @@
       "pageNumber": 7,
       "content": "まぼろし",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -209,8 +208,7 @@
       "pageNumber": 9,
       "content": "春",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -228,8 +226,7 @@
       "pageNumber": 12,
       "content": "朝",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -241,8 +238,7 @@
       "pageNumber": 14,
       "content": "望郷",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -254,8 +250,7 @@
       "pageNumber": 16,
       "content": "小曲",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -267,8 +262,7 @@
       "pageNumber": 18,
       "content": "海のさち",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -286,8 +280,7 @@
       "pageNumber": 21,
       "content": "北半島",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -305,8 +298,7 @@
       "pageNumber": 24,
       "content": "秋",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -324,8 +316,7 @@
       "pageNumber": 27,
       "content": "口笛",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -343,8 +334,7 @@
       "pageNumber": 30,
       "content": "片葉貝",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -362,8 +352,7 @@
       "pageNumber": 33,
       "content": "哀音",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -381,8 +370,7 @@
       "pageNumber": 36,
       "content": "夜",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -400,8 +388,7 @@
       "pageNumber": 39,
       "content": "影",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -413,8 +400,7 @@
       "pageNumber": 41,
       "content": "白明",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -432,8 +418,7 @@
       "pageNumber": 44,
       "content": "漁夫",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -451,8 +436,7 @@
       "pageNumber": 47,
       "content": "人ふたり",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -464,8 +448,7 @@
       "pageNumber": 49,
       "content": "森",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -483,8 +466,7 @@
       "pageNumber": 52,
       "content": "海",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -496,8 +478,7 @@
       "pageNumber": 54,
       "content": "星",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,

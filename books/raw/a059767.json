@@ -102,7 +102,9 @@
     ],
     "totalPages": 52,
     "averageCharsPerPage": 393,
-    "chapterTitles": []
+    "chapterTitles": [
+      "科学は役に立つか"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "一　はしがき",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -141,8 +142,7 @@
       "pageNumber": 6,
       "content": "二　ケリイ博士の「ゼロ論」",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -160,8 +160,7 @@
       "pageNumber": 9,
       "content": "三　役に立つ科学",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -185,8 +184,7 @@
       "pageNumber": 13,
       "content": "四　役に立たない科学",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -204,8 +202,7 @@
       "pageNumber": 16,
       "content": "五　国民の期待と科学",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -235,8 +232,7 @@
       "pageNumber": 21,
       "content": "六　純粋科学と国力",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -260,8 +256,7 @@
       "pageNumber": 25,
       "content": "七　日本の現状と科学",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -285,8 +280,7 @@
       "pageNumber": 29,
       "content": "八　立地条件問題",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -304,8 +298,7 @@
       "pageNumber": 32,
       "content": "九　文部省の科学研究費",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -335,8 +328,7 @@
       "pageNumber": 37,
       "content": "一〇　科学者の心構えの問題",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -366,8 +358,7 @@
       "pageNumber": 42,
       "content": "一一　民族のための科学",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -391,8 +382,7 @@
       "pageNumber": 46,
       "content": "一二　「学問尊重」の気風",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -422,8 +412,7 @@
       "pageNumber": 51,
       "content": "一三　結び",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,

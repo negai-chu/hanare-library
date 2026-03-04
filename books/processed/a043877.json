@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第１部\r\n　　――美学とは――",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 84,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -59,10 +59,9 @@
             "id": "chapter-1-section-7",
             "number": "７　映画の空間",
             "startPage": 73,
-            "endPage": 0
+            "endPage": 84
           }
-        ],
-        "summary": "美学とは何かの概説"
+        ]
       },
       {
         "id": "chapter-2",
@@ -112,8 +111,7 @@
             "startPage": 126,
             "endPage": 148
           }
-        ],
-        "summary": "美学史の概観"
+        ]
       }
     ],
     "totalPages": 148,

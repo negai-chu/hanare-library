@@ -48,7 +48,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 402,
-    "chapterTitles": []
+    "chapterTitles": [
+      "向日葵の眼"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　麗子の嘆き",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "二　指環の文字",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -130,8 +130,7 @@
       "pageNumber": 13,
       "content": "三　香椎六郎",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -167,8 +166,7 @@
       "pageNumber": 19,
       "content": "四　向日葵の謎",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,

@@ -42,7 +42,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 947,
-    "chapterTitles": []
+    "chapterTitles": [
+      "三人法師"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -99,8 +100,7 @@
       "pageNumber": 9,
       "content": "中",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -124,8 +124,7 @@
       "pageNumber": 13,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

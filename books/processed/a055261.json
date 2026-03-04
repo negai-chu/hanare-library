@@ -17,38 +17,40 @@
         "id": "chapter-1",
         "title": "郷土",
         "startPage": 1,
-        "endPage": 10,
+        "endPage": 4,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 4,
-            "endPage": 6
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
-            "startPage": 7,
-            "endPage": 8
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
-            "startPage": 9,
-            "endPage": 10
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 10,
-    "averageCharsPerPage": 72,
-    "chapterTitles": []
+    "totalPages": 4,
+    "averageCharsPerPage": 182,
+    "chapterTitles": [
+      "郷土"
+    ]
   },
   "content": [
     {
@@ -60,60 +62,20 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 3,
-      "content": "　草深い放牧地よ　北海の高原に群がれる人々を養える郷土よ　北海道よ　未開地よ\nここには名もなき小花も咲くであろう\n未だ人手に触れない谷間の姫百合も咲くであろう\n春ともなれば黄金の福寿草も咲くであろう\nかくてアイヌ古典の物語も想い出されるであろう",
-      "characters": 122,
+      "content": "　１\n\n草深い放牧地よ　北海の高原に群がれる人々を養える郷土よ　北海道よ　未開地よ\nここには名もなき小花も咲くであろう\n未だ人手に触れない谷間の姫百合も咲くであろう\n春ともなれば黄金の福寿草も咲くであろう\nかくてアイヌ古典の物語も想い出されるであろう２",
+      "characters": 126,
       "ruby": []
     },
     {
-      "pageNumber": 4,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
+      "pageNumber": 3,
       "content": "おお郷土の人々よ\n昔は　卿等が渡道の頃は　何処にも熊は住んでいた\n時として卿等よ　憶い起してはならない\nあの殺伐な熊狩のあたりのことを\n又若き人々よ\nあまりに華やかさを粧うてはならない\n卿等の親達は　あの幾千年以前から住みなれた故郷を捨てて　一意に　荒野の生活に憧憬れて来たのだから\nここでは凡てが自然の素朴であらねばならない\n煤びたセピア色もて彩られた家は\n最も卿等の住家であらねばならない\n\nおお郷土の人々よ\n卿等は自然の人である\n卿等は自然の法による\n敢て立法博士を要しない\n自然は最も自由な　さて正確な立法者である\n土に生れて　土に還る　それは真に意義ある生命の時である　卿等のかばねは　卿等のけものは　卿等の小花は",
       "characters": 312,
       "ruby": []
     },
     {
-      "pageNumber": 6,
-      "content": "ああ　自然の不滅にあらぬものは　すべて朽ち果てて\n豊沃なる土となる\nかくて永遠に還りゆく……",
-      "characters": 46,
-      "ruby": []
-    },
-    {
-      "pageNumber": 7,
-      "content": "３",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 8,
-      "content": "日本否世界の　神秘派の　古典派の人々よ\n此処には珍らしいものがある\n木の皮の織物　余韻の歌謡　雑木の彫刻　それら皆露《あら》わなままに　虐げられたアイヌ人種の生み成せる　まことに尊い芸術である\n我等はシャモ（一）は　これ等見なれて尚飽くなきものの為めには　あらゆる讃美の言葉を惜しまない。",
-      "characters": 144,
-      "ruby": []
-    },
-    {
-      "pageNumber": 9,
-      "content": "４",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 10,
-      "content": "ああ　オオツク海よ　太平洋よ\n氷山流れて港をうずむる　融雪のころ\n白熊《はくゆう》のうそぶく千島の彼方は　アラスカの洲　北極の圏　永遠の冬\n我等の郷土はここにある。\n\n（一）アイヌが言う日本人のこと",
-      "characters": 99,
+      "pageNumber": 4,
+      "content": "ああ　自然の不滅にあらぬものは　すべて朽ち果てて\n豊沃なる土となる\nかくて永遠に還りゆく……３日本否世界の　神秘派の　古典派の人々よ\n此処には珍らしいものがある\n木の皮の織物　余韻の歌謡　雑木の彫刻　それら皆露《あら》わなままに　虐げられたアイヌ人種の生み成せる　まことに尊い芸術である\n我等はシャモ（一）は　これ等見なれて尚飽くなきものの為めには　あらゆる讃美の言葉を惜しまない。４ああ　オオツク海よ　太平洋よ\n氷山流れて港をうずむる　融雪のころ\n白熊《はくゆう》のうそぶく千島の彼方は　アラスカの洲　北極の圏　永遠の冬\n我等の郷土はここにある。\n\n（一）アイヌが言う日本人のこと",
+      "characters": 291,
       "ruby": []
     }
   ]

@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "北海の夜",
         "startPage": 1,
-        "endPage": 6,
+        "endPage": 4,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 4,
-            "endPage": 6
+            "startPage": 3,
+            "endPage": 4
           }
         ]
       }
     ],
-    "totalPages": 6,
-    "averageCharsPerPage": 58,
-    "chapterTitles": []
+    "totalPages": 4,
+    "averageCharsPerPage": 88,
+    "chapterTitles": [
+      "北海の夜"
+    ]
   },
   "content": [
     {
@@ -48,32 +50,18 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　１\n\n　旗がしきりにゆれている\n\nハタハタと、又ハタハタと\n\n時には風が吹いて来て\n\nゴトンと音を立ててゆく\n\n外はほんとに暗いのだ\n\n自分よ、或る夜の事を思い出せ\n\nそしてぞうっと身ぶるえ《（ママ）》せ\n\n今夜の雪は青白い\n\nすごい黒さが沁みている",
+      "characters": 126,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　旗がしきりにゆれている\n\nハタハタと、又ハタハタと\n\n時には風が吹いて来て\n\nゴトンと音を立ててゆく\n\n外はほんとに暗いのだ\n\n自分よ、或る夜の事を思い出せ\n\nそしてぞうっと身ぶるえ《（ママ）》せ\n\n今夜の雪は青白い\n\nすごい黒さが沁みている",
-      "characters": 122,
+      "content": "２\n\n　海の妖婆が踊るよな\n\n暗い恐ろしい夜となる\n\n日本海と太平洋の沖の方に\n\n何か変りはないだろうか。\n\n海辺の街の病める友は\n\nこんな夜なら寂しかろう\n\n母がはなれているのさい《（ママ）》\n\n悲しくなって来るだろう\n\n窓の近くに横たわり",
+      "characters": 121,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "海の妖婆が踊るよな\n\n暗い恐ろしい夜となる\n\n日本海と太平洋の沖の方に\n\n何か変りはないだろうか。\n\n海辺の街の病める友は\n\nこんな夜なら寂しかろう\n\n母がはなれているのさい《（ママ）》\n\n悲しくなって来るだろう\n\n窓の近くに横たわり",
-      "characters": 117,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
       "content": "眠りもせずに、うつうつと\n\nものを思えるその時は\n\nそうっと窓の近くにて\n\n海の妖婆が笑うだろう\n\n私も自分がさびしくて\n\n忘れようにも忘られず\n\nぞうっと身ぶるえ《（ママ）》するのだよ。\n\n一〇・三・四稿",
       "characters": 103,
       "ruby": []

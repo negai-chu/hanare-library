@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "演出について",
         "startPage": 1,
-        "endPage": 8,
-        "summary": "演出者の役割と権限の変遷"
+        "endPage": 8
       }
     ],
     "totalPages": 8,
     "averageCharsPerPage": 511,
-    "chapterTitles": []
+    "chapterTitles": [
+      "演出について"
+    ]
   },
   "content": [
     {

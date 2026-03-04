@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "車室",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "馬車の中の人間模様"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 72,
-    "chapterTitles": []
+    "chapterTitles": [
+      "車室"
+    ]
   },
   "content": [
     {

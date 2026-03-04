@@ -54,7 +54,9 @@
     ],
     "totalPages": 100,
     "averageCharsPerPage": 587,
-    "chapterTitles": []
+    "chapterTitles": [
+      "白蟻"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "序《はしがき》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 5,
       "content": "序、騎西一家の流刑地",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -214,8 +214,7 @@
       "pageNumber": 26,
       "content": "一、二つの変貌と人瘤",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -347,8 +346,7 @@
       "pageNumber": 48,
       "content": "二、鉄漿《はぐろ》ぐるい",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -534,8 +532,7 @@
       "pageNumber": 79,
       "content": "三、弾左谿《だんざだに》炎上",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,

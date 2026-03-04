@@ -48,7 +48,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 366,
-    "chapterTitles": []
+    "chapterTitles": [
+      "利根川の鮎"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "人生の旅",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "ふるさとの水",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 8,
       "content": "お国自慢",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -119,8 +118,7 @@
       "pageNumber": 11,
       "content": "今は昔ばなし",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

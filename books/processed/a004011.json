@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "朝の話",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "朝のラジオの語り"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 499,
-    "chapterTitles": []
+    "chapterTitles": [
+      "朝の話"
+    ]
   },
   "content": [
     {

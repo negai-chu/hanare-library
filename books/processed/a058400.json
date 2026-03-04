@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "第三刷序文",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "北越雪譜叙",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "北越雪譜初編　巻之上",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 63,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -163,7 +163,7 @@
         "id": "chapter-4",
         "title": "北越雪譜初編　巻之中",
         "startPage": 64,
-        "endPage": 0,
+        "endPage": 127,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -309,7 +309,7 @@
         "id": "chapter-5",
         "title": "北越雪譜初編　巻之下",
         "startPage": 128,
-        "endPage": 0,
+        "endPage": 182,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -455,19 +455,19 @@
         "id": "chapter-6",
         "title": "北越雪譜二編叙",
         "startPage": 183,
-        "endPage": 0
+        "endPage": 186
       },
       {
         "id": "chapter-7",
         "title": "北越雪譜《ほくゑつせつふ》二編凡例《はんれい》",
         "startPage": 187,
-        "endPage": 0
+        "endPage": 191
       },
       {
         "id": "chapter-8",
         "title": "北越雪譜二編　巻一",
         "startPage": 192,
-        "endPage": 0,
+        "endPage": 240,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -565,7 +565,7 @@
         "id": "chapter-9",
         "title": "北越雪譜二編　巻二",
         "startPage": 241,
-        "endPage": 0,
+        "endPage": 290,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -651,7 +651,7 @@
         "id": "chapter-10",
         "title": "北越雪譜二編　巻三",
         "startPage": 291,
-        "endPage": 0,
+        "endPage": 334,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -713,7 +713,7 @@
         "id": "chapter-11",
         "title": "北越雪譜二編　巻之四",
         "startPage": 335,
-        "endPage": 0,
+        "endPage": 365,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -799,7 +799,7 @@
         "id": "chapter-12",
         "title": "註解",
         "startPage": 366,
-        "endPage": 0
+        "endPage": 368
       },
       {
         "id": "chapter-13",

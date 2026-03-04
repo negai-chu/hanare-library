@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "はじめに",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "青い鳥の物語化序文"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 396,
-    "chapterTitles": []
+    "chapterTitles": [
+      "はじめに"
+    ]
   },
   "content": [
     {

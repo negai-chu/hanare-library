@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "動物園",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "動物園の動物たち"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 502,
-    "chapterTitles": []
+    "chapterTitles": [
+      "動物園"
+    ]
   },
   "content": [
     {

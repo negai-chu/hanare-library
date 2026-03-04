@@ -60,7 +60,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 411,
-    "chapterTitles": []
+    "chapterTitles": [
+      "奇談クラブ〔戦後版〕"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "クラブ復活",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "将軍の末の娘",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 9,
       "content": "男禁制の庭へ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -149,8 +148,7 @@
       "pageNumber": 14,
       "content": "恐しい恋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -180,8 +178,7 @@
       "pageNumber": 19,
       "content": "怪しい修験者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -205,8 +202,7 @@
       "pageNumber": 23,
       "content": "相寄る心",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

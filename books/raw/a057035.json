@@ -54,7 +54,9 @@
     ],
     "totalPages": 46,
     "averageCharsPerPage": 493,
-    "chapterTitles": []
+    "chapterTitles": [
+      "山の今昔"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "山と山人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "山の信仰",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -154,8 +154,7 @@
       "pageNumber": 16,
       "content": "宗教的登山の発端",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -185,8 +184,7 @@
       "pageNumber": 21,
       "content": "登山の普及",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -282,8 +280,7 @@
       "pageNumber": 37,
       "content": "登山の変遷",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,

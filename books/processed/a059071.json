@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一編",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 61,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 52,
-            "endPage": 0
+            "endPage": 61
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-2",
         "title": "第二編",
         "startPage": 62,
-        "endPage": 0,
+        "endPage": 114,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -139,7 +139,7 @@
             "id": "chapter-2-section-13",
             "number": "十三",
             "startPage": 111,
-            "endPage": 0
+            "endPage": 114
           }
         ]
       },
@@ -147,7 +147,7 @@
         "id": "chapter-3",
         "title": "第三編",
         "startPage": 115,
-        "endPage": 0,
+        "endPage": 182,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -249,7 +249,7 @@
             "id": "chapter-3-section-17",
             "number": "十七",
             "startPage": 176,
-            "endPage": 0
+            "endPage": 182
           }
         ]
       },
@@ -257,7 +257,7 @@
         "id": "chapter-4",
         "title": "第四編",
         "startPage": 183,
-        "endPage": 0,
+        "endPage": 219,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -305,7 +305,7 @@
             "id": "chapter-4-section-8",
             "number": "八",
             "startPage": 212,
-            "endPage": 0
+            "endPage": 219
           }
         ]
       },
@@ -313,7 +313,7 @@
         "id": "chapter-5",
         "title": "第五編",
         "startPage": 220,
-        "endPage": 0,
+        "endPage": 246,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -379,7 +379,7 @@
             "id": "chapter-5-section-11",
             "number": "十一",
             "startPage": 246,
-            "endPage": 0
+            "endPage": 246
           }
         ]
       },

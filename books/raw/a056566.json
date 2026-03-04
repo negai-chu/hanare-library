@@ -36,7 +36,9 @@
     ],
     "totalPages": 5,
     "averageCharsPerPage": 185,
-    "chapterTitles": []
+    "chapterTitles": [
+      "仙台の夏"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "盆火紀元",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -63,8 +64,7 @@
       "pageNumber": 4,
       "content": "七夕祭",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,

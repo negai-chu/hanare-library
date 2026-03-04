@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "亀さん",
         "startPage": 1,
-        "endPage": 9,
-        "summary": "亀の旅と田舎道の童話"
+        "endPage": 9
       }
     ],
     "totalPages": 9,
     "averageCharsPerPage": 383,
-    "chapterTitles": []
+    "chapterTitles": [
+      "亀さん"
+    ]
   },
   "content": [
     {

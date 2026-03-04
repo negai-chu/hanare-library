@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "おや雀",
-        "startPage": 1,
-        "endPage": 2
+        "startPage": 2,
+        "endPage": 3
       }
     ],
-    "totalPages": 2,
-    "averageCharsPerPage": 41,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 27,
+    "chapterTitles": [
+      "おや雀"
+    ]
   },
   "content": [
     {
@@ -34,8 +36,15 @@
     },
     {
       "pageNumber": 2,
-      "content": "　おや雀\n\nもう日が暮れる\n\nくらくなる\n\n日がくれて\n\nくらくなつたら\n\nどうしよう\n\n何処《どこ》に行かう\n\nぼつちやん\n\nわたしの巣をかへせ子どもをかへせ",
-      "characters": 80,
+      "content": "おや雀",
+      "characters": 3,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "もう日が暮れる\n\nくらくなる\n\n日がくれて\n\nくらくなつたら\n\nどうしよう\n\n何処《どこ》に行かう\n\nぼつちやん\n\nわたしの巣をかへせ　子どもをかへせ",
+      "characters": 75,
       "ruby": []
     }
   ]

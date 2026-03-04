@@ -48,7 +48,9 @@
     ],
     "totalPages": 29,
     "averageCharsPerPage": 425,
-    "chapterTitles": []
+    "chapterTitles": [
+      "毒と迷信"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　原始人類と毒",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "二　植物性毒と迷信",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "三　鉱物性毒と迷信",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -173,8 +172,7 @@
       "pageNumber": 20,
       "content": "四　動物性毒と迷信（毒蛇）",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,

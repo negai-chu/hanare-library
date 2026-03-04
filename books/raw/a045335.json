@@ -36,7 +36,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 350,
-    "chapterTitles": []
+    "chapterTitles": [
+      "パンアテナイア祭の夢"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "堤の白明",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 9,
       "content": "明る過ぎる街道",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

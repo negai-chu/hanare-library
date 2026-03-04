@@ -48,7 +48,9 @@
     ],
     "totalPages": 93,
     "averageCharsPerPage": 595,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ワーニャ伯父さん"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 4,
       "content": "第一幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -195,8 +196,7 @@
       "pageNumber": 24,
       "content": "第二幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -352,8 +352,7 @@
       "pageNumber": 50,
       "content": "第三幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -503,8 +502,7 @@
       "pageNumber": 75,
       "content": "第四幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,

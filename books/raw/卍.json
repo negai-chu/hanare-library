@@ -222,7 +222,9 @@
     ],
     "totalPages": 117,
     "averageCharsPerPage": 1210,
-    "chapterTitles": []
+    "chapterTitles": [
+      "卍"
+    ]
   },
   "content": [
     {
@@ -236,8 +238,7 @@
       "pageNumber": 2,
       "content": "その一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -267,8 +268,7 @@
       "pageNumber": 7,
       "content": "その二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -286,8 +286,7 @@
       "pageNumber": 10,
       "content": "その三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -317,8 +316,7 @@
       "pageNumber": 15,
       "content": "その四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -336,8 +334,7 @@
       "pageNumber": 18,
       "content": "その五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -355,8 +352,7 @@
       "pageNumber": 21,
       "content": "その六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -374,8 +370,7 @@
       "pageNumber": 24,
       "content": "その七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -423,8 +418,7 @@
       "pageNumber": 32,
       "content": "その八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -454,8 +448,7 @@
       "pageNumber": 37,
       "content": "その九",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -473,8 +466,7 @@
       "pageNumber": 40,
       "content": "その十",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -492,8 +484,7 @@
       "pageNumber": 43,
       "content": "その十一",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -517,8 +508,7 @@
       "pageNumber": 47,
       "content": "その十二",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -536,8 +526,7 @@
       "pageNumber": 50,
       "content": "その十三",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -555,8 +544,7 @@
       "pageNumber": 53,
       "content": "その十四",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -580,8 +568,7 @@
       "pageNumber": 57,
       "content": "その十五",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -593,8 +580,7 @@
       "pageNumber": 59,
       "content": "その十六",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -612,8 +598,7 @@
       "pageNumber": 62,
       "content": "その十七",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -631,8 +616,7 @@
       "pageNumber": 65,
       "content": "その十八",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -650,8 +634,7 @@
       "pageNumber": 68,
       "content": "その十九",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -687,8 +670,7 @@
       "pageNumber": 74,
       "content": "その二十",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -712,8 +694,7 @@
       "pageNumber": 78,
       "content": "その二十一",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -731,8 +712,7 @@
       "pageNumber": 81,
       "content": "その二十二",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -756,8 +736,7 @@
       "pageNumber": 85,
       "content": "その二十三",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 86,
@@ -775,8 +754,7 @@
       "pageNumber": 88,
       "content": "その二十四",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -794,8 +772,7 @@
       "pageNumber": 91,
       "content": "その二十五",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -813,8 +790,7 @@
       "pageNumber": 94,
       "content": "その二十六",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -826,8 +802,7 @@
       "pageNumber": 96,
       "content": "その二十七",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -839,8 +814,7 @@
       "pageNumber": 98,
       "content": "その二十八",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -858,8 +832,7 @@
       "pageNumber": 101,
       "content": "その二十九",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -877,8 +850,7 @@
       "pageNumber": 104,
       "content": "その三十",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -896,8 +868,7 @@
       "pageNumber": 107,
       "content": "その三十一",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -909,8 +880,7 @@
       "pageNumber": 109,
       "content": "その三十二",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 110,
@@ -928,8 +898,7 @@
       "pageNumber": 112,
       "content": "その三十三",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,

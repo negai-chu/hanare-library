@@ -17,28 +17,25 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "著者自序",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "著者の立場"
+        "endPage": 5
       },
       {
         "id": "chapter-3",
         "title": "一円本流行の害毒と其裏面談",
         "startPage": 1,
-        "endPage": 0,
-        "summary": "一円本ブームの実態"
+        "endPage": 1
       },
       {
         "id": "chapter-4",
         "title": "害毒の十六ヶ条",
         "startPage": 8,
-        "endPage": 0,
+        "endPage": 23,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -134,23 +131,21 @@
             "id": "chapter-4-section-16",
             "number": "一般学者の不平心を醸成す",
             "startPage": 23,
-            "endPage": 0
+            "endPage": 23
           }
-        ],
-        "summary": "害毒十六ヶ条"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "円助芸者と円本芸者",
         "startPage": 24,
-        "endPage": 0,
-        "summary": "円助芸者と円本芸者"
+        "endPage": 25
       },
       {
         "id": "chapter-6",
         "title": "円本関係の裏面談",
         "startPage": 26,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -234,31 +229,27 @@
             "id": "chapter-6-section-15",
             "number": "遅れ馳せに出た破廉恥漢の醜様全集",
             "startPage": 42,
-            "endPage": 0
+            "endPage": 43
           }
-        ],
-        "summary": "出版界の裏面"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "一年半前に於ける著者の予言的中記",
         "startPage": 44,
-        "endPage": 0,
-        "summary": "著者の予言的中"
+        "endPage": 49
       },
       {
         "id": "chapter-8",
         "title": "コケがモト",
         "startPage": 50,
-        "endPage": 0,
-        "summary": "失敗の元"
+        "endPage": 51
       },
       {
         "id": "chapter-9",
         "title": "円本総マクリの自跋",
         "startPage": 52,
-        "endPage": 54,
-        "summary": "円本総括の跋文"
+        "endPage": 54
       }
     ],
     "totalPages": 54,

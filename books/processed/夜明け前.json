@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "序の章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 21
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-2",
         "title": "第一章",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -73,7 +73,7 @@
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 54,
-            "endPage": 0
+            "endPage": 71
           }
         ]
       },
@@ -81,7 +81,7 @@
         "id": "chapter-3",
         "title": "第二章",
         "startPage": 72,
-        "endPage": 0,
+        "endPage": 125,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -111,7 +111,7 @@
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 115,
-            "endPage": 0
+            "endPage": 125
           }
         ]
       },
@@ -119,7 +119,7 @@
         "id": "chapter-4",
         "title": "第三章",
         "startPage": 126,
-        "endPage": 0,
+        "endPage": 182,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -149,7 +149,7 @@
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 178,
-            "endPage": 0
+            "endPage": 182
           }
         ]
       },
@@ -157,7 +157,7 @@
         "id": "chapter-5",
         "title": "第四章",
         "startPage": 183,
-        "endPage": 0,
+        "endPage": 235,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -187,7 +187,7 @@
             "id": "chapter-5-section-5",
             "number": "五",
             "startPage": 228,
-            "endPage": 0
+            "endPage": 235
           }
         ]
       },
@@ -195,7 +195,7 @@
         "id": "chapter-6",
         "title": "第五章",
         "startPage": 236,
-        "endPage": 0,
+        "endPage": 272,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -225,7 +225,7 @@
             "id": "chapter-6-section-5",
             "number": "五",
             "startPage": 268,
-            "endPage": 0
+            "endPage": 272
           }
         ]
       },
@@ -233,7 +233,7 @@
         "id": "chapter-7",
         "title": "第六章",
         "startPage": 273,
-        "endPage": 0,
+        "endPage": 367,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -263,7 +263,7 @@
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 350,
-            "endPage": 0
+            "endPage": 367
           }
         ]
       },

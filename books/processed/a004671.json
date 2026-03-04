@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "震災日記より",
         "startPage": 1,
-        "endPage": 16,
-        "summary": "関東大震災の日記"
+        "endPage": 16
       }
     ],
     "totalPages": 16,
     "averageCharsPerPage": 430,
-    "chapterTitles": []
+    "chapterTitles": [
+      "震災日記より"
+    ]
   },
   "content": [
     {

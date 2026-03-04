@@ -78,7 +78,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 456,
-    "chapterTitles": []
+    "chapterTitles": [
+      "芸術と数学及び科学"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 3,
       "content": "〈一　和歌と俳句〉",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -117,8 +118,7 @@
       "pageNumber": 6,
       "content": "〈二　算額の現状〉",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -136,8 +136,7 @@
       "pageNumber": 9,
       "content": "〈三　算額の風習〉",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -167,8 +166,7 @@
       "pageNumber": 14,
       "content": "〈四　日本の美〉",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -198,8 +196,7 @@
       "pageNumber": 19,
       "content": "〈五　西洋伝来〉",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -223,8 +220,7 @@
       "pageNumber": 23,
       "content": "〈六　法隆寺〉",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -248,8 +244,7 @@
       "pageNumber": 27,
       "content": "〈七　芸術と科学（一）〉",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -273,8 +268,7 @@
       "pageNumber": 31,
       "content": "〈八　芸術と科学（二）〉",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -352,8 +346,7 @@
       "pageNumber": 44,
       "content": "〈九　結論〉",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,

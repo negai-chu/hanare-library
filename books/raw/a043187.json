@@ -42,7 +42,9 @@
     ],
     "totalPages": 69,
     "averageCharsPerPage": 458,
-    "chapterTitles": []
+    "chapterTitles": [
+      "水鳥亭"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一匹のイワシ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -135,8 +136,7 @@
       "pageNumber": 15,
       "content": "本と鶏小屋",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -262,8 +262,7 @@
       "pageNumber": 36,
       "content": "売買",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,

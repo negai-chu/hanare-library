@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "昭和十三年一月",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -203,7 +203,7 @@
             "id": "chapter-1-section-31",
             "number": "一月三十一日（月曜）",
             "startPage": 19,
-            "endPage": 0
+            "endPage": 19
           }
         ]
       },
@@ -211,7 +211,7 @@
         "id": "chapter-2",
         "title": "昭和十三年二月",
         "startPage": 20,
-        "endPage": 0,
+        "endPage": 35,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -379,7 +379,7 @@
             "id": "chapter-2-section-28",
             "number": "二月二十八日（月曜）",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 35
           }
         ]
       },
@@ -387,7 +387,7 @@
         "id": "chapter-3",
         "title": "昭和十三年三月",
         "startPage": 36,
-        "endPage": 0,
+        "endPage": 55,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -573,7 +573,7 @@
             "id": "chapter-3-section-31",
             "number": "三月三十一日（木曜）",
             "startPage": 54,
-            "endPage": 0
+            "endPage": 55
           }
         ]
       },
@@ -581,7 +581,7 @@
         "id": "chapter-4",
         "title": "昭和十三年四月",
         "startPage": 56,
-        "endPage": 0,
+        "endPage": 73,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -761,7 +761,7 @@
             "id": "chapter-4-section-30",
             "number": "四月三十日（土曜）",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 73
           }
         ]
       },
@@ -769,7 +769,7 @@
         "id": "chapter-5",
         "title": "昭和十三年五月",
         "startPage": 74,
-        "endPage": 0,
+        "endPage": 91,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -955,7 +955,7 @@
             "id": "chapter-5-section-31",
             "number": "五月三十一日（火曜）",
             "startPage": 90,
-            "endPage": 0
+            "endPage": 91
           }
         ]
       },
@@ -963,7 +963,7 @@
         "id": "chapter-6",
         "title": "昭和十三年六月",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 108,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -1143,7 +1143,7 @@
             "id": "chapter-6-section-30",
             "number": "六月三十日（木曜）",
             "startPage": 108,
-            "endPage": 0
+            "endPage": 108
           }
         ]
       },
@@ -1151,7 +1151,7 @@
         "id": "chapter-7",
         "title": "昭和十三年七月",
         "startPage": 109,
-        "endPage": 0,
+        "endPage": 127,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -1337,7 +1337,7 @@
             "id": "chapter-7-section-31",
             "number": "七月三十一日（日曜）",
             "startPage": 126,
-            "endPage": 0
+            "endPage": 127
           }
         ]
       },
@@ -1345,7 +1345,7 @@
         "id": "chapter-8",
         "title": "昭和十三年八月",
         "startPage": 128,
-        "endPage": 0,
+        "endPage": 146,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -1531,7 +1531,7 @@
             "id": "chapter-8-section-31",
             "number": "八月三十一日（水曜）",
             "startPage": 146,
-            "endPage": 0
+            "endPage": 146
           }
         ]
       },
@@ -1539,7 +1539,7 @@
         "id": "chapter-9",
         "title": "昭和十三年九月",
         "startPage": 147,
-        "endPage": 0,
+        "endPage": 166,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -1719,7 +1719,7 @@
             "id": "chapter-9-section-30",
             "number": "九月三十日（金曜）",
             "startPage": 165,
-            "endPage": 0
+            "endPage": 166
           }
         ]
       },
@@ -1727,7 +1727,7 @@
         "id": "chapter-10",
         "title": "昭和十三年十月",
         "startPage": 167,
-        "endPage": 0,
+        "endPage": 185,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -1913,7 +1913,7 @@
             "id": "chapter-10-section-31",
             "number": "十月三十一日（月曜）",
             "startPage": 185,
-            "endPage": 0
+            "endPage": 185
           }
         ]
       },
@@ -1921,7 +1921,7 @@
         "id": "chapter-11",
         "title": "昭和十三年十一月",
         "startPage": 186,
-        "endPage": 0,
+        "endPage": 202,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -2101,7 +2101,7 @@
             "id": "chapter-11-section-30",
             "number": "十一月三十日（水曜）",
             "startPage": 202,
-            "endPage": 0
+            "endPage": 202
           }
         ]
       },

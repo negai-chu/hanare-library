@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "別後",
         "startPage": 3,
-        "endPage": 0,
+        "endPage": 25,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -83,7 +83,7 @@
             "id": "chapter-1-section-11",
             "number": "みそさざい",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 25
           }
         ]
       },
@@ -91,7 +91,7 @@
         "id": "chapter-2",
         "title": "荒野",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 65,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -235,7 +235,7 @@
             "id": "chapter-2-section-24",
             "number": "沢の螢",
             "startPage": 63,
-            "endPage": 0
+            "endPage": 65
           }
         ]
       },

@@ -36,7 +36,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 496,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本料理の要点"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "持ち味を生かす",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 9,
       "content": "料理もまた人である",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

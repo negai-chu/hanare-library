@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "旅日記",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "露都へ向かう旅日記"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 564,
-    "chapterTitles": []
+    "chapterTitles": [
+      "旅日記"
+    ]
   },
   "content": [
     {

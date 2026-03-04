@@ -30,7 +30,9 @@
     ],
     "totalPages": 25,
     "averageCharsPerPage": 481,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "三月十日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

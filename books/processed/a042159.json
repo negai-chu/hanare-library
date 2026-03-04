@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "下町",
         "startPage": 1,
-        "endPage": 25,
-        "summary": "下町の貧しい暮らし"
+        "endPage": 25
       }
     ],
     "totalPages": 25,
     "averageCharsPerPage": 473,
-    "chapterTitles": []
+    "chapterTitles": [
+      "下町"
+    ]
   },
   "content": [
     {

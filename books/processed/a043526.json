@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序言",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "商道への志と序言"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "本郷における創業時代",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -96,16 +95,15 @@
             "id": "chapter-2-section-12",
             "number": "割引券を焼く",
             "startPage": 39,
-            "endPage": 0
+            "endPage": 44
           }
-        ],
-        "summary": "本郷でのパン屋創業期"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "新宿中村屋として",
         "startPage": 45,
-        "endPage": 0,
+        "endPage": 95,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -183,16 +181,15 @@
             "id": "chapter-3-section-13",
             "number": "月餅の由来",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 95
           }
-        ],
-        "summary": "新宿中村屋への発展"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "若き人々へ",
         "startPage": 96,
-        "endPage": 0,
+        "endPage": 135,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -252,25 +249,23 @@
             "id": "chapter-4-section-10",
             "number": "店員のために学校設立",
             "startPage": 131,
-            "endPage": 0
+            "endPage": 135
           }
-        ],
-        "summary": "若い世代への訓言"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "別記",
         "startPage": 136,
-        "endPage": 0,
+        "endPage": 150,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "研成学院と往年の思い出",
             "startPage": 137,
-            "endPage": 0
+            "endPage": 150
           }
-        ],
-        "summary": "補足的な記録と逸話"
+        ]
       },
       {
         "id": "chapter-6",
@@ -434,8 +429,7 @@
             "startPage": 205,
             "endPage": 207
           }
-        ],
-        "summary": "妻黒光の商売回想"
+        ]
       }
     ],
     "totalPages": 207,

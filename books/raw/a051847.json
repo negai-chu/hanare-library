@@ -84,7 +84,9 @@
     ],
     "totalPages": 90,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地底獣国"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "プロローグ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 6,
       "content": "一、苔原《ツンドラ》と Radio",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -184,8 +184,7 @@
       "pageNumber": 16,
       "content": "二、地球の抜け穴",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -239,8 +238,7 @@
       "pageNumber": 25,
       "content": "三、コリマの泥洲",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -294,8 +292,7 @@
       "pageNumber": 34,
       "content": "四、地獄の入口",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -349,8 +346,7 @@
       "pageNumber": 43,
       "content": "五、陰険なる攻略路",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -410,8 +406,7 @@
       "pageNumber": 53,
       "content": "六、「嘆きの河《フルビユス・スーピリス》」",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -459,8 +454,7 @@
       "pageNumber": 61,
       "content": "七、千万年前の沼",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -544,8 +538,7 @@
       "pageNumber": 75,
       "content": "八、「迦摩の閨房《カーマラヤーナ》」",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -605,8 +598,7 @@
       "pageNumber": 85,
       "content": "九、‘Ай《アイ》’――地底の海",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 86,

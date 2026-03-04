@@ -54,7 +54,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 361,
-    "chapterTitles": []
+    "chapterTitles": [
+      "政治趣味の涵養"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "〔政治ほど面倒なものはない〕",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 4,
       "content": "〔政治は国民の反響なり〕",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -112,8 +112,7 @@
       "pageNumber": 9,
       "content": "〔人の心に変化を惹起したい〕",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -131,8 +130,7 @@
       "pageNumber": 12,
       "content": "〔思想の自由と政治の趣味〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -150,8 +148,7 @@
       "pageNumber": 15,
       "content": "〔政治の根本は人の心を知ること〕",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

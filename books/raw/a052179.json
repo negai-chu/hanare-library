@@ -60,7 +60,9 @@
     ],
     "totalPages": 27,
     "averageCharsPerPage": 531,
-    "chapterTitles": []
+    "chapterTitles": [
+      "千里駒後日譚"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "（一回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -111,8 +112,7 @@
       "pageNumber": 8,
       "content": "（二回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -124,8 +124,7 @@
       "pageNumber": 10,
       "content": "（三回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -161,8 +160,7 @@
       "pageNumber": 16,
       "content": "（四回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -192,8 +190,7 @@
       "pageNumber": 21,
       "content": "（五回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -211,8 +208,7 @@
       "pageNumber": 24,
       "content": "（六回）",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,

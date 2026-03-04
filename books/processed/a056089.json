@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "〔序幕〕",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-2",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-3",
             "number": "第三場　冬の夜の街",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 3
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-3",
         "title": "瞼の母",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -71,7 +71,7 @@
     "chapterTitles": [
       "〔序幕〕",
       "〔大詰〕",
-      ""
+      "瞼の母"
     ]
   },
   "content": [

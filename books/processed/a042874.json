@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "推理小説について",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "戦後推理小説の感想"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 535,
-    "chapterTitles": []
+    "chapterTitles": [
+      "推理小説について"
+    ]
   },
   "content": [
     {

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "草廬《そうろ》の剣",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 26
           }
         ]
       },
@@ -73,7 +73,7 @@
         "id": "chapter-2",
         "title": "弓の家",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 47,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -103,7 +103,7 @@
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 42,
-            "endPage": 0
+            "endPage": 47
           }
         ]
       },
@@ -111,7 +111,7 @@
         "id": "chapter-3",
         "title": "求道の門",
         "startPage": 48,
-        "endPage": 0,
+        "endPage": 68,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -141,7 +141,7 @@
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 64,
-            "endPage": 0
+            "endPage": 68
           }
         ]
       },
@@ -149,7 +149,7 @@
         "id": "chapter-4",
         "title": "石のふね",
         "startPage": 69,
-        "endPage": 0,
+        "endPage": 86,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -185,7 +185,7 @@
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 85,
-            "endPage": 0
+            "endPage": 86
           }
         ]
       },
@@ -193,7 +193,7 @@
         "id": "chapter-5",
         "title": "一剣治天下",
         "startPage": 87,
-        "endPage": 0,
+        "endPage": 99,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -211,7 +211,7 @@
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 96,
-            "endPage": 0
+            "endPage": 99
           }
         ]
       },
@@ -219,7 +219,7 @@
         "id": "chapter-6",
         "title": "陽なた竹",
         "startPage": 100,
-        "endPage": 0,
+        "endPage": 111,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -243,7 +243,7 @@
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 110,
-            "endPage": 0
+            "endPage": 111
           }
         ]
       },

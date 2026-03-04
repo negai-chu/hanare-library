@@ -36,7 +36,9 @@
     ],
     "totalPages": 47,
     "averageCharsPerPage": 563,
-    "chapterTitles": []
+    "chapterTitles": [
+      "建国の事情と万世一系の思想"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 5,
       "content": "一　上代における国家統一の情勢",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -153,8 +154,7 @@
       "pageNumber": 19,
       "content": "二　万世一系の皇室という観念の生じまた発達した歴史的事情",
       "characters": 28,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,

@@ -84,7 +84,9 @@
     ],
     "totalPages": 52,
     "averageCharsPerPage": 495,
-    "chapterTitles": []
+    "chapterTitles": [
+      "我らの哲学"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "一　はしがき",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 5,
       "content": "二　出発点",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -160,8 +160,7 @@
       "pageNumber": 12,
       "content": "三　方法",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -197,8 +196,7 @@
       "pageNumber": 18,
       "content": "四　用心",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -228,8 +226,7 @@
       "pageNumber": 23,
       "content": "五　人間",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -253,8 +250,7 @@
       "pageNumber": 27,
       "content": "六　霊魂",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -290,8 +286,7 @@
       "pageNumber": 33,
       "content": "七　宇宙",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -321,8 +316,7 @@
       "pageNumber": 38,
       "content": "八　神",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -346,8 +340,7 @@
       "pageNumber": 42,
       "content": "九　社会",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -389,8 +382,7 @@
       "pageNumber": 49,
       "content": "一〇　結論",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,

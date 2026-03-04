@@ -17,38 +17,35 @@
         "id": "chapter-1",
         "title": "１",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "通夜の始まり"
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "２",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "第一話　川波大尉の話",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 16
           }
-        ],
-        "summary": "第一の怪談"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "３",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 23,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "第二話　星宮理学士の話",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 23
           }
-        ],
-        "summary": "第二の怪談"
+        ]
       },
       {
         "id": "chapter-4",
@@ -62,8 +59,7 @@
             "startPage": 25,
             "endPage": 36
           }
-        ],
-        "summary": "軍医の戦場怪談"
+        ]
       }
     ],
     "totalPages": 36,

@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "春夜",
         "startPage": 1,
-        "endPage": 5,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "詩神",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "詩人",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 5,
-    "averageCharsPerPage": 48,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 80,
+    "chapterTitles": [
+      "春夜"
+    ]
   },
   "content": [
     {
@@ -48,26 +50,12 @@
     },
     {
       "pageNumber": 2,
-      "content": "詩神",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 3,
-      "content": "　うたびとよ、こといだけ、くちふれよ。\n\nはつざきのはなさうび、さきいでて、\n\nこのゆふべかぜぬるし、はるはきぬ。\n\nあけぼのを、まつやかのにはたたき、\n\nあさみどり、わかえだにうつりなく。\n\nうたびとよ、こといだけ、くちふれよ。",
-      "characters": 115,
+      "content": "　詩神\n\nうたびとよ、こといだけ、くちふれよ。\n\nはつざきのはなさうび、さきいでて、\n\nこのゆふべかぜぬるし、はるはきぬ。\n\nあけぼのを、まつやかのにはたたき、\n\nあさみどり、わかえだにうつりなく。\n\nうたびとよ、こといだけ、くちふれよ。詩人",
+      "characters": 121,
       "ruby": []
     },
     {
-      "pageNumber": 4,
-      "content": "詩人",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
+      "pageNumber": 3,
       "content": "たにまのけしきさとくらく、\n\nおぼろにかすむはざまかな。\n\nかつきさうぞくやさかたの\n\nもりのあたりをうかびでて、\n\nいまはたのべをすべりくる\n\nすあしのまへに、はなあかし。\n\nゆめか、うつゝか、かつみえて、\n\nかつほろびぬるたゝずまひ。",
       "characters": 119,
       "ruby": []

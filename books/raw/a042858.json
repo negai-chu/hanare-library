@@ -36,7 +36,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 279,
-    "chapterTitles": []
+    "chapterTitles": [
+      "貞操の幅と限界"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 5,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

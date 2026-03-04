@@ -54,7 +54,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 185,
-    "chapterTitles": []
+    "chapterTitles": [
+      "銀座は昔からハイカラな所"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 3,
       "content": "伊太利風景の見世物",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -87,8 +88,7 @@
       "pageNumber": 5,
       "content": "西洋蝋燭",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 7,
       "content": "舶来屋",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -113,8 +112,7 @@
       "pageNumber": 9,
       "content": "オムニバス",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -126,8 +124,7 @@
       "pageNumber": 11,
       "content": "釆女ヶ原で風船",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 373,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地震雑感"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　地震の概念",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "二　震源",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "三　地震の源因",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -125,8 +124,7 @@
       "pageNumber": 12,
       "content": "四　地震の予報",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "詩集はしがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "幼き歌",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 8,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-2-section-4",
             "number": "嫁ぎゆく人に",
             "startPage": 8,
-            "endPage": 0
+            "endPage": 8
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-3",
         "title": "同心草",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 11,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -67,7 +67,7 @@
             "id": "chapter-3-section-2",
             "number": "うぐひす",
             "startPage": 11,
-            "endPage": 0
+            "endPage": 11
           }
         ]
       },
@@ -75,7 +75,7 @@
         "id": "chapter-4",
         "title": "寒蝉鈔",
         "startPage": 12,
-        "endPage": 0,
+        "endPage": 17,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -87,7 +87,7 @@
             "id": "chapter-4-section-2",
             "number": "秋の女よ",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 17
           }
         ]
       },
@@ -95,7 +95,7 @@
         "id": "chapter-5",
         "title": "消閑雜詩",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 54,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -245,7 +245,7 @@
             "id": "chapter-5-section-25",
             "number": "ひそかに己が詩集に題す",
             "startPage": 54,
-            "endPage": 0
+            "endPage": 54
           }
         ]
       },

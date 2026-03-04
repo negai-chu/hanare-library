@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "起筆の言葉",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "母の思い出に――序にかえて",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-3",
         "title": "故郷を離れたころ",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-3-section-3",
             "number": "東京の印象",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 16
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-4",
         "title": "私の生家",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 37,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -103,7 +103,7 @@
             "id": "chapter-4-section-8",
             "number": "兄嫁の思い出",
             "startPage": 35,
-            "endPage": 0
+            "endPage": 37
           }
         ]
       },
@@ -111,7 +111,7 @@
         "id": "chapter-5",
         "title": "布川時代",
         "startPage": 38,
-        "endPage": 0,
+        "endPage": 60,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -165,7 +165,7 @@
             "id": "chapter-5-section-9",
             "number": "お茶の舟",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 60
           }
         ]
       },
@@ -173,7 +173,7 @@
         "id": "chapter-6",
         "title": "辻川の話",
         "startPage": 61,
-        "endPage": 0,
+        "endPage": 141,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -377,7 +377,7 @@
             "id": "chapter-6-section-34",
             "number": "匿名のこと",
             "startPage": 138,
-            "endPage": 0
+            "endPage": 141
           }
         ]
       },
@@ -385,7 +385,7 @@
         "id": "chapter-7",
         "title": "兄弟のこと",
         "startPage": 142,
-        "endPage": 0,
+        "endPage": 179,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -475,7 +475,7 @@
             "id": "chapter-7-section-15",
             "number": "末弟松岡映丘",
             "startPage": 177,
-            "endPage": 0
+            "endPage": 179
           }
         ]
       },
@@ -483,7 +483,7 @@
         "id": "chapter-8",
         "title": "文学の思い出",
         "startPage": 180,
-        "endPage": 0,
+        "endPage": 229,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -615,7 +615,7 @@
             "id": "chapter-8-section-22",
             "number": "ピネロの全集",
             "startPage": 226,
-            "endPage": 0
+            "endPage": 229
           }
         ]
       },
@@ -623,7 +623,7 @@
         "id": "chapter-9",
         "title": "学生生活",
         "startPage": 230,
-        "endPage": 0,
+        "endPage": 258,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -695,7 +695,7 @@
             "id": "chapter-9-section-12",
             "number": "柳井子の弟",
             "startPage": 255,
-            "endPage": 0
+            "endPage": 258
           }
         ]
       },
@@ -703,7 +703,7 @@
         "id": "chapter-10",
         "title": "官界に入って",
         "startPage": 259,
-        "endPage": 0,
+        "endPage": 292,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -787,7 +787,7 @@
             "id": "chapter-10-section-14",
             "number": "イタリア・子安貝",
             "startPage": 290,
-            "endPage": 0
+            "endPage": 292
           }
         ]
       },
@@ -795,7 +795,7 @@
         "id": "chapter-11",
         "title": "柳田家のこと",
         "startPage": 293,
-        "endPage": 0,
+        "endPage": 316,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -855,7 +855,7 @@
             "id": "chapter-11-section-10",
             "number": "武士気質",
             "startPage": 314,
-            "endPage": 0
+            "endPage": 316
           }
         ]
       },
@@ -863,7 +863,7 @@
         "id": "chapter-12",
         "title": "交友録",
         "startPage": 317,
-        "endPage": 0,
+        "endPage": 347,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -941,7 +941,7 @@
             "id": "chapter-12-section-13",
             "number": "オシラサマ",
             "startPage": 344,
-            "endPage": 0
+            "endPage": 347
           }
         ]
       },
@@ -949,7 +949,7 @@
         "id": "chapter-13",
         "title": "私の学問",
         "startPage": 348,
-        "endPage": 0,
+        "endPage": 460,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -1243,7 +1243,7 @@
             "id": "chapter-13-section-49",
             "number": "来世観",
             "startPage": 457,
-            "endPage": 0
+            "endPage": 460
           }
         ]
       },

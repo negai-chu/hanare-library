@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "病中記",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "病中の日記と回復"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 395,
-    "chapterTitles": []
+    "chapterTitles": [
+      "病中記"
+    ]
   },
   "content": [
     {

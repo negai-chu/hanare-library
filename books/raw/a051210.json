@@ -36,7 +36,9 @@
     ],
     "totalPages": 22,
     "averageCharsPerPage": 569,
-    "chapterTitles": []
+    "chapterTitles": [
+      "両座の「山門」評"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "都座（明治二十九年二月）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 9,
       "content": "明治座（明治二十九年三月）",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

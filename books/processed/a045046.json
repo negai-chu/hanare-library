@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "春の海のうた",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "春の海を歌う詩"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 37,
-    "chapterTitles": []
+    "chapterTitles": [
+      "春の海のうた"
+    ]
   },
   "content": [
     {

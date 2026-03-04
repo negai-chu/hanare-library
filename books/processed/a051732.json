@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 77
       },
       {
         "id": "chapter-2",
         "title": "古事記　中の卷",
         "startPage": 78,
-        "endPage": 0,
+        "endPage": 165,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-2-section-7",
             "number": "七、應神天皇",
             "startPage": 145,
-            "endPage": 0
+            "endPage": 165
           }
         ]
       },

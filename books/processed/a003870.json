@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "竹",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "竹の真の美しさ"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 125,
-    "chapterTitles": []
+    "chapterTitles": [
+      "竹"
+    ]
   },
   "content": [
     {

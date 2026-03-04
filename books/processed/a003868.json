@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "夏",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "鎌倉の夏の暮らし"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 146,
-    "chapterTitles": []
+    "chapterTitles": [
+      "夏"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "十八番料理集",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "家庭料理の献立"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 412,
-    "chapterTitles": []
+    "chapterTitles": [
+      "十八番料理集"
+    ]
   },
   "content": [
     {

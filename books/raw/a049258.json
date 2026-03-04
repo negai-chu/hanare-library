@@ -42,7 +42,9 @@
     ],
     "totalPages": 213,
     "averageCharsPerPage": 256,
-    "chapterTitles": []
+    "chapterTitles": [
+      "其中日記"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 4,
       "content": "七月廿四日　五日　六日",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -903,8 +904,7 @@
       "pageNumber": 143,
       "content": "十一月七日　八日　九日　十日　十一日",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -916,8 +916,7 @@
       "pageNumber": 145,
       "content": "十一月十二日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 146,

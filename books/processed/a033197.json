@@ -17,267 +17,231 @@
         "id": "chapter-1",
         "title": "火薬庫《かやくこ》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 20,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 5,
-            "endPage": 9,
-            "summary": "怪談会の始まり"
+            "endPage": 9
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 10,
-            "endPage": 13,
-            "summary": "事件の核心"
+            "endPage": 13
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 14,
-            "endPage": 0,
-            "summary": "謎の解明"
+            "endPage": 20
           }
-        ],
-        "summary": "火薬庫にまつわる怪事件"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "剣魚《けんぎょ》",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 48,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 22,
-            "endPage": 29,
-            "summary": "海辺の異変"
+            "endPage": 29
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 30,
-            "endPage": 37,
-            "summary": "魚の怪異"
+            "endPage": 37
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 38,
-            "endPage": 0,
-            "summary": "真相の究明"
+            "endPage": 48
           }
-        ],
-        "summary": "剣魚をめぐる不思議"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "医師《いし》の家《いえ》",
         "startPage": 49,
-        "endPage": 0,
-        "summary": "医師の家の秘密"
+        "endPage": 62
       },
       {
         "id": "chapter-4",
         "title": "椰子《やし》の実《み》",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 90,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 64,
-            "endPage": 71,
-            "summary": "奇妙な発見"
+            "endPage": 71
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 72,
-            "endPage": 77,
-            "summary": "推理の展開"
+            "endPage": 77
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 78,
-            "endPage": 0,
-            "summary": "事件の決着"
+            "endPage": 90
           }
-        ],
-        "summary": "椰子の実の謎"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "山《やま》の秘密《ひみつ》",
         "startPage": 91,
-        "endPage": 0,
+        "endPage": 126,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 92,
-            "endPage": 99,
-            "summary": "山への誘い"
+            "endPage": 99
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 100,
-            "endPage": 107,
-            "summary": "不穏な気配"
+            "endPage": 107
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 108,
-            "endPage": 115,
-            "summary": "秘密の露見"
+            "endPage": 115
           },
           {
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 116,
-            "endPage": 0,
-            "summary": "事件の結末"
+            "endPage": 126
           }
-        ],
-        "summary": "山中の隠された秘密"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "蛔虫《かいちゅう》",
         "startPage": 127,
-        "endPage": 0,
-        "summary": "蛔虫にまつわる怪談"
+        "endPage": 141
       },
       {
         "id": "chapter-7",
         "title": "有喜世新聞《うきよしんぶん》の話《はなし》",
         "startPage": 142,
-        "endPage": 0,
+        "endPage": 170,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 143,
-            "endPage": 148,
-            "summary": "明治の新聞事情"
+            "endPage": 148
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 149,
-            "endPage": 154,
-            "summary": "記事の裏側"
+            "endPage": 154
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 155,
-            "endPage": 161,
-            "summary": "新聞の変遷"
+            "endPage": 161
           },
           {
             "id": "chapter-7-section-4",
             "number": "四",
             "startPage": 162,
-            "endPage": 0,
-            "summary": "時代の証言"
+            "endPage": 170
           }
-        ],
-        "summary": "新聞にまつわる逸話"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "娘義太夫《むすめぎだゆう》",
         "startPage": 171,
-        "endPage": 0,
-        "summary": "娘義太夫の世界"
+        "endPage": 185
       },
       {
         "id": "chapter-9",
         "title": "穴《あな》",
         "startPage": 186,
-        "endPage": 0,
+        "endPage": 206,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 187,
-            "endPage": 192,
-            "summary": "不思議な穴の発見"
+            "endPage": 192
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 193,
-            "endPage": 198,
-            "summary": "穴の正体"
+            "endPage": 198
           },
           {
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 199,
-            "endPage": 0,
-            "summary": "怪異の顛末"
+            "endPage": 206
           }
-        ],
-        "summary": "穴にまつわる怪異譚"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "狸《たぬき》の皮《かわ》",
         "startPage": 207,
-        "endPage": 0,
-        "summary": "狸の皮の因縁話"
+        "endPage": 222
       },
       {
         "id": "chapter-11",
         "title": "狸尼《たぬきあま》",
         "startPage": 223,
-        "endPage": 0,
+        "endPage": 253,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 224,
-            "endPage": 231,
-            "summary": "尼僧の出現"
+            "endPage": 231
           },
           {
             "id": "chapter-11-section-2",
             "number": "二",
             "startPage": 232,
-            "endPage": 238,
-            "summary": "怪しい振る舞い"
+            "endPage": 238
           },
           {
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 239,
-            "endPage": 244,
-            "summary": "正体の疑惑"
+            "endPage": 244
           },
           {
             "id": "chapter-11-section-4",
             "number": "四",
             "startPage": 245,
-            "endPage": 0,
-            "summary": "狸の正体"
+            "endPage": 253
           }
-        ],
-        "summary": "狸尼の怪しい行状"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "百年前《ひゃくねんぜん》の黒手組《くろてぐみ》",
         "startPage": 254,
-        "endPage": 264,
-        "summary": "百年前の秘密結社"
+        "endPage": 264
       }
     ],
     "totalPages": 264,

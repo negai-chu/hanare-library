@@ -42,7 +42,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 356,
-    "chapterTitles": []
+    "chapterTitles": [
+      "杉田玄白"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "江戸時代の医学",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "杉田玄白の生涯",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -106,8 +106,7 @@
       "pageNumber": 10,
       "content": "解体新書",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

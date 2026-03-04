@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "爬虫館事件",
         "startPage": 1,
-        "endPage": 41,
-        "summary": "爬虫館の探偵調査"
+        "endPage": 41
       }
     ],
     "totalPages": 41,
     "averageCharsPerPage": 550,
-    "chapterTitles": []
+    "chapterTitles": [
+      "爬虫館事件"
+    ]
   },
   "content": [
     {

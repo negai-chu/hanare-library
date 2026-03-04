@@ -48,7 +48,9 @@
     ],
     "totalPages": 23,
     "averageCharsPerPage": 425,
-    "chapterTitles": []
+    "chapterTitles": [
+      "二葉亭追録"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　二葉亭が存命だったら",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 9,
       "content": "二　二葉亭は実は旧人",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "三　二葉亭は長生きしても終生煩悶の人",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -179,8 +178,7 @@
       "pageNumber": 21,
       "content": "四　二葉亭は失敗の英雄",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

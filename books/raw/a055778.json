@@ -30,7 +30,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 362,
-    "chapterTitles": []
+    "chapterTitles": [
+      "その一週間"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 5,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

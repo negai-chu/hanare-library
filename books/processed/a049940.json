@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "緒言",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "獨文和譯",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 146,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "249P.201",
             "startPage": 53,
-            "endPage": 0
+            "endPage": 146
           }
         ]
       },

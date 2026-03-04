@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "子供たちへの前書き"
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "第一章　十の話",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 24,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -84,16 +83,15 @@
             "id": "chapter-2-section-10",
             "number": "一〇　お寺の小僧さん",
             "startPage": 23,
-            "endPage": 0
+            "endPage": 24
           }
-        ],
-        "summary": "十の小話集"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二章　母を思う",
         "startPage": 25,
-        "endPage": 0,
+        "endPage": 37,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -165,16 +163,15 @@
             "id": "chapter-3-section-12",
             "number": "一二　母の上京",
             "startPage": 35,
-            "endPage": 0
+            "endPage": 37
           }
-        ],
-        "summary": "母への想い"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三章　二つの雷さまその他",
         "startPage": 38,
-        "endPage": 0,
+        "endPage": 57,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -212,14 +209,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "雷さまの話ほか"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第四章　教師はお友だちの中にも",
         "startPage": 58,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -279,16 +275,15 @@
             "id": "chapter-5-section-10",
             "number": "一〇　『小公子』の訳者",
             "startPage": 68,
-            "endPage": 0
+            "endPage": 69
           }
-        ],
-        "summary": "友の中の教師"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第五章　宮城野《みやぎの》",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 87,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -372,16 +367,15 @@
             "id": "chapter-6-section-14",
             "number": "一四　朝",
             "startPage": 85,
-            "endPage": 0
+            "endPage": 87
           }
-        ],
-        "summary": "宮城野の思い出"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第六章　姉",
         "startPage": 88,
-        "endPage": 0,
+        "endPage": 101,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -441,16 +435,15 @@
             "id": "chapter-7-section-10",
             "number": "一〇　木曾のはえ",
             "startPage": 100,
-            "endPage": 0
+            "endPage": 101
           }
-        ],
-        "summary": "姉の肖像"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "第七章　浅間のふもと",
         "startPage": 102,
-        "endPage": 0,
+        "endPage": 120,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -516,16 +509,15 @@
             "id": "chapter-8-section-11",
             "number": "一一　書物は野にも川原にも",
             "startPage": 119,
-            "endPage": 0
+            "endPage": 120
           }
-        ],
-        "summary": "浅間山麓の日々"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "第八章　十二の話",
         "startPage": 121,
-        "endPage": 0,
+        "endPage": 136,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -597,17 +589,15 @@
             "id": "chapter-9-section-12",
             "number": "一二　ほおずき",
             "startPage": 136,
-            "endPage": 0
+            "endPage": 136
           }
-        ],
-        "summary": "十二の小話集"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "『力餅』の後に",
         "startPage": 137,
-        "endPage": 138,
-        "summary": "力餅の後日譚"
+        "endPage": 138
       }
     ],
     "totalPages": 138,

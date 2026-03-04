@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "著者小伝",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "直木三十五の自伝的小伝"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 211,
-    "chapterTitles": []
+    "chapterTitles": [
+      "著者小伝"
+    ]
   },
   "content": [
     {

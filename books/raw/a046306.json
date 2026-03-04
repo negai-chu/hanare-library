@@ -30,7 +30,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 431,
-    "chapterTitles": []
+    "chapterTitles": [
+      "道なき道"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 5,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

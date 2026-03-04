@@ -42,7 +42,9 @@
     ],
     "totalPages": 33,
     "averageCharsPerPage": 514,
-    "chapterTitles": []
+    "chapterTitles": [
+      "絶景万国博覧会"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一、尾彦楼《おひころう》の寮に住む三人のこと",
       "characters": 22,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 12,
       "content": "二、傾城釘抜香《けいせいくぎぬきこう》のこと",
       "characters": 22,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -190,8 +190,7 @@
       "pageNumber": 24,
       "content": "三、老遊女観覧車を買い切ること",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,

@@ -30,7 +30,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 561,
-    "chapterTitles": []
+    "chapterTitles": [
+      "群集の人"
+    ]
   },
   "content": [
     {
@@ -134,8 +136,7 @@
       "pageNumber": 17,
       "content": "訳注",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

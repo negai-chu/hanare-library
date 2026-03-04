@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "柿",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "柿の木に囲まれた村"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 295,
-    "chapterTitles": []
+    "chapterTitles": [
+      "柿"
+    ]
   },
   "content": [
     {

@@ -144,7 +144,9 @@
     ],
     "totalPages": 46,
     "averageCharsPerPage": 143,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -164,8 +166,7 @@
       "pageNumber": 3,
       "content": "一月三日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -177,8 +178,7 @@
       "pageNumber": 5,
       "content": "一月十一日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -190,8 +190,7 @@
       "pageNumber": 7,
       "content": "一月十四日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -203,8 +202,7 @@
       "pageNumber": 9,
       "content": "一月十五日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -216,8 +214,7 @@
       "pageNumber": 11,
       "content": "一月十八日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -229,8 +226,7 @@
       "pageNumber": 13,
       "content": "一月十九日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -242,8 +238,7 @@
       "pageNumber": 15,
       "content": "一月二十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -255,8 +250,7 @@
       "pageNumber": 17,
       "content": "一月二十一日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -274,8 +268,7 @@
       "pageNumber": 20,
       "content": "九月五日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -287,8 +280,7 @@
       "pageNumber": 22,
       "content": "六日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -312,8 +304,7 @@
       "pageNumber": 26,
       "content": "八日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -325,8 +316,7 @@
       "pageNumber": 28,
       "content": "九日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -338,8 +328,7 @@
       "pageNumber": 30,
       "content": "十日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -351,8 +340,7 @@
       "pageNumber": 32,
       "content": "十一日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -364,8 +352,7 @@
       "pageNumber": 34,
       "content": "十二日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -383,8 +370,7 @@
       "pageNumber": 37,
       "content": "十三日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -396,8 +382,7 @@
       "pageNumber": 39,
       "content": "十四日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -409,8 +394,7 @@
       "pageNumber": 41,
       "content": "十五日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -422,8 +406,7 @@
       "pageNumber": 43,
       "content": "十六日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -435,8 +418,7 @@
       "pageNumber": 45,
       "content": "十七日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,

@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "物語の序章"
+        "endPage": 9
       },
       {
         "id": "chapter-2",
         "title": "乱国篇",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 82,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -38,14 +37,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "乱世の時代背景"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "紅玉篇",
         "startPage": 83,
-        "endPage": 0,
+        "endPage": 224,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -83,14 +81,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "紅玉をめぐる因縁"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "登岳篇",
         "startPage": 225,
-        "endPage": 0,
+        "endPage": 322,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -122,14 +119,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "叡山への修行の道"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "去来篇",
         "startPage": 323,
-        "endPage": 0,
+        "endPage": 475,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -177,16 +173,15 @@
             "id": "chapter-5-section-8",
             "number": "古いもの新しいもの",
             "startPage": 457,
-            "endPage": 0
+            "endPage": 475
           }
-        ],
-        "summary": "去来する迷いと悟り"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "女人篇",
         "startPage": 476,
-        "endPage": 0,
+        "endPage": 590,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -230,14 +225,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "女人との邂逅"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "大盗篇",
         "startPage": 591,
-        "endPage": 0,
+        "endPage": 655,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -263,14 +257,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "大盗との対峙"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "恋愛篇",
         "startPage": 656,
-        "endPage": 0,
+        "endPage": 756,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -308,14 +301,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "恋愛と信仰の葛藤"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "同車篇",
         "startPage": 757,
-        "endPage": 0,
+        "endPage": 809,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -335,14 +327,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "師弟同車の旅"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "法敵篇",
         "startPage": 810,
-        "endPage": 0,
+        "endPage": 924,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -378,16 +369,15 @@
             "id": "chapter-10-section-6",
             "number": "風やまず",
             "startPage": 894,
-            "endPage": 0
+            "endPage": 924
           }
-        ],
-        "summary": "法敵との闘い"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "悪人篇",
         "startPage": 925,
-        "endPage": 0,
+        "endPage": 1055,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -437,14 +427,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "悪人正機の思想"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "氷雪篇",
         "startPage": 1056,
-        "endPage": 0,
+        "endPage": 1236,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -528,10 +517,9 @@
             "id": "chapter-12-section-14",
             "number": "春は南へ",
             "startPage": 1221,
-            "endPage": 0
+            "endPage": 1236
           }
-        ],
-        "summary": "氷雪の中の布教"
+        ]
       },
       {
         "id": "chapter-13",
@@ -581,8 +569,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "田歌の里での暮らし"
+        ]
       }
     ],
     "totalPages": 1361,

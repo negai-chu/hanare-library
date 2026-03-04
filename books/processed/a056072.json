@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -115,7 +115,7 @@
         "id": "chapter-2",
         "title": "第二章",
         "startPage": 72,
-        "endPage": 0,
+        "endPage": 181,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -253,7 +253,7 @@
             "id": "chapter-2-section-23",
             "number": "一死再生",
             "startPage": 175,
-            "endPage": 0
+            "endPage": 181
           }
         ]
       },
@@ -261,7 +261,7 @@
         "id": "chapter-3",
         "title": "第三章",
         "startPage": 182,
-        "endPage": 0,
+        "endPage": 265,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -357,7 +357,7 @@
             "id": "chapter-3-section-16",
             "number": "日傘と日傘",
             "startPage": 254,
-            "endPage": 0
+            "endPage": 265
           }
         ]
       },
@@ -365,7 +365,7 @@
         "id": "chapter-4",
         "title": "第四章",
         "startPage": 266,
-        "endPage": 0,
+        "endPage": 343,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -451,7 +451,7 @@
         "id": "chapter-5",
         "title": "第五章",
         "startPage": 344,
-        "endPage": 0,
+        "endPage": 415,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -549,7 +549,7 @@
         "id": "chapter-6",
         "title": "第六章",
         "startPage": 416,
-        "endPage": 0,
+        "endPage": 473,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -627,7 +627,7 @@
             "id": "chapter-6-section-13",
             "number": "彼女の決戦",
             "startPage": 470,
-            "endPage": 0
+            "endPage": 473
           }
         ]
       },

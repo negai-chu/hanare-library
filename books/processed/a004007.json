@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "私の愛読書",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "愛読書二冊の紹介"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 152,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私の愛読書"
+    ]
   },
   "content": [
     {

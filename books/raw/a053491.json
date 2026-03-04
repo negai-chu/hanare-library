@@ -36,7 +36,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 379,
-    "chapterTitles": []
+    "chapterTitles": [
+      "アラスカの氷河"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "アラスカ氷河の特徴",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 5,
       "content": "マラスピーナ氷河",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

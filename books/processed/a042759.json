@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "虹猫の話",
         "startPage": 1,
-        "endPage": 9,
-        "summary": "お伽の国から来た猫"
+        "endPage": 9
       }
     ],
     "totalPages": 9,
     "averageCharsPerPage": 473,
-    "chapterTitles": []
+    "chapterTitles": [
+      "虹猫の話"
+    ]
   },
   "content": [
     {

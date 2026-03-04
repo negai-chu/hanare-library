@@ -16,72 +16,65 @@
       {
         "id": "chapter-1",
         "title": "カハイイ　山羊サン",
-        "startPage": 1,
-        "endPage": 18,
+        "startPage": 3,
+        "endPage": 11,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3,
-            "summary": "八つになった山羊さん"
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
-            "startPage": 4,
-            "endPage": 5,
-            "summary": "山羊さんの日常"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
-            "startPage": 6,
-            "endPage": 7,
-            "summary": "お友達との遊び"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
-            "startPage": 8,
-            "endPage": 9,
-            "summary": "ちょっとした冒険"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
-            "startPage": 10,
-            "endPage": 11,
-            "summary": "困った出来事"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
-            "startPage": 12,
-            "endPage": 13,
-            "summary": "周りの助け"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
-            "startPage": 14,
-            "endPage": 15,
-            "summary": "学びと成長"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
-            "startPage": 16,
-            "endPage": 18,
-            "summary": "山羊さんの幸せ"
+            "startPage": 1,
+            "endPage": 1
           }
-        ],
-        "summary": "可愛い山羊さんの成長記"
+        ]
       }
     ],
-    "totalPages": 18,
-    "averageCharsPerPage": 36,
-    "chapterTitles": []
+    "totalPages": 11,
+    "averageCharsPerPage": 59,
+    "chapterTitles": [
+      "カハイイ　山羊サン"
+    ]
   },
   "content": [
     {
@@ -93,110 +86,61 @@
     },
     {
       "pageNumber": 2,
-      "content": "一",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　一\n\nカハイイ　山羊《ヤギ》サン　ハ\n\nオ年ガ　八ツ　ニ\n\nナツタノ。\n\nオ母サン　ニ\n\nツレラレテ\n\n学校ヘ行ツタノヨ。\n\n動物学校\n\nヘネ。二",
+      "characters": 74,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　カハイイ　山羊《ヤギ》サン　ハ\n\nオ年ガ　八ツ　ニ\n\nナツタノ。\n\nオ母サン　ニ\n\nツレラレテ\n\n学校ヘ行ツタノヨ。\n\n動物学校\n\nヘネ。",
+      "content": "カハイイ　山羊サン",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 4,
+      "content": "　ハ\n\nオヒゲ　ガ\n\n生エテタノ。\n\nソレヲ　見テ\n\nミンナ　ガ\n\n笑ツタ　ノヨ。\n\n山羊サン　ハ\n\nトテモ　恥《ハヅ》カシカツタワ。\n　三",
       "characters": 70,
       "ruby": []
     },
     {
-      "pageNumber": 4,
-      "content": "二",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
       "pageNumber": 5,
-      "content": "カハイイ　山羊サン　ハ\n\nオヒゲ　ガ\n\n生エテタノ。\n\nソレヲ　見テ\n\nミンナ　ガ\n\n笑ツタ　ノヨ。\n\n山羊サン　ハ\n\nトテモ　恥《ハヅ》カシカツタワ。",
-      "characters": 76,
+      "content": "オ友達　ノ　オ猫《ネコ》サン　ガ\n\nハサミ　デ　切リナサイ　ト\n\nイツタノ。\n\n山羊サン　ハ\n\nオヒゲ　ヲ\n\nチヨキン　ト\n\n切ツタノ。\n\nオ机ノ　カゲデネ。四",
+      "characters": 80,
       "ruby": []
     },
     {
       "pageNumber": 6,
-      "content": "三",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
-      "content": "オ友達　ノ　オ猫《ネコ》サン　ガ\n\nハサミ　デ　切リナサイ　ト\n\nイツタノ。\n\n山羊サン　ハ\n\nオヒゲ　ヲ\n\nチヨキン　ト\n\n切ツタノ。\n\nオ机ノ　カゲデネ。",
+      "content": "ヒゲナシ　ニ\n\nナツテ\n\nオウチ　ヘ\n\nカヘツテ　来タラ\n\nオ母サン　ハ\n\nオドロイテ\n\n山羊サン　ヲ\n\n叱《シカ》ツタ　ケド\n\n山羊サン　ハ平気ナ　顔ヨ。五",
       "characters": 79,
       "ruby": []
     },
     {
-      "pageNumber": 8,
-      "content": "四",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
-      "content": "ヒゲナシ　ニ\n\nナツテ\n\nオウチ　ヘ\n\nカヘツテ　来タラ\n\nオ母サン　ハ\n\nオドロイテ\n\n山羊サン　ヲ\n\n叱《シカ》ツタ　ケド\n\n山羊サン　ハ平気ナ　顔ヨ。",
-      "characters": 78,
+      "pageNumber": 7,
+      "content": "オ母サン　ハ　手紙ヲ\n\n出シタノ。\n\n親類中　ノ\n\n山羊サンタチ　ヘ\n\n大事件、スグニ\n\n来テクダサイ　トネ。\n\nミンナ　オドロイテ\n\nトコトコ　走ツテ\n\n来タノ。六",
+      "characters": 83,
       "ruby": []
     },
     {
-      "pageNumber": 10,
-      "content": "五",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 11,
-      "content": "オ母サン　ハ　手紙ヲ\n\n出シタノ。\n\n親類中　ノ\n\n山羊サンタチ　ヘ\n\n大事件、スグニ\n\n来テクダサイ　トネ。\n\nミンナ　オドロイテ\n\nトコトコ　走ツテ\n\n来タノ。",
+      "pageNumber": 8,
+      "content": "ヒゲナシ山羊サン　ヲ\n\n見テ\n\nミンナ　オコルヤラ、\n\n泣クヤラ\n\n大ヘン　ナ　サワギニ\n\nナツタノ。\n\nデモ　ドウシテヨイヤラ\n\nタメイキ　ヲ　ツク\n\nバカリ。七",
       "characters": 82,
       "ruby": []
     },
     {
-      "pageNumber": 12,
-      "content": "六",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 13,
-      "content": "ヒゲナシ山羊サン　ヲ\n\n見テ\n\nミンナ　オコルヤラ、\n\n泣クヤラ\n\n大ヘン　ナ　サワギニ\n\nナツタノ。\n\nデモ　ドウシテヨイヤラ\n\nタメイキ　ヲ　ツク\n\nバカリ。",
-      "characters": 81,
+      "pageNumber": 9,
+      "content": "オ母サン　ハ\n\n仕方　ナク\n\nミンナ　カラ\n\nオヒゲ　ヲネ\n\n三本ヅツ\n\nモラツタノ。\n\nソレヲ　糸デ\n\nシバツテネ\n\n山羊サン　ノ　アゴ　ヘツケタノ。八",
+      "characters": 77,
       "ruby": []
     },
     {
-      "pageNumber": 14,
-      "content": "七",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 15,
-      "content": "オ母サン　ハ\n\n仕方　ナク\n\nミンナ　カラ\n\nオヒゲ　ヲネ\n\n三本ヅツ\n\nモラツタノ。\n\nソレヲ　糸デ\n\nシバツテネ\n\n山羊サン　ノ　アゴ　ヘツケタノ。",
-      "characters": 76,
-      "ruby": []
-    },
-    {
-      "pageNumber": 16,
-      "content": "八",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 17,
+      "pageNumber": 10,
       "content": "トテモ　ソノ\n\nカクカウ　ガ\n\nワルイノデ\n\nミンナ　大ワラヒ\n\nシテネ\n\nオヒゲ　ガ　生エル\n\nマデ\n\nホツトク　コト　ニ\n\nナツタノ。",
       "characters": 69,
       "ruby": []
     },
     {
-      "pageNumber": 18,
+      "pageNumber": 11,
       "content": "山羊サン　ハ　トテモ\n\n恥カシ　カツタノヨ。",
       "characters": 22,
       "ruby": []

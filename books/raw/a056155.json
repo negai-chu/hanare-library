@@ -342,7 +342,9 @@
     ],
     "totalPages": 327,
     "averageCharsPerPage": 312,
-    "chapterTitles": []
+    "chapterTitles": [
+      "かんかん虫は唄う"
+    ]
   },
   "content": [
     {
@@ -356,8 +358,7 @@
       "pageNumber": 2,
       "content": "木靴",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -381,8 +382,7 @@
       "pageNumber": 6,
       "content": "空《そら》の獣《けもの》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -418,8 +418,7 @@
       "pageNumber": 12,
       "content": "プリンス",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -455,8 +454,7 @@
       "pageNumber": 18,
       "content": "私服",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -480,8 +478,7 @@
       "pageNumber": 22,
       "content": "お馬車",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -523,8 +520,7 @@
       "pageNumber": 29,
       "content": "陸《おか》の海月《くらげ》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -572,8 +568,7 @@
       "pageNumber": 37,
       "content": "商魔",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -609,8 +604,7 @@
       "pageNumber": 43,
       "content": "夕風《ゆうかぜ》の鞭《むち》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -658,8 +652,7 @@
       "pageNumber": 51,
       "content": "宣戦",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -701,8 +694,7 @@
       "pageNumber": 58,
       "content": "砂金窟《さきんくつ》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -750,8 +742,7 @@
       "pageNumber": 66,
       "content": "角燈",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -787,8 +778,7 @@
       "pageNumber": 72,
       "content": "奔馳《ほんち》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -836,8 +826,7 @@
       "pageNumber": 80,
       "content": "吊洋燈《つりランプ》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -879,8 +868,7 @@
       "pageNumber": 87,
       "content": "河浚《かわざら》い",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -910,8 +898,7 @@
       "pageNumber": 92,
       "content": "鵜《う》",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -977,8 +964,7 @@
       "pageNumber": 103,
       "content": "雛妓《おしゃく》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,
@@ -1014,8 +1000,7 @@
       "pageNumber": 109,
       "content": "伯の旧事",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 110,
@@ -1039,8 +1024,7 @@
       "pageNumber": 113,
       "content": "一婦人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -1070,8 +1054,7 @@
       "pageNumber": 118,
       "content": "豆菊",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -1125,8 +1108,7 @@
       "pageNumber": 127,
       "content": "童貞洗礼",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1174,8 +1156,7 @@
       "pageNumber": 135,
       "content": "南京豆の会",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1199,8 +1180,7 @@
       "pageNumber": 139,
       "content": "黒眼鏡",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1230,8 +1210,7 @@
       "pageNumber": 144,
       "content": "朝のうち",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1267,8 +1246,7 @@
       "pageNumber": 150,
       "content": "橋下橋上",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1322,8 +1300,7 @@
       "pageNumber": 159,
       "content": "頓馬《とんま》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 160,
@@ -1353,8 +1330,7 @@
       "pageNumber": 164,
       "content": "菩提夢《ぼだいむ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 165,
@@ -1384,8 +1360,7 @@
       "pageNumber": 169,
       "content": "巾着《きんちゃ》ッ切《きり》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,
@@ -1445,8 +1420,7 @@
       "pageNumber": 179,
       "content": "時の心臓",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 180,
@@ -1476,8 +1450,7 @@
       "pageNumber": 184,
       "content": "慕住《ぼじゅう》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 185,
@@ -1519,8 +1492,7 @@
       "pageNumber": 191,
       "content": "からたち",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
@@ -1538,8 +1510,7 @@
       "pageNumber": 194,
       "content": "十九号室",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 195,
@@ -1575,8 +1546,7 @@
       "pageNumber": 200,
       "content": "灯《ひ》",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 201,
@@ -1612,8 +1582,7 @@
       "pageNumber": 206,
       "content": "夜《よる》の幌《ほろ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 207,
@@ -1637,8 +1606,7 @@
       "pageNumber": 210,
       "content": "男女のユダ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 211,
@@ -1668,8 +1636,7 @@
       "pageNumber": 215,
       "content": "ゆすり",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 216,
@@ -1705,8 +1672,7 @@
       "pageNumber": 221,
       "content": "壮俳《そうはい》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 222,
@@ -1748,8 +1714,7 @@
       "pageNumber": 228,
       "content": "野菜屑",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 229,
@@ -1779,8 +1744,7 @@
       "pageNumber": 233,
       "content": "赤い舌",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 234,
@@ -1804,8 +1768,7 @@
       "pageNumber": 237,
       "content": "消燈天国",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 238,
@@ -1835,8 +1798,7 @@
       "pageNumber": 242,
       "content": "騎手",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 243,
@@ -1866,8 +1828,7 @@
       "pageNumber": 247,
       "content": "回転盤《ルーレット》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 248,
@@ -1903,8 +1864,7 @@
       "pageNumber": 253,
       "content": "埃《ほこり》の虹《にじ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 254,
@@ -1946,8 +1906,7 @@
       "pageNumber": 260,
       "content": "温室",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,
@@ -1989,8 +1948,7 @@
       "pageNumber": 267,
       "content": "星《ほし》の棕梠《しゅろ》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 268,
@@ -2026,8 +1984,7 @@
       "pageNumber": 273,
       "content": "花櫛",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 274,
@@ -2075,8 +2032,7 @@
       "pageNumber": 281,
       "content": "カメラ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 282,
@@ -2118,8 +2074,7 @@
       "pageNumber": 288,
       "content": "富麿《とみまろ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 289,
@@ -2149,8 +2104,7 @@
       "pageNumber": 293,
       "content": "靄《もや》の疲《つか》れ",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 294,
@@ -2186,8 +2140,7 @@
       "pageNumber": 299,
       "content": "闖入者《ちんにゅうしゃ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 300,
@@ -2217,8 +2170,7 @@
       "pageNumber": 304,
       "content": "征服",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 305,
@@ -2254,8 +2206,7 @@
       "pageNumber": 310,
       "content": "夕坂越えて",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 311,
@@ -2297,8 +2248,7 @@
       "pageNumber": 317,
       "content": "飛降り",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 318,
@@ -2340,8 +2290,7 @@
       "pageNumber": 324,
       "content": "彼の航路",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 325,

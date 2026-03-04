@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-2",
         "title": "凡例",
         "startPage": 9,
-        "endPage": 0
+        "endPage": 15
       },
       {
         "id": "chapter-3",
         "title": "第壱章　総説",
         "startPage": 16,
-        "endPage": 0,
+        "endPage": 120,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-3-section-3",
             "number": "第三節　比較神話学の方法及神話の種類",
             "startPage": 90,
-            "endPage": 0
+            "endPage": 120
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-4",
         "title": "第弐章　天然神話",
         "startPage": 121,
-        "endPage": 0,
+        "endPage": 174,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -73,7 +73,7 @@
             "id": "chapter-4-section-3",
             "number": "第三節　天地開闢神話",
             "startPage": 147,
-            "endPage": 0
+            "endPage": 174
           }
         ]
       },
@@ -81,7 +81,7 @@
         "id": "chapter-5",
         "title": "第参章　人文神話",
         "startPage": 175,
-        "endPage": 0,
+        "endPage": 215,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -99,7 +99,7 @@
             "id": "chapter-5-section-3",
             "number": "第三節　死と火との起源",
             "startPage": 207,
-            "endPage": 0
+            "endPage": 215
           }
         ]
       },
@@ -107,7 +107,7 @@
         "id": "chapter-6",
         "title": "第四章　洪水神話",
         "startPage": 216,
-        "endPage": 0,
+        "endPage": 230,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -119,7 +119,7 @@
             "id": "chapter-6-section-2",
             "number": "第二節　洪水説話の比較",
             "startPage": 222,
-            "endPage": 0
+            "endPage": 230
           }
         ]
       },
@@ -127,7 +127,7 @@
         "id": "chapter-7",
         "title": "第五章　英雄神話",
         "startPage": 231,
-        "endPage": 0,
+        "endPage": 272,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -151,7 +151,7 @@
             "id": "chapter-7-section-4",
             "number": "第四節　動物説話",
             "startPage": 260,
-            "endPage": 0
+            "endPage": 272
           }
         ]
       },

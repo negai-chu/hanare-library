@@ -36,7 +36,9 @@
     ],
     "totalPages": 80,
     "averageCharsPerPage": 667,
-    "chapterTitles": []
+    "chapterTitles": [
+      "空間概念の分析"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　準備的考察――概念の分析に就いて",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -255,8 +256,7 @@
       "pageNumber": 36,
       "content": "二　問題――空間概念の分析",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,

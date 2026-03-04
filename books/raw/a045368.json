@@ -42,7 +42,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 429,
-    "chapterTitles": []
+    "chapterTitles": [
+      "山男と男装の美女"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -141,8 +142,7 @@
       "pageNumber": 16,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -178,8 +178,7 @@
       "pageNumber": 22,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

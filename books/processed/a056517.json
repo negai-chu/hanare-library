@@ -17,20 +17,22 @@
         "id": "chapter-1",
         "title": "ペスト王",
         "startPage": 1,
-        "endPage": 28,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "訳注",
-            "startPage": 26,
-            "endPage": 28
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 28,
-    "averageCharsPerPage": 506,
-    "chapterTitles": []
+    "totalPages": 26,
+    "averageCharsPerPage": 545,
+    "chapterTitles": [
+      "ペスト王"
+    ]
   },
   "content": [
     {
@@ -180,25 +182,12 @@
     },
     {
       "pageNumber": 25,
-      "content": "追手に帆をかけてついていったのである。",
-      "characters": 19,
+      "content": "追手に帆をかけてついていったのである。訳注１　Lord Buckhurst（一五三六―一六〇八）――イギリスの詩人。本名 Thomas Sackville.“Ferrex and Porrex”はその作の悲劇。\n２　the third Edward（一三一二―七七）――一三二七年より七七年までのイングランドの国王。この王の「騎士道華やかなりし」治世中には幾度もペストがイングランドに流行した。\n３　Sluys ――オランダのベルギーとの国境に近いところにある海港。\n４　“Legs”――「脚」\n５　jib-boom ――船首の斜檣に続いてなおずっと前方に突き出ている用材。\n６　Ben Nevis ――スコットランドの西海岸にあるイギリスにおける最高の山。高さ四四〇六フィート。だから海に沈む太陽が、海岸近くにあるこの山の頂上を見るには、かなりの角度で見上げなければならぬに違いない。\n７　“humming-stuff”――酒の名であろう。humming は、泡立つ酒の、また飲めば頭のぐらぐらするような強い酒の、形容に用いられる言葉。\n８　“No Chalk”――往時居酒屋などでは勘定を壁や戸などにチョークで書いておいた風習から、勘定、信用貸のことなどを ckalk と言う。\n９　lee-lurch ――風上からの大浪のために船体が不意に風下に傾斜する大動揺のことをいう。仮に「風下傾斜」と訳しておいた。――この篇にはこういう船乗りの言葉がかなり多く用いてある。\n10　October beer ――昔、十月に醸造したビールは上等であるとした。\n11　Oporto ――ポルトガルの海港。古くからいわゆるポートワインの輸出港として知られている。",
+      "characters": 726,
       "ruby": []
     },
     {
       "pageNumber": 26,
-      "content": "訳注",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 27,
-      "content": "１　Lord Buckhurst（一五三六―一六〇八）――イギリスの詩人。本名 Thomas Sackville.“Ferrex and Porrex”はその作の悲劇。\n２　the third Edward（一三一二―七七）――一三二七年より七七年までのイングランドの国王。この王の「騎士道華やかなりし」治世中には幾度もペストがイングランドに流行した。\n３　Sluys ――オランダのベルギーとの国境に近いところにある海港。\n４　“Legs”――「脚」\n５　jib-boom ――船首の斜檣に続いてなおずっと前方に突き出ている用材。\n６　Ben Nevis ――スコットランドの西海岸にあるイギリスにおける最高の山。高さ四四〇六フィート。だから海に沈む太陽が、海岸近くにあるこの山の頂上を見るには、かなりの角度で見上げなければならぬに違いない。\n７　“humming-stuff”――酒の名であろう。humming は、泡立つ酒の、また飲めば頭のぐらぐらするような強い酒の、形容に用いられる言葉。\n８　“No Chalk”――往時居酒屋などでは勘定を壁や戸などにチョークで書いておいた風習から、勘定、信用貸のことなどを ckalk と言う。\n９　lee-lurch ――風上からの大浪のために船体が不意に風下に傾斜する大動揺のことをいう。仮に「風下傾斜」と訳しておいた。――この篇にはこういう船乗りの言葉がかなり多く用いてある。\n10　October beer ――昔、十月に醸造したビールは上等であるとした。\n11　Oporto ――ポルトガルの海港。古くからいわゆるポートワインの輸出港として知られている。",
-      "characters": 705,
-      "ruby": []
-    },
-    {
-      "pageNumber": 28,
       "content": "12　Pest-Iferous ―― pestiferous.\n13　Pest-Ilential ―― pestilential.\n14　Tem-Pest ―― tempest.\n15　Ana-Pest ―― anapest.\n16　Davy Jones ――船乗りの言葉で、海の悪魔、海霊、を諧謔的に言った言葉。\n17　約二升余りの液量。\n18　Black Strap ――酒の名。アメリカ合衆国ではラム酒あるいはウィスキーに糖蜜と醋とを混じた飲料をいうが、船乗りの通語では一般に濃い色をした強い酒をいう。\n19　Median ――昔メディアの王国の法律はけっして変らなかったということから、「変らぬ、不変の」ということを意味する。旧約全書ダニエル書第六章第八節、「されば王よねがわくはその禁令を立ててその詔書をしたためメディアとペルシアの廃ることなき律法《おきて》のごとくにこれをして変らざらしめたまえ」\n20　marin-spike ――船の言葉で、索の股を解くに用いる円錐形の鉄具。\n21　toddy ――ラム酒などの火酒に熱湯を混じ砂糖、烙り林檎などを加えて造った飲料。",
       "characters": 490,
       "ruby": []

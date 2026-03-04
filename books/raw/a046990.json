@@ -60,7 +60,9 @@
     ],
     "totalPages": 42,
     "averageCharsPerPage": 512,
-    "chapterTitles": []
+    "chapterTitles": [
+      "椎茸と雄弁"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "一ノ一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -129,8 +130,7 @@
       "pageNumber": 11,
       "content": "一ノ二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -154,8 +154,7 @@
       "pageNumber": 15,
       "content": "二ノ一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -191,8 +190,7 @@
       "pageNumber": 21,
       "content": "二ノ二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -240,8 +238,7 @@
       "pageNumber": 29,
       "content": "三ノ一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -271,8 +268,7 @@
       "pageNumber": 34,
       "content": "三ノ二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,

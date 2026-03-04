@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "労働祭歌（Ⅰ）",
         "startPage": 1,
-        "endPage": 14,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "序曲",
             "startPage": 2,
-            "endPage": 8
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "行進曲",
-            "startPage": 9,
-            "endPage": 14
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 14,
-    "averageCharsPerPage": 73,
-    "chapterTitles": []
+    "totalPages": 12,
+    "averageCharsPerPage": 85,
+    "chapterTitles": [
+      "労働祭歌（Ⅰ）"
+    ]
   },
   "content": [
     {
@@ -48,80 +50,66 @@
     },
     {
       "pageNumber": 2,
-      "content": "序曲",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 3,
-      "content": "　メーデー！　われわれはすでに広場に集合している\n\n幾千、万！\n\n黒い旗、赤い旗、するどい槍\n\n光り！　われわれはすでに広場に集合している\n\n集合！　確乎たる同僚精神\n\n彼方ほうはいたる都会をのぞんで\n\n決意！　われわれはすでに広場に集合している\n\nしかも、あとからあとから集まる\n\nああ、この偉大なる黒い群集",
-      "characters": 155,
+      "content": "　序曲\n\n　メーデー！　われわれはすでに広場に集合している\n\n幾千、万！\n\n黒い旗、赤い旗、するどい槍\n\n光り！　われわれはすでに広場に集合している\n\n集合！　確乎たる同僚精神\n\n彼方ほうはいたる都会をのぞんで\n\n決意！　われわれはすでに広場に集合している\n\nしかも、あとからあとから集まる\n\nああ、この偉大なる黒い群集",
+      "characters": 160,
       "ruby": []
     },
     {
-      "pageNumber": 4,
+      "pageNumber": 3,
       "content": "今日を待っていたこの群集\n\n裂けたまなじり、鳴る肩瘤\n\n額に浮き上り輝く汗\n\n汗、汗、汗、汗\n\nこの素敵な\n\n汗の、群集、群集、群集……\n\n見よ！　太陽も天に怒って\n\nそうだ、弱けれども強い力は\n\nこの太陽と群集との",
       "characters": 108,
       "ruby": []
     },
     {
-      "pageNumber": 5,
+      "pageNumber": 4,
       "content": "握手――この熱、この素朴な\n\n信頼――ここにこそはじめて生れて\n\nおお、その力の溢れる歌声\n\nおお、その喜びの波立つ音\n\n林はひれ伏して葉を鳴らさず\n\n海はその波を今にごさず\n\nすべての人々のこの頭上に\n\nすべて同じようにこの王冠！\n\nそうだ、これこそは吾等の誇りだ",
       "characters": 133,
       "ruby": []
     },
     {
-      "pageNumber": 6,
+      "pageNumber": 5,
       "content": "われらの悉くが持つ誇りだ\n\n誇り？\n\n歌おうとこの世界だ\n\n誇り？　叫ぼうとこの自由だ\n\nなんのほがらかに開けた正義だ\n\nそうだ、ああ歌え、ああ叫べよ\n\n蛮声――その中に光っている\n\nもっとも聖らかなそして高貴な\n\n力、力、力、力",
       "characters": 115,
       "ruby": []
     },
     {
-      "pageNumber": 7,
+      "pageNumber": 6,
       "content": "新時代を\n\nここに打っ立てる歓喜の声\n\n彼等の暴虐のとりでを衝く\n\n声、声、声、声\n\nああ素敵な……\n\n開け！　もう彼方に鉄鎖がちぎれる\n\nしかり、この力、この集合\n\n握手！　メーデーだ、この太陽\n\n歌だ、洪水だ、この嵐の",
       "characters": 111,
       "ruby": []
     },
     {
-      "pageNumber": 8,
-      "content": "赤い旗、黒い旗\n\n旗、旗\n\n槍！\n\n光り！　われわれはすでに戦いの用意をしている。",
-      "characters": 41,
+      "pageNumber": 7,
+      "content": "赤い旗、黒い旗\n\n旗、旗\n\n槍！\n\n光り！　われわれはすでに戦いの用意をしている。行進曲",
+      "characters": 44,
       "ruby": []
     },
     {
-      "pageNumber": 9,
-      "content": "行進曲",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 10,
+      "pageNumber": 8,
       "content": "ヴヮッ、ヴヮッ\n\nヴヮッ、ヴヮッ\n\nどし、どし、どし、どし\n\nヴヮッ、ヴヮッ\n\nヴヮッ、ヴヮッ\n\nどし、どし、どし、どし\n\n進め！　進め！\n\n旗！　旗！\n\n進め！　進め！",
       "characters": 85,
       "ruby": []
     },
     {
-      "pageNumber": 11,
+      "pageNumber": 9,
       "content": "旗！　旗！\n\nヴヮッ、ヴヮッ\n\nヴヮッ、ヴヮッ\n\nどし、どし、どし、どし\n\nヴヮッ、ヴヮッ\n\nヴヮッ、ヴヮッ\n\nどし、どし、どし、どし\n\n振れ！　振れ！\n\n旗！　旗！",
       "characters": 83,
       "ruby": []
     },
     {
-      "pageNumber": 12,
+      "pageNumber": 10,
       "content": "振れ！　振れ！\n\n旗！　旗！\n\nヴヮッ、ヴヮッ\n\nヴヮッ、ヴヮッ\n\nどし、どし、どし、どし\n\nヴヮッ、ヴヮッ\n\nヴヮッ、ヴヮッ\n\nどし、どし、どし、どし\n\nみよや",
       "characters": 81,
       "ruby": []
     },
     {
-      "pageNumber": 13,
+      "pageNumber": 11,
       "content": "われらの\n\n世界だ\n\n光りだ\n\n聞けや\n\nわれらの\n\n時代だ\n\nひびきだ\n\n輝やく\n\n輝やく",
       "characters": 46,
       "ruby": []
     },
     {
-      "pageNumber": 14,
+      "pageNumber": 12,
       "content": "輝やく\n\n輝やく。\n\n（『文芸戦線』一九二六年五月号に発表　一九二九年一月平凡社刊『新興文学全集』第十巻を底本）",
       "characters": 56,
       "ruby": []

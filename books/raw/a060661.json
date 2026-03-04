@@ -36,7 +36,9 @@
     ],
     "totalPages": 102,
     "averageCharsPerPage": 219,
-    "chapterTitles": []
+    "chapterTitles": [
+      "珊瑚集"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 10,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -117,8 +118,7 @@
       "pageNumber": 13,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

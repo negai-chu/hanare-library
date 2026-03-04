@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "書簡箋",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "中国の書簡箋の由来"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 302,
-    "chapterTitles": []
+    "chapterTitles": [
+      "書簡箋"
+    ]
   },
   "content": [
     {

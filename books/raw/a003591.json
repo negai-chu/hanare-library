@@ -60,7 +60,9 @@
     ],
     "totalPages": 161,
     "averageCharsPerPage": 525,
-    "chapterTitles": []
+    "chapterTitles": [
+      "技術の哲学"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "技術の問題",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -279,8 +280,7 @@
       "pageNumber": 36,
       "content": "技術と実験",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -400,8 +400,7 @@
       "pageNumber": 56,
       "content": "技術とイデオロギー",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -623,8 +622,7 @@
       "pageNumber": 93,
       "content": "技術家の社会的地位",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,
@@ -876,8 +874,7 @@
       "pageNumber": 135,
       "content": "付、独創と大衆――「大衆的発明」と特許法",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -919,8 +916,7 @@
       "pageNumber": 142,
       "content": "技術と知能",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 143,

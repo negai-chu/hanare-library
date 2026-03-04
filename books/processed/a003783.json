@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "翻訳小品",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "翻訳した小品集"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 329,
-    "chapterTitles": []
+    "chapterTitles": [
+      "翻訳小品"
+    ]
   },
   "content": [
     {

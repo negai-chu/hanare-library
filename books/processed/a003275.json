@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ほうき一本",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "経済白書とほうき一本"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 441,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ほうき一本"
+    ]
   },
   "content": [
     {

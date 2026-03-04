@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "女被衣《おんなかぶり》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 21
           }
         ]
       },
@@ -49,7 +49,7 @@
         "id": "chapter-2",
         "title": "首の番",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -73,7 +73,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 35,
-            "endPage": 0
+            "endPage": 40
           }
         ]
       },
@@ -81,7 +81,7 @@
         "id": "chapter-3",
         "title": "美人系",
         "startPage": 41,
-        "endPage": 0,
+        "endPage": 67,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -117,7 +117,7 @@
             "id": "chapter-3-section-6",
             "number": "六",
             "startPage": 63,
-            "endPage": 0
+            "endPage": 67
           }
         ]
       },
@@ -125,7 +125,7 @@
         "id": "chapter-4",
         "title": "いなずま八荒",
         "startPage": 68,
-        "endPage": 0,
+        "endPage": 95,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -155,7 +155,7 @@
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 89,
-            "endPage": 0
+            "endPage": 95
           }
         ]
       },

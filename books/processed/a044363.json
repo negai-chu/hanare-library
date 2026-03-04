@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "劇壇漫評",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "劇壇への気ままな評"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 434,
-    "chapterTitles": []
+    "chapterTitles": [
+      "劇壇漫評"
+    ]
   },
   "content": [
     {

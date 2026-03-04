@@ -462,7 +462,9 @@
     ],
     "totalPages": 220,
     "averageCharsPerPage": 93,
-    "chapterTitles": []
+    "chapterTitles": [
+      "山之口貘詩集"
+    ]
   },
   "content": [
     {
@@ -476,8 +478,7 @@
       "pageNumber": 2,
       "content": "喪のある景色",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -495,8 +496,7 @@
       "pageNumber": 5,
       "content": "世はさまざま",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -514,8 +514,7 @@
       "pageNumber": 8,
       "content": "疊",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -533,8 +532,7 @@
       "pageNumber": 11,
       "content": "炭",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -552,8 +550,7 @@
       "pageNumber": 14,
       "content": "思ひ出",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -577,8 +574,7 @@
       "pageNumber": 18,
       "content": "結婚",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -602,8 +598,7 @@
       "pageNumber": 22,
       "content": "友引の日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -627,8 +622,7 @@
       "pageNumber": 26,
       "content": "夢を見る神",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -652,8 +646,7 @@
       "pageNumber": 30,
       "content": "上り列車",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -677,8 +670,7 @@
       "pageNumber": 34,
       "content": "彈痕",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -702,8 +694,7 @@
       "pageNumber": 38,
       "content": "紙の上",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -727,8 +718,7 @@
       "pageNumber": 42,
       "content": "日和",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -752,8 +742,7 @@
       "pageNumber": 46,
       "content": "襤褸は寢てゐる",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -765,8 +754,7 @@
       "pageNumber": 48,
       "content": "襤褸は寢てゐる",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -778,8 +766,7 @@
       "pageNumber": 50,
       "content": "襤褸は寢てゐる",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -791,8 +778,7 @@
       "pageNumber": 52,
       "content": "加藤清正",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -816,8 +802,7 @@
       "pageNumber": 56,
       "content": "鼻のある結論",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -835,8 +820,7 @@
       "pageNumber": 59,
       "content": "士族",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -860,8 +844,7 @@
       "pageNumber": 63,
       "content": "猫",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -873,8 +856,7 @@
       "pageNumber": 65,
       "content": "轉居",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -892,8 +874,7 @@
       "pageNumber": 68,
       "content": "思辨",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -911,8 +892,7 @@
       "pageNumber": 71,
       "content": "來意",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -930,8 +910,7 @@
       "pageNumber": 74,
       "content": "再會",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -949,8 +928,7 @@
       "pageNumber": 77,
       "content": "座蒲團",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -962,8 +940,7 @@
       "pageNumber": 79,
       "content": "傘",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -975,8 +952,7 @@
       "pageNumber": 81,
       "content": "數學",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -994,8 +970,7 @@
       "pageNumber": 84,
       "content": "僕の詩",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -1007,8 +982,7 @@
       "pageNumber": 86,
       "content": "僕の詩　ながめてゐると",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -1020,8 +994,7 @@
       "pageNumber": 88,
       "content": "存在",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -1039,8 +1012,7 @@
       "pageNumber": 91,
       "content": "食ひそこなつた僕",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -1058,8 +1030,7 @@
       "pageNumber": 94,
       "content": "マンネリズムの原因",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -1077,8 +1048,7 @@
       "pageNumber": 97,
       "content": "無機物",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -1096,8 +1066,7 @@
       "pageNumber": 100,
       "content": "音樂",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -1109,8 +1078,7 @@
       "pageNumber": 102,
       "content": "會話",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -1122,8 +1090,7 @@
       "pageNumber": 104,
       "content": "日曜日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -1135,8 +1102,7 @@
       "pageNumber": 106,
       "content": "挨拶",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -1148,8 +1114,7 @@
       "pageNumber": 108,
       "content": "岬",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -1161,8 +1126,7 @@
       "pageNumber": 110,
       "content": "玩具",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -1174,8 +1138,7 @@
       "pageNumber": 112,
       "content": "第一印象",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -1193,8 +1156,7 @@
       "pageNumber": 115,
       "content": "石",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -1212,8 +1174,7 @@
       "pageNumber": 118,
       "content": "生きてゐる位置",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -1225,8 +1186,7 @@
       "pageNumber": 120,
       "content": "光線",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 121,
@@ -1244,8 +1204,7 @@
       "pageNumber": 123,
       "content": "夢の後",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1257,8 +1216,7 @@
       "pageNumber": 125,
       "content": "夜",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 126,
@@ -1270,8 +1228,7 @@
       "pageNumber": 127,
       "content": "解體",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1289,8 +1246,7 @@
       "pageNumber": 130,
       "content": "青空に圍まれた地球の頂點に立つて",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 131,
@@ -1302,8 +1258,7 @@
       "pageNumber": 132,
       "content": "青空に圍まれた地球の頂點に立つて",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 133,
@@ -1315,8 +1270,7 @@
       "pageNumber": 134,
       "content": "賑やかな生活である",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 135,
@@ -1328,8 +1282,7 @@
       "pageNumber": 136,
       "content": "妹へおくる手紙",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 137,
@@ -1347,8 +1300,7 @@
       "pageNumber": 139,
       "content": "疲れた日記",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1360,8 +1312,7 @@
       "pageNumber": 141,
       "content": "晴天",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 142,
@@ -1379,8 +1330,7 @@
       "pageNumber": 144,
       "content": "無題",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1398,8 +1348,7 @@
       "pageNumber": 147,
       "content": "夜景",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 148,
@@ -1411,8 +1360,7 @@
       "pageNumber": 149,
       "content": "生活の柄",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1430,8 +1378,7 @@
       "pageNumber": 152,
       "content": "論旨",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 153,
@@ -1449,8 +1396,7 @@
       "pageNumber": 155,
       "content": "大儀",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1462,8 +1408,7 @@
       "pageNumber": 157,
       "content": "鏡",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 158,
@@ -1475,8 +1420,7 @@
       "pageNumber": 159,
       "content": "食人種",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 160,
@@ -1494,8 +1438,7 @@
       "pageNumber": 162,
       "content": "自己紹介",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 163,
@@ -1507,8 +1450,7 @@
       "pageNumber": 164,
       "content": "立ち往生",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 165,
@@ -1526,8 +1468,7 @@
       "pageNumber": 167,
       "content": "雨と床屋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 168,
@@ -1539,8 +1480,7 @@
       "pageNumber": 169,
       "content": "萌芽",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,
@@ -1558,8 +1498,7 @@
       "pageNumber": 172,
       "content": "唇のやうな良心",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 173,
@@ -1571,8 +1510,7 @@
       "pageNumber": 174,
       "content": "座談",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 175,
@@ -1608,8 +1546,7 @@
       "pageNumber": 180,
       "content": "端書",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 181,
@@ -1621,8 +1558,7 @@
       "pageNumber": 182,
       "content": "現金",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 183,
@@ -1640,8 +1576,7 @@
       "pageNumber": 185,
       "content": "春愁",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 186,
@@ -1659,8 +1594,7 @@
       "pageNumber": 188,
       "content": "教會の處女",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 189,
@@ -1678,15 +1612,13 @@
       "pageNumber": 191,
       "content": "若しも女を掴んだら",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
       "content": "若しも女を掴んだら",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 193,
@@ -1704,8 +1636,7 @@
       "pageNumber": 195,
       "content": "求婚の廣告",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 196,
@@ -1723,8 +1654,7 @@
       "pageNumber": 198,
       "content": "杭",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 199,
@@ -1736,8 +1666,7 @@
       "pageNumber": 200,
       "content": "天",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 201,
@@ -1755,8 +1684,7 @@
       "pageNumber": 203,
       "content": "散歩スケッチ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 204,
@@ -1774,8 +1702,7 @@
       "pageNumber": 206,
       "content": "晴天",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 207,
@@ -1793,8 +1720,7 @@
       "pageNumber": 209,
       "content": "動物園",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 210,
@@ -1812,8 +1738,7 @@
       "pageNumber": 212,
       "content": "ものもらひの話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 213,
@@ -1831,8 +1756,7 @@
       "pageNumber": 215,
       "content": "あとがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 216,
@@ -1850,8 +1774,7 @@
       "pageNumber": 218,
       "content": "附記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 219,

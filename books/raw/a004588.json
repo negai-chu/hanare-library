@@ -36,7 +36,9 @@
     ],
     "totalPages": 31,
     "averageCharsPerPage": 555,
-    "chapterTitles": []
+    "chapterTitles": [
+      "十万石"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -171,8 +172,7 @@
       "pageNumber": 22,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

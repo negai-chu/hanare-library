@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "俳句",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 6,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -41,17 +41,15 @@
             "id": "chapter-1-section-4",
             "number": "秋水は聾せり",
             "startPage": 6,
-            "endPage": 0
+            "endPage": 6
           }
-        ],
-        "summary": "写生俳句の精華"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "長塚節略年譜",
         "startPage": 7,
-        "endPage": 10,
-        "summary": "歌人の足跡"
+        "endPage": 10
       }
     ],
     "totalPages": 10,

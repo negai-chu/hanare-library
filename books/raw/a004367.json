@@ -60,7 +60,9 @@
     ],
     "totalPages": 64,
     "averageCharsPerPage": 461,
-    "chapterTitles": []
+    "chapterTitles": [
+      "踊る地平線"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "アイチミュラ・羽左衛門",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -153,8 +154,7 @@
       "pageNumber": 15,
       "content": "緑蔭",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -202,8 +202,7 @@
       "pageNumber": 23,
       "content": "ＳＡＫＵＲＡ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -323,8 +322,7 @@
       "pageNumber": 43,
       "content": "セルロイドの玩具",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -360,8 +358,7 @@
       "pageNumber": 49,
       "content": "小野さん",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -445,8 +442,7 @@
       "pageNumber": 63,
       "content": "Ｇ・Ｂ・Ｓ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "一　晩年の作物",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 52
       },
       {
         "id": "chapter-2",
         "title": "二　壮年の境涯",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 106,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-2-section-2",
             "number": "黄金舎より藁屋へ",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 106
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-3",
         "title": "三　志濃夫廼舎歌集抄",
         "startPage": 107,
-        "endPage": 0,
+        "endPage": 139,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-3-section-7",
             "number": "山田秋甫編纂橘曙覧全集拾遺",
             "startPage": 138,
-            "endPage": 0
+            "endPage": 139
           }
         ]
       },

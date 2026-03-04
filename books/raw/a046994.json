@@ -48,7 +48,9 @@
     ],
     "totalPages": 85,
     "averageCharsPerPage": 571,
-    "chapterTitles": []
+    "chapterTitles": [
+      "道遠からん　四幕"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "第一幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -225,8 +226,7 @@
       "pageNumber": 29,
       "content": "第二幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -310,8 +310,7 @@
       "pageNumber": 43,
       "content": "第三幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -425,8 +424,7 @@
       "pageNumber": 62,
       "content": "第四幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,

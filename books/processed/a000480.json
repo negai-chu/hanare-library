@@ -17,294 +17,255 @@
         "id": "chapter-1",
         "title": "清水詣《きよみずもう》で",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 23,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 7,
-            "summary": "京の春と参詣の道行き"
+            "endPage": 7
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 14,
-            "summary": "清水寺での邂逅"
+            "endPage": 14
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 15,
-            "endPage": 0,
-            "summary": "美女の面影"
+            "endPage": 23
           }
-        ],
-        "summary": "若き公卿の清水参詣"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "独《ひと》り寝《ね》の別《わか》れ",
         "startPage": 24,
-        "endPage": 0,
+        "endPage": 47,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 25,
-            "endPage": 32,
-            "summary": "恋しい人との別れ"
+            "endPage": 32
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 33,
-            "endPage": 38,
-            "summary": "独り寝の寂しさ"
+            "endPage": 38
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 39,
-            "endPage": 0,
-            "summary": "再会への祈り"
+            "endPage": 47
           }
-        ],
-        "summary": "別離と孤閨の嘆き"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "塚《つか》の祟《たた》り",
         "startPage": 48,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 49,
-            "endPage": 54,
-            "summary": "塚にまつわる怪異の噂"
+            "endPage": 54
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 55,
-            "endPage": 62,
-            "summary": "祟りの兆候"
+            "endPage": 62
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 63,
-            "endPage": 0,
-            "summary": "怨霊の正体"
+            "endPage": 69
           }
-        ],
-        "summary": "古塚に潜む怨念"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "花《はな》の宴《うたげ》",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 77,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 71,
-            "endPage": 76,
-            "summary": "宴の支度と客人"
+            "endPage": 76
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 77,
-            "endPage": 0,
-            "summary": "花見の宴の顛末"
+            "endPage": 77
           }
-        ],
-        "summary": "花の下の華やかな宴席"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "法性寺《ほっしょうじ》",
         "startPage": 78,
-        "endPage": 0,
+        "endPage": 115,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 94,
-            "endPage": 100,
-            "summary": "寺への参詣"
+            "endPage": 100
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 101,
-            "endPage": 86,
-            "summary": "僧侶の予言"
+            "endPage": 86
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 87,
-            "endPage": 0,
-            "summary": "不吉な予兆"
+            "endPage": 115
           }
-        ],
-        "summary": "法性寺の僧侶と占い"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "采女《うねめ》",
         "startPage": 116,
-        "endPage": 0,
+        "endPage": 138,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "一",
             "startPage": 117,
-            "endPage": 122,
-            "summary": "采女の入内"
+            "endPage": 122
           },
           {
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 123,
-            "endPage": 129,
-            "summary": "帝の寵愛"
+            "endPage": 129
           },
           {
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 130,
-            "endPage": 0,
-            "summary": "疑惑の影"
+            "endPage": 138
           }
-        ],
-        "summary": "宮中に仕える美女の正体"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "雨乞《あまご》い",
         "startPage": 139,
-        "endPage": 0,
+        "endPage": 159,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 140,
-            "endPage": 145,
-            "summary": "日照り続きの京"
+            "endPage": 145
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 146,
-            "endPage": 152,
-            "summary": "雨乞いの儀式"
+            "endPage": 152
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 153,
-            "endPage": 0,
-            "summary": "祈祷の成否"
+            "endPage": 159
           }
-        ],
-        "summary": "旱魃と雨乞いの祈祷"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "犬《いぬ》の群《む》れ",
         "startPage": 160,
-        "endPage": 0,
+        "endPage": 182,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "一",
             "startPage": 161,
-            "endPage": 167,
-            "summary": "犬の異常な反応"
+            "endPage": 167
           },
           {
             "id": "chapter-8-section-2",
             "number": "二",
             "startPage": 168,
-            "endPage": 173,
-            "summary": "狐の正体への疑念"
+            "endPage": 173
           },
           {
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 174,
-            "endPage": 0,
-            "summary": "露見の危機"
+            "endPage": 182
           }
-        ],
-        "summary": "犬が嗅ぎつける異形の気配"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "烏帽子折《えぼしおり》",
         "startPage": 183,
-        "endPage": 0,
+        "endPage": 204,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 184,
-            "endPage": 189,
-            "summary": "策略の始まり"
+            "endPage": 189
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 190,
-            "endPage": 195,
-            "summary": "正体暴きの準備"
+            "endPage": 195
           },
           {
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 196,
-            "endPage": 0,
-            "summary": "緊迫する対決"
+            "endPage": 204
           }
-        ],
-        "summary": "烏帽子折の場の企み"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "三浦《みうら》の娘《むすめ》",
         "startPage": 205,
-        "endPage": 0,
+        "endPage": 226,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 206,
-            "endPage": 211,
-            "summary": "武士の集結"
+            "endPage": 211
           },
           {
             "id": "chapter-10-section-2",
             "number": "二",
             "startPage": 212,
-            "endPage": 218,
-            "summary": "追跡の開始"
+            "endPage": 218
           },
           {
             "id": "chapter-10-section-3",
             "number": "三",
             "startPage": 219,
-            "endPage": 0,
-            "summary": "那須野への追い込み"
+            "endPage": 226
           }
-        ],
-        "summary": "三浦介の娘と狐退治"
+        ]
       },
       {
         "id": "chapter-11",
@@ -316,25 +277,21 @@
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 228,
-            "endPage": 234,
-            "summary": "那須野の原の決戦"
+            "endPage": 234
           },
           {
             "id": "chapter-11-section-2",
             "number": "二",
             "startPage": 235,
-            "endPage": 240,
-            "summary": "九尾の狐の最期"
+            "endPage": 240
           },
           {
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 241,
-            "endPage": 247,
-            "summary": "殺生石の由来"
+            "endPage": 247
           }
-        ],
-        "summary": "狐の最期と殺生石の誕生"
+        ]
       }
     ],
     "totalPages": 247,

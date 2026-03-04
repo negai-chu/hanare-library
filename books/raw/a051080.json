@@ -36,7 +36,9 @@
     ],
     "totalPages": 23,
     "averageCharsPerPage": 556,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明るき世界へ"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　小《ちい》さな芽《め》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 11,
       "content": "二　幸福《こうふく》の島《しま》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

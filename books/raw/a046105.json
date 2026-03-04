@@ -84,7 +84,9 @@
     ],
     "totalPages": 306,
     "averageCharsPerPage": 524,
-    "chapterTitles": []
+    "chapterTitles": [
+      "だいこん"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "十五日　　　水曜",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -267,8 +268,7 @@
       "pageNumber": 30,
       "content": "十六日　　　木曜",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -448,8 +448,7 @@
       "pageNumber": 60,
       "content": "十九日　　　日曜",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -689,8 +688,7 @@
       "pageNumber": 100,
       "content": "二十日　　　月曜",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -816,8 +814,7 @@
       "pageNumber": 121,
       "content": "二十日　　　月曜（つづき）",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,
@@ -949,8 +946,7 @@
       "pageNumber": 143,
       "content": "二十八日　　　火曜",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -1100,8 +1096,7 @@
       "pageNumber": 168,
       "content": "二十九日　　　水曜",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 169,
@@ -1227,8 +1222,7 @@
       "pageNumber": 189,
       "content": "二十九日　　　水曜（つづき）",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1378,8 +1372,7 @@
       "pageNumber": 214,
       "content": "二十九日　　　水曜（つづき）",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 215,
@@ -1679,8 +1672,7 @@
       "pageNumber": 264,
       "content": "九月二日　　　日曜",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 265,

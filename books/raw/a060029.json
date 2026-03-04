@@ -36,7 +36,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 261,
-    "chapterTitles": []
+    "chapterTitles": [
+      "子どもたちが屠殺ごっこをした話"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "（一）第一話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 5,
       "content": "（二）第二話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

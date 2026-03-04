@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ざしき童子のはなし",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "ざしき童子の四つの話"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ざしき童子のはなし"
+    ]
   },
   "content": [
     {

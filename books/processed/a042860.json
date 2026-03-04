@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "私の小説",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "自作小説への弁明"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 516,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私の小説"
+    ]
   },
   "content": [
     {

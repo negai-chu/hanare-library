@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "昭和十四年一月",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 20,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -203,7 +203,7 @@
             "id": "chapter-1-section-31",
             "number": "一月三十一日（火曜）",
             "startPage": 19,
-            "endPage": 0
+            "endPage": 20
           }
         ]
       },
@@ -211,7 +211,7 @@
         "id": "chapter-2",
         "title": "昭和十四年二月",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -379,7 +379,7 @@
             "id": "chapter-2-section-28",
             "number": "二月二十八日（火曜）",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 34
           }
         ]
       },
@@ -387,7 +387,7 @@
         "id": "chapter-3",
         "title": "昭和十四年三月",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 51,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -573,7 +573,7 @@
             "id": "chapter-3-section-31",
             "number": "三月三十一日（金曜）",
             "startPage": 50,
-            "endPage": 0
+            "endPage": 51
           }
         ]
       },
@@ -581,7 +581,7 @@
         "id": "chapter-4",
         "title": "昭和十四年四月",
         "startPage": 52,
-        "endPage": 0,
+        "endPage": 70,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -761,7 +761,7 @@
             "id": "chapter-4-section-30",
             "number": "四月三十日（日曜）",
             "startPage": 70,
-            "endPage": 0
+            "endPage": 70
           }
         ]
       },
@@ -769,7 +769,7 @@
         "id": "chapter-5",
         "title": "昭和十四年五月",
         "startPage": 71,
-        "endPage": 0,
+        "endPage": 90,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -955,7 +955,7 @@
             "id": "chapter-5-section-31",
             "number": "五月三十一日（水曜）",
             "startPage": 90,
-            "endPage": 0
+            "endPage": 90
           }
         ]
       },
@@ -963,7 +963,7 @@
         "id": "chapter-6",
         "title": "昭和十四年六月",
         "startPage": 91,
-        "endPage": 0,
+        "endPage": 107,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -1143,7 +1143,7 @@
             "id": "chapter-6-section-30",
             "number": "六月三十日（金曜）",
             "startPage": 107,
-            "endPage": 0
+            "endPage": 107
           }
         ]
       },
@@ -1151,7 +1151,7 @@
         "id": "chapter-7",
         "title": "昭和十四年七月",
         "startPage": 108,
-        "endPage": 0,
+        "endPage": 124,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -1337,7 +1337,7 @@
             "id": "chapter-7-section-31",
             "number": "七月三十一日（月曜）",
             "startPage": 124,
-            "endPage": 0
+            "endPage": 124
           }
         ]
       },
@@ -1345,7 +1345,7 @@
         "id": "chapter-8",
         "title": "昭和十四年八月",
         "startPage": 125,
-        "endPage": 0,
+        "endPage": 142,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -1531,7 +1531,7 @@
             "id": "chapter-8-section-31",
             "number": "八月三十一日（木曜）",
             "startPage": 142,
-            "endPage": 0
+            "endPage": 142
           }
         ]
       },
@@ -1539,7 +1539,7 @@
         "id": "chapter-9",
         "title": "昭和十四年九月",
         "startPage": 143,
-        "endPage": 0,
+        "endPage": 158,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -1719,7 +1719,7 @@
             "id": "chapter-9-section-30",
             "number": "九月三十日（土曜）",
             "startPage": 158,
-            "endPage": 0
+            "endPage": 158
           }
         ]
       },
@@ -1727,7 +1727,7 @@
         "id": "chapter-10",
         "title": "昭和十四年十月",
         "startPage": 159,
-        "endPage": 0,
+        "endPage": 176,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -1913,7 +1913,7 @@
             "id": "chapter-10-section-31",
             "number": "十月三十一日（火曜）",
             "startPage": 176,
-            "endPage": 0
+            "endPage": 176
           }
         ]
       },
@@ -1921,7 +1921,7 @@
         "id": "chapter-11",
         "title": "昭和十四年十一月",
         "startPage": 177,
-        "endPage": 0,
+        "endPage": 194,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -2101,7 +2101,7 @@
             "id": "chapter-11-section-30",
             "number": "十一月三十日（木曜）",
             "startPage": 194,
-            "endPage": 0
+            "endPage": 194
           }
         ]
       },

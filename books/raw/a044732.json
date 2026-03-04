@@ -84,7 +84,9 @@
     ],
     "totalPages": 180,
     "averageCharsPerPage": 560,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本人とは？"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "「大事なこと」とは？",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -165,8 +166,7 @@
       "pageNumber": 13,
       "content": "日本人畸形説",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -394,8 +394,7 @@
       "pageNumber": 51,
       "content": "平衡感覚について",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -473,8 +472,7 @@
       "pageNumber": 64,
       "content": "精神の健康不健康について",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -564,8 +562,7 @@
       "pageNumber": 79,
       "content": "恐怖なき生活について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -667,8 +664,7 @@
       "pageNumber": 96,
       "content": "悲しき習性について",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -770,8 +766,7 @@
       "pageNumber": 113,
       "content": "「人間らしさ」といふこと",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -843,8 +838,7 @@
       "pageNumber": 125,
       "content": "歪められた「対人意識」について",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 126,
@@ -976,8 +970,7 @@
       "pageNumber": 147,
       "content": "いはゆる教育について",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 148,
@@ -1067,8 +1060,7 @@
       "pageNumber": 162,
       "content": "風俗の改革について",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 163,

@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "翻訳者の序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "作者より",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "作者による前書き"
+        "endPage": 10
       },
       {
         "id": "chapter-3",
         "title": "第一篇　ある家の歴史",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 78,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -61,16 +59,15 @@
             "id": "chapter-3-section-5",
             "number": "五　長老",
             "startPage": 59,
-            "endPage": 0
+            "endPage": 78
           }
-        ],
-        "summary": "カラマゾフ家の来歴"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第二篇　お門違いな寄り合い",
         "startPage": 79,
-        "endPage": 0,
+        "endPage": 231,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -118,16 +115,15 @@
             "id": "chapter-4-section-8",
             "number": "八　醜態",
             "startPage": 211,
-            "endPage": 0
+            "endPage": 231
           }
-        ],
-        "summary": "修道院での対面"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第三篇　淫蕩《いんとう》な人たち",
         "startPage": 232,
-        "endPage": 0,
+        "endPage": 424,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -193,16 +189,15 @@
             "id": "chapter-5-section-11",
             "number": "一一　さらに一つの滅びたる名誉",
             "startPage": 405,
-            "endPage": 0
+            "endPage": 424
           }
-        ],
-        "summary": "情欲に溺れる者たち"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第四篇　破裂",
         "startPage": 425,
-        "endPage": 0,
+        "endPage": 563,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -244,10 +239,9 @@
             "id": "chapter-6-section-7",
             "number": "七　清らかなる外気のうちに",
             "startPage": 534,
-            "endPage": 0
+            "endPage": 563
           }
-        ],
-        "summary": "危機と衝突の連鎖"
+        ]
       },
       {
         "id": "chapter-7",
@@ -297,8 +291,7 @@
             "startPage": 731,
             "endPage": 752
           }
-        ],
-        "summary": "信仰と懐疑の対話"
+        ]
       }
     ],
     "totalPages": 752,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 22,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "勢力の中心を議会に移すべし"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "〔国家における勢力の中心の移動〕",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "〔憲法擁護の声〕",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "〔立憲政治の運用〕",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -173,8 +172,7 @@
       "pageNumber": 20,
       "content": "〔国民の政治的訓練〕",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,

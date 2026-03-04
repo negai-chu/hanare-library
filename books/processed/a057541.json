@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "祝宴",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 9
       },
       {
         "id": "chapter-2",
         "title": "初めに飢があった",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 53,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-2-section-7",
             "number": "七",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 53
           }
         ]
       },

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "大阪といふところ",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "大阪の歴史と学術都市"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 488,
-    "chapterTitles": []
+    "chapterTitles": [
+      "大阪といふところ"
+    ]
   },
   "content": [
     {

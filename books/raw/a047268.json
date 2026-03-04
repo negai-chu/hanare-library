@@ -36,7 +36,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 352,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秀吉・家康二英雄の対南洋外交"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

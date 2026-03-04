@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "台風",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "台風の夜の記録"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 404,
-    "chapterTitles": []
+    "chapterTitles": [
+      "台風"
+    ]
   },
   "content": [
     {

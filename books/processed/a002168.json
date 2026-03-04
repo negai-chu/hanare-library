@@ -17,70 +17,61 @@
         "id": "chapter-1",
         "title": "「巴里《パリイ》より」の初めに",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "巴里旅行の序文"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "上海《シヤンハイ》",
         "startPage": 5,
-        "endPage": 0,
-        "summary": "上海の印象"
+        "endPage": 11
       },
       {
         "id": "chapter-3",
         "title": "香港《ホンコン》",
         "startPage": 12,
-        "endPage": 0,
-        "summary": "香港の風景"
+        "endPage": 22
       },
       {
         "id": "chapter-4",
         "title": "新嘉坡《シンガポオル》",
         "startPage": 23,
-        "endPage": 0,
-        "summary": "シンガポールの港"
+        "endPage": 41
       },
       {
         "id": "chapter-5",
         "title": "彼南《ペナン》",
         "startPage": 42,
-        "endPage": 0,
-        "summary": "ペナンの情景"
+        "endPage": 45
       },
       {
         "id": "chapter-6",
         "title": "コロムボ",
         "startPage": 46,
-        "endPage": 0,
-        "summary": "コロンボの街"
+        "endPage": 57
       },
       {
         "id": "chapter-7",
         "title": "地中海",
         "startPage": 58,
-        "endPage": 0,
-        "summary": "地中海の航海"
+        "endPage": 62
       },
       {
         "id": "chapter-8",
         "title": "マルセエユ",
         "startPage": 63,
-        "endPage": 0,
-        "summary": "マルセイユ上陸"
+        "endPage": 67
       },
       {
         "id": "chapter-9",
         "title": "巴里《パリイ》の除夜",
         "startPage": 68,
-        "endPage": 0,
-        "summary": "巴里の除夜"
+        "endPage": 73
       },
       {
         "id": "chapter-10",
         "title": "パンテオンの側《そば》から",
         "startPage": 74,
-        "endPage": 0,
+        "endPage": 90,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -110,58 +101,51 @@
             "id": "chapter-10-section-5",
             "number": "（五）",
             "startPage": 88,
-            "endPage": 0
+            "endPage": 90
           }
-        ],
-        "summary": "パンテオンの側"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "モンマルトルの宿《やど》",
         "startPage": 91,
-        "endPage": 0,
-        "summary": "モンマルトルの宿"
+        "endPage": 94
       },
       {
         "id": "chapter-12",
         "title": "画室《アトリエ》と墓",
         "startPage": 95,
-        "endPage": 0,
-        "summary": "画室と墓地"
+        "endPage": 106
       },
       {
         "id": "chapter-13",
         "title": "サン・ゼルマン",
         "startPage": 107,
-        "endPage": 0,
-        "summary": "サンジェルマンの街"
+        "endPage": 111
       },
       {
         "id": "chapter-14",
         "title": "文人《ぶんじん》の決闘",
         "startPage": 112,
-        "endPage": 0,
-        "summary": "文人の決闘の話"
+        "endPage": 119
       },
       {
         "id": "chapter-15",
         "title": "謝肉祭（キヤルナル）",
         "startPage": 120,
-        "endPage": 0,
-        "summary": "謝肉祭の賑わい"
+        "endPage": 122
       },
       {
         "id": "chapter-16",
         "title": "芝居の後《のち》",
         "startPage": 123,
-        "endPage": 0,
-        "summary": "芝居の後の感想"
+        "endPage": 133
       },
       {
         "id": "chapter-17",
         "title": "巴里《パリイ》のいろいろ",
         "startPage": 134,
-        "endPage": 0,
+        "endPage": 147,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -179,128 +163,111 @@
             "id": "chapter-17-section-3",
             "number": "（三）",
             "startPage": 143,
-            "endPage": 0
+            "endPage": 147
           }
-        ],
-        "summary": "巴里の諸相"
+        ]
       },
       {
         "id": "chapter-18",
         "title": "「日本《にほん》の誉《ほまれ》」",
         "startPage": 148,
-        "endPage": 0,
-        "summary": "日本の誉の逸話"
+        "endPage": 149
       },
       {
         "id": "chapter-19",
         "title": "「モリエエルの家庭」",
         "startPage": 150,
-        "endPage": 0,
-        "summary": "モリエール家庭の劇"
+        "endPage": 158
       },
       {
         "id": "chapter-20",
         "title": "魔術街《マジツクシテエ》",
         "startPage": 159,
-        "endPage": 0,
-        "summary": "魔術街の夜"
+        "endPage": 164
       },
       {
         "id": "chapter-21",
         "title": "五月一日《にち》",
         "startPage": 165,
-        "endPage": 0,
-        "summary": "メーデーの風景"
+        "endPage": 170
       },
       {
         "id": "chapter-22",
         "title": "巴里《パリイ》のいろいろ",
         "startPage": 134,
-        "endPage": 0,
-        "summary": "巴里点描"
+        "endPage": 147
       },
       {
         "id": "chapter-23",
         "title": "飛行機",
         "startPage": 181,
-        "endPage": 0,
-        "summary": "飛行機の体験"
+        "endPage": 187
       },
       {
         "id": "chapter-24",
         "title": "巴里《パリイ》まで（晶子）",
         "startPage": 188,
-        "endPage": 0,
-        "summary": "巴里までの旅路"
+        "endPage": 200
       },
       {
         "id": "chapter-25",
         "title": "ツウルの二夜《ふたよ》",
         "startPage": 201,
-        "endPage": 0,
-        "summary": "トゥールの二夜"
+        "endPage": 216
       },
       {
         "id": "chapter-26",
         "title": "「暗殺のキヤバレエ」",
         "startPage": 217,
-        "endPage": 0,
-        "summary": "暗殺のキャバレー"
+        "endPage": 222
       },
       {
         "id": "chapter-27",
         "title": "巴里《パリイ》にて（晶子）",
         "startPage": 223,
-        "endPage": 0,
-        "summary": "巴里にて"
+        "endPage": 229
       },
       {
         "id": "chapter-28",
         "title": "ノオトル・ダム（晶子）",
         "startPage": 230,
-        "endPage": 0,
-        "summary": "ノートルダムの印象"
+        "endPage": 234
       },
       {
         "id": "chapter-29",
         "title": "ロダン翁《をう》",
         "startPage": 235,
-        "endPage": 0,
-        "summary": "ロダン翁への訪問"
+        "endPage": 247
       },
       {
         "id": "chapter-30",
         "title": "レニエ先生",
         "startPage": 248,
-        "endPage": 0,
-        "summary": "レニエ先生との交流"
+        "endPage": 253
       },
       {
         "id": "chapter-31",
         "title": "巴里《パリイ》の旅窓より（晶子）",
         "startPage": 254,
-        "endPage": 0,
-        "summary": "巴里の旅窓より"
+        "endPage": 269
       },
       {
         "id": "chapter-32",
         "title": "アミアン市",
         "startPage": 270,
-        "endPage": 0,
-        "summary": "アミアン市の印象"
+        "endPage": 272
       },
       {
         "id": "chapter-33",
         "title": "海峡の船（晶子）",
         "startPage": 273,
-        "endPage": 0,
-        "summary": "海峡の船上にて"
+        "endPage": 276
       },
       {
         "id": "chapter-34",
         "title": "倫敦《ロンドン》より（晶子）",
         "startPage": 277,
-        "endPage": 0,
+        "endPage": 288,
         "sections": [
           {
             "id": "chapter-34-section-1",
@@ -320,161 +287,139 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "ロンドンの街"
+        ]
       },
       {
         "id": "chapter-35",
         "title": "倫敦《ロンドン》を立たうとして",
         "startPage": 289,
-        "endPage": 0,
-        "summary": "ロンドンを発つ"
+        "endPage": 292
       },
       {
         "id": "chapter-36",
         "title": "倫敦《ロンドン》の宿（晶子）",
         "startPage": 293,
-        "endPage": 0,
-        "summary": "ロンドンの宿にて"
+        "endPage": 297
       },
       {
         "id": "chapter-37",
         "title": "ブリユツセル",
         "startPage": 298,
-        "endPage": 0,
-        "summary": "ブリュッセルの街"
+        "endPage": 303
       },
       {
         "id": "chapter-38",
         "title": "アントワアプ",
         "startPage": 304,
-        "endPage": 0,
-        "summary": "アントワープの港"
+        "endPage": 312
       },
       {
         "id": "chapter-39",
         "title": "巴里《パリイ》の独立祭（晶子）",
         "startPage": 313,
-        "endPage": 0,
-        "summary": "巴里の独立祭"
+        "endPage": 320
       },
       {
         "id": "chapter-40",
         "title": "欧洲婦人の髪（晶子）",
         "startPage": 321,
-        "endPage": 0,
-        "summary": "欧州婦人の髪型"
+        "endPage": 328
       },
       {
         "id": "chapter-41",
         "title": "日記の一節（晶子）",
         "startPage": 329,
-        "endPage": 0,
-        "summary": "日記の一節"
+        "endPage": 332
       },
       {
         "id": "chapter-42",
         "title": "杜鵑《とけん》亭（晶子）",
         "startPage": 333,
-        "endPage": 0,
-        "summary": "杜鵑亭の風情"
+        "endPage": 342
       },
       {
         "id": "chapter-43",
         "title": "髑髏洞《カタコンブ》（晶子）",
         "startPage": 343,
-        "endPage": 0,
-        "summary": "地下墓地の探訪"
+        "endPage": 347
       },
       {
         "id": "chapter-44",
         "title": "ミユンヘン（晶子）",
         "startPage": 348,
-        "endPage": 0,
-        "summary": "ミュンヘンの街"
+        "endPage": 356
       },
       {
         "id": "chapter-45",
         "title": "維納《ヰイン》（晶子）",
         "startPage": 357,
-        "endPage": 0,
-        "summary": "ウィーンの印象"
+        "endPage": 360
       },
       {
         "id": "chapter-46",
         "title": "伯林《ベルリン》停車場《ぢやう》（晶子）",
         "startPage": 361,
-        "endPage": 0,
-        "summary": "ベルリン駅の情景"
+        "endPage": 370
       },
       {
         "id": "chapter-47",
         "title": "伯林《ベルリン》の一瞥《いつべつ》（晶子）",
         "startPage": 371,
-        "endPage": 0,
-        "summary": "ベルリン一瞥"
+        "endPage": 374
       },
       {
         "id": "chapter-48",
         "title": "和蘭陀《ヲランダ》へ着いた夜《よ》（晶子）",
         "startPage": 375,
-        "endPage": 0,
-        "summary": "オランダ到着の夜"
+        "endPage": 383
       },
       {
         "id": "chapter-49",
         "title": "和蘭陀《ヲランダ》の二日《ふつか》",
         "startPage": 384,
-        "endPage": 0,
-        "summary": "オランダの二日間"
+        "endPage": 386
       },
       {
         "id": "chapter-50",
         "title": "巴里《パリイ》に於ける第一印象（晶子）",
         "startPage": 387,
-        "endPage": 0,
-        "summary": "巴里の第一印象"
+        "endPage": 397
       },
       {
         "id": "chapter-51",
         "title": "妻を送りて",
         "startPage": 398,
-        "endPage": 0,
-        "summary": "妻を送りて"
+        "endPage": 400
       },
       {
         "id": "chapter-52",
         "title": "MADAME《マダム》 KIKI《キキイ》",
         "startPage": 401,
-        "endPage": 0,
-        "summary": "マダム・キキの話"
+        "endPage": 411
       },
       {
         "id": "chapter-53",
         "title": "未来派《フユチユリスト》の芸術",
         "startPage": 412,
-        "endPage": 0,
-        "summary": "未来派の芸術論"
+        "endPage": 421
       },
       {
         "id": "chapter-54",
         "title": "オテル・スフロオから",
         "startPage": 422,
-        "endPage": 0,
-        "summary": "ホテルからの便り"
+        "endPage": 429
       },
       {
         "id": "chapter-55",
         "title": "火曜日の夜《よ》",
         "startPage": 430,
-        "endPage": 0,
-        "summary": "火曜日の夜の集い"
+        "endPage": 439
       },
       {
         "id": "chapter-56",
         "title": "平野丸より良人《をつと》に（晶子）",
         "startPage": 440,
-        "endPage": 0,
+        "endPage": 467,
         "sections": [
           {
             "id": "chapter-56-section-1",
@@ -492,16 +437,15 @@
             "id": "chapter-56-section-3",
             "number": "（三）",
             "startPage": 458,
-            "endPage": 0
+            "endPage": 467
           }
-        ],
-        "summary": "船上からの手紙"
+        ]
       },
       {
         "id": "chapter-57",
         "title": "晶子への書翰《しよかん》",
         "startPage": 468,
-        "endPage": 0,
+        "endPage": 476,
         "sections": [
           {
             "id": "chapter-57-section-1",
@@ -519,38 +463,33 @@
             "id": "chapter-57-section-3",
             "number": "（三）",
             "startPage": 473,
-            "endPage": 0
+            "endPage": 476
           }
-        ],
-        "summary": "晶子への書簡"
+        ]
       },
       {
         "id": "chapter-58",
         "title": "ミラノ",
         "startPage": 477,
-        "endPage": 0,
-        "summary": "ミラノの街並み"
+        "endPage": 479
       },
       {
         "id": "chapter-59",
         "title": "ネチヤ",
         "startPage": 480,
-        "endPage": 0,
-        "summary": "ヴェネツィアの情景"
+        "endPage": 492
       },
       {
         "id": "chapter-60",
         "title": "フィイレンチェ",
         "startPage": 493,
-        "endPage": 0,
-        "summary": "フィレンツェの美"
+        "endPage": 499
       },
       {
         "id": "chapter-61",
         "title": "巴里《パリイ》を去らうとして",
         "startPage": 500,
-        "endPage": 507,
-        "summary": "巴里を去る"
+        "endPage": 507
       }
     ],
     "totalPages": 507,

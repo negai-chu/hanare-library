@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "朝鮮の友に贈る書",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 33,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 33
           }
         ]
       },
@@ -37,13 +37,13 @@
         "id": "chapter-2",
         "title": "失われんとする一朝鮮建築のために",
         "startPage": 34,
-        "endPage": 0
+        "endPage": 47
       },
       {
         "id": "chapter-3",
         "title": "木喰上人発見の縁起",
         "startPage": 48,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -73,7 +73,7 @@
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 66,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },
@@ -81,7 +81,7 @@
         "id": "chapter-4",
         "title": "雑器の美",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 80,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -123,7 +123,7 @@
             "id": "chapter-4-section-7",
             "number": "六",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 80
           }
         ]
       },
@@ -131,7 +131,7 @@
         "id": "chapter-5",
         "title": "工藝の美",
         "startPage": 81,
-        "endPage": 0,
+        "endPage": 117,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -227,7 +227,7 @@
             "id": "chapter-5-section-16",
             "number": "一六",
             "startPage": 116,
-            "endPage": 0
+            "endPage": 117
           }
         ]
       },
@@ -235,7 +235,7 @@
         "id": "chapter-6",
         "title": "工藝の協団に関する一提案",
         "startPage": 118,
-        "endPage": 0,
+        "endPage": 133,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -247,7 +247,7 @@
             "id": "chapter-6-section-2",
             "number": "試みんとするギルドについて",
             "startPage": 121,
-            "endPage": 0
+            "endPage": 133
           }
         ]
       },
@@ -255,7 +255,7 @@
         "id": "chapter-7",
         "title": "大津絵の美とその性質",
         "startPage": 134,
-        "endPage": 0,
+        "endPage": 147,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -279,7 +279,7 @@
             "id": "chapter-7-section-4",
             "number": "四",
             "startPage": 145,
-            "endPage": 0
+            "endPage": 147
           }
         ]
       },
@@ -287,13 +287,13 @@
         "id": "chapter-8",
         "title": "雑誌『工藝』発足",
         "startPage": 148,
-        "endPage": 0
+        "endPage": 152
       },
       {
         "id": "chapter-9",
         "title": "民藝の趣旨",
         "startPage": 153,
-        "endPage": 0,
+        "endPage": 171,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -325,7 +325,7 @@
         "id": "chapter-10",
         "title": "日本民藝館案内",
         "startPage": 172,
-        "endPage": 0,
+        "endPage": 186,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -345,7 +345,7 @@
         "id": "chapter-11",
         "title": "琉球の富",
         "startPage": 187,
-        "endPage": 0,
+        "endPage": 243,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -429,7 +429,7 @@
             "id": "chapter-11-section-14",
             "number": "跋",
             "startPage": 242,
-            "endPage": 0
+            "endPage": 243
           }
         ]
       },
@@ -437,7 +437,7 @@
         "id": "chapter-12",
         "title": "「喜左衛門井戸」を見る",
         "startPage": 244,
-        "endPage": 0,
+        "endPage": 258,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -497,7 +497,7 @@
             "id": "chapter-12-section-10",
             "number": "一〇",
             "startPage": 257,
-            "endPage": 0
+            "endPage": 258
           }
         ]
       },
@@ -505,13 +505,13 @@
         "id": "chapter-13",
         "title": "手仕事の国",
         "startPage": 259,
-        "endPage": 0
+        "endPage": 262
       },
       {
         "id": "chapter-14",
         "title": "美の法門",
         "startPage": 263,
-        "endPage": 0,
+        "endPage": 288,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -583,7 +583,7 @@
             "id": "chapter-14-section-12",
             "number": "一二",
             "startPage": 286,
-            "endPage": 0
+            "endPage": 288
           }
         ]
       },
@@ -591,19 +591,19 @@
         "id": "chapter-15",
         "title": "利休と私",
         "startPage": 289,
-        "endPage": 0
+        "endPage": 304
       },
       {
         "id": "chapter-16",
         "title": "蒐集の弁",
         "startPage": 305,
-        "endPage": 0
+        "endPage": 320
       },
       {
         "id": "chapter-17",
         "title": "日本の眼",
         "startPage": 321,
-        "endPage": 0,
+        "endPage": 338,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -633,7 +633,7 @@
             "id": "chapter-17-section-5",
             "number": "五",
             "startPage": 334,
-            "endPage": 0
+            "endPage": 338
           }
         ]
       },

@@ -48,7 +48,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 430,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ルイ・パストゥール"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "微生物学の発達",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "パストゥールの経歴",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "微生物の研究",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -125,8 +124,7 @@
       "pageNumber": 12,
       "content": "免疫療法の確立",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

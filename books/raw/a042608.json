@@ -30,7 +30,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ジャン・クリストフ"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 3,
       "content": "緒言",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,

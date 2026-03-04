@@ -36,7 +36,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 410,
-    "chapterTitles": []
+    "chapterTitles": [
+      "くもり日つゞき"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "歌合せ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 8,
       "content": "亡霊の案内",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

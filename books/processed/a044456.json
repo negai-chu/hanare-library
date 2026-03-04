@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "感想",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "文学の専門性と普遍性"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 420,
-    "chapterTitles": []
+    "chapterTitles": [
+      "感想"
+    ]
   },
   "content": [
     {

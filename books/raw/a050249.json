@@ -30,7 +30,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 422,
-    "chapterTitles": []
+    "chapterTitles": [
+      "蜻蛉"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 6,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

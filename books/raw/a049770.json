@@ -36,7 +36,9 @@
     ],
     "totalPages": 21,
     "averageCharsPerPage": 507,
-    "chapterTitles": []
+    "chapterTitles": [
+      "草津行"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 9,
       "content": "二十八日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -123,8 +124,7 @@
       "pageNumber": 14,
       "content": "二十九日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "上巻",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 86,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-2-section-7",
             "number": "黒檜",
             "startPage": 67,
-            "endPage": 0
+            "endPage": 86
           }
         ]
       },
@@ -73,7 +73,7 @@
         "id": "chapter-3",
         "title": "下巻",
         "startPage": 87,
-        "endPage": 0,
+        "endPage": 111,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-3-section-2",
             "number": "戦時雑唱",
             "startPage": 94,
-            "endPage": 0
+            "endPage": 111
           }
         ]
       },

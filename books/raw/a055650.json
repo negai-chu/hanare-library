@@ -114,7 +114,9 @@
     ],
     "totalPages": 64,
     "averageCharsPerPage": 380,
-    "chapterTitles": []
+    "chapterTitles": [
+      "早稲田神楽坂"
+    ]
   },
   "content": [
     {
@@ -128,8 +130,7 @@
       "pageNumber": 2,
       "content": "床屋の壁鏡",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -153,8 +154,7 @@
       "pageNumber": 6,
       "content": "私と神楽坂",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -184,8 +184,7 @@
       "pageNumber": 11,
       "content": "山の手の銀座？",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -209,8 +208,7 @@
       "pageNumber": 15,
       "content": "神楽坂気分",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -240,8 +238,7 @@
       "pageNumber": 20,
       "content": "寅毘沙・午毘沙",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -265,8 +262,7 @@
       "pageNumber": 24,
       "content": "蟻の京詣り",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -290,8 +286,7 @@
       "pageNumber": 28,
       "content": "通寺町の発展",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -315,8 +310,7 @@
       "pageNumber": 32,
       "content": "独特の魅力",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -340,8 +334,7 @@
       "pageNumber": 36,
       "content": "牛込見附",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -365,8 +358,7 @@
       "pageNumber": 40,
       "content": "商店繁昌記",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -396,8 +388,7 @@
       "pageNumber": 45,
       "content": "カッフエ其他",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -421,8 +412,7 @@
       "pageNumber": 49,
       "content": "花街神楽坂",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -446,8 +436,7 @@
       "pageNumber": 53,
       "content": "追憶",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -471,8 +460,7 @@
       "pageNumber": 57,
       "content": "矢来・江戸川",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -496,8 +484,7 @@
       "pageNumber": 61,
       "content": "心のふるさと",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,

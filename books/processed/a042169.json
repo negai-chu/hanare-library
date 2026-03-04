@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "蝶",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "二匹の蝶の戯れ"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 345,
-    "chapterTitles": []
+    "chapterTitles": [
+      "蝶"
+    ]
   },
   "content": [
     {

@@ -732,7 +732,9 @@
     ],
     "totalPages": 264,
     "averageCharsPerPage": 36,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秋の瞳"
+    ]
   },
   "content": [
     {
@@ -746,8 +748,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -759,8 +760,7 @@
       "pageNumber": 4,
       "content": "息を　殺せ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -772,8 +772,7 @@
       "pageNumber": 6,
       "content": "白い枝",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -785,8 +784,7 @@
       "pageNumber": 8,
       "content": "哀しみの　火矢《ひや》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -798,8 +796,7 @@
       "pageNumber": 10,
       "content": "朗《ほが》らかな　日",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -811,8 +808,7 @@
       "pageNumber": 12,
       "content": "フヱアリの　国",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -824,8 +820,7 @@
       "pageNumber": 14,
       "content": "おほぞらの　こころ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -837,8 +832,7 @@
       "pageNumber": 16,
       "content": "植木屋",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -850,8 +844,7 @@
       "pageNumber": 18,
       "content": "ふるさとの　山",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -863,8 +856,7 @@
       "pageNumber": 20,
       "content": "しづかな　画家",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -876,8 +868,7 @@
       "pageNumber": 22,
       "content": "うつくしいもの",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -889,8 +880,7 @@
       "pageNumber": 24,
       "content": "一群の　ぶよ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -902,8 +892,7 @@
       "pageNumber": 26,
       "content": "鉛と　ちようちよ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -915,8 +904,7 @@
       "pageNumber": 28,
       "content": "花になりたい",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -928,15 +916,13 @@
       "pageNumber": 30,
       "content": "花になりたい",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
       "content": "無造作な　雲",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -948,8 +934,7 @@
       "pageNumber": 33,
       "content": "大和行",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -967,8 +952,7 @@
       "pageNumber": 36,
       "content": "咲く心",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -980,8 +964,7 @@
       "pageNumber": 38,
       "content": "劒《つるぎ》を持つ者",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -993,15 +976,13 @@
       "pageNumber": 40,
       "content": "壺《つぼ》のような日",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
       "content": "壺のような日　こんな日",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -1013,8 +994,7 @@
       "pageNumber": 43,
       "content": "つかれたる　心",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -1026,8 +1006,7 @@
       "pageNumber": 45,
       "content": "かなしみ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -1039,8 +1018,7 @@
       "pageNumber": 47,
       "content": "美しい　夢",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -1052,8 +1030,7 @@
       "pageNumber": 49,
       "content": "心　よ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -1065,8 +1042,7 @@
       "pageNumber": 51,
       "content": "死と珠《たま》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -1078,8 +1054,7 @@
       "pageNumber": 53,
       "content": "ひびく　たましい",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -1091,8 +1066,7 @@
       "pageNumber": 55,
       "content": "空を　指《さ》す　梢《こずゑ》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -1104,8 +1078,7 @@
       "pageNumber": 57,
       "content": "赤ん坊が　わらふ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -1117,8 +1090,7 @@
       "pageNumber": 59,
       "content": "花と咲け",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -1130,15 +1102,13 @@
       "pageNumber": 61,
       "content": "甕《かめ》",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
       "content": "甕　を　いくつしみたい",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -1150,8 +1120,7 @@
       "pageNumber": 64,
       "content": "心　よ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -1163,8 +1132,7 @@
       "pageNumber": 66,
       "content": "玉《たま》",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -1176,8 +1144,7 @@
       "pageNumber": 68,
       "content": "こころの　海《うな》づら",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -1189,8 +1156,7 @@
       "pageNumber": 70,
       "content": "貫《つら》ぬく　光",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -1208,8 +1174,7 @@
       "pageNumber": 73,
       "content": "秋の　かなしみ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -1227,8 +1192,7 @@
       "pageNumber": 76,
       "content": "泪《なみだ》",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -1240,8 +1204,7 @@
       "pageNumber": 78,
       "content": "石くれ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -1253,8 +1216,7 @@
       "pageNumber": 80,
       "content": "竜舌蘭",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -1266,15 +1228,13 @@
       "pageNumber": 82,
       "content": "矜持ある　風景",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
       "content": "矜持ある　風景",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -1286,8 +1246,7 @@
       "pageNumber": 85,
       "content": "静寂は怒る",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 86,
@@ -1299,8 +1258,7 @@
       "pageNumber": 87,
       "content": "悩ましき　外景",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -1312,8 +1270,7 @@
       "pageNumber": 89,
       "content": "ほそい　がらす",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -1325,8 +1282,7 @@
       "pageNumber": 91,
       "content": "葉",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -1344,8 +1300,7 @@
       "pageNumber": 94,
       "content": "彫られた　空",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -1357,8 +1312,7 @@
       "pageNumber": 96,
       "content": "しづけさ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -1370,8 +1324,7 @@
       "pageNumber": 98,
       "content": "夾竹桃",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -1383,8 +1336,7 @@
       "pageNumber": 100,
       "content": "おもひで",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -1402,8 +1354,7 @@
       "pageNumber": 103,
       "content": "哀しみの海",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,
@@ -1415,8 +1366,7 @@
       "pageNumber": 105,
       "content": "雲",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -1428,8 +1378,7 @@
       "pageNumber": 107,
       "content": "在る日の　こころ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -1441,8 +1390,7 @@
       "pageNumber": 109,
       "content": "幼い日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 110,
@@ -1454,15 +1402,13 @@
       "pageNumber": 111,
       "content": "痴寂な手",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
       "content": "痴寂《ちせき》な手　その手だ、",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -1474,8 +1420,7 @@
       "pageNumber": 114,
       "content": "痴寂な手　石くれを　むしばみ",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 115,
@@ -1487,8 +1432,7 @@
       "pageNumber": 116,
       "content": "痴寂な手　おまへは　むさぼり　むしばむ",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -1500,8 +1444,7 @@
       "pageNumber": 118,
       "content": "くちばしの黄な　黒い鳥",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -1513,8 +1456,7 @@
       "pageNumber": 120,
       "content": "何故に　色があるのか",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 121,
@@ -1526,8 +1468,7 @@
       "pageNumber": 122,
       "content": "白き響",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -1539,8 +1480,7 @@
       "pageNumber": 124,
       "content": "丘を　よぢる",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 125,
@@ -1552,8 +1492,7 @@
       "pageNumber": 126,
       "content": "おもたい　かなしみ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1565,8 +1504,7 @@
       "pageNumber": 128,
       "content": "胡蝶",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1584,8 +1522,7 @@
       "pageNumber": 131,
       "content": "おほぞらの　水",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,
@@ -1597,8 +1534,7 @@
       "pageNumber": 133,
       "content": "そらの　はるけさ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1610,15 +1546,13 @@
       "pageNumber": 135,
       "content": "霧が　ふる",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
       "content": "霧が　ふる",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 137,
@@ -1630,15 +1564,13 @@
       "pageNumber": 138,
       "content": "空が　凝視《み》てゐる",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,
       "content": "空が　凝視《み》てゐる",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1650,8 +1582,7 @@
       "pageNumber": 141,
       "content": "こころ　暗き日",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 142,
@@ -1663,8 +1594,7 @@
       "pageNumber": 143,
       "content": "蒼白い　きりぎし",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -1682,8 +1612,7 @@
       "pageNumber": 146,
       "content": "夜の薔薇《そうび》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 147,
@@ -1695,8 +1624,7 @@
       "pageNumber": 148,
       "content": "わが児《こ》",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 149,
@@ -1708,8 +1636,7 @@
       "pageNumber": 150,
       "content": "つばねの　穂",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1721,8 +1648,7 @@
       "pageNumber": 152,
       "content": "人を　殺さば",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 153,
@@ -1734,8 +1660,7 @@
       "pageNumber": 154,
       "content": "水に　嘆く",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 155,
@@ -1759,8 +1684,7 @@
       "pageNumber": 158,
       "content": "蝕む　祈り",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 159,
@@ -1778,8 +1702,7 @@
       "pageNumber": 161,
       "content": "哀しみの　秋",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 162,
@@ -1791,8 +1714,7 @@
       "pageNumber": 163,
       "content": "静かな　焔",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,
@@ -1804,8 +1726,7 @@
       "pageNumber": 165,
       "content": "石塊《いしくれ》と　語る",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,
@@ -1817,8 +1738,7 @@
       "pageNumber": 167,
       "content": "大木《たいぼく》　を　たたく",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 168,
@@ -1830,8 +1750,7 @@
       "pageNumber": 169,
       "content": "稲妻",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,
@@ -1843,8 +1762,7 @@
       "pageNumber": 171,
       "content": "しのだけ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 172,
@@ -1856,8 +1774,7 @@
       "pageNumber": 173,
       "content": "むなしさの　空",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 174,
@@ -1869,8 +1786,7 @@
       "pageNumber": 175,
       "content": "こころの　船出",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1882,8 +1798,7 @@
       "pageNumber": 177,
       "content": "朝の　あやうさ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 178,
@@ -1895,8 +1810,7 @@
       "pageNumber": 179,
       "content": "あめの　日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 180,
@@ -1908,8 +1822,7 @@
       "pageNumber": 181,
       "content": "追憶",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 182,
@@ -1921,8 +1834,7 @@
       "pageNumber": 183,
       "content": "草の　実",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 184,
@@ -1934,8 +1846,7 @@
       "pageNumber": 185,
       "content": "暗光",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 186,
@@ -1947,8 +1858,7 @@
       "pageNumber": 187,
       "content": "止まつた　ウオツチ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 188,
@@ -1960,8 +1870,7 @@
       "pageNumber": 189,
       "content": "鳩が飛ぶ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1973,8 +1882,7 @@
       "pageNumber": 191,
       "content": "草に　すわる",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
@@ -1986,8 +1894,7 @@
       "pageNumber": 193,
       "content": "夜の　空の　くらげ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 194,
@@ -1999,8 +1906,7 @@
       "pageNumber": 195,
       "content": "虹",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 196,
@@ -2012,8 +1918,7 @@
       "pageNumber": 197,
       "content": "秋",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -2025,8 +1930,7 @@
       "pageNumber": 199,
       "content": "黎明",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 200,
@@ -2038,8 +1942,7 @@
       "pageNumber": 201,
       "content": "不思議をおもふ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 202,
@@ -2051,8 +1954,7 @@
       "pageNumber": 203,
       "content": "あをい　水のかげ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 204,
@@ -2064,8 +1966,7 @@
       "pageNumber": 205,
       "content": "人間",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 206,
@@ -2077,8 +1978,7 @@
       "pageNumber": 207,
       "content": "皎々とのぼつてゆきたい",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 208,
@@ -2090,8 +1990,7 @@
       "pageNumber": 209,
       "content": "キーツに　寄す",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 210,
@@ -2103,8 +2002,7 @@
       "pageNumber": 211,
       "content": "はらへたまつてゆく　かなしみ",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 212,
@@ -2116,8 +2014,7 @@
       "pageNumber": 213,
       "content": "怒《いか》れる　相《すがた》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 214,
@@ -2129,8 +2026,7 @@
       "pageNumber": 215,
       "content": "かすかな　像《イメヱジ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 216,
@@ -2142,15 +2038,13 @@
       "pageNumber": 217,
       "content": "かすかな　像《イメヱジ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 218,
       "content": "秋の日の　こころ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 219,
@@ -2162,8 +2056,7 @@
       "pageNumber": 220,
       "content": "白い　雲",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 221,
@@ -2175,15 +2068,13 @@
       "pageNumber": 222,
       "content": "白い　路",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 223,
       "content": "白い　路",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 224,
@@ -2195,8 +2086,7 @@
       "pageNumber": 225,
       "content": "感傷",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 226,
@@ -2208,8 +2098,7 @@
       "pageNumber": 227,
       "content": "沼と風",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 228,
@@ -2221,8 +2110,7 @@
       "pageNumber": 229,
       "content": "毛蟲を　うづめる",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 230,
@@ -2234,8 +2122,7 @@
       "pageNumber": 231,
       "content": "春も　晩く",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 232,
@@ -2247,8 +2134,7 @@
       "pageNumber": 233,
       "content": "おもひ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 234,
@@ -2260,8 +2146,7 @@
       "pageNumber": 235,
       "content": "秋の　壁",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 236,
@@ -2273,8 +2158,7 @@
       "pageNumber": 237,
       "content": "郷愁",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 238,
@@ -2286,8 +2170,7 @@
       "pageNumber": 239,
       "content": "郷愁",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 240,
@@ -2299,8 +2182,7 @@
       "pageNumber": 241,
       "content": "ひとつの　ながれ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 242,
@@ -2312,8 +2194,7 @@
       "pageNumber": 243,
       "content": "宇宙の　良心",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 244,
@@ -2325,8 +2206,7 @@
       "pageNumber": 245,
       "content": "空と光",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 246,
@@ -2338,8 +2218,7 @@
       "pageNumber": 247,
       "content": "おもひなき　哀しさ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 248,
@@ -2351,8 +2230,7 @@
       "pageNumber": 249,
       "content": "ゆくはるの　宵",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 250,
@@ -2364,8 +2242,7 @@
       "pageNumber": 251,
       "content": "しづかなる　ながれ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 252,
@@ -2377,8 +2254,7 @@
       "pageNumber": 253,
       "content": "ちいさい　ふくろ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 254,
@@ -2390,8 +2266,7 @@
       "pageNumber": 255,
       "content": "哭くな　児よ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 256,
@@ -2403,8 +2278,7 @@
       "pageNumber": 257,
       "content": "哭くな　児よ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 258,
@@ -2416,8 +2290,7 @@
       "pageNumber": 259,
       "content": "怒り",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 260,
@@ -2429,8 +2302,7 @@
       "pageNumber": 261,
       "content": "春",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 262,
@@ -2442,8 +2314,7 @@
       "pageNumber": 263,
       "content": "柳も　かるく",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 264,

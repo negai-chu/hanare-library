@@ -66,7 +66,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 385,
-    "chapterTitles": []
+    "chapterTitles": [
+      "オパール色の手紙"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "四月十三日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 5,
       "content": "四月十四日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -112,8 +112,7 @@
       "pageNumber": 7,
       "content": "四月十五日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -131,8 +130,7 @@
       "pageNumber": 10,
       "content": "四月十七日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -156,8 +154,7 @@
       "pageNumber": 14,
       "content": "四月十八日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -193,8 +190,7 @@
       "pageNumber": 20,
       "content": "四月十九日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -212,8 +208,7 @@
       "pageNumber": 23,
       "content": "四月二十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

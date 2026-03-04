@@ -156,7 +156,9 @@
     ],
     "totalPages": 253,
     "averageCharsPerPage": 505,
-    "chapterTitles": []
+    "chapterTitles": [
+      "若草物語"
+    ]
   },
   "content": [
     {
@@ -170,8 +172,7 @@
       "pageNumber": 2,
       "content": "作者について",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -189,8 +190,7 @@
       "pageNumber": 5,
       "content": "第一　巡礼あそび",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -262,8 +262,7 @@
       "pageNumber": 17,
       "content": "第二　たのしいクリスマス",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -329,8 +328,7 @@
       "pageNumber": 28,
       "content": "第三　ローレンスのぼっちゃん",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -390,8 +388,7 @@
       "pageNumber": 38,
       "content": "第四　重い荷をかついで",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -445,8 +442,7 @@
       "pageNumber": 47,
       "content": "第五　おとなりどうし",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -530,8 +526,7 @@
       "pageNumber": 61,
       "content": "第六　美しい宮殿",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -579,8 +574,7 @@
       "pageNumber": 69,
       "content": "第七　はずかしめの谷",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -640,8 +634,7 @@
       "pageNumber": 79,
       "content": "第八　ジョウの原稿",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -719,8 +712,7 @@
       "pageNumber": 92,
       "content": "第九　虚栄の市",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -864,8 +856,7 @@
       "pageNumber": 116,
       "content": "第十一　経験が教える",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -937,8 +928,7 @@
       "pageNumber": 128,
       "content": "第十二　ローレンスのキャンプ",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1094,8 +1084,7 @@
       "pageNumber": 154,
       "content": "第十四　秘密",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 155,
@@ -1173,8 +1162,7 @@
       "pageNumber": 167,
       "content": "第十五　雲のかげの光",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 168,
@@ -1234,8 +1222,7 @@
       "pageNumber": 177,
       "content": "第十六　手紙の花束",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 178,
@@ -1301,8 +1288,7 @@
       "pageNumber": 188,
       "content": "第十七　小さな真心",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 189,
@@ -1338,8 +1324,7 @@
       "pageNumber": 194,
       "content": "第十八　つづく暗い日",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 195,
@@ -1387,8 +1372,7 @@
       "pageNumber": 202,
       "content": "第十九　エミイの遺言状",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 203,
@@ -1442,8 +1426,7 @@
       "pageNumber": 211,
       "content": "第二十　うち明け話",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 212,
@@ -1497,8 +1480,7 @@
       "pageNumber": 220,
       "content": "第二十一　ローリイのいたずら",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 221,
@@ -1570,8 +1552,7 @@
       "pageNumber": 232,
       "content": "第二十二　たのしい野辺",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 233,
@@ -1625,8 +1606,7 @@
       "pageNumber": 241,
       "content": "第二十三　マーチおばさん",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 242,

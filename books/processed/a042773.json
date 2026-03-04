@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "翻訳の序文"
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "序詞",
         "startPage": 6,
-        "endPage": 0,
-        "summary": "物語の序詞"
+        "endPage": 8
       },
       {
         "id": "chapter-3",
         "title": "第一幕",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 63,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -63,14 +61,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "両家の争いの始まり"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第二幕",
         "startPage": 64,
-        "endPage": 0,
+        "endPage": 112,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -108,14 +105,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "秘密の愛の誓い"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第三幕",
         "startPage": 113,
-        "endPage": 0,
+        "endPage": 170,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -147,14 +143,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "悲劇への転落"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第四幕",
         "startPage": 171,
-        "endPage": 0,
+        "endPage": 201,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -186,8 +181,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "絶望の中の計略"
+        ]
       },
       {
         "id": "chapter-7",
@@ -213,8 +207,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "運命の結末"
+        ]
       }
     ],
     "totalPages": 231,

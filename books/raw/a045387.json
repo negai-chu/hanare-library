@@ -48,7 +48,9 @@
     ],
     "totalPages": 182,
     "averageCharsPerPage": 372,
-    "chapterTitles": []
+    "chapterTitles": [
+      "行乞記"
+    ]
   },
   "content": [
     {
@@ -158,8 +160,7 @@
       "pageNumber": 18,
       "content": "一月九日　曇、小雪、冷たい、四里、鐘ヶ崎、石橋屋（中）",
       "characters": 27,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -171,15 +172,13 @@
       "pageNumber": 20,
       "content": "一月十一日　晴、歩いたり乗つたりして十里、志免、富好庵。",
       "characters": 28,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
       "content": "一月十二日　雨后晴、足と車とで十余里、姪ノ浜、熊本屋。",
       "characters": 27,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -431,8 +430,7 @@
       "pageNumber": 63,
       "content": "二月十六日　廿二日　島原で休養。",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,

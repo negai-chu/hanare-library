@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "唯物論への序"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一部　物質論",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 108,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -36,16 +35,15 @@
             "id": "chapter-2-section-2",
             "number": "二　空間論",
             "startPage": 40,
-            "endPage": 0
+            "endPage": 108
           }
-        ],
-        "summary": "物質の本質"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二部　認識論",
         "startPage": 109,
-        "endPage": 0,
+        "endPage": 233,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -63,16 +61,15 @@
             "id": "chapter-3-section-3",
             "number": "五　論理乃至論理学",
             "startPage": 181,
-            "endPage": 0
+            "endPage": 233
           }
-        ],
-        "summary": "認識の構造"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三部　科学論",
         "startPage": 234,
-        "endPage": 0,
+        "endPage": 370,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -90,10 +87,9 @@
             "id": "chapter-4-section-3",
             "number": "八　社会科学論",
             "startPage": 323,
-            "endPage": 0
+            "endPage": 370
           }
-        ],
-        "summary": "科学の方法"
+        ]
       },
       {
         "id": "chapter-5",
@@ -119,8 +115,7 @@
             "startPage": 456,
             "endPage": 465
           }
-        ],
-        "summary": "文化の位置づけ"
+        ]
       }
     ],
     "totalPages": 465,

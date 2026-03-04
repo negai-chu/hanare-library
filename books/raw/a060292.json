@@ -48,7 +48,9 @@
     ],
     "totalPages": 9,
     "averageCharsPerPage": 183,
-    "chapterTitles": []
+    "chapterTitles": [
+      "古代エジプトの作品"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "カ　フ　ラー王坐像",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "ラー　ヘテプ、ネフエルト坐像",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -88,8 +88,7 @@
       "pageNumber": 6,
       "content": "「シエイク　エル　バラド」",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -101,8 +100,7 @@
       "pageNumber": 8,
       "content": "書記坐像",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

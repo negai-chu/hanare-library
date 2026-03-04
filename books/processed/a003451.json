@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "豪華版",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "豪華本の功罪"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 397,
-    "chapterTitles": []
+    "chapterTitles": [
+      "豪華版"
+    ]
   },
   "content": [
     {

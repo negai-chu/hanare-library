@@ -36,7 +36,9 @@
     ],
     "totalPages": 42,
     "averageCharsPerPage": 524,
-    "chapterTitles": []
+    "chapterTitles": [
+      "空を飛ぶパラソル"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "その一　空《くう》を飛ぶパラソル",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -201,8 +202,7 @@
       "pageNumber": 27,
       "content": "その二　濡《ぬ》れた鯉《こい》のぼり",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

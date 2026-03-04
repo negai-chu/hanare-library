@@ -17,128 +17,130 @@
         "id": "chapter-1",
         "title": "シャリアピン",
         "startPage": 1,
-        "endPage": 59,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 5,
-            "endPage": 6
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
-            "startPage": 7,
-            "endPage": 10
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "４",
-            "startPage": 11,
-            "endPage": 13
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "５",
-            "startPage": 14,
-            "endPage": 16
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-6",
             "number": "６",
-            "startPage": 17,
-            "endPage": 20
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-7",
             "number": "７",
-            "startPage": 21,
-            "endPage": 23
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-8",
             "number": "８",
-            "startPage": 24,
-            "endPage": 26
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-9",
             "number": "９",
-            "startPage": 27,
-            "endPage": 29
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-10",
             "number": "10",
-            "startPage": 30,
-            "endPage": 32
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-11",
             "number": "11",
-            "startPage": 33,
-            "endPage": 36
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-12",
             "number": "12",
-            "startPage": 37,
-            "endPage": 39
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-13",
             "number": "13",
-            "startPage": 40,
-            "endPage": 41
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-14",
             "number": "14",
-            "startPage": 42,
-            "endPage": 44
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-15",
             "number": "15",
-            "startPage": 45,
-            "endPage": 47
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-16",
             "number": "16",
-            "startPage": 48,
-            "endPage": 49
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-17",
             "number": "17",
-            "startPage": 50,
-            "endPage": 52
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-18",
             "number": "18",
-            "startPage": 53,
-            "endPage": 56
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-19",
             "number": "19",
-            "startPage": 57,
-            "endPage": 59
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 59,
-    "averageCharsPerPage": 85,
-    "chapterTitles": []
+    "totalPages": 40,
+    "averageCharsPerPage": 126,
+    "chapterTitles": [
+      "シャリアピン"
+    ]
   },
   "content": [
     {
@@ -150,367 +152,234 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　１\n\n　わたしはシャリアピンさまに\n\n永年仕へてゐる蚤\n\nともに韃靼の古都カザンに生れ\n\nともに暮して当年六十四歳、\n\n夏はシャリアピンのカラーの下の涼しいところに\n\n冬は暖い頭髪の中に\n\n平素は主として鳩尾《みづおち》のあたりに住んでゐる、\n\n早耳、早足は小生の特長\n\n御主人シャリアピンが御承知なくとも",
+      "characters": 154,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　わたしはシャリアピンさまに\n\n永年仕へてゐる蚤\n\nともに韃靼の古都カザンに生れ\n\nともに暮して当年六十四歳、\n\n夏はシャリアピンのカラーの下の涼しいところに\n\n冬は暖い頭髪の中に\n\n平素は主として鳩尾《みづおち》のあたりに住んでゐる、\n\n早耳、早足は小生の特長\n\n御主人シャリアピンが御承知なくとも",
-      "characters": 150,
+      "content": "わたしはすべてを知つてゐる、\n\nソビヱットのこと、\n\n旦那の若い頃からの友達ゴリキイ旦那の最近の便りも\n\nせつせと走り廻つたり、聴き廻つたりして、\n\n世の中のだんだん変つてゆくのを\n\n知ることは私の楽しみだ。２",
+      "characters": 105,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "わたしはすべてを知つてゐる、\n\nソビヱットのこと、\n\n旦那の若い頃からの友達ゴリキイ旦那の最近の便りも\n\nせつせと走り廻つたり、聴き廻つたりして、\n\n世の中のだんだん変つてゆくのを\n\n知ることは私の楽しみだ。",
-      "characters": 104,
+      "content": "旦那の歌はもう聴きあきた、\n\n汚らはしい金持の拍手と\n\n無理をし算段をして入場料を払ひ\n\n旦那の芸術を聴きにくる人々の\n\n割れるやうな拍手が、ホールに響くのも毎度のことだ\n\nだが大きな働いてゐる手の持主\n\n労働者の拍手をついぞ聞いたこともない、\n\nなにせ入場料が、二円、四円、六円ではね、３",
+      "characters": 145,
       "ruby": []
     },
     {
       "pageNumber": 5,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
-      "content": "旦那の歌はもう聴きあきた、\n\n汚らはしい金持の拍手と\n\n無理をし算段をして入場料を払ひ\n\n旦那の芸術を聴きにくる人々の\n\n割れるやうな拍手が、ホールに響くのも毎度のことだ\n\nだが大きな働いてゐる手の持主\n\n労働者の拍手をついぞ聞いたこともない、\n\nなにせ入場料が、二円、四円、六円ではね、",
-      "characters": 144,
-      "ruby": []
-    },
-    {
-      "pageNumber": 7,
-      "content": "３",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 8,
       "content": "かう見えても、わしは蚤の仲間のコンミニストなのだよ、\n\nだから御主人シャリアピンの批判もできるのさ、\n\nまあ笑はないで下さい。\n\n　　蚤のコンミニスト\n\n　　さらば、我が蚤に\n\n　　心ゆくまで\n\n　　悪態を言はしてみよ、\n\n　　蚤の悪態、ハハハハハ\n\n　　蚤―、ハハハハハ",
       "characters": 136,
       "ruby": []
     },
     {
-      "pageNumber": 9,
+      "pageNumber": 6,
       "content": "　　ハハハハハ、蚤のコンミニスト\n\nいかがで御座る、\n\n見やう聴き真似で御主人の\n\nメフィストの蚤の歌に\n\nそのまゝそつくりの巧みさがあるでせう。\n\n日本でもこれを歌ひました\n\n桟敷から誰かゞロシア語で吐《ママ》鳴つた、\n\n「メフィストの蚤の歌を謳つて下さい」\n\nするとシャリアピンは舞台から",
       "characters": 146,
       "ruby": []
     },
     {
-      "pageNumber": 10,
-      "content": "「いま、音楽会が始まつたばかり\n\n　そんなにあわてなさいますな――」\n\nと愛嬌を振りまいて又々拍手拍手であつた。",
-      "characters": 56,
+      "pageNumber": 7,
+      "content": "「いま、音楽会が始まつたばかり\n\n　そんなにあわてなさいますな――」\n\nと愛嬌を振りまいて又々拍手拍手であつた。４",
+      "characters": 57,
       "ruby": []
     },
     {
-      "pageNumber": 11,
-      "content": "４",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 12,
+      "pageNumber": 8,
       "content": "御主人はちと認識不足だよ、\n\nあわてなさいますなと言つたところで\n\n日本人といふ国民性は\n\n世界の中でも最も\n\nあわてる人種だといふことを御存知ないのだ、\n\nヤポンスキイ（日本人）は感情的な人間が多いが、\n\n深い感情ではない、\n\nいつも「追ひつめられた決意」で動く国民だ、\n\nそしておそろしく単純だ、",
       "characters": 150,
       "ruby": []
     },
     {
-      "pageNumber": 13,
-      "content": "――ソビヱット即スターリン\n\n――文学即ゴーリキイ\n\n――プーシキン即オネーギン\n\n――シャリアピン即蚤の歌さ、\n\n物事を端し折つて\n\n理解することにかけては天才さ、\n\n「其他の条件」といふことを\n\n無視する才能に恵まれてゐる。",
-      "characters": 114,
+      "pageNumber": 9,
+      "content": "――ソビヱット即スターリン\n\n――文学即ゴーリキイ\n\n――プーシキン即オネーギン\n\n――シャリアピン即蚤の歌さ、\n\n物事を端し折つて\n\n理解することにかけては天才さ、\n\n「其他の条件」といふことを\n\n無視する才能に恵まれてゐる。５",
+      "characters": 115,
       "ruby": []
     },
     {
-      "pageNumber": 14,
-      "content": "５",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 15,
+      "pageNumber": 10,
       "content": "わしの旦那シャリアピンは\n\nなるほど声楽王にちがひない\n\n第一に声量の大きな点\n\nだが声量に驚ろくこともない\n\n驚ろくものは「井戸の蛙」だ\n\n外国にはあの程度の声量は珍らしくない、\n\nシャリアピン的声量は\n\n日本のそこらにもザラに転がつてゐる、\n\n閲兵式へ、練兵場へ行つてごらん、",
       "characters": 140,
       "ruby": []
     },
     {
-      "pageNumber": 16,
-      "content": "戸山ケ原へ行つてごらん、\n\n「気をつけ―」「頭を右ィ」\n\nなんて響き渡る、帝国主義の号令の声だ、\n\nその声はホールの中ではなく\n\n野天で高いのだ、老いたる伍長の職業的に高い声だらう、",
-      "characters": 91,
+      "pageNumber": 11,
+      "content": "戸山ケ原へ行つてごらん、\n\n「気をつけ―」「頭を右ィ」\n\nなんて響き渡る、帝国主義の号令の声だ、\n\nその声はホールの中ではなく\n\n野天で高いのだ、老いたる伍長の職業的に高い声だらう、６",
+      "characters": 92,
       "ruby": []
     },
     {
-      "pageNumber": 17,
-      "content": "６",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 18,
+      "pageNumber": 12,
       "content": "可哀さうに旦那も歌ひましたよ、\n\nクロチキンの詩ダルゴミジスキーの曲\n\n劇詩「老いたる伍長」を旦那は感慨ぶかさうに歌つた、\n\n旦那のいつもの癖、ピアノの蓋を手でさすつたり、\n\n撫でたり、指で拍子をとつたりして\n\n大きな胴体の中の風の袋を\n\n全く良い音にしぼりあげて出した。\n\n　　足を揃へ、オイ銃を下すな\n\n　　俺はパイプをもつてゐる",
       "characters": 167,
       "ruby": []
     },
     {
-      "pageNumber": 19,
+      "pageNumber": 13,
       "content": "　　最後の別れだ、\n\n　　送つてくれ\n\n　　俺は君等の親父だよ、\n\n　　頭も此の通り白髪だよ、\n\n　　これが軍隊の生活だ、\n\n　　足を揃へて―オイチ、ニ、\n\n　　気をつけ、右へならへ\n\n　　オイチ、ニ、オイチ、ニ、\n\n（劇詩「老いたる伍長」の歌詞から）\n破れるやうな拍手の中に",
       "characters": 138,
       "ruby": []
     },
     {
-      "pageNumber": 20,
-      "content": "老いたる伍長シャリアピン\n\n「芸術のために」オイチ、ニ、オイチ、ニ、\n\nと労働者の聴衆ではなく\n\n所謂上流の席上《ヲプシチエストヴオ》の歌ひ手として、\n\nオイチニ、オイチニ、と歌うたふ、\n\n「ロシアに偉大なる芸術あり」\n\nといふ宣伝旅行の役割を\n\n旦那が果してゐるだらうか、残念ながら、\n\n「ロシアに頑固なる芸術家あり」といふことを吹聴してあるくやうなものだ",
-      "characters": 179,
+      "pageNumber": 14,
+      "content": "老いたる伍長シャリアピン\n\n「芸術のために」オイチ、ニ、オイチ、ニ、\n\nと労働者の聴衆ではなく\n\n所謂上流の席上《ヲプシチエストヴオ》の歌ひ手として、\n\nオイチニ、オイチニ、と歌うたふ、\n\n「ロシアに偉大なる芸術あり」\n\nといふ宣伝旅行の役割を\n\n旦那が果してゐるだらうか、残念ながら、\n\n「ロシアに頑固なる芸術家あり」といふことを吹聴してあるくやうなものだ７",
+      "characters": 180,
       "ruby": []
     },
     {
-      "pageNumber": 21,
-      "content": "７",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 22,
+      "pageNumber": 15,
       "content": "頑固な見本がも一つある\n\nそれはソビヱットの生理学者六十余歳の\n\nバブロフ教授だ、\n\n一九一五年の或る朝\n\n助手が二十分程遅刻して研究室にやつてきた、\n\n彼の顔はまつ青で、心も落着いてゐない、\n\n「なぜ遅れてきたのか」\n\nすると若い研究生は答へた。\n\n「先生、街は、革命の市街戦でした、",
       "characters": 143,
       "ruby": []
     },
     {
-      "pageNumber": 23,
-      "content": "　やつとこゝまで弾丸の下をくぐつて―」\n\nすると教授は不機嫌な顔をした\n\n「革命は革命だ、研究は、研究だ、\n\n　なんの関係もない、遅刻することはよろしくない、\n\n　さあすぐ研究にかゝり給へ―」",
-      "characters": 96,
+      "pageNumber": 16,
+      "content": "　やつとこゝまで弾丸の下をくぐつて―」\n\nすると教授は不機嫌な顔をした\n\n「革命は革命だ、研究は、研究だ、\n\n　なんの関係もない、遅刻することはよろしくない、\n\n　さあすぐ研究にかゝり給へ―」８",
+      "characters": 97,
       "ruby": []
     },
     {
-      "pageNumber": 24,
-      "content": "８",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 25,
+      "pageNumber": 17,
       "content": "多くの学者達が、革命勃発といつしよに、国外に走つた\n\nバブロフ教授は\n\n「ロシアはわしの永遠の祖国じや\n\n　政体はなんに変らうが、\n\n　わしは一歩もロシアを去らんわい」\n\nと頑固に饑餓の中で研究をつづけてゐた\n\n間もなく「バブロフを救へ」の声が起こつた\n\nこれは愛すべき頑固の一種だ、\n\nシャリアピンも新しいロシアに一時踏み止まつて",
       "characters": 166,
       "ruby": []
     },
     {
-      "pageNumber": 26,
-      "content": "新共和国のために貢献したが、\n\n欧米巡業に出たきり\n\nその儘亡命芸術家の群に投じて\n\nどうしても帰国しない、\n\nこれはいかなる頑固の性質に、加へていゝだらうか、\n\nバブロフ教授は、その貴重な研究の成果を\n\n新しいコンミニスト、科学者へ伝へてゐる、",
-      "characters": 123,
+      "pageNumber": 18,
+      "content": "新共和国のために貢献したが、\n\n欧米巡業に出たきり\n\nその儘亡命芸術家の群に投じて\n\nどうしても帰国しない、\n\nこれはいかなる頑固の性質に、加へていゝだらうか、\n\nバブロフ教授は、その貴重な研究の成果を\n\n新しいコンミニスト、科学者へ伝へてゐる、９",
+      "characters": 124,
       "ruby": []
     },
     {
-      "pageNumber": 27,
-      "content": "９",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 28,
+      "pageNumber": 19,
       "content": "シャリアピンは世界のブルジョア芸術家や聴衆を\n\nその声量の大きさで驚ろかすばかり\n\n各国の中流上流の生活者の\n\n客間に話題をのこして\n\n転々として歌ひ去つてゆく、\n\nシャリアピンはしきりに叫ぶ、\n\n声は私の芸術そのものではない―、\n\n魂の奥にあるものを表現する手段です―、\n\n私の芸術は声ではない―、声ではない―と、",
       "characters": 158,
       "ruby": []
     },
     {
-      "pageNumber": 29,
-      "content": "シャリアピンの声は\n\n演奏室の中の声といふよりも、\n\nこれは吹きさらしの共同農場の\n\n穀物置場で\n\n若いロシアの青年を前にして歌つたら\n\nどんなに彼にぴつたりするだらう。",
-      "characters": 85,
+      "pageNumber": 20,
+      "content": "シャリアピンの声は\n\n演奏室の中の声といふよりも、\n\nこれは吹きさらしの共同農場の\n\n穀物置場で\n\n若いロシアの青年を前にして歌つたら\n\nどんなに彼にぴつたりするだらう。10",
+      "characters": 87,
       "ruby": []
     },
     {
-      "pageNumber": 30,
-      "content": "10",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 31,
+      "pageNumber": 21,
       "content": "ストラウィンスキイは\n\n演奏室を最悪の敵とした\n\nこれは聴衆の想像力の働きを\n\n制限する憎むべきものだ、\n\n演奏室は音楽を、或る種の鎮静剤として\n\n一般民衆の間に虚偽を創造する\n\nと彼ははげしく演奏室に反逆してゐる。\n\n資本主義国の演奏室では\n\n曲目選定の自由は制限されてゐる、",
       "characters": 139,
       "ruby": []
     },
     {
-      "pageNumber": 32,
-      "content": "歌ふことの出来るものは\n\n自己階級に忠実な歌ばかり、反逆的なものはゆるさない、\n\n入場料金に依る聴衆の階級層は制限される、\n\nあゝ、なんて料金の高さで\n\n無産者を木戸口から\n\n追ひ帰へしてゐるだらう、",
-      "characters": 100,
+      "pageNumber": 22,
+      "content": "歌ふことの出来るものは\n\n自己階級に忠実な歌ばかり、反逆的なものはゆるさない、\n\n入場料金に依る聴衆の階級層は制限される、\n\nあゝ、なんて料金の高さで\n\n無産者を木戸口から\n\n追ひ帰へしてゐるだらう、11",
+      "characters": 102,
       "ruby": []
     },
     {
-      "pageNumber": 33,
-      "content": "11",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 34,
+      "pageNumber": 23,
       "content": "人間の意志を行動化し\n\nそれに拍車を加へるのが\n\n新しい芸術の目的であるのに\n\nあゝ、なんて資本主義国の音楽演奏室では\n\n音楽はアヘンの役目を果すのだらう、\n\nシャリアピンは各国の阿片室から、阿片室を巡業する\n\n自然の声に到達した、人間の声の所有者\n\nシャリアピンは、その歌ふ所と時とを失つてゐる、\n\n少女が舞台の上に花を置いて去る",
       "characters": 166,
       "ruby": []
     },
     {
-      "pageNumber": 35,
+      "pageNumber": 24,
       "content": "するとわが偉大なる芸術家シャリアピンは\n\n舞台に犬のやうに腹這いになつて花に接吻する、\n\nゴリキイに就いて話をすることは\n\n政治のことを語らなければならなくなるからと\n\nゴリキイのことをシャリアピンは語らない、\n\n「私は一生をたゞ、ミューズの神に捧げてゐるのですから―」\n\nシャリアピンは、人間を語ることは\n\n政治を語ることだといふことを知つてゐるのだ、\n\nゴリキイを語ることはソビヱットを語ることになる、",
       "characters": 203,
       "ruby": []
     },
     {
-      "pageNumber": 36,
-      "content": "さてシャリアピンを語ることは、何を語ることになるだらう。\n\nゴリキイは明瞭だ、\n\nシャリアピンはどんな政治的\n\n背景をもつてゐるだらう。",
-      "characters": 68,
+      "pageNumber": 25,
+      "content": "さてシャリアピンを語ることは、何を語ることになるだらう。\n\nゴリキイは明瞭だ、\n\nシャリアピンはどんな政治的\n\n背景をもつてゐるだらう。12",
+      "characters": 70,
       "ruby": []
     },
     {
-      "pageNumber": 37,
-      "content": "12",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 38,
+      "pageNumber": 26,
       "content": "彼、彼は、亡命者だ、\n\n祖国がない、純「スラブ」的な声\n\nこれこそ唯一の彼にとつて愛《いと》しいものだ、\n\n老いが、愛しい声をすりへらしてゆく、\n\nブルジョア国の政治的庇護も\n\n彼の肉体の衰へは支へることができない、\n\n音声の力学的効果を\n\nとらへることに就いての天才だ、\n\nあゝ、だが歌ふ彼の肉体の",
       "characters": 150,
       "ruby": []
     },
     {
-      "pageNumber": 39,
-      "content": "生理的な組織は頽廃期に這入つてゐるのだ、\n\nこのことだけは、この歌ひ手の肉体の\n\n個々の細胞に関すること柄だ、\n\n彼の肉体ではいま\n\n生きる細胞と―\n\n死する細胞と―の激しい葛藤に速度を加へてゐる",
-      "characters": 98,
+      "pageNumber": 27,
+      "content": "生理的な組織は頽廃期に這入つてゐるのだ、\n\nこのことだけは、この歌ひ手の肉体の\n\n個々の細胞に関すること柄だ、\n\n彼の肉体ではいま\n\n生きる細胞と―\n\n死する細胞と―の激しい葛藤に速度を加へてゐる13",
+      "characters": 100,
       "ruby": []
     },
     {
-      "pageNumber": 40,
-      "content": "13",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 41,
-      "content": "シャリアピンは己れの滅びる細胞を\n\n意志に還元して\n\nそれを伝へる対象をもつてゐない、\n\nゴルキーの滅びる細胞は、\n\nバブロフの滅びる細胞は\n\nソビヱットの若い世代の\n\n若い人々へ伝達される\n\nそこでは不滅の細胞と化す、",
-      "characters": 110,
+      "pageNumber": 28,
+      "content": "シャリアピンは己れの滅びる細胞を\n\n意志に還元して\n\nそれを伝へる対象をもつてゐない、\n\nゴルキーの滅びる細胞は、\n\nバブロフの滅びる細胞は\n\nソビヱットの若い世代の\n\n若い人々へ伝達される\n\nそこでは不滅の細胞と化す、14",
+      "characters": 112,
       "ruby": []
     },
     {
-      "pageNumber": 42,
-      "content": "14",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 43,
+      "pageNumber": 29,
       "content": "カスタルスキイは\n\n農民のための新しい音楽の創設に一生を捧げて\n\n七十歳の高齢で、若いコンソモールの群に、\n\nとりかこまれて死んでゐる、\n\nショスタコーウィッチ（一九〇六年生）は\n\n十五歳で作曲を発表し批評家を驚ろかした、\n\n十八の時シインホニイを書き\n\n二五歳を出でずに新しい祖国のイデオロギーを立派に作曲した\n\n「静かなるドン」の編曲者",
       "characters": 170,
       "ruby": []
     },
     {
-      "pageNumber": 44,
-      "content": "ゲオルギイ・リムスキイ、コルサコフはどうしてゐるだらう、\n\nコーヴリは、ロバチェーフは、クラアセフは、\n\n兵士のための合唱曲やマーチの作り手は\n\n都会の労働者と農民のための\n\nこれらの作曲者はどうしてゐるだらう、\n\n作曲者は、歌ひ手は、ロシアには\n\n雲のやうに沢山ゐるのだ、\n\nこれらの人々は現実的な愛国者だ、\n\nだが祖国を失つたシャリアピンは追想的な愛国者だ。",
-      "characters": 181,
+      "pageNumber": 30,
+      "content": "ゲオルギイ・リムスキイ、コルサコフはどうしてゐるだらう、\n\nコーヴリは、ロバチェーフは、クラアセフは、\n\n兵士のための合唱曲やマーチの作り手は\n\n都会の労働者と農民のための\n\nこれらの作曲者はどうしてゐるだらう、\n\n作曲者は、歌ひ手は、ロシアには\n\n雲のやうに沢山ゐるのだ、\n\nこれらの人々は現実的な愛国者だ、\n\nだが祖国を失つたシャリアピンは追想的な愛国者だ。15",
+      "characters": 183,
       "ruby": []
     },
     {
-      "pageNumber": 45,
-      "content": "15",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 46,
+      "pageNumber": 31,
       "content": "芸術の純潔性を\n\n守らなければならないために\n\nソビヱットを去つたシャリアピンの、人間的弱さを、\n\nそれは言ひかへれば彼の芸術は脆かつたことだ、\n\n芸術の純潔といひ、強さといふのは、\n\n新しい試練に堪へ得るものだ、\n\n大きな孤独よ、\n\n祖国を去つた瞬間、シャリアピンは\n\n集団的な政治的な協力者を失つた、",
       "characters": 152,
       "ruby": []
     },
     {
-      "pageNumber": 47,
-      "content": "彼はブルジョア国の中で\n\n全く個人主義的な力で\n\n自己の芸術を固守していかなければならない立場になつた、\n\n大きな寂寥よ、",
-      "characters": 61,
+      "pageNumber": 32,
+      "content": "彼はブルジョア国の中で\n\n全く個人主義的な力で\n\n自己の芸術を固守していかなければならない立場になつた、\n\n大きな寂寥よ、16",
+      "characters": 63,
       "ruby": []
     },
     {
-      "pageNumber": 48,
-      "content": "16",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 49,
-      "content": "東京駅頭で、ウラーの声に彼は迎へられた、\n\n帝政時代の三色旗を手にした\n\n白系露人の群に、\n\nこの三色旗はいまでは玩具に属してゐて\n\n現実にはそんな旗の国は\n\nとつくに滅びてしまつてゐるのに、\n\nこゝにも馬鹿気きつた頑固の夢を\n\n抱いてゐる人々がそれをしきりに振つてゐる",
-      "characters": 135,
+      "pageNumber": 33,
+      "content": "東京駅頭で、ウラーの声に彼は迎へられた、\n\n帝政時代の三色旗を手にした\n\n白系露人の群に、\n\nこの三色旗はいまでは玩具に属してゐて\n\n現実にはそんな旗の国は\n\nとつくに滅びてしまつてゐるのに、\n\nこゝにも馬鹿気きつた頑固の夢を\n\n抱いてゐる人々がそれをしきりに振つてゐる17",
+      "characters": 137,
       "ruby": []
     },
     {
-      "pageNumber": 50,
-      "content": "17",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 51,
+      "pageNumber": 34,
       "content": "表面的な日本人の顔色の黄色さと\n\nカラコロと鳴る下駄の音と\n\nホールの中の一色の拍手と\n\nこれらの日本の現象的な拍手の中に\n\nわがシャリアピンは見事に歌ひあげたのだ、\n\n日本の音楽理論家たちは\n\nシャリアピンは最も正しい発声上の、\n\n横隔膜側腹呼吸に拠つて歌つてゐるとか、\n\n「発声学的零点の保持」",
       "characters": 149,
       "ruby": []
     },
     {
-      "pageNumber": 52,
-      "content": "つまり音域の高低にも\n\n喉頭の位置を上下させないといふ\n\n理想的な型を示してゐるとか、\n\nさまざまな批評で賑やかだ、\n\n技術ではない、声の高さではない\n\nわたしの心を、心を―\n\nと一方ではシャリアピンは叫んでゐる",
-      "characters": 106,
+      "pageNumber": 35,
+      "content": "つまり音域の高低にも\n\n喉頭の位置を上下させないといふ\n\n理想的な型を示してゐるとか、\n\nさまざまな批評で賑やかだ、\n\n技術ではない、声の高さではない\n\nわたしの心を、心を―\n\nと一方ではシャリアピンは叫んでゐる18",
+      "characters": 108,
       "ruby": []
     },
     {
-      "pageNumber": 53,
-      "content": "18",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 54,
+      "pageNumber": 36,
       "content": "富士山の山姿の\n\n現象的ななだらかさのやうに―、\n\n日本の楽壇も現象的にはなごやかなものだ、\n\nだがこゝのジャンルでも\n\n詩や、劇や、小説のジャンルと等しく\n\n底では、地軸では、海底では\n\nはげしく争ひ鳴つてゐるのだ、\n\n日本の楽壇でもショスタコーウィッチの\n\n音楽理論を排撃する一派と",
       "characters": 143,
       "ruby": []
     },
     {
-      "pageNumber": 55,
+      "pageNumber": 37,
       "content": "支持する一派とが喧嘩をして\n\n支持派は団体を脱退して\n\n新しいグループを作つたり\n\n進歩的な争ひは展開してゐる\n\n舞台裏でシャリアピンと握手した松田文相は\n\nそれからものの一週間も\n\n経たない間に頓死してゐる、\n\n日本の現実も相当忙がしい、\n\nホールの上から眺めた日本",
       "characters": 134,
       "ruby": []
     },
     {
-      "pageNumber": 56,
-      "content": "自動車で通りすぎた日本とは\n\nまたちがつた激しい日本があることを知らない、\n\nシャリアピンは拍手の中に歌ひすぎてゆく",
-      "characters": 58,
+      "pageNumber": 38,
+      "content": "自動車で通りすぎた日本とは\n\nまたちがつた激しい日本があることを知らない、\n\nシャリアピンは拍手の中に歌ひすぎてゆく19",
+      "characters": 60,
       "ruby": []
     },
     {
-      "pageNumber": 57,
-      "content": "19",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 58,
+      "pageNumber": 39,
       "content": "わたしは少しばかり\n\n御主人シャリアピンの\n\n悪態を言ひすぎたやうだ、\n\n蚤の立場を忘れてあまりに\n\n人間的になつたやうだ、\n\nだがわたしは真実を語ることに\n\n臆病でないことは\n\n血を吸ふことに遠慮しないことと\n\n同じだから仕方がない",
       "characters": 117,
       "ruby": []
     },
     {
-      "pageNumber": 59,
+      "pageNumber": 40,
       "content": "まもなくわが主人シャリアピンの肉体が、\n\nしだいに冷えてくるだらう、\n\nその日、私は新しい肉体の所有主に移転するだらう、\n\nだがもう亡命者と道連れになることは懲々だ。",
       "characters": 83,
       "ruby": []

@@ -48,7 +48,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 324,
-    "chapterTitles": []
+    "chapterTitles": [
+      "白河の七日"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　南湖公園",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "二　須釜氏の花月莊",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -94,8 +94,7 @@
       "pageNumber": 7,
       "content": "三　感忠銘",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -107,8 +106,7 @@
       "pageNumber": 9,
       "content": "四　關山",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

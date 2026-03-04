@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "まえがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "一　あの世の入口に関する酋長談",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 18,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-2-section-2",
             "number": "（２）あの世の入口に関する沙流の酋長談",
             "startPage": 13,
-            "endPage": 0
+            "endPage": 18
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-3",
         "title": "二　あの世の入口に関する各地の伝説",
         "startPage": 19,
-        "endPage": 0,
+        "endPage": 39,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -151,7 +151,7 @@
             "id": "chapter-3-section-18",
             "number": "（18）虎杖浜のアフンルパ",
             "startPage": 38,
-            "endPage": 0
+            "endPage": 39
           }
         ]
       },

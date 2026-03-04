@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "自警録の執筆意図"
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "第一章　男一匹",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -96,16 +95,15 @@
             "id": "chapter-2-section-12",
             "number": "男は強かるべし強がるべからず",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 29
           }
-        ],
-        "summary": "男の独立と覚悟"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二章　一人前の人と一人前の仕事",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -143,14 +141,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "一人前の仕事の基準"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三章　強き人",
         "startPage": 45,
-        "endPage": 0,
+        "endPage": 56,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -200,14 +197,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "真の強さとは何か"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第四章　外は柔、内は剛",
         "startPage": 57,
-        "endPage": 0,
+        "endPage": 73,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -279,16 +275,15 @@
             "id": "chapter-5-section-12",
             "number": "こういう強みを処世上に持ちたい",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 73
           }
-        ],
-        "summary": "柔和な外見と剛毅な内面"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第五章　心強くなる工夫",
         "startPage": 74,
-        "endPage": 0,
+        "endPage": 87,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -338,14 +333,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "心を強くする修練"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第六章　怖気《おじけ》の矯正",
         "startPage": 88,
-        "endPage": 0,
+        "endPage": 102,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -395,14 +389,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "怖気を克服する方法"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "第七章　譏謗《きぼう》に対する態度",
         "startPage": 103,
-        "endPage": 0,
+        "endPage": 118,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -456,16 +449,15 @@
             "id": "chapter-8-section-9",
             "number": "悪口に対する理想的態度",
             "startPage": 116,
-            "endPage": 0
+            "endPage": 118
           }
-        ],
-        "summary": "批判への対処の心得"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "第八章　世に蔓延《はびこ》る者は憎まる",
         "startPage": 119,
-        "endPage": 0,
+        "endPage": 132,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -501,16 +493,15 @@
             "id": "chapter-9-section-6",
             "number": "読者中にも必ずかかる経験あらん",
             "startPage": 129,
-            "endPage": 0
+            "endPage": 132
           }
-        ],
-        "summary": "成功者への嫉妬と反感"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "第九章　心の独立と体の独立",
         "startPage": 133,
-        "endPage": 0,
+        "endPage": 147,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -558,16 +549,15 @@
             "id": "chapter-10-section-8",
             "number": "風俗習慣に逆らうは独立にあらず",
             "startPage": 146,
-            "endPage": 0
+            "endPage": 147
           }
-        ],
-        "summary": "心身の独立の大切さ"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "第十章　人生の成敗",
         "startPage": 148,
-        "endPage": 0,
+        "endPage": 161,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -605,14 +595,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "人生の成功と失敗"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "第十一章　人生の決勝点",
         "startPage": 162,
-        "endPage": 0,
+        "endPage": 174,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -660,16 +649,15 @@
             "id": "chapter-12-section-8",
             "number": "勝敗の決勝点を高きに置け",
             "startPage": 172,
-            "endPage": 0
+            "endPage": 174
           }
-        ],
-        "summary": "人生の決勝点の見極め"
+        ]
       },
       {
         "id": "chapter-13",
         "title": "第十二章　人生表裏の判断",
         "startPage": 175,
-        "endPage": 0,
+        "endPage": 188,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -705,16 +693,15 @@
             "id": "chapter-13-section-6",
             "number": "表裏の善悪を判断する標準",
             "startPage": 185,
-            "endPage": 0
+            "endPage": 188
           }
-        ],
-        "summary": "人生の表裏を判断する眼"
+        ]
       },
       {
         "id": "chapter-14",
         "title": "第十三章　広く世を渡る心がけ",
         "startPage": 189,
-        "endPage": 0,
+        "endPage": 198,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -746,14 +733,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "広く世を渡る処世術"
+        ]
       },
       {
         "id": "chapter-15",
         "title": "第十四章　報酬以上の務め",
         "startPage": 199,
-        "endPage": 0,
+        "endPage": 219,
         "sections": [
           {
             "id": "chapter-15-section-1",
@@ -813,16 +799,15 @@
             "id": "chapter-15-section-10",
             "number": "かかる心がけがあって人生の旅は幸福",
             "startPage": 216,
-            "endPage": 0
+            "endPage": 219
           }
-        ],
-        "summary": "報酬以上に働く姿勢"
+        ]
       },
       {
         "id": "chapter-16",
         "title": "第十五章　逆上を警《いまし》む",
         "startPage": 220,
-        "endPage": 0,
+        "endPage": 233,
         "sections": [
           {
             "id": "chapter-16-section-1",
@@ -852,16 +837,15 @@
             "id": "chapter-16-section-5",
             "number": "一円の小遣いを一円の財布に投じた経験",
             "startPage": 231,
-            "endPage": 0
+            "endPage": 233
           }
-        ],
-        "summary": "逆上を戒める教え"
+        ]
       },
       {
         "id": "chapter-17",
         "title": "第十六章　富貴の精神化",
         "startPage": 234,
-        "endPage": 0,
+        "endPage": 248,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -905,14 +889,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "富と精神性の調和"
+        ]
       },
       {
         "id": "chapter-18",
         "title": "第十七章　実業を精神化せよ",
         "startPage": 249,
-        "endPage": 0,
+        "endPage": 263,
         "sections": [
           {
             "id": "chapter-18-section-1",
@@ -948,16 +931,15 @@
             "id": "chapter-18-section-6",
             "number": "人生を甘からしむる心がけ",
             "startPage": 262,
-            "endPage": 0
+            "endPage": 263
           }
-        ],
-        "summary": "実業の精神的昇華"
+        ]
       },
       {
         "id": "chapter-19",
         "title": "第十八章　知らぬ恩人に対する感謝",
         "startPage": 264,
-        "endPage": 0,
+        "endPage": 280,
         "sections": [
           {
             "id": "chapter-19-section-1",
@@ -1019,14 +1001,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "見えぬ恩人への感謝"
+        ]
       },
       {
         "id": "chapter-20",
         "title": "第十九章　言葉の心",
         "startPage": 281,
-        "endPage": 0,
+        "endPage": 294,
         "sections": [
           {
             "id": "chapter-20-section-1",
@@ -1070,14 +1051,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "言葉の力と真意"
+        ]
       },
       {
         "id": "chapter-21",
         "title": "第二十章　忠告の取捨",
         "startPage": 295,
-        "endPage": 0,
+        "endPage": 310,
         "sections": [
           {
             "id": "chapter-21-section-1",
@@ -1133,14 +1113,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "忠告の取捨選択"
+        ]
       },
       {
         "id": "chapter-22",
         "title": "第二十一章　潔き感情と正しき思想",
         "startPage": 311,
-        "endPage": 0,
+        "endPage": 321,
         "sections": [
           {
             "id": "chapter-22-section-1",
@@ -1172,14 +1151,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "清い感情と正しい思想"
+        ]
       },
       {
         "id": "chapter-23",
         "title": "第二十二章　感情より出た職業選択",
         "startPage": 322,
-        "endPage": 0,
+        "endPage": 336,
         "sections": [
           {
             "id": "chapter-23-section-1",
@@ -1221,16 +1199,15 @@
             "id": "chapter-23-section-7",
             "number": "感情的誤解の根本原因",
             "startPage": 334,
-            "endPage": 0
+            "endPage": 336
           }
-        ],
-        "summary": "感情に基づく職業選択"
+        ]
       },
       {
         "id": "chapter-24",
         "title": "第二十三章　若返りの工夫",
         "startPage": 337,
-        "endPage": 0,
+        "endPage": 344,
         "sections": [
           {
             "id": "chapter-24-section-1",
@@ -1254,16 +1231,15 @@
             "id": "chapter-24-section-4",
             "number": "一年二回の花盛り",
             "startPage": 343,
-            "endPage": 0
+            "endPage": 344
           }
-        ],
-        "summary": "若返りの精神的工夫"
+        ]
       },
       {
         "id": "chapter-25",
         "title": "第二十四章　全力と余裕",
         "startPage": 345,
-        "endPage": 0,
+        "endPage": 355,
         "sections": [
           {
             "id": "chapter-25-section-1",
@@ -1305,16 +1281,15 @@
             "id": "chapter-25-section-7",
             "number": "一日に一回でも黙想せよ",
             "startPage": 353,
-            "endPage": 0
+            "endPage": 355
           }
-        ],
-        "summary": "全力投球と心の余裕"
+        ]
       },
       {
         "id": "chapter-26",
         "title": "第二十五章　理想と実現",
         "startPage": 356,
-        "endPage": 0,
+        "endPage": 368,
         "sections": [
           {
             "id": "chapter-26-section-1",
@@ -1356,16 +1331,15 @@
             "id": "chapter-26-section-7",
             "number": "理想家に対する世論の変遷",
             "startPage": 365,
-            "endPage": 0
+            "endPage": 368
           }
-        ],
-        "summary": "理想と実現の距離"
+        ]
       },
       {
         "id": "chapter-27",
         "title": "第二十六章　理想の実現は何処",
         "startPage": 369,
-        "endPage": 0,
+        "endPage": 387,
         "sections": [
           {
             "id": "chapter-27-section-1",
@@ -1427,8 +1401,7 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "理想の実現する場所"
+        ]
       },
       {
         "id": "chapter-28",
@@ -1490,8 +1463,7 @@
             "startPage": 402,
             "endPage": 404
           }
-        ],
-        "summary": "夢の実用的活用法"
+        ]
       }
     ],
     "totalPages": 404,

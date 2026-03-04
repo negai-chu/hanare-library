@@ -48,7 +48,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 499,
-    "chapterTitles": []
+    "chapterTitles": [
+      "陰火"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "誕生",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 8,
       "content": "紙の鶴",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "水車",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -173,8 +172,7 @@
       "pageNumber": 20,
       "content": "尼",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,

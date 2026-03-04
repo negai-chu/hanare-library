@@ -17,22 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "亡母の墓参り"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "二",
         "startPage": 5,
-        "endPage": 0,
-        "summary": "妻との散策"
+        "endPage": 18
       },
       {
         "id": "chapter-3",
         "title": "花を持てる女",
         "startPage": 1,
-        "endPage": 37,
-        "summary": "花を持つ女の面影"
+        "endPage": 37
       }
     ],
     "totalPages": 37,

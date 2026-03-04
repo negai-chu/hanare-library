@@ -42,7 +42,9 @@
     ],
     "totalPages": 44,
     "averageCharsPerPage": 117,
-    "chapterTitles": []
+    "chapterTitles": [
+      "魔女"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "叙事詩「魔女」の人物",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "序詩",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -88,8 +88,7 @@
       "pageNumber": 7,
       "content": "第一章　悪魔の散歩、",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

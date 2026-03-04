@@ -36,7 +36,9 @@
     ],
     "totalPages": 81,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -506,8 +508,7 @@
       "pageNumber": 78,
       "content": "〔家廟祭祀行事〕",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -519,8 +520,7 @@
       "pageNumber": 80,
       "content": "〔旅行記録〕",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,

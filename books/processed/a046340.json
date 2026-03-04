@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "前編　生涯",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 78,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-2-section-6",
             "number": "附記",
             "startPage": 71,
-            "endPage": 0
+            "endPage": 78
           }
         ]
       },

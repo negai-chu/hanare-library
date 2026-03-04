@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "森の絵",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "冬の縁側の森の絵"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 420,
-    "chapterTitles": []
+    "chapterTitles": [
+      "森の絵"
+    ]
   },
   "content": [
     {

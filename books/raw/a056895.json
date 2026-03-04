@@ -42,7 +42,9 @@
     ],
     "totalPages": 41,
     "averageCharsPerPage": 445,
-    "chapterTitles": []
+    "chapterTitles": [
+      "春の遠山入り"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 4,
       "content": "遠山入り",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -111,8 +112,7 @@
       "pageNumber": 11,
       "content": "山へ",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -286,8 +286,7 @@
       "pageNumber": 40,
       "content": "山を去る",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,

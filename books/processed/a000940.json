@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "市政の巻",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -65,16 +65,15 @@
             "id": "chapter-1-section-8",
             "number": "自治制の悪模範",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 26
           }
-        ],
-        "summary": "市政の裏面"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "江戸ッ子衰亡の巻",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 76,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -188,16 +187,15 @@
             "id": "chapter-2-section-19",
             "number": "群れ飛ぶ都鳥",
             "startPage": 74,
-            "endPage": 0
+            "endPage": 76
           }
-        ],
-        "summary": "江戸っ子の衰亡"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "建築交通の巻",
         "startPage": 77,
-        "endPage": 0,
+        "endPage": 99,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -245,16 +243,15 @@
             "id": "chapter-3-section-8",
             "number": "半狂人を作る都会",
             "startPage": 96,
-            "endPage": 0
+            "endPage": 99
           }
-        ],
-        "summary": "建築と交通の変貌"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "商売の巻",
         "startPage": 100,
-        "endPage": 0,
+        "endPage": 117,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -296,10 +293,9 @@
             "id": "chapter-4-section-7",
             "number": "「商品の民衆化」とは",
             "startPage": 115,
-            "endPage": 0
+            "endPage": 117
           }
-        ],
-        "summary": "商売の新潮流"
+        ]
       },
       {
         "id": "chapter-5",
@@ -397,8 +393,7 @@
             "startPage": 154,
             "endPage": 156
           }
-        ],
-        "summary": "生活の裏側"
+        ]
       }
     ],
     "totalPages": 156,

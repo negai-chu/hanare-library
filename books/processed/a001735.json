@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "町人学者の紹介"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "大天才富永仲基",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "天才仲基の生涯"
+        "endPage": 10
       },
       {
         "id": "chapter-3",
         "title": "佛教の研究と其の學説――「出定後語」",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -57,43 +55,37 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "仏教研究の学説"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "研究法と學説の價値",
         "startPage": 29,
-        "endPage": 0,
-        "summary": "研究法の価値"
+        "endPage": 32
       },
       {
         "id": "chapter-5",
         "title": "支那學研究の原則と神道の批判――「説蔽」・「翁の文」",
         "startPage": 33,
-        "endPage": 0,
-        "summary": "支那学と神道の批判"
+        "endPage": 36
       },
       {
         "id": "chapter-6",
         "title": "「翁の文」の新學説",
         "startPage": 37,
-        "endPage": 0,
-        "summary": "翁の文の新学説"
+        "endPage": 38
       },
       {
         "id": "chapter-7",
         "title": "家系と其の攷學",
         "startPage": 39,
-        "endPage": 0,
-        "summary": "家系と考証"
+        "endPage": 43
       },
       {
         "id": "chapter-8",
         "title": "獨創的識見",
         "startPage": 44,
-        "endPage": 46,
-        "summary": "独創的な見識"
+        "endPage": 46
       }
     ],
     "totalPages": 46,

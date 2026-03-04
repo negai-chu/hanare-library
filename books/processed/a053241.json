@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "序曲",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-1-section-4",
             "number": "『抒情小曲集』覚書",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 13
           }
         ]
       },
@@ -49,7 +49,7 @@
         "id": "chapter-2",
         "title": "一部",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -211,7 +211,7 @@
             "id": "chapter-2-section-27",
             "number": "赤櫨",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 45
           }
         ]
       },
@@ -219,7 +219,7 @@
         "id": "chapter-3",
         "title": "二部",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 73,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -393,7 +393,7 @@
             "id": "chapter-3-section-29",
             "number": "大乗寺山にて",
             "startPage": 73,
-            "endPage": 0
+            "endPage": 73
           }
         ]
       },

@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "随筆集の序文"
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "短章　その一",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 123,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -216,10 +215,9 @@
             "id": "chapter-2-section-32",
             "number": "曙町より（二十七）",
             "startPage": 122,
-            "endPage": 0
+            "endPage": 123
           }
-        ],
-        "summary": "日常の断章"
+        ]
       },
       {
         "id": "chapter-3",
@@ -287,8 +285,7 @@
             "startPage": 150,
             "endPage": 169
           }
-        ],
-        "summary": "科学者の眼差し"
+        ]
       }
     ],
     "totalPages": 169,

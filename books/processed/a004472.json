@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "旅からのはがき",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "花巻から旅の便り"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 420,
-    "chapterTitles": []
+    "chapterTitles": [
+      "旅からのはがき"
+    ]
   },
   "content": [
     {

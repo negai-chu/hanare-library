@@ -36,7 +36,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 443,
-    "chapterTitles": []
+    "chapterTitles": [
+      "風と木　からすときつね"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "風《かぜ》と木《き》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 8,
       "content": "からすときつね",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

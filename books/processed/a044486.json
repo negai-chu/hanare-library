@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "標題のつけ方",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "小説や戯曲の題名の工夫"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 473,
-    "chapterTitles": []
+    "chapterTitles": [
+      "標題のつけ方"
+    ]
   },
   "content": [
     {

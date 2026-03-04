@@ -96,7 +96,9 @@
     ],
     "totalPages": 70,
     "averageCharsPerPage": 451,
-    "chapterTitles": []
+    "chapterTitles": [
+      "化鳥"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "第一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 8,
       "content": "第二",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -178,8 +178,7 @@
       "pageNumber": 13,
       "content": "第三",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -209,8 +208,7 @@
       "pageNumber": 18,
       "content": "第四",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -246,8 +244,7 @@
       "pageNumber": 24,
       "content": "第五",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -283,8 +280,7 @@
       "pageNumber": 30,
       "content": "第六",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -314,8 +310,7 @@
       "pageNumber": 35,
       "content": "第七",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -351,8 +346,7 @@
       "pageNumber": 41,
       "content": "第八",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -400,8 +394,7 @@
       "pageNumber": 49,
       "content": "第九",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -431,8 +424,7 @@
       "pageNumber": 54,
       "content": "第十",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -462,8 +454,7 @@
       "pageNumber": 59,
       "content": "第十一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -499,8 +490,7 @@
       "pageNumber": 65,
       "content": "第十二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,

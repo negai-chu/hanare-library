@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "序章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 74,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "男の出発",
             "startPage": 35,
-            "endPage": 0
+            "endPage": 74
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-2",
         "title": "第一部",
         "startPage": 75,
-        "endPage": 0,
+        "endPage": 538,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -103,7 +103,7 @@
             "id": "chapter-2-section-11",
             "number": "命",
             "startPage": 478,
-            "endPage": 0
+            "endPage": 538
           }
         ]
       },
@@ -111,7 +111,7 @@
         "id": "chapter-3",
         "title": "第二部",
         "startPage": 539,
-        "endPage": 0,
+        "endPage": 929,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -153,7 +153,7 @@
             "id": "chapter-3-section-7",
             "number": "暴力",
             "startPage": 858,
-            "endPage": 0
+            "endPage": 929
           }
         ]
       },
@@ -161,7 +161,7 @@
         "id": "chapter-4",
         "title": "結章",
         "startPage": 930,
-        "endPage": 0,
+        "endPage": 973,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -173,7 +173,7 @@
             "id": "chapter-4-section-2",
             "number": "死と夢",
             "startPage": 952,
-            "endPage": 0
+            "endPage": 973
           }
         ]
       },

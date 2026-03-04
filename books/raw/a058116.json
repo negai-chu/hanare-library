@@ -48,7 +48,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 381,
-    "chapterTitles": []
+    "chapterTitles": [
+      "吾人の文明運動"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "〔維新・復古と文明的運動〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "〔運動の方法――学ばなければならぬ〕",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -130,8 +130,7 @@
       "pageNumber": 13,
       "content": "〔文明的運動と世界平和〕",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -149,8 +148,7 @@
       "pageNumber": 16,
       "content": "〔文明運動の新兵を〕",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

@@ -60,7 +60,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 382,
-    "chapterTitles": []
+    "chapterTitles": [
+      "劇の好きな子供たちへ"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "１　劇をやるのは何のためだろう",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "２　劇は人真似であってはならない",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 7,
       "content": "３　劇のほんとうのおもしろさはどこにあるか",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -131,8 +130,7 @@
       "pageNumber": 11,
       "content": "４　俳優はいやしいものであってはならない",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -156,8 +154,7 @@
       "pageNumber": 15,
       "content": "５　劇はどうやったらよいか",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -175,8 +172,7 @@
       "pageNumber": 18,
       "content": "６　劇のよさはどこにあるか",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

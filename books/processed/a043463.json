@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "一　信仰の経路について",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 198,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -71,16 +71,15 @@
             "id": "chapter-1-section-9",
             "number": "信仰の経路について",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 198
           }
-        ],
-        "summary": "信仰の経路と実践"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "二　信仰と生活",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 118,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -158,10 +157,9 @@
             "id": "chapter-2-section-13",
             "number": "人間共存の意識へ",
             "startPage": 36,
-            "endPage": 0
+            "endPage": 118
           }
-        ],
-        "summary": "信仰と日常生活の結合"
+        ]
       },
       {
         "id": "chapter-3",
@@ -247,8 +245,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "善悪を超えた法の生活"
+        ]
       },
       {
         "id": "chapter-4",
@@ -334,8 +331,7 @@
             "startPage": 232,
             "endPage": 234
           }
-        ],
-        "summary": "万物に宿る如来の相"
+        ]
       }
     ],
     "totalPages": 234,

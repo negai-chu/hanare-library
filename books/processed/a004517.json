@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "鉛筆日抄",
         "startPage": 1,
-        "endPage": 15,
-        "summary": "旅の鉛筆書きの日記"
+        "endPage": 15
       }
     ],
     "totalPages": 15,
     "averageCharsPerPage": 511,
-    "chapterTitles": []
+    "chapterTitles": [
+      "鉛筆日抄"
+    ]
   },
   "content": [
     {

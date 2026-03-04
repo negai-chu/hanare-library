@@ -48,7 +48,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 456,
-    "chapterTitles": []
+    "chapterTitles": [
+      "従軍紀事"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "緒言",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "海城丸船中",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -190,8 +190,7 @@
       "pageNumber": 23,
       "content": "大連湾",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -209,8 +208,7 @@
       "pageNumber": 26,
       "content": "結尾",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,

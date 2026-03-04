@@ -48,7 +48,9 @@
     ],
     "totalPages": 55,
     "averageCharsPerPage": 604,
-    "chapterTitles": []
+    "chapterTitles": [
+      "火山の話"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一、はしがき",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "二、火山《かざん》のあらまし",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -268,8 +268,7 @@
       "pageNumber": 36,
       "content": "三、噴出物《ふんしゆつぶつ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -305,8 +304,7 @@
       "pageNumber": 42,
       "content": "四、噴火《ふんか》の模樣《もよう》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,

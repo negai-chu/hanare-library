@@ -168,7 +168,9 @@
     ],
     "totalPages": 135,
     "averageCharsPerPage": 445,
-    "chapterTitles": []
+    "chapterTitles": [
+      "永日小品"
+    ]
   },
   "content": [
     {
@@ -182,8 +184,7 @@
       "pageNumber": 2,
       "content": "元日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -213,8 +214,7 @@
       "pageNumber": 7,
       "content": "蛇",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -244,8 +244,7 @@
       "pageNumber": 12,
       "content": "泥棒",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -293,8 +292,7 @@
       "pageNumber": 20,
       "content": "柿",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -324,8 +322,7 @@
       "pageNumber": 25,
       "content": "火鉢",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -361,8 +358,7 @@
       "pageNumber": 31,
       "content": "下宿",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -398,8 +394,7 @@
       "pageNumber": 37,
       "content": "過去の匂い",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -429,8 +424,7 @@
       "pageNumber": 42,
       "content": "猫の墓",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -466,8 +460,7 @@
       "pageNumber": 48,
       "content": "暖かい夢",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -509,8 +502,7 @@
       "pageNumber": 55,
       "content": "印象",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -534,8 +526,7 @@
       "pageNumber": 59,
       "content": "人間",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -565,8 +556,7 @@
       "pageNumber": 64,
       "content": "山鳥",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -614,8 +604,7 @@
       "pageNumber": 72,
       "content": "モナリサ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -645,8 +634,7 @@
       "pageNumber": 77,
       "content": "火事",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -670,8 +658,7 @@
       "pageNumber": 81,
       "content": "霧",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -707,8 +694,7 @@
       "pageNumber": 87,
       "content": "懸物",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -738,8 +724,7 @@
       "pageNumber": 92,
       "content": "紀元節",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -769,8 +754,7 @@
       "pageNumber": 97,
       "content": "行列",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -800,8 +784,7 @@
       "pageNumber": 102,
       "content": "昔",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -825,8 +808,7 @@
       "pageNumber": 106,
       "content": "声",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -850,8 +832,7 @@
       "pageNumber": 110,
       "content": "金",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -875,8 +856,7 @@
       "pageNumber": 114,
       "content": "心",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 115,
@@ -906,8 +886,7 @@
       "pageNumber": 119,
       "content": "変化",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -937,8 +916,7 @@
       "pageNumber": 124,
       "content": "クレイグ先生",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 125,

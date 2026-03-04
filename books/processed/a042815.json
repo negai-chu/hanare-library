@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "新人へ",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "新人作家への訓戒"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 341,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新人へ"
+    ]
   },
   "content": [
     {

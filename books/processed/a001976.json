@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "一本の花",
         "startPage": 1,
-        "endPage": 80,
-        "summary": "一本の花の物語"
+        "endPage": 80
       }
     ],
     "totalPages": 80,
     "averageCharsPerPage": 353,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一本の花"
+    ]
   },
   "content": [
     {

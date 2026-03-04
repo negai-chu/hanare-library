@@ -66,7 +66,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 53,
-    "chapterTitles": []
+    "chapterTitles": [
+      "岸辺"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 4,
       "content": "不在の人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -111,8 +112,7 @@
       "pageNumber": 7,
       "content": "昨日の映像",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -130,8 +130,7 @@
       "pageNumber": 10,
       "content": "故郷",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -143,8 +142,7 @@
       "pageNumber": 12,
       "content": "壺",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -162,8 +160,7 @@
       "pageNumber": 15,
       "content": "鴉",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -181,8 +178,7 @@
       "pageNumber": 18,
       "content": "暗号",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

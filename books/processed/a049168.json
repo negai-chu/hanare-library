@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "あの山越えて",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -107,7 +107,7 @@
             "id": "chapter-2-section-14",
             "number": "恋の巣立ち",
             "startPage": 29,
-            "endPage": 0
+            "endPage": 31
           }
         ]
       },
@@ -115,7 +115,7 @@
         "id": "chapter-3",
         "title": "鴫の声",
         "startPage": 33,
-        "endPage": 0,
+        "endPage": 59,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -211,7 +211,7 @@
             "id": "chapter-3-section-16",
             "number": "尾張奥町機場唄",
             "startPage": 57,
-            "endPage": 0
+            "endPage": 59
           }
         ]
       },
@@ -219,7 +219,7 @@
         "id": "chapter-4",
         "title": "野雀・雀",
         "startPage": 61,
-        "endPage": 0,
+        "endPage": 75,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -291,7 +291,7 @@
             "id": "chapter-4-section-12",
             "number": "常世の春",
             "startPage": 74,
-            "endPage": 0
+            "endPage": 75
           }
         ]
       },
@@ -299,7 +299,7 @@
         "id": "chapter-5",
         "title": "農民歌",
         "startPage": 77,
-        "endPage": 0,
+        "endPage": 94,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -383,7 +383,7 @@
             "id": "chapter-5-section-14",
             "number": "わしが鳥なら",
             "startPage": 94,
-            "endPage": 0
+            "endPage": 94
           }
         ]
       },
@@ -391,7 +391,7 @@
         "id": "chapter-6",
         "title": "茶ツ葉",
         "startPage": 96,
-        "endPage": 0,
+        "endPage": 116,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -451,7 +451,7 @@
             "id": "chapter-6-section-10",
             "number": "高原颪",
             "startPage": 114,
-            "endPage": 0
+            "endPage": 116
           }
         ]
       },

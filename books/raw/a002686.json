@@ -48,7 +48,9 @@
     ],
     "totalPages": 21,
     "averageCharsPerPage": 373,
-    "chapterTitles": []
+    "chapterTitles": [
+      "骸骨館"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "廃工場《はいこうじよう》の町",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "胆《きも》だめし",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -124,8 +124,7 @@
       "pageNumber": 12,
       "content": "探検《たんけん》はじまる",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -155,8 +154,7 @@
       "pageNumber": 17,
       "content": "意外《いがい》な飛入《とびいり》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

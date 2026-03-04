@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "例言",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 35,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-1-section-19",
             "number": "希望",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 35
           }
         ]
       },
@@ -139,73 +139,73 @@
         "id": "chapter-2",
         "title": "靈鳥のうた",
         "startPage": 36,
-        "endPage": 0
+        "endPage": 40
       },
       {
         "id": "chapter-3",
         "title": "佐太大神",
         "startPage": 41,
-        "endPage": 0
+        "endPage": 49
       },
       {
         "id": "chapter-4",
         "title": "新鶯曲",
         "startPage": 50,
-        "endPage": 0
+        "endPage": 55
       },
       {
         "id": "chapter-5",
         "title": "紫蘇",
         "startPage": 56,
-        "endPage": 0
+        "endPage": 58
       },
       {
         "id": "chapter-6",
         "title": "戀の園",
         "startPage": 59,
-        "endPage": 0
+        "endPage": 64
       },
       {
         "id": "chapter-7",
         "title": "歡樂",
         "startPage": 65,
-        "endPage": 0
+        "endPage": 68
       },
       {
         "id": "chapter-8",
         "title": "幻影",
         "startPage": 69,
-        "endPage": 0
+        "endPage": 74
       },
       {
         "id": "chapter-9",
         "title": "さいかし",
         "startPage": 75,
-        "endPage": 0
+        "endPage": 79
       },
       {
         "id": "chapter-10",
         "title": "星眸",
         "startPage": 80,
-        "endPage": 0
+        "endPage": 83
       },
       {
         "id": "chapter-11",
         "title": "小鳥",
         "startPage": 84,
-        "endPage": 0
+        "endPage": 87
       },
       {
         "id": "chapter-12",
         "title": "光の歌",
         "startPage": 88,
-        "endPage": 0
+        "endPage": 91
       },
       {
         "id": "chapter-13",
         "title": "名珠餘影",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 97,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -229,7 +229,7 @@
             "id": "chapter-13-section-4",
             "number": "四、海邊の墓",
             "startPage": 96,
-            "endPage": 0
+            "endPage": 97
           }
         ]
       },

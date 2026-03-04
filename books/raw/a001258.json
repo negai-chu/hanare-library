@@ -276,7 +276,9 @@
     ],
     "totalPages": 221,
     "averageCharsPerPage": 408,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地球盗難"
+    ]
   },
   "content": [
     {
@@ -290,8 +292,7 @@
       "pageNumber": 2,
       "content": "ネス湖の怪物",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -333,8 +334,7 @@
       "pageNumber": 9,
       "content": "奇妙な甲虫《かぶとむし》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -376,8 +376,7 @@
       "pageNumber": 16,
       "content": "笑う怪人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -413,8 +412,7 @@
       "pageNumber": 22,
       "content": "恐怖の森",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -444,8 +442,7 @@
       "pageNumber": 27,
       "content": "怪しき閃光",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -481,8 +478,7 @@
       "pageNumber": 33,
       "content": "姿なき知人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -512,8 +508,7 @@
       "pageNumber": 38,
       "content": "丘の上の怪夢",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -537,8 +532,7 @@
       "pageNumber": 42,
       "content": "丘の上の大異変",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -568,8 +562,7 @@
       "pageNumber": 47,
       "content": "辻川博士の怪生活",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -599,8 +592,7 @@
       "pageNumber": 52,
       "content": "プーに乗った砲弾",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -630,8 +622,7 @@
       "pageNumber": 57,
       "content": "外国船の秘密",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -661,8 +652,7 @@
       "pageNumber": 62,
       "content": "大隅学士の哲学",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -686,8 +676,7 @@
       "pageNumber": 66,
       "content": "炸裂する爆弾？",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -717,8 +706,7 @@
       "pageNumber": 71,
       "content": "グロテスクの檻",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -748,8 +736,7 @@
       "pageNumber": 76,
       "content": "潜入第一歩",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -779,8 +766,7 @@
       "pageNumber": 81,
       "content": "怪博士の餌食？",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -810,8 +796,7 @@
       "pageNumber": 86,
       "content": "不思議なる電話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -841,8 +826,7 @@
       "pageNumber": 91,
       "content": "地下道の俘囚《とりこ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -872,8 +856,7 @@
       "pageNumber": 96,
       "content": "砲弾の行方",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -897,8 +880,7 @@
       "pageNumber": 100,
       "content": "成層圏を越えて",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -928,8 +910,7 @@
       "pageNumber": 105,
       "content": "黒き追跡者",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -959,8 +940,7 @@
       "pageNumber": 110,
       "content": "空中の死刑船",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -990,8 +970,7 @@
       "pageNumber": 115,
       "content": "藻掻《もが》くロケット",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -1021,8 +1000,7 @@
       "pageNumber": 120,
       "content": "不安の一夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 121,
@@ -1058,8 +1036,7 @@
       "pageNumber": 126,
       "content": "佐々のロケット何処《いずこ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1107,8 +1084,7 @@
       "pageNumber": 134,
       "content": "怪しい閃光",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 135,
@@ -1138,8 +1114,7 @@
       "pageNumber": 139,
       "content": "白幽霊《しろゆうれい》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1169,8 +1144,7 @@
       "pageNumber": 144,
       "content": "怪物ウラゴーゴル",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1200,8 +1174,7 @@
       "pageNumber": 149,
       "content": "武夫の父親",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1231,8 +1204,7 @@
       "pageNumber": 154,
       "content": "未完成の秘話",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 155,
@@ -1268,8 +1240,7 @@
       "pageNumber": 160,
       "content": "怪しきドクトル",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 161,
@@ -1299,8 +1270,7 @@
       "pageNumber": 165,
       "content": "怪力線杖",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,
@@ -1330,8 +1300,7 @@
       "pageNumber": 170,
       "content": "辻川博士の研究",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 171,
@@ -1361,8 +1330,7 @@
       "pageNumber": 175,
       "content": "最後の鍵",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1392,8 +1360,7 @@
       "pageNumber": 180,
       "content": "武夫と再会",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 181,
@@ -1423,8 +1390,7 @@
       "pageNumber": 185,
       "content": "謎の隕石",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 186,
@@ -1448,8 +1414,7 @@
       "pageNumber": 189,
       "content": "本館消ゆ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1479,8 +1444,7 @@
       "pageNumber": 194,
       "content": "新聞記者団",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 195,
@@ -1510,8 +1474,7 @@
       "pageNumber": 199,
       "content": "ウラゴーゴル通信",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 200,
@@ -1547,8 +1510,7 @@
       "pageNumber": 205,
       "content": "地球盗難",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 206,
@@ -1578,8 +1540,7 @@
       "pageNumber": 210,
       "content": "隕石の秘密",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 211,
@@ -1621,8 +1582,7 @@
       "pageNumber": 217,
       "content": "大団円",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 218,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 54,
     "averageCharsPerPage": 333,
-    "chapterTitles": []
+    "chapterTitles": [
+      "村一番早慶戦"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "坊っちゃん同志",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -123,8 +124,7 @@
       "pageNumber": 12,
       "content": "格式と実力",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -238,8 +238,7 @@
       "pageNumber": 31,
       "content": "大学時代と青春の目覚め",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -293,8 +292,7 @@
       "pageNumber": 40,
       "content": "会社勤めと解決の曙光",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,

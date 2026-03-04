@@ -102,7 +102,9 @@
     ],
     "totalPages": 241,
     "averageCharsPerPage": 533,
-    "chapterTitles": []
+    "chapterTitles": [
+      "愛ちやんの夢物語"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "はしがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 4,
       "content": "第一章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -250,8 +250,7 @@
       "pageNumber": 24,
       "content": "第二章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -359,8 +358,7 @@
       "pageNumber": 42,
       "content": "第三章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -480,8 +478,7 @@
       "pageNumber": 62,
       "content": "第四章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -601,8 +598,7 @@
       "pageNumber": 82,
       "content": "第五章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -716,8 +712,7 @@
       "pageNumber": 101,
       "content": "第六章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -861,8 +856,7 @@
       "pageNumber": 125,
       "content": "第七章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 126,
@@ -976,8 +970,7 @@
       "pageNumber": 144,
       "content": "第八章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1115,8 +1108,7 @@
       "pageNumber": 167,
       "content": "第九章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 168,
@@ -1248,8 +1240,7 @@
       "pageNumber": 189,
       "content": "第十章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1357,8 +1348,7 @@
       "pageNumber": 207,
       "content": "第十一章",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 208,
@@ -1454,8 +1444,7 @@
       "pageNumber": 223,
       "content": "第十二章",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 224,

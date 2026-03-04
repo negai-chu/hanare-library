@@ -36,7 +36,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 228,
-    "chapterTitles": []
+    "chapterTitles": [
+      "おくさま狐の御婚礼"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一番めの話",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "二番めの話",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

@@ -17,105 +17,91 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "唯物史観の序論"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "人間學のマルクス的形態",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 5,
-            "endPage": 18,
-            "summary": "人間学の課題"
+            "endPage": 18
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 19,
-            "endPage": 28,
-            "summary": "実践の哲学"
+            "endPage": 28
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 29,
-            "endPage": 0,
-            "summary": "歴史的人間像"
+            "endPage": 42
           }
-        ],
-        "summary": "マルクス的人間学"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "マルクス主義と唯物論",
         "startPage": 43,
-        "endPage": 0,
+        "endPage": 81,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 44,
-            "endPage": 53,
-            "summary": "唯物論の問題提起"
+            "endPage": 53
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 54,
-            "endPage": 69,
-            "summary": "弁証法の展開"
+            "endPage": 69
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 70,
-            "endPage": 0,
-            "summary": "実践的唯物論"
+            "endPage": 81
           }
-        ],
-        "summary": "マルクス主義と唯物論"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "プラグマチズムとマルキシズムの哲學",
         "startPage": 82,
-        "endPage": 0,
+        "endPage": 125,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 83,
-            "endPage": 88,
-            "summary": "プラグマティズムの検討"
+            "endPage": 88
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 89,
-            "endPage": 99,
-            "summary": "行為の哲学"
+            "endPage": 99
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 100,
-            "endPage": 110,
-            "summary": "実践の概念"
+            "endPage": 110
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 111,
-            "endPage": 0,
-            "summary": "両者の比較"
+            "endPage": 125
           }
-        ],
-        "summary": "実用主義とマルクス哲学"
+        ]
       },
       {
         "id": "chapter-5",
@@ -127,25 +113,21 @@
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 127,
-            "endPage": 139,
-            "summary": "ヘーゲル哲学の継承"
+            "endPage": 139
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 140,
-            "endPage": 157,
-            "summary": "弁証法の転換"
+            "endPage": 157
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 158,
-            "endPage": 164,
-            "summary": "唯物弁証法の確立"
+            "endPage": 164
           }
-        ],
-        "summary": "ヘーゲルからマルクスへ"
+        ]
       }
     ],
     "totalPages": 164,

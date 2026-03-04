@@ -78,7 +78,9 @@
     ],
     "totalPages": 61,
     "averageCharsPerPage": 428,
-    "chapterTitles": []
+    "chapterTitles": [
+      "燕（つばくろ）"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "若い人たち（一）",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 6,
       "content": "主人と客（一）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -166,8 +166,7 @@
       "pageNumber": 14,
       "content": "若い人たち（二）",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -197,8 +196,7 @@
       "pageNumber": 19,
       "content": "主人と客（二）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -246,8 +244,7 @@
       "pageNumber": 27,
       "content": "若い人たち（三）",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -277,8 +274,7 @@
       "pageNumber": 32,
       "content": "主人と客（三）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -362,8 +358,7 @@
       "pageNumber": 46,
       "content": "若い人たち（四）",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -399,8 +394,7 @@
       "pageNumber": 52,
       "content": "主人と客（四）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -436,8 +430,7 @@
       "pageNumber": 58,
       "content": "若い人たち（五）",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "太郎と街",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "秋の街を彷徨う太郎"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 478,
-    "chapterTitles": []
+    "chapterTitles": [
+      "太郎と街"
+    ]
   },
   "content": [
     {

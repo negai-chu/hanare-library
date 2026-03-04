@@ -72,7 +72,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 124,
-    "chapterTitles": []
+    "chapterTitles": [
+      "呼子と口笛"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "はてしなき議論の後",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 6,
       "content": "ココアのひと匙",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -130,8 +130,7 @@
       "pageNumber": 9,
       "content": "激論",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -155,8 +154,7 @@
       "pageNumber": 13,
       "content": "書斎の午後",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -168,8 +166,7 @@
       "pageNumber": 15,
       "content": "墓碑銘",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -205,8 +202,7 @@
       "pageNumber": 21,
       "content": "古びたる鞄をあけて",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -218,8 +214,7 @@
       "pageNumber": 23,
       "content": "家",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -255,8 +250,7 @@
       "pageNumber": 29,
       "content": "飛行機",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,

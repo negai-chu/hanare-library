@@ -16,72 +16,65 @@
       {
         "id": "chapter-1",
         "title": "ミミヅクサン",
-        "startPage": 1,
-        "endPage": 17,
+        "startPage": 17,
+        "endPage": 18,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3,
-            "summary": "みみずくさんの登場"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
-            "startPage": 4,
-            "endPage": 5,
-            "summary": "夜の森の生活"
+            "startPage": 2,
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
-            "startPage": 6,
-            "endPage": 7,
-            "summary": "昼間の冒険"
+            "startPage": 2,
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
-            "startPage": 8,
-            "endPage": 9,
-            "summary": "仲間との出会い"
+            "startPage": 2,
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
-            "startPage": 10,
-            "endPage": 11,
-            "summary": "困難への対処"
+            "startPage": 2,
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
-            "startPage": 12,
-            "endPage": 13,
-            "summary": "知恵を働かせる"
+            "startPage": 2,
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
-            "startPage": 14,
-            "endPage": 15,
-            "summary": "森の仲間の助け"
+            "startPage": 2,
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
-            "startPage": 16,
-            "endPage": 17,
-            "summary": "みみずくさんの幸福"
+            "startPage": 2,
+            "endPage": 2
           }
-        ],
-        "summary": "みみずくさんの物語"
+        ]
       }
     ],
-    "totalPages": 17,
-    "averageCharsPerPage": 19,
-    "chapterTitles": []
+    "totalPages": 18,
+    "averageCharsPerPage": 18,
+    "chapterTitles": [
+      "ミミヅクサン"
+    ]
   },
   "content": [
     {
@@ -93,106 +86,112 @@
     },
     {
       "pageNumber": 2,
-      "content": "一",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　一",
+      "characters": 2,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　ミミヅクサン　ハ\n\nサンポ　ニ\n\nデカケマシタ。\n\nノソリ、ノソリ、ト。",
-      "characters": 37,
-      "ruby": []
+      "content": "ミミヅクサン",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
     },
     {
       "pageNumber": 4,
-      "content": "二",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "ミミヅクサン　ハ\n\nオイケ　ノ　ミヅ　ヲ\n\nノミマシタ。\n\nゴクリ、ゴクリ、ト。",
-      "characters": 40,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
-      "content": "三",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
-      "content": "ミミヅクサン　ハ\n\nメガネ　ヲ\n\nオトシマシタ。\n\nドンブリコ　ト。",
-      "characters": 34,
-      "ruby": []
-    },
-    {
-      "pageNumber": 8,
-      "content": "四",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
-      "content": "ミミヅクサン　ハ\n\nメガネ　ヲ\n\nトリ　ニ\n\nミヅ　ヘ\n\nハイリマシタ。\n\nジヤブ、ジヤブ　ト。",
-      "characters": 48,
-      "ruby": []
-    },
-    {
-      "pageNumber": 10,
-      "content": "五",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 11,
-      "content": "ミミヅクサン　ハ\n\nカラダ中　ヌレマシタ。\n\nビシヨ、ビシヨ　ニ。",
+      "content": "　ハ\n\nサンポ　ニ\n\nデカケマシタ。\n\nノソリ、ノソリ、ト。\n　二",
       "characters": 33,
       "ruby": []
     },
     {
-      "pageNumber": 12,
-      "content": "六",
-      "characters": 1,
+      "pageNumber": 5,
+      "content": "ミミヅクサン",
+      "characters": 6,
       "ruby": [],
-      "displayType": "section-title"
+      "displayType": "book-title"
     },
     {
-      "pageNumber": 13,
-      "content": "ミミヅクサン　ハ\n\nクシヤミ　ガ\n\nデマシタ。\n\nハツクシヨイ　ト。",
-      "characters": 34,
+      "pageNumber": 6,
+      "content": "　ハ\n\nオイケ　ノ　ミヅ　ヲ\n\nノミマシタ。\n\nゴクリ、ゴクリ、ト。\n　三",
+      "characters": 37,
       "ruby": []
     },
     {
-      "pageNumber": 14,
-      "content": "七",
-      "characters": 1,
+      "pageNumber": 7,
+      "content": "ミミヅクサン",
+      "characters": 6,
       "ruby": [],
-      "displayType": "section-title"
+      "displayType": "book-title"
     },
     {
-      "pageNumber": 15,
-      "content": "ミミヅクサン　ハ\n\nサンポ　ヲ　ヤメテ\n\nウチ　ニ　カヘリマシタ。\n\nノソリ、ノソリ　ト。",
+      "pageNumber": 8,
+      "content": "　ハ\n\nメガネ　ヲ\n\nオトシマシタ。\n\nドンブリコ　ト。\n　四",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 9,
+      "content": "ミミヅクサン",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 10,
+      "content": "　ハ\n\nメガネ　ヲ\n\nトリ　ニ\n\nミヅ　ヘ\n\nハイリマシタ。\n\nジヤブ、ジヤブ　ト。\n　五",
       "characters": 45,
       "ruby": []
     },
     {
-      "pageNumber": 16,
-      "content": "八",
-      "characters": 1,
+      "pageNumber": 11,
+      "content": "ミミヅクサン",
+      "characters": 6,
       "ruby": [],
-      "displayType": "section-title"
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 12,
+      "content": "　ハ\n\nカラダ中　ヌレマシタ。\n\nビシヨ、ビシヨ　ニ。\n　六",
+      "characters": 30,
+      "ruby": []
+    },
+    {
+      "pageNumber": 13,
+      "content": "ミミヅクサン",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 14,
+      "content": "　ハ\n\nクシヤミ　ガ\n\nデマシタ。\n\nハツクシヨイ　ト。\n　七",
+      "characters": 31,
+      "ruby": []
+    },
+    {
+      "pageNumber": 15,
+      "content": "ミミヅクサン",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 16,
+      "content": "　ハ\n\nサンポ　ヲ　ヤメテ\n\nウチ　ニ　カヘリマシタ。\n\nノソリ、ノソリ　ト。\n　八",
+      "characters": 42,
+      "ruby": []
     },
     {
       "pageNumber": 17,
-      "content": "ミミヅクサン　ハ\n\nイマデモ　メガネ　ガ\n\nアリマセン。\n\nキヨロ、キヨロ、ト。",
-      "characters": 40,
+      "content": "ミミヅクサン",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 18,
+      "content": "　ハ\n\nイマデモ　メガネ　ガ\n\nアリマセン。\n\nキヨロ、キヨロ、ト。",
+      "characters": 34,
       "ruby": []
     }
   ]

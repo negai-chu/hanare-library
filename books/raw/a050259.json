@@ -48,7 +48,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 150,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ヂェラルド・ド・ネルヴァル"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 4,
       "content": "アルテミス",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "レ・シダリーズ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -112,8 +112,7 @@
       "pageNumber": 10,
       "content": "セレナード",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -131,8 +130,7 @@
       "pageNumber": 13,
       "content": "黒点",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

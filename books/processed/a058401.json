@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "北越雪譜二編　巻一",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -115,7 +115,7 @@
         "id": "chapter-2",
         "title": "北越雪譜二編　巻二",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -201,7 +201,7 @@
         "id": "chapter-3",
         "title": "北越雪譜二編　巻三",
         "startPage": 101,
-        "endPage": 0,
+        "endPage": 144,
         "sections": [
           {
             "id": "chapter-3-section-1",

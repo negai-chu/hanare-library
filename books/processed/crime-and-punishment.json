@@ -18,7 +18,7 @@
         "id": "part-1",
         "title": "第一篇",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 176,
         "summary": "貧窮と計画",
         "sections": [
           {
@@ -67,7 +67,7 @@
             "id": "part-1-section-7",
             "number": "七",
             "startPage": 153,
-            "endPage": 0,
+            "endPage": 176,
             "summary": "階段の凶行"
           }
         ]
@@ -76,7 +76,7 @@
         "id": "part-2",
         "title": "第二篇",
         "startPage": 177,
-        "endPage": 0,
+        "endPage": 404,
         "summary": "疑念と悪夢",
         "sections": [
           {
@@ -125,7 +125,7 @@
             "id": "part-2-section-7",
             "number": "七",
             "startPage": 366,
-            "endPage": 0,
+            "endPage": 404,
             "summary": "追及の足音"
           }
         ]
@@ -134,7 +134,7 @@
         "id": "part-3",
         "title": "第三篇",
         "startPage": 405,
-        "endPage": 0,
+        "endPage": 578,
         "summary": "追跡の影",
         "sections": [
           {
@@ -176,7 +176,7 @@
             "id": "part-3-section-6",
             "number": "六",
             "startPage": 555,
-            "endPage": 0,
+            "endPage": 578,
             "summary": "誇りと屈折"
           }
         ]
@@ -185,7 +185,7 @@
         "id": "part-4",
         "title": "第四篇",
         "startPage": 579,
-        "endPage": 0,
+        "endPage": 755,
         "summary": "証言の圧力",
         "sections": [
           {
@@ -227,7 +227,7 @@
             "id": "part-4-section-6",
             "number": "六",
             "startPage": 739,
-            "endPage": 0,
+            "endPage": 755,
             "summary": "沈黙の策"
           }
         ]
@@ -236,7 +236,7 @@
         "id": "part-5",
         "title": "第五篇",
         "startPage": 756,
-        "endPage": 0,
+        "endPage": 930,
         "summary": "揺れる告白",
         "sections": [
           {
@@ -271,7 +271,7 @@
             "id": "part-5-section-5",
             "number": "五",
             "startPage": 898,
-            "endPage": 0,
+            "endPage": 930,
             "summary": "静かな決意"
           }
         ]
@@ -280,7 +280,7 @@
         "id": "part-6",
         "title": "第六篇",
         "startPage": 931,
-        "endPage": 0,
+        "endPage": 1152,
         "summary": "裁きの前夜",
         "sections": [
           {
@@ -336,7 +336,7 @@
             "id": "part-6-section-8",
             "number": "八",
             "startPage": 1127,
-            "endPage": 0,
+            "endPage": 1152,
             "summary": "署への歩み"
           }
         ]

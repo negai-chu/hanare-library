@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "哲学入門の序文"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "序論",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 67,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -68,14 +67,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "哲学の基本問題"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第一章　知識の問題",
         "startPage": 68,
-        "endPage": 0,
+        "endPage": 158,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -111,10 +109,9 @@
             "id": "chapter-3-section-6",
             "number": "六　知識の倫理",
             "startPage": 147,
-            "endPage": 0
+            "endPage": 158
           }
-        ],
-        "summary": "認識論の探究"
+        ]
       },
       {
         "id": "chapter-4",
@@ -140,8 +137,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "実践哲学の問い"
+        ]
       }
     ],
     "totalPages": 202,

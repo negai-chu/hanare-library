@@ -54,7 +54,9 @@
     ],
     "totalPages": 199,
     "averageCharsPerPage": 383,
-    "chapterTitles": []
+    "chapterTitles": [
+      "幻化"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "同行者",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -369,8 +370,7 @@
       "pageNumber": 52,
       "content": "白い花",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -622,8 +622,7 @@
       "pageNumber": 94,
       "content": "砂浜",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -833,8 +832,7 @@
       "pageNumber": 129,
       "content": "町",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1134,8 +1132,7 @@
       "pageNumber": 179,
       "content": "火",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 180,

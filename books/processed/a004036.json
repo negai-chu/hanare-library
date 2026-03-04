@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "人生のテーマ",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "人生と文学の主題"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 128,
-    "chapterTitles": []
+    "chapterTitles": [
+      "人生のテーマ"
+    ]
   },
   "content": [
     {

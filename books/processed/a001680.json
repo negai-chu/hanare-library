@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "登山の朝",
         "startPage": 1,
-        "endPage": 11,
-        "summary": "夜明けの登山の出発"
+        "endPage": 11
       }
     ],
     "totalPages": 11,
     "averageCharsPerPage": 512,
-    "chapterTitles": []
+    "chapterTitles": [
+      "登山の朝"
+    ]
   },
   "content": [
     {

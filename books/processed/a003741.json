@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "本の事",
         "startPage": 1,
-        "endPage": 9,
-        "summary": "珍しい本の来歴"
+        "endPage": 9
       }
     ],
     "totalPages": 9,
     "averageCharsPerPage": 436,
-    "chapterTitles": []
+    "chapterTitles": [
+      "本の事"
+    ]
   },
   "content": [
     {

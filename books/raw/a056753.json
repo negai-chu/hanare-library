@@ -48,7 +48,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 430,
-    "chapterTitles": []
+    "chapterTitles": [
+      "陸中雑記"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "御明神の風俗",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "荒屋新町の漆器",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -130,8 +130,7 @@
       "pageNumber": 13,
       "content": "鳥越の竹細工",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -161,8 +160,7 @@
       "pageNumber": 18,
       "content": "衣川の漆器",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

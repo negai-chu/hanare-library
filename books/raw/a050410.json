@@ -54,7 +54,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 359,
-    "chapterTitles": []
+    "chapterTitles": [
+      "散文詩"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "曠野",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "白い鳥、血の海",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -130,8 +130,7 @@
       "pageNumber": 12,
       "content": "火星の芝居",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -167,8 +166,7 @@
       "pageNumber": 18,
       "content": "二人連",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -192,8 +190,7 @@
       "pageNumber": 22,
       "content": "祖父",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

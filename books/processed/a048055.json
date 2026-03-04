@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一回",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 5,
-            "endPage": 0
+            "endPage": 10
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "第二回",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -55,7 +55,7 @@
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 16,
-            "endPage": 0
+            "endPage": 19
           }
         ]
       },
@@ -63,7 +63,7 @@
         "id": "chapter-3",
         "title": "第三回",
         "startPage": 20,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -81,7 +81,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 28
           }
         ]
       },
@@ -89,7 +89,7 @@
         "id": "chapter-4",
         "title": "第四回",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 38,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -107,7 +107,7 @@
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 35,
-            "endPage": 0
+            "endPage": 38
           }
         ]
       },
@@ -115,7 +115,7 @@
         "id": "chapter-5",
         "title": "第五回",
         "startPage": 39,
-        "endPage": 0,
+        "endPage": 49,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -133,7 +133,7 @@
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 46,
-            "endPage": 0
+            "endPage": 49
           }
         ]
       },

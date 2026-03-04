@@ -30,7 +30,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 449,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秋晴れの日"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 6,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

@@ -66,7 +66,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 278,
-    "chapterTitles": []
+    "chapterTitles": [
+      "西南北東"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "時計のない朝",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 5,
       "content": "蜜柑",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -112,8 +112,7 @@
       "pageNumber": 7,
       "content": "悲鳴",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -131,8 +130,7 @@
       "pageNumber": 10,
       "content": "米",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -144,8 +142,7 @@
       "pageNumber": 12,
       "content": "溜息",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -157,8 +154,7 @@
       "pageNumber": 14,
       "content": "虚脱",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -176,8 +172,7 @@
       "pageNumber": 17,
       "content": "浴衣",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

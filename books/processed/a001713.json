@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "科学方法論の序"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "再版序",
         "startPage": 5,
-        "endPage": 0,
-        "summary": "再版にあたって"
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "方法概念の分析（その一）",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 48,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -43,16 +41,15 @@
             "id": "chapter-3-section-2",
             "number": "第二部",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 48
           }
-        ],
-        "summary": "方法概念の分析一"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "方法概念の分析（その二）",
         "startPage": 49,
-        "endPage": 0,
+        "endPage": 94,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -64,23 +61,21 @@
             "id": "chapter-4-section-2",
             "number": "第四部",
             "startPage": 76,
-            "endPage": 0
+            "endPage": 94
           }
-        ],
-        "summary": "方法概念の分析二"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "学問の分類",
         "startPage": 95,
-        "endPage": 0,
-        "summary": "学問分類の考察"
+        "endPage": 96
       },
       {
         "id": "chapter-6",
         "title": "科学論",
         "startPage": 97,
-        "endPage": 0,
+        "endPage": 209,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -92,16 +87,15 @@
             "id": "chapter-6-section-2",
             "number": "第二部",
             "startPage": 118,
-            "endPage": 0
+            "endPage": 209
           }
-        ],
-        "summary": "科学の本質を問う"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "科学的世界、科学の学問性",
         "startPage": 210,
-        "endPage": 0,
+        "endPage": 267,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -113,17 +107,15 @@
             "id": "chapter-7-section-2",
             "number": "第二部",
             "startPage": 243,
-            "endPage": 0
+            "endPage": 267
           }
-        ],
-        "summary": "科学の学問性"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "結論",
         "startPage": 268,
-        "endPage": 270,
-        "summary": "方法論の結論"
+        "endPage": 270
       }
     ],
     "totalPages": 270,

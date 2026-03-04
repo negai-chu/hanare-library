@@ -54,7 +54,9 @@
     ],
     "totalPages": 31,
     "averageCharsPerPage": 364,
-    "chapterTitles": []
+    "chapterTitles": [
+      "亡霊ホテル"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "惨劇の部屋",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 7,
       "content": "みどりの危難",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -136,8 +136,7 @@
       "pageNumber": 13,
       "content": "深夜の探検",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -173,8 +172,7 @@
       "pageNumber": 19,
       "content": "煖炉の火床",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -210,8 +208,7 @@
       "pageNumber": 25,
       "content": "見えざる間諜《スパイ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,

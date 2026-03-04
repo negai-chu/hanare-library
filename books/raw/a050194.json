@@ -186,7 +186,9 @@
     ],
     "totalPages": 140,
     "averageCharsPerPage": 441,
-    "chapterTitles": []
+    "chapterTitles": [
+      "歌の話"
+    ]
   },
   "content": [
     {
@@ -200,8 +202,7 @@
       "pageNumber": 2,
       "content": "歌《うた》の話《はなし》について",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -213,8 +214,7 @@
       "pageNumber": 4,
       "content": "一、短歌《たんか》の起《おこ》り",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -232,8 +232,7 @@
       "pageNumber": 7,
       "content": "二、諺《ことわざ》と、歌《うた》と",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -251,8 +250,7 @@
       "pageNumber": 10,
       "content": "三、歌《うた》のいろ／＼",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -282,8 +280,7 @@
       "pageNumber": 15,
       "content": "四、やまとたけるの尊《みこと》のこと。竝《なら》びに旋頭歌《せどうか》",
       "characters": 35,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -313,8 +310,7 @@
       "pageNumber": 20,
       "content": "五、すさのをの尊《みこと》の短歌《たんか》",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -344,8 +340,7 @@
       "pageNumber": 25,
       "content": "六、景色《けしき》を詠《よ》んだ歌《うた》",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -387,8 +382,7 @@
       "pageNumber": 32,
       "content": "七、旅行《りよこう》の歌《うた》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -430,8 +424,7 @@
       "pageNumber": 39,
       "content": "八、日本《につぽん》短歌《たんか》の第一人者《だいいちにんしや》、柿本人麿《かきのもとのひとまろ》",
       "characters": 49,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -473,8 +466,7 @@
       "pageNumber": 46,
       "content": "九、人麿《ひとまろ》の歌《うた》の傳《つた》へにいろ／＼あること",
       "characters": 32,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -492,8 +484,7 @@
       "pageNumber": 49,
       "content": "一〇、山部赤人《やまべのあかひと》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -523,8 +514,7 @@
       "pageNumber": 54,
       "content": "一一、文學《ぶんがく》のねらひどころ",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -548,8 +538,7 @@
       "pageNumber": 58,
       "content": "一二、古今集頃《こきんしゆうごろ》の歌《うた》",
       "characters": 23,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -597,8 +586,7 @@
       "pageNumber": 66,
       "content": "一三、在原業平《ありはらのなりひら》",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 67,
@@ -628,8 +616,7 @@
       "pageNumber": 71,
       "content": "一四、作者《さくしや》のわからぬ歌《うた》に、よい物《もの》のあること",
       "characters": 35,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -665,8 +652,7 @@
       "pageNumber": 77,
       "content": "一五、歌《うた》の見方《みかた》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -696,8 +682,7 @@
       "pageNumber": 82,
       "content": "一六、西行法師《さいぎようほうし》と新古今集《しんこきんしゆう》",
       "characters": 32,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -745,8 +730,7 @@
       "pageNumber": 90,
       "content": "一七、ほんとうに優美《ゆうび》な歌《うた》",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -776,8 +760,7 @@
       "pageNumber": 95,
       "content": "一八、調子《ちようし》の立《た》つた歌《うた》",
       "characters": 23,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 96,
@@ -795,8 +778,7 @@
       "pageNumber": 98,
       "content": "一九、發達《はつたつ》しきつた歌《うた》",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -832,8 +814,7 @@
       "pageNumber": 104,
       "content": "二〇、江戸時代《えどじだい》の歌《うた》",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -851,8 +832,7 @@
       "pageNumber": 107,
       "content": "二一、歌人《かじん》としての國學者《こくがくしや》たち",
       "characters": 27,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -876,8 +856,7 @@
       "pageNumber": 111,
       "content": "二二、加納諸平《かのうもろひら》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
@@ -913,8 +892,7 @@
       "pageNumber": 117,
       "content": "二三、思《おも》ひを抒《の》べる歌《うた》",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -950,8 +928,7 @@
       "pageNumber": 123,
       "content": "二四、香川景樹《かがはかげき》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -981,8 +958,7 @@
       "pageNumber": 128,
       "content": "二五、橘曙覽《たちばなのあけみ》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1024,8 +1000,7 @@
       "pageNumber": 135,
       "content": "二六、大隈言道《おほくまときみち》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,

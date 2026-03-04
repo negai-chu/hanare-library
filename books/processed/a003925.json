@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "時計",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "初めての腕時計"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 556,
-    "chapterTitles": []
+    "chapterTitles": [
+      "時計"
+    ]
   },
   "content": [
     {

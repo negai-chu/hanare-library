@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "私は誰？",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "座談会での困惑"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 555,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私は誰？"
+    ]
   },
   "content": [
     {

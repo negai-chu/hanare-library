@@ -36,7 +36,9 @@
     ],
     "totalPages": 27,
     "averageCharsPerPage": 410,
-    "chapterTitles": []
+    "chapterTitles": [
+      "貧乏"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "その一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 13,
       "content": "その二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "本棚",
         "startPage": 1,
-        "endPage": 8,
-        "summary": "古い雑誌との再会"
+        "endPage": 8
       }
     ],
     "totalPages": 8,
     "averageCharsPerPage": 506,
-    "chapterTitles": []
+    "chapterTitles": [
+      "本棚"
+    ]
   },
   "content": [
     {

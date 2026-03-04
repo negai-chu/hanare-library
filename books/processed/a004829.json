@@ -17,157 +17,135 @@
         "id": "chapter-1",
         "title": "緒言",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 345,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 2,
-            "summary": "幼少期の思い出"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 3,
-            "endPage": 2,
-            "summary": "藩校時代の学び"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 3,
-            "endPage": 2,
-            "summary": "維新前後の激動"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 3,
-            "endPage": 2,
-            "summary": "上京と新生活"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 3,
-            "endPage": 87,
-            "summary": "文部省での仕事"
+            "endPage": 87
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 88,
-            "endPage": 112,
-            "summary": "俳句との出会い"
+            "endPage": 112
           },
           {
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 113,
-            "endPage": 129,
-            "summary": "子規との交友"
+            "endPage": 129
           },
           {
             "id": "chapter-1-section-8",
             "number": "八",
             "startPage": 130,
-            "endPage": 142,
-            "summary": "俳壇での活動"
+            "endPage": 142
           },
           {
             "id": "chapter-1-section-9",
             "number": "九",
             "startPage": 143,
-            "endPage": 2,
-            "summary": "老境の日々"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-10",
             "number": "一〇",
             "startPage": 2,
-            "endPage": 2,
-            "summary": "旅の追憶"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-11",
             "number": "十一",
             "startPage": 186,
-            "endPage": 199,
-            "summary": "句友との別れ"
+            "endPage": 199
           },
           {
             "id": "chapter-1-section-12",
             "number": "十二",
             "startPage": 200,
-            "endPage": 211,
-            "summary": "晩年の心境"
+            "endPage": 211
           },
           {
             "id": "chapter-1-section-13",
             "number": "十三",
             "startPage": 212,
-            "endPage": 227,
-            "summary": "俳句観の変遷"
+            "endPage": 227
           },
           {
             "id": "chapter-1-section-14",
             "number": "十四",
             "startPage": 228,
-            "endPage": 243,
-            "summary": "明治の世相"
+            "endPage": 243
           },
           {
             "id": "chapter-1-section-15",
             "number": "十五",
             "startPage": 244,
-            "endPage": 260,
-            "summary": "故郷への思い"
+            "endPage": 260
           },
           {
             "id": "chapter-1-section-16",
             "number": "十六",
             "startPage": 261,
-            "endPage": 2,
-            "summary": "四季の句作り"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-17",
             "number": "十七",
             "startPage": 2,
-            "endPage": 2,
-            "summary": "文学仲間の肖像"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-18",
             "number": "十八",
             "startPage": 2,
-            "endPage": 2,
-            "summary": "病と向き合う日々"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-19",
             "number": "十九",
             "startPage": 2,
-            "endPage": 2,
-            "summary": "回想の筆"
+            "endPage": 2
           },
           {
             "id": "chapter-1-section-20",
             "number": "二十",
             "startPage": 318,
-            "endPage": 332,
-            "summary": "俳諧の道"
+            "endPage": 332
           },
           {
             "id": "chapter-1-section-21",
             "number": "二十一",
             "startPage": 333,
-            "endPage": 0,
-            "summary": "自叙伝の結び"
+            "endPage": 345
           }
-        ],
-        "summary": "俳人の生い立ちの記"
+        ]
       },
       {
         "id": "chapter-2",
@@ -205,8 +183,7 @@
             "startPage": 366,
             "endPage": 369
           }
-        ],
-        "summary": "鳴雪の代表句抄録"
+        ]
       }
     ],
     "totalPages": 369,

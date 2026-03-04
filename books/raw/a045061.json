@@ -60,7 +60,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 441,
-    "chapterTitles": []
+    "chapterTitles": [
+      "スミトラ物語"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "一　手品使になる話",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -117,8 +118,7 @@
       "pageNumber": 9,
       "content": "二　聖者になる話",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -148,8 +148,7 @@
       "pageNumber": 14,
       "content": "三　黒い船の話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -185,8 +184,7 @@
       "pageNumber": 20,
       "content": "四　島のお客になる話",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -216,8 +214,7 @@
       "pageNumber": 25,
       "content": "五　魔の洞穴の話",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -247,8 +244,7 @@
       "pageNumber": 30,
       "content": "六　黒船堂の話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

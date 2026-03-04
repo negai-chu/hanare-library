@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "天の狼",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -95,7 +95,7 @@
             "id": "chapter-1-section-13",
             "number": "秋炎",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -103,7 +103,7 @@
         "id": "chapter-2",
         "title": "阿呆の大地",
         "startPage": 12,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -157,7 +157,7 @@
             "id": "chapter-2-section-9",
             "number": "微塵",
             "startPage": 19,
-            "endPage": 0
+            "endPage": 19
           }
         ]
       },
@@ -165,7 +165,7 @@
         "id": "chapter-3",
         "title": "蒼い弾痕",
         "startPage": 20,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -231,7 +231,7 @@
             "id": "chapter-3-section-11",
             "number": "寒山寺",
             "startPage": 29,
-            "endPage": 0
+            "endPage": 29
           }
         ]
       },
@@ -239,7 +239,7 @@
         "id": "chapter-4",
         "title": "鶴の抒情",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 37,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -329,7 +329,7 @@
             "id": "chapter-4-section-15",
             "number": "窓",
             "startPage": 37,
-            "endPage": 0
+            "endPage": 37
           }
         ]
       },

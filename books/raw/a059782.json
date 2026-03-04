@@ -42,7 +42,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 488,
-    "chapterTitles": []
+    "chapterTitles": [
+      "知られざるアメリカ"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "アメリカの中堅階級",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "ドライ・タウン",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -112,8 +112,7 @@
       "pageNumber": 11,
       "content": "ウィネツカの町",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

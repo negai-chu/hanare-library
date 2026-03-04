@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "探偵小説とは",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "推理小説の本質"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 466,
-    "chapterTitles": []
+    "chapterTitles": [
+      "探偵小説とは"
+    ]
   },
   "content": [
     {

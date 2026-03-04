@@ -48,7 +48,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 300,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ニュートン"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "ニュートン祭",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "林檎《りんご》の伝説",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "月も地球に落ちてくる",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -125,8 +124,7 @@
       "pageNumber": 12,
       "content": "万有引力の発見",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

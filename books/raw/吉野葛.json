@@ -36,7 +36,9 @@
     ],
     "totalPages": 75,
     "averageCharsPerPage": 592,
-    "chapterTitles": []
+    "chapterTitles": [
+      "吉野葛"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "その一　自天王",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -165,8 +166,7 @@
       "pageNumber": 21,
       "content": "その三　初音の鼓",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

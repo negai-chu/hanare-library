@@ -54,7 +54,9 @@
     ],
     "totalPages": 76,
     "averageCharsPerPage": 949,
-    "chapterTitles": []
+    "chapterTitles": [
+      "十二支考"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "話の本文",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -225,8 +226,7 @@
       "pageNumber": 28,
       "content": "竜とは何ぞ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -352,8 +352,7 @@
       "pageNumber": 49,
       "content": "竜の起原と発達",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -449,8 +448,7 @@
       "pageNumber": 65,
       "content": "竜の起原と発達（続き）",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -486,8 +484,7 @@
       "pageNumber": 71,
       "content": "本話の出処系統",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,

@@ -42,7 +42,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 395,
-    "chapterTitles": []
+    "chapterTitles": [
+      "マイケル・ファラデイ"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "電気学の始まり",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "学者となるまでのファラデイ",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -112,8 +112,7 @@
       "pageNumber": 11,
       "content": "学者生活",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

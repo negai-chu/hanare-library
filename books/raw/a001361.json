@@ -48,7 +48,9 @@
     ],
     "totalPages": 21,
     "averageCharsPerPage": 740,
-    "chapterTitles": []
+    "chapterTitles": [
+      "賤ヶ岳合戦"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "清洲会議之事",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "秀吉、濃、勢、江、出馬之事",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -124,8 +124,7 @@
       "pageNumber": 12,
       "content": "賤ヶ岳七本槍之事",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -161,8 +160,7 @@
       "pageNumber": 18,
       "content": "後記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "１",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 67,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -97,14 +97,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "無人島への漂着"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "２",
         "startPage": 68,
-        "endPage": 0,
+        "endPage": 139,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -208,8 +207,7 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "島での生活の確立"
+        ]
       },
       {
         "id": "chapter-3",
@@ -295,8 +293,7 @@
             "startPage": 197,
             "endPage": 198
           }
-        ],
-        "summary": "島での学習生活"
+        ]
       }
     ],
     "totalPages": 198,

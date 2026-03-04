@@ -42,7 +42,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 540,
-    "chapterTitles": []
+    "chapterTitles": [
+      "悪の花束"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 4,
       "content": "見事な告白",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -159,8 +160,7 @@
       "pageNumber": 19,
       "content": "青い猟服",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -256,8 +256,7 @@
       "pageNumber": 35,
       "content": "長い旅路の終り",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,

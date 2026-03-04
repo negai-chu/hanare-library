@@ -48,7 +48,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 582,
-    "chapterTitles": []
+    "chapterTitles": [
+      "カントと現代の科学"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "一　自然研究家としてのカント",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "二　カントの数学の説",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 11,
       "content": "三　因果律",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -155,8 +154,7 @@
       "pageNumber": 17,
       "content": "四　生物の目的論的考察",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

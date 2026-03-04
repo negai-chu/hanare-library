@@ -48,7 +48,9 @@
     ],
     "totalPages": 173,
     "averageCharsPerPage": 369,
-    "chapterTitles": []
+    "chapterTitles": [
+      "二十歳のエチュード"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "訣別の辞に代えて",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "Etudes",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -598,8 +598,7 @@
       "pageNumber": 91,
       "content": "Etudes",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -929,8 +928,7 @@
       "pageNumber": 146,
       "content": "Etudes　　　於　赤城山",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 147,

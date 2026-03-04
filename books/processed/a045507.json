@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "女侠伝",
         "startPage": 1,
-        "endPage": 23,
-        "summary": "杭州で聞く女侠の話"
+        "endPage": 23
       }
     ],
     "totalPages": 23,
     "averageCharsPerPage": 539,
-    "chapterTitles": []
+    "chapterTitles": [
+      "女侠伝"
+    ]
   },
   "content": [
     {

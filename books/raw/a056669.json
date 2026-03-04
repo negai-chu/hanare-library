@@ -168,7 +168,9 @@
     ],
     "totalPages": 207,
     "averageCharsPerPage": 511,
-    "chapterTitles": []
+    "chapterTitles": [
+      "少年探偵団"
+    ]
   },
   "content": [
     {
@@ -182,8 +184,7 @@
       "pageNumber": 2,
       "content": "黒い魔物",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -219,8 +220,7 @@
       "pageNumber": 8,
       "content": "怪物追跡",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -268,8 +268,7 @@
       "pageNumber": 16,
       "content": "人さらい",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -311,8 +310,7 @@
       "pageNumber": 23,
       "content": "のろいの宝石",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -354,8 +352,7 @@
       "pageNumber": 30,
       "content": "黒い手",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -379,8 +376,7 @@
       "pageNumber": 34,
       "content": "ふたりのインド人",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -416,8 +412,7 @@
       "pageNumber": 40,
       "content": "銀色のメダル",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -447,8 +442,7 @@
       "pageNumber": 45,
       "content": "少年捜索隊",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -484,8 +478,7 @@
       "pageNumber": 51,
       "content": "地下室",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -539,8 +532,7 @@
       "pageNumber": 60,
       "content": "消えるインド人",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -612,8 +604,7 @@
       "pageNumber": 72,
       "content": "四つのなぞ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -679,8 +670,7 @@
       "pageNumber": 83,
       "content": "さかさの首",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -734,8 +724,7 @@
       "pageNumber": 92,
       "content": "屋上の怪人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -813,8 +802,7 @@
       "pageNumber": 105,
       "content": "悪魔の昇天",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -844,8 +832,7 @@
       "pageNumber": 110,
       "content": "怪軽気球の最後",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -899,8 +886,7 @@
       "pageNumber": 119,
       "content": "黄金《おうごん》の塔",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -942,8 +928,7 @@
       "pageNumber": 126,
       "content": "怪少女",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -997,8 +982,7 @@
       "pageNumber": 135,
       "content": "奇妙なはかりごと",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1052,8 +1036,7 @@
       "pageNumber": 144,
       "content": "天井の声",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1101,8 +1084,7 @@
       "pageNumber": 152,
       "content": "意外また意外",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 153,
@@ -1186,8 +1168,7 @@
       "pageNumber": 166,
       "content": "きみが二十面相だ！",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 167,
@@ -1229,8 +1210,7 @@
       "pageNumber": 173,
       "content": "逃走",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 174,
@@ -1326,8 +1306,7 @@
       "pageNumber": 189,
       "content": "美術室の怪",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 190,
@@ -1393,8 +1372,7 @@
       "pageNumber": 200,
       "content": "大爆発",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 201,

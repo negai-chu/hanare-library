@@ -42,7 +42,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 413,
-    "chapterTitles": []
+    "chapterTitles": [
+      "能書を語る"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 6,
       "content": "能書とは何か",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "書の技巧と内容",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -106,8 +106,7 @@
       "pageNumber": 10,
       "content": "中国の能書は明代を以て了る",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

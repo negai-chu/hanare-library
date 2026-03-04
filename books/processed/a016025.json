@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "曇天",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "遅い朝と曇天の一日"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 322,
-    "chapterTitles": []
+    "chapterTitles": [
+      "曇天"
+    ]
   },
   "content": [
     {

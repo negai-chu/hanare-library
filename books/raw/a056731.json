@@ -60,7 +60,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 423,
-    "chapterTitles": []
+    "chapterTitles": [
+      "アラスカの氷河"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "アラスカ氷河の特徴",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "マラスピーナ氷河",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 9,
       "content": "氷の単結晶",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -143,8 +142,7 @@
       "pageNumber": 13,
       "content": "メンデンホール氷河の単結晶",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -168,8 +166,7 @@
       "pageNumber": 17,
       "content": "メンデンホールへの遠征",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -199,8 +196,7 @@
       "pageNumber": 22,
       "content": "氷は金属である",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

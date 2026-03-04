@@ -186,7 +186,9 @@
     ],
     "totalPages": 826,
     "averageCharsPerPage": 226,
-    "chapterTitles": []
+    "chapterTitles": [
+      "苦心の学友"
+    ]
   },
   "content": [
     {
@@ -200,8 +202,7 @@
       "pageNumber": 2,
       "content": "おやしきからのお召《め》し",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -357,8 +358,7 @@
       "pageNumber": 28,
       "content": "家からおやしきへ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -496,8 +496,7 @@
       "pageNumber": 51,
       "content": "お薬のおこぶ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -665,8 +664,7 @@
       "pageNumber": 79,
       "content": "若様の頭",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -822,8 +820,7 @@
       "pageNumber": 105,
       "content": "学校とおやしき",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -973,8 +970,7 @@
       "pageNumber": 130,
       "content": "家来《けらい》の一日",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 131,
@@ -1142,8 +1138,7 @@
       "pageNumber": 158,
       "content": "小さな胸のなやみ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 159,
@@ -1323,8 +1318,7 @@
       "pageNumber": 188,
       "content": "天空海濶《てんくうかいかつ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 189,
@@ -1522,8 +1516,7 @@
       "pageNumber": 221,
       "content": "不良と善良",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 222,
@@ -1715,8 +1708,7 @@
       "pageNumber": 253,
       "content": "やるとも！",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 254,
@@ -1872,8 +1864,7 @@
       "pageNumber": 279,
       "content": "大和魂《やまとだましい》の問題",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 280,
@@ -2065,8 +2056,7 @@
       "pageNumber": 311,
       "content": "若様のご手術",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 312,
@@ -2264,8 +2254,7 @@
       "pageNumber": 344,
       "content": "忠義《ちゅうぎ》のための嘘《うそ》と真《まこと》",
       "characters": 24,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 345,
@@ -2451,8 +2440,7 @@
       "pageNumber": 375,
       "content": "やむにやまれぬ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 376,
@@ -2626,8 +2614,7 @@
       "pageNumber": 404,
       "content": "喧嘩口論すべからず",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 405,
@@ -2813,8 +2800,7 @@
       "pageNumber": 435,
       "content": "困った立場",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 436,
@@ -2988,8 +2974,7 @@
       "pageNumber": 464,
       "content": "正三君のかけひき",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 465,
@@ -3193,8 +3178,7 @@
       "pageNumber": 498,
       "content": "試験の成績",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 499,
@@ -3368,8 +3352,7 @@
       "pageNumber": 527,
       "content": "学監室の会議",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 528,
@@ -3561,8 +3544,7 @@
       "pageNumber": 559,
       "content": "お肝試《きもだめ》しの会",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 560,
@@ -3760,8 +3742,7 @@
       "pageNumber": 592,
       "content": "昼弁慶",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 593,
@@ -3965,8 +3946,7 @@
       "pageNumber": 626,
       "content": "一家団欒《だんらん》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 627,
@@ -4158,8 +4138,7 @@
       "pageNumber": 658,
       "content": "明るい年頭",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 659,
@@ -4345,8 +4324,7 @@
       "pageNumber": 689,
       "content": "がんばれがんばれ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 690,
@@ -4568,8 +4546,7 @@
       "pageNumber": 726,
       "content": "石炭泥棒《どろぼう》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 727,
@@ -4773,8 +4750,7 @@
       "pageNumber": 760,
       "content": "改心入道の働き",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 761,
@@ -4972,8 +4948,7 @@
       "pageNumber": 793,
       "content": "冬の夜の学習室",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 794,

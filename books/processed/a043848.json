@@ -17,1023 +17,881 @@
         "id": "chapter-1",
         "title": "冬を待つ山河",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 3,
-            "summary": "季節の移ろいと風景"
+            "endPage": 3
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 6,
-            "summary": "山間の暮らしの描写"
+            "endPage": 6
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 7,
-            "endPage": 7,
-            "summary": "人物たちの登場"
+            "endPage": 7
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 8,
-            "endPage": 9,
-            "summary": "冬の足音"
+            "endPage": 9
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 10,
-            "endPage": 0,
-            "summary": "運命の予感"
+            "endPage": 12
           }
-        ],
-        "summary": "晩秋の山河と新たな出会い"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "井出夫人とピヤノ",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 14,
-            "endPage": 14,
-            "summary": "井出夫人の人物像"
+            "endPage": 14
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 15,
-            "endPage": 16,
-            "summary": "ピアノの旋律"
+            "endPage": 16
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 18,
-            "summary": "夫人の過去"
+            "endPage": 18
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 19,
-            "endPage": 19,
-            "summary": "音楽への情熱"
+            "endPage": 19
           },
           {
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 21,
-            "summary": "聴く者の心の揺れ"
+            "endPage": 21
           },
           {
             "id": "chapter-2-section-6",
             "number": "六",
             "startPage": 22,
-            "endPage": 24,
-            "summary": "秘めた感情"
+            "endPage": 24
           },
           {
             "id": "chapter-2-section-7",
             "number": "七",
             "startPage": 25,
-            "endPage": 26,
-            "summary": "演奏に込めた思い"
+            "endPage": 26
           },
           {
             "id": "chapter-2-section-8",
             "number": "八",
             "startPage": 27,
-            "endPage": 0,
-            "summary": "夫人の決意"
+            "endPage": 29
           }
-        ],
-        "summary": "夫人のピアノと秘められた想い"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "すべてを与えるには",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 31,
-            "endPage": 31,
-            "summary": "与えることの意味"
+            "endPage": 31
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 32,
-            "endPage": 33,
-            "summary": "自己犠牲の誘惑"
+            "endPage": 33
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 34,
-            "endPage": 34,
-            "summary": "相手への思いやり"
+            "endPage": 34
           },
           {
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 35,
-            "endPage": 36,
-            "summary": "愛と所有の違い"
+            "endPage": 36
           },
           {
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 37,
-            "endPage": 38,
-            "summary": "理想と現実の隔たり"
+            "endPage": 38
           },
           {
             "id": "chapter-3-section-6",
             "number": "六",
             "startPage": 39,
-            "endPage": 40,
-            "summary": "与える側の苦しみ"
+            "endPage": 40
           },
           {
             "id": "chapter-3-section-7",
             "number": "七",
             "startPage": 41,
-            "endPage": 42,
-            "summary": "受け取る側の重荷"
+            "endPage": 42
           },
           {
             "id": "chapter-3-section-8",
             "number": "八",
             "startPage": 43,
-            "endPage": 43,
-            "summary": "無償の愛への懐疑"
+            "endPage": 43
           },
           {
             "id": "chapter-3-section-9",
             "number": "九",
             "startPage": 44,
-            "endPage": 45,
-            "summary": "すべてを捧げる覚悟"
+            "endPage": 45
           },
           {
             "id": "chapter-3-section-10",
             "number": "十",
             "startPage": 46,
-            "endPage": 46,
-            "summary": "愛の形の模索"
+            "endPage": 46
           },
           {
             "id": "chapter-3-section-11",
             "number": "十一",
             "startPage": 47,
-            "endPage": 48,
-            "summary": "心の均衡"
+            "endPage": 48
           },
           {
             "id": "chapter-3-section-12",
             "number": "十二",
             "startPage": 49,
-            "endPage": 0,
-            "summary": "真の献身とは何か"
+            "endPage": 50
           }
-        ],
-        "summary": "愛の本質をめぐる問い"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "青春の孤独",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 52,
-            "endPage": 52,
-            "summary": "青年期の孤立"
+            "endPage": 52
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 53,
-            "endPage": 54,
-            "summary": "理解されない苦悩"
+            "endPage": 54
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 55,
-            "endPage": 55,
-            "summary": "自己との対話"
+            "endPage": 55
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 56,
-            "endPage": 58,
-            "summary": "友を求める心"
+            "endPage": 58
           },
           {
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 59,
-            "endPage": 60,
-            "summary": "社会との距離"
+            "endPage": 60
           },
           {
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 61,
-            "endPage": 63,
-            "summary": "芸術への逃避"
+            "endPage": 63
           },
           {
             "id": "chapter-4-section-7",
             "number": "七",
             "startPage": 64,
-            "endPage": 65,
-            "summary": "孤独の深まり"
+            "endPage": 65
           },
           {
             "id": "chapter-4-section-8",
             "number": "八",
             "startPage": 66,
-            "endPage": 68,
-            "summary": "光を求めて"
+            "endPage": 68
           },
           {
             "id": "chapter-4-section-9",
             "number": "九",
             "startPage": 69,
-            "endPage": 0,
-            "summary": "青春の行方"
+            "endPage": 71
           }
-        ],
-        "summary": "孤独な青春の彷徨"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "過去は過去",
         "startPage": 72,
-        "endPage": 0,
+        "endPage": 91,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 73,
-            "endPage": 73,
-            "summary": "過ぎ去りし日々"
+            "endPage": 73
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 74,
-            "endPage": 75,
-            "summary": "記憶の重み"
+            "endPage": 75
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 76,
-            "endPage": 77,
-            "summary": "忘れられぬ人"
+            "endPage": 77
           },
           {
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 78,
-            "endPage": 80,
-            "summary": "後悔と執着"
+            "endPage": 80
           },
           {
             "id": "chapter-5-section-5",
             "number": "五",
             "startPage": 81,
-            "endPage": 81,
-            "summary": "過去を手放す困難"
+            "endPage": 81
           },
           {
             "id": "chapter-5-section-6",
             "number": "六",
             "startPage": 82,
-            "endPage": 83,
-            "summary": "新しい視座"
+            "endPage": 83
           },
           {
             "id": "chapter-5-section-7",
             "number": "七",
             "startPage": 84,
-            "endPage": 85,
-            "summary": "前を向く決意"
+            "endPage": 85
           },
           {
             "id": "chapter-5-section-8",
             "number": "八",
             "startPage": 86,
-            "endPage": 86,
-            "summary": "過去の清算"
+            "endPage": 86
           },
           {
             "id": "chapter-5-section-9",
             "number": "九",
             "startPage": 87,
-            "endPage": 88,
-            "summary": "再生への一歩"
+            "endPage": 88
           },
           {
             "id": "chapter-5-section-10",
             "number": "十",
             "startPage": 89,
-            "endPage": 0,
-            "summary": "過去は過去と割り切る"
+            "endPage": 91
           }
-        ],
-        "summary": "過去との決別と再出発"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "木の葉の如く",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 104,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "一",
             "startPage": 93,
-            "endPage": 94,
-            "summary": "風に舞う木の葉"
+            "endPage": 94
           },
           {
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 95,
-            "endPage": 96,
-            "summary": "運命の気まぐれ"
+            "endPage": 96
           },
           {
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 97,
-            "endPage": 98,
-            "summary": "抗えない力"
+            "endPage": 98
           },
           {
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 99,
-            "endPage": 101,
-            "summary": "漂う心"
+            "endPage": 101
           },
           {
             "id": "chapter-6-section-5",
             "number": "五",
             "startPage": 102,
-            "endPage": 0,
-            "summary": "木の葉の行方"
+            "endPage": 104
           }
-        ],
-        "summary": "翻弄される人生の脆さ"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "道はいずこ",
         "startPage": 105,
-        "endPage": 0,
+        "endPage": 127,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 106,
-            "endPage": 107,
-            "summary": "迷いの始まり"
+            "endPage": 107
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 108,
-            "endPage": 108,
-            "summary": "岐路に立つ人々"
+            "endPage": 108
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 109,
-            "endPage": 110,
-            "summary": "選択の重さ"
+            "endPage": 110
           },
           {
             "id": "chapter-7-section-4",
             "number": "四",
             "startPage": 111,
-            "endPage": 111,
-            "summary": "道なき道を行く"
+            "endPage": 111
           },
           {
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 112,
-            "endPage": 113,
-            "summary": "導きを求めて"
+            "endPage": 113
           },
           {
             "id": "chapter-7-section-6",
             "number": "六",
             "startPage": 114,
-            "endPage": 115,
-            "summary": "他者の助言"
+            "endPage": 115
           },
           {
             "id": "chapter-7-section-7",
             "number": "七",
             "startPage": 116,
-            "endPage": 117,
-            "summary": "自問自答の日々"
+            "endPage": 117
           },
           {
             "id": "chapter-7-section-8",
             "number": "八",
             "startPage": 118,
-            "endPage": 119,
-            "summary": "微かな手がかり"
+            "endPage": 119
           },
           {
             "id": "chapter-7-section-9",
             "number": "九",
             "startPage": 120,
-            "endPage": 120,
-            "summary": "道の先にあるもの"
+            "endPage": 120
           },
           {
             "id": "chapter-7-section-10",
             "number": "十",
             "startPage": 121,
-            "endPage": 122,
-            "summary": "覚悟と諦念"
+            "endPage": 122
           },
           {
             "id": "chapter-7-section-11",
             "number": "十一",
             "startPage": 123,
-            "endPage": 124,
-            "summary": "歩み続ける意志"
+            "endPage": 124
           },
           {
             "id": "chapter-7-section-12",
             "number": "十二",
             "startPage": 125,
-            "endPage": 0,
-            "summary": "道はいずこへ"
+            "endPage": 127
           }
-        ],
-        "summary": "行く先の見えない道への問い"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "春の日ざし",
         "startPage": 128,
-        "endPage": 0,
+        "endPage": 143,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "一",
             "startPage": 129,
-            "endPage": 129,
-            "summary": "春の訪れ"
+            "endPage": 129
           },
           {
             "id": "chapter-8-section-2",
             "number": "二",
             "startPage": 130,
-            "endPage": 131,
-            "summary": "陽光の温かさ"
+            "endPage": 131
           },
           {
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 132,
-            "endPage": 132,
-            "summary": "心の雪解け"
+            "endPage": 132
           },
           {
             "id": "chapter-8-section-4",
             "number": "四",
             "startPage": 133,
-            "endPage": 134,
-            "summary": "新しい季節の兆し"
+            "endPage": 134
           },
           {
             "id": "chapter-8-section-5",
             "number": "五",
             "startPage": 135,
-            "endPage": 136,
-            "summary": "人々の表情の変化"
+            "endPage": 136
           },
           {
             "id": "chapter-8-section-6",
             "number": "六",
             "startPage": 137,
-            "endPage": 137,
-            "summary": "再会の喜び"
+            "endPage": 137
           },
           {
             "id": "chapter-8-section-7",
             "number": "七",
             "startPage": 138,
-            "endPage": 140,
-            "summary": "希望の芽吹き"
+            "endPage": 140
           },
           {
             "id": "chapter-8-section-8",
             "number": "八",
             "startPage": 141,
-            "endPage": 0,
-            "summary": "春の日ざしの恵み"
+            "endPage": 143
           }
-        ],
-        "summary": "春の光がもたらす再生の予感"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "一歩一歩",
         "startPage": 144,
-        "endPage": 0,
+        "endPage": 167,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 145,
-            "endPage": 146,
-            "summary": "小さな前進"
+            "endPage": 146
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 147,
-            "endPage": 148,
-            "summary": "日々の積み重ね"
+            "endPage": 148
           },
           {
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 149,
-            "endPage": 150,
-            "summary": "挫折と立ち直り"
+            "endPage": 150
           },
           {
             "id": "chapter-9-section-4",
             "number": "四",
             "startPage": 151,
-            "endPage": 152,
-            "summary": "忍耐の意味"
+            "endPage": 152
           },
           {
             "id": "chapter-9-section-5",
             "number": "五",
             "startPage": 153,
-            "endPage": 155,
-            "summary": "仲間の支え"
+            "endPage": 155
           },
           {
             "id": "chapter-9-section-6",
             "number": "六",
             "startPage": 156,
-            "endPage": 157,
-            "summary": "自信の萌芽"
+            "endPage": 157
           },
           {
             "id": "chapter-9-section-7",
             "number": "七",
             "startPage": 158,
-            "endPage": 159,
-            "summary": "壁を越える瞬間"
+            "endPage": 159
           },
           {
             "id": "chapter-9-section-8",
             "number": "八",
             "startPage": 160,
-            "endPage": 161,
-            "summary": "成長の実感"
+            "endPage": 161
           },
           {
             "id": "chapter-9-section-9",
             "number": "九",
             "startPage": 162,
-            "endPage": 162,
-            "summary": "次なる目標"
+            "endPage": 162
           },
           {
             "id": "chapter-9-section-10",
             "number": "十",
             "startPage": 163,
-            "endPage": 164,
-            "summary": "歩みを止めぬ覚悟"
+            "endPage": 164
           },
           {
             "id": "chapter-9-section-11",
             "number": "十一",
             "startPage": 165,
-            "endPage": 0,
-            "summary": "一歩一歩の確かさ"
+            "endPage": 167
           }
-        ],
-        "summary": "着実な歩みと地道な努力"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "うしろ影",
         "startPage": 168,
-        "endPage": 0,
+        "endPage": 201,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 169,
-            "endPage": 170,
-            "summary": "別離の予感"
+            "endPage": 170
           },
           {
             "id": "chapter-10-section-2",
             "number": "二",
             "startPage": 171,
-            "endPage": 173,
-            "summary": "去る者の決意"
+            "endPage": 173
           },
           {
             "id": "chapter-10-section-3",
             "number": "三",
             "startPage": 174,
-            "endPage": 175,
-            "summary": "残される者の思い"
+            "endPage": 175
           },
           {
             "id": "chapter-10-section-4",
             "number": "四",
             "startPage": 176,
-            "endPage": 178,
-            "summary": "背中越しの言葉"
+            "endPage": 178
           },
           {
             "id": "chapter-10-section-5",
             "number": "五",
             "startPage": 179,
-            "endPage": 181,
-            "summary": "追いかけられぬ距離"
+            "endPage": 181
           },
           {
             "id": "chapter-10-section-6",
             "number": "六",
             "startPage": 182,
-            "endPage": 183,
-            "summary": "記憶に残る姿"
+            "endPage": 183
           },
           {
             "id": "chapter-10-section-7",
             "number": "七",
             "startPage": 184,
-            "endPage": 185,
-            "summary": "喪失感との対峙"
+            "endPage": 185
           },
           {
             "id": "chapter-10-section-8",
             "number": "八",
             "startPage": 186,
-            "endPage": 186,
-            "summary": "後ろ影の意味"
+            "endPage": 186
           },
           {
             "id": "chapter-10-section-9",
             "number": "九",
             "startPage": 187,
-            "endPage": 189,
-            "summary": "時間が癒すもの"
+            "endPage": 189
           },
           {
             "id": "chapter-10-section-10",
             "number": "十",
             "startPage": 190,
-            "endPage": 191,
-            "summary": "再び歩き出す"
+            "endPage": 191
           },
           {
             "id": "chapter-10-section-11",
             "number": "十一",
             "startPage": 192,
-            "endPage": 193,
-            "summary": "影の中の光"
+            "endPage": 193
           },
           {
             "id": "chapter-10-section-12",
             "number": "十二",
             "startPage": 194,
-            "endPage": 195,
-            "summary": "別れと再生"
+            "endPage": 195
           },
           {
             "id": "chapter-10-section-13",
             "number": "十三",
             "startPage": 196,
-            "endPage": 198,
-            "summary": "新たな道へ"
+            "endPage": 198
           },
           {
             "id": "chapter-10-section-14",
             "number": "十四",
             "startPage": 199,
-            "endPage": 0,
-            "summary": "うしろ影の消え方"
+            "endPage": 201
           }
-        ],
-        "summary": "去りゆく者の背中と残された者"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "たくらみ",
         "startPage": 202,
-        "endPage": 0,
+        "endPage": 218,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 203,
-            "endPage": 203,
-            "summary": "不穏な気配"
+            "endPage": 203
           },
           {
             "id": "chapter-11-section-2",
             "number": "二",
             "startPage": 204,
-            "endPage": 205,
-            "summary": "企みの全貌"
+            "endPage": 205
           },
           {
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 206,
-            "endPage": 207,
-            "summary": "協力者との密談"
+            "endPage": 207
           },
           {
             "id": "chapter-11-section-4",
             "number": "四",
             "startPage": 208,
-            "endPage": 209,
-            "summary": "計画の進行"
+            "endPage": 209
           },
           {
             "id": "chapter-11-section-5",
             "number": "五",
             "startPage": 210,
-            "endPage": 211,
-            "summary": "予期せぬ障害"
+            "endPage": 211
           },
           {
             "id": "chapter-11-section-6",
             "number": "六",
             "startPage": 212,
-            "endPage": 213,
-            "summary": "策略の綻び"
+            "endPage": 213
           },
           {
             "id": "chapter-11-section-7",
             "number": "七",
             "startPage": 214,
-            "endPage": 215,
-            "summary": "追い詰められる者"
+            "endPage": 215
           },
           {
             "id": "chapter-11-section-8",
             "number": "八",
             "startPage": 216,
-            "endPage": 0,
-            "summary": "たくらみの結末"
+            "endPage": 218
           }
-        ],
-        "summary": "密かに企てられた計画"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "アトリエの夜",
         "startPage": 219,
-        "endPage": 0,
+        "endPage": 236,
         "sections": [
           {
             "id": "chapter-12-section-1",
             "number": "一",
             "startPage": 220,
-            "endPage": 220,
-            "summary": "アトリエの静寂"
+            "endPage": 220
           },
           {
             "id": "chapter-12-section-2",
             "number": "二",
             "startPage": 221,
-            "endPage": 222,
-            "summary": "創作への没頭"
+            "endPage": 222
           },
           {
             "id": "chapter-12-section-3",
             "number": "三",
             "startPage": 223,
-            "endPage": 224,
-            "summary": "夜更けの来客"
+            "endPage": 224
           },
           {
             "id": "chapter-12-section-4",
             "number": "四",
             "startPage": 225,
-            "endPage": 226,
-            "summary": "芸術論の応酬"
+            "endPage": 226
           },
           {
             "id": "chapter-12-section-5",
             "number": "五",
             "startPage": 227,
-            "endPage": 228,
-            "summary": "打ち明け話"
+            "endPage": 228
           },
           {
             "id": "chapter-12-section-6",
             "number": "六",
             "startPage": 229,
-            "endPage": 229,
-            "summary": "創造の苦しみ"
+            "endPage": 229
           },
           {
             "id": "chapter-12-section-7",
             "number": "七",
             "startPage": 230,
-            "endPage": 231,
-            "summary": "夜の告白"
+            "endPage": 231
           },
           {
             "id": "chapter-12-section-8",
             "number": "八",
             "startPage": 232,
-            "endPage": 233,
-            "summary": "明かりの下の真実"
+            "endPage": 233
           },
           {
             "id": "chapter-12-section-9",
             "number": "九",
             "startPage": 234,
-            "endPage": 0,
-            "summary": "夜明けの覚醒"
+            "endPage": 236
           }
-        ],
-        "summary": "夜のアトリエで交わされる対話"
+        ]
       },
       {
         "id": "chapter-13",
         "title": "愛の誕生",
         "startPage": 237,
-        "endPage": 0,
+        "endPage": 258,
         "sections": [
           {
             "id": "chapter-13-section-1",
             "number": "一",
             "startPage": 238,
-            "endPage": 239,
-            "summary": "出会いの記憶"
+            "endPage": 239
           },
           {
             "id": "chapter-13-section-2",
             "number": "二",
             "startPage": 240,
-            "endPage": 240,
-            "summary": "惹かれ合う心"
+            "endPage": 240
           },
           {
             "id": "chapter-13-section-3",
             "number": "三",
             "startPage": 241,
-            "endPage": 242,
-            "summary": "戸惑いと喜び"
+            "endPage": 242
           },
           {
             "id": "chapter-13-section-4",
             "number": "四",
             "startPage": 243,
-            "endPage": 244,
-            "summary": "愛の自覚"
+            "endPage": 244
           },
           {
             "id": "chapter-13-section-5",
             "number": "五",
             "startPage": 245,
-            "endPage": 246,
-            "summary": "告白の勇気"
+            "endPage": 246
           },
           {
             "id": "chapter-13-section-6",
             "number": "六",
             "startPage": 247,
-            "endPage": 248,
-            "summary": "二人の距離"
+            "endPage": 248
           },
           {
             "id": "chapter-13-section-7",
             "number": "七",
             "startPage": 249,
-            "endPage": 251,
-            "summary": "愛の試練"
+            "endPage": 251
           },
           {
             "id": "chapter-13-section-8",
             "number": "八",
             "startPage": 252,
-            "endPage": 253,
-            "summary": "誕生する絆"
+            "endPage": 253
           },
           {
             "id": "chapter-13-section-9",
             "number": "九",
             "startPage": 254,
-            "endPage": 255,
-            "summary": "新たな関係"
+            "endPage": 255
           },
           {
             "id": "chapter-13-section-10",
             "number": "十",
             "startPage": 256,
-            "endPage": 0,
-            "summary": "愛の誕生の瞬間"
+            "endPage": 258
           }
-        ],
-        "summary": "愛が生まれる瞬間の輝き"
+        ]
       },
       {
         "id": "chapter-14",
         "title": "道すゝまず",
         "startPage": 259,
-        "endPage": 0,
+        "endPage": 272,
         "sections": [
           {
             "id": "chapter-14-section-1",
             "number": "一",
             "startPage": 260,
-            "endPage": 260,
-            "summary": "停滞する日々"
+            "endPage": 260
           },
           {
             "id": "chapter-14-section-2",
             "number": "二",
             "startPage": 261,
-            "endPage": 262,
-            "summary": "焦りと無力感"
+            "endPage": 262
           },
           {
             "id": "chapter-14-section-3",
             "number": "三",
             "startPage": 263,
-            "endPage": 264,
-            "summary": "周囲の期待と重圧"
+            "endPage": 264
           },
           {
             "id": "chapter-14-section-4",
             "number": "四",
             "startPage": 265,
-            "endPage": 265,
-            "summary": "打開策の模索"
+            "endPage": 265
           },
           {
             "id": "chapter-14-section-5",
             "number": "五",
             "startPage": 266,
-            "endPage": 267,
-            "summary": "進めぬ道"
+            "endPage": 267
           },
           {
             "id": "chapter-14-section-6",
             "number": "六",
             "startPage": 268,
-            "endPage": 269,
-            "summary": "自己嫌悪の淵"
+            "endPage": 269
           },
           {
             "id": "chapter-14-section-7",
             "number": "七",
             "startPage": 270,
-            "endPage": 0,
-            "summary": "それでも歩む"
+            "endPage": 272
           }
-        ],
-        "summary": "行き詰まった道と焦燥"
+        ]
       },
       {
         "id": "chapter-15",
@@ -1045,60 +903,51 @@
             "id": "chapter-15-section-1",
             "number": "一",
             "startPage": 274,
-            "endPage": 275,
-            "summary": "偽りの平穏"
+            "endPage": 275
           },
           {
             "id": "chapter-15-section-2",
             "number": "二",
             "startPage": 276,
-            "endPage": 277,
-            "summary": "内なる声"
+            "endPage": 277
           },
           {
             "id": "chapter-15-section-3",
             "number": "三",
             "startPage": 278,
-            "endPage": 280,
-            "summary": "真実への渇望"
+            "endPage": 280
           },
           {
             "id": "chapter-15-section-4",
             "number": "四",
             "startPage": 281,
-            "endPage": 282,
-            "summary": "仮面を脱ぐ"
+            "endPage": 282
           },
           {
             "id": "chapter-15-section-5",
             "number": "五",
             "startPage": 283,
-            "endPage": 284,
-            "summary": "向き合う勇気"
+            "endPage": 284
           },
           {
             "id": "chapter-15-section-6",
             "number": "六",
             "startPage": 285,
-            "endPage": 286,
-            "summary": "声の正体"
+            "endPage": 286
           },
           {
             "id": "chapter-15-section-7",
             "number": "七",
             "startPage": 287,
-            "endPage": 287,
-            "summary": "真実の受容"
+            "endPage": 287
           },
           {
             "id": "chapter-15-section-8",
             "number": "八",
             "startPage": 288,
-            "endPage": 290,
-            "summary": "新しい始まり"
+            "endPage": 290
           }
-        ],
-        "summary": "真実の声に耳を澄ます"
+        ]
       }
     ],
     "totalPages": 290,

@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "戦闘の人ヘンデル",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 22,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "ヘンデルの作品とそのレコード",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 22
           }
         ]
       },
@@ -37,13 +37,13 @@
         "id": "chapter-3",
         "title": "音楽の父バッハ",
         "startPage": 23,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "バッハの作品とそのレコード",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 43
           }
         ]
       },
@@ -51,13 +51,13 @@
         "id": "chapter-4",
         "title": "父《パパ》ハイドン",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 58,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "ハイドンの作品とそのレコード",
             "startPage": 55,
-            "endPage": 0
+            "endPage": 58
           }
         ]
       },
@@ -65,13 +65,13 @@
         "id": "chapter-5",
         "title": "真の天才モーツァルト",
         "startPage": 59,
-        "endPage": 0,
+        "endPage": 83,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "モーツァルトの作品とそのレコード",
             "startPage": 70,
-            "endPage": 0
+            "endPage": 83
           }
         ]
       },
@@ -79,13 +79,13 @@
         "id": "chapter-6",
         "title": "英雄ベートーヴェン",
         "startPage": 84,
-        "endPage": 0,
+        "endPage": 111,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "ベートーヴェンの作品とそのレコード",
             "startPage": 98,
-            "endPage": 0
+            "endPage": 111
           }
         ]
       },
@@ -93,13 +93,13 @@
         "id": "chapter-7",
         "title": "旋律の泉シューベルト",
         "startPage": 112,
-        "endPage": 0,
+        "endPage": 132,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "シューベルトの作品とそのレコード",
             "startPage": 125,
-            "endPage": 0
+            "endPage": 132
           }
         ]
       },
@@ -107,13 +107,13 @@
         "id": "chapter-8",
         "title": "純情の奇才ベルリオーズ",
         "startPage": 133,
-        "endPage": 0,
+        "endPage": 143,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "ベルリオーズの作品とそのレコード",
             "startPage": 141,
-            "endPage": 0
+            "endPage": 143
           }
         ]
       },
@@ -121,13 +121,13 @@
         "id": "chapter-9",
         "title": "幸福な天才メンデルスゾーン",
         "startPage": 144,
-        "endPage": 0,
+        "endPage": 156,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "メンデルスゾーンの作品とそのレコード",
             "startPage": 151,
-            "endPage": 0
+            "endPage": 156
           }
         ]
       },
@@ -135,13 +135,13 @@
         "id": "chapter-10",
         "title": "ピアノの詩人ショパン",
         "startPage": 157,
-        "endPage": 0,
+        "endPage": 180,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "ショパンの作品とそのレコード",
             "startPage": 168,
-            "endPage": 0
+            "endPage": 180
           }
         ]
       },
@@ -149,13 +149,13 @@
         "id": "chapter-11",
         "title": "情熱のシューマン",
         "startPage": 181,
-        "endPage": 0,
+        "endPage": 198,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "シューマンの作品とそのレコード",
             "startPage": 191,
-            "endPage": 0
+            "endPage": 198
           }
         ]
       },
@@ -163,13 +163,13 @@
         "id": "chapter-12",
         "title": "ピアノの巨匠リスト",
         "startPage": 199,
-        "endPage": 0,
+        "endPage": 210,
         "sections": [
           {
             "id": "chapter-12-section-1",
             "number": "リストの作品とそのレコード",
             "startPage": 206,
-            "endPage": 0
+            "endPage": 210
           }
         ]
       },
@@ -177,13 +177,13 @@
         "id": "chapter-13",
         "title": "巨人ワグナー",
         "startPage": 211,
-        "endPage": 0,
+        "endPage": 231,
         "sections": [
           {
             "id": "chapter-13-section-1",
             "number": "ワグナーの作品とそのレコード",
             "startPage": 225,
-            "endPage": 0
+            "endPage": 231
           }
         ]
       },
@@ -191,13 +191,13 @@
         "id": "chapter-14",
         "title": "音楽の隠聖フランク",
         "startPage": 232,
-        "endPage": 0,
+        "endPage": 240,
         "sections": [
           {
             "id": "chapter-14-section-1",
             "number": "フランクの作品とそのレコード",
             "startPage": 237,
-            "endPage": 0
+            "endPage": 240
           }
         ]
       },
@@ -205,13 +205,13 @@
         "id": "chapter-15",
         "title": "孤独の哲人ブラームス",
         "startPage": 241,
-        "endPage": 0,
+        "endPage": 262,
         "sections": [
           {
             "id": "chapter-15-section-1",
             "number": "ブラームスの作品とそのレコード",
             "startPage": 253,
-            "endPage": 0
+            "endPage": 262
           }
         ]
       },
@@ -219,13 +219,13 @@
         "id": "chapter-16",
         "title": "悲哀の権化チャイコフスキー",
         "startPage": 263,
-        "endPage": 0,
+        "endPage": 279,
         "sections": [
           {
             "id": "chapter-16-section-1",
             "number": "チャイコフスキーの作品とそのレコード",
             "startPage": 275,
-            "endPage": 0
+            "endPage": 279
           }
         ]
       },
@@ -233,13 +233,13 @@
         "id": "chapter-17",
         "title": "ドヴォルシャークの郷愁",
         "startPage": 280,
-        "endPage": 0,
+        "endPage": 293,
         "sections": [
           {
             "id": "chapter-17-section-1",
             "number": "ドヴォルシャークの作品とそのレコード",
             "startPage": 292,
-            "endPage": 0
+            "endPage": 293
           }
         ]
       },
@@ -247,13 +247,13 @@
         "id": "chapter-18",
         "title": "印象派の勝利ドビュッシー",
         "startPage": 294,
-        "endPage": 0,
+        "endPage": 306,
         "sections": [
           {
             "id": "chapter-18-section-1",
             "number": "ドビュッシーの作品とそのレコード",
             "startPage": 299,
-            "endPage": 0
+            "endPage": 306
           }
         ]
       },

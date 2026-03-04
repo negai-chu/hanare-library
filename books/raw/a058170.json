@@ -258,7 +258,9 @@
     ],
     "totalPages": 348,
     "averageCharsPerPage": 489,
-    "chapterTitles": []
+    "chapterTitles": [
+      "人間豹"
+    ]
   },
   "content": [
     {
@@ -272,8 +274,7 @@
       "pageNumber": 2,
       "content": "猫属《ねこぞく》の舌",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -333,8 +334,7 @@
       "pageNumber": 12,
       "content": "闇《やみ》にうごめく",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -382,8 +382,7 @@
       "pageNumber": 20,
       "content": "怪屋の怪",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -419,8 +418,7 @@
       "pageNumber": 26,
       "content": "檻《おり》の中",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -462,8 +460,7 @@
       "pageNumber": 33,
       "content": "猫《ねこ》と鼠《ねずみ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -505,8 +502,7 @@
       "pageNumber": 40,
       "content": "二匹の野獣",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -542,8 +538,7 @@
       "pageNumber": 46,
       "content": "怪屋の妖火《ようか》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -603,8 +598,7 @@
       "pageNumber": 56,
       "content": "江川蘭子",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -640,8 +634,7 @@
       "pageNumber": 62,
       "content": "仮面時代",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -701,8 +694,7 @@
       "pageNumber": 72,
       "content": "消え失せる花売娘",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -738,8 +730,7 @@
       "pageNumber": 78,
       "content": "暗黒劇場",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -775,8 +766,7 @@
       "pageNumber": 84,
       "content": "花吹雪《ふぶき》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -818,8 +808,7 @@
       "pageNumber": 91,
       "content": "舞台裏の怪異",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -879,8 +868,7 @@
       "pageNumber": 101,
       "content": "虎《とら》",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -922,8 +910,7 @@
       "pageNumber": 108,
       "content": "悪魔の足跡",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -965,8 +952,7 @@
       "pageNumber": 115,
       "content": "屋根裏の息遣い",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 116,
@@ -1014,8 +1000,7 @@
       "pageNumber": 123,
       "content": "蘭子の女中奉公",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1051,8 +1036,7 @@
       "pageNumber": 129,
       "content": "覆面令嬢",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1118,8 +1102,7 @@
       "pageNumber": 140,
       "content": "明智小五郎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1161,8 +1144,7 @@
       "pageNumber": 147,
       "content": "名探偵の憂慮",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 148,
@@ -1222,8 +1204,7 @@
       "pageNumber": 157,
       "content": "奇怪なる贈り物",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 158,
@@ -1259,8 +1240,7 @@
       "pageNumber": 163,
       "content": "第二の棺桶《かんおけ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,
@@ -1326,8 +1306,7 @@
       "pageNumber": 174,
       "content": "獣人対獣人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 175,
@@ -1381,8 +1360,7 @@
       "pageNumber": 183,
       "content": "鉄管の迷路",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 184,
@@ -1472,8 +1450,7 @@
       "pageNumber": 198,
       "content": "裏の裏",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 199,
@@ -1533,8 +1510,7 @@
       "pageNumber": 208,
       "content": "黒い糸",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 209,
@@ -1618,8 +1594,7 @@
       "pageNumber": 222,
       "content": "名犬シャーロック",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 223,
@@ -1685,8 +1660,7 @@
       "pageNumber": 233,
       "content": "都会のジャングル",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 234,
@@ -1758,8 +1732,7 @@
       "pageNumber": 245,
       "content": "公園の怪異",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 246,
@@ -1807,8 +1780,7 @@
       "pageNumber": 253,
       "content": "豹《ひょう》盗人",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 254,
@@ -1850,8 +1822,7 @@
       "pageNumber": 260,
       "content": "虎男《とらおとこ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,
@@ -1911,8 +1882,7 @@
       "pageNumber": 270,
       "content": "熊",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 271,
@@ -1978,8 +1948,7 @@
       "pageNumber": 281,
       "content": "恐ろしき借家人",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 282,
@@ -2033,8 +2002,7 @@
       "pageNumber": 290,
       "content": "喰《く》うか喰われるか",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 291,
@@ -2088,8 +2056,7 @@
       "pageNumber": 299,
       "content": "金口の巻煙草《まきたばこ》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 300,
@@ -2131,8 +2098,7 @@
       "pageNumber": 306,
       "content": "恐ろしき猛獣団長",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 307,
@@ -2144,8 +2110,7 @@
       "pageNumber": 308,
       "content": "喰うか喰われるか",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 309,
@@ -2175,8 +2140,7 @@
       "pageNumber": 313,
       "content": "Ｚ曲馬団",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 314,
@@ -2248,8 +2212,7 @@
       "pageNumber": 325,
       "content": "美しき半人半獣",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 326,
@@ -2303,8 +2266,7 @@
       "pageNumber": 334,
       "content": "大空の爆笑",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 335,

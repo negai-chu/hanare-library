@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "一　音韻組織と連音上の法則",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "音韻組織の基本原理"
+        "endPage": 8
       },
       {
         "id": "chapter-2",
         "title": "二　第一期の音韻",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -42,16 +41,15 @@
             "id": "chapter-2-section-3",
             "number": "三　連音上の法則",
             "startPage": 39,
-            "endPage": 0
+            "endPage": 43
           }
-        ],
-        "summary": "奈良時代の音韻"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "三　第二期の音韻",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -63,16 +61,15 @@
             "id": "chapter-3-section-2",
             "number": "二　連音上の法則の変遷",
             "startPage": 60,
-            "endPage": 0
+            "endPage": 62
           }
-        ],
-        "summary": "平安時代の音韻"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "四　第三期の音韻",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -84,17 +81,15 @@
             "id": "chapter-4-section-2",
             "number": "二　連音上の法則の変遷",
             "startPage": 68,
-            "endPage": 0
+            "endPage": 69
           }
-        ],
-        "summary": "鎌倉以降の音韻"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "五　国語音韻変化の概観",
         "startPage": 70,
-        "endPage": 74,
-        "summary": "音韻変化の全体像"
+        "endPage": 74
       }
     ],
     "totalPages": 74,

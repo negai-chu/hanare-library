@@ -36,7 +36,9 @@
     ],
     "totalPages": 49,
     "averageCharsPerPage": 531,
-    "chapterTitles": []
+    "chapterTitles": [
+      "木曽駒と甲斐駒"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "木曽駒",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -177,8 +178,7 @@
       "pageNumber": 23,
       "content": "甲斐駒",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

@@ -84,7 +84,9 @@
     ],
     "totalPages": 71,
     "averageCharsPerPage": 484,
-    "chapterTitles": []
+    "chapterTitles": [
+      "契りきぬ"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "一の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 10,
       "content": "一の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -196,8 +196,7 @@
       "pageNumber": 18,
       "content": "一の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -251,8 +250,7 @@
       "pageNumber": 27,
       "content": "二の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -300,8 +298,7 @@
       "pageNumber": 35,
       "content": "二の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -331,8 +328,7 @@
       "pageNumber": 40,
       "content": "三の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -362,8 +358,7 @@
       "pageNumber": 45,
       "content": "三の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -405,8 +400,7 @@
       "pageNumber": 52,
       "content": "四の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -454,8 +448,7 @@
       "pageNumber": 60,
       "content": "四の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -497,8 +490,7 @@
       "pageNumber": 67,
       "content": "四の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,

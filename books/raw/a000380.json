@@ -42,7 +42,9 @@
     ],
     "totalPages": 43,
     "averageCharsPerPage": 548,
-    "chapterTitles": []
+    "chapterTitles": [
+      "放浪"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -165,8 +166,7 @@
       "pageNumber": 20,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -178,8 +178,7 @@
       "pageNumber": 22,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

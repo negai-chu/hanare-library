@@ -72,7 +72,9 @@
     ],
     "totalPages": 128,
     "averageCharsPerPage": 650,
-    "chapterTitles": []
+    "chapterTitles": [
+      "聞書抄"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "その一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 8,
       "content": "その二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -232,8 +232,7 @@
       "pageNumber": 26,
       "content": "その三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -365,8 +364,7 @@
       "pageNumber": 48,
       "content": "その四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -492,8 +490,7 @@
       "pageNumber": 69,
       "content": "その五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -607,8 +604,7 @@
       "pageNumber": 88,
       "content": "その六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -668,8 +664,7 @@
       "pageNumber": 98,
       "content": "その七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -813,8 +808,7 @@
       "pageNumber": 122,
       "content": "その八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,

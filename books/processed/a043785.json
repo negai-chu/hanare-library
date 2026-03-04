@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "「論語」を読む人のために",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "論語を読むための手引き"
+        "endPage": 15
       },
       {
         "id": "chapter-2",
         "title": "訳註その他について",
         "startPage": 16,
-        "endPage": 0,
-        "summary": "訳註の方針と凡例"
+        "endPage": 17
       },
       {
         "id": "chapter-3",
         "title": "学而第一",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -127,16 +125,15 @@
             "id": "chapter-3-section-16",
             "number": "一六（一六）",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 28
           }
-        ],
-        "summary": "学びの喜びと道徳"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "為政第二",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 41,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -280,16 +277,15 @@
             "id": "chapter-4-section-24",
             "number": "二四（四〇）",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 41
           }
-        ],
-        "summary": "政治と人格の修養"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "八（はついつ）第三",
         "startPage": 42,
-        "endPage": 0,
+        "endPage": 58,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -445,16 +441,15 @@
             "id": "chapter-5-section-26",
             "number": "二六（六六）",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 58
           }
-        ],
-        "summary": "礼楽の精神と実践"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "里仁第四",
         "startPage": 59,
-        "endPage": 0,
+        "endPage": 70,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -610,16 +605,15 @@
             "id": "chapter-6-section-26",
             "number": "二六（九二）",
             "startPage": 70,
-            "endPage": 0
+            "endPage": 70
           }
-        ],
-        "summary": "仁の道と人の在り方"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "公冶長第五",
         "startPage": 71,
-        "endPage": 0,
+        "endPage": 91,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -781,16 +775,15 @@
             "id": "chapter-7-section-27",
             "number": "二七（一一九）",
             "startPage": 91,
-            "endPage": 0
+            "endPage": 91
           }
-        ],
-        "summary": "人物評と才徳の判断"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "雍也《ようや》第六",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 109,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -958,16 +951,15 @@
             "id": "chapter-8-section-28",
             "number": "二八（一四七）",
             "startPage": 109,
-            "endPage": 0
+            "endPage": 109
           }
-        ],
-        "summary": "仁者の心と中庸の徳"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "述而第七",
         "startPage": 110,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -1189,16 +1181,15 @@
             "id": "chapter-9-section-37",
             "number": "三七（一八四）",
             "startPage": 129,
-            "endPage": 0
+            "endPage": 129
           }
-        ],
-        "summary": "学問の方法と聖人の道"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "泰伯第八",
         "startPage": 130,
-        "endPage": 0,
+        "endPage": 141,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -1324,16 +1315,15 @@
             "id": "chapter-10-section-21",
             "number": "二一（二〇五）",
             "startPage": 141,
-            "endPage": 0
+            "endPage": 141
           }
-        ],
-        "summary": "大人の志と道義の守り"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "子罕《しかん》第九",
         "startPage": 142,
-        "endPage": 0,
+        "endPage": 159,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -1513,16 +1503,15 @@
             "id": "chapter-11-section-30",
             "number": "三〇（二三五）",
             "startPage": 158,
-            "endPage": 0
+            "endPage": 159
           }
-        ],
-        "summary": "君子の嘆きと自省"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "郷党第十",
         "startPage": 160,
-        "endPage": 0,
+        "endPage": 168,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -1630,16 +1619,15 @@
             "id": "chapter-12-section-18",
             "number": "一八（二五三）",
             "startPage": 167,
-            "endPage": 0
+            "endPage": 168
           }
-        ],
-        "summary": "聖人の日常と礼の実践"
+        ]
       },
       {
         "id": "chapter-13",
         "title": "先進第十一",
         "startPage": 169,
-        "endPage": 0,
+        "endPage": 191,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -1789,16 +1777,15 @@
             "id": "chapter-13-section-25",
             "number": "二五（二七八）",
             "startPage": 186,
-            "endPage": 0
+            "endPage": 191
           }
-        ],
-        "summary": "門人たちの才能と個性"
+        ]
       },
       {
         "id": "chapter-14",
         "title": "顔淵第十二",
         "startPage": 192,
-        "endPage": 0,
+        "endPage": 209,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -1942,16 +1929,15 @@
             "id": "chapter-14-section-24",
             "number": "二四（三〇二）",
             "startPage": 209,
-            "endPage": 0
+            "endPage": 209
           }
-        ],
-        "summary": "仁と克己の実践"
+        ]
       },
       {
         "id": "chapter-15",
         "title": "子路第十三",
         "startPage": 210,
-        "endPage": 0,
+        "endPage": 230,
         "sections": [
           {
             "id": "chapter-15-section-1",
@@ -2131,16 +2117,15 @@
             "id": "chapter-15-section-30",
             "number": "三〇（三三二）",
             "startPage": 229,
-            "endPage": 0
+            "endPage": 230
           }
-        ],
-        "summary": "政治と正名の教え"
+        ]
       },
       {
         "id": "chapter-16",
         "title": "憲問第十四",
         "startPage": 231,
-        "endPage": 0,
+        "endPage": 262,
         "sections": [
           {
             "id": "chapter-16-section-1",
@@ -2422,16 +2407,15 @@
             "id": "chapter-16-section-47",
             "number": "四七（三七九）",
             "startPage": 261,
-            "endPage": 0
+            "endPage": 262
           }
-        ],
-        "summary": "賢人の処世と古今の評"
+        ]
       },
       {
         "id": "chapter-17",
         "title": "衛霊公第十五",
         "startPage": 263,
-        "endPage": 0,
+        "endPage": 284,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -2677,16 +2661,15 @@
             "id": "chapter-17-section-41",
             "number": "四一（四二〇）",
             "startPage": 283,
-            "endPage": 0
+            "endPage": 284
           }
-        ],
-        "summary": "仁と道の普遍的教え"
+        ]
       },
       {
         "id": "chapter-18",
         "title": "季氏第十六",
         "startPage": 285,
-        "endPage": 0,
+        "endPage": 295,
         "sections": [
           {
             "id": "chapter-18-section-1",
@@ -2770,16 +2753,15 @@
             "id": "chapter-18-section-14",
             "number": "一四（四三四）",
             "startPage": 295,
-            "endPage": 0
+            "endPage": 295
           }
-        ],
-        "summary": "君主の務めと礼楽"
+        ]
       },
       {
         "id": "chapter-19",
         "title": "陽貨第十七",
         "startPage": 296,
-        "endPage": 0,
+        "endPage": 317,
         "sections": [
           {
             "id": "chapter-19-section-1",
@@ -2937,14 +2919,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "善悪の判断と教化"
+        ]
       },
       {
         "id": "chapter-20",
         "title": "微子第十八",
         "startPage": 318,
-        "endPage": 0,
+        "endPage": 329,
         "sections": [
           {
             "id": "chapter-20-section-1",
@@ -3010,16 +2991,15 @@
             "id": "chapter-20-section-11",
             "number": "一一（四七一）",
             "startPage": 329,
-            "endPage": 0
+            "endPage": 329
           }
-        ],
-        "summary": "隠遁者の生き方"
+        ]
       },
       {
         "id": "chapter-21",
         "title": "子張第十九",
         "startPage": 330,
-        "endPage": 0,
+        "endPage": 342,
         "sections": [
           {
             "id": "chapter-21-section-1",
@@ -3169,10 +3149,9 @@
             "id": "chapter-21-section-25",
             "number": "二五（四九六）",
             "startPage": 342,
-            "endPage": 0
+            "endPage": 342
           }
-        ],
-        "summary": "門人たちの学問観"
+        ]
       },
       {
         "id": "chapter-22",
@@ -3198,8 +3177,7 @@
             "startPage": 347,
             "endPage": 347
           }
-        ],
-        "summary": "堯舜の治世と天命"
+        ]
       }
     ],
     "totalPages": 347,

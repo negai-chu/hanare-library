@@ -66,7 +66,9 @@
     ],
     "totalPages": 60,
     "averageCharsPerPage": 458,
-    "chapterTitles": []
+    "chapterTitles": [
+      "天津教古文書の批判"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "第一　緒言",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 7,
       "content": "第二　長慶太神宮御由來",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -172,8 +172,7 @@
       "pageNumber": 17,
       "content": "第三　長慶天皇御眞筆",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -209,8 +208,7 @@
       "pageNumber": 23,
       "content": "第四　後醍醐天皇御眞筆",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -240,8 +238,7 @@
       "pageNumber": 28,
       "content": "第五　平群眞鳥眞筆",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -313,8 +310,7 @@
       "pageNumber": 40,
       "content": "第六　神代文字之卷",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -428,8 +424,7 @@
       "pageNumber": 59,
       "content": "第七　結語",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,

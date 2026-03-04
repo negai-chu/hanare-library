@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "貧乏物語",
         "startPage": 1,
-        "endPage": 200,
-        "summary": "貧困問題の経済学的考察"
+        "endPage": 200
       }
     ],
     "totalPages": 200,
     "averageCharsPerPage": 555,
-    "chapterTitles": []
+    "chapterTitles": [
+      "貧乏物語"
+    ]
   },
   "content": [
     {

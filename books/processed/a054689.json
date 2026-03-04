@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "凉み舟",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "橋上の亂鬪",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 22,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -61,7 +61,7 @@
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 20,
-            "endPage": 0
+            "endPage": 22
           }
         ]
       },
@@ -69,7 +69,7 @@
         "id": "chapter-3",
         "title": "駕籠半弓",
         "startPage": 23,
-        "endPage": 0,
+        "endPage": 33,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -87,7 +87,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 33
           }
         ]
       },
@@ -95,7 +95,7 @@
         "id": "chapter-4",
         "title": "名人半九郎",
         "startPage": 34,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -113,7 +113,7 @@
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 43
           }
         ]
       },
@@ -121,13 +121,13 @@
         "id": "chapter-5",
         "title": "醜い娘",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 47,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 47
           }
         ]
       },
@@ -135,7 +135,7 @@
         "id": "chapter-6",
         "title": "板倉屋",
         "startPage": 48,
-        "endPage": 0,
+        "endPage": 64,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -159,7 +159,7 @@
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 61,
-            "endPage": 0
+            "endPage": 64
           }
         ]
       },
@@ -167,7 +167,7 @@
         "id": "chapter-7",
         "title": "疑ひの數々",
         "startPage": 65,
-        "endPage": 0,
+        "endPage": 74,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -185,7 +185,7 @@
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 71,
-            "endPage": 0
+            "endPage": 74
           }
         ]
       },
@@ -193,7 +193,7 @@
         "id": "chapter-8",
         "title": "お菊とお節",
         "startPage": 75,
-        "endPage": 0,
+        "endPage": 84,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -211,7 +211,7 @@
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 81,
-            "endPage": 0
+            "endPage": 84
           }
         ]
       },
@@ -219,7 +219,7 @@
         "id": "chapter-9",
         "title": "浪人と幇間",
         "startPage": 85,
-        "endPage": 0,
+        "endPage": 94,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -237,7 +237,7 @@
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 91,
-            "endPage": 0
+            "endPage": 94
           }
         ]
       },
@@ -245,13 +245,13 @@
         "id": "chapter-10",
         "title": "血染の浴衣",
         "startPage": 95,
-        "endPage": 0,
+        "endPage": 97,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 96,
-            "endPage": 0
+            "endPage": 97
           }
         ]
       },
@@ -259,7 +259,7 @@
         "id": "chapter-11",
         "title": "豊年坊主",
         "startPage": 98,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -283,7 +283,7 @@
             "id": "chapter-11-section-4",
             "number": "四",
             "startPage": 106,
-            "endPage": 0
+            "endPage": 129
           }
         ]
       },
@@ -291,7 +291,7 @@
         "id": "chapter-12",
         "title": "追ひ込み",
         "startPage": 130,
-        "endPage": 0,
+        "endPage": 144,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -315,7 +315,7 @@
             "id": "chapter-12-section-4",
             "number": "四",
             "startPage": 141,
-            "endPage": 0
+            "endPage": 144
           }
         ]
       },

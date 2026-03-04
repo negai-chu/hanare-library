@@ -48,7 +48,9 @@
     ],
     "totalPages": 59,
     "averageCharsPerPage": 499,
-    "chapterTitles": []
+    "chapterTitles": [
+      "大正東京錦絵"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "「カチューシャ」前後",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -195,8 +196,7 @@
       "pageNumber": 24,
       "content": "李彩・伯山・綾之助",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -262,8 +262,7 @@
       "pageNumber": 35,
       "content": "「米久の晩餐」",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -359,8 +358,7 @@
       "pageNumber": 51,
       "content": "ルパシカの文化",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,

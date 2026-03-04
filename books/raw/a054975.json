@@ -42,7 +42,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 154,
-    "chapterTitles": []
+    "chapterTitles": [
+      "納豆の茶漬け"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "納豆の拵え方",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "お茶潰けのやり方",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -88,8 +88,7 @@
       "pageNumber": 7,
       "content": "納豆のよしあし",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

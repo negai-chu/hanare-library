@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序――この本のなりたち",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "１　奇矯な着想",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-2-section-4",
             "number": "死の欺瞞",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 16
           }
         ]
       },
@@ -55,13 +55,13 @@
         "id": "chapter-3",
         "title": "２　意外な犯人",
         "startPage": 17,
-        "endPage": 0
+        "endPage": 33
       },
       {
         "id": "chapter-4",
         "title": "３　兇器としての氷",
         "startPage": 34,
-        "endPage": 0,
+        "endPage": 47,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -97,7 +97,7 @@
             "id": "chapter-4-section-6",
             "number": "花氷の殺人その他",
             "startPage": 44,
-            "endPage": 0
+            "endPage": 47
           }
         ]
       },
@@ -105,13 +105,13 @@
         "id": "chapter-5",
         "title": "４　異様な兇器",
         "startPage": 48,
-        "endPage": 0
+        "endPage": 52
       },
       {
         "id": "chapter-6",
         "title": "５　密室トリック",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 80,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -129,7 +129,7 @@
             "id": "chapter-6-section-3",
             "number": "（Ｄ）　密室脱出トリック",
             "startPage": 78,
-            "endPage": 0
+            "endPage": 80
           }
         ]
       },
@@ -137,31 +137,31 @@
         "id": "chapter-7",
         "title": "６　隠し方のトリック",
         "startPage": 81,
-        "endPage": 0
+        "endPage": 90
       },
       {
         "id": "chapter-8",
         "title": "７　プロバビリティーの犯罪",
         "startPage": 91,
-        "endPage": 0
+        "endPage": 97
       },
       {
         "id": "chapter-9",
         "title": "８　顔のない死体",
         "startPage": 98,
-        "endPage": 0
+        "endPage": 107
       },
       {
         "id": "chapter-10",
         "title": "９　変身願望",
         "startPage": 108,
-        "endPage": 0
+        "endPage": 116
       },
       {
         "id": "chapter-11",
         "title": "10　異様な犯罪動機",
         "startPage": 117,
-        "endPage": 0,
+        "endPage": 140,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -185,7 +185,7 @@
             "id": "chapter-11-section-4",
             "number": "逃避の別の例",
             "startPage": 137,
-            "endPage": 0
+            "endPage": 140
           }
         ]
       },
@@ -193,43 +193,43 @@
         "id": "chapter-12",
         "title": "11　探偵小説に現われた犯罪心理",
         "startPage": 141,
-        "endPage": 0
+        "endPage": 148
       },
       {
         "id": "chapter-13",
         "title": "12　暗号記法の種類",
         "startPage": 149,
-        "endPage": 0
+        "endPage": 162
       },
       {
         "id": "chapter-14",
         "title": "13　魔術と探偵小説",
         "startPage": 163,
-        "endPage": 0
+        "endPage": 174
       },
       {
         "id": "chapter-15",
         "title": "14　明治の指紋小説",
         "startPage": 175,
-        "endPage": 0
+        "endPage": 189
       },
       {
         "id": "chapter-16",
         "title": "15　原始法医学書と探偵小説",
         "startPage": 190,
-        "endPage": 0
+        "endPage": 194
       },
       {
         "id": "chapter-17",
         "title": "16　スリルの説",
         "startPage": 195,
-        "endPage": 0
+        "endPage": 219
       },
       {
         "id": "chapter-18",
         "title": "「類別トリック集成」目次",
         "startPage": 220,
-        "endPage": 0,
+        "endPage": 225,
         "sections": [
           {
             "id": "chapter-18-section-1",
@@ -283,7 +283,7 @@
             "id": "chapter-18-section-9",
             "number": "【第九】トリッキイな犯罪発覚の手掛り（四五）",
             "startPage": 225,
-            "endPage": 0
+            "endPage": 225
           }
         ]
       },

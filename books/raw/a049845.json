@@ -54,7 +54,9 @@
     ],
     "totalPages": 80,
     "averageCharsPerPage": 503,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地獄"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 3,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -159,8 +160,7 @@
       "pageNumber": 17,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -262,8 +262,7 @@
       "pageNumber": 34,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -425,8 +424,7 @@
       "pageNumber": 61,
       "content": "４",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -492,8 +490,7 @@
       "pageNumber": 72,
       "content": "５",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,

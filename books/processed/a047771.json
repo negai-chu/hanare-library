@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "時雨・雪・三味線堀",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "広重の家",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 9,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-2-section-4",
             "number": "広重の家",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 9
           }
         ]
       },
@@ -55,25 +55,25 @@
         "id": "chapter-3",
         "title": "風船あられ",
         "startPage": 10,
-        "endPage": 0
+        "endPage": 11
       },
       {
         "id": "chapter-4",
         "title": "梅若忌",
         "startPage": 12,
-        "endPage": 0
+        "endPage": 16
       },
       {
         "id": "chapter-5",
         "title": "金魚売",
         "startPage": 17,
-        "endPage": 0
+        "endPage": 19
       },
       {
         "id": "chapter-6",
         "title": "東京の声",
         "startPage": 20,
-        "endPage": 0
+        "endPage": 21
       },
       {
         "id": "chapter-7",

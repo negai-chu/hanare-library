@@ -36,7 +36,9 @@
     ],
     "totalPages": 67,
     "averageCharsPerPage": 586,
-    "chapterTitles": []
+    "chapterTitles": [
+      "オスカー・ブロズキー事件"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "犯罪編",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -201,8 +202,7 @@
       "pageNumber": 27,
       "content": "推理編",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

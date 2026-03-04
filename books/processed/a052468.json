@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-3",
         "title": "第一　雪と人生",
         "startPage": 8,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -83,7 +83,7 @@
             "id": "chapter-3-section-9",
             "number": "九",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 30
           }
         ]
       },
@@ -91,7 +91,7 @@
         "id": "chapter-4",
         "title": "第二　「雪の結晶」雑話",
         "startPage": 31,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -175,7 +175,7 @@
             "id": "chapter-4-section-14",
             "number": "一四",
             "startPage": 68,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },
@@ -183,7 +183,7 @@
         "id": "chapter-5",
         "title": "第三　北海道における雪の研究の話",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 109,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -225,7 +225,7 @@
             "id": "chapter-5-section-7",
             "number": "七",
             "startPage": 106,
-            "endPage": 0
+            "endPage": 109
           }
         ]
       },
@@ -233,7 +233,7 @@
         "id": "chapter-6",
         "title": "第四　雪を作る話",
         "startPage": 110,
-        "endPage": 0,
+        "endPage": 145,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -311,7 +311,7 @@
             "id": "chapter-6-section-13",
             "number": "一三",
             "startPage": 142,
-            "endPage": 0
+            "endPage": 145
           }
         ]
       },
@@ -319,7 +319,7 @@
         "id": "chapter-7",
         "title": "附記",
         "startPage": 146,
-        "endPage": 0
+        "endPage": 149
       },
       {
         "id": "chapter-8",

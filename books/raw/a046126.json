@@ -48,7 +48,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 469,
-    "chapterTitles": []
+    "chapterTitles": [
+      "顎十郎捕物帳"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "客の名札《なふだ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "すさきの浜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -160,8 +160,7 @@
       "pageNumber": 18,
       "content": "首実験《くびじっけん》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -221,8 +220,7 @@
       "pageNumber": 28,
       "content": "千人悲願《せんにんひがん》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

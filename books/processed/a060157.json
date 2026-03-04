@@ -17,86 +17,88 @@
         "id": "chapter-1",
         "title": "朝菜集",
         "startPage": 1,
-        "endPage": 45,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "朝菜集自序",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "白梅花",
-            "startPage": 5,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "白梅花　又",
-            "startPage": 8,
-            "endPage": 11
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "月天心",
-            "startPage": 12,
-            "endPage": 14
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "富士とほく",
-            "startPage": 15,
-            "endPage": 17
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-6",
             "number": "桃花李花",
-            "startPage": 18,
-            "endPage": 22
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-7",
             "number": "窓のうぐひす",
-            "startPage": 23,
-            "endPage": 25
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-8",
             "number": "山峽口占",
-            "startPage": 26,
-            "endPage": 29
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-9",
             "number": "豌の花",
-            "startPage": 30,
-            "endPage": 32
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-10",
             "number": "師よ　萩原朔太郎",
-            "startPage": 33,
-            "endPage": 36
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-11",
             "number": "途上即事",
-            "startPage": 37,
-            "endPage": 39
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-12",
             "number": "鐘鳴りぬ",
-            "startPage": 40,
-            "endPage": 45
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 45,
-    "averageCharsPerPage": 85,
-    "chapterTitles": []
+    "totalPages": 31,
+    "averageCharsPerPage": 123,
+    "chapterTitles": [
+      "朝菜集"
+    ]
   },
   "content": [
     {
@@ -108,277 +110,180 @@
     },
     {
       "pageNumber": 2,
-      "content": "朝菜集自序",
-      "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　朝菜集自序\n\n　ちかごろ書肆のすすめにより、おのれまたをりからおもふところいささかありて、この書ひとまきをあみぬ。なづけて朝菜集といふ。いにしへのあまの子らが、あさごとに磯菜つみけんなりはひのごとく、おのれまたとしつき飢ゑ渇きたるおのれがこころひとつをやしなはんとて、これらのうたをうたひつづりたるここちぞする。いまはたかへりみてみづからあはれよとおぼゆるもをこなりかし。げにこれらのうた、そのふるきはほとほとはたとせばかりもとほき日のもの、そのあたらしきはきその吟詠、いづれみなただひとふしのおのがしらべにしたがへりしとのみ、みづからはなほおもへれど、みじかからぬとしつき世のさまのうつりかはりしあと、かの萬波あひうちしなごりもや、そこここにしるしとやいはん。うたのすがたそのこころばえをりふしにいたくたがひて、かれとこれとあるひはひとつ笛のうたぐちをもれいでしこゑとしもききとめがたからん。さらばこの笛のつくりあしきは證されたり――\n\n　こはこれつくりあしき笛一竿、されどこの日おのれそをとりてつつしみひざまづきて、いまはなき\n\n　萩原朔太郎先生の尊靈のみまへにささげまつらんとす。",
+      "characters": 494,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　ちかごろ書肆のすすめにより、おのれまたをりからおもふところいささかありて、この書ひとまきをあみぬ。なづけて朝菜集といふ。いにしへのあまの子らが、あさごとに磯菜つみけんなりはひのごとく、おのれまたとしつき飢ゑ渇きたるおのれがこころひとつをやしなはんとて、これらのうたをうたひつづりたるここちぞする。いまはたかへりみてみづからあはれよとおぼゆるもをこなりかし。げにこれらのうた、そのふるきはほとほとはたとせばかりもとほき日のもの、そのあたらしきはきその吟詠、いづれみなただひとふしのおのがしらべにしたがへりしとのみ、みづからはなほおもへれど、みじかからぬとしつき世のさまのうつりかはりしあと、かの萬波あひうちしなごりもや、そこここにしるしとやいはん。うたのすがたそのこころばえをりふしにいたくたがひて、かれとこれとあるひはひとつ笛のうたぐちをもれいでしこゑとしもききとめがたからん。さらばこの笛のつくりあしきは證されたり――\n\n　こはこれつくりあしき笛一竿、されどこの日おのれそをとりてつつしみひざまづきて、いまはなき\n\n　萩原朔太郎先生の尊靈のみまへにささげまつらんとす。",
-      "characters": 486,
+      "content": "　そはこの鄙吝の身をもつて、おのれとしごろ詩歌のみちにしたがへるもの、ほかならずただ師のきみの高風を敬慕しまつれるの餘のみ。いま身は垂老の日にのぞみ、師は白玉樓中にさりたまふ、しかして世は曠古の大局にあたりて兵馬倥偬をきはめたり。感懷まことにとどまるところをしらざらんとするなり。ときはこれ昭和癸未のとし春のひと日、おのれまたこのひとまきの境をさりてながくかへりきたる日なきを知りをはんぬ。身たまたま肥薩の山野に漂泊して、萬象靉靆たるあひだにあり、しかしてこの序をしるしつつ、心頭を徂徠する雲影のうたた悲涼ならんとするをみづからあやしむとしかいふ。\n\n三好達治識白梅花",
+      "characters": 284,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "　そはこの鄙吝の身をもつて、おのれとしごろ詩歌のみちにしたがへるもの、ほかならずただ師のきみの高風を敬慕しまつれるの餘のみ。いま身は垂老の日にのぞみ、師は白玉樓中にさりたまふ、しかして世は曠古の大局にあたりて兵馬倥偬をきはめたり。感懷まことにとどまるところをしらざらんとするなり。ときはこれ昭和癸未のとし春のひと日、おのれまたこのひとまきの境をさりてながくかへりきたる日なきを知りをはんぬ。身たまたま肥薩の山野に漂泊して、萬象靉靆たるあひだにあり、しかしてこの序をしるしつつ、心頭を徂徠する雲影のうたた悲涼ならんとするをみづからあやしむとしかいふ。\n\n三好達治識",
-      "characters": 281,
+      "content": "城あとのしもとのなかの\n\nひともとの老い木のうれに\n\n梅の花はつはつ咲きぬ\n\n槎たりやこのもかのもの\n\nその枝の瑠璃のさかづき\n\n甘からめ香ぐはしからめ\n\n二つ三つ\n\n目じろどり來てくちつくる\n\nひそかなりげにそのほかは",
+      "characters": 110,
       "ruby": []
     },
     {
       "pageNumber": 5,
-      "content": "白梅花",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "うごくものなき丘のべゆ\n\nこゑなき海もはるか見ゆ白梅花　又",
+      "characters": 29,
+      "ruby": []
     },
     {
       "pageNumber": 6,
-      "content": "　城あとのしもとのなかの\n\nひともとの老い木のうれに\n\n梅の花はつはつ咲きぬ\n\n槎たりやこのもかのもの\n\nその枝の瑠璃のさかづき\n\n甘からめ香ぐはしからめ\n\n二つ三つ\n\n目じろどり來てくちつくる\n\nひそかなりげにそのほかは",
-      "characters": 111,
-      "ruby": []
-    },
-    {
-      "pageNumber": 7,
-      "content": "うごくものなき丘のべゆ\n\nこゑなき海もはるか見ゆ",
-      "characters": 24,
-      "ruby": []
-    },
-    {
-      "pageNumber": 8,
-      "content": "白梅花　又",
-      "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
       "content": "梅老いて\n\n龍にさながら\n\nあさあけに\n\n靄たちまよふ\n\nみづのべに\n\nここに肱つき\n\n碧潭に\n\n入らんとすらん\n\nほつ枝には",
       "characters": 63,
       "ruby": []
     },
     {
-      "pageNumber": 10,
+      "pageNumber": 7,
       "content": "はや的と\n\n眞珠母か\n\nよべの霰か\n\n地の精を\n\n香《か》と凝らしたる\n\nかぞふべし\n\nこのもかのもに\n\nほのぼのと\n\nため息つける",
       "characters": 66,
       "ruby": []
     },
     {
-      "pageNumber": 11,
-      "content": "かぎろひの\n\n春のはつ花",
-      "characters": 12,
+      "pageNumber": 8,
+      "content": "かぎろひの\n\n春のはつ花月天心",
+      "characters": 15,
       "ruby": []
     },
     {
-      "pageNumber": 12,
-      "content": "月天心",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 13,
+      "pageNumber": 9,
       "content": "月よみのかげはさやかに\n\n父の身は父の身のかげ\n\n幼きは幼きのかげ\n\nふみもゆくつむじつむじに\n\n海のこゑひときは高く\n\n梅の香はほのかににほふ\n\n霜夜なりまんとの袖に\n\nいとけなきその手はとれど\n\n眉ふかく帽をかうむり",
       "characters": 110,
       "ruby": []
     },
     {
-      "pageNumber": 14,
-      "content": "なにを思へるものならん\n\n晝の間の歌は忘らへ\n\n月よみのひかりさやかに\n\n幼きは幼きのかげ\n\n父の身は父の身のかげ\n\nふみもゆくこころはろけし",
-      "characters": 71,
+      "pageNumber": 10,
+      "content": "なにを思へるものならん\n\n晝の間の歌は忘らへ\n\n月よみのひかりさやかに\n\n幼きは幼きのかげ\n\n父の身は父の身のかげ\n\nふみもゆくこころはろけし富士とほく",
+      "characters": 76,
       "ruby": []
     },
     {
-      "pageNumber": 15,
-      "content": "富士とほく",
-      "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 16,
+      "pageNumber": 11,
       "content": "をちかたに富士の嶺しろく\n\nたかわたる風はさむけれ\n\nあづさゆみ春はきむかふ\n\nかたをかの桑の畑に\n\n桑の芽はもえてあたらし\n\n巣だちする鳥のひいなの\n\n朝明けにさへづるごとく\n\nみどり葉のみどりはさやに\n\nうたひづるうたのあはれを",
       "characters": 116,
       "ruby": []
     },
     {
-      "pageNumber": 17,
-      "content": "われは聽く石たかき路\n\n萬物は生々として\n\nうなじあげ雲をよぶがに\n\n身をふるふ國のさなかを\n\nさすらへどなほつめたかる\n\nわがこころひとり古りしか",
-      "characters": 74,
+      "pageNumber": 12,
+      "content": "われは聽く石たかき路\n\n萬物は生々として\n\nうなじあげ雲をよぶがに\n\n身をふるふ國のさなかを\n\nさすらへどなほつめたかる\n\nわがこころひとり古りしか桃花李花",
+      "characters": 78,
       "ruby": []
     },
     {
-      "pageNumber": 18,
-      "content": "桃花李花",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 19,
+      "pageNumber": 13,
       "content": "老松亭々\n\n函嶺蒼々\n\n柑子山《かうじやま》こなたにつきて\n\n麥畑かなたに遠く\n\n工場の白き煙突二つ三つ\n\nそそり立つあたりの聚落\n\n天高く\n\n海はか青し\n\n沖つ波はるかのかたに",
       "characters": 89,
       "ruby": []
     },
     {
-      "pageNumber": 20,
+      "pageNumber": 14,
       "content": "かすめるは大島利島《としま》\n\n邊つ波は浦囘いつぱい\n\n弓なりに碎けて白し\n\nこれはこれおのれいくとせ\n\n住みなれし相模野のすゑ\n\n春の日の晝さがりなり\n\nおのれいま西國の旅\n\n旬日のあまりののちに\n\n四肢つかれこころたゆみて",
       "characters": 113,
       "ruby": []
     },
     {
-      "pageNumber": 21,
+      "pageNumber": 15,
       "content": "かへりこし汽車の窓べゆ\n\n見なれたる四方の景象\n\nゆるやかに轉ずるを見つ\n\n感ははた新たなりけり\n\nうたて身は\n\nはやく老いたり\n\nこころざし\n\nむなしくなりつ\n\nとておのれ過ぎしを惜しみ",
       "characters": 94,
       "ruby": []
     },
     {
-      "pageNumber": 22,
-      "content": "新らしきその味ひの\n\nにがかるをただ沈默す\n\n路のべに日照りかがやき\n\nあなあはれ\n\n桃花李花處々に紅白",
-      "characters": 52,
+      "pageNumber": 16,
+      "content": "新らしきその味ひの\n\nにがかるをただ沈默す\n\n路のべに日照りかがやき\n\nあなあはれ\n\n桃花李花處々に紅白窓のうぐひす",
+      "characters": 58,
       "ruby": []
     },
     {
-      "pageNumber": 23,
-      "content": "窓のうぐひす",
-      "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 24,
+      "pageNumber": 17,
       "content": "このやどのまどのうぐひす\n\nほのぼのとうたひそめにき\n\nあはれよとみちゆくひとも\n\nかへりみつかつはささやく\n\nかぎろひのはるのひは遲々\n\nおきのしまあをくかすみて\n\nまなかひのいはをうつなみ\n\nくれなゐのはなもかもめも\n\n依稀たりやそのかみのひの",
       "characters": 124,
       "ruby": []
     },
     {
-      "pageNumber": 25,
-      "content": "さかひなれなべてはむなし\n\nときふればこころうつろひ\n\nくさまくらうれたきよひも\n\nいまははやむかしのひとを\n\nむかしのひとをこふよしもなき",
-      "characters": 70,
+      "pageNumber": 18,
+      "content": "さかひなれなべてはむなし\n\nときふればこころうつろひ\n\nくさまくらうれたきよひも\n\nいまははやむかしのひとを\n\nむかしのひとをこふよしもなき山峽口占",
+      "characters": 74,
       "ruby": []
     },
     {
-      "pageNumber": 26,
-      "content": "山峽口占",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 27,
+      "pageNumber": 19,
       "content": "晩霞散じつくし\n\nほの黄なる燈火《ともしび》點ず\n\nかの山もとに錯落とおける藁屋根\n\nあまさかる鄙《ひな》のほそ路\n\nほとほとにきはまるなべに\n\nよりあひていく世をか經し\n\nあやしげのくさびらめける\n\nそのかずもともしふる屋根\n\nそをめぐりけぶる竹藪――",
       "characters": 127,
       "ruby": []
     },
     {
-      "pageNumber": 28,
+      "pageNumber": 20,
       "content": "風落ち\n\n蟲のこゑしじにおこりて\n\n山なべて黝みをはりぬ\n\n寂寞《じやくまく》とひと日暮れゆく\n\nあはれそのかの山もとゆ\n\nなほひとたび\n\nやがてふたたび\n\nのびらかに牛のこゑ谺《こだま》しよばふ\n\n世のほかのかかる人の世",
       "characters": 111,
       "ruby": []
     },
     {
-      "pageNumber": 29,
-      "content": "いまははや闇にとざして\n\n燈火《ともしび》のひとつ殘りぬ\n\nをりからや客舍の窓に\n\nわれひとり襟をつくろひ\n\n萬象のかくもひそかに蕭然たる\n\n情感のふかきに已に堪へざらんとす",
-      "characters": 87,
+      "pageNumber": 21,
+      "content": "いまははや闇にとざして\n\n燈火《ともしび》のひとつ殘りぬ\n\nをりからや客舍の窓に\n\nわれひとり襟をつくろひ\n\n萬象のかくもひそかに蕭然たる\n\n情感のふかきに已に堪へざらんとす豌の花",
+      "characters": 90,
       "ruby": []
     },
     {
-      "pageNumber": 30,
-      "content": "豌の花",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 31,
+      "pageNumber": 22,
       "content": "むらさきふかき豌《まめ》の花\n\nみどりはてなき海の色\n\n伊豆の丘べは冬の日も\n\nほのあたたかきやすらひに\n\n音をふふみねに鳩も鳴け\n\nそのかれ枝の晝の月\n\n落葉まじりにうつしみの\n\nうつつなる身をこごめつつ\n\nとだえしこゑをまつとなく",
       "characters": 117,
       "ruby": []
     },
     {
-      "pageNumber": 32,
-      "content": "耳かたむけついまははた\n\nほのかにかよふものの香に\n\nふるきうれひもめざめなむ\n\nむらさきふかき豌の花\n\nみどりはてなき海の色",
-      "characters": 63,
+      "pageNumber": 23,
+      "content": "耳かたむけついまははた\n\nほのかにかよふものの香に\n\nふるきうれひもめざめなむ\n\nむらさきふかき豌の花\n\nみどりはてなき海の色師よ　萩原朔太郎",
+      "characters": 71,
       "ruby": []
     },
     {
-      "pageNumber": 33,
-      "content": "師よ　萩原朔太郎",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 34,
+      "pageNumber": 24,
       "content": "幽愁の鬱塊\n懷疑と厭世との　思索と彷徨との\nあなたのあの懷かしい人格は\nなま温かい熔岩《ラヴア》のやうな\n不思議な音樂そのままの不朽の凝晶體――\nあああの灰色の誰人の手にも捉へるすべのない影\nああげに　あなたはその影のやうに飄々として\nいつもうらぶれた淋しい裏町の小路をゆかれる\nあなたはいつもあなたのその人格の解きほごしのやうなまどはし深い音樂に聽き耽りながら\nああその幻聽のやうな一つの音樂を心に拍子とりながら\nあなたはまた時として孤獨者の突拍子もない思ひつきと諧謔にみち溢れて\n――醉つ拂つて\n灯ともし頃の遽だしい自轉車の行きすがふ間をゆかれる\nああそのあなたの心理風景を想像してみる者もない\n都會の雜沓の中にまぎれて\n（文學者どもの中にまぎれてさ）\nあなたはまるで脱獄囚のやうに　或はまた彼を追跡する密偵のやうに\n恐怖し　戰慄し　緊張し　推理し　幻想し　錯覺し",
       "characters": 384,
       "ruby": []
     },
     {
-      "pageNumber": 35,
+      "pageNumber": 25,
       "content": "飄々として影のやうに裏町をゆかれる\nいはばあなたは一人の無頼漢　宿なし\n旅行嫌ひの漂泊者\n夢遊病者《ソムナンビユール》\n\n零《ゼロ》の零《ゼロ》\n\nそしてあなたはこの聖代に實に地上に存在した無二の詩人\nかけがへのない　二人目のない唯一最上の詩人でした\nあなたばかりが人生を　ただそのままにまつ直ぐに混ぜものなしに歌ひ上げる\n作文屋どもの掛け値のない　そのままの値段で歌ひ上げる\n不思議な言葉を　不思議な技術を　不思議な智慧をもつてゐた\nあなたは詩語のコンパスで　あなたの航海地圖の上に\n精密な　貴重な　生彩ある人生の最近似値を　我らのアメリカ大陸を發見した\nあなたこそまさしく詩界のコロンブス\nあなたの前で喰せ物の口の達者な木偶《でく》どもが\nお弟子を集めて横行する（これが世間といふものだ\n文人墨客　蚤の市　出性の知れた奴はない）",
       "characters": 366,
       "ruby": []
     },
     {
-      "pageNumber": 36,
-      "content": "黒いリボンに飾られた　先夜はあなたの寫眞の前で\nしばらく涙が流れたが\n思ふにあなたの人生は　夜天をつたふ星のやうに\n單純に　率直に\n高く　遙かに\n燦爛として\nわれらの頭上を飛び過ぎた\n師よ\n誰があなたの孤獨を嘆くか",
-      "characters": 107,
+      "pageNumber": 26,
+      "content": "黒いリボンに飾られた　先夜はあなたの寫眞の前で\nしばらく涙が流れたが\n思ふにあなたの人生は　夜天をつたふ星のやうに\n單純に　率直に\n高く　遙かに\n燦爛として\nわれらの頭上を飛び過ぎた\n師よ\n誰があなたの孤獨を嘆くか途上即事",
+      "characters": 111,
       "ruby": []
     },
     {
-      "pageNumber": 37,
-      "content": "途上即事",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 38,
+      "pageNumber": 27,
       "content": "海あをく\n\n松はみどりに\n\n冬の日の並木路\n\nもののかげさやけき中を\n\nランドセル肩にをどらせ\n\nいとけなきうしろすがたや\n\n手をとりつはたよろめきつ\n\n三人の子ら走りゆく……\n\nはるかなる車の窓ゆ",
       "characters": 99,
       "ruby": []
     },
     {
-      "pageNumber": 39,
-      "content": "われは見つ　しばしは思ふ\n\nわが生のすでに遠き日\n\nこの日またかくはひそかに\n\nかろらかにうつりゆく時\n\n惜しむべきなにはなきかな\n\nいざちかし\n\nいまはよし\n\nわが旅のとまりのはたて……",
-      "characters": 94,
+      "pageNumber": 28,
+      "content": "われは見つ　しばしは思ふ\n\nわが生のすでに遠き日\n\nこの日またかくはひそかに\n\nかろらかにうつりゆく時\n\n惜しむべきなにはなきかな\n\nいざちかし\n\nいまはよし\n\nわが旅のとまりのはたて……鐘鳴りぬ聽け鐘鳴りぬ",
+      "characters": 104,
       "ruby": []
     },
     {
-      "pageNumber": 40,
-      "content": "鐘鳴りぬ",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 41,
-      "content": "聽け",
-      "characters": 2,
-      "ruby": []
-    },
-    {
-      "pageNumber": 42,
-      "content": "鐘鳴りぬ",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 43,
+      "pageNumber": 29,
       "content": "聽け\n\nつねならぬ鐘鳴りいでぬ\n\nかの鐘鳴りぬ\n\nいざわれはゆかん\n\nおもひまうけぬ日の空に\n\nひびきわたらふ鐘の音を\n\n鳴か五曉かしらず\n\nわれはゆかん　さあれゆめ\n\nゆるがせに聽くべからねば",
       "characters": 97,
       "ruby": []
     },
     {
-      "pageNumber": 44,
+      "pageNumber": 30,
       "content": "われはゆかん\n\n牧人の鞭にしたがふ仔羊の\n\n足どりはやく小走りに\n\n路もなきおどろの野ずゑ\n\n露じもしげきしののめを\n\nわれはゆかん\n\nゆきてふたたび歸りこざらん\n\nいざさらばうかららつねの\n\n日のごとくわれをなまちそ",
       "characters": 109,
       "ruby": []
     },
     {
-      "pageNumber": 45,
+      "pageNumber": 31,
       "content": "つねならぬ鐘の音聲《おんじやう》\n\nもろともに聽きけんをいざ\n\nあかぬ日のつひの別れぞ　わがふるき日のうた――",
       "characters": 55,
       "ruby": []

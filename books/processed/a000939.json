@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "堕落時代の概観"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "各方面の徴候",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -90,16 +89,15 @@
             "id": "chapter-2-section-11",
             "number": "近代文化と民族的自滅",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 16
           }
-        ],
-        "summary": "各方面に見る徴候"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "上流社会",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 22,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -129,23 +127,21 @@
             "id": "chapter-3-section-5",
             "number": "美しい顔、拙い技巧",
             "startPage": 21,
-            "endPage": 0
+            "endPage": 22
           }
-        ],
-        "summary": "上流社会の堕落"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "職業婦人",
         "startPage": 23,
-        "endPage": 0,
-        "summary": "職業婦人の実態"
+        "endPage": 27
       },
       {
         "id": "chapter-5",
         "title": "下層社会",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 91,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -201,14 +197,13 @@
             "startPage": 1,
             "endPage": 1
           }
-        ],
-        "summary": "下層社会の暗部"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "不良少年少女",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 106,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -298,10 +293,9 @@
             "id": "chapter-6-section-15",
             "number": "明治思想と大正思想",
             "startPage": 105,
-            "endPage": 0
+            "endPage": 106
           }
-        ],
-        "summary": "不良少年少女の群像"
+        ]
       },
       {
         "id": "chapter-7",
@@ -339,8 +333,7 @@
             "startPage": 237,
             "endPage": 239
           }
-        ],
-        "summary": "堕落時代の結論"
+        ]
       }
     ],
     "totalPages": 239,

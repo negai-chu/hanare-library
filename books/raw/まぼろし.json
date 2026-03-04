@@ -36,7 +36,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 396,
-    "chapterTitles": []
+    "chapterTitles": [
+      "まぼろし"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "絶望",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "かれ",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

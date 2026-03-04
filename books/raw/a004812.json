@@ -48,7 +48,9 @@
     ],
     "totalPages": 82,
     "averageCharsPerPage": 595,
-    "chapterTitles": []
+    "chapterTitles": [
+      "美しい村"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "序曲",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -117,8 +118,7 @@
       "pageNumber": 11,
       "content": "美しい村",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -376,8 +376,7 @@
       "pageNumber": 54,
       "content": "夏",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -503,8 +502,7 @@
       "pageNumber": 75,
       "content": "暗い道",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,

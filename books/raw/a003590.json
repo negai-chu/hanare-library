@@ -72,7 +72,9 @@
     ],
     "totalPages": 270,
     "averageCharsPerPage": 528,
-    "chapterTitles": []
+    "chapterTitles": [
+      "科学論"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 5,
       "content": "再版序",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 7,
       "content": "一　科学の予備概念",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -395,8 +394,7 @@
       "pageNumber": 53,
       "content": "二　科学と実在",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -672,8 +670,7 @@
       "pageNumber": 99,
       "content": "三　科学の方法（その一）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -883,8 +880,7 @@
       "pageNumber": 134,
       "content": "四　科学の方法（その二）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 135,
@@ -1154,8 +1150,7 @@
       "pageNumber": 179,
       "content": "五　科学と社会",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 180,
@@ -1389,8 +1384,7 @@
       "pageNumber": 218,
       "content": "六　科学的世界",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 219,

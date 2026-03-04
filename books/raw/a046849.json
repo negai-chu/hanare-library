@@ -36,7 +36,9 @@
     ],
     "totalPages": 38,
     "averageCharsPerPage": 484,
-    "chapterTitles": []
+    "chapterTitles": [
+      "かへらじと"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 5,
       "content": "第一幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -177,8 +178,7 @@
       "pageNumber": 23,
       "content": "第二幕",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

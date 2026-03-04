@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ある探偵事件",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "猫の失踪事件の顛末"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 469,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ある探偵事件"
+    ]
   },
   "content": [
     {

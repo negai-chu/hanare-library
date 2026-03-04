@@ -36,7 +36,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 416,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地方文化の新建設"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 3,
       "content": "地方文化新建設の根本理念",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "地方文化新建設に関する当面の方策",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

@@ -84,7 +84,9 @@
     ],
     "totalPages": 252,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私本太平記"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "瘧《ぎゃく》",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -231,8 +232,7 @@
       "pageNumber": 24,
       "content": "河内鞠唄《かわちまりうた》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -358,8 +358,7 @@
       "pageNumber": 45,
       "content": "よそ者《もの》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -515,8 +514,7 @@
       "pageNumber": 71,
       "content": "昼の月",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -732,8 +730,7 @@
       "pageNumber": 107,
       "content": "ひびき灘《なだ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -853,8 +850,7 @@
       "pageNumber": 127,
       "content": "菊池党《きくちとう》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -998,8 +994,7 @@
       "pageNumber": 151,
       "content": "多々羅合戦《たたらかっせん》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1197,8 +1192,7 @@
       "pageNumber": 184,
       "content": "船《ふな》あつめ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 185,
@@ -1342,8 +1336,7 @@
       "pageNumber": 208,
       "content": "山海相聞《さんかいそうもん》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 209,
@@ -1499,8 +1492,7 @@
       "pageNumber": 234,
       "content": "雨期",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 235,

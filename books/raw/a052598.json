@@ -42,7 +42,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 390,
-    "chapterTitles": []
+    "chapterTitles": [
+      "町の真理"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "せみ",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "博物館《はくぶつかん》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -106,8 +106,7 @@
       "pageNumber": 10,
       "content": "貧乏人《びんぼうにん》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

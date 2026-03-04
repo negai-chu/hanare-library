@@ -17,28 +17,25 @@
         "id": "chapter-1",
         "title": "珍らしいものをかくしてゐる人への序文",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "秘蔵の人への序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "自序",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "詩集の自序"
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "出版に際して",
         "startPage": 7,
-        "endPage": 0,
-        "summary": "出版への言葉"
+        "endPage": 8
       },
       {
         "id": "chapter-4",
         "title": "愛憐詩篇",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -146,16 +143,15 @@
             "id": "chapter-4-section-18",
             "number": "月光と海月",
             "startPage": 33,
-            "endPage": 0
+            "endPage": 34
           }
-        ],
-        "summary": "愛と哀れの詩篇"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "郷土望景詩",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 48,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -215,16 +211,15 @@
             "id": "chapter-5-section-10",
             "number": "公園の椅子",
             "startPage": 47,
-            "endPage": 0
+            "endPage": 48
           }
-        ],
-        "summary": "郷土の風景詩"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "郷土望景詩の後に",
         "startPage": 49,
-        "endPage": 0,
+        "endPage": 51,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -260,17 +255,15 @@
             "id": "chapter-6-section-6",
             "number": "前橋中學",
             "startPage": 51,
-            "endPage": 0
+            "endPage": 51
           }
-        ],
-        "summary": "望景詩の後記"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "跋",
         "startPage": 52,
-        "endPage": 55,
-        "summary": "詩集の跋文"
+        "endPage": 55
       }
     ],
     "totalPages": 55,

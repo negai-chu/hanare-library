@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "図書館幻想",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "巨大な図書館の幻想"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 180,
-    "chapterTitles": []
+    "chapterTitles": [
+      "図書館幻想"
+    ]
   },
   "content": [
     {

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "日記",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-1-section-7",
             "number": "〔手帳の終わりに〕",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 21
           }
         ]
       },
@@ -67,7 +67,7 @@
         "id": "chapter-2",
         "title": "〔原稿用紙に〕",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -97,7 +97,7 @@
             "id": "chapter-2-section-5",
             "number": "七月初旬",
             "startPage": 25,
-            "endPage": 0
+            "endPage": 26
           }
         ]
       },
@@ -111,7 +111,7 @@
     "totalPages": 38,
     "averageCharsPerPage": 271,
     "chapterTitles": [
-      "",
+      "日記",
       "〔原稿用紙に〕",
       "〔卓上日記に〕"
     ]

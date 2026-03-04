@@ -42,7 +42,9 @@
     ],
     "totalPages": 68,
     "averageCharsPerPage": 541,
-    "chapterTitles": []
+    "chapterTitles": [
+      "奥秩父の山旅日記"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 12,
       "content": "夏の秩父奥山",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -291,8 +292,7 @@
       "pageNumber": 41,
       "content": "三ノ瀬より栃本へ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -346,8 +346,7 @@
       "pageNumber": 50,
       "content": "霜柱と柿",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,

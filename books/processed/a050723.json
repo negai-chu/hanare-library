@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "土地の便り",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 99,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-1-section-6",
             "number": "オノリイヌ",
             "startPage": 85,
-            "endPage": 0
+            "endPage": 99
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-2",
         "title": "エロアの控え帳",
         "startPage": 100,
-        "endPage": 0,
+        "endPage": 145,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -121,7 +121,7 @@
             "id": "chapter-2-section-10",
             "number": "文学者",
             "startPage": 139,
-            "endPage": 0
+            "endPage": 145
           }
         ]
       },

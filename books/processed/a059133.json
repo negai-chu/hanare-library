@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 3,
-        "endPage": 0,
+        "endPage": 7,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "序",
             "startPage": 5,
-            "endPage": 0
+            "endPage": 7
           }
         ]
       },
@@ -37,13 +37,13 @@
         "id": "chapter-2",
         "title": "木曾御岳の兩面",
         "startPage": 8,
-        "endPage": 0,
+        "endPage": 36,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "木曾御岳の兩面",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 36
           }
         ]
       },
@@ -51,13 +51,13 @@
         "id": "chapter-3",
         "title": "アルプス連峯の輝き",
         "startPage": 37,
-        "endPage": 0,
+        "endPage": 47,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "アルプス連峯の輝き",
             "startPage": 38,
-            "endPage": 0
+            "endPage": 47
           }
         ]
       },
@@ -65,13 +65,13 @@
         "id": "chapter-4",
         "title": "山岳美論",
         "startPage": 48,
-        "endPage": 0,
+        "endPage": 57,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "山岳美論",
             "startPage": 49,
-            "endPage": 0
+            "endPage": 57
           }
         ]
       },
@@ -79,13 +79,13 @@
         "id": "chapter-5",
         "title": "山頂の雲",
         "startPage": 58,
-        "endPage": 0,
+        "endPage": 61,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "山頂の雲",
             "startPage": 59,
-            "endPage": 0
+            "endPage": 61
           }
         ]
       },
@@ -93,13 +93,13 @@
         "id": "chapter-6",
         "title": "山影",
         "startPage": 62,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "山影",
             "startPage": 63,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },
@@ -107,13 +107,13 @@
         "id": "chapter-7",
         "title": "嶽色",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 80,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "嶽色",
             "startPage": 71,
-            "endPage": 0
+            "endPage": 80
           }
         ]
       },
@@ -121,13 +121,13 @@
         "id": "chapter-8",
         "title": "最近の登山文藝",
         "startPage": 81,
-        "endPage": 0,
+        "endPage": 91,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "最近の登山文藝",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 91
           }
         ]
       },

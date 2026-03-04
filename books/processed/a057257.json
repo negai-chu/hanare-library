@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "一、櫻島の地理",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "二、噴火の沿革",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-3",
         "title": "三、噴火の前兆",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-3-section-4",
             "number": "（四）、水産物の斃死",
             "startPage": 12,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -61,13 +61,13 @@
         "id": "chapter-4",
         "title": "四、破裂當時の概況",
         "startPage": 13,
-        "endPage": 0
+        "endPage": 15
       },
       {
         "id": "chapter-5",
         "title": "五、實査當時の概況",
         "startPage": 16,
-        "endPage": 0,
+        "endPage": 24,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-5-section-3",
             "number": "火山噴出物",
             "startPage": 21,
-            "endPage": 0
+            "endPage": 24
           }
         ]
       },

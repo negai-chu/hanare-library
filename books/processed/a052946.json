@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "野鳥雑記",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -149,7 +149,7 @@
             "id": "chapter-1-section-22",
             "number": "二二",
             "startPage": 27,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -157,7 +157,7 @@
         "id": "chapter-2",
         "title": "鳥の名と昔話",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 47,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -177,13 +177,13 @@
         "id": "chapter-3",
         "title": "梟の啼声",
         "startPage": 48,
-        "endPage": 0
+        "endPage": 55
       },
       {
         "id": "chapter-4",
         "title": "九州の鳥",
         "startPage": 56,
-        "endPage": 0,
+        "endPage": 75,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -225,7 +225,7 @@
             "id": "chapter-4-section-7",
             "number": "七",
             "startPage": 71,
-            "endPage": 0
+            "endPage": 75
           }
         ]
       },
@@ -233,7 +233,7 @@
         "id": "chapter-5",
         "title": "翡翠の歎き",
         "startPage": 76,
-        "endPage": 0,
+        "endPage": 85,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -281,7 +281,7 @@
             "id": "chapter-5-section-8",
             "number": "八",
             "startPage": 84,
-            "endPage": 0
+            "endPage": 85
           }
         ]
       },
@@ -289,13 +289,13 @@
         "id": "chapter-6",
         "title": "絵になる鳥",
         "startPage": 86,
-        "endPage": 0
+        "endPage": 92
       },
       {
         "id": "chapter-7",
         "title": "烏勧請の事",
         "startPage": 93,
-        "endPage": 0,
+        "endPage": 106,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -319,7 +319,7 @@
             "id": "chapter-7-section-4",
             "number": "四",
             "startPage": 103,
-            "endPage": 0
+            "endPage": 106
           }
         ]
       },
@@ -327,37 +327,37 @@
         "id": "chapter-8",
         "title": "初烏のことなど",
         "startPage": 107,
-        "endPage": 0
+        "endPage": 114
       },
       {
         "id": "chapter-9",
         "title": "鳶の別れ",
         "startPage": 115,
-        "endPage": 0
+        "endPage": 119
       },
       {
         "id": "chapter-10",
         "title": "村の鳥",
         "startPage": 120,
-        "endPage": 0
+        "endPage": 129
       },
       {
         "id": "chapter-11",
         "title": "六月の鳥",
         "startPage": 130,
-        "endPage": 0
+        "endPage": 135
       },
       {
         "id": "chapter-12",
         "title": "須走から",
         "startPage": 136,
-        "endPage": 0
+        "endPage": 140
       },
       {
         "id": "chapter-13",
         "title": "雀をクラということ",
         "startPage": 141,
-        "endPage": 0,
+        "endPage": 164,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -393,7 +393,7 @@
             "id": "chapter-13-section-6",
             "number": "六",
             "startPage": 162,
-            "endPage": 0
+            "endPage": 164
           }
         ]
       },

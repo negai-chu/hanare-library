@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "三角と四角",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "三角と四角の物語"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "三角と四角"
+    ]
   },
   "content": [
     {

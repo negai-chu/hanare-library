@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "コロボックル風俗考（第一回）",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "●身体裝飾",
             "startPage": 7,
-            "endPage": 0
+            "endPage": 10
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-2",
         "title": "○コロボツクル風俗考第二回（畫參看）",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 18,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -51,7 +51,7 @@
         "id": "chapter-3",
         "title": "○コロボツクル風俗考　第三回（畫參看）",
         "startPage": 19,
-        "endPage": 0,
+        "endPage": 27,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -69,7 +69,7 @@
             "id": "chapter-3-section-3",
             "number": "●遮光器",
             "startPage": 25,
-            "endPage": 0
+            "endPage": 27
           }
         ]
       },
@@ -77,7 +77,7 @@
         "id": "chapter-4",
         "title": "○コロボツクル風俗考　第四回",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 41,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -109,7 +109,7 @@
         "id": "chapter-5",
         "title": "○コロボックル風俗考　第五回（挿圖參看）",
         "startPage": 42,
-        "endPage": 0,
+        "endPage": 52,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -139,7 +139,7 @@
             "id": "chapter-5-section-5",
             "number": "●室内の有樣",
             "startPage": 52,
-            "endPage": 0
+            "endPage": 52
           }
         ]
       },
@@ -147,7 +147,7 @@
         "id": "chapter-6",
         "title": "○コロボックル風俗考　第六回（挿圖參看）",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 68,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -171,7 +171,7 @@
             "id": "chapter-6-section-4",
             "number": "●磨製類",
             "startPage": 66,
-            "endPage": 0
+            "endPage": 68
           }
         ]
       },
@@ -179,7 +179,7 @@
         "id": "chapter-7",
         "title": "●コロボックル風俗考　第七回（挿圖參看）",
         "startPage": 69,
-        "endPage": 0,
+        "endPage": 81,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -233,7 +233,7 @@
             "id": "chapter-7-section-9",
             "number": "●容器",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 81
           }
         ]
       },
@@ -241,7 +241,7 @@
         "id": "chapter-8",
         "title": "●コロボックル風俗考　第八回（圖參看）",
         "startPage": 82,
-        "endPage": 0,
+        "endPage": 92,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -283,7 +283,7 @@
             "id": "chapter-8-section-7",
             "number": "●漁業",
             "startPage": 90,
-            "endPage": 0
+            "endPage": 92
           }
         ]
       },
@@ -291,7 +291,7 @@
         "id": "chapter-9",
         "title": "●コロボックル風俗考　第九回（挿圖參看）",
         "startPage": 93,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -327,7 +327,7 @@
             "id": "chapter-9-section-6",
             "number": "○貿易",
             "startPage": 100,
-            "endPage": 0
+            "endPage": 100
           }
         ]
       },

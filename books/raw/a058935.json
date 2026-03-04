@@ -42,7 +42,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 374,
-    "chapterTitles": []
+    "chapterTitles": [
+      "柔道と拳闘の転がり試合"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "いどむ仁王《におう》！",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "どうして戦うか",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -100,8 +100,7 @@
       "pageNumber": 9,
       "content": "意外！　ごろりと横に……",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

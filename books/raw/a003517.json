@@ -60,7 +60,9 @@
     ],
     "totalPages": 42,
     "averageCharsPerPage": 371,
-    "chapterTitles": []
+    "chapterTitles": [
+      "空襲下の日本"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "戦慄の日は近づく",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 11,
       "content": "米露中からの空襲計画",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -160,8 +160,7 @@
       "pageNumber": 16,
       "content": "わが空軍の配置は",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -191,8 +190,7 @@
       "pageNumber": 21,
       "content": "帝都突如として空襲さる",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -246,8 +244,7 @@
       "pageNumber": 30,
       "content": "毒瓦斯と闘う市民の群",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -307,8 +304,7 @@
       "pageNumber": 40,
       "content": "最後の勝利者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,

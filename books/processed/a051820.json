@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "前書　手仕事の国",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 9
       },
       {
         "id": "chapter-3",
         "title": "第一章　品物の背景",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-3-section-3",
             "number": "固有の伝統",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 21
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-4",
         "title": "第二章　日本の品物",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 227,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -115,7 +115,7 @@
             "id": "chapter-4-section-10",
             "number": "沖縄",
             "startPage": 29,
-            "endPage": 0
+            "endPage": 227
           }
         ]
       },
@@ -123,7 +123,7 @@
         "id": "chapter-5",
         "title": "第三章　品物の性質",
         "startPage": 228,
-        "endPage": 0,
+        "endPage": 244,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -147,7 +147,7 @@
             "id": "chapter-5-section-4",
             "number": "健康の美",
             "startPage": 239,
-            "endPage": 0
+            "endPage": 244
           }
         ]
       },

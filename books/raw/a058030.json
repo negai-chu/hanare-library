@@ -42,7 +42,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 393,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小指一本の大試合"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "すごい「ブル」",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 7,
       "content": "うっかりいった冗談《じょうだん》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -112,8 +112,7 @@
       "pageNumber": 11,
       "content": "どうもしかたがない",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

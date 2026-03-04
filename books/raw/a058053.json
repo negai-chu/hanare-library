@@ -78,7 +78,9 @@
     ],
     "totalPages": 185,
     "averageCharsPerPage": 560,
-    "chapterTitles": []
+    "chapterTitles": [
+      "一寸法師"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "作者の言葉",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 4,
       "content": "死人の腕",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -226,8 +226,7 @@
       "pageNumber": 24,
       "content": "令嬢消失",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -383,8 +382,7 @@
       "pageNumber": 50,
       "content": "お梅《うめ》人形",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -504,8 +502,7 @@
       "pageNumber": 70,
       "content": "密会",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -643,8 +640,7 @@
       "pageNumber": 93,
       "content": "疑惑",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,
@@ -818,8 +814,7 @@
       "pageNumber": 122,
       "content": "畸形魔",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -987,8 +982,7 @@
       "pageNumber": 150,
       "content": "誤解",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1072,8 +1066,7 @@
       "pageNumber": 164,
       "content": "罪業転嫁《ざいごうてんか》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 165,

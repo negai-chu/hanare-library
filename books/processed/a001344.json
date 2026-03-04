@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "将棋",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "盤上の創造と愉悦"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 479,
-    "chapterTitles": []
+    "chapterTitles": [
+      "将棋"
+    ]
   },
   "content": [
     {

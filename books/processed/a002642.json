@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ロシアの旅より",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "ヴォルガ河下りの旅"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 300,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ロシアの旅より"
+    ]
   },
   "content": [
     {

@@ -66,7 +66,9 @@
     ],
     "totalPages": 44,
     "averageCharsPerPage": 462,
-    "chapterTitles": []
+    "chapterTitles": [
+      "現代語訳　平家物語"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "重衡被斬《しげひらのきられ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 9,
       "content": "大地震",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -136,8 +136,7 @@
       "pageNumber": 11,
       "content": "平大納言被流《へいだいなごんのながされ》",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -161,8 +160,7 @@
       "pageNumber": 15,
       "content": "土佐房被斬《とさぼうのきられ》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -198,8 +196,7 @@
       "pageNumber": 21,
       "content": "判官都落",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -229,8 +226,7 @@
       "pageNumber": 26,
       "content": "六代",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -320,8 +316,7 @@
       "pageNumber": 41,
       "content": "六代被斬《ろくだいのきられ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,

@@ -60,7 +60,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 403,
-    "chapterTitles": []
+    "chapterTitles": [
+      "自由と進歩"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一　自由論争",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "二　国家の建設と自由の制限",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 9,
       "content": "三　二種類の自由",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -143,8 +142,7 @@
       "pageNumber": 13,
       "content": "四　米ソいずれに学ぶべきか",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -168,8 +166,7 @@
       "pageNumber": 17,
       "content": "五　マイナスのリバティ",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -193,8 +190,7 @@
       "pageNumber": 21,
       "content": "六　自由と進歩は共存し得る",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

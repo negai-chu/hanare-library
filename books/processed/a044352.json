@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "芸術賞",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "芸術賞の意義と問題点"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 192,
-    "chapterTitles": []
+    "chapterTitles": [
+      "芸術賞"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "伊賀国",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "山深い伊賀国の紀行"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "伊賀国"
+    ]
   },
   "content": [
     {

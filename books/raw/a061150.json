@@ -36,7 +36,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 407,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ふたりのおばさん"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　カニと機械",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 7,
       "content": "二　本と板きれ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

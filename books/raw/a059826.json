@@ -114,7 +114,9 @@
     ],
     "totalPages": 31,
     "averageCharsPerPage": 64,
-    "chapterTitles": []
+    "chapterTitles": [
+      "画集"
+    ]
   },
   "content": [
     {
@@ -128,8 +130,7 @@
       "pageNumber": 2,
       "content": "落日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -141,8 +142,7 @@
       "pageNumber": 4,
       "content": "故園",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -154,8 +154,7 @@
       "pageNumber": 6,
       "content": "記憶",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -167,8 +166,7 @@
       "pageNumber": 8,
       "content": "植物園",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -180,8 +178,7 @@
       "pageNumber": 10,
       "content": "黒すみれ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -193,8 +190,7 @@
       "pageNumber": 12,
       "content": "真昼",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -206,8 +202,7 @@
       "pageNumber": 14,
       "content": "露",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -219,8 +214,7 @@
       "pageNumber": 16,
       "content": "部屋",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -232,8 +226,7 @@
       "pageNumber": 18,
       "content": "一つの星に",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -245,8 +238,7 @@
       "pageNumber": 20,
       "content": "はつ夏",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -258,8 +250,7 @@
       "pageNumber": 22,
       "content": "気鬱",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -271,8 +262,7 @@
       "pageNumber": 24,
       "content": "祈り",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -284,8 +274,7 @@
       "pageNumber": 26,
       "content": "夜",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -297,8 +286,7 @@
       "pageNumber": 28,
       "content": "死について",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -310,8 +298,7 @@
       "pageNumber": 30,
       "content": "冬",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

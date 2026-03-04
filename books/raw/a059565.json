@@ -54,7 +54,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 301,
-    "chapterTitles": []
+    "chapterTitles": [
+      "水中の怪人"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "人間か河童か？　海底を歩く怪物",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "濡れた大きな足跡、啓吉は果して何処へ",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -148,8 +148,7 @@
       "pageNumber": 15,
       "content": "果して来たきた！　赤封筒の脅迫状",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -185,8 +184,7 @@
       "pageNumber": 21,
       "content": "闇の海上の冒険、空缶は投げられた",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -222,8 +220,7 @@
       "pageNumber": 27,
       "content": "あっ河童だ！　意外な解決",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "緒言",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-3",
         "title": "第一、南球往航日記（ホンコン、カントン、マニラ紀行）",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 25,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -77,7 +77,7 @@
             "id": "chapter-3-section-8",
             "number": "八、赤道以南の所見",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 25
           }
         ]
       },
@@ -85,7 +85,7 @@
         "id": "chapter-4",
         "title": "第二、豪州紀行",
         "startPage": 26,
-        "endPage": 0,
+        "endPage": 48,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -145,7 +145,7 @@
             "id": "chapter-4-section-10",
             "number": "一八、豪州の所感",
             "startPage": 46,
-            "endPage": 0
+            "endPage": 48
           }
         ]
       },
@@ -153,7 +153,7 @@
         "id": "chapter-5",
         "title": "第三、南インド洋船中日記",
         "startPage": 49,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -213,7 +213,7 @@
             "id": "chapter-5-section-10",
             "number": "二八、ケープタウンの実況",
             "startPage": 68,
-            "endPage": 0
+            "endPage": 71
           }
         ]
       },
@@ -221,7 +221,7 @@
         "id": "chapter-6",
         "title": "第四、英国行日記",
         "startPage": 72,
-        "endPage": 0,
+        "endPage": 85,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -263,7 +263,7 @@
             "id": "chapter-6-section-7",
             "number": "三五、ロンドンの近況",
             "startPage": 83,
-            "endPage": 0
+            "endPage": 85
           }
         ]
       },
@@ -271,7 +271,7 @@
         "id": "chapter-7",
         "title": "第五、北極海観光日記",
         "startPage": 86,
-        "endPage": 0,
+        "endPage": 103,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -319,7 +319,7 @@
             "id": "chapter-7-section-8",
             "number": "四三、寒帯を出でて温帯に入る",
             "startPage": 101,
-            "endPage": 0
+            "endPage": 103
           }
         ]
       },
@@ -327,7 +327,7 @@
         "id": "chapter-8",
         "title": "第六、欧州大陸紀行",
         "startPage": 104,
-        "endPage": 0,
+        "endPage": 121,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -375,7 +375,7 @@
             "id": "chapter-8-section-8",
             "number": "五一、南米行準備",
             "startPage": 117,
-            "endPage": 0
+            "endPage": 121
           }
         ]
       },
@@ -383,7 +383,7 @@
         "id": "chapter-9",
         "title": "第七、南米行大西洋横断日記",
         "startPage": 122,
-        "endPage": 0,
+        "endPage": 136,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -425,7 +425,7 @@
             "id": "chapter-9-section-7",
             "number": "五八、南米に接近す",
             "startPage": 134,
-            "endPage": 0
+            "endPage": 136
           }
         ]
       },
@@ -433,7 +433,7 @@
         "id": "chapter-10",
         "title": "第八、南米東部紀行",
         "startPage": 137,
-        "endPage": 0,
+        "endPage": 169,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -523,7 +523,7 @@
             "id": "chapter-10-section-15",
             "number": "七三、チリ南部の航路",
             "startPage": 167,
-            "endPage": 0
+            "endPage": 169
           }
         ]
       },
@@ -531,7 +531,7 @@
         "id": "chapter-11",
         "title": "第九、南米西部およびメキシコ紀行",
         "startPage": 170,
-        "endPage": 0,
+        "endPage": 201,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -597,7 +597,7 @@
             "id": "chapter-11-section-11",
             "number": "八四、メキシコの実況および風俗",
             "startPage": 197,
-            "endPage": 0
+            "endPage": 201
           }
         ]
       },
@@ -605,7 +605,7 @@
         "id": "chapter-12",
         "title": "第一〇、太平洋帰航日記（付世界周遊再見）",
         "startPage": 202,
-        "endPage": 0,
+        "endPage": 248,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -671,7 +671,7 @@
             "id": "chapter-12-section-11",
             "number": "九五、第二回世界周遊吟",
             "startPage": 228,
-            "endPage": 0
+            "endPage": 248
           }
         ]
       },

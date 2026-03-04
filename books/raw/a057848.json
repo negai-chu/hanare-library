@@ -54,7 +54,9 @@
     ],
     "totalPages": 27,
     "averageCharsPerPage": 416,
-    "chapterTitles": []
+    "chapterTitles": [
+      "袈裟の良人"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 3,
       "content": "第一齣",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -123,8 +124,7 @@
       "pageNumber": 11,
       "content": "第二齣",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -142,8 +142,7 @@
       "pageNumber": 14,
       "content": "第三齣",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -167,8 +166,7 @@
       "pageNumber": 18,
       "content": "第四齣",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -198,8 +196,7 @@
       "pageNumber": 23,
       "content": "第五齣",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

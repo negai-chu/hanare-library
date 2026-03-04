@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "詩集への自序"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "「こもり唄」より（明治四十一年）",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 37,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -192,16 +191,15 @@
             "id": "chapter-2-section-28",
             "number": "雁と燕",
             "startPage": 36,
-            "endPage": 0
+            "endPage": 37
           }
-        ],
-        "summary": "子守唄の温もり"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "「暮笛集」より（明治三十二年）",
         "startPage": 38,
-        "endPage": 0,
+        "endPage": 114,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -321,16 +319,15 @@
             "id": "chapter-3-section-20",
             "number": "揖保川にて",
             "startPage": 111,
-            "endPage": 0
+            "endPage": 114
           }
-        ],
-        "summary": "暮笛の響き"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "「ゆく春」より（明治三十四年）",
         "startPage": 115,
-        "endPage": 0,
+        "endPage": 173,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -396,16 +393,15 @@
             "id": "chapter-4-section-11",
             "number": "石彫獅子の賦",
             "startPage": 162,
-            "endPage": 0
+            "endPage": 173
           }
-        ],
-        "summary": "行く春の惜別"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "「二十五絃」より（明治三十八年）",
         "startPage": 174,
-        "endPage": 0,
+        "endPage": 239,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -477,16 +473,15 @@
             "id": "chapter-5-section-12",
             "number": "紅梅",
             "startPage": 239,
-            "endPage": 0
+            "endPage": 239
           }
-        ],
-        "summary": "二十五絃の調べ"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "「白羊宮」より（明治三十九年）",
         "startPage": 240,
-        "endPage": 0,
+        "endPage": 307,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -678,10 +673,9 @@
             "id": "chapter-6-section-32",
             "number": "聖心",
             "startPage": 307,
-            "endPage": 0
+            "endPage": 307
           }
-        ],
-        "summary": "白羊宮の幻想"
+        ]
       },
       {
         "id": "chapter-7",
@@ -749,8 +743,7 @@
             "startPage": 347,
             "endPage": 350
           }
-        ],
-        "summary": "十字街頭の詩群"
+        ]
       }
     ],
     "totalPages": 350,

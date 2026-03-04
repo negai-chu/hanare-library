@@ -48,7 +48,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 441,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秩父宮殿下に侍して槍ヶ岳へ"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "中房温泉",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 9,
       "content": "燕岳から大天井岳まで",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "槍ヶ岳の絶巓へ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -173,8 +172,7 @@
       "pageNumber": 20,
       "content": "上高地へ下る",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,

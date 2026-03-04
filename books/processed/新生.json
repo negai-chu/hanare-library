@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "序の章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 14,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 12,
-            "endPage": 0
+            "endPage": 14
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-2",
         "title": "第一巻",
         "startPage": 15,
-        "endPage": 0,
+        "endPage": 324,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -835,7 +835,7 @@
             "id": "chapter-2-section-130",
             "number": "百三十",
             "startPage": 321,
-            "endPage": 0
+            "endPage": 324
           }
         ]
       },
@@ -843,7 +843,7 @@
         "id": "chapter-3",
         "title": "『寝覚』附記",
         "startPage": 325,
-        "endPage": 0
+        "endPage": 328
       },
       {
         "id": "chapter-4",

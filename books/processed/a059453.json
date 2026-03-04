@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "まえがき",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 5,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "先生と生徒",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 5
           }
         ]
       },
@@ -31,13 +31,13 @@
         "id": "chapter-2",
         "title": "一　文法科の目的、任務についての考方の変遷",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 10
       },
       {
         "id": "chapter-3",
         "title": "二　文法科のありかたについての検討",
         "startPage": 11,
-        "endPage": 0
+        "endPage": 20
       },
       {
         "id": "chapter-4",

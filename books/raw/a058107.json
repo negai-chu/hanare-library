@@ -54,7 +54,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 353,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青年の天下"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "この世界は諸君青年達の世界である",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 5,
       "content": "我輩とてこれでまだ日本の青年である",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -106,8 +106,7 @@
       "pageNumber": 8,
       "content": "七たび転んでも八たび目に起きればよい",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -125,8 +124,7 @@
       "pageNumber": 11,
       "content": "行《おこな》いは男子らしく堂々たらねばならぬ",
       "characters": 22,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -144,8 +142,7 @@
       "pageNumber": 14,
       "content": "乱世でなくとも大なる人物にはなれる",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

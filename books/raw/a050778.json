@@ -42,7 +42,9 @@
     ],
     "totalPages": 31,
     "averageCharsPerPage": 589,
-    "chapterTitles": []
+    "chapterTitles": [
+      "番茶話"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "蛙《かへる》",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 13,
       "content": "玉蟲《たまむし》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -154,8 +154,7 @@
       "pageNumber": 18,
       "content": "赤蜻蛉《あかとんぼ》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

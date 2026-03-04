@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "積木の町",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "積木で造る空想の町"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 81,
-    "chapterTitles": []
+    "chapterTitles": [
+      "積木の町"
+    ]
   },
   "content": [
     {

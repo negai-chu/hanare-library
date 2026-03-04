@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ひかる",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "光あふれる世界の詩"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 70,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ひかる"
+    ]
   },
   "content": [
     {

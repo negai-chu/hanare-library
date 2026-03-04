@@ -48,7 +48,9 @@
     ],
     "totalPages": 59,
     "averageCharsPerPage": 542,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ほととぎす"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "その一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -189,8 +190,7 @@
       "pageNumber": 23,
       "content": "その二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -274,8 +274,7 @@
       "pageNumber": 37,
       "content": "その三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -371,8 +370,7 @@
       "pageNumber": 53,
       "content": "その四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,

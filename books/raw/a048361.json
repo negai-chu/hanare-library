@@ -60,7 +60,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 188,
-    "chapterTitles": []
+    "chapterTitles": [
+      "真間名所"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "三本松と繼橋",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "手兒名靈堂",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -112,8 +112,7 @@
       "pageNumber": 8,
       "content": "眞間山弘法寺",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -131,8 +130,7 @@
       "pageNumber": 11,
       "content": "里見公園",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -156,8 +154,7 @@
       "pageNumber": 15,
       "content": "國分寺と蓴菜池",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -169,8 +166,7 @@
       "pageNumber": 17,
       "content": "菅野の桃市川の苺",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

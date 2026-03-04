@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "金解禁前後の經濟事情に就て",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "金解禁《きんかいきん》に對《たい》する準備《じゆんび》",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -49,37 +49,37 @@
         "id": "chapter-3",
         "title": "國際貸借《こくさいたいしやく》の改善《かいぜん》",
         "startPage": 16,
-        "endPage": 0
+        "endPage": 20
       },
       {
         "id": "chapter-4",
         "title": "爲替相場《かはせさうば》の騰貴《とうき》",
         "startPage": 21,
-        "endPage": 0
+        "endPage": 24
       },
       {
         "id": "chapter-5",
         "title": "物價《ぶつか》の下落《げらく》",
         "startPage": 25,
-        "endPage": 0
+        "endPage": 27
       },
       {
         "id": "chapter-6",
         "title": "在外正貨《ざいぐわいせいくわ》の充實《じうじつ》",
         "startPage": 28,
-        "endPage": 0
+        "endPage": 33
       },
       {
         "id": "chapter-7",
         "title": "短期期限附金解禁《たんききげんつききんかいきん》",
         "startPage": 34,
-        "endPage": 0
+        "endPage": 36
       },
       {
         "id": "chapter-8",
         "title": "金解禁直後《きんかいきんちよくご》の經濟界《けいざいかい》",
         "startPage": 37,
-        "endPage": 0,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -99,7 +99,7 @@
         "id": "chapter-9",
         "title": "金解禁《きんかいきん》の經濟界《けいざいかい》に與《あた》ふる影響《えいきやう》",
         "startPage": 41,
-        "endPage": 0,
+        "endPage": 58,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -125,7 +125,7 @@
         "id": "chapter-10",
         "title": "金解禁後《きんかいきんご》の國民《こくみん》の覺悟《かくご》",
         "startPage": 59,
-        "endPage": 0
+        "endPage": 63
       },
       {
         "id": "chapter-11",

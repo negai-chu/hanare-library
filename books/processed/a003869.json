@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "空の美",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "郊外の空の美しさ"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 128,
-    "chapterTitles": []
+    "chapterTitles": [
+      "空の美"
+    ]
   },
   "content": [
     {

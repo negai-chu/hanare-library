@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "浦島太郎",
         "startPage": 1,
-        "endPage": 13,
-        "summary": "浦島太郎と竜宮城"
+        "endPage": 13
       }
     ],
     "totalPages": 13,
     "averageCharsPerPage": 484,
-    "chapterTitles": []
+    "chapterTitles": [
+      "浦島太郎"
+    ]
   },
   "content": [
     {

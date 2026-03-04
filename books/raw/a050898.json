@@ -48,7 +48,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 317,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ソクラテス"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　ソクラテスに依りて懐疑を解く",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "二　真に言行一致の人",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -100,8 +100,7 @@
       "pageNumber": 8,
       "content": "三　崇拝する理由数箇条",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -125,8 +124,7 @@
       "pageNumber": 12,
       "content": "四　公明正大の死",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

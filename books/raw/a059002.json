@@ -48,7 +48,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 317,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小品四つ"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "秋草",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "小箱",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -94,8 +94,7 @@
       "pageNumber": 7,
       "content": "折紙",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -107,8 +106,7 @@
       "pageNumber": 9,
       "content": "あしべ踊《おどり》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

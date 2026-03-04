@@ -78,7 +78,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 262,
-    "chapterTitles": []
+    "chapterTitles": [
+      "胆石"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "昭和十五年十月四日",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 7,
       "content": "三十一日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -136,8 +136,7 @@
       "pageNumber": 9,
       "content": "九月一日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -149,8 +148,7 @@
       "pageNumber": 11,
       "content": "二日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -162,8 +160,7 @@
       "pageNumber": 13,
       "content": "三日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -175,8 +172,7 @@
       "pageNumber": 15,
       "content": "五日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -200,8 +196,7 @@
       "pageNumber": 19,
       "content": "六日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -213,8 +208,7 @@
       "pageNumber": 21,
       "content": "七日",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -226,8 +220,7 @@
       "pageNumber": 23,
       "content": "十四日",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

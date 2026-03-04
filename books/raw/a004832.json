@@ -48,7 +48,9 @@
     ],
     "totalPages": 36,
     "averageCharsPerPage": 398,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -182,8 +184,7 @@
       "pageNumber": 22,
       "content": "七月二十六日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -207,8 +208,7 @@
       "pageNumber": 26,
       "content": "七月二十七日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -232,8 +232,7 @@
       "pageNumber": 30,
       "content": "七月二十八日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -257,8 +256,7 @@
       "pageNumber": 34,
       "content": "七月二十九日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,

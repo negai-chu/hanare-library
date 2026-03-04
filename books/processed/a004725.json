@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "たけのこ",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "地中のたけのこの冒険"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 203,
-    "chapterTitles": []
+    "chapterTitles": [
+      "たけのこ"
+    ]
   },
   "content": [
     {

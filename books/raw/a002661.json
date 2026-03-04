@@ -48,7 +48,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 319,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ある遊郭での出来事"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "１　大泥棒の客",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 9,
       "content": "２　無理心中",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -130,8 +130,7 @@
       "pageNumber": 13,
       "content": "３　情死者の葬式",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -155,8 +154,7 @@
       "pageNumber": 17,
       "content": "４　死への道",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

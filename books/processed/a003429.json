@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "明日への新聞",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "新聞の歴史と未来"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 425,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明日への新聞"
+    ]
   },
   "content": [
     {

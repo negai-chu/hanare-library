@@ -174,7 +174,9 @@
     ],
     "totalPages": 133,
     "averageCharsPerPage": 471,
-    "chapterTitles": []
+    "chapterTitles": [
+      "二千六百年史抄"
+    ]
   },
   "content": [
     {
@@ -188,8 +190,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -201,8 +202,7 @@
       "pageNumber": 4,
       "content": "神武天皇の御創業",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -238,8 +238,7 @@
       "pageNumber": 10,
       "content": "皇威の海外発展と支那文化の伝来",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -269,8 +268,7 @@
       "pageNumber": 15,
       "content": "氏族制度と祭政一致",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -288,8 +286,7 @@
       "pageNumber": 18,
       "content": "聖徳太子と中大兄皇子",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -331,8 +328,7 @@
       "pageNumber": 25,
       "content": "奈良時代の文化と仏教",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -362,8 +358,7 @@
       "pageNumber": 30,
       "content": "平安時代",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -399,8 +394,7 @@
       "pageNumber": 36,
       "content": "院政と武士の擡頭",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -436,8 +430,7 @@
       "pageNumber": 42,
       "content": "鎌倉幕府と元寇",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -467,8 +460,7 @@
       "pageNumber": 47,
       "content": "建武中興",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -498,8 +490,7 @@
       "pageNumber": 52,
       "content": "吉野時代",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -541,8 +532,7 @@
       "pageNumber": 59,
       "content": "足利時代と海外発展",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -578,8 +568,7 @@
       "pageNumber": 65,
       "content": "戦国時代",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -609,8 +598,7 @@
       "pageNumber": 70,
       "content": "信長、秀吉、家康",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -658,8 +646,7 @@
       "pageNumber": 78,
       "content": "鎖国",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -689,8 +676,7 @@
       "pageNumber": 83,
       "content": "江戸幕府の構成",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -714,8 +700,7 @@
       "pageNumber": 87,
       "content": "尊皇思想の勃興",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -757,8 +742,7 @@
       "pageNumber": 94,
       "content": "国学の興隆",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -794,8 +778,7 @@
       "pageNumber": 100,
       "content": "江戸幕府の衰亡",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -813,8 +796,7 @@
       "pageNumber": 103,
       "content": "勤皇思想の勃興",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,
@@ -862,8 +844,7 @@
       "pageNumber": 111,
       "content": "勤皇志士と薩長同盟",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
@@ -899,8 +880,7 @@
       "pageNumber": 117,
       "content": "明治維新と国体観念",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -936,8 +916,7 @@
       "pageNumber": 123,
       "content": "廃藩置県と征韓論",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -961,8 +940,7 @@
       "pageNumber": 127,
       "content": "立憲政治",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -980,8 +958,7 @@
       "pageNumber": 130,
       "content": "日露戦争以後",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 131,

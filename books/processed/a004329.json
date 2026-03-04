@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "明治美人伝",
         "startPage": 1,
-        "endPage": 40,
-        "summary": "明治の美人たちの物語"
+        "endPage": 40
       }
     ],
     "totalPages": 40,
     "averageCharsPerPage": 530,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明治美人伝"
+    ]
   },
   "content": [
     {

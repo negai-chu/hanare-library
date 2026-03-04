@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一回",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "第二回",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -69,7 +69,7 @@
         "id": "chapter-3",
         "title": "第三回",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -101,7 +101,7 @@
         "id": "chapter-4",
         "title": "第四回",
         "startPage": 101,
-        "endPage": 0,
+        "endPage": 149,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -127,7 +127,7 @@
         "id": "chapter-5",
         "title": "第五回",
         "startPage": 150,
-        "endPage": 0,
+        "endPage": 194,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -153,7 +153,7 @@
         "id": "chapter-6",
         "title": "第六回",
         "startPage": 195,
-        "endPage": 0,
+        "endPage": 241,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -191,7 +191,7 @@
         "id": "chapter-7",
         "title": "第七回",
         "startPage": 242,
-        "endPage": 0,
+        "endPage": 290,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -217,7 +217,7 @@
         "id": "chapter-8",
         "title": "第八回",
         "startPage": 291,
-        "endPage": 0,
+        "endPage": 335,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -243,7 +243,7 @@
         "id": "chapter-9",
         "title": "第九回",
         "startPage": 336,
-        "endPage": 0,
+        "endPage": 386,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -269,7 +269,7 @@
         "id": "chapter-10",
         "title": "第十回",
         "startPage": 387,
-        "endPage": 0,
+        "endPage": 430,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -295,7 +295,7 @@
         "id": "chapter-11",
         "title": "第十一回",
         "startPage": 431,
-        "endPage": 0,
+        "endPage": 474,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -321,7 +321,7 @@
         "id": "chapter-12",
         "title": "第十二回",
         "startPage": 475,
-        "endPage": 0,
+        "endPage": 521,
         "sections": [
           {
             "id": "chapter-12-section-1",

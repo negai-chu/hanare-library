@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "街頭",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "百貨店前の人形見物"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 300,
-    "chapterTitles": []
+    "chapterTitles": [
+      "街頭"
+    ]
   },
   "content": [
     {

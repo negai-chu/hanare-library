@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "プリンス・アド",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "プリンス・アドの物語"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 365,
-    "chapterTitles": []
+    "chapterTitles": [
+      "プリンス・アド"
+    ]
   },
   "content": [
     {

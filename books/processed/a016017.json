@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "午後",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "寝坊した午後の家族"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 249,
-    "chapterTitles": []
+    "chapterTitles": [
+      "午後"
+    ]
   },
   "content": [
     {

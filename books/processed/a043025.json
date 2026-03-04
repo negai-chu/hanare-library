@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "佐野だより",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "鉱毒問題の現地報告"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 430,
-    "chapterTitles": []
+    "chapterTitles": [
+      "佐野だより"
+    ]
   },
   "content": [
     {

@@ -17,25 +17,25 @@
         "id": "chapter-1",
         "title": "第一場",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第二場",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "第三場",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 9
       },
       {
         "id": "chapter-4",
         "title": "第四場",
         "startPage": 10,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-4-section-3",
             "number": "その三",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 19
           }
         ]
       },
@@ -61,25 +61,25 @@
         "id": "chapter-5",
         "title": "第五場",
         "startPage": 20,
-        "endPage": 0
+        "endPage": 22
       },
       {
         "id": "chapter-6",
         "title": "第六場",
         "startPage": 23,
-        "endPage": 0
+        "endPage": 26
       },
       {
         "id": "chapter-7",
         "title": "第七場",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "第七場の註解",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 30
           }
         ]
       },
@@ -87,7 +87,7 @@
         "id": "chapter-8",
         "title": "第八場",
         "startPage": 31,
-        "endPage": 0,
+        "endPage": 46,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -117,7 +117,7 @@
             "id": "chapter-8-section-5",
             "number": "その五",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 46
           }
         ]
       },
@@ -125,7 +125,7 @@
         "id": "chapter-9",
         "title": "第九場",
         "startPage": 47,
-        "endPage": 0,
+        "endPage": 59,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -155,7 +155,7 @@
             "id": "chapter-9-section-5",
             "number": "その五",
             "startPage": 57,
-            "endPage": 0
+            "endPage": 59
           }
         ]
       },

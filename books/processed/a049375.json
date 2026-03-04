@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一段　総論",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-2-section-5",
             "number": "第五節",
             "startPage": 11,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-3",
         "title": "第二段　コックリの仕方を論ず",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -109,7 +109,7 @@
             "id": "chapter-3-section-8",
             "number": "第一三節",
             "startPage": 26,
-            "endPage": 0
+            "endPage": 28
           }
         ]
       },
@@ -117,7 +117,7 @@
         "id": "chapter-4",
         "title": "第三段　コックリの伝来を論ず",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -141,7 +141,7 @@
             "id": "chapter-4-section-4",
             "number": "第一七節",
             "startPage": 33,
-            "endPage": 0
+            "endPage": 34
           }
         ]
       },

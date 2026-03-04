@@ -16,33 +16,35 @@
       {
         "id": "chapter-1",
         "title": "馬鈴薯階級の詩",
-        "startPage": 1,
+        "startPage": 10,
         "endPage": 13,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "馬鈴薯階級の詩　（一）",
-            "startPage": 2,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "馬鈴薯階級の詩　（二）",
-            "startPage": 6,
-            "endPage": 9
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "馬鈴薯階級の詩　（三）",
-            "startPage": 10,
-            "endPage": 13
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
     "totalPages": 13,
-    "averageCharsPerPage": 98,
-    "chapterTitles": []
+    "averageCharsPerPage": 99,
+    "chapterTitles": [
+      "馬鈴薯階級の詩"
+    ]
   },
   "content": [
     {
@@ -54,15 +56,15 @@
     },
     {
       "pageNumber": 2,
-      "content": "馬鈴薯階級の詩　（一）",
-      "characters": 11,
+      "content": "馬鈴薯階級の詩",
+      "characters": 7,
       "ruby": [],
-      "displayType": "section-title"
+      "displayType": "book-title"
     },
     {
       "pageNumber": 3,
-      "content": "　カマドガヤシの白い穂が\n\n雪の様に飛ぶ十一月の野良で\n\n仁平はおっかあや娘と仕事着の尻、枯っ風にひったくられ乍ら\n\n馬鈴薯選別して俵につめていた。\n\nもうこうなっては、安くとも高くとも売ってしまわねばシバレテしまう。\n\n雲間を飛ぶ淡い月の光をあてに\n\n空腹にゆるんだモンペのひも〆なおして\n\nさて、今夜もよなべ、\n\n疲れて這う様にして小屋に帰り、",
-      "characters": 174,
+      "content": "　（一）　カマドガヤシの白い穂が\n\n雪の様に飛ぶ十一月の野良で\n\n仁平はおっかあや娘と仕事着の尻、枯っ風にひったくられ乍ら\n\n馬鈴薯選別して俵につめていた。\n\nもうこうなっては、安くとも高くとも売ってしまわねばシバレテしまう。\n\n雲間を飛ぶ淡い月の光をあてに\n\n空腹にゆるんだモンペのひも〆なおして\n\nさて、今夜もよなべ、\n\n疲れて這う様にして小屋に帰り、",
+      "characters": 178,
       "ruby": []
     },
     {
@@ -79,15 +81,15 @@
     },
     {
       "pageNumber": 6,
-      "content": "馬鈴薯階級の詩　（二）",
-      "characters": 11,
+      "content": "馬鈴薯階級の詩",
+      "characters": 7,
       "ruby": [],
-      "displayType": "section-title"
+      "displayType": "book-title"
     },
     {
       "pageNumber": 7,
-      "content": "暮れ果てた暗《やみ》が白々と明るんで来た\n\n今、二十日の月が上るのだ。\n\nおとしがらの蔭に枯っ風をさけて\n\n集ったほほかむり達、\n\n引ぬいて来た生大根の青首にかじりついてる。\n\n空腹に大根は梨の様に甘かった。\n\n「あんまり食べると流産するぞ」\n\n「馬鹿にするない馬じゃあるまいし」\n\n「馬だよこんなもの食う奴は」",
-      "characters": 156,
+      "content": "　（二）　暮れ果てた暗《やみ》が白々と明るんで来た\n\n今、二十日の月が上るのだ。\n\nおとしがらの蔭に枯っ風をさけて\n\n集ったほほかむり達、\n\n引ぬいて来た生大根の青首にかじりついてる。\n\n空腹に大根は梨の様に甘かった。\n\n「あんまり食べると流産するぞ」\n\n「馬鹿にするない馬じゃあるまいし」\n\n「馬だよこんなもの食う奴は」",
+      "characters": 161,
       "ruby": []
     },
     {
@@ -104,15 +106,15 @@
     },
     {
       "pageNumber": 10,
-      "content": "馬鈴薯階級の詩　（三）",
-      "characters": 11,
+      "content": "馬鈴薯階級の詩",
+      "characters": 7,
       "ruby": [],
-      "displayType": "section-title"
+      "displayType": "book-title"
     },
     {
       "pageNumber": 11,
-      "content": "つくづくと人間並の暮しがしたいと思った\n\nそれは自分達の生活が人間並でないからの事。\n\n朝っぱらから雨に降られて\n\n外の仕事の出来ない日\n\n馬小舎の隅で馬糞の匂いにむされながら\n\n俵を編んでいると\n\n疲れ切った体からのそのそと眠気が這い上って来る\n\n久しぶりの雨だと云うのに\n\n半日の休みもなく",
-      "characters": 147,
+      "content": "　（三）　つくづくと人間並の暮しがしたいと思った\n\nそれは自分達の生活が人間並でないからの事。\n\n朝っぱらから雨に降られて\n\n外の仕事の出来ない日\n\n馬小舎の隅で馬糞の匂いにむされながら\n\n俵を編んでいると\n\n疲れ切った体からのそのそと眠気が這い上って来る\n\n久しぶりの雨だと云うのに\n\n半日の休みもなく",
+      "characters": 152,
       "ruby": []
     },
     {

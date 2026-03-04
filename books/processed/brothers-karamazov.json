@@ -18,7 +18,7 @@
         "id": "part-1",
         "title": "第一篇　ある家の歴史",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 75,
         "summary": "ある家の歴史",
         "sections": [
           {
@@ -53,7 +53,7 @@
             "id": "part-1-section-5",
             "number": "五",
             "startPage": 56,
-            "endPage": 0,
+            "endPage": 75,
             "summary": "長老"
           }
         ]
@@ -62,7 +62,7 @@
         "id": "part-2",
         "title": "第二篇　お門違いな寄り合い",
         "startPage": 76,
-        "endPage": 0,
+        "endPage": 229,
         "summary": "お門違いな寄り合い",
         "sections": [
           {
@@ -118,7 +118,7 @@
             "id": "part-2-section-8",
             "number": "八",
             "startPage": 209,
-            "endPage": 0,
+            "endPage": 229,
             "summary": "醜態"
           }
         ]
@@ -127,7 +127,7 @@
         "id": "part-3",
         "title": "第三篇　淫蕩《いんとう》な人たち",
         "startPage": 230,
-        "endPage": 0,
+        "endPage": 426,
         "summary": "淫蕩《いんとう》な人たち",
         "sections": [
           {
@@ -197,7 +197,7 @@
             "id": "part-3-section-10",
             "number": "一一",
             "startPage": 407,
-            "endPage": 0,
+            "endPage": 426,
             "summary": "さらに一つの滅びたる名誉"
           }
         ]
@@ -206,7 +206,7 @@
         "id": "part-4",
         "title": "第四篇　破裂",
         "startPage": 427,
-        "endPage": 0,
+        "endPage": 565,
         "summary": "破裂",
         "sections": [
           {
@@ -255,7 +255,7 @@
             "id": "part-4-section-7",
             "number": "七",
             "startPage": 536,
-            "endPage": 0,
+            "endPage": 565,
             "summary": "清らかなる外気のうちに"
           }
         ]

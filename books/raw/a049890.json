@@ -66,7 +66,9 @@
     ],
     "totalPages": 136,
     "averageCharsPerPage": 581,
-    "chapterTitles": []
+    "chapterTitles": [
+      "孔子"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 4,
       "content": "再版序",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -106,8 +106,7 @@
       "pageNumber": 6,
       "content": "一　人類の教師",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -185,8 +184,7 @@
       "pageNumber": 19,
       "content": "二　人類の教師の伝記",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -432,8 +430,7 @@
       "pageNumber": 60,
       "content": "三　『論語』の原典批判",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -703,8 +700,7 @@
       "pageNumber": 105,
       "content": "四　孔子の伝記および語録の特徴",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -848,8 +844,7 @@
       "pageNumber": 129,
       "content": "付録",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,

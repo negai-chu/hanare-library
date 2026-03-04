@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "海浜一日",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "海辺の一日の記録"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 352,
-    "chapterTitles": []
+    "chapterTitles": [
+      "海浜一日"
+    ]
   },
   "content": [
     {

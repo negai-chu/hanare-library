@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "小説の読者",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "小説読者の心理"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 263,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小説の読者"
+    ]
   },
   "content": [
     {

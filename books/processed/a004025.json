@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "でんきアンケート",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "興味ある文学者の紹介"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 131,
-    "chapterTitles": []
+    "chapterTitles": [
+      "でんきアンケート"
+    ]
   },
   "content": [
     {

@@ -204,7 +204,9 @@
     ],
     "totalPages": 174,
     "averageCharsPerPage": 483,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青銅の魔人"
+    ]
   },
   "content": [
     {
@@ -218,8 +220,7 @@
       "pageNumber": 2,
       "content": "歯車の音",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -237,8 +238,7 @@
       "pageNumber": 5,
       "content": "鉄の指",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -274,8 +274,7 @@
       "pageNumber": 11,
       "content": "怪人昇天",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -311,8 +310,7 @@
       "pageNumber": 17,
       "content": "塔上の怪物",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -348,8 +346,7 @@
       "pageNumber": 23,
       "content": "夜光の時計",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -391,8 +388,7 @@
       "pageNumber": 30,
       "content": "明智小五郎と小林少年",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -428,8 +424,7 @@
       "pageNumber": 36,
       "content": "魔人と名探偵",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -477,8 +472,7 @@
       "pageNumber": 44,
       "content": "奇々怪々",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -514,8 +508,7 @@
       "pageNumber": 50,
       "content": "チンピラ別働隊",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -557,8 +550,7 @@
       "pageNumber": 57,
       "content": "天空の怪物",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -594,8 +586,7 @@
       "pageNumber": 63,
       "content": "怪人の正体",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -637,8 +628,7 @@
       "pageNumber": 70,
       "content": "鏡の中の怪人",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -668,8 +658,7 @@
       "pageNumber": 75,
       "content": "地底の道化師",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -693,8 +682,7 @@
       "pageNumber": 79,
       "content": "小魔人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -724,8 +712,7 @@
       "pageNumber": 84,
       "content": "悪魔の美術館",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -755,8 +742,7 @@
       "pageNumber": 89,
       "content": "古井戸の底",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -786,8 +772,7 @@
       "pageNumber": 94,
       "content": "寝室の魔術",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -823,8 +808,7 @@
       "pageNumber": 100,
       "content": "縄ばしご",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -860,8 +844,7 @@
       "pageNumber": 106,
       "content": "名探偵の魔法",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 107,
@@ -897,8 +880,7 @@
       "pageNumber": 112,
       "content": "ゴム人形",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -928,8 +910,7 @@
       "pageNumber": 117,
       "content": "びっくり箱",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -959,8 +940,7 @@
       "pageNumber": 122,
       "content": "犯人はここにいる",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -1002,8 +982,7 @@
       "pageNumber": 129,
       "content": "古井戸の秘密",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1027,8 +1006,7 @@
       "pageNumber": 133,
       "content": "あばかれたトリック",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1064,8 +1042,7 @@
       "pageNumber": 139,
       "content": "怪人二十面相だッ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1101,8 +1078,7 @@
       "pageNumber": 145,
       "content": "チンピラ副団長",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 146,
@@ -1132,8 +1108,7 @@
       "pageNumber": 150,
       "content": "最後の切り札",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1175,8 +1150,7 @@
       "pageNumber": 157,
       "content": "小林少年の危難",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 158,
@@ -1224,8 +1198,7 @@
       "pageNumber": 165,
       "content": "ふたりの明智小五郎",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,
@@ -1249,8 +1222,7 @@
       "pageNumber": 169,
       "content": "青銅魔人の最期",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 5,
     "averageCharsPerPage": 86,
-    "chapterTitles": []
+    "chapterTitles": [
+      "断調"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "△寒水",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -63,8 +64,7 @@
       "pageNumber": 4,
       "content": "△春雨",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,

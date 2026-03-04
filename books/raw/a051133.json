@@ -36,7 +36,9 @@
     ],
     "totalPages": 9,
     "averageCharsPerPage": 361,
-    "chapterTitles": []
+    "chapterTitles": [
+      "村住居の秋"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "小さな流",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "土橋",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

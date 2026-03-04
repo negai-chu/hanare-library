@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "Lethe",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-2-section-8",
             "number": "しばらくは払暁戦",
             "startPage": 12,
-            "endPage": 0
+            "endPage": 13
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-3",
         "title": "硝子建築",
         "startPage": 15,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -93,7 +93,7 @@
         "id": "chapter-4",
         "title": "共和国風俗",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 27,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -107,7 +107,7 @@
         "id": "chapter-5",
         "title": "Archaic",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -125,7 +125,7 @@
             "id": "chapter-5-section-3",
             "number": "雪",
             "startPage": 31,
-            "endPage": 0
+            "endPage": 31
           }
         ]
       },

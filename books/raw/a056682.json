@@ -210,7 +210,9 @@
     ],
     "totalPages": 169,
     "averageCharsPerPage": 441,
-    "chapterTitles": []
+    "chapterTitles": [
+      "魔法人形"
+    ]
   },
   "content": [
     {
@@ -224,8 +226,7 @@
       "pageNumber": 2,
       "content": "腹話術",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -273,8 +274,7 @@
       "pageNumber": 10,
       "content": "生きた人形",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -310,8 +310,7 @@
       "pageNumber": 16,
       "content": "恐ろしい魔法",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -347,8 +346,7 @@
       "pageNumber": 22,
       "content": "ルミちゃん人形",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -390,8 +388,7 @@
       "pageNumber": 29,
       "content": "小林少年",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -421,8 +418,7 @@
       "pageNumber": 34,
       "content": "おばけやしき",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -470,8 +466,7 @@
       "pageNumber": 42,
       "content": "箱の中の少女",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -495,8 +490,7 @@
       "pageNumber": 46,
       "content": "刀《かたな》のきっさき",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -532,8 +526,7 @@
       "pageNumber": 52,
       "content": "赤いほのお",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -557,8 +550,7 @@
       "pageNumber": 56,
       "content": "火の海",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -582,8 +574,7 @@
       "pageNumber": 60,
       "content": "きみょうな問答",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -607,8 +598,7 @@
       "pageNumber": 64,
       "content": "怪老人の正体",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -650,8 +640,7 @@
       "pageNumber": 71,
       "content": "人形むすめ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -681,8 +670,7 @@
       "pageNumber": 76,
       "content": "あやしい男",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -712,8 +700,7 @@
       "pageNumber": 81,
       "content": "深夜の怪",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -743,8 +730,7 @@
       "pageNumber": 86,
       "content": "ほのおの宝冠",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -774,8 +760,7 @@
       "pageNumber": 91,
       "content": "少女探偵",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -805,8 +790,7 @@
       "pageNumber": 96,
       "content": "どろぼう人形",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -836,8 +820,7 @@
       "pageNumber": 101,
       "content": "ユリ子人形の秘密",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -873,8 +856,7 @@
       "pageNumber": 107,
       "content": "チンピラ隊の活躍",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -910,8 +892,7 @@
       "pageNumber": 113,
       "content": "ポケット小僧",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -929,8 +910,7 @@
       "pageNumber": 116,
       "content": "カーテンのすきま",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -960,8 +940,7 @@
       "pageNumber": 121,
       "content": "人造人間",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,
@@ -991,8 +970,7 @@
       "pageNumber": 126,
       "content": "地底のジャングル",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1022,8 +1000,7 @@
       "pageNumber": 131,
       "content": "おばけの木",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,
@@ -1047,8 +1024,7 @@
       "pageNumber": 135,
       "content": "ジャングルの王さま",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1084,8 +1060,7 @@
       "pageNumber": 141,
       "content": "ゴリラと大ワシ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 142,
@@ -1109,8 +1084,7 @@
       "pageNumber": 145,
       "content": "ゴリラのけらいたち",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 146,
@@ -1146,8 +1120,7 @@
       "pageNumber": 151,
       "content": "ジャングルのとりもの",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1177,8 +1150,7 @@
       "pageNumber": 156,
       "content": "黄金のトラ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 157,
@@ -1220,8 +1192,7 @@
       "pageNumber": 163,
       "content": "さいごの切り札",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,

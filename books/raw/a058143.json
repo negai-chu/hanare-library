@@ -30,7 +30,9 @@
     ],
     "totalPages": 22,
     "averageCharsPerPage": 768,
-    "chapterTitles": []
+    "chapterTitles": [
+      "悦しき知識"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "まえおき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

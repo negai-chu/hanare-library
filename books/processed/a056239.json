@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "はじめに",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "一　今日の天皇の地位",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 40,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-2-section-5",
             "number": "５　日本の新憲法と天皇",
             "startPage": 27,
-            "endPage": 0
+            "endPage": 40
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-3",
         "title": "二　明治憲法と天皇の権力",
         "startPage": 41,
-        "endPage": 0,
+        "endPage": 72,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-3-section-4",
             "number": "４　権力の神となった天皇",
             "startPage": 64,
-            "endPage": 0
+            "endPage": 72
           }
         ]
       },
@@ -93,7 +93,7 @@
         "id": "chapter-4",
         "title": "三　歴史のなかの天皇",
         "startPage": 73,
-        "endPage": 0,
+        "endPage": 115,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -117,7 +117,7 @@
             "id": "chapter-4-section-4",
             "number": "４　日本の主権はどう移ったか",
             "startPage": 100,
-            "endPage": 0
+            "endPage": 115
           }
         ]
       },
@@ -125,7 +125,7 @@
         "id": "chapter-5",
         "title": "四　維新と朝廷派",
         "startPage": 116,
-        "endPage": 0,
+        "endPage": 166,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -173,7 +173,7 @@
             "id": "chapter-5-section-8",
             "number": "８　維新以後の反民主性",
             "startPage": 162,
-            "endPage": 0
+            "endPage": 166
           }
         ]
       },
@@ -181,7 +181,7 @@
         "id": "chapter-6",
         "title": "五　天皇制の批判",
         "startPage": 167,
-        "endPage": 0,
+        "endPage": 195,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -193,7 +193,7 @@
             "id": "chapter-6-section-2",
             "number": "２　外国人の観た天皇",
             "startPage": 179,
-            "endPage": 0
+            "endPage": 195
           }
         ]
       },
@@ -201,7 +201,7 @@
         "id": "chapter-7",
         "title": "六　天皇の将来",
         "startPage": 196,
-        "endPage": 0,
+        "endPage": 224,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -225,7 +225,7 @@
             "id": "chapter-7-section-4",
             "number": "４　世界の大勢と天皇の将来",
             "startPage": 212,
-            "endPage": 0
+            "endPage": 224
           }
         ]
       },

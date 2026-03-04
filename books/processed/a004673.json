@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一、小人国（リリパット）",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 58,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,16 +53,15 @@
             "id": "chapter-1-section-6",
             "number": "６　ハイ　さようなら",
             "startPage": 46,
-            "endPage": 0
+            "endPage": 58
           }
-        ],
-        "summary": "小人国への漂着"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "第二、大人国（ブロブディンナグ）",
         "startPage": 59,
-        "endPage": 0,
+        "endPage": 117,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -92,16 +91,15 @@
             "id": "chapter-2-section-5",
             "number": "５　鷲にさらわれて",
             "startPage": 109,
-            "endPage": 0
+            "endPage": 117
           }
-        ],
-        "summary": "巨人国での体験"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第三、飛島（ラピュタ）",
         "startPage": 118,
-        "endPage": 0,
+        "endPage": 157,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -125,16 +123,15 @@
             "id": "chapter-3-section-4",
             "number": "４　死なゝい人間",
             "startPage": 147,
-            "endPage": 0
+            "endPage": 157
           }
-        ],
-        "summary": "飛島の学者たち"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第四、馬の国（フウイヌム）",
         "startPage": 158,
-        "endPage": 0,
+        "endPage": 194,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -158,10 +155,9 @@
             "id": "chapter-4-section-4",
             "number": "４　ヤーフ君、お大事に",
             "startPage": 186,
-            "endPage": 0
+            "endPage": 194
           }
-        ],
-        "summary": "馬の国の理性"
+        ]
       },
       {
         "id": "chapter-5",
@@ -193,8 +189,7 @@
             "startPage": 203,
             "endPage": 204
           }
-        ],
-        "summary": "著者から読者への言葉"
+        ]
       }
     ],
     "totalPages": 204,

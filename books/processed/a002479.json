@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "コーヒー哲学序説",
         "startPage": 1,
-        "endPage": 11,
-        "summary": "コーヒーと飲料の哲学"
+        "endPage": 11
       }
     ],
     "totalPages": 11,
     "averageCharsPerPage": 487,
-    "chapterTitles": []
+    "chapterTitles": [
+      "コーヒー哲学序説"
+    ]
   },
   "content": [
     {

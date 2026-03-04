@@ -78,7 +78,9 @@
     ],
     "totalPages": 46,
     "averageCharsPerPage": 435,
-    "chapterTitles": []
+    "chapterTitles": [
+      "現代能書批評"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "まえがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 5,
       "content": "頭山満翁の書",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -136,8 +136,7 @@
       "pageNumber": 9,
       "content": "正木直彦先生の書",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -179,8 +178,7 @@
       "pageNumber": 16,
       "content": "徳川家達公無才の書",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -228,8 +226,7 @@
       "pageNumber": 24,
       "content": "鈍翁益田孝氏の書",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -271,8 +268,7 @@
       "pageNumber": 31,
       "content": "馬場一氏の書",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -290,8 +286,7 @@
       "pageNumber": 34,
       "content": "根津青山翁の書",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -309,8 +304,7 @@
       "pageNumber": 37,
       "content": "大谷尊由氏の書",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -340,8 +334,7 @@
       "pageNumber": 42,
       "content": "広田弘毅氏とその厳父徳翁の書",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,

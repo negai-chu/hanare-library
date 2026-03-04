@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "社会時評",
         "startPage": 1,
-        "endPage": 350,
-        "summary": "時事問題への論評"
+        "endPage": 350
       }
     ],
     "totalPages": 350,
     "averageCharsPerPage": 559,
-    "chapterTitles": []
+    "chapterTitles": [
+      "社会時評"
+    ]
   },
   "content": [
     {

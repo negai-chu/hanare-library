@@ -48,7 +48,9 @@
     ],
     "totalPages": 71,
     "averageCharsPerPage": 676,
-    "chapterTitles": []
+    "chapterTitles": [
+      "対話"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "１　演劇をつくる人と制度",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -201,8 +202,7 @@
       "pageNumber": 25,
       "content": "２　戯曲と小説",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -358,8 +358,7 @@
       "pageNumber": 51,
       "content": "３　俳優と劇作家",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -443,8 +442,7 @@
       "pageNumber": 65,
       "content": "４　俳優の魅力について",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,

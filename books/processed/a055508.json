@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "忘春詩集序言",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "忘春",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-2-section-18",
             "number": "ちやんちやんの歌",
             "startPage": 26,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -139,7 +139,7 @@
         "id": "chapter-3",
         "title": "我が家の花",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 46,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -217,7 +217,7 @@
             "id": "chapter-3-section-13",
             "number": "秋の水溜り",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 46
           }
         ]
       },
@@ -225,7 +225,7 @@
         "id": "chapter-4",
         "title": "古き月",
         "startPage": 47,
-        "endPage": 0,
+        "endPage": 56,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -273,7 +273,7 @@
             "id": "chapter-4-section-8",
             "number": "駱駝",
             "startPage": 55,
-            "endPage": 0
+            "endPage": 56
           }
         ]
       },
@@ -281,7 +281,7 @@
         "id": "chapter-5",
         "title": "かげろふ",
         "startPage": 57,
-        "endPage": 0,
+        "endPage": 78,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -341,7 +341,7 @@
             "id": "chapter-5-section-10",
             "number": "母と子",
             "startPage": 69,
-            "endPage": 0
+            "endPage": 78
           }
         ]
       },

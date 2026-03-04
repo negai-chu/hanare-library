@@ -42,7 +42,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 459,
-    "chapterTitles": []
+    "chapterTitles": [
+      "〔付〕唯物論研究に就て（戸坂潤手記）"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "一、起源",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "二、経過",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -148,8 +148,7 @@
       "pageNumber": 17,
       "content": "三、現状",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

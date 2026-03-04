@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "初秋の一日",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "初秋の小旅行の記"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 420,
-    "chapterTitles": []
+    "chapterTitles": [
+      "初秋の一日"
+    ]
   },
   "content": [
     {

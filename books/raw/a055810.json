@@ -42,7 +42,9 @@
     ],
     "totalPages": 51,
     "averageCharsPerPage": 322,
-    "chapterTitles": []
+    "chapterTitles": [
+      "冠婚葬祭博士"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "東半球と西半球",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -165,8 +166,7 @@
       "pageNumber": 20,
       "content": "女性の欺瞞能力",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -262,8 +262,7 @@
       "pageNumber": 36,
       "content": "正直者の一生",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,

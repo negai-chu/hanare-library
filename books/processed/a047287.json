@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "四条河原町",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 10
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "木屋町",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 64,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -109,7 +109,7 @@
             "id": "chapter-2-section-11",
             "number": "十一",
             "startPage": 59,
-            "endPage": 0
+            "endPage": 64
           }
         ]
       },
@@ -117,7 +117,7 @@
         "id": "chapter-3",
         "title": "寺町通り",
         "startPage": 65,
-        "endPage": 0,
+        "endPage": 96,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -165,7 +165,7 @@
             "id": "chapter-3-section-8",
             "number": "八",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 96
           }
         ]
       },
@@ -173,7 +173,7 @@
         "id": "chapter-4",
         "title": "下鴨",
         "startPage": 97,
-        "endPage": 0,
+        "endPage": 122,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -209,7 +209,7 @@
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 118,
-            "endPage": 0
+            "endPage": 122
           }
         ]
       },
@@ -217,7 +217,7 @@
         "id": "chapter-5",
         "title": "先斗町",
         "startPage": 123,
-        "endPage": 0,
+        "endPage": 202,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -271,7 +271,7 @@
             "id": "chapter-5-section-9",
             "number": "九",
             "startPage": 134,
-            "endPage": 0
+            "endPage": 202
           }
         ]
       },
@@ -279,7 +279,7 @@
         "id": "chapter-6",
         "title": "三条河原町",
         "startPage": 203,
-        "endPage": 0,
+        "endPage": 249,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -339,7 +339,7 @@
             "id": "chapter-6-section-10",
             "number": "十",
             "startPage": 245,
-            "endPage": 0
+            "endPage": 249
           }
         ]
       },
@@ -347,7 +347,7 @@
         "id": "chapter-7",
         "title": "蛸薬師",
         "startPage": 250,
-        "endPage": 0,
+        "endPage": 290,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -407,7 +407,7 @@
             "id": "chapter-7-section-10",
             "number": "十",
             "startPage": 288,
-            "endPage": 0
+            "endPage": 290
           }
         ]
       },
@@ -415,7 +415,7 @@
         "id": "chapter-8",
         "title": "高台寺",
         "startPage": 291,
-        "endPage": 0,
+        "endPage": 323,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -445,7 +445,7 @@
             "id": "chapter-8-section-5",
             "number": "五",
             "startPage": 318,
-            "endPage": 0
+            "endPage": 323
           }
         ]
       },

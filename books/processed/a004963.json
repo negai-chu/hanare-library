@@ -17,235 +17,203 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "原爆詩集への序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "第二の序文"
+        "endPage": 3
       },
       {
         "id": "chapter-3",
         "title": "八月六日",
         "startPage": 6,
-        "endPage": 0,
-        "summary": "あの日の朝の惨禍"
+        "endPage": 8
       },
       {
         "id": "chapter-4",
         "title": "死",
         "startPage": 9,
-        "endPage": 0,
-        "summary": "死の情景"
+        "endPage": 12
       },
       {
         "id": "chapter-5",
         "title": "炎",
         "startPage": 13,
-        "endPage": 0,
-        "summary": "街を焼く炎"
+        "endPage": 18
       },
       {
         "id": "chapter-6",
         "title": "盲目",
         "startPage": 19,
-        "endPage": 0,
-        "summary": "光を失った眼"
+        "endPage": 22
       },
       {
         "id": "chapter-7",
         "title": "仮繃帯所にて",
         "startPage": 23,
-        "endPage": 0,
-        "summary": "仮繃帯所の惨状"
+        "endPage": 24
       },
       {
         "id": "chapter-8",
         "title": "眼",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 35,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "倉庫の記録",
             "startPage": 31,
-            "endPage": 0
+            "endPage": 35
           }
-        ],
-        "summary": "凝視する眼差し"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "としとったお母さん",
         "startPage": 36,
-        "endPage": 0,
-        "summary": "老母への思い"
+        "endPage": 42
       },
       {
         "id": "chapter-10",
         "title": "炎の季節",
         "startPage": 43,
-        "endPage": 0,
-        "summary": "炎の季節の記憶"
+        "endPage": 51
       },
       {
         "id": "chapter-11",
         "title": "ちいさい子",
         "startPage": 52,
-        "endPage": 0,
-        "summary": "幼い子への鎮魂"
+        "endPage": 56
       },
       {
         "id": "chapter-12",
         "title": "墓標",
         "startPage": 57,
-        "endPage": 0,
-        "summary": "墓標に刻む祈り"
+        "endPage": 66
       },
       {
         "id": "chapter-13",
         "title": "影",
         "startPage": 67,
-        "endPage": 0,
-        "summary": "焼け跡に残る影"
+        "endPage": 70
       },
       {
         "id": "chapter-14",
         "title": "友",
         "startPage": 71,
-        "endPage": 0,
-        "summary": "亡き友への追悼"
+        "endPage": 73
       },
       {
         "id": "chapter-15",
         "title": "河のある風景",
         "startPage": 74,
-        "endPage": 0,
-        "summary": "河のある風景の詩"
+        "endPage": 76
       },
       {
         "id": "chapter-16",
         "title": "朝",
         "startPage": 77,
-        "endPage": 0,
-        "summary": "新たな朝への祈り"
+        "endPage": 79
       },
       {
         "id": "chapter-17",
         "title": "微笑",
         "startPage": 80,
-        "endPage": 0,
-        "summary": "微笑の記憶"
+        "endPage": 82
       },
       {
         "id": "chapter-18",
         "title": "一九五〇年の八月六日",
         "startPage": 83,
-        "endPage": 0,
-        "summary": "五年目の八月六日"
+        "endPage": 84
       },
       {
         "id": "chapter-19",
         "title": "夜",
         "startPage": 85,
-        "endPage": 0,
-        "summary": "夜の静寂と祈り"
+        "endPage": 93
       },
       {
         "id": "chapter-20",
         "title": "巷にて",
         "startPage": 94,
-        "endPage": 0,
-        "summary": "街頭の人々の声"
+        "endPage": 95
       },
       {
         "id": "chapter-21",
         "title": "ある婦人へ",
         "startPage": 96,
-        "endPage": 0,
-        "summary": "ある婦人への手紙"
+        "endPage": 99
       },
       {
         "id": "chapter-22",
         "title": "景観",
         "startPage": 100,
-        "endPage": 0,
-        "summary": "変貌した街の景観"
+        "endPage": 103
       },
       {
         "id": "chapter-23",
         "title": "呼びかけ",
         "startPage": 104,
-        "endPage": 0,
-        "summary": "平和への呼びかけ"
+        "endPage": 106
       },
       {
         "id": "chapter-24",
         "title": "その日はいつか",
         "startPage": 107,
-        "endPage": 0,
+        "endPage": 121,
         "sections": [
           {
             "id": "chapter-24-section-1",
             "number": "１",
             "startPage": 108,
-            "endPage": 108,
-            "summary": "記憶の呼び起こし"
+            "endPage": 108
           },
           {
             "id": "chapter-24-section-2",
             "number": "２",
             "startPage": 109,
-            "endPage": 110,
-            "summary": "怒りの声"
+            "endPage": 110
           },
           {
             "id": "chapter-24-section-3",
             "number": "３",
             "startPage": 111,
-            "endPage": 112,
-            "summary": "未来への誓い"
+            "endPage": 112
           },
           {
             "id": "chapter-24-section-4",
             "number": "４",
             "startPage": 113,
-            "endPage": 116,
-            "summary": "世界への訴え"
+            "endPage": 116
           },
           {
             "id": "chapter-24-section-5",
             "number": "５",
             "startPage": 117,
-            "endPage": 118,
-            "summary": "子供たちの明日"
+            "endPage": 118
           },
           {
             "id": "chapter-24-section-6",
             "number": "６",
             "startPage": 119,
-            "endPage": 0,
-            "summary": "平和の希求"
+            "endPage": 121
           }
-        ],
-        "summary": "平和の日への願い"
+        ]
       },
       {
         "id": "chapter-25",
         "title": "希い――「原爆の図」によせて――",
         "startPage": 122,
-        "endPage": 0,
-        "summary": "原爆の図への祈り"
+        "endPage": 124
       },
       {
         "id": "chapter-26",
         "title": "あとがき",
         "startPage": 125,
-        "endPage": 128,
-        "summary": "詩集のあとがき"
+        "endPage": 128
       }
     ],
     "totalPages": 128,

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "五月",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 7
       },
       {
         "id": "chapter-2",
         "title": "六月",
         "startPage": 8,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -155,7 +155,7 @@
             "id": "chapter-2-section-22",
             "number": "二十九日",
             "startPage": 13,
-            "endPage": 0
+            "endPage": 13
           }
         ]
       },
@@ -163,7 +163,7 @@
         "id": "chapter-3",
         "title": "七月",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-3-section-7",
             "number": "三十一日",
             "startPage": 16,
-            "endPage": 0
+            "endPage": 16
           }
         ]
       },
@@ -213,7 +213,7 @@
         "id": "chapter-4",
         "title": "八月",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 22,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -327,7 +327,7 @@
             "id": "chapter-4-section-19",
             "number": "二十九日",
             "startPage": 22,
-            "endPage": 0
+            "endPage": 22
           }
         ]
       },
@@ -341,7 +341,7 @@
         "id": "chapter-6",
         "title": "日記",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -396,7 +396,7 @@
       "七月",
       "八月",
       "九月",
-      ""
+      "日記"
     ]
   },
   "content": [

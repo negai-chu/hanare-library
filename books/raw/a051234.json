@@ -42,7 +42,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 336,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ゲテ魚好き"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "河豚",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "イイダコ",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -94,8 +94,7 @@
       "pageNumber": 8,
       "content": "ドンコ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

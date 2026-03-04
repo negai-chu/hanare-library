@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 199,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-1-section-7",
             "number": "その七　若い不能",
             "startPage": 174,
-            "endPage": 0
+            "endPage": 199
           }
         ]
       },
@@ -67,7 +67,7 @@
         "id": "chapter-2",
         "title": "第二章",
         "startPage": 200,
-        "endPage": 0,
+        "endPage": 425,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -115,7 +115,7 @@
             "id": "chapter-2-section-8",
             "number": "その八　生への狼狽",
             "startPage": 380,
-            "endPage": 0
+            "endPage": 425
           }
         ]
       },
@@ -123,7 +123,7 @@
         "id": "chapter-3",
         "title": "第三章",
         "startPage": 426,
-        "endPage": 0,
+        "endPage": 581,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -159,7 +159,7 @@
             "id": "chapter-3-section-6",
             "number": "その六　銃殺前後",
             "startPage": 555,
-            "endPage": 0
+            "endPage": 581
           }
         ]
       },

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "長い名",
         "startPage": 1,
-        "endPage": 6,
-        "summary": "長い名前の滑稽譚"
+        "endPage": 6
       }
     ],
     "totalPages": 6,
     "averageCharsPerPage": 440,
-    "chapterTitles": []
+    "chapterTitles": [
+      "長い名"
+    ]
   },
   "content": [
     {

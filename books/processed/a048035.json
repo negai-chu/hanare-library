@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "双《ならび》ヶ岡《おか》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 23,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 23
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "文《ふみ》の使《つか》い",
         "startPage": 24,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -61,7 +61,7 @@
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 38,
-            "endPage": 0
+            "endPage": 44
           }
         ]
       },
@@ -69,7 +69,7 @@
         "id": "chapter-3",
         "title": "小夜衣《さよごろも》",
         "startPage": 45,
-        "endPage": 0,
+        "endPage": 65,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -87,7 +87,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 59,
-            "endPage": 0
+            "endPage": 65
           }
         ]
       },
@@ -95,13 +95,13 @@
         "id": "chapter-4",
         "title": "木枯《こがらし》の夜《よる》",
         "startPage": 66,
-        "endPage": 0,
+        "endPage": 70,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 67,
-            "endPage": 0
+            "endPage": 70
           }
         ]
       },
@@ -109,7 +109,7 @@
         "id": "chapter-5",
         "title": "眇目の男",
         "startPage": 71,
-        "endPage": 0,
+        "endPage": 109,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -127,7 +127,7 @@
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 109
           }
         ]
       },
@@ -135,7 +135,7 @@
         "id": "chapter-6",
         "title": "不思議《ふしぎ》の旅《たび》",
         "startPage": 110,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -153,7 +153,7 @@
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 122,
-            "endPage": 0
+            "endPage": 129
           }
         ]
       },
@@ -161,7 +161,7 @@
         "id": "chapter-7",
         "title": "天主閣《てんしゅかく》",
         "startPage": 130,
-        "endPage": 0,
+        "endPage": 150,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -179,7 +179,7 @@
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 144,
-            "endPage": 0
+            "endPage": 150
           }
         ]
       },
@@ -187,7 +187,7 @@
         "id": "chapter-8",
         "title": "悪魔《あくま》の誓《ちか》い",
         "startPage": 151,
-        "endPage": 0,
+        "endPage": 171,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 165,
-            "endPage": 0
+            "endPage": 171
           }
         ]
       },

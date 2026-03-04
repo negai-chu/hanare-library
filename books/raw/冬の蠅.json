@@ -42,7 +42,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 451,
-    "chapterTitles": []
+    "chapterTitles": [
+      "冬の蠅"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "１",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -129,8 +130,7 @@
       "pageNumber": 14,
       "content": "２",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -184,8 +184,7 @@
       "pageNumber": 23,
       "content": "３",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

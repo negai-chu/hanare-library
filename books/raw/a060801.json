@@ -102,7 +102,9 @@
     ],
     "totalPages": 75,
     "averageCharsPerPage": 426,
-    "chapterTitles": []
+    "chapterTitles": [
+      "現代語訳　平家物語"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "首渡し",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 9,
       "content": "内裏の女房",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -208,8 +208,7 @@
       "pageNumber": 17,
       "content": "院宣請文《いんぜんうけぶみ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -239,8 +238,7 @@
       "pageNumber": 22,
       "content": "戒文《かいもん》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -270,8 +268,7 @@
       "pageNumber": 27,
       "content": "海道下り",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -295,8 +292,7 @@
       "pageNumber": 31,
       "content": "千手《せんじゅ》の前《まえ》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -344,8 +340,7 @@
       "pageNumber": 39,
       "content": "横笛《よこぶえ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -375,8 +370,7 @@
       "pageNumber": 44,
       "content": "高野",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -400,8 +394,7 @@
       "pageNumber": 48,
       "content": "維盛の出家",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -431,8 +424,7 @@
       "pageNumber": 53,
       "content": "熊野参詣",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -450,8 +442,7 @@
       "pageNumber": 56,
       "content": "維盛入水《じゅすい》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -481,8 +472,7 @@
       "pageNumber": 61,
       "content": "三日平氏",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -518,8 +508,7 @@
       "pageNumber": 67,
       "content": "藤戸《ふじと》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,

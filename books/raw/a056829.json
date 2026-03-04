@@ -42,7 +42,9 @@
     ],
     "totalPages": 10,
     "averageCharsPerPage": 238,
-    "chapterTitles": []
+    "chapterTitles": [
+      "旧友の死"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "志田文雄",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "友田恭助（その一）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -88,8 +88,7 @@
       "pageNumber": 7,
       "content": "友田恭助（その二）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

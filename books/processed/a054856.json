@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "俗法師考序論",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 15,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-1-section-5",
             "number": "５　結論",
             "startPage": 13,
-            "endPage": 0
+            "endPage": 15
           }
         ]
       },
@@ -55,13 +55,13 @@
         "id": "chapter-2",
         "title": "法師と坊主",
         "startPage": 16,
-        "endPage": 0
+        "endPage": 24
       },
       {
         "id": "chapter-3",
         "title": "声聞師《しょうもんじ》考",
         "startPage": 25,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-3-section-4",
             "number": "４　声聞師の職業とその起原",
             "startPage": 40,
-            "endPage": 0
+            "endPage": 44
           }
         ]
       },
@@ -93,7 +93,7 @@
         "id": "chapter-4",
         "title": "大和における唱門師の研究",
         "startPage": 45,
-        "endPage": 0,
+        "endPage": 103,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -147,7 +147,7 @@
             "id": "chapter-4-section-9",
             "number": "９　結論",
             "startPage": 101,
-            "endPage": 0
+            "endPage": 103
           }
         ]
       },
@@ -155,7 +155,7 @@
         "id": "chapter-5",
         "title": "散所法師考",
         "startPage": 104,
-        "endPage": 0,
+        "endPage": 140,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -191,7 +191,7 @@
             "id": "chapter-5-section-6",
             "number": "６　散所法師と声聞師",
             "startPage": 129,
-            "endPage": 0
+            "endPage": 140
           }
         ]
       },

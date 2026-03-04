@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "京都日記",
         "startPage": 1,
-        "endPage": 9,
-        "summary": "京都の寺社めぐり"
+        "endPage": 9
       }
     ],
     "totalPages": 9,
     "averageCharsPerPage": 525,
-    "chapterTitles": []
+    "chapterTitles": [
+      "京都日記"
+    ]
   },
   "content": [
     {

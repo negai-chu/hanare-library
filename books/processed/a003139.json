@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "“子供の本”について",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "子供の本への注文"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 260,
-    "chapterTitles": []
+    "chapterTitles": [
+      "“子供の本”について"
+    ]
   },
   "content": [
     {

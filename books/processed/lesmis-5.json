@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一編　市街戦",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 160,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -161,7 +161,7 @@
             "id": "chapter-1-section-24",
             "number": "二十四　捕虜",
             "startPage": 155,
-            "endPage": 0
+            "endPage": 160
           }
         ]
       },
@@ -169,7 +169,7 @@
         "id": "chapter-2",
         "title": "第二編　怪物の腸",
         "startPage": 161,
-        "endPage": 0,
+        "endPage": 196,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-2-section-6",
             "number": "六　将来の進歩",
             "startPage": 188,
-            "endPage": 0
+            "endPage": 196
           }
         ]
       },
@@ -213,7 +213,7 @@
         "id": "chapter-3",
         "title": "第三編　泥土《でいど》にして霊",
         "startPage": 197,
-        "endPage": 0,
+        "endPage": 273,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -285,7 +285,7 @@
             "id": "chapter-3-section-12",
             "number": "十二　祖父",
             "startPage": 264,
-            "endPage": 0
+            "endPage": 273
           }
         ]
       },
@@ -293,13 +293,13 @@
         "id": "chapter-4",
         "title": "第四編　ジャヴェルの変調",
         "startPage": 274,
-        "endPage": 0
+        "endPage": 295
       },
       {
         "id": "chapter-5",
         "title": "第五編　孫と祖父",
         "startPage": 296,
-        "endPage": 0,
+        "endPage": 357,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -355,7 +355,7 @@
         "id": "chapter-6",
         "title": "第六編　不眠の夜",
         "startPage": 358,
-        "endPage": 0,
+        "endPage": 410,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -387,7 +387,7 @@
         "id": "chapter-7",
         "title": "第七編　苦杯の最後の一口",
         "startPage": 411,
-        "endPage": 0,
+        "endPage": 460,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -399,7 +399,7 @@
             "id": "chapter-7-section-2",
             "number": "二　語られし秘密の中の影",
             "startPage": 445,
-            "endPage": 0
+            "endPage": 460
           }
         ]
       },
@@ -407,7 +407,7 @@
         "id": "chapter-8",
         "title": "第八編　消えゆく光",
         "startPage": 461,
-        "endPage": 0,
+        "endPage": 489,
         "sections": [
           {
             "id": "chapter-8-section-1",

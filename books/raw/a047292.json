@@ -90,7 +90,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 418,
-    "chapterTitles": []
+    "chapterTitles": [
+      "和算の社会的・芸術的特性について"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 2,
       "content": "〈一　和算とは〉",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 4,
       "content": "〈二　和算から洋算へ〉",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -142,8 +142,7 @@
       "pageNumber": 8,
       "content": "〈三　和算の起こり〉",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -161,8 +160,7 @@
       "pageNumber": 11,
       "content": "〈四　『改算記』と『算法闕疑抄』〉",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -186,8 +184,7 @@
       "pageNumber": 15,
       "content": "〈五　『古今算法記』〉",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -199,8 +196,7 @@
       "pageNumber": 17,
       "content": "〈六　関孝和の業績〉",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -212,8 +208,7 @@
       "pageNumber": 19,
       "content": "〈七　建部賢弘の帰納法〉",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -231,8 +226,7 @@
       "pageNumber": 22,
       "content": "〈八　秘伝の公開〉",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -256,8 +250,7 @@
       "pageNumber": 26,
       "content": "〈九　和算の教授〉",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -281,8 +274,7 @@
       "pageNumber": 30,
       "content": "〈十　和算と芸術〉",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -300,8 +292,7 @@
       "pageNumber": 33,
       "content": "〈十一　和算と社会〉",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,

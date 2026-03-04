@@ -42,7 +42,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 414,
-    "chapterTitles": []
+    "chapterTitles": [
+      "二つの序文"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "その一、戦争中の序文　　昭和十九年一月記",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -105,8 +106,7 @@
       "pageNumber": 10,
       "content": "その二、敗戦後の序文　　昭和二十一年五月記",
       "characters": 21,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -142,8 +142,7 @@
       "pageNumber": 16,
       "content": "附記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

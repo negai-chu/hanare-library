@@ -72,7 +72,9 @@
     ],
     "totalPages": 112,
     "averageCharsPerPage": 547,
-    "chapterTitles": []
+    "chapterTitles": [
+      "妖怪学"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "序言",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 4,
       "content": "第一章　総論",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -190,8 +190,7 @@
       "pageNumber": 19,
       "content": "狐狗狸のこと",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -287,8 +286,7 @@
       "pageNumber": 35,
       "content": "棒寄せの秘術ならびに妖怪を招く法",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -318,8 +316,7 @@
       "pageNumber": 40,
       "content": "秘法彙集ならびにその説明",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -469,8 +466,7 @@
       "pageNumber": 65,
       "content": "心理療法",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -530,8 +526,7 @@
       "pageNumber": 75,
       "content": "夢想論",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -633,8 +628,7 @@
       "pageNumber": 92,
       "content": "偶合論",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,

@@ -78,7 +78,9 @@
     ],
     "totalPages": 35,
     "averageCharsPerPage": 286,
-    "chapterTitles": []
+    "chapterTitles": [
+      "幽霊屋敷の殺人"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "謎の白堊館",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 5,
       "content": "松川理学士現わる",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -130,8 +130,7 @@
       "pageNumber": 8,
       "content": "殺された原因！",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -149,8 +148,7 @@
       "pageNumber": 11,
       "content": "これだ　黒い羽根",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -168,8 +166,7 @@
       "pageNumber": 14,
       "content": "皇国の興廃此一戦",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -199,8 +196,7 @@
       "pageNumber": 19,
       "content": "謎の文字の苦心",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -224,8 +220,7 @@
       "pageNumber": 23,
       "content": "白い布で包んだ荷物",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -249,8 +244,7 @@
       "pageNumber": 27,
       "content": "白堊館の夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -274,8 +268,7 @@
       "pageNumber": 31,
       "content": "あッ　白い幽霊",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,

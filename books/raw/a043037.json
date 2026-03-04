@@ -114,7 +114,9 @@
     ],
     "totalPages": 54,
     "averageCharsPerPage": 388,
-    "chapterTitles": []
+    "chapterTitles": [
+      "あたらしい憲法のはなし"
+    ]
   },
   "content": [
     {
@@ -128,8 +130,7 @@
       "pageNumber": 2,
       "content": "一　憲法",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 7,
       "content": "二　民主主義とは",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -184,8 +184,7 @@
       "pageNumber": 11,
       "content": "三　國際平和主義",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -197,8 +196,7 @@
       "pageNumber": 13,
       "content": "四　主権在民主義",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -216,8 +214,7 @@
       "pageNumber": 16,
       "content": "五　天皇陛下",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -235,8 +232,7 @@
       "pageNumber": 19,
       "content": "六　戰爭の放棄",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -254,8 +250,7 @@
       "pageNumber": 22,
       "content": "七　基本的人権",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -279,8 +274,7 @@
       "pageNumber": 26,
       "content": "八　國会",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -334,8 +328,7 @@
       "pageNumber": 35,
       "content": "九　政党",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -359,8 +352,7 @@
       "pageNumber": 39,
       "content": "十　内閣",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -384,8 +376,7 @@
       "pageNumber": 43,
       "content": "十一　司法",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -403,8 +394,7 @@
       "pageNumber": 46,
       "content": "十二　財政",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -416,8 +406,7 @@
       "pageNumber": 48,
       "content": "十三　地方自治",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -435,8 +424,7 @@
       "pageNumber": 51,
       "content": "十四　改正",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -448,8 +436,7 @@
       "pageNumber": 53,
       "content": "十五　最高法規",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 447,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ある日の蓮月尼"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "第一景",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 8,
       "content": "第二景",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "第三景",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -209,8 +208,7 @@
       "pageNumber": 26,
       "content": "第四景",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,

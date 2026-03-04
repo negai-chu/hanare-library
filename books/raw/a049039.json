@@ -66,7 +66,9 @@
     ],
     "totalPages": 87,
     "averageCharsPerPage": 127,
-    "chapterTitles": []
+    "chapterTitles": [
+      "赤い旗"
+    ]
   },
   "content": [
     {
@@ -194,8 +196,7 @@
       "pageNumber": 21,
       "content": "メーデーごつこ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -237,8 +238,7 @@
       "pageNumber": 28,
       "content": "おきあがりこぼし",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -280,8 +280,7 @@
       "pageNumber": 35,
       "content": "とるとるづくし",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -353,8 +352,7 @@
       "pageNumber": 47,
       "content": "へちま",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -396,8 +394,7 @@
       "pageNumber": 54,
       "content": "とんとん・とびつこ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -439,8 +436,7 @@
       "pageNumber": 61,
       "content": "わんわん",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -452,8 +448,7 @@
       "pageNumber": 63,
       "content": "わんわん",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -465,8 +460,7 @@
       "pageNumber": 65,
       "content": "わんわん",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -478,15 +472,13 @@
       "pageNumber": 67,
       "content": "おんまコツコ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
       "content": "おんまコツコ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -498,8 +490,7 @@
       "pageNumber": 70,
       "content": "おんまコツコ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,

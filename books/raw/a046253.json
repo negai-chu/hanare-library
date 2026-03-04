@@ -30,7 +30,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 471,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 3,
       "content": "一月二日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,

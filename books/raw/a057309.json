@@ -30,7 +30,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 507,
-    "chapterTitles": []
+    "chapterTitles": [
+      "天地創造の話"
+    ]
   },
   "content": [
     {
@@ -122,8 +124,7 @@
       "pageNumber": 15,
       "content": "附記",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

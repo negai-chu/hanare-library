@@ -42,7 +42,9 @@
     ],
     "totalPages": 10,
     "averageCharsPerPage": 341,
-    "chapterTitles": []
+    "chapterTitles": [
+      "父兄の方々に"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "竹取物語に就いて",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "今昔物語に就いて",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -94,8 +94,7 @@
       "pageNumber": 8,
       "content": "謠曲に就いて",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

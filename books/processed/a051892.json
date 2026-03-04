@@ -17,32 +17,34 @@
         "id": "chapter-1",
         "title": "寒い夜の自我像",
         "startPage": 1,
-        "endPage": 9,
+        "endPage": 6,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 5,
-            "endPage": 6
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
-            "startPage": 7,
-            "endPage": 9
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 9,
-    "averageCharsPerPage": 67,
-    "chapterTitles": []
+    "totalPages": 6,
+    "averageCharsPerPage": 102,
+    "chapterTitles": [
+      "寒い夜の自我像"
+    ]
   },
   "content": [
     {
@@ -54,51 +56,30 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　１\n\n　きらびやかでもないけれど、\n\nこの一本の手綱をはなさず\n\nこの陰暗の地域をすぎる！\n\nその志明かなれば\n\n冬の夜を、われは嘆かず、\n\n人々の憔燥のみの悲しみや\n\n憧れに引廻される女等の鼻唄を、\n\n我が瑣細なる罰と感じ\n\nそが、わが皮膚を刺すにまかす。",
+      "characters": 130,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　きらびやかでもないけれど、\n\nこの一本の手綱をはなさず\n\nこの陰暗の地域をすぎる！\n\nその志明かなれば\n\n冬の夜を、われは嘆かず、\n\n人々の憔燥のみの悲しみや\n\n憧れに引廻される女等の鼻唄を、\n\n我が瑣細なる罰と感じ\n\nそが、わが皮膚を刺すにまかす。",
-      "characters": 126,
+      "content": "蹌踉めくままに静もりを保ち、\n\n聊か儀文めいた心地をもつて\n\nわれはわが怠惰を諫める、\n\n寒月の下をゆきながら、\n\n陽気で坦々として、しかも己を売らないことをと、\n\nわが魂の願ふことであつた！……２",
+      "characters": 99,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "蹌踉めくままに静もりを保ち、\n\n聊か儀文めいた心地をもつて\n\nわれはわが怠惰を諫める、\n\n寒月の下をゆきながら、\n\n陽気で坦々として、しかも己を売らないことをと、\n\nわが魂の願ふことであつた！……",
-      "characters": 98,
+      "content": "恋人よ、その哀しげな歌をやめてよ、\n\nおまへの魂がいらいらするので、\n\nそんな歌をうたひだすのだ。\n\nしかもおまへはわがままに\n\n親しい人だと歌つてきかせる。\n\nああ、それは不可ないことだ！\n\n降りくる悲しみを少しもうけとめないで、\n\n安易で架空な有頂天を幸福と感じ做し\n\n自分を売る店を探して走り廻るとは、なんと悲しく悲しいことだ……３",
+      "characters": 169,
       "ruby": []
     },
     {
       "pageNumber": 5,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
-      "content": "恋人よ、その哀しげな歌をやめてよ、\n\nおまへの魂がいらいらするので、\n\nそんな歌をうたひだすのだ。\n\nしかもおまへはわがままに\n\n親しい人だと歌つてきかせる。\n\nああ、それは不可ないことだ！\n\n降りくる悲しみを少しもうけとめないで、\n\n安易で架空な有頂天を幸福と感じ做し\n\n自分を売る店を探して走り廻るとは、なんと悲しく悲しいことだ……",
-      "characters": 168,
-      "ruby": []
-    },
-    {
-      "pageNumber": 7,
-      "content": "３",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 8,
       "content": "神よ私をお憐み下さい！\n\n　私は弱いので、\n\n　悲しみに出遇ふごとに自分が支へきれずに、\n\n　生活を言葉に換へてしまひます。\n\n　そして堅くなりすぎるか\n\n　自堕落になりすぎるかしなければ、\n\n　自分を保つすべがないやうな破目になります。\n\n神よ私をお憐れみ下さい！\n\nこの私の弱い骨を、暖いトレモロで満たして下さい。",
       "characters": 159,
       "ruby": []
     },
     {
-      "pageNumber": 9,
+      "pageNumber": 6,
       "content": "ああ神よ、私が先づ、自分自身であれるやう\n\n日光と仕事とをお与へ下さい！\n\n（一九二九・一・二〇）",
       "characters": 49,
       "ruby": []

@@ -48,7 +48,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 286,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ホオムズの探偵法"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　書斎の中のホームズ",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "二　ホームズの性格",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -94,8 +94,7 @@
       "pageNumber": 7,
       "content": "三　ホームズの探偵法",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -113,8 +112,7 @@
       "pageNumber": 10,
       "content": "四　ホームズのマンネリズム",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

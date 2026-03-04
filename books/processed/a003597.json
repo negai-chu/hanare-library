@@ -17,36 +17,31 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "新版への序"
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "〔旧版〕『現代のための哲学』序",
         "startPage": 7,
-        "endPage": 0,
-        "summary": "旧版の序文"
+        "endPage": 9
       },
       {
         "id": "chapter-3",
         "title": "第一篇",
         "startPage": 10,
-        "endPage": 0,
-        "summary": "哲学の基礎"
+        "endPage": 11
       },
       {
         "id": "chapter-4",
         "title": "第二篇",
         "startPage": 12,
-        "endPage": 0,
-        "summary": "認識の問題"
+        "endPage": 13
       },
       {
         "id": "chapter-5",
         "title": "第三篇",
         "startPage": 14,
-        "endPage": 0,
-        "summary": "科学と哲学"
+        "endPage": 15
       },
       {
         "id": "chapter-6",
@@ -78,8 +73,7 @@
             "startPage": 484,
             "endPage": 497
           }
-        ],
-        "summary": "現代への展望"
+        ]
       }
     ],
     "totalPages": 497,

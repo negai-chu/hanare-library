@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "木綿以前の事",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-2-section-7",
             "number": "七",
             "startPage": 16,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -73,7 +73,7 @@
         "id": "chapter-3",
         "title": "何を着ていたか",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -115,7 +115,7 @@
             "id": "chapter-3-section-7",
             "number": "七",
             "startPage": 31,
-            "endPage": 0
+            "endPage": 34
           }
         ]
       },
@@ -123,7 +123,7 @@
         "id": "chapter-4",
         "title": "昔風と当世風",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 60,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -165,7 +165,7 @@
             "id": "chapter-4-section-7",
             "number": "七",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 60
           }
         ]
       },
@@ -173,7 +173,7 @@
         "id": "chapter-5",
         "title": "働く人の着物",
         "startPage": 61,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -205,7 +205,7 @@
         "id": "chapter-6",
         "title": "国民服の問題",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 78,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -223,7 +223,7 @@
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 75,
-            "endPage": 0
+            "endPage": 78
           }
         ]
       },
@@ -231,7 +231,7 @@
         "id": "chapter-7",
         "title": "団子と昔話",
         "startPage": 79,
-        "endPage": 0,
+        "endPage": 91,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -279,7 +279,7 @@
             "id": "chapter-7-section-8",
             "number": "八",
             "startPage": 90,
-            "endPage": 0
+            "endPage": 91
           }
         ]
       },
@@ -287,7 +287,7 @@
         "id": "chapter-8",
         "title": "餅と臼と擂鉢",
         "startPage": 92,
-        "endPage": 0,
+        "endPage": 133,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -335,7 +335,7 @@
             "id": "chapter-8-section-8",
             "number": "八",
             "startPage": 130,
-            "endPage": 0
+            "endPage": 133
           }
         ]
       },
@@ -343,13 +343,13 @@
         "id": "chapter-9",
         "title": "家の光",
         "startPage": 134,
-        "endPage": 0
+        "endPage": 138
       },
       {
         "id": "chapter-10",
         "title": "囲炉俚談",
         "startPage": 139,
-        "endPage": 0,
+        "endPage": 152,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -391,7 +391,7 @@
             "id": "chapter-10-section-7",
             "number": "七",
             "startPage": 149,
-            "endPage": 0
+            "endPage": 152
           }
         ]
       },
@@ -399,7 +399,7 @@
         "id": "chapter-11",
         "title": "火吹竹のことなど",
         "startPage": 153,
-        "endPage": 0,
+        "endPage": 164,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -431,13 +431,13 @@
         "id": "chapter-12",
         "title": "女と煙草",
         "startPage": 165,
-        "endPage": 0
+        "endPage": 171
       },
       {
         "id": "chapter-13",
         "title": "酒の飲みようの変遷",
         "startPage": 172,
-        "endPage": 0,
+        "endPage": 186,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -467,7 +467,7 @@
             "id": "chapter-13-section-5",
             "number": "五",
             "startPage": 184,
-            "endPage": 0
+            "endPage": 186
           }
         ]
       },
@@ -475,7 +475,7 @@
         "id": "chapter-14",
         "title": "凡人文芸",
         "startPage": 187,
-        "endPage": 0,
+        "endPage": 196,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -507,13 +507,13 @@
         "id": "chapter-15",
         "title": "古宇利島の物語",
         "startPage": 197,
-        "endPage": 0
+        "endPage": 205
       },
       {
         "id": "chapter-16",
         "title": "遊行女婦のこと",
         "startPage": 206,
-        "endPage": 0,
+        "endPage": 226,
         "sections": [
           {
             "id": "chapter-16-section-1",
@@ -557,7 +557,7 @@
         "id": "chapter-17",
         "title": "寡婦と農業",
         "startPage": 227,
-        "endPage": 0,
+        "endPage": 259,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -613,7 +613,7 @@
         "id": "chapter-18",
         "title": "山伏と島流し",
         "startPage": 260,
-        "endPage": 0,
+        "endPage": 281,
         "sections": [
           {
             "id": "chapter-18-section-1",
@@ -643,7 +643,7 @@
             "id": "chapter-18-section-5",
             "number": "五",
             "startPage": 276,
-            "endPage": 0
+            "endPage": 281
           }
         ]
       },
@@ -651,7 +651,7 @@
         "id": "chapter-19",
         "title": "生活の俳諧",
         "startPage": 282,
-        "endPage": 0,
+        "endPage": 319,
         "sections": [
           {
             "id": "chapter-19-section-1",
@@ -717,7 +717,7 @@
             "id": "chapter-19-section-11",
             "number": "一一",
             "startPage": 313,
-            "endPage": 0
+            "endPage": 319
           }
         ]
       },

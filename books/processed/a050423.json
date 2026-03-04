@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "一　自ら疑ふ",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 18
       },
       {
         "id": "chapter-3",
         "title": "二　散歩の途上",
         "startPage": 19,
-        "endPage": 0,
+        "endPage": 27,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -65,7 +65,7 @@
             "id": "chapter-3-section-6",
             "number": "６",
             "startPage": 26,
-            "endPage": 0
+            "endPage": 27
           }
         ]
       },
@@ -73,7 +73,7 @@
         "id": "chapter-4",
         "title": "三　去年の日記から",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-4-section-22",
             "number": "22",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 42
           }
         ]
       },
@@ -213,7 +213,7 @@
         "id": "chapter-5",
         "title": "四　日常些事",
         "startPage": 43,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -243,7 +243,7 @@
             "id": "chapter-5-section-5",
             "number": "５",
             "startPage": 49,
-            "endPage": 0
+            "endPage": 50
           }
         ]
       },
@@ -251,13 +251,13 @@
         "id": "chapter-6",
         "title": "五　懊惱",
         "startPage": 455,
-        "endPage": 0
+        "endPage": 530
       },
       {
         "id": "chapter-7",
         "title": "六　“Ivan's Nightmare”\r\n　　　　　　　　　　（メフイストの言葉）",
         "startPage": 205,
-        "endPage": 0,
+        "endPage": 258,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -287,7 +287,7 @@
             "id": "chapter-7-section-5",
             "number": "５",
             "startPage": 222,
-            "endPage": 0
+            "endPage": 258
           }
         ]
       },
@@ -295,7 +295,7 @@
         "id": "chapter-8",
         "title": "七　病床の傍にて",
         "startPage": 259,
-        "endPage": 0,
+        "endPage": 265,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -343,7 +343,7 @@
             "id": "chapter-8-section-8",
             "number": "８",
             "startPage": 265,
-            "endPage": 0
+            "endPage": 265
           }
         ]
       },
@@ -351,7 +351,7 @@
         "id": "chapter-9",
         "title": "八　二つの途",
         "startPage": 266,
-        "endPage": 0,
+        "endPage": 289,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -381,7 +381,7 @@
             "id": "chapter-9-section-5",
             "number": "５",
             "startPage": 286,
-            "endPage": 0
+            "endPage": 289
           }
         ]
       },
@@ -389,7 +389,7 @@
         "id": "chapter-10",
         "title": "九　藝術のための藝術と人生のための藝術",
         "startPage": 290,
-        "endPage": 0,
+        "endPage": 304,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -443,7 +443,7 @@
             "id": "chapter-10-section-9",
             "number": "９",
             "startPage": 302,
-            "endPage": 0
+            "endPage": 304
           }
         ]
       },
@@ -451,7 +451,7 @@
         "id": "chapter-11",
         "title": "十　不一致の要求",
         "startPage": 305,
-        "endPage": 0,
+        "endPage": 315,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -475,7 +475,7 @@
             "id": "chapter-11-section-4",
             "number": "４",
             "startPage": 311,
-            "endPage": 0
+            "endPage": 315
           }
         ]
       },
@@ -529,7 +529,7 @@
         "id": "chapter-14",
         "title": "十三　夏目先生のこと",
         "startPage": 531,
-        "endPage": 0
+        "endPage": 539
       },
       {
         "id": "chapter-15",
@@ -561,7 +561,7 @@
         "id": "chapter-16",
         "title": "十五　思想上の民族主義",
         "startPage": 546,
-        "endPage": 0,
+        "endPage": 567,
         "sections": [
           {
             "id": "chapter-16-section-1",
@@ -603,7 +603,7 @@
             "id": "chapter-16-section-7",
             "number": "７",
             "startPage": 566,
-            "endPage": 0
+            "endPage": 567
           }
         ]
       },
@@ -611,7 +611,7 @@
         "id": "chapter-17",
         "title": "十六　奉仕と服從",
         "startPage": 367,
-        "endPage": 0,
+        "endPage": 408,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -671,7 +671,7 @@
             "id": "chapter-17-section-10",
             "number": "10",
             "startPage": 191,
-            "endPage": 0
+            "endPage": 408
           }
         ]
       },

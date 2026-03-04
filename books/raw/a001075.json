@@ -36,7 +36,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 479,
-    "chapterTitles": []
+    "chapterTitles": [
+      "狂人は笑う"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "青ネクタイ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 10,
       "content": "崑崙茶《こんろんちゃ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

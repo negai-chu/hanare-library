@@ -66,7 +66,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 576,
-    "chapterTitles": []
+    "chapterTitles": [
+      "花ごもり"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "其一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 4,
       "content": "其二",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -118,8 +118,7 @@
       "pageNumber": 8,
       "content": "其三",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -131,8 +130,7 @@
       "pageNumber": 10,
       "content": "其四",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -156,8 +154,7 @@
       "pageNumber": 14,
       "content": "其五",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -181,8 +178,7 @@
       "pageNumber": 18,
       "content": "其六",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -200,8 +196,7 @@
       "pageNumber": 21,
       "content": "其七",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

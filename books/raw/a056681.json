@@ -222,7 +222,9 @@
     ],
     "totalPages": 183,
     "averageCharsPerPage": 430,
-    "chapterTitles": []
+    "chapterTitles": [
+      "妖人ゴング"
+    ]
   },
   "content": [
     {
@@ -236,8 +238,7 @@
       "pageNumber": 2,
       "content": "おねえさま",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -261,8 +262,7 @@
       "pageNumber": 6,
       "content": "巨人のかげ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -292,8 +292,7 @@
       "pageNumber": 11,
       "content": "悪魔の笑い声",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -329,8 +328,7 @@
       "pageNumber": 17,
       "content": "大空の怪物",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -366,8 +364,7 @@
       "pageNumber": 23,
       "content": "水中の悪魔",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -409,8 +406,7 @@
       "pageNumber": 30,
       "content": "電話の声",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -446,8 +442,7 @@
       "pageNumber": 36,
       "content": "黒い怪物",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -471,8 +466,7 @@
       "pageNumber": 40,
       "content": "クモの糸",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -508,8 +502,7 @@
       "pageNumber": 46,
       "content": "大トランクの出発",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -545,8 +538,7 @@
       "pageNumber": 52,
       "content": "水の底",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -570,8 +562,7 @@
       "pageNumber": 56,
       "content": "トランクの中",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -595,8 +586,7 @@
       "pageNumber": 60,
       "content": "ふしぎな家",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -626,8 +616,7 @@
       "pageNumber": 65,
       "content": "巨人の顔",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -651,8 +640,7 @@
       "pageNumber": 69,
       "content": "俊一君の危難",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -688,8 +676,7 @@
       "pageNumber": 75,
       "content": "少年人形",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -731,8 +718,7 @@
       "pageNumber": 82,
       "content": "白いライオン",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -768,8 +754,7 @@
       "pageNumber": 88,
       "content": "赤いトンガリ帽",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,
@@ -787,8 +772,7 @@
       "pageNumber": 91,
       "content": "鉄のかんおけ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -824,8 +808,7 @@
       "pageNumber": 97,
       "content": "生か死か",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -885,8 +868,7 @@
       "pageNumber": 107,
       "content": "水底の秘密",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -928,8 +910,7 @@
       "pageNumber": 114,
       "content": "ゴングとは何者",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 115,
@@ -953,8 +934,7 @@
       "pageNumber": 118,
       "content": "ふたりの老人",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -996,8 +976,7 @@
       "pageNumber": 125,
       "content": "二挺《ちょう》のピストル",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 126,
@@ -1021,8 +1000,7 @@
       "pageNumber": 129,
       "content": "名探偵の奥の手",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 130,
@@ -1052,8 +1030,7 @@
       "pageNumber": 134,
       "content": "さいごの手段",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 135,
@@ -1089,8 +1066,7 @@
       "pageNumber": 140,
       "content": "地底の声",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1114,8 +1090,7 @@
       "pageNumber": 144,
       "content": "防空壕の中",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1151,8 +1126,7 @@
       "pageNumber": 150,
       "content": "五ひきのネズミ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1182,8 +1156,7 @@
       "pageNumber": 155,
       "content": "水中のゴング",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1207,8 +1180,7 @@
       "pageNumber": 159,
       "content": "地上と地下",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 160,
@@ -1244,8 +1216,7 @@
       "pageNumber": 165,
       "content": "穴の上から",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,
@@ -1275,8 +1246,7 @@
       "pageNumber": 170,
       "content": "ゴングの秘密",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 171,
@@ -1318,8 +1288,7 @@
       "pageNumber": 177,
       "content": "少年探偵団ばんざい",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 178,

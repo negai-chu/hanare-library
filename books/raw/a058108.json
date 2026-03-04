@@ -54,7 +54,9 @@
     ],
     "totalPages": 23,
     "averageCharsPerPage": 359,
-    "chapterTitles": []
+    "chapterTitles": [
+      "選挙人に与う"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "一　〔選挙の歩み〕",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 7,
       "content": "二　〔選挙と地方利益〕",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -130,8 +130,7 @@
       "pageNumber": 12,
       "content": "三　〔棄権の増加と政界の腐敗〕",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -155,8 +154,7 @@
       "pageNumber": 16,
       "content": "四　〔選挙の弊と国民の政治思想〕",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -186,8 +184,7 @@
       "pageNumber": 21,
       "content": "五　〔為政者の手腕と国民の覚醒〕",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

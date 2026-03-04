@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "玩具箱",
         "startPage": 1,
-        "endPage": 5,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "朝",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "夕",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 5,
-    "averageCharsPerPage": 38,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 64,
+    "chapterTitles": [
+      "玩具箱"
+    ]
   },
   "content": [
     {
@@ -48,26 +50,12 @@
     },
     {
       "pageNumber": 2,
-      "content": "朝",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 3,
-      "content": "　青い服をきた獵人が、\n\n釣竿のやうなてつぽうをかついで、\n\nわん、つう、わん、つう、\n\nこのへんにそつくりかへつた主人のうしろから、\n\n木製のしなびきつた犬が、\n\n尻尾のさきをひよこつかせ、\n\nわん、つう、わん、つう。",
-      "characters": 110,
+      "content": "　朝\n\n青い服をきた獵人が、\n\n釣竿のやうなてつぽうをかついで、\n\nわん、つう、わん、つう、\n\nこのへんにそつくりかへつた主人のうしろから、\n\n木製のしなびきつた犬が、\n\n尻尾のさきをひよこつかせ、\n\nわん、つう、わん、つう。夕",
+      "characters": 114,
       "ruby": []
     },
     {
-      "pageNumber": 4,
-      "content": "夕",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
+      "pageNumber": 3,
       "content": "さむしい Hotel の臺所で、\n\nのすたるぢやのメリイが泣いて居る、\n\nほんのり光る玉菜のかげから、\n\nぜんまい仕かけで、\n\n鼠がひよつくり顏を出した。",
       "characters": 77,
       "ruby": []

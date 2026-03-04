@@ -60,7 +60,9 @@
     ],
     "totalPages": 33,
     "averageCharsPerPage": 372,
-    "chapterTitles": []
+    "chapterTitles": [
+      "怪夢"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "工場",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 9,
       "content": "空中",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -160,8 +160,7 @@
       "pageNumber": 16,
       "content": "街路",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -185,8 +184,7 @@
       "pageNumber": 20,
       "content": "病院",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -222,8 +220,7 @@
       "pageNumber": 26,
       "content": "七本の海藻",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -253,8 +250,7 @@
       "pageNumber": 31,
       "content": "硝子世界",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,

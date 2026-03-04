@@ -36,7 +36,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 206,
-    "chapterTitles": []
+    "chapterTitles": [
+      "やまなし"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 3,
       "content": "一、五月",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -99,8 +100,7 @@
       "pageNumber": 10,
       "content": "二、十二月",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

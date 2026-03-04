@@ -90,7 +90,9 @@
     ],
     "totalPages": 115,
     "averageCharsPerPage": 131,
-    "chapterTitles": []
+    "chapterTitles": [
+      "草木塔"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 3,
       "content": "鉢の子",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -189,8 +190,7 @@
       "pageNumber": 16,
       "content": "其中一人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -232,8 +232,7 @@
       "pageNumber": 23,
       "content": "行乞途上",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -275,8 +274,7 @@
       "pageNumber": 30,
       "content": "山行水行",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -360,8 +358,7 @@
       "pageNumber": 44,
       "content": "旅から旅へ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -409,8 +406,7 @@
       "pageNumber": 52,
       "content": "雑草風景",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -476,8 +472,7 @@
       "pageNumber": 63,
       "content": "柿の葉",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -591,8 +586,7 @@
       "pageNumber": 82,
       "content": "銃後",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -622,8 +616,7 @@
       "pageNumber": 87,
       "content": "孤寒",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -671,8 +664,7 @@
       "pageNumber": 95,
       "content": "旅心",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 96,
@@ -720,8 +712,7 @@
       "pageNumber": 103,
       "content": "鴉",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,

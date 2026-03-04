@@ -36,7 +36,9 @@
     ],
     "totalPages": 14,
     "averageCharsPerPage": 407,
-    "chapterTitles": []
+    "chapterTitles": [
+      "列強環視の中心に在る日本"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一　文明はすべて調和なり",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 10,
       "content": "二　我が国民は平和を愛す",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

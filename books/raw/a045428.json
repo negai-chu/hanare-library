@@ -36,7 +36,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 537,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小川の流れ"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -183,8 +184,7 @@
       "pageNumber": 24,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,

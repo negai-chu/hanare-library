@@ -17,20 +17,22 @@
         "id": "chapter-1",
         "title": "夏の夜の博覧会はかなしからずや",
         "startPage": 1,
-        "endPage": 6,
+        "endPage": 5,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "２",
-            "startPage": 4,
-            "endPage": 6
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 6,
-    "averageCharsPerPage": 77,
-    "chapterTitles": []
+    "totalPages": 5,
+    "averageCharsPerPage": 93,
+    "chapterTitles": [
+      "夏の夜の博覧会はかなしからずや"
+    ]
   },
   "content": [
     {
@@ -48,25 +50,18 @@
     },
     {
       "pageNumber": 3,
-      "content": "髪毛風に吹かれつ\n\n見てありぬ、見てありぬ、\n\nそれより手を引きて歩きて\n\n広小路に出でぬ、かなしからずや\n\n広小路にて玩具を買ひぬ、兎の玩具かなしからずや",
-      "characters": 78,
+      "content": "髪毛風に吹かれつ\n\n見てありぬ、見てありぬ、\n\nそれより手を引きて歩きて\n\n広小路に出でぬ、かなしからずや\n\n広小路にて玩具を買ひぬ、兎の玩具かなしからずや２",
+      "characters": 79,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
       "content": "その日博覧会に入りしばかりの刻は\n\nなほ明るく、昼の明《あかり》ありぬ、\n\nわれら三人《みたり》飛行機にのりぬ\n\n例の廻旋する飛行機にのりぬ\n\n飛行機の夕空にめぐれば、\n\n四囲の燈光また夕空にめぐりぬ\n\n夕空は、紺青の色なりき\n\n燈光は、貝釦の色なりき\n\nその時よ、坊や見てありぬ",
       "characters": 140,
       "ruby": []
     },
     {
-      "pageNumber": 6,
+      "pageNumber": 5,
       "content": "その時よ、めぐる釦を\n\nその時よ、坊やみてありぬ\n\nその時よ、紺青の空！\n\n（一九三六・一二・二四）",
       "characters": 50,
       "ruby": []

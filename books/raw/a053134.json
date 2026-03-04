@@ -30,7 +30,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 524,
-    "chapterTitles": []
+    "chapterTitles": [
+      "般若の面"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 8,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

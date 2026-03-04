@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "歴史と文学",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "文学と歴史の連関"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 400,
-    "chapterTitles": []
+    "chapterTitles": [
+      "歴史と文学"
+    ]
   },
   "content": [
     {

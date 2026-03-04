@@ -42,7 +42,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 487,
-    "chapterTitles": []
+    "chapterTitles": [
+      "失楽園殺人事件"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一、堕天女記",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 11,
       "content": "二、六道図絵の秘密",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -178,8 +178,7 @@
       "pageNumber": 22,
       "content": "三、コスター聖書を曝く",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

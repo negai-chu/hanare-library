@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ピタゴラスと豆",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "ピタゴラスの定理と豆"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 458,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ピタゴラスと豆"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "うさぎのくだものや",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "うさぎの果物屋さんの童話"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 50,
-    "chapterTitles": []
+    "chapterTitles": [
+      "うさぎのくだものや"
+    ]
   },
   "content": [
     {

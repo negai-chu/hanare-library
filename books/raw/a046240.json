@@ -36,7 +36,9 @@
     ],
     "totalPages": 123,
     "averageCharsPerPage": 520,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -302,8 +304,7 @@
       "pageNumber": 44,
       "content": "〔六月予記表〕",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -477,8 +478,7 @@
       "pageNumber": 73,
       "content": "〔九月予記表〕",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,

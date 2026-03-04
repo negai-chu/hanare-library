@@ -48,7 +48,9 @@
     ],
     "totalPages": 36,
     "averageCharsPerPage": 390,
-    "chapterTitles": []
+    "chapterTitles": [
+      "雪魔"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 9,
       "content": "魔神《まじん》の山",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -147,8 +148,7 @@
       "pageNumber": 16,
       "content": "雪崩《なだれ》だ！",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -196,8 +196,7 @@
       "pageNumber": 24,
       "content": "雪とけて",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -233,8 +232,7 @@
       "pageNumber": 30,
       "content": "兄の手帳",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

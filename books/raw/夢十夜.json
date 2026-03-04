@@ -84,7 +84,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 437,
-    "chapterTitles": []
+    "chapterTitles": [
+      "夢十夜"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "第一夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 7,
       "content": "第二夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -160,8 +160,7 @@
       "pageNumber": 12,
       "content": "第三夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -191,8 +190,7 @@
       "pageNumber": 17,
       "content": "第四夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -216,8 +214,7 @@
       "pageNumber": 21,
       "content": "第五夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -241,8 +238,7 @@
       "pageNumber": 25,
       "content": "第六夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -266,8 +262,7 @@
       "pageNumber": 29,
       "content": "第七夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -291,8 +286,7 @@
       "pageNumber": 33,
       "content": "第八夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -316,8 +310,7 @@
       "pageNumber": 37,
       "content": "第九夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -341,8 +334,7 @@
       "pageNumber": 41,
       "content": "第十夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,

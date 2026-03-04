@@ -54,7 +54,9 @@
     ],
     "totalPages": 103,
     "averageCharsPerPage": 439,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地熱"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "１　炭坑町の丘",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -177,8 +178,7 @@
       "pageNumber": 20,
       "content": "２　蔦屋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -352,8 +352,7 @@
       "pageNumber": 49,
       "content": "３　信州の家",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 50,
@@ -473,8 +472,7 @@
       "pageNumber": 69,
       "content": "４　墓地",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -582,8 +580,7 @@
       "pageNumber": 87,
       "content": "５　蔦屋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,

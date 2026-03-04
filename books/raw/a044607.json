@@ -36,7 +36,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 498,
-    "chapterTitles": []
+    "chapterTitles": [
+      "劇壇左右展望"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "○左、劇文学の領域",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 12,
       "content": "○右、翻訳劇の功罪",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

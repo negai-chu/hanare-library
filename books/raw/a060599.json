@@ -36,7 +36,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "よしなし事"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "源内の手紙",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 5,
       "content": "原稿料のことなど",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,

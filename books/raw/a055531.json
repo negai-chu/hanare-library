@@ -90,7 +90,9 @@
     ],
     "totalPages": 266,
     "averageCharsPerPage": 449,
-    "chapterTitles": []
+    "chapterTitles": [
+      "我が愛する詩人の伝記"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 2,
       "content": "北原白秋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 4,
       "content": "萩原朔太郎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -130,43 +130,37 @@
       "pageNumber": 6,
       "content": "堀辰雄",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
       "content": "立原道造",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
       "content": "津村信夫",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
       "content": "山村暮鳥",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
       "content": "百田宗治",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
       "content": "千家元麿",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -178,8 +172,7 @@
       "pageNumber": 13,
       "content": "北原白秋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -305,8 +298,7 @@
       "pageNumber": 34,
       "content": "高村光太郎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -444,8 +436,7 @@
       "pageNumber": 57,
       "content": "萩原朔太郎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -565,8 +556,7 @@
       "pageNumber": 77,
       "content": "釈迢空",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -698,8 +688,7 @@
       "pageNumber": 99,
       "content": "釈迢空　本名折口信夫《オリクチシノブ》、明治二十年　大阪市浪速区鴎町一丁目に生まれた。",
       "characters": 43,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -711,8 +700,7 @@
       "pageNumber": 101,
       "content": "堀辰雄",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -838,8 +826,7 @@
       "pageNumber": 122,
       "content": "立原道造",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -965,8 +952,7 @@
       "pageNumber": 143,
       "content": "津村信夫",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 144,
@@ -1098,8 +1084,7 @@
       "pageNumber": 165,
       "content": "山村暮鳥",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,
@@ -1249,8 +1234,7 @@
       "pageNumber": 190,
       "content": "百田宗治",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 191,
@@ -1394,8 +1378,7 @@
       "pageNumber": 214,
       "content": "千家元麿",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 215,
@@ -1569,8 +1552,7 @@
       "pageNumber": 243,
       "content": "島崎藤村",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 244,

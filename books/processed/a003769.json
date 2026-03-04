@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "蒐書",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "蒐集癖のない蒐書"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 352,
-    "chapterTitles": []
+    "chapterTitles": [
+      "蒐書"
+    ]
   },
   "content": [
     {

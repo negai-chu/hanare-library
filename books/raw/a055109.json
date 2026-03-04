@@ -198,7 +198,9 @@
     ],
     "totalPages": 106,
     "averageCharsPerPage": 379,
-    "chapterTitles": []
+    "chapterTitles": [
+      "古器観道楽"
+    ]
   },
   "content": [
     {
@@ -212,8 +214,7 @@
       "pageNumber": 2,
       "content": "宋赤絵壺",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -237,8 +238,7 @@
       "pageNumber": 6,
       "content": "磁州窯鶏水入れ（宋窯）",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -250,8 +250,7 @@
       "pageNumber": 8,
       "content": "成化年製赤玉向付",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -263,8 +262,7 @@
       "pageNumber": 10,
       "content": "明代嘉靖年製赤絵小鉢",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -276,8 +274,7 @@
       "pageNumber": 12,
       "content": "古赤絵盃二種",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -307,8 +304,7 @@
       "pageNumber": 17,
       "content": "明赤絵盛盞瓶",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -320,8 +316,7 @@
       "pageNumber": 19,
       "content": "万暦赤絵大水甕",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -339,8 +334,7 @@
       "pageNumber": 22,
       "content": "呉須水鳥火入れ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -358,8 +352,7 @@
       "pageNumber": 25,
       "content": "高麗扁壺の説",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -383,8 +376,7 @@
       "pageNumber": 29,
       "content": "古九谷赤絵壺",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -414,8 +406,7 @@
       "pageNumber": 34,
       "content": "色絵祥瑞写古九谷皿",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -433,8 +424,7 @@
       "pageNumber": 37,
       "content": "古九谷菖蒲絵小皿",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -452,8 +442,7 @@
       "pageNumber": 40,
       "content": "古唐津流れ釉水指",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -483,8 +472,7 @@
       "pageNumber": 45,
       "content": "古唐津陶器の持つ美しさ",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -502,8 +490,7 @@
       "pageNumber": 48,
       "content": "志野に似た唐津",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -521,8 +508,7 @@
       "pageNumber": 51,
       "content": "瀬戸唐津茶碗",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -564,8 +550,7 @@
       "pageNumber": 58,
       "content": "初期鼠志野長方平向付",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -595,8 +580,7 @@
       "pageNumber": 63,
       "content": "美濃大平発掘鼠志野大茶碗",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -608,8 +592,7 @@
       "pageNumber": 65,
       "content": "志野",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -621,8 +604,7 @@
       "pageNumber": 67,
       "content": "花三島茶碗",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -634,8 +616,7 @@
       "pageNumber": 69,
       "content": "黄瀬戸の茶入れ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -653,8 +634,7 @@
       "pageNumber": 72,
       "content": "信楽水指",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -666,8 +646,7 @@
       "pageNumber": 74,
       "content": "仁清作蜻蛉火皿／仁清作蓮葉油皿",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -697,8 +676,7 @@
       "pageNumber": 79,
       "content": "仁清作肩蓑茶入れ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 80,
@@ -722,8 +700,7 @@
       "pageNumber": 83,
       "content": "光悦手造赤楽雲文茶碗",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -759,8 +736,7 @@
       "pageNumber": 89,
       "content": "乾山角皿",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -790,8 +766,7 @@
       "pageNumber": 94,
       "content": "乾山の絵と陶器",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -809,8 +784,7 @@
       "pageNumber": 97,
       "content": "木米の世界",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -846,8 +820,7 @@
       "pageNumber": 103,
       "content": "奥田穎川作赤呉須小鉢",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 104,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 76,
     "averageCharsPerPage": 396,
-    "chapterTitles": []
+    "chapterTitles": [
+      "彦六大いに笑ふ"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "まへがき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 8,
       "content": "第一幕　ビリヤード旭亭内",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -274,8 +274,7 @@
       "pageNumber": 37,
       "content": "第二幕　階下の酒場",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -365,8 +364,7 @@
       "pageNumber": 52,
       "content": "第三幕（第一幕に同じ）ビリヤード室",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,

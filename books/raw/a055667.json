@@ -30,7 +30,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 883,
-    "chapterTitles": []
+    "chapterTitles": [
+      "うらむらさき"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

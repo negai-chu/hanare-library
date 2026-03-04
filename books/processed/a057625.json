@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序章",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "第一話",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-2-section-11",
             "number": "十一",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 62
           }
         ]
       },
@@ -97,7 +97,7 @@
         "id": "chapter-3",
         "title": "第二話",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 104,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -151,7 +151,7 @@
             "id": "chapter-3-section-9",
             "number": "九",
             "startPage": 101,
-            "endPage": 0
+            "endPage": 104
           }
         ]
       },
@@ -159,7 +159,7 @@
         "id": "chapter-4",
         "title": "第三話",
         "startPage": 105,
-        "endPage": 0,
+        "endPage": 169,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -225,7 +225,7 @@
             "id": "chapter-4-section-11",
             "number": "十一",
             "startPage": 165,
-            "endPage": 0
+            "endPage": 169
           }
         ]
       },
@@ -233,7 +233,7 @@
         "id": "chapter-5",
         "title": "第四話",
         "startPage": 170,
-        "endPage": 0,
+        "endPage": 221,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -299,7 +299,7 @@
             "id": "chapter-5-section-11",
             "number": "十一",
             "startPage": 216,
-            "endPage": 0
+            "endPage": 221
           }
         ]
       },
@@ -307,7 +307,7 @@
         "id": "chapter-6",
         "title": "第五話",
         "startPage": 222,
-        "endPage": 0,
+        "endPage": 255,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -349,7 +349,7 @@
             "id": "chapter-6-section-7",
             "number": "七",
             "startPage": 250,
-            "endPage": 0
+            "endPage": 255
           }
         ]
       },
@@ -357,7 +357,7 @@
         "id": "chapter-7",
         "title": "第六話",
         "startPage": 256,
-        "endPage": 0,
+        "endPage": 287,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -393,7 +393,7 @@
             "id": "chapter-7-section-6",
             "number": "六",
             "startPage": 280,
-            "endPage": 0
+            "endPage": 287
           }
         ]
       },

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "デンデンムシ",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "大小のデンデン虫"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 200,
-    "chapterTitles": []
+    "chapterTitles": [
+      "デンデンムシ"
+    ]
   },
   "content": [
     {

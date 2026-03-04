@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ふざけた読書",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "年賀状から始まる読書談"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 459,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ふざけた読書"
+    ]
   },
   "content": [
     {

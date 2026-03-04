@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "無題",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "芥川作品への感想"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 533,
-    "chapterTitles": []
+    "chapterTitles": [
+      "無題"
+    ]
   },
   "content": [
     {

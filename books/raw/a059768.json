@@ -60,7 +60,9 @@
     ],
     "totalPages": 27,
     "averageCharsPerPage": 459,
-    "chapterTitles": []
+    "chapterTitles": [
+      "科学ブームへの苦言"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "科学ブームの発生",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 5,
       "content": "深海探測機",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -118,8 +118,7 @@
       "pageNumber": 9,
       "content": "放射性廃棄物の処理",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -143,8 +142,7 @@
       "pageNumber": 13,
       "content": "動力協定の騒ぎ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -174,8 +172,7 @@
       "pageNumber": 18,
       "content": "ラジウム温泉についての疑問",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -211,8 +208,7 @@
       "pageNumber": 24,
       "content": "科学ブームに迎合してはならぬ",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,

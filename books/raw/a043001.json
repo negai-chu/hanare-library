@@ -72,7 +72,9 @@
     ],
     "totalPages": 462,
     "averageCharsPerPage": 604,
-    "chapterTitles": []
+    "chapterTitles": [
+      "吹雪物語"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -285,8 +286,7 @@
       "pageNumber": 35,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -736,8 +736,7 @@
       "pageNumber": 110,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -893,8 +892,7 @@
       "pageNumber": 136,
       "content": "四",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 137,
@@ -1422,8 +1420,7 @@
       "pageNumber": 224,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 225,
@@ -1999,8 +1996,7 @@
       "pageNumber": 320,
       "content": "六",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 321,
@@ -2414,8 +2410,7 @@
       "pageNumber": 389,
       "content": "七",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 390,
@@ -2811,8 +2806,7 @@
       "pageNumber": 455,
       "content": "八",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 456,

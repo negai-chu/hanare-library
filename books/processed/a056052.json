@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "十九の海騒《うみざい》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 11,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 8,
-            "endPage": 0
+            "endPage": 11
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "一詫《た》の妻",
         "startPage": 12,
-        "endPage": 0,
+        "endPage": 24,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -55,7 +55,7 @@
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 24
           }
         ]
       },
@@ -63,7 +63,7 @@
         "id": "chapter-3",
         "title": "忘れぬ意趣",
         "startPage": 25,
-        "endPage": 0,
+        "endPage": 37,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -81,7 +81,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 32,
-            "endPage": 0
+            "endPage": 37
           }
         ]
       },
@@ -89,7 +89,7 @@
         "id": "chapter-4",
         "title": "鷹小屋の呻《うめ》き",
         "startPage": 38,
-        "endPage": 0,
+        "endPage": 49,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -101,7 +101,7 @@
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 49
           }
         ]
       },

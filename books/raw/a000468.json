@@ -36,7 +36,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 454,
-    "chapterTitles": []
+    "chapterTitles": [
+      "さいかち淵"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "八月十三日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 8,
       "content": "八月十四日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

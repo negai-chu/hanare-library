@@ -222,7 +222,9 @@
     ],
     "totalPages": 315,
     "averageCharsPerPage": 534,
-    "chapterTitles": []
+    "chapterTitles": [
+      "青べか物語"
+    ]
   },
   "content": [
     {
@@ -236,8 +238,7 @@
       "pageNumber": 2,
       "content": "はじめに",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -261,8 +262,7 @@
       "pageNumber": 6,
       "content": "「青べか」を買った話",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -328,8 +328,7 @@
       "pageNumber": 17,
       "content": "蜜柑《みかん》の木",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -401,8 +400,7 @@
       "pageNumber": 29,
       "content": "水汲《みずく》みばか",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -450,8 +448,7 @@
       "pageNumber": 37,
       "content": "青べか馴らし",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -535,8 +532,7 @@
       "pageNumber": 51,
       "content": "砂と柘榴《ざくろ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -608,8 +604,7 @@
       "pageNumber": 63,
       "content": "人はなんによって生くるか",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -651,8 +646,7 @@
       "pageNumber": 70,
       "content": "繁あね",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -730,8 +724,7 @@
       "pageNumber": 83,
       "content": "土堤《どて》の春",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,
@@ -749,8 +742,7 @@
       "pageNumber": 86,
       "content": "土堤の夏",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -774,8 +766,7 @@
       "pageNumber": 90,
       "content": "土堤の秋",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -787,8 +778,7 @@
       "pageNumber": 92,
       "content": "土堤の冬",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 93,
@@ -824,8 +814,7 @@
       "pageNumber": 98,
       "content": "白い人たち",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 99,
@@ -897,8 +886,7 @@
       "pageNumber": 110,
       "content": "ごったくや",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -964,8 +952,7 @@
       "pageNumber": 121,
       "content": "対話（砂について）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,
@@ -1001,8 +988,7 @@
       "pageNumber": 127,
       "content": "もくしょう",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1074,8 +1060,7 @@
       "pageNumber": 139,
       "content": "経済原理",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1135,8 +1120,7 @@
       "pageNumber": 149,
       "content": "朝日屋騒動",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1208,8 +1192,7 @@
       "pageNumber": 161,
       "content": "貝盗人《ぬすっと》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 162,
@@ -1263,8 +1246,7 @@
       "pageNumber": 170,
       "content": "狐火",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 171,
@@ -1294,8 +1276,7 @@
       "pageNumber": 175,
       "content": "芦《あし》の中の一夜",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1409,8 +1390,7 @@
       "pageNumber": 194,
       "content": "浦粕《うらかす》の宗五郎",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 195,
@@ -1458,8 +1438,7 @@
       "pageNumber": 202,
       "content": "おらあ抵抗しなかった",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 203,
@@ -1549,8 +1528,7 @@
       "pageNumber": 217,
       "content": "長と猛獣映画",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 218,
@@ -1580,8 +1558,7 @@
       "pageNumber": 222,
       "content": "SASE BAKA",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 223,
@@ -1599,8 +1576,7 @@
       "pageNumber": 225,
       "content": "家鴨（あひる）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 226,
@@ -1690,8 +1666,7 @@
       "pageNumber": 240,
       "content": "あいびき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 241,
@@ -1727,8 +1702,7 @@
       "pageNumber": 246,
       "content": "毒をのむと苦しい",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 247,
@@ -1812,8 +1786,7 @@
       "pageNumber": 260,
       "content": "残酷な插話《そうわ》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,
@@ -1855,8 +1828,7 @@
       "pageNumber": 267,
       "content": "けけち",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 268,
@@ -1868,8 +1840,7 @@
       "pageNumber": 269,
       "content": "けけち　けけち　よしごで＊＊＊＊突っ突いて　おいてててて。",
       "characters": 29,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 270,
@@ -1881,8 +1852,7 @@
       "pageNumber": 271,
       "content": "留さんと女",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 272,
@@ -1972,8 +1942,7 @@
       "pageNumber": 286,
       "content": "おわりに",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 287,
@@ -2021,8 +1990,7 @@
       "pageNumber": 294,
       "content": "三十年後",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 295,

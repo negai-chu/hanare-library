@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "新入生",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "新入生たちの朝の風景"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 489,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新入生"
+    ]
   },
   "content": [
     {

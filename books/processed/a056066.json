@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "お部屋様《へやさま》くずれ",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 8,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -29,7 +29,7 @@
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 4,
-            "endPage": 0
+            "endPage": 8
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-2",
         "title": "彼《あ》の世からの使",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 27,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -61,7 +61,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 0
+            "endPage": 27
           }
         ]
       },
@@ -69,13 +69,13 @@
         "id": "chapter-3",
         "title": "波紋魚紋",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 29,
-            "endPage": 0
+            "endPage": 30
           }
         ]
       },

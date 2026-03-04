@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文章と言葉と",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "文章と言葉への姿勢"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 260,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文章と言葉と"
+    ]
   },
   "content": [
     {

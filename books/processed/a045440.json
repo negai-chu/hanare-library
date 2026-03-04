@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "田舎から東京を見る",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "田舎から見た東京"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 380,
-    "chapterTitles": []
+    "chapterTitles": [
+      "田舎から東京を見る"
+    ]
   },
   "content": [
     {

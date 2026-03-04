@@ -17,29 +17,27 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "親鸞劇の序文"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "序曲",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "死ぬるもの",
             "startPage": 5,
-            "endPage": 0
+            "endPage": 12
           }
-        ],
-        "summary": "信仰への目覚め"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第一幕",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 56,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -51,23 +49,21 @@
             "id": "chapter-3-section-2",
             "number": "第二場",
             "startPage": 32,
-            "endPage": 0
+            "endPage": 56
           }
-        ],
-        "summary": "出家の決意と別離"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第二幕",
         "startPage": 57,
-        "endPage": 0,
-        "summary": "弟子との邂逅"
+        "endPage": 86
       },
       {
         "id": "chapter-5",
         "title": "第三幕",
         "startPage": 87,
-        "endPage": 0,
+        "endPage": 123,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -79,16 +75,15 @@
             "id": "chapter-5-section-2",
             "number": "第二場",
             "startPage": 107,
-            "endPage": 0
+            "endPage": 123
           }
-        ],
-        "summary": "煩悩と信仰の相克"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第四幕",
         "startPage": 124,
-        "endPage": 0,
+        "endPage": 163,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -100,16 +95,15 @@
             "id": "chapter-6-section-2",
             "number": "第二場",
             "startPage": 145,
-            "endPage": 0
+            "endPage": 163
           }
-        ],
-        "summary": "愛と罪の葛藤"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第五幕",
         "startPage": 164,
-        "endPage": 0,
+        "endPage": 199,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -121,10 +115,9 @@
             "id": "chapter-7-section-2",
             "number": "第二場",
             "startPage": 180,
-            "endPage": 0
+            "endPage": 199
           }
-        ],
-        "summary": "赦しと救済の道"
+        ]
       },
       {
         "id": "chapter-8",
@@ -156,8 +149,7 @@
             "startPage": 227,
             "endPage": 234
           }
-        ],
-        "summary": "師弟の悟りと別れ"
+        ]
       }
     ],
     "totalPages": 234,

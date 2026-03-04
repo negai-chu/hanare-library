@@ -66,7 +66,9 @@
     ],
     "totalPages": 43,
     "averageCharsPerPage": 299,
-    "chapterTitles": []
+    "chapterTitles": [
+      "峠の手毬唄"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "一の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 8,
       "content": "一の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -148,8 +148,7 @@
       "pageNumber": 13,
       "content": "二の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -191,8 +190,7 @@
       "pageNumber": 20,
       "content": "二の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -234,8 +232,7 @@
       "pageNumber": 27,
       "content": "二の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -259,8 +256,7 @@
       "pageNumber": 31,
       "content": "三の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -290,8 +286,7 @@
       "pageNumber": 36,
       "content": "三の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,

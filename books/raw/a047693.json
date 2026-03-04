@@ -48,7 +48,9 @@
     ],
     "totalPages": 10,
     "averageCharsPerPage": 186,
-    "chapterTitles": []
+    "chapterTitles": [
+      "黒川能・観点の置き所"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "特殊の舞台構造",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "五流の親族",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -94,8 +94,7 @@
       "pageNumber": 7,
       "content": "能楽史を省みたい",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -107,8 +106,7 @@
       "pageNumber": 9,
       "content": "黒川の能役者へ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

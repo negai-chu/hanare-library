@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "悶悶日記",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "鬱屈の日記"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 330,
-    "chapterTitles": []
+    "chapterTitles": [
+      "悶悶日記"
+    ]
   },
   "content": [
     {

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "Sine qua non",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -37,7 +37,7 @@
         "id": "chapter-2",
         "title": "鶯",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 34,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -97,7 +97,7 @@
             "id": "chapter-2-section-10",
             "number": "からす",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 34
           }
         ]
       },

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "雨の日",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "風雨の中の枯れたダリア"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 148,
-    "chapterTitles": []
+    "chapterTitles": [
+      "雨の日"
+    ]
   },
   "content": [
     {

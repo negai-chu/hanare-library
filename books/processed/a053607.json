@@ -17,44 +17,46 @@
         "id": "chapter-1",
         "title": "和讃類纂",
         "startPage": 1,
-        "endPage": 11,
+        "endPage": 6,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一詠",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "二詠",
-            "startPage": 4,
-            "endPage": 5
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "三詠",
-            "startPage": 6,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "四詠",
-            "startPage": 8,
-            "endPage": 9
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "五詠",
-            "startPage": 10,
-            "endPage": 11
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 11,
-    "averageCharsPerPage": 31,
-    "chapterTitles": []
+    "totalPages": 6,
+    "averageCharsPerPage": 58,
+    "chapterTitles": [
+      "和讃類纂"
+    ]
   },
   "content": [
     {
@@ -66,65 +68,30 @@
     },
     {
       "pageNumber": 2,
-      "content": "一詠",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　一詠\n\nゆきはふる\n\nまなつまひるのやまみちに\n\n光るこなゆき\n\nさんらんたりや\n\nわが道心のたなごころ\n\nうすら侘しきたなごころ二詠",
+      "characters": 68,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　ゆきはふる\n\nまなつまひるのやまみちに\n\n光るこなゆき\n\nさんらんたりや\n\nわが道心のたなごころ\n\nうすら侘しきたなごころ",
-      "characters": 62,
-      "ruby": []
-    },
-    {
-      "pageNumber": 4,
-      "content": "二詠",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "ひじりのみあし\n\nつめたきみあし\n\nおんかたへやるせなく\n\nかけまつるさうぞくの\n\nしののめのこゆむらさき\n\nいろのあさがほ",
-      "characters": 62,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
-      "content": "三詠",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
-      "content": "なみぢのうへを\n\nとほくよりあゆませたまふ\n\nわが主いえすよ\n\nふなべりになみだをながし\n\nいちねん祈願したてまつる\n\nひとの子のわれの身のうへ\n\nおぼるるものはぺてろなり",
-      "characters": 86,
-      "ruby": []
-    },
-    {
-      "pageNumber": 8,
-      "content": "四詠",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
-      "content": "はなをつむ\n\nはなをつむこころはへ\n\nしろがねづくりの靴をはき\n\nみなつきはじめ\n\nくさばなのたねをつむ\n\nたねをつむこころはへ",
+      "content": "ひじりのみあし\n\nつめたきみあし\n\nおんかたへやるせなく\n\nかけまつるさうぞくの\n\nしののめのこゆむらさき\n\nいろのあさがほ三詠",
       "characters": 64,
       "ruby": []
     },
     {
-      "pageNumber": 10,
-      "content": "五詠",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "pageNumber": 4,
+      "content": "なみぢのうへを\n\nとほくよりあゆませたまふ\n\nわが主いえすよ\n\nふなべりになみだをながし\n\nいちねん祈願したてまつる\n\nひとの子のわれの身のうへ\n\nおぼるるものはぺてろなり四詠",
+      "characters": 88,
+      "ruby": []
     },
     {
-      "pageNumber": 11,
+      "pageNumber": 5,
+      "content": "はなをつむ\n\nはなをつむこころはへ\n\nしろがねづくりの靴をはき\n\nみなつきはじめ\n\nくさばなのたねをつむ\n\nたねをつむこころはへ五詠",
+      "characters": 66,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
       "content": "すずめ\n\nすずめ\n\n金のこなふる奧山《おくやま》に\n\nしんじついとしいべにすずめ\n\nすずめ\n\nすずめ\n\nみ山の奧のべに雀",
       "characters": 60,
       "ruby": []

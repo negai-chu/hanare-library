@@ -36,7 +36,9 @@
     ],
     "totalPages": 11,
     "averageCharsPerPage": 424,
-    "chapterTitles": []
+    "chapterTitles": [
+      "いまだ癒えぬ傷あと"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "放射線火傷で右手をうしなつた木挽きの妻に",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 8,
       "content": "河原にうつ伏せて死んでいた幼女に",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

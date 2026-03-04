@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "生活について",
         "startPage": 1,
-        "endPage": 9,
-        "summary": "生活における方向の必要"
+        "endPage": 9
       }
     ],
     "totalPages": 9,
     "averageCharsPerPage": 545,
-    "chapterTitles": []
+    "chapterTitles": [
+      "生活について"
+    ]
   },
   "content": [
     {

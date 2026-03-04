@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "買うのを躊躇する人に",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "冒険への誘い"
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "第一篇　老海賊",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 66,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -60,16 +59,15 @@
             "id": "chapter-2-section-6",
             "number": "第六章　船長の書類",
             "startPage": 57,
-            "endPage": 0
+            "endPage": 66
           }
-        ],
-        "summary": "謎の老海賊の来訪"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二篇　船の料理番《コック》",
         "startPage": 67,
-        "endPage": 0,
+        "endPage": 122,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -105,16 +103,15 @@
             "id": "chapter-3-section-6",
             "number": "第十二章　戦争会議",
             "startPage": 114,
-            "endPage": 0
+            "endPage": 122
           }
-        ],
-        "summary": "船の料理番の正体"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第三篇　私の海岸の冒険",
         "startPage": 123,
-        "endPage": 0,
+        "endPage": 152,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -132,16 +129,15 @@
             "id": "chapter-4-section-3",
             "number": "第十五章　島の男",
             "startPage": 141,
-            "endPage": 0
+            "endPage": 152
           }
-        ],
-        "summary": "島での冒険の始まり"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第四篇　柵壁",
         "startPage": 153,
-        "endPage": 0,
+        "endPage": 201,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -177,16 +173,15 @@
             "id": "chapter-5-section-6",
             "number": "第二十一章　攻撃",
             "startPage": 193,
-            "endPage": 0
+            "endPage": 201
           }
-        ],
-        "summary": "柵壁での攻防"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第五篇　私の海の冒険",
         "startPage": 202,
-        "endPage": 0,
+        "endPage": 256,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -222,25 +217,23 @@
             "id": "chapter-6-section-6",
             "number": "第二十七章　「八銀貨」",
             "startPage": 247,
-            "endPage": 0
+            "endPage": 256
           }
-        ],
-        "summary": "海上での危難"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第六篇　シルヴァー船長",
         "startPage": 257,
-        "endPage": 0,
+        "endPage": 262,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "第二十八章　敵の宿営で",
             "startPage": 258,
-            "endPage": 0
+            "endPage": 262
           }
-        ],
-        "summary": "船長の策略と決着"
+        ]
       },
       {
         "id": "chapter-8",
@@ -290,8 +283,7 @@
             "startPage": 342,
             "endPage": 344
           }
-        ],
-        "summary": "訳注と解説"
+        ]
       }
     ],
     "totalPages": 344,

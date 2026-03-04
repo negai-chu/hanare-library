@@ -42,7 +42,9 @@
     ],
     "totalPages": 29,
     "averageCharsPerPage": 358,
-    "chapterTitles": []
+    "chapterTitles": [
+      "父を売る子"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -159,8 +160,7 @@
       "pageNumber": 19,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -208,8 +208,7 @@
       "pageNumber": 27,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,

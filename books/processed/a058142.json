@@ -17,25 +17,25 @@
         "id": "chapter-1",
         "title": "龍之介先生",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "わたりがは",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 9
       },
       {
         "id": "chapter-3",
         "title": "二つの絵",
         "startPage": 1,
-        "endPage": 0
+        "endPage": 1
       },
       {
         "id": "chapter-4",
         "title": "二つの繪",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 132,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -167,7 +167,7 @@
             "id": "chapter-4-section-22",
             "number": "芥川の死",
             "startPage": 119,
-            "endPage": 0
+            "endPage": 132
           }
         ]
       },
@@ -175,7 +175,7 @@
         "id": "chapter-5",
         "title": "影照",
         "startPage": 133,
-        "endPage": 0,
+        "endPage": 143,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -265,7 +265,7 @@
             "id": "chapter-5-section-15",
             "number": "節をまげぬためには入用の金",
             "startPage": 143,
-            "endPage": 0
+            "endPage": 143
           }
         ]
       },
@@ -273,13 +273,13 @@
         "id": "chapter-6",
         "title": "入船町・東兩國",
         "startPage": 144,
-        "endPage": 0
+        "endPage": 146
       },
       {
         "id": "chapter-7",
         "title": "河郎之舍",
         "startPage": 147,
-        "endPage": 0,
+        "endPage": 164,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -309,7 +309,7 @@
             "id": "chapter-7-section-5",
             "number": "訪問録",
             "startPage": 160,
-            "endPage": 0
+            "endPage": 164
           }
         ]
       },
@@ -317,7 +317,7 @@
         "id": "chapter-8",
         "title": "鵠沼・鎌倉のころ",
         "startPage": 165,
-        "endPage": 0,
+        "endPage": 176,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -329,7 +329,7 @@
             "id": "chapter-8-section-2",
             "number": "鎌倉",
             "startPage": 169,
-            "endPage": 0
+            "endPage": 176
           }
         ]
       },
@@ -337,55 +337,55 @@
         "id": "chapter-9",
         "title": "雛",
         "startPage": 177,
-        "endPage": 0
+        "endPage": 178
       },
       {
         "id": "chapter-10",
         "title": "懷舊",
         "startPage": 179,
-        "endPage": 0
+        "endPage": 181
       },
       {
         "id": "chapter-11",
         "title": "月花を旅に",
         "startPage": 182,
-        "endPage": 0
+        "endPage": 184
       },
       {
         "id": "chapter-12",
         "title": "「藪の中」について",
         "startPage": 185,
-        "endPage": 0
+        "endPage": 195
       },
       {
         "id": "chapter-13",
         "title": "芥川の句碑",
         "startPage": 196,
-        "endPage": 0
+        "endPage": 203
       },
       {
         "id": "chapter-14",
         "title": "「羅生門」の一册",
         "startPage": 204,
-        "endPage": 0
+        "endPage": 209
       },
       {
         "id": "chapter-15",
         "title": "映畫の字幕",
         "startPage": 210,
-        "endPage": 0
+        "endPage": 212
       },
       {
         "id": "chapter-16",
         "title": "「芥川龍之介」讀後",
         "startPage": 213,
-        "endPage": 0
+        "endPage": 215
       },
       {
         "id": "chapter-17",
         "title": "奇怪な家ダニ",
         "startPage": 216,
-        "endPage": 0,
+        "endPage": 234,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -415,7 +415,7 @@
             "id": "chapter-17-section-5",
             "number": "血はおそろしい",
             "startPage": 228,
-            "endPage": 0
+            "endPage": 234
           }
         ]
       },
@@ -431,7 +431,7 @@
     "chapterTitles": [
       "龍之介先生",
       "わたりがは",
-      "",
+      "二つの絵",
       "二つの繪",
       "影照",
       "入船町・東兩國",

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "我が家の楽園",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 13,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "ミスタ・ワニ",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -67,7 +67,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 50
           }
         ]
       },
@@ -75,7 +75,7 @@
         "id": "chapter-3",
         "title": "子を捨てる藪",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 83,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -99,7 +99,7 @@
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 73,
-            "endPage": 0
+            "endPage": 83
           }
         ]
       },
@@ -107,7 +107,7 @@
         "id": "chapter-4",
         "title": "錬獄に住みて",
         "startPage": 84,
-        "endPage": 0,
+        "endPage": 122,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 111,
-            "endPage": 0
+            "endPage": 122
           }
         ]
       },
@@ -139,7 +139,7 @@
         "id": "chapter-5",
         "title": "千々子の白い馬",
         "startPage": 123,
-        "endPage": 0,
+        "endPage": 150,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -163,7 +163,7 @@
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 144,
-            "endPage": 0
+            "endPage": 150
           }
         ]
       },

@@ -54,7 +54,9 @@
     ],
     "totalPages": 15,
     "averageCharsPerPage": 377,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本アルプスの五仙境"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 5,
       "content": "大井川の上流東俣の渓谷",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -99,8 +100,7 @@
       "pageNumber": 7,
       "content": "大日平",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -112,8 +112,7 @@
       "pageNumber": 9,
       "content": "聖沢の水源地",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -125,8 +124,7 @@
       "pageNumber": 11,
       "content": "東沢の落葉松林",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -138,8 +136,7 @@
       "pageNumber": 13,
       "content": "朝日岳の頂上",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 298,
     "averageCharsPerPage": 608,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ジャン・クリストフ"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 4,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -825,8 +826,7 @@
       "pageNumber": 131,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 132,

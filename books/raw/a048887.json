@@ -84,7 +84,9 @@
     ],
     "totalPages": 69,
     "averageCharsPerPage": 483,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小説新論"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "一　読書と実生活",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 12,
       "content": "二　世相風俗",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -190,8 +190,7 @@
       "pageNumber": 17,
       "content": "三　自然と言ふこと",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -233,8 +232,7 @@
       "pageNumber": 24,
       "content": "四　表現",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -294,8 +292,7 @@
       "pageNumber": 34,
       "content": "五　構成",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -331,8 +328,7 @@
       "pageNumber": 40,
       "content": "六　構図",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -362,8 +358,7 @@
       "pageNumber": 45,
       "content": "七　短篇と長篇",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -405,8 +400,7 @@
       "pageNumber": 52,
       "content": "八　想像と事実",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -466,8 +460,7 @@
       "pageNumber": 62,
       "content": "九　作家としての痛苦",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -485,8 +478,7 @@
       "pageNumber": 65,
       "content": "十　象徴といふこと",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,

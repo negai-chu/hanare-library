@@ -17,25 +17,25 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "第一章　その序《はじめ》に",
         "startPage": 5,
-        "endPage": 0
+        "endPage": 13
       },
       {
         "id": "chapter-3",
         "title": "第二章　夜のスフインクス",
         "startPage": 14,
-        "endPage": 0
+        "endPage": 22
       },
       {
         "id": "chapter-4",
         "title": "第三章　不思議な道",
         "startPage": 23,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-4-section-2",
             "number": "その二",
             "startPage": 26,
-            "endPage": 0
+            "endPage": 29
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-5",
         "title": "第四章　再びサラミヤ姫の物語",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 36,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -67,7 +67,7 @@
             "id": "chapter-5-section-2",
             "number": "その二",
             "startPage": 32,
-            "endPage": 0
+            "endPage": 36
           }
         ]
       },

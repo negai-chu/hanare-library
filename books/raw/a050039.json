@@ -36,7 +36,9 @@
     ],
     "totalPages": 6,
     "averageCharsPerPage": 431,
-    "chapterTitles": []
+    "chapterTitles": [
+      "多摩川冒険記"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "上",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -63,8 +64,7 @@
       "pageNumber": 4,
       "content": "下",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,

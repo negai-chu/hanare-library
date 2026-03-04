@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "「星より來れる者」序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "我庭の景",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-2-section-18",
             "number": "海",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 30
           }
         ]
       },
@@ -139,7 +139,7 @@
         "id": "chapter-3",
         "title": "都會の川",
         "startPage": 32,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -175,7 +175,7 @@
             "id": "chapter-3-section-6",
             "number": "西日の中",
             "startPage": 43,
-            "endPage": 0
+            "endPage": 44
           }
         ]
       },
@@ -183,7 +183,7 @@
         "id": "chapter-4",
         "title": "巣",
         "startPage": 45,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -249,7 +249,7 @@
             "id": "chapter-4-section-11",
             "number": "巣",
             "startPage": 66,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },
@@ -257,7 +257,7 @@
         "id": "chapter-5",
         "title": "障子の内",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 85,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -323,7 +323,7 @@
             "id": "chapter-5-section-11",
             "number": "恐怖",
             "startPage": 84,
-            "endPage": 0
+            "endPage": 85
           }
         ]
       },
@@ -331,7 +331,7 @@
         "id": "chapter-6",
         "title": "夏晝",
         "startPage": 86,
-        "endPage": 0,
+        "endPage": 109,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -403,7 +403,7 @@
             "id": "chapter-6-section-12",
             "number": "顏の印象",
             "startPage": 109,
-            "endPage": 0
+            "endPage": 109
           }
         ]
       },

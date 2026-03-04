@@ -42,7 +42,9 @@
     ],
     "totalPages": 27,
     "averageCharsPerPage": 452,
-    "chapterTitles": []
+    "chapterTitles": [
+      "白痴の知恵"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "魚釣り",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 10,
       "content": "消えた証拠",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -166,8 +166,7 @@
       "pageNumber": 20,
       "content": "科学的逮捕",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "前篇",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 123,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -335,7 +335,7 @@
             "id": "chapter-1-section-53",
             "number": "五十三",
             "startPage": 122,
-            "endPage": 0
+            "endPage": 123
           }
         ]
       },

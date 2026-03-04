@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "諸葛菜《しょかつさい》",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 23,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-1-section-7",
             "number": "七",
             "startPage": 20,
-            "endPage": 0
+            "endPage": 23
           }
         ]
       },
@@ -67,7 +67,7 @@
         "id": "chapter-2",
         "title": "後蜀《ごしょく》三十年《ねん》",
         "startPage": 24,
-        "endPage": 0,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -103,7 +103,7 @@
             "id": "chapter-2-section-6",
             "number": "六",
             "startPage": 42,
-            "endPage": 0
+            "endPage": 45
           }
         ]
       },

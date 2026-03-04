@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "人生随想",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -95,7 +95,7 @@
             "id": "chapter-1-section-13",
             "number": "社会人としての生活態度",
             "startPage": 91,
-            "endPage": 0
+            "endPage": 100
           }
         ]
       },
@@ -103,7 +103,7 @@
         "id": "chapter-2",
         "title": "真理に生きる",
         "startPage": 101,
-        "endPage": 0,
+        "endPage": 140,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -133,7 +133,7 @@
             "id": "chapter-2-section-5",
             "number": "小発明家",
             "startPage": 129,
-            "endPage": 0
+            "endPage": 140
           }
         ]
       },

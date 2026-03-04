@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "新しき大地",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "大地と科学の新しさ"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 255,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新しき大地"
+    ]
   },
   "content": [
     {

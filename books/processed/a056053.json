@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "小諸の兄弟",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 13
           }
         ]
       },
@@ -49,7 +49,7 @@
         "id": "chapter-2",
         "title": "両作・川中島",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -73,7 +73,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 26,
-            "endPage": 0
+            "endPage": 29
           }
         ]
       },
@@ -81,7 +81,7 @@
         "id": "chapter-3",
         "title": "多感なりし年少の日",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -99,7 +99,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 39,
-            "endPage": 0
+            "endPage": 43
           }
         ]
       },
@@ -107,7 +107,7 @@
         "id": "chapter-4",
         "title": "恋砧《こいぎぬた》",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 58,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -137,7 +137,7 @@
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 56,
-            "endPage": 0
+            "endPage": 58
           }
         ]
       },
@@ -145,7 +145,7 @@
         "id": "chapter-5",
         "title": "咲き出づる時",
         "startPage": 59,
-        "endPage": 0,
+        "endPage": 76,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -175,7 +175,7 @@
             "id": "chapter-5-section-5",
             "number": "五",
             "startPage": 73,
-            "endPage": 0
+            "endPage": 76
           }
         ]
       },
@@ -183,7 +183,7 @@
         "id": "chapter-6",
         "title": "跛行《びっこ》と鉄車",
         "startPage": 77,
-        "endPage": 0,
+        "endPage": 83,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -195,7 +195,7 @@
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 83
           }
         ]
       },
@@ -203,7 +203,7 @@
         "id": "chapter-7",
         "title": "土蔵から物置へ",
         "startPage": 84,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -233,7 +233,7 @@
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 97,
-            "endPage": 0
+            "endPage": 100
           }
         ]
       },
@@ -241,7 +241,7 @@
         "id": "chapter-8",
         "title": "木の葉雨",
         "startPage": 101,
-        "endPage": 0,
+        "endPage": 119,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -271,7 +271,7 @@
             "id": "chapter-8-section-5",
             "number": "五",
             "startPage": 115,
-            "endPage": 0
+            "endPage": 119
           }
         ]
       },
@@ -279,7 +279,7 @@
         "id": "chapter-9",
         "title": "火華氷柱",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 144,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -315,7 +315,7 @@
             "id": "chapter-9-section-6",
             "number": "六",
             "startPage": 140,
-            "endPage": 0
+            "endPage": 144
           }
         ]
       },

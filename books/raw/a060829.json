@@ -54,7 +54,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 328,
-    "chapterTitles": []
+    "chapterTitles": [
+      "鵠が音"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "鵠が音　追ひ書き　　その一",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 8,
       "content": "追ひ書き　　その二",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -118,8 +118,7 @@
       "pageNumber": 10,
       "content": "追ひ書き　　その三",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -137,8 +136,7 @@
       "pageNumber": 13,
       "content": "追ひ書き　　その四",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -150,8 +148,7 @@
       "pageNumber": 15,
       "content": "追ひ書き　　その五",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

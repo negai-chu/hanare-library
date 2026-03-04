@@ -30,7 +30,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "沈黙"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 7,
       "content": "訳注",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

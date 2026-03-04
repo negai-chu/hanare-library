@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "竹と我　序歌",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-3",
         "title": "言祝",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 8,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -43,7 +43,7 @@
         "id": "chapter-4",
         "title": "最勝閣にまうでて",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -57,7 +57,7 @@
         "id": "chapter-5",
         "title": "春鵙",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 17,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -135,7 +135,7 @@
             "id": "chapter-5-section-13",
             "number": "双柿舎　熱海遊草",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 17
           }
         ]
       },
@@ -143,7 +143,7 @@
         "id": "chapter-6",
         "title": "多摩の浅春",
         "startPage": 18,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -161,7 +161,7 @@
             "id": "chapter-6-section-3",
             "number": "道のべの春",
             "startPage": 20,
-            "endPage": 0
+            "endPage": 21
           }
         ]
       },
@@ -169,7 +169,7 @@
         "id": "chapter-7",
         "title": "木彫の人形",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 24,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -193,7 +193,7 @@
             "id": "chapter-7-section-4",
             "number": "荒彫の牛　生蕃作品",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 24
           }
         ]
       },
@@ -201,13 +201,13 @@
         "id": "chapter-8",
         "title": "水仙と菊",
         "startPage": 25,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "浅春",
             "startPage": 26,
-            "endPage": 0
+            "endPage": 26
           }
         ]
       },
@@ -215,7 +215,7 @@
         "id": "chapter-9",
         "title": "孟宗と月",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -243,13 +243,13 @@
         "id": "chapter-11",
         "title": "岡の鉾杉",
         "startPage": 32,
-        "endPage": 0,
+        "endPage": 33,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "榧と栗",
             "startPage": 33,
-            "endPage": 0
+            "endPage": 33
           }
         ]
       },
@@ -257,7 +257,7 @@
         "id": "chapter-12",
         "title": "米の白玉",
         "startPage": 35,
-        "endPage": 0,
+        "endPage": 36,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -271,7 +271,7 @@
         "id": "chapter-13",
         "title": "童と母",
         "startPage": 37,
-        "endPage": 0,
+        "endPage": 38,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -283,7 +283,7 @@
             "id": "chapter-13-section-2",
             "number": "童と母",
             "startPage": 38,
-            "endPage": 0
+            "endPage": 38
           }
         ]
       },
@@ -291,7 +291,7 @@
         "id": "chapter-14",
         "title": "老いしアイヌの歌",
         "startPage": 40,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-14-section-1",

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "前編",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -77,7 +77,7 @@
             "id": "chapter-1-section-10",
             "number": "第八章",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 100
           }
         ]
       },
@@ -85,7 +85,7 @@
         "id": "chapter-2",
         "title": "中編",
         "startPage": 101,
-        "endPage": 0,
+        "endPage": 261,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -157,7 +157,7 @@
             "id": "chapter-2-section-12",
             "number": "（八）の二",
             "startPage": 258,
-            "endPage": 0
+            "endPage": 261
           }
         ]
       },
@@ -165,7 +165,7 @@
         "id": "chapter-3",
         "title": "後編",
         "startPage": 262,
-        "endPage": 0,
+        "endPage": 388,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -231,7 +231,7 @@
             "id": "chapter-3-section-11",
             "number": "（七）の二",
             "startPage": 373,
-            "endPage": 0
+            "endPage": 388
           }
         ]
       },
@@ -239,7 +239,7 @@
         "id": "chapter-4",
         "title": "続金色夜叉",
         "startPage": 389,
-        "endPage": 0,
+        "endPage": 541,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -317,7 +317,7 @@
             "id": "chapter-4-section-13",
             "number": "第八章",
             "startPage": 521,
-            "endPage": 0
+            "endPage": 541
           }
         ]
       },
@@ -325,7 +325,7 @@
         "id": "chapter-5",
         "title": "続続金色夜叉",
         "startPage": 542,
-        "endPage": 0,
+        "endPage": 622,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -373,7 +373,7 @@
             "id": "chapter-5-section-8",
             "number": "第五章",
             "startPage": 603,
-            "endPage": 0
+            "endPage": 622
           }
         ]
       },

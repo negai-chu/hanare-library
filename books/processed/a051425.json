@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "文化",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 39,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -185,7 +185,7 @@
             "id": "chapter-1-section-28",
             "number": "新聞小説の第一声",
             "startPage": 38,
-            "endPage": 0
+            "endPage": 39
           }
         ]
       },
@@ -193,7 +193,7 @@
         "id": "chapter-2",
         "title": "演芸界",
         "startPage": 40,
-        "endPage": 0,
+        "endPage": 95,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -361,7 +361,7 @@
             "id": "chapter-2-section-28",
             "number": "名人印象記",
             "startPage": 86,
-            "endPage": 0
+            "endPage": 95
           }
         ]
       },
@@ -369,7 +369,7 @@
         "id": "chapter-3",
         "title": "風俗",
         "startPage": 96,
-        "endPage": 0,
+        "endPage": 119,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -465,7 +465,7 @@
             "id": "chapter-3-section-16",
             "number": "大江戸豪華の名残り",
             "startPage": 118,
-            "endPage": 0
+            "endPage": 119
           }
         ]
       },
@@ -473,7 +473,7 @@
         "id": "chapter-4",
         "title": "趣味・娯楽",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 152,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -611,7 +611,7 @@
             "id": "chapter-4-section-23",
             "number": "煙草が化して桜並木",
             "startPage": 151,
-            "endPage": 0
+            "endPage": 152
           }
         ]
       },
@@ -619,7 +619,7 @@
         "id": "chapter-5",
         "title": "名所・名物",
         "startPage": 153,
-        "endPage": 0,
+        "endPage": 184,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -763,7 +763,7 @@
             "id": "chapter-5-section-24",
             "number": "おでんの逆輸入",
             "startPage": 183,
-            "endPage": 0
+            "endPage": 184
           }
         ]
       },
@@ -771,7 +771,7 @@
         "id": "chapter-6",
         "title": "書画・骨董",
         "startPage": 185,
-        "endPage": 0,
+        "endPage": 208,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -855,7 +855,7 @@
             "id": "chapter-6-section-14",
             "number": "隈侯壇上の忘れ物",
             "startPage": 207,
-            "endPage": 0
+            "endPage": 208
           }
         ]
       },

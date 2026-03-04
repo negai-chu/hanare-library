@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "日本論への序"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一部　日本の社会現象",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 133,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -84,16 +83,15 @@
             "id": "chapter-2-section-10",
             "number": "10　民衆論",
             "startPage": 121,
-            "endPage": 0
+            "endPage": 133
           }
-        ],
-        "summary": "日本の社会現象"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第二部　日本の文化現象",
         "startPage": 134,
-        "endPage": 0,
+        "endPage": 265,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -159,10 +157,9 @@
             "id": "chapter-3-section-11",
             "number": "21　現代日本のヒューマニズムと唯物論",
             "startPage": 248,
-            "endPage": 0
+            "endPage": 265
           }
-        ],
-        "summary": "日本の文化現象"
+        ]
       },
       {
         "id": "chapter-4",
@@ -224,8 +221,7 @@
             "startPage": 379,
             "endPage": 393
           }
-        ],
-        "summary": "日本の報道現象"
+        ]
       }
     ],
     "totalPages": 393,

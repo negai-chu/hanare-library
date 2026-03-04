@@ -36,7 +36,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "少年の日二景"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "おどろき",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 8,
       "content": "伸《の》びるもの",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,

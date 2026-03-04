@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文学と生活",
         "startPage": 1,
-        "endPage": 35,
-        "summary": "文学と生活の複雑な関係"
+        "endPage": 35
       }
     ],
     "totalPages": 35,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文学と生活"
+    ]
   },
   "content": [
     {

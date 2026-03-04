@@ -72,7 +72,9 @@
     ],
     "totalPages": 70,
     "averageCharsPerPage": 460,
-    "chapterTitles": []
+    "chapterTitles": [
+      "かげろうの日記"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 3,
       "content": "その一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -159,8 +160,7 @@
       "pageNumber": 14,
       "content": "その二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -214,8 +214,7 @@
       "pageNumber": 23,
       "content": "その三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -269,8 +268,7 @@
       "pageNumber": 32,
       "content": "その四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -318,8 +316,7 @@
       "pageNumber": 40,
       "content": "その五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -403,8 +400,7 @@
       "pageNumber": 54,
       "content": "その六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -452,8 +448,7 @@
       "pageNumber": 62,
       "content": "その七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -483,8 +478,7 @@
       "pageNumber": 67,
       "content": "その八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,

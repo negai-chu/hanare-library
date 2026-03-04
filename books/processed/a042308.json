@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "白雪姫",
         "startPage": 1,
-        "endPage": 21,
-        "summary": "白雪姫と魔法の鏡"
+        "endPage": 21
       }
     ],
     "totalPages": 21,
     "averageCharsPerPage": 550,
-    "chapterTitles": []
+    "chapterTitles": [
+      "白雪姫"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "古代新頌",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-2-section-11",
             "number": "早春",
             "startPage": 29,
-            "endPage": 0
+            "endPage": 30
           }
         ]
       },
@@ -97,7 +97,7 @@
         "id": "chapter-3",
         "title": "白き花鳥図",
         "startPage": 31,
-        "endPage": 0,
+        "endPage": 64,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-3-section-18",
             "number": "老鶏",
             "startPage": 62,
-            "endPage": 0
+            "endPage": 64
           }
         ]
       },
@@ -213,7 +213,7 @@
         "id": "chapter-4",
         "title": "冬眠",
         "startPage": 66,
-        "endPage": 0,
+        "endPage": 83,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -267,7 +267,7 @@
             "id": "chapter-4-section-9",
             "number": "冬の夜",
             "startPage": 80,
-            "endPage": 0
+            "endPage": 83
           }
         ]
       },
@@ -275,7 +275,7 @@
         "id": "chapter-5",
         "title": "月光の谿",
         "startPage": 84,
-        "endPage": 0,
+        "endPage": 105,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -365,7 +365,7 @@
             "id": "chapter-5-section-15",
             "number": "渚",
             "startPage": 103,
-            "endPage": 0
+            "endPage": 105
           }
         ]
       },
@@ -373,7 +373,7 @@
         "id": "chapter-6",
         "title": "風を祭る",
         "startPage": 106,
-        "endPage": 0,
+        "endPage": 128,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -433,7 +433,7 @@
             "id": "chapter-6-section-10",
             "number": "鋼鉄風景",
             "startPage": 125,
-            "endPage": 0
+            "endPage": 128
           }
         ]
       },
@@ -441,7 +441,7 @@
         "id": "chapter-7",
         "title": "珠数工の夜",
         "startPage": 129,
-        "endPage": 0,
+        "endPage": 167,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -549,7 +549,7 @@
             "id": "chapter-7-section-18",
             "number": "椎の葉",
             "startPage": 167,
-            "endPage": 0
+            "endPage": 167
           }
         ]
       },
@@ -557,7 +557,7 @@
         "id": "chapter-8",
         "title": "童話の月",
         "startPage": 168,
-        "endPage": 0,
+        "endPage": 185,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -623,7 +623,7 @@
             "id": "chapter-8-section-11",
             "number": "猟季",
             "startPage": 184,
-            "endPage": 0
+            "endPage": 185
           }
         ]
       },
@@ -631,7 +631,7 @@
         "id": "chapter-9",
         "title": "海豹と雲",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -697,7 +697,7 @@
             "id": "chapter-9-section-11",
             "number": "熊人",
             "startPage": 225,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -705,7 +705,7 @@
         "id": "chapter-10",
         "title": "春の蚊",
         "startPage": 228,
-        "endPage": 0,
+        "endPage": 239,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -741,7 +741,7 @@
             "id": "chapter-10-section-6",
             "number": "魚の里",
             "startPage": 237,
-            "endPage": 0
+            "endPage": 239
           }
         ]
       },
@@ -749,7 +749,7 @@
         "id": "chapter-11",
         "title": "月夜孟宗の図",
         "startPage": 243,
-        "endPage": 0,
+        "endPage": 254,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -821,7 +821,7 @@
             "id": "chapter-11-section-12",
             "number": "あてのない消息",
             "startPage": 253,
-            "endPage": 0
+            "endPage": 254
           }
         ]
       },
@@ -829,7 +829,7 @@
         "id": "chapter-12",
         "title": "花楮",
         "startPage": 255,
-        "endPage": 0,
+        "endPage": 268,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -907,7 +907,7 @@
             "id": "chapter-12-section-13",
             "number": "花楮",
             "startPage": 268,
-            "endPage": 0
+            "endPage": 268
           }
         ]
       },
@@ -915,7 +915,7 @@
         "id": "chapter-13",
         "title": "水郷の早春",
         "startPage": 269,
-        "endPage": 0,
+        "endPage": 283,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -939,7 +939,7 @@
             "id": "chapter-13-section-4",
             "number": "水村の春",
             "startPage": 276,
-            "endPage": 0
+            "endPage": 283
           }
         ]
       },
@@ -947,7 +947,7 @@
         "id": "chapter-14",
         "title": "金粉の靄",
         "startPage": 284,
-        "endPage": 0,
+        "endPage": 292,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -995,7 +995,7 @@
             "id": "chapter-14-section-8",
             "number": "樹",
             "startPage": 292,
-            "endPage": 0
+            "endPage": 292
           }
         ]
       },

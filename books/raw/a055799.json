@@ -48,7 +48,9 @@
     ],
     "totalPages": 41,
     "averageCharsPerPage": 297,
-    "chapterTitles": []
+    "chapterTitles": [
+      "合縁奇縁"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "第一回の失敗",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 11,
       "content": "意気軒昂の水鳥会",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -184,8 +184,7 @@
       "pageNumber": 22,
       "content": "第二の失敗",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -233,8 +232,7 @@
       "pageNumber": 30,
       "content": "三度目の正直",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

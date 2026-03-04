@@ -36,7 +36,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 340,
-    "chapterTitles": []
+    "chapterTitles": [
+      "四百年後の東京"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "神田川",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "東京湾",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

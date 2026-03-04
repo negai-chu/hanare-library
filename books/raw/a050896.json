@@ -48,7 +48,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 388,
-    "chapterTitles": []
+    "chapterTitles": [
+      "自由の真髄"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "内部の矩と外部の矩",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 5,
       "content": "内部の矩となるべき胸中のある者",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -100,8 +100,7 @@
       "pageNumber": 8,
       "content": "内外の矩の衝突した場合",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -119,8 +118,7 @@
       "pageNumber": 11,
       "content": "デモクラシーの指導者",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,

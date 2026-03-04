@@ -108,7 +108,9 @@
     ],
     "totalPages": 65,
     "averageCharsPerPage": 426,
-    "chapterTitles": []
+    "chapterTitles": [
+      "NIELS BOHR"
+    ]
   },
   "content": [
     {
@@ -122,8 +124,7 @@
       "pageNumber": 2,
       "content": "§１．Bohr の地位．",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -141,8 +142,7 @@
       "pageNumber": 5,
       "content": "§２．生立ち．",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -166,8 +166,7 @@
       "pageNumber": 9,
       "content": "§３．古典的量子論．",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -215,8 +214,7 @@
       "pageNumber": 17,
       "content": "§４.　Bohr の理論物理學研究所．",
       "characters": 19,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -252,8 +250,7 @@
       "pageNumber": 23,
       "content": "§５.　對應原理と原子構造．",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -289,8 +286,7 @@
       "pageNumber": 29,
       "content": "§６.　量子力學の發見．",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -308,8 +304,7 @@
       "pageNumber": 32,
       "content": "§７.　量子論の哲學的考察――相補性＊．",
       "characters": 20,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -351,8 +346,7 @@
       "pageNumber": 39,
       "content": "§８.　他の領域に於ける相補性＊．",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -376,8 +370,7 @@
       "pageNumber": 43,
       "content": "§９.　原子核の理論．",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -389,8 +382,7 @@
       "pageNumber": 45,
       "content": "§10.　Bohr と學術會議．",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -402,8 +394,7 @@
       "pageNumber": 47,
       "content": "§11.　日本に於ける Bohr．",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -421,8 +412,7 @@
       "pageNumber": 50,
       "content": "§12.　Bohr の論文並に著書．",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -434,8 +424,7 @@
       "pageNumber": 52,
       "content": "論文目録：",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -501,8 +490,7 @@
       "pageNumber": 63,
       "content": "著書目録：",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,

@@ -174,7 +174,9 @@
     ],
     "totalPages": 572,
     "averageCharsPerPage": 379,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新書太閤記"
+    ]
   },
   "content": [
     {
@@ -188,8 +190,7 @@
       "pageNumber": 2,
       "content": "春《はる》の客《きゃく》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -327,8 +328,7 @@
       "pageNumber": 25,
       "content": "洲股《すのまた》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -514,8 +514,7 @@
       "pageNumber": 56,
       "content": "龍呼《りゅうこ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -719,8 +718,7 @@
       "pageNumber": 90,
       "content": "大器《たいき》の相《そう》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -804,8 +802,7 @@
       "pageNumber": 104,
       "content": "山川皆兵《さんせんかいへい》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -937,8 +934,7 @@
       "pageNumber": 126,
       "content": "一擒《いっきん》一縦《いっしょう》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1118,8 +1114,7 @@
       "pageNumber": 156,
       "content": "竹中半兵衛《たけなかはんべえ》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 157,
@@ -1227,8 +1222,7 @@
       "pageNumber": 174,
       "content": "病孫子《びょうそんし》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 175,
@@ -1342,8 +1336,7 @@
       "pageNumber": 193,
       "content": "山中人《さんちゅうじん》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 194,
@@ -1559,8 +1552,7 @@
       "pageNumber": 229,
       "content": "桃源《とうげん》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 230,
@@ -1632,8 +1624,7 @@
       "pageNumber": 241,
       "content": "竿頭一瓢《かんとういっぴょう》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 242,
@@ -1855,8 +1846,7 @@
       "pageNumber": 278,
       "content": "母《はは》に侍《じ》す",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 279,
@@ -2030,8 +2020,7 @@
       "pageNumber": 307,
       "content": "隣交遠計《りんこうえんけい》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 308,
@@ -2151,8 +2140,7 @@
       "pageNumber": 327,
       "content": "密客《みっきゃく》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 328,
@@ -2248,8 +2236,7 @@
       "pageNumber": 343,
       "content": "桔梗《ききょう》咲《さ》く",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 344,
@@ -2417,8 +2404,7 @@
       "pageNumber": 371,
       "content": "春風行《しゅんぷうこう》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 372,
@@ -2502,8 +2488,7 @@
       "pageNumber": 385,
       "content": "伊勢軍功帳《いせぐんこうちょう》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 386,
@@ -2665,8 +2650,7 @@
       "pageNumber": 412,
       "content": "於市《おいち》・於虎《おとら》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 413,
@@ -2864,8 +2848,7 @@
       "pageNumber": 445,
       "content": "大義",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 446,
@@ -2913,8 +2896,7 @@
       "pageNumber": 453,
       "content": "二十一日記",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 454,
@@ -3016,8 +2998,7 @@
       "pageNumber": 470,
       "content": "七番楽《しちばんがく》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 471,
@@ -3101,8 +3082,7 @@
       "pageNumber": 484,
       "content": "建設の音",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 485,
@@ -3204,8 +3184,7 @@
       "pageNumber": 501,
       "content": "堺町人《さかいちょうにん》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 502,
@@ -3325,8 +3304,7 @@
       "pageNumber": 521,
       "content": "名器《めいき》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 522,
@@ -3446,8 +3424,7 @@
       "pageNumber": 541,
       "content": "北征《ほくせい》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 542,

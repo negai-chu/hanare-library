@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "哀詩数篇",
         "startPage": 1,
-        "endPage": 7,
+        "endPage": 5,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "くらがり",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "暮の鐘",
-            "startPage": 5,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 7,
-    "averageCharsPerPage": 64,
-    "chapterTitles": []
+    "totalPages": 5,
+    "averageCharsPerPage": 90,
+    "chapterTitles": [
+      "哀詩数篇"
+    ]
   },
   "content": [
     {
@@ -48,38 +50,24 @@
     },
     {
       "pageNumber": 2,
-      "content": "くらがり",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　くらがり\n\n　なすによしなき哀れさよ、\n\n早や日数経て、今日《けう》の日も\n\n暗《くら》がりわたる物おもひ。\n\n水や空なる波の上に、\n\n淋しくかゝる綾雲《あやぐも》は、\n\nやがて消ゆべき希望《のぞみ》かや。\n\nその希望もて吾が道は、\n\n深海《ふかみ》の底の青貝の、\n\n螺線の中のゆきもどり。",
+      "characters": 146,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　なすによしなき哀れさよ、\n\n早や日数経て、今日《けう》の日も\n\n暗《くら》がりわたる物おもひ。\n\n水や空なる波の上に、\n\n淋しくかゝる綾雲《あやぐも》は、\n\nやがて消ゆべき希望《のぞみ》かや。\n\nその希望もて吾が道は、\n\n深海《ふかみ》の底の青貝の、\n\n螺線の中のゆきもどり。",
-      "characters": 139,
+      "content": "物の幾度□《（不明）》貝□《（不明）》葉に、\n\n灰色なせる涙もて、\n\n悲哀の文字を印せしも、\n\n暗き深みのみなぞこの、\n\n声も言葉もかよわねば、\n\n昨日も今日も、かくて暮れゆく。暮の鐘",
+      "characters": 92,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "物の幾度□《（不明）》貝□《（不明）》葉に、\n\n灰色なせる涙もて、\n\n悲哀の文字を印せしも、\n\n暗き深みのみなぞこの、\n\n声も言葉もかよわねば、\n\n昨日も今日も、かくて暮れゆく。",
-      "characters": 89,
-      "ruby": []
-    },
-    {
-      "pageNumber": 5,
-      "content": "暮の鐘",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
       "content": "灰色の雲かさなりて、\n\n黄昏《たそがれ》は死人のけわひ。\n\nしく／＼と泣きいる風は、\n\n谷隈《たにくま》の底をはひ出で、\n\n黄ばみたる木立はらひぬ。\n\n冷やかな自然よ君と、\n\n今日も又、かくて暮れゆく、\n\n哀音の鐘の響きは、\n\n痛みたる君が胸より、",
       "characters": 124,
       "ruby": []
     },
     {
-      "pageNumber": 7,
+      "pageNumber": 5,
       "content": "傷《い》た振《ぶ》るる、苦患《くげん》の声か。\n\nうなだるる眼ひらきて\n\n黄昏の空を仰げば\n\n奥津城の岩のほとりの、\n\n小山なす屍《かばね》の上に、\n\n胸もどき声をきゝしる。",
       "characters": 87,
       "ruby": []

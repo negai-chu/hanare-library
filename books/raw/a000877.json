@@ -42,7 +42,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 426,
-    "chapterTitles": []
+    "chapterTitles": [
+      "千年後の世界"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "冷凍死",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "裸の女教授",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -124,8 +124,7 @@
       "pageNumber": 13,
       "content": "火星との戦争",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

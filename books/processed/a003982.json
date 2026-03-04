@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "旭川から",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "旭川からの便り"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 443,
-    "chapterTitles": []
+    "chapterTitles": [
+      "旭川から"
+    ]
   },
   "content": [
     {

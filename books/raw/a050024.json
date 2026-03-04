@@ -42,7 +42,9 @@
     ],
     "totalPages": 18,
     "averageCharsPerPage": 400,
-    "chapterTitles": []
+    "chapterTitles": [
+      "赤城山"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一　赤城の大沼",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 9,
       "content": "二　黒檜山",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -124,8 +124,7 @@
       "pageNumber": 13,
       "content": "三　沼尾溪の紅葉",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "碑文",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "碑文に刻む言葉"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 513,
-    "chapterTitles": []
+    "chapterTitles": [
+      "碑文"
+    ]
   },
   "content": [
     {

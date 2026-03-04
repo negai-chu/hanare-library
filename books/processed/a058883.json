@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "序言",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-3",
         "title": "一　政治の意味と本質",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-3-section-7",
             "number": "７　政治と国家",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 26
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-4",
         "title": "二　国家",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -109,7 +109,7 @@
             "id": "chapter-4-section-5",
             "number": "５　国家の本質",
             "startPage": 42,
-            "endPage": 0
+            "endPage": 45
           }
         ]
       },
@@ -117,7 +117,7 @@
         "id": "chapter-5",
         "title": "三　政治と人間性",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 66,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -147,7 +147,7 @@
             "id": "chapter-5-section-5",
             "number": "５　政治的人間の理念",
             "startPage": 63,
-            "endPage": 0
+            "endPage": 66
           }
         ]
       },
@@ -155,7 +155,7 @@
         "id": "chapter-6",
         "title": "四　政治闘争の要因及び手段と統合の態様",
         "startPage": 67,
-        "endPage": 0,
+        "endPage": 86,
         "sections": [
           {
             "id": "chapter-6-section-1",

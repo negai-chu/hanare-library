@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "はじめに",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "釣って食べて　また釣って〈釣り十二ヵ月〉",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 96,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-2-section-11",
             "number": "江戸前の釣り・ハゼ〈十一月・十二月〉",
             "startPage": 85,
-            "endPage": 0
+            "endPage": 96
           }
         ]
       },
@@ -97,7 +97,7 @@
         "id": "chapter-3",
         "title": "ところ変われば釣り変わる",
         "startPage": 97,
-        "endPage": 0,
+        "endPage": 145,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -127,7 +127,7 @@
             "id": "chapter-3-section-5",
             "number": "釣れない釣りのたのしさ",
             "startPage": 137,
-            "endPage": 0
+            "endPage": 145
           }
         ]
       },

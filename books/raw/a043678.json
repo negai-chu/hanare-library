@@ -42,7 +42,9 @@
     ],
     "totalPages": 51,
     "averageCharsPerPage": 557,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地虫"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "一、紅《あか》い水母《くらげ》",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -153,8 +154,7 @@
       "pageNumber": 18,
       "content": "二、定期風に乗る男",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -256,8 +256,7 @@
       "pageNumber": 35,
       "content": "三、影法師の鰓《えら》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "編輯当番より",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "編輯当番としての挨拶"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 343,
-    "chapterTitles": []
+    "chapterTitles": [
+      "編輯当番より"
+    ]
   },
   "content": [
     {

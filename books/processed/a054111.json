@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "みんな悲しげにそう思う",
-        "startPage": 1,
-        "endPage": 5
+        "startPage": 3,
+        "endPage": 6
       }
     ],
-    "totalPages": 5,
-    "averageCharsPerPage": 89,
-    "chapterTitles": []
+    "totalPages": 6,
+    "averageCharsPerPage": 74,
+    "chapterTitles": [
+      "みんな悲しげにそう思う"
+    ]
   },
   "content": [
     {
@@ -40,18 +42,25 @@
     },
     {
       "pageNumber": 3,
-      "content": "みんな悲しげにそう思う\n\n今朝も\n\nおっかあ達は\n\nここ　町の入口で\n\nがやがやとかけひきに余念がない\n\n家の側を流れる溝で\n\n夜になって　月にぬれて\n\n野菜や果物を洗ってみたい\n\n自分で手入れて",
-      "characters": 98,
-      "ruby": []
+      "content": "みんな悲しげにそう思う",
+      "characters": 11,
+      "ruby": [],
+      "displayType": "book-title"
     },
     {
       "pageNumber": 4,
-      "content": "自分でみがいて\n\n売りにいってみたい\n\nみんなそう思うのだが\n\n今日も\n\n雨にしがみつくような銃声がきこえて来る\n\n「敵は左方　四百米」\n\n稲田の畔の　こえぐろの影で\n\n赤と白\n\n半々の旗がひらめいている",
-      "characters": 102,
+      "content": "今朝も\n\nおっかあ達は\n\nここ　町の入口で\n\nがやがやとかけひきに余念がない\n\n家の側を流れる溝で\n\n夜になって　月にぬれて\n\n野菜や果物を洗ってみたい\n\n自分で手入れて",
+      "characters": 85,
       "ruby": []
     },
     {
       "pageNumber": 5,
+      "content": "　自分でみがいて\n\n売りにいってみたい\n\nみんなそう思うのだが\n\n今日も\n\n雨にしがみつくような銃声がきこえて来る\n\n「敵は左方　四百米」\n\n稲田の畔の　こえぐろの影で\n\n赤と白\n\n半々の旗がひらめいている",
+      "characters": 103,
+      "ruby": []
+    },
+    {
+      "pageNumber": 6,
       "content": "俺達ゃ　はらはらする\n\n「追撃」の声もろとも\n\n泥田の畔をふみ砕いてつき進む群\n\n「畑だったら\n\n畑だったら、わやくそだ！」\n\nみんな悲しげにそう思う\n\n（『車輪』一九三六年九月号に発表　一九七九年二月野田子発行『倉橋潤一郎作品集』を底本）",
       "characters": 120,
       "ruby": []

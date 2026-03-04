@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "自序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "雪国の春",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-2-section-6",
             "number": "六",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -67,7 +67,7 @@
         "id": "chapter-3",
         "title": "『真澄遊覧記』を読む",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 52,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -127,7 +127,7 @@
             "id": "chapter-3-section-10",
             "number": "一〇",
             "startPage": 50,
-            "endPage": 0
+            "endPage": 52
           }
         ]
       },
@@ -135,7 +135,7 @@
         "id": "chapter-4",
         "title": "雪中随筆",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 73,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -207,7 +207,7 @@
             "id": "chapter-4-section-12",
             "number": "旧文明のなごり",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 73
           }
         ]
       },
@@ -215,7 +215,7 @@
         "id": "chapter-5",
         "title": "北の野の緑",
         "startPage": 74,
-        "endPage": 0,
+        "endPage": 79,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -239,7 +239,7 @@
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 79,
-            "endPage": 0
+            "endPage": 79
           }
         ]
       },
@@ -247,7 +247,7 @@
         "id": "chapter-6",
         "title": "草木と海と",
         "startPage": 80,
-        "endPage": 0,
+        "endPage": 104,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -307,7 +307,7 @@
             "id": "chapter-6-section-10",
             "number": "風景を栽える",
             "startPage": 102,
-            "endPage": 0
+            "endPage": 104
           }
         ]
       },
@@ -315,7 +315,7 @@
         "id": "chapter-7",
         "title": "豆手帖から",
         "startPage": 105,
-        "endPage": 0,
+        "endPage": 165,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -429,7 +429,7 @@
             "id": "chapter-7-section-19",
             "number": "浜の月夜",
             "startPage": 162,
-            "endPage": 0
+            "endPage": 165
           }
         ]
       },
@@ -437,7 +437,7 @@
         "id": "chapter-8",
         "title": "清光館哀史",
         "startPage": 166,
-        "endPage": 0,
+        "endPage": 175,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -479,7 +479,7 @@
             "id": "chapter-8-section-7",
             "number": "七",
             "startPage": 174,
-            "endPage": 0
+            "endPage": 175
           }
         ]
       },
@@ -487,13 +487,13 @@
         "id": "chapter-9",
         "title": "津軽の旅",
         "startPage": 176,
-        "endPage": 0
+        "endPage": 182
       },
       {
         "id": "chapter-10",
         "title": "おがさべり――男鹿風景談――",
         "startPage": 183,
-        "endPage": 0,
+        "endPage": 211,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -577,7 +577,7 @@
             "id": "chapter-10-section-14",
             "number": "旅人の種類",
             "startPage": 209,
-            "endPage": 0
+            "endPage": 211
           }
         ]
       },

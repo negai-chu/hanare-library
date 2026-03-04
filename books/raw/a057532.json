@@ -180,7 +180,9 @@
     ],
     "totalPages": 210,
     "averageCharsPerPage": 490,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新宝島"
+    ]
   },
   "content": [
     {
@@ -194,8 +196,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -207,8 +208,7 @@
       "pageNumber": 4,
       "content": "不思議な帆船",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -256,8 +256,7 @@
       "pageNumber": 12,
       "content": "闇の中の綱渡",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -317,8 +316,7 @@
       "pageNumber": 22,
       "content": "ボートの中の三人",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -354,8 +352,7 @@
       "pageNumber": 28,
       "content": "生か死か",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -409,8 +406,7 @@
       "pageNumber": 37,
       "content": "椰子《やし》の実",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -476,8 +472,7 @@
       "pageNumber": 48,
       "content": "鹿と鸚鵡《おうむ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -519,8 +514,7 @@
       "pageNumber": 55,
       "content": "人間のいない国",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -592,8 +586,7 @@
       "pageNumber": 67,
       "content": "難破船",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -629,8 +622,7 @@
       "pageNumber": 73,
       "content": "火と水",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -672,8 +664,7 @@
       "pageNumber": 80,
       "content": "日の丸",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -715,8 +706,7 @@
       "pageNumber": 87,
       "content": "哲雄君の第二の手柄",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -770,8 +760,7 @@
       "pageNumber": 96,
       "content": "やまと島《じま》の住民",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -819,8 +808,7 @@
       "pageNumber": 104,
       "content": "地底の声",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -874,8 +862,7 @@
       "pageNumber": 113,
       "content": "洞窟の怪人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -941,8 +928,7 @@
       "pageNumber": 124,
       "content": "黄金の国",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 125,
@@ -996,8 +982,7 @@
       "pageNumber": 133,
       "content": "魔の湖",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1045,8 +1030,7 @@
       "pageNumber": 141,
       "content": "ポパイの最期",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 142,
@@ -1094,8 +1078,7 @@
       "pageNumber": 149,
       "content": "地獄への旅",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 150,
@@ -1161,8 +1144,7 @@
       "pageNumber": 160,
       "content": "火の柱",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 161,
@@ -1198,8 +1180,7 @@
       "pageNumber": 166,
       "content": "大暗黒",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 167,
@@ -1253,8 +1234,7 @@
       "pageNumber": 175,
       "content": "星だ！　星だ！",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1302,8 +1282,7 @@
       "pageNumber": 183,
       "content": "鰐",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 184,
@@ -1351,8 +1330,7 @@
       "pageNumber": 191,
       "content": "夢の国",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
@@ -1388,8 +1366,7 @@
       "pageNumber": 197,
       "content": "黄金宮殿",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1437,8 +1414,7 @@
       "pageNumber": 205,
       "content": "凱旋の日こそ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 206,

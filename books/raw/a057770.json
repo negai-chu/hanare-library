@@ -168,7 +168,9 @@
     ],
     "totalPages": 143,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "夜明けの辻"
+    ]
   },
   "content": [
     {
@@ -182,8 +184,7 @@
       "pageNumber": 2,
       "content": "一の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -213,8 +214,7 @@
       "pageNumber": 7,
       "content": "一の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -250,8 +250,7 @@
       "pageNumber": 13,
       "content": "一の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -287,8 +286,7 @@
       "pageNumber": 19,
       "content": "一の四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -324,8 +322,7 @@
       "pageNumber": 25,
       "content": "二の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -367,8 +364,7 @@
       "pageNumber": 32,
       "content": "二の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -410,8 +406,7 @@
       "pageNumber": 39,
       "content": "二の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -447,8 +442,7 @@
       "pageNumber": 45,
       "content": "二の四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -484,8 +478,7 @@
       "pageNumber": 51,
       "content": "三の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -521,8 +514,7 @@
       "pageNumber": 57,
       "content": "三の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 58,
@@ -558,8 +550,7 @@
       "pageNumber": 63,
       "content": "三の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -589,8 +580,7 @@
       "pageNumber": 68,
       "content": "三の四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -632,8 +622,7 @@
       "pageNumber": 75,
       "content": "四の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -669,8 +658,7 @@
       "pageNumber": 81,
       "content": "四の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -706,8 +694,7 @@
       "pageNumber": 87,
       "content": "四の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -743,8 +730,7 @@
       "pageNumber": 93,
       "content": "四の四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,
@@ -780,8 +766,7 @@
       "pageNumber": 99,
       "content": "五の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 100,
@@ -811,8 +796,7 @@
       "pageNumber": 104,
       "content": "五の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 105,
@@ -848,8 +832,7 @@
       "pageNumber": 110,
       "content": "五の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -885,8 +868,7 @@
       "pageNumber": 116,
       "content": "五の四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -922,8 +904,7 @@
       "pageNumber": 122,
       "content": "六の一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -953,8 +934,7 @@
       "pageNumber": 127,
       "content": "六の二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -990,8 +970,7 @@
       "pageNumber": 133,
       "content": "六の三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1021,8 +1000,7 @@
       "pageNumber": 138,
       "content": "六の四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,

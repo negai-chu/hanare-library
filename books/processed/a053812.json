@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "著者の言葉",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "年中行事",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-2-section-11",
             "number": "祭と季節",
             "startPage": 64,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -97,7 +97,7 @@
         "id": "chapter-3",
         "title": "歳時小記",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 89,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -211,7 +211,7 @@
             "id": "chapter-3-section-19",
             "number": "耳くじり（五月五日）",
             "startPage": 88,
-            "endPage": 0
+            "endPage": 89
           }
         ]
       },
@@ -219,37 +219,37 @@
         "id": "chapter-4",
         "title": "春おこない",
         "startPage": 90,
-        "endPage": 0
+        "endPage": 94
       },
       {
         "id": "chapter-5",
         "title": "三月節供",
         "startPage": 95,
-        "endPage": 0
+        "endPage": 99
       },
       {
         "id": "chapter-6",
         "title": "卯月八日",
         "startPage": 100,
-        "endPage": 0
+        "endPage": 111
       },
       {
         "id": "chapter-7",
         "title": "サンバイ降しの日",
         "startPage": 112,
-        "endPage": 0
+        "endPage": 125
       },
       {
         "id": "chapter-8",
         "title": "六月朔日の雪",
         "startPage": 126,
-        "endPage": 0
+        "endPage": 127
       },
       {
         "id": "chapter-9",
         "title": "眠流《ねむりなが》し考",
         "startPage": 128,
-        "endPage": 0,
+        "endPage": 159,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -315,7 +315,7 @@
             "id": "chapter-9-section-11",
             "number": "一一",
             "startPage": 155,
-            "endPage": 0
+            "endPage": 159
           }
         ]
       },
@@ -323,7 +323,7 @@
         "id": "chapter-10",
         "title": "犬飼七夕譚《いぬかいたなばただん》",
         "startPage": 160,
-        "endPage": 0,
+        "endPage": 180,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -383,7 +383,7 @@
             "id": "chapter-10-section-10",
             "number": "一〇",
             "startPage": 178,
-            "endPage": 0
+            "endPage": 180
           }
         ]
       },
@@ -391,49 +391,49 @@
         "id": "chapter-11",
         "title": "精霊二種のこと其他",
         "startPage": 181,
-        "endPage": 0
+        "endPage": 185
       },
       {
         "id": "chapter-12",
         "title": "おくんちのこと",
         "startPage": 186,
-        "endPage": 0
+        "endPage": 188
       },
       {
         "id": "chapter-13",
         "title": "十月十日の夜",
         "startPage": 189,
-        "endPage": 0
+        "endPage": 190
       },
       {
         "id": "chapter-14",
         "title": "亥の子のこと",
         "startPage": 191,
-        "endPage": 0
+        "endPage": 193
       },
       {
         "id": "chapter-15",
         "title": "案山子祭《かがしまつり》",
         "startPage": 194,
-        "endPage": 0
+        "endPage": 206
       },
       {
         "id": "chapter-16",
         "title": "ミカワリ考の試み",
         "startPage": 207,
-        "endPage": 0
+        "endPage": 220
       },
       {
         "id": "chapter-17",
         "title": "臼《うす》の目切り",
         "startPage": 221,
-        "endPage": 0
+        "endPage": 223
       },
       {
         "id": "chapter-18",
         "title": "二十三夜塔《にじゅうさんやとう》",
         "startPage": 224,
-        "endPage": 0,
+        "endPage": 272,
         "sections": [
           {
             "id": "chapter-18-section-1",
@@ -565,7 +565,7 @@
             "id": "chapter-18-section-22",
             "number": "祭の仮屋",
             "startPage": 269,
-            "endPage": 0
+            "endPage": 272
           }
         ]
       },
@@ -573,7 +573,7 @@
         "id": "chapter-19",
         "title": "歳時習俗語彙序《さいじしゅうぞくごいじょ》",
         "startPage": 273,
-        "endPage": 0
+        "endPage": 277
       },
       {
         "id": "chapter-20",

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "無題",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "字数制限への反骨の短文"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 231,
-    "chapterTitles": []
+    "chapterTitles": [
+      "無題"
+    ]
   },
   "content": [
     {

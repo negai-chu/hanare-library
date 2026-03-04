@@ -48,7 +48,9 @@
     ],
     "totalPages": 94,
     "averageCharsPerPage": 650,
-    "chapterTitles": []
+    "chapterTitles": [
+      "古代国語の音韻に就いて"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -237,8 +238,7 @@
       "pageNumber": 31,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -388,8 +388,7 @@
       "pageNumber": 56,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -581,8 +580,7 @@
       "pageNumber": 88,
       "content": "附録　万葉仮名類別表",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 89,

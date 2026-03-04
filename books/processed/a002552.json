@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "六日間",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "六日間の日記の記録"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 538,
-    "chapterTitles": []
+    "chapterTitles": [
+      "六日間"
+    ]
   },
   "content": [
     {

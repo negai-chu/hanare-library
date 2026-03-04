@@ -108,7 +108,9 @@
     ],
     "totalPages": 40,
     "averageCharsPerPage": 297,
-    "chapterTitles": []
+    "chapterTitles": [
+      "習書要訣"
+    ]
   },
   "content": [
     {
@@ -134,8 +136,7 @@
       "pageNumber": 4,
       "content": "中国の書",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -153,8 +154,7 @@
       "pageNumber": 7,
       "content": "書家の書",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -166,8 +166,7 @@
       "pageNumber": 9,
       "content": "専門家の習書",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -179,8 +178,7 @@
       "pageNumber": 11,
       "content": "愛書家の習書",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -198,8 +196,7 @@
       "pageNumber": 14,
       "content": "愛書家の心得",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -217,8 +214,7 @@
       "pageNumber": 17,
       "content": "技術の練習",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -236,8 +232,7 @@
       "pageNumber": 20,
       "content": "習書の根本",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -255,8 +250,7 @@
       "pageNumber": 23,
       "content": "習書と手本",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -268,8 +262,7 @@
       "pageNumber": 25,
       "content": "金になる書と楽しむ書",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -287,8 +280,7 @@
       "pageNumber": 28,
       "content": "手習いよりも鑑賞",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -306,8 +298,7 @@
       "pageNumber": 31,
       "content": "能書は優美でなくてはならぬ",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -319,8 +310,7 @@
       "pageNumber": 33,
       "content": "能書と俗書",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -344,8 +334,7 @@
       "pageNumber": 37,
       "content": "能書の時代",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -357,8 +346,7 @@
       "pageNumber": 39,
       "content": "自分を語る",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,

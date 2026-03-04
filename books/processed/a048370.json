@@ -17,61 +17,61 @@
         "id": "chapter-1",
         "title": "福々しき身の上となるために",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-2",
         "title": "賢い人と賢くない人と",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 10
       },
       {
         "id": "chapter-3",
         "title": "自由時間を無駄にしないように",
         "startPage": 11,
-        "endPage": 0
+        "endPage": 14
       },
       {
         "id": "chapter-4",
         "title": "味わいて食事せよ",
         "startPage": 15,
-        "endPage": 0
+        "endPage": 17
       },
       {
         "id": "chapter-5",
         "title": "二つの心得",
         "startPage": 18,
-        "endPage": 0
+        "endPage": 22
       },
       {
         "id": "chapter-6",
         "title": "目と頭を忘れてはいないか",
         "startPage": 23,
-        "endPage": 0
+        "endPage": 27
       },
       {
         "id": "chapter-7",
         "title": "掃除のしかた",
         "startPage": 28,
-        "endPage": 0
+        "endPage": 33
       },
       {
         "id": "chapter-8",
         "title": "雑巾《ぞうきん》がけのしかた",
         "startPage": 34,
-        "endPage": 0
+        "endPage": 37
       },
       {
         "id": "chapter-9",
         "title": "炭火の扱い方",
         "startPage": 38,
-        "endPage": 0
+        "endPage": 43
       },
       {
         "id": "chapter-10",
         "title": "留守居の心得",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 49,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -101,7 +101,7 @@
             "id": "chapter-10-section-5",
             "number": "むつまじく静粛に",
             "startPage": 48,
-            "endPage": 0
+            "endPage": 49
           }
         ]
       },
@@ -109,13 +109,13 @@
         "id": "chapter-11",
         "title": "使いにいくとき取り次ぎに出たとき",
         "startPage": 50,
-        "endPage": 0
+        "endPage": 51
       },
       {
         "id": "chapter-12",
         "title": "こうすれば子供に好かれます",
         "startPage": 52,
-        "endPage": 0,
+        "endPage": 58,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -139,7 +139,7 @@
             "id": "chapter-12-section-4",
             "number": "子供の味方になってやること",
             "startPage": 56,
-            "endPage": 0
+            "endPage": 58
           }
         ]
       },

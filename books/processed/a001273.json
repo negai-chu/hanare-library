@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "自叙伝",
         "startPage": 1,
-        "endPage": 192,
-        "summary": "獄中から始まる回想"
+        "endPage": 192
       }
     ],
     "totalPages": 192,
     "averageCharsPerPage": 608,
-    "chapterTitles": []
+    "chapterTitles": [
+      "自叙伝"
+    ]
   },
   "content": [
     {

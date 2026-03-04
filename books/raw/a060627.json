@@ -102,7 +102,9 @@
     ],
     "totalPages": 88,
     "averageCharsPerPage": 474,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本の美"
+    ]
   },
   "content": [
     {
@@ -116,8 +118,7 @@
       "pageNumber": 2,
       "content": "一　西洋の美と東洋の美",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -165,8 +166,7 @@
       "pageNumber": 10,
       "content": "二　中国と日本の美",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -208,8 +208,7 @@
       "pageNumber": 17,
       "content": "三　日本のこころと日本の美",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -245,8 +244,7 @@
       "pageNumber": 23,
       "content": "四　文学――さやけさ・もののあわれ",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -300,8 +298,7 @@
       "pageNumber": 32,
       "content": "五　文学――幽玄・わび",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -343,8 +340,7 @@
       "pageNumber": 39,
       "content": "六　文学――軽み・いき",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -386,8 +382,7 @@
       "pageNumber": 46,
       "content": "七　美術（その一）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -423,8 +418,7 @@
       "pageNumber": 52,
       "content": "八　美術（その二）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 53,
@@ -466,8 +460,7 @@
       "pageNumber": 59,
       "content": "九　美術（その三）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -503,8 +496,7 @@
       "pageNumber": 65,
       "content": "一〇　音楽",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -540,8 +532,7 @@
       "pageNumber": 71,
       "content": "一一　舞台",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -577,8 +568,7 @@
       "pageNumber": 77,
       "content": "一二　世界における日本の美の位置",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -614,8 +604,7 @@
       "pageNumber": 83,
       "content": "一三　日本の美を貫くもの",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 84,

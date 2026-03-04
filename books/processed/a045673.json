@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "私の著作集",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "自作の創作集を振り返る"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 235,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私の著作集"
+    ]
   },
   "content": [
     {

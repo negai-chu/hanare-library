@@ -66,7 +66,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 353,
-    "chapterTitles": []
+    "chapterTitles": [
+      "柊の垣のうちから"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 5,
       "content": "柊の垣にかこまれて",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -136,8 +136,7 @@
       "pageNumber": 11,
       "content": "花",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -161,8 +160,7 @@
       "pageNumber": 15,
       "content": "表情",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -204,8 +202,7 @@
       "pageNumber": 22,
       "content": "絶望",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -217,8 +214,7 @@
       "pageNumber": 24,
       "content": "又か、といふこと",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -248,8 +244,7 @@
       "pageNumber": 29,
       "content": "二つの死",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,

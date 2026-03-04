@@ -192,7 +192,9 @@
     ],
     "totalPages": 169,
     "averageCharsPerPage": 470,
-    "chapterTitles": []
+    "chapterTitles": [
+      "魔法博士"
+    ]
   },
   "content": [
     {
@@ -206,8 +208,7 @@
       "pageNumber": 2,
       "content": "動く映画館",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -267,8 +268,7 @@
       "pageNumber": 12,
       "content": "悪魔の国",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -298,8 +298,7 @@
       "pageNumber": 17,
       "content": "人造人間",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -335,8 +334,7 @@
       "pageNumber": 23,
       "content": "黄金怪人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -360,8 +358,7 @@
       "pageNumber": 27,
       "content": "井戸の中から",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 28,
@@ -409,8 +406,7 @@
       "pageNumber": 35,
       "content": "奇々怪々",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -446,8 +442,7 @@
       "pageNumber": 41,
       "content": "笑う怪人",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -477,8 +472,7 @@
       "pageNumber": 46,
       "content": "怪老人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -508,8 +502,7 @@
       "pageNumber": 51,
       "content": "黒い穴",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -539,8 +532,7 @@
       "pageNumber": 56,
       "content": "巨人の口",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -576,8 +568,7 @@
       "pageNumber": 62,
       "content": "胎内《たいない》くぐり",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -625,8 +616,7 @@
       "pageNumber": 70,
       "content": "魔術の種",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -668,8 +658,7 @@
       "pageNumber": 77,
       "content": "小林少年の知恵",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -717,8 +706,7 @@
       "pageNumber": 85,
       "content": "洞窟《どうくつ》の怪黒人",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 86,
@@ -742,8 +730,7 @@
       "pageNumber": 89,
       "content": "バラバラ少年",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -773,8 +760,7 @@
       "pageNumber": 94,
       "content": "大魔術",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -822,8 +808,7 @@
       "pageNumber": 102,
       "content": "巨大なもの",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -859,8 +844,7 @@
       "pageNumber": 108,
       "content": "煙のように",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -884,8 +868,7 @@
       "pageNumber": 112,
       "content": "悪魔のなぞ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -915,8 +898,7 @@
       "pageNumber": 117,
       "content": "Ｂ・Ｄバッジ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -946,8 +928,7 @@
       "pageNumber": 122,
       "content": "黒い怪物",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -977,8 +958,7 @@
       "pageNumber": 127,
       "content": "ロウ人形",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1014,8 +994,7 @@
       "pageNumber": 133,
       "content": "まっかな滝",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1057,8 +1036,7 @@
       "pageNumber": 140,
       "content": "地底の牢獄",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1100,8 +1078,7 @@
       "pageNumber": 147,
       "content": "きちがい怪人",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 148,
@@ -1149,8 +1126,7 @@
       "pageNumber": 155,
       "content": "びっくり箱",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1180,8 +1156,7 @@
       "pageNumber": 160,
       "content": "さいごの切札",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 161,
@@ -1211,8 +1186,7 @@
       "pageNumber": 165,
       "content": "名探偵の勝利",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 166,

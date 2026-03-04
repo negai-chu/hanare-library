@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "巴里の唄うたい",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "巴里の街の唄うたい"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 555,
-    "chapterTitles": []
+    "chapterTitles": [
+      "巴里の唄うたい"
+    ]
   },
   "content": [
     {

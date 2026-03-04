@@ -54,7 +54,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 354,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ある温泉の由来"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "長い伝統",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 11,
       "content": "馬の合う中学生二人",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -172,8 +172,7 @@
       "pageNumber": 19,
       "content": "荒神風呂の亀",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -233,8 +232,7 @@
       "pageNumber": 29,
       "content": "友情の精勤者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -282,8 +280,7 @@
       "pageNumber": 37,
       "content": "郷土歴史から富源開拓",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,

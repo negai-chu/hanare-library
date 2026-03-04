@@ -17,133 +17,115 @@
         "id": "chapter-1",
         "title": "第一章",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 77,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 19,
-            "summary": "診療所の日常"
+            "endPage": 19
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 20,
-            "endPage": 53,
-            "summary": "患者との交流"
+            "endPage": 53
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 54,
-            "endPage": 65,
-            "summary": "医師の苦悩"
+            "endPage": 65
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 66,
-            "endPage": 0,
-            "summary": "使命感の芽生え"
+            "endPage": 77
           }
-        ],
-        "summary": "医師と患者の出会い"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "第二章",
         "startPage": 78,
-        "endPage": 0,
+        "endPage": 142,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 79,
-            "endPage": 91,
-            "summary": "新たな患者"
+            "endPage": 91
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 92,
-            "endPage": 104,
-            "summary": "治療への模索"
+            "endPage": 104
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 105,
-            "endPage": 117,
-            "summary": "信頼の深まり"
+            "endPage": 117
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 118,
-            "endPage": 134,
-            "summary": "地域との絆"
+            "endPage": 134
           },
           {
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 135,
-            "endPage": 0,
-            "summary": "医師の決意"
+            "endPage": 142
           }
-        ],
-        "summary": "地域医療の奮闘"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第三章",
         "startPage": 143,
-        "endPage": 0,
+        "endPage": 207,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 144,
-            "endPage": 157,
-            "summary": "予期せぬ出来事"
+            "endPage": 157
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 158,
-            "endPage": 165,
-            "summary": "揺れる心"
+            "endPage": 165
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 166,
-            "endPage": 176,
-            "summary": "周囲の反応"
+            "endPage": 176
           },
           {
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 177,
-            "endPage": 190,
-            "summary": "内省の時"
+            "endPage": 190
           },
           {
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 191,
-            "endPage": 198,
-            "summary": "新たな道"
+            "endPage": 198
           },
           {
             "id": "chapter-3-section-6",
             "number": "六",
             "startPage": 199,
-            "endPage": 0,
-            "summary": "覚悟の表明"
+            "endPage": 207
           }
-        ],
-        "summary": "転機と覚悟"
+        ]
       },
       {
         "id": "chapter-4",
@@ -155,46 +137,39 @@
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 209,
-            "endPage": 220,
-            "summary": "再出発の朝"
+            "endPage": 220
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 221,
-            "endPage": 232,
-            "summary": "変わる風景"
+            "endPage": 232
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 233,
-            "endPage": 243,
-            "summary": "患者の声"
+            "endPage": 243
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 244,
-            "endPage": 254,
-            "summary": "静かな誇り"
+            "endPage": 254
           },
           {
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 255,
-            "endPage": 266,
-            "summary": "未来への眼差し"
+            "endPage": 266
           },
           {
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 267,
-            "endPage": 273,
-            "summary": "医の道の先"
+            "endPage": 273
           }
-        ],
-        "summary": "医師としての歩み"
+        ]
       }
     ],
     "totalPages": 273,

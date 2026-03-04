@@ -204,7 +204,9 @@
     ],
     "totalPages": 373,
     "averageCharsPerPage": 521,
-    "chapterTitles": []
+    "chapterTitles": [
+      "フランケンシュタイン"
+    ]
   },
   "content": [
     {
@@ -218,8 +220,7 @@
       "pageNumber": 2,
       "content": "主要登場人物",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -231,8 +232,7 @@
       "pageNumber": 4,
       "content": "ウォルトンの手紙（第一）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -268,8 +268,7 @@
       "pageNumber": 10,
       "content": "ウォルトンの手紙（第二）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -317,8 +316,7 @@
       "pageNumber": 18,
       "content": "ウォルトンの手紙（第三）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -336,8 +334,7 @@
       "pageNumber": 21,
       "content": "ウォルトンの手紙（第四）",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -415,8 +412,7 @@
       "pageNumber": 34,
       "content": "１　私の生いたち",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -470,8 +466,7 @@
       "pageNumber": 43,
       "content": "２　自然哲学への夢",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -543,8 +538,7 @@
       "pageNumber": 55,
       "content": "３　運命の門出",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -622,8 +616,7 @@
       "pageNumber": 68,
       "content": "４　生命の創造へ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 69,
@@ -695,8 +688,7 @@
       "pageNumber": 80,
       "content": "五　クレルヴァルとの再会",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -762,8 +754,7 @@
       "pageNumber": 91,
       "content": "６　故郷からの便り",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -847,8 +838,7 @@
       "pageNumber": 105,
       "content": "７　暴風雨のなかで",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -956,8 +946,7 @@
       "pageNumber": 123,
       "content": "８　罪なき者の処刑",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -1053,8 +1042,7 @@
       "pageNumber": 139,
       "content": "９　呪わしい苦悩",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 140,
@@ -1126,8 +1114,7 @@
       "pageNumber": 151,
       "content": "10　怪物とのめぐりあい",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1193,8 +1180,7 @@
       "pageNumber": 162,
       "content": "11　物置小屋での寝起き",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 163,
@@ -1272,8 +1258,7 @@
       "pageNumber": 175,
       "content": "12　フェリクスの家族",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1339,8 +1324,7 @@
       "pageNumber": 186,
       "content": "13　アラビア娘の来訪",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 187,
@@ -1406,8 +1390,7 @@
       "pageNumber": 197,
       "content": "14　家の人たちの身の上",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1461,8 +1444,7 @@
       "pageNumber": 206,
       "content": "15　怪物とド・ラセー老人",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 207,
@@ -1558,8 +1540,7 @@
       "pageNumber": 222,
       "content": "16　怪物の旅",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 223,
@@ -1649,8 +1630,7 @@
       "pageNumber": 237,
       "content": "17　怪物との約束",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 238,
@@ -1704,8 +1684,7 @@
       "pageNumber": 246,
       "content": "18　イギリスへの旅立ち",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 247,
@@ -1795,8 +1774,7 @@
       "pageNumber": 261,
       "content": "19　荒凉たる孤島で",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 262,
@@ -1874,8 +1852,7 @@
       "pageNumber": 274,
       "content": "20　約束を破棄して",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 275,
@@ -1965,8 +1942,7 @@
       "pageNumber": 289,
       "content": "21　思いもかけぬ災難",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 290,
@@ -2068,8 +2044,7 @@
       "pageNumber": 306,
       "content": "22　帰郷と結婚",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 307,
@@ -2165,8 +2140,7 @@
       "pageNumber": 322,
       "content": "23　最愛の者の死",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 323,
@@ -2238,8 +2212,7 @@
       "pageNumber": 334,
       "content": "24　極地への追跡",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 335,
@@ -2323,8 +2296,7 @@
       "pageNumber": 348,
       "content": "ウォルトンの手紙　――続き",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 349,

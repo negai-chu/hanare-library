@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "話の種",
         "startPage": 1,
-        "endPage": 60,
-        "summary": "科学の話題と逸話集"
+        "endPage": 60
       }
     ],
     "totalPages": 60,
     "averageCharsPerPage": 565,
-    "chapterTitles": []
+    "chapterTitles": [
+      "話の種"
+    ]
   },
   "content": [
     {

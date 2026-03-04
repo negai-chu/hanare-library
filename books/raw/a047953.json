@@ -84,7 +84,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 329,
-    "chapterTitles": []
+    "chapterTitles": [
+      "エトランジェ"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "七月二十三日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 6,
       "content": "七月二十六日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -136,8 +136,7 @@
       "pageNumber": 8,
       "content": "七月二十八日",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -149,8 +148,7 @@
       "pageNumber": 10,
       "content": "七月三十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -174,8 +172,7 @@
       "pageNumber": 14,
       "content": "八月一日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -187,8 +184,7 @@
       "pageNumber": 16,
       "content": "八月二日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -212,8 +208,7 @@
       "pageNumber": 20,
       "content": "八月四日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -231,8 +226,7 @@
       "pageNumber": 23,
       "content": "八月七日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -250,8 +244,7 @@
       "pageNumber": 26,
       "content": "八月九日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -263,8 +256,7 @@
       "pageNumber": 28,
       "content": "八月十日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,

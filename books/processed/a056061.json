@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "風《かぜ》入《い》れ異変",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 13
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-2",
         "title": "葉隠れ恋",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 25,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -67,7 +67,7 @@
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 22,
-            "endPage": 0
+            "endPage": 25
           }
         ]
       },
@@ -75,7 +75,7 @@
         "id": "chapter-3",
         "title": "宿怨の介錯人《かいしゃくにん》",
         "startPage": 26,
-        "endPage": 0,
+        "endPage": 38,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -99,7 +99,7 @@
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 38
           }
         ]
       },
@@ -107,7 +107,7 @@
         "id": "chapter-4",
         "title": "水装束《みずしょうぞく》",
         "startPage": 39,
-        "endPage": 0,
+        "endPage": 52,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 51,
-            "endPage": 0
+            "endPage": 52
           }
         ]
       },
@@ -139,7 +139,7 @@
         "id": "chapter-5",
         "title": "荒川づたい",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 59,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -151,7 +151,7 @@
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 59
           }
         ]
       },
@@ -159,7 +159,7 @@
         "id": "chapter-6",
         "title": "北斗の顫《おのの》き",
         "startPage": 60,
-        "endPage": 0,
+        "endPage": 73,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -177,7 +177,7 @@
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 69,
-            "endPage": 0
+            "endPage": 73
           }
         ]
       },

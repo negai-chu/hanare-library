@@ -30,7 +30,9 @@
     ],
     "totalPages": 3,
     "averageCharsPerPage": 132,
-    "chapterTitles": []
+    "chapterTitles": [
+      "安吾新日本風土記"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "挨拶",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

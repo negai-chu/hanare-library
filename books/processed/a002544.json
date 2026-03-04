@@ -17,155 +17,133 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "詩集への序文"
+        "endPage": 15
       },
       {
         "id": "chapter-2",
         "title": "夕の光",
         "startPage": 16,
-        "endPage": 84,
-        "summary": "夕暮れの光の詩"
+        "endPage": 84
       },
       {
         "id": "chapter-3",
         "title": "殯宮\r\n　　（本尾秋遊の死を悼む）",
         "startPage": 174,
-        "endPage": 201,
-        "summary": "友の死を悼む哀歌"
+        "endPage": 201
       },
       {
         "id": "chapter-4",
         "title": "森の家なる\r\n　　（姉の行きたるは十五歳の春なりき）",
         "startPage": 341,
-        "endPage": 0,
-        "summary": "嫁いだ姉への思い"
+        "endPage": 363
       },
       {
         "id": "chapter-5",
         "title": "沼にて",
         "startPage": 364,
-        "endPage": 382,
-        "summary": "沼辺の情景の詩"
+        "endPage": 382
       },
       {
         "id": "chapter-6",
         "title": "落し水\r\n　　（山内冬彦をいたむ）",
         "startPage": 510,
-        "endPage": 0,
-        "summary": "友への追悼の詩"
+        "endPage": 537
       },
       {
         "id": "chapter-7",
         "title": "獨木舟",
         "startPage": 2054,
-        "endPage": 0,
-        "summary": "独木舟の旅情"
+        "endPage": 2102
       },
       {
         "id": "chapter-8",
         "title": "天なる光",
         "startPage": 551,
-        "endPage": 0,
-        "summary": "天上の光への憧れ"
+        "endPage": 553
       },
       {
         "id": "chapter-9",
         "title": "人故妻を逐はれて",
         "startPage": 389,
-        "endPage": 436,
-        "summary": "離縁された女の嘆き"
+        "endPage": 436
       },
       {
         "id": "chapter-10",
         "title": "葭原雀\r\n　　鬼怒川に近き小村に、母のゆかりを尋ねて、さすらひ來しポルチカル人の孤兒あり、夕ぐれ其門を過りて",
         "startPage": 679,
-        "endPage": 706,
-        "summary": "異国の孤児の物語"
+        "endPage": 706
       },
       {
         "id": "chapter-11",
         "title": "石廊崎に立ちて\r\n　　（月島丸をおもふ）",
         "startPage": 846,
-        "endPage": 873,
-        "summary": "岬に立つ追憶"
+        "endPage": 873
       },
       {
         "id": "chapter-12",
         "title": "彌生子に\r\n　　（醉茗がいとし兒に）",
         "startPage": 1013,
-        "endPage": 1040,
-        "summary": "友の愛し子への詩"
+        "endPage": 1040
       },
       {
         "id": "chapter-13",
         "title": "沈める星\r\n　　（子を失ひし人に）",
         "startPage": 1180,
-        "endPage": 1207,
-        "summary": "子を失った人への哀歌"
+        "endPage": 1207
       },
       {
         "id": "chapter-14",
         "title": "やまめとり\r\n　　（女）",
         "startPage": 1347,
-        "endPage": 1374,
-        "summary": "山女を捕る女の詩"
+        "endPage": 1374
       },
       {
         "id": "chapter-15",
         "title": "星のまびき\r\n　　（辱められし少女あり）",
         "startPage": 1514,
-        "endPage": 1541,
-        "summary": "辱められた少女の星"
+        "endPage": 1541
       },
       {
         "id": "chapter-16",
         "title": "破れし築地",
         "startPage": 85,
-        "endPage": 99,
-        "summary": "破れた築地の情景"
+        "endPage": 99
       },
       {
         "id": "chapter-17",
         "title": "かたち",
         "startPage": 1943,
-        "endPage": 0,
-        "summary": "形への思索の詩"
+        "endPage": 1971
       },
       {
         "id": "chapter-18",
         "title": "旅にして",
         "startPage": 437,
-        "endPage": 0,
-        "summary": "旅路の詩情"
+        "endPage": 509
       },
       {
         "id": "chapter-19",
         "title": "野の花",
         "startPage": 100,
-        "endPage": 121,
-        "summary": "野に咲く花の詩"
+        "endPage": 121
       },
       {
         "id": "chapter-20",
         "title": "常陸より\r\n　　（人の武藏に居るに）",
         "startPage": 1686,
-        "endPage": 1713,
-        "summary": "常陸から武蔵への便り"
+        "endPage": 1713
       },
       {
         "id": "chapter-21",
         "title": "征矢の光\r\n　　『無弦弓』を讀む",
         "startPage": 1853,
-        "endPage": 1880,
-        "summary": "弓の詩集への感想"
+        "endPage": 1880
       },
       {
         "id": "chapter-22",
         "title": "哀歌",
         "startPage": 122,
-        "endPage": 131,
-        "summary": "悲しみの哀歌"
+        "endPage": 131
       },
       {
         "id": "chapter-23",
@@ -203,36 +181,31 @@
             "startPage": 1981,
             "endPage": 2160
           }
-        ],
-        "summary": "五月雨と髪の詩"
+        ]
       },
       {
         "id": "chapter-24",
         "title": "その夜更けて",
         "startPage": 132,
-        "endPage": 144,
-        "summary": "夜更けの静寂の詩"
+        "endPage": 144
       },
       {
         "id": "chapter-25",
         "title": "なづさふ野火",
         "startPage": 1987,
-        "endPage": 0,
-        "summary": "野火の詩情"
+        "endPage": 1991
       },
       {
         "id": "chapter-26",
         "title": "星夜",
         "startPage": 2161,
-        "endPage": 0,
-        "summary": "星夜の情景"
+        "endPage": 2184
       },
       {
         "id": "chapter-27",
         "title": "やれだいこ\r\n　　（烏水の家に宿りて）",
         "startPage": 2026,
-        "endPage": 2053,
-        "summary": "友の家での一夜"
+        "endPage": 2053
       },
       {
         "id": "chapter-28",
@@ -252,22 +225,19 @@
             "startPage": 155,
             "endPage": 2146
           }
-        ],
-        "summary": "筑紫への船旅"
+        ]
       },
       {
         "id": "chapter-29",
         "title": "湖の畔にて",
         "startPage": 2185,
-        "endPage": 0,
-        "summary": "湖畔の静かな詩"
+        "endPage": 2191
       },
       {
         "id": "chapter-30",
         "title": "富士を仰ぎて",
         "startPage": 2192,
-        "endPage": 2197,
-        "summary": "富士山を仰ぐ詩"
+        "endPage": 2197
       }
     ],
     "totalPages": 2197,

@@ -17,93 +17,94 @@
         "id": "chapter-1",
         "title": "大利根八十里を溯る",
         "startPage": 1,
-        "endPage": 45,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "前橋の鈴蘭燈籠",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "榛名と赤城の連山",
-            "startPage": 5,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "越後街道を渋川へ",
-            "startPage": 8,
-            "endPage": 11
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "半田烏に八木原狐",
-            "startPage": 12,
-            "endPage": 14
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-5",
             "number": "長野街道の宿場",
-            "startPage": 15,
-            "endPage": 18
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-6",
             "number": "魚の棲めない川",
-            "startPage": 19,
-            "endPage": 21
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-7",
             "number": "山間特有の美人郷",
-            "startPage": 22,
-            "endPage": 25
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-8",
             "number": "毒消売りの娘子軍",
-            "startPage": 26,
-            "endPage": 27
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-9",
             "number": "四万温泉の一夜",
-            "startPage": 28,
-            "endPage": 29
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-10",
             "number": "四万温泉の丑の刻",
-            "startPage": 30,
-            "endPage": 34
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-11",
             "number": "関東の耶馬渓",
-            "startPage": 35,
-            "endPage": 37
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-12",
             "number": "川底から湧く温泉",
-            "startPage": 38,
-            "endPage": 40
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-13",
             "number": "草津温泉の名物",
-            "startPage": 41,
-            "endPage": 45
+            "startPage": 1,
+            "endPage": 1
           }
-        ],
-        "summary": "利根川沿いの紀行"
+        ]
       }
     ],
-    "totalPages": 45,
-    "averageCharsPerPage": 93,
-    "chapterTitles": []
+    "totalPages": 31,
+    "averageCharsPerPage": 135,
+    "chapterTitles": [
+      "大利根八十里を溯る"
+    ]
   },
   "content": [
     {
@@ -115,277 +116,180 @@
     },
     {
       "pageNumber": 2,
-      "content": "前橋の鈴蘭燈籠",
-      "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　前橋の鈴蘭燈籠\n\n　停車場前から市街の外側をめぐる、新にひらかれた八間道路は前橋市の一偉観である。鈴懸けの街路樹が深緑の葉を夕風にそよがせて、見るからに涼しげであつた。夜は鈴蘭の花にかたどつた鈴蘭燈籠がついて、夏の夜にふさはしい『明け易き』といふ感じがある。民謡二篇。\n\n　　　○\n\n来たらよく見な\n\n鈴蘭燈籠\n\n小花四つで\n\n親一つ\n\n　　　○\n\n夜の前橋ア\n\n鈴蘭燈籠",
+      "characters": 187,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　停車場前から市街の外側をめぐる、新にひらかれた八間道路は前橋市の一偉観である。鈴懸けの街路樹が深緑の葉を夕風にそよがせて、見るからに涼しげであつた。夜は鈴蘭の花にかたどつた鈴蘭燈籠がついて、夏の夜にふさはしい『明け易き』といふ感じがある。民謡二篇。\n\n　　　○\n\n来たらよく見な\n\n鈴蘭燈籠\n\n小花四つで\n\n親一つ\n\n　　　○\n\n夜の前橋ア\n\n鈴蘭燈籠",
-      "characters": 177,
+      "content": "お月ヤ出なくも\n\n闇はない榛名と赤城の連山",
+      "characters": 21,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "　お月ヤ出なくも\n\n闇はない",
-      "characters": 14,
-      "ruby": []
-    },
-    {
-      "pageNumber": 5,
-      "content": "榛名と赤城の連山",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
       "content": "　西には榛名の連山が見え、北には赤城の連山が見える。前橋市は自然美の中につつまれてゐる都会である。民謡三篇。\n\n　　　○\n\n榛名山から\n\n烏の子でも\n\nおれと遊びに\n\n飛んで来な\n\n　　　〇\n\n赤城山から\n\n兎の子でも",
       "characters": 109,
       "ruby": []
     },
     {
-      "pageNumber": 7,
-      "content": "おれと遊びに\n\nはねて来な\n\n　　　○\n\n烏ア来ぬ来ぬ\n\n兎も来ない\n\nおれと遊ぶが\n\nいやなのか",
-      "characters": 49,
+      "pageNumber": 5,
+      "content": "おれと遊びに\n\nはねて来な\n\n　　　○\n\n烏ア来ぬ来ぬ\n\n兎も来ない\n\nおれと遊ぶが\n\nいやなのか越後街道を渋川へ",
+      "characters": 57,
       "ruby": []
     },
     {
-      "pageNumber": 8,
-      "content": "越後街道を渋川へ",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
+      "pageNumber": 6,
       "content": "　前橋市から、越後街道を利根の流れにそふて、渋川へ向ふ。この辺一帯に桑畑である。童謡一篇。\n\n　　　○\n\nここらあたりは\n\n桑畑\n\n蚕さんが見たなら\n\nはつて来よな\n\nアララノラツテバ\n\nアララノラ\n\n　桑畑の中の、ところどころに芋畑があつて、いもの葉が川風にそよいでゐる。民謡一篇。",
       "characters": 142,
       "ruby": []
     },
     {
-      "pageNumber": 10,
+      "pageNumber": 7,
       "content": "　　　○\n\n土用が来たから\n\n畑のいもは\n\n子でも出来たか\n\nいそいそと\n\n　行くことおよそ二里、群馬県下で一番古い鉄橋の坂東橋がある。利根の水はすさまじい勢ひで橋の下を流れてゐる。この辺が利根川唯一のあゆの産地と聞いた。\n\nあゆは瀬にひれふりあり《ママ》あそび\n\nわれは野に子供と共に旗ふり遊ぶ\n\n　且て長良川に遊びしときの旧作なぞ思ひ出して坂東橋を渡る。民謡一篇。",
       "characters": 184,
       "ruby": []
     },
     {
-      "pageNumber": 11,
-      "content": "　　　○\n\n坂東橋渡る\n\n坂東橋渡る\n\n小あゆこつち見た\n\n狐花咲いた\n\n咲いてしぼんで\n\nまた咲いた\n\n小あゆこつち見な\n\n狐花咲いた　このあたりの田園には、赤い狐花がそちこちに咲いてゐた。",
-      "characters": 96,
+      "pageNumber": 8,
+      "content": "　　　○\n\n坂東橋渡る\n\n坂東橋渡る\n\n小あゆこつち見た\n\n狐花咲いた\n\n咲いてしぼんで\n\nまた咲いた\n\n小あゆこつち見な\n\n狐花咲いた　このあたりの田園には、赤い狐花がそちこちに咲いてゐた。半田烏に八木原狐",
+      "characters": 104,
       "ruby": []
     },
     {
-      "pageNumber": 12,
-      "content": "半田烏に八木原狐",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 13,
+      "pageNumber": 9,
       "content": "　坂東橋を越せば、有名な群馬県の模範村古巻村である。十数年前までは『半田烏に八木原狐』とうたはれたほど、淫靡極まる不良村であつたのが、現村長儘田氏の努力によつて今では全国でも有数の模範村となつたのである。儘田氏が今日までの努力は、涙なしでは聞かれぬ幾多の美談がある。村人が今二宮と称して儘田氏を尊敬してゐるのを見ても如何に実践実行の人格者であるかが想像される。童謡一篇。\n\n　　　○\n\n儘田村長さんは\n\n鉄砲打つた\n\n半田烏は\n\nもうゐない\n\n八木原狐も\n\nもうゐない\n\n儘田村長さんは",
       "characters": 243,
       "ruby": []
     },
     {
-      "pageNumber": 14,
-      "content": "鉄砲打つた\n\n　やがて、渋川町へ着いた。大利根は渋川で二つにわかれて、一つは沼田方面へ、一つは草津方面へ、となる。私は草津方面へ利根の水源吾妻川にそふて渋川を立つた。いよいよ之からが私の書かうとする利根水源の探勝記である。民謡一篇。\n\n　　　○\n\n上州渋川\n\nまた来るまでは\n\nおれが来たとは\n\n話すなよ",
-      "characters": 152,
+      "pageNumber": 10,
+      "content": "鉄砲打つた\n\n　やがて、渋川町へ着いた。大利根は渋川で二つにわかれて、一つは沼田方面へ、一つは草津方面へ、となる。私は草津方面へ利根の水源吾妻川にそふて渋川を立つた。いよいよ之からが私の書かうとする利根水源の探勝記である。民謡一篇。\n\n　　　○\n\n上州渋川\n\nまた来るまでは\n\nおれが来たとは\n\n話すなよ長野街道の宿場",
+      "characters": 159,
       "ruby": []
     },
     {
-      "pageNumber": 15,
-      "content": "長野街道の宿場",
-      "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 16,
+      "pageNumber": 11,
       "content": "　越後街道は渋川で二つにわかれて一つは長野街道となる。長野街道は利根の支流吾妻川に沿ふて信濃路に入る唯一の川街道である。私は長野街道を吾妻川の水源にむかつて渋川を立つた。街道筋の宿場宿場には、馬車の立場や、古風な茶店や昔そのままのおもかげが残つてゐる。民謡四篇。\n\n　　　◇\n\n長野街道の\n\n道真ン中で\n\n馬がないてた\n\nおれを見て\n\n　　　◇\n\n長野街道の\n\nしやんこしやんこ馬は",
       "characters": 191,
       "ruby": []
     },
     {
-      "pageNumber": 17,
+      "pageNumber": 12,
       "content": "どこで生れた\n\n馬だやら\n\n　　　◇\n\n小石蹴つたら\n\n茶店の前で\n\n小石アたまげて\n\nころげてつた\n\n　　　◇\n\n小石アたまげる",
       "characters": 65,
       "ruby": []
     },
     {
-      "pageNumber": 18,
-      "content": "もうおら蹴らぬ\n\nかかと眺めて\n\nさうおもた",
-      "characters": 22,
+      "pageNumber": 13,
+      "content": "もうおら蹴らぬ\n\nかかと眺めて\n\nさうおもた魚の棲めない川",
+      "characters": 29,
       "ruby": []
     },
     {
-      "pageNumber": 19,
-      "content": "魚の棲めない川",
-      "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 20,
+      "pageNumber": 14,
       "content": "　吾妻川は、吾妻郡の中央に連起してゐるけはしい山のふもとを奔流して大利根へ落ちてゆく。沼尻橋の展望や岩井洞の奇観や到る処に沢山の勝景がある。民謡一篇。\n\n　　　◇\n\n下へ下へと\n\n早瀬の水は\n\nなぜかいそいで\n\n流れてる\n\n　草津温泉から渋川までおよそ十里間、吾妻川の流域には草津温泉の湯が流れて魚族は一つも棲んでゐない。私はこの十里間の流域を『魚不棲《うをすまず》川』と名づけてみた。民謡二篇。\n\n　　　◇\n\n上州吾妻",
       "characters": 210,
       "ruby": []
     },
     {
-      "pageNumber": 21,
-      "content": "宿世の縁か\n\n魚の棲めない\n\n川もある\n\n　　　◇\n\n魚の棲めない\n\n吾妻川の\n\n水を眺めて\n\n暮らせとは",
-      "characters": 53,
+      "pageNumber": 15,
+      "content": "宿世の縁か\n\n魚の棲めない\n\n川もある\n\n　　　◇\n\n魚の棲めない\n\n吾妻川の\n\n水を眺めて\n\n暮らせとは山間特有の美人郷",
+      "characters": 61,
       "ruby": []
     },
     {
-      "pageNumber": 22,
-      "content": "山間特有の美人郷",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 23,
+      "pageNumber": 16,
       "content": "　東京では素顔の女は滅多に見ることは出来ないが、ここでは皆素顔の女ばかりである。しかも美人の多いのは、山間特有の天恵であらう。民謡三篇。\n\n　　　◇\n\n姉さ　こつち見な\n\nちよいと顔見せな\n\n頬の笑窪は\n\n誰にもろた\n\n　　　◇\n\n頬の笑窪は\n\nお母さんがくれた",
       "characters": 131,
       "ruby": []
     },
     {
-      "pageNumber": 24,
+      "pageNumber": 17,
       "content": "転んで失《なく》すなと\n\n言ふてくれた\n\n　　　◇\n\n切れる鼻緒の\n\n下駄ならいやだ\n\nころびやお母さんに\n\nしかられる\n\n　素顔の美人は見ることが出来てもさすがは山間のへき地だけに、東京で見るやうなモダン・ガールは見ることは出来ない。童謡一篇。\n\n　　　◇",
       "characters": 129,
       "ruby": []
     },
     {
-      "pageNumber": 25,
-      "content": "モダン・ガール　やい\n\nゐないか　やい\n\nゐたら縞蛇\n\nおつかけるぞ\n\n縞蛇　やい\n\nモダン・ガール　やい\n\nゐないか　やい\n\nモダン・ガール　やい\n\nゐたら縞蛇おつかけるぞ",
-      "characters": 87,
+      "pageNumber": 18,
+      "content": "モダン・ガール　やい\n\nゐないか　やい\n\nゐたら縞蛇\n\nおつかけるぞ\n\n縞蛇　やい\n\nモダン・ガール　やい\n\nゐないか　やい\n\nモダン・ガール　やい\n\nゐたら縞蛇おつかけるぞ毒消売りの娘子軍",
+      "characters": 95,
       "ruby": []
     },
     {
-      "pageNumber": 26,
-      "content": "毒消売りの娘子軍",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 27,
-      "content": "　やがて中之条町についた。吾妻川はここで本流支流の二つにわかれてゐる。私は吾妻川の支流に沿ふて、四万街道を上つて行つた。四万街道は四里の間渓谷の中を川に沿ふてつくられた四万温泉への通路である。途中、越後から来た毒消売りの娘子軍と道連れになつた。娘子軍は世間ずれはしてゐるが、さすがは女である。\n\n『越後出るときやヨー、涙も出たがヨー』なぞと懐郷の念にたへないといふやうな面持ちで歌ひながら歩いてゐる。民謡一篇。\n\n　　　◇\n\n山にや霧立つ\n\n雉子の子さへ\n\n越後恋しか\n\nほろたたく",
-      "characters": 241,
+      "pageNumber": 19,
+      "content": "　やがて中之条町についた。吾妻川はここで本流支流の二つにわかれてゐる。私は吾妻川の支流に沿ふて、四万街道を上つて行つた。四万街道は四里の間渓谷の中を川に沿ふてつくられた四万温泉への通路である。途中、越後から来た毒消売りの娘子軍と道連れになつた。娘子軍は世間ずれはしてゐるが、さすがは女である。\n\n『越後出るときやヨー、涙も出たがヨー』なぞと懐郷の念にたへないといふやうな面持ちで歌ひながら歩いてゐる。民謡一篇。\n\n　　　◇\n\n山にや霧立つ\n\n雉子の子さへ\n\n越後恋しか\n\nほろたたく四万温泉の一夜　四万は渓谷の中のさびしい温泉場であるが、相当な設備の温泉旅館が数軒ある。私は田村旅館の三階から四万の全景を一眸の下に眺めてみた。吾妻川の支流は狭い谷川となつて旅館の前を流れてゐる。小さいながら川上には、小倉の滝、大泉の滝、日南見の滝等の名所がある。\n\n　夕霧は山をめぐつて、いつしか日は霧の中に暮れてしまつた。\n\n　丁度、その夜の丑満《うしみつ》頃である。やみをつんざいてけたたましいときの声が聞えた。ハテナと思ふ瞬間に、階上階下の廊側《らうがは》に右往左往するおびただしい足音も聞えて来た。私は『山賊の襲来』と直感して、すぐはね起きたのである。四万温泉の丑の刻",
+      "characters": 530,
       "ruby": []
     },
     {
-      "pageNumber": 28,
-      "content": "四万温泉の一夜",
-      "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 29,
-      "content": "　四万は渓谷の中のさびしい温泉場であるが、相当な設備の温泉旅館が数軒ある。私は田村旅館の三階から四万の全景を一眸の下に眺めてみた。吾妻川の支流は狭い谷川となつて旅館の前を流れてゐる。小さいながら川上には、小倉の滝、大泉の滝、日南見の滝等の名所がある。\n\n　夕霧は山をめぐつて、いつしか日は霧の中に暮れてしまつた。\n\n　丁度、その夜の丑満《うしみつ》頃である。やみをつんざいてけたたましいときの声が聞えた。ハテナと思ふ瞬間に、階上階下の廊側《らうがは》に右往左往するおびただしい足音も聞えて来た。私は『山賊の襲来』と直感して、すぐはね起きたのである。",
-      "characters": 274,
-      "ruby": []
-    },
-    {
-      "pageNumber": 30,
-      "content": "四万温泉の丑の刻",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 31,
+      "pageNumber": 20,
       "content": "　丑満ごろに、闇をつんざいて聞えた鬨《とき》の声、ただならぬ廊側の足音、てつきり『山賊襲来』と思つたのは、丑の刻を知らせる田村旅館の番頭達の怒鳴り声であつた。童謡一篇。\n\n　　　◇\n\n四万の田村の\n\n番頭さん達は\n\n　ヨイヨイヨイサ\n\n鬨の声あげて\n\n丑の刻知らす\n\n　ヨイヨイヨイサ\n\n夜の夜中だ",
       "characters": 149,
       "ruby": []
     },
     {
-      "pageNumber": 32,
+      "pageNumber": 21,
       "content": "番頭さんも眠い\n\n　ヨイヨイヨイサ\n\n眠い顔して\n\n鬨の声あげた\n\n　ヨイヨイヨイサ\n\n　丁度この日は土用の丑の日である。丑の日の丑の刻に温泉に浸ると万病に特効があるといふしきたりから浴客に時刻を知らせたのである。親切な番頭さん達だ。童謡一篇。\n\n　　　◇\n\n起きなお客さん\n\n丑の刻ア来たよ",
       "characters": 146,
       "ruby": []
     },
     {
-      "pageNumber": 33,
+      "pageNumber": 22,
       "content": "はやく起きぬと\n\n丑の刻ア帰る\n\n一度帰れば\n\n今年は来ない\n\n寝ぼはきらひだ\n\nお寝ぼはいやだ\n\n帰ろ帰ろと\n\n風呂場を見てる\n\n起きなお客さん",
       "characters": 73,
       "ruby": []
     },
     {
-      "pageNumber": 34,
-      "content": "丑の刻ア来たよ\n\n　次の日、中之条まで戻つて、長野街道を再び吾妻川の本流にそふて出かけた。四万温泉の眺望は変化に乏しかつた。民謡一篇。\n\n　　　◇\n\n四万でわく湯も\n\n大利根川の\n\n末にや流れの\n\n水となる",
-      "characters": 103,
+      "pageNumber": 23,
+      "content": "丑の刻ア来たよ\n\n　次の日、中之条まで戻つて、長野街道を再び吾妻川の本流にそふて出かけた。四万温泉の眺望は変化に乏しかつた。民謡一篇。\n\n　　　◇\n\n四万でわく湯も\n\n大利根川の\n\n末にや流れの\n\n水となる関東の耶馬渓",
+      "characters": 109,
       "ruby": []
     },
     {
-      "pageNumber": 35,
-      "content": "関東の耶馬渓",
-      "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 36,
+      "pageNumber": 24,
       "content": "　中之条から原町、原町から郷原《さとはら》までの吾妻川にそふた街道は、麻畑の多い平和な農村である。民謡二篇。\n\n　　　◇\n\n畑たたきたたき\n\n土用かと聞けば\n\n土用だ土用だと\n\n麻がいふた\n\n　　　◇\n\n麻の下葉が\n\n落ちよと枯りよと",
       "characters": 117,
       "ruby": []
     },
     {
-      "pageNumber": 37,
-      "content": "土用に刈らりよか\n\n麻の木を\n\n　岩島からは対岸の山がせまつて来て、吾妻川は次第次第に急流となつて来る。岩島から川原湯までおよそ二里の間は、関東の耶馬渓と称されてゐるこの街道一の絶景であるが、吾妻川の水がすさまじい音を立てながら水煙を吹いて流れてゐるのを見ると、むしろ物すごい感じがする。民謡一篇。\n\n　　　◇\n\nここと銚子とは\n\n五十里もあろに\n\n水は寝ないで\n\n流れてく",
-      "characters": 187,
+      "pageNumber": 25,
+      "content": "土用に刈らりよか\n\n麻の木を\n\n　岩島からは対岸の山がせまつて来て、吾妻川は次第次第に急流となつて来る。岩島から川原湯までおよそ二里の間は、関東の耶馬渓と称されてゐるこの街道一の絶景であるが、吾妻川の水がすさまじい音を立てながら水煙を吹いて流れてゐるのを見ると、むしろ物すごい感じがする。民謡一篇。\n\n　　　◇\n\nここと銚子とは\n\n五十里もあろに\n\n水は寝ないで\n\n流れてく川底から湧く温泉",
+      "characters": 195,
       "ruby": []
     },
     {
-      "pageNumber": 38,
-      "content": "川底から湧く温泉",
-      "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 39,
+      "pageNumber": 26,
       "content": "　やがて長野県についた。吾妻川はここでも本流支流の二つにわかれる。私は支流の須川にそふて上つていつた。およそ二里の川上に湯の平温泉がある。更に二里の川上に花敷温泉がある。二つともこの温泉が川底からわき出してゐるのは奇観である。童謡一篇。\n\n　　　◇\n\nわいたわいたわいた\n\n川からわいた\n\nわいてこぼれて\n\n須川へ流る\n\n流れ流れて\n\n吾妻川へ\n\nもまれもまれて",
       "characters": 181,
       "ruby": []
     },
     {
-      "pageNumber": 40,
-      "content": "大利根川へ\n\nごんぼごんぼごんぼ\n\nこぼれてわいた",
-      "characters": 25,
+      "pageNumber": 27,
+      "content": "大利根川へ\n\nごんぼごんぼごんぼ\n\nこぼれてわいた草津温泉の名物",
+      "characters": 32,
       "ruby": []
     },
     {
-      "pageNumber": 41,
-      "content": "草津温泉の名物",
-      "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 42,
+      "pageNumber": 28,
       "content": "　湯の平温泉から山を一つ越えると『お医者さんでも草津の湯でも……』の草津温泉である。草津温泉には名物の『湯もみ』がある。名所の『賽の河原』もある。不思議な『氷谷』もある。この三つは全く他では見ることの出来ない草津温泉のほこりである。民謡三篇。\n\n　　　◇\n\n湯揉みやはじまる\n\n湯長《ゆちやう》さんの音頭\n\n音頭はづまにや\n\n湯が揉めぬ\n\n　　　◇\n\n賽の河原で\n\nすまぬと思たが",
       "characters": 190,
       "ruby": []
     },
     {
-      "pageNumber": 43,
+      "pageNumber": 29,
       "content": "石の地蔵さま\n\n撫ぜてみた\n\n　　　◇\n\n氷谷かよ\n\n夏でも寒い\n\n岩の中から\n\n風がわく\n\n　私は草津温泉を立つて、吾妻川本流の水源地、上信国境の鳥居峠にむかつた。\n\n　長野街道はどこまでも吾妻川の本流にそふてゐる。落葉松の林や白樺の交つた雑木林を見ても、如何にこの辺が高原であるかが思はれる。民謡一篇。",
       "characters": 153,
       "ruby": []
     },
     {
-      "pageNumber": 44,
+      "pageNumber": 30,
       "content": "　　　◇\n\n雑木林で\n\n白布さらす\n\n可愛や白樺\n\n布さらす\n\n　やがて嬬恋をすぎて鹿沢温泉についた。吾妻川の本流は渓流となつてしまつた。これ以上水源の探勝は探勝家にゆだねたい。私の目的であつた大利根の支流吾妻川にそふて、童謡を歌ひ民謡を歌ひながらの旅はこれで終つた。鹿沢温泉は上州唯一の高原温泉で四囲の眺望は雄大である。民謡一篇。\n\n　　　◇\n\n浅間裾野の\n\n六里が原も",
       "characters": 186,
       "ruby": []
     },
     {
-      "pageNumber": 45,
+      "pageNumber": 31,
       "content": "通へ通へと\n\n風が吹く",
       "characters": 11,
       "ruby": []

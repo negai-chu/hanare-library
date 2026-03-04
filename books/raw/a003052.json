@@ -216,7 +216,9 @@
     ],
     "totalPages": 205,
     "averageCharsPerPage": 379,
-    "chapterTitles": []
+    "chapterTitles": [
+      "地獄の使者"
+    ]
   },
   "content": [
     {
@@ -230,8 +232,7 @@
       "pageNumber": 2,
       "content": "プロローグ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -249,8 +250,7 @@
       "pageNumber": 5,
       "content": "恐ろしい嫌疑",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -280,8 +280,7 @@
       "pageNumber": 10,
       "content": "検証",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -323,8 +322,7 @@
       "pageNumber": 17,
       "content": "どぶ鼠",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -360,8 +358,7 @@
       "pageNumber": 23,
       "content": "弾痕なし",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -397,8 +394,7 @@
       "pageNumber": 29,
       "content": "青い鳥籠",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -434,8 +430,7 @@
       "pageNumber": 35,
       "content": "家政婦",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -495,8 +490,7 @@
       "pageNumber": 45,
       "content": "奇妙な錠前",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -544,8 +538,7 @@
       "pageNumber": 53,
       "content": "庶子何処",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -605,8 +598,7 @@
       "pageNumber": 63,
       "content": "意外な発見",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -660,8 +652,7 @@
       "pageNumber": 72,
       "content": "花活《はないけ》の中",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -685,8 +676,7 @@
       "pageNumber": 76,
       "content": "袋小路",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -734,8 +724,7 @@
       "pageNumber": 84,
       "content": "帆村の余興",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -771,8 +760,7 @@
       "pageNumber": 90,
       "content": "宇平の苦悶",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -808,8 +796,7 @@
       "pageNumber": 96,
       "content": "意外又意外",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -845,8 +832,7 @@
       "pageNumber": 102,
       "content": "護送車",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -876,8 +862,7 @@
       "pageNumber": 107,
       "content": "帆村の事務所（一）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -913,8 +898,7 @@
       "pageNumber": 113,
       "content": "弾丸が綴る言葉",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -944,8 +928,7 @@
       "pageNumber": 118,
       "content": "帆村の事務所（二）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -993,8 +976,7 @@
       "pageNumber": 126,
       "content": "素晴しき報告",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,
@@ -1036,8 +1018,7 @@
       "pageNumber": 133,
       "content": "再出発",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1067,8 +1048,7 @@
       "pageNumber": 138,
       "content": "禅問答",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,
@@ -1104,8 +1084,7 @@
       "pageNumber": 144,
       "content": "三津子登場",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1141,8 +1120,7 @@
       "pageNumber": 150,
       "content": "帆村口を開く",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1172,8 +1150,7 @@
       "pageNumber": 155,
       "content": "嘯《うそぶ》く亀之介",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1221,8 +1198,7 @@
       "pageNumber": 163,
       "content": "空き缶詰",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,
@@ -1258,8 +1234,7 @@
       "pageNumber": 169,
       "content": "缶詰の軽さ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,
@@ -1295,8 +1270,7 @@
       "pageNumber": 175,
       "content": "お手伝いお末の訊問",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 176,
@@ -1338,8 +1312,7 @@
       "pageNumber": 182,
       "content": "小休憩",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 183,
@@ -1369,8 +1342,7 @@
       "pageNumber": 187,
       "content": "意外な行動",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 188,
@@ -1394,8 +1366,7 @@
       "pageNumber": 191,
       "content": "地獄の使者",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 192,
@@ -1437,8 +1408,7 @@
       "pageNumber": 198,
       "content": "呪わしき人々",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 199,

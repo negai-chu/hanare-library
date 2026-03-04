@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一編　歴史の数ページ",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 75,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-1-section-6",
             "number": "六　アンジョーラとその幕僚",
             "startPage": 65,
-            "endPage": 0
+            "endPage": 75
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-2",
         "title": "第二編　エポニーヌ",
         "startPage": 76,
-        "endPage": 0,
+        "endPage": 111,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-2-section-4",
             "number": "四　マリユスに現われし幽霊",
             "startPage": 101,
-            "endPage": 0
+            "endPage": 111
           }
         ]
       },
@@ -93,7 +93,7 @@
         "id": "chapter-3",
         "title": "第三編　プリューメ街の家",
         "startPage": 112,
-        "endPage": 0,
+        "endPage": 183,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -141,7 +141,7 @@
             "id": "chapter-3-section-8",
             "number": "八　一連の囚徒",
             "startPage": 166,
-            "endPage": 0
+            "endPage": 183
           }
         ]
       },
@@ -149,7 +149,7 @@
         "id": "chapter-4",
         "title": "第四編　地より来る天の救い",
         "startPage": 184,
-        "endPage": 0,
+        "endPage": 203,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -161,7 +161,7 @@
             "id": "chapter-4-section-2",
             "number": "二　プリュタルク婆さんの解釈",
             "startPage": 188,
-            "endPage": 0
+            "endPage": 203
           }
         ]
       },
@@ -169,7 +169,7 @@
         "id": "chapter-5",
         "title": "第五編　首尾の相違",
         "startPage": 204,
-        "endPage": 0,
+        "endPage": 237,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-5-section-6",
             "number": "六　老人は適宜に外出するものなり",
             "startPage": 230,
-            "endPage": 0
+            "endPage": 237
           }
         ]
       },
@@ -213,7 +213,7 @@
         "id": "chapter-6",
         "title": "第六編　少年ガヴローシュ",
         "startPage": 238,
-        "endPage": 0,
+        "endPage": 316,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -231,7 +231,7 @@
             "id": "chapter-6-section-3",
             "number": "三　脱走の危急",
             "startPage": 292,
-            "endPage": 0
+            "endPage": 316
           }
         ]
       },
@@ -239,7 +239,7 @@
         "id": "chapter-7",
         "title": "第七編　隠語",
         "startPage": 317,
-        "endPage": 0,
+        "endPage": 367,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -263,7 +263,7 @@
             "id": "chapter-7-section-4",
             "number": "四　二つの義務――警戒と希望",
             "startPage": 359,
-            "endPage": 0
+            "endPage": 367
           }
         ]
       },
@@ -271,7 +271,7 @@
         "id": "chapter-8",
         "title": "第八編　歓喜と憂苦",
         "startPage": 368,
-        "endPage": 0,
+        "endPage": 441,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -321,7 +321,7 @@
         "id": "chapter-9",
         "title": "第九編　彼らはどこへ行く",
         "startPage": 442,
-        "endPage": 0,
+        "endPage": 456,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -339,7 +339,7 @@
             "id": "chapter-9-section-3",
             "number": "三　マブーフ氏",
             "startPage": 449,
-            "endPage": 0
+            "endPage": 456
           }
         ]
       },
@@ -347,7 +347,7 @@
         "id": "chapter-10",
         "title": "第十編　一八三二年六月五日",
         "startPage": 457,
-        "endPage": 0,
+        "endPage": 499,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -377,7 +377,7 @@
             "id": "chapter-10-section-5",
             "number": "五　パリーの特性",
             "startPage": 495,
-            "endPage": 0
+            "endPage": 499
           }
         ]
       },
@@ -385,7 +385,7 @@
         "id": "chapter-11",
         "title": "第十一編　原子と暴風",
         "startPage": 500,
-        "endPage": 0,
+        "endPage": 525,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -421,7 +421,7 @@
             "id": "chapter-11-section-6",
             "number": "六　新加入者",
             "startPage": 522,
-            "endPage": 0
+            "endPage": 525
           }
         ]
       },
@@ -429,7 +429,7 @@
         "id": "chapter-12",
         "title": "第十二編　コラント",
         "startPage": 526,
-        "endPage": 0,
+        "endPage": 593,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -477,7 +477,7 @@
             "id": "chapter-12-section-8",
             "number": "八　ル・カブュクと呼ばるる男に関する疑問",
             "startPage": 585,
-            "endPage": 0
+            "endPage": 593
           }
         ]
       },
@@ -485,7 +485,7 @@
         "id": "chapter-13",
         "title": "第十三編　マリユス闇《やみ》の中に入る",
         "startPage": 594,
-        "endPage": 0,
+        "endPage": 615,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -503,7 +503,7 @@
             "id": "chapter-13-section-3",
             "number": "三　最後の一端",
             "startPage": 605,
-            "endPage": 0
+            "endPage": 615
           }
         ]
       },
@@ -511,7 +511,7 @@
         "id": "chapter-14",
         "title": "第十四編　絶望の壮観",
         "startPage": 616,
-        "endPage": 0,
+        "endPage": 654,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -553,7 +553,7 @@
             "id": "chapter-14-section-7",
             "number": "七　距離の推測に巧みなるガヴローシュ",
             "startPage": 647,
-            "endPage": 0
+            "endPage": 654
           }
         ]
       },

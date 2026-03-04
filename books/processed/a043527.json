@@ -17,14 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 290,
-        "endPage": 0,
-        "summary": "小売商道の序文"
+        "endPage": 527
       },
       {
         "id": "chapter-2",
         "title": "田舎人が東京へ来て失敗する理由",
         "startPage": 210,
-        "endPage": 0,
+        "endPage": 218,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -66,16 +65,15 @@
             "id": "chapter-2-section-7",
             "number": "七、店員の使用法を心得ず",
             "startPage": 218,
-            "endPage": 0
+            "endPage": 218
           }
-        ],
-        "summary": "田舎者の東京での失敗"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "新たに商店を開く注意",
         "startPage": 219,
-        "endPage": 0,
+        "endPage": 288,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -125,8 +123,7 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "新規開店の留意点"
+        ]
       },
       {
         "id": "chapter-4",
@@ -164,14 +161,13 @@
             "startPage": 2,
             "endPage": 2
           }
-        ],
-        "summary": "田舎者に多い商種と真理"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "時代の移り変りに伴う商売のやり方",
         "startPage": 528,
-        "endPage": 0,
+        "endPage": 534,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -195,10 +191,9 @@
             "id": "chapter-5-section-4",
             "number": "交通機関と大商店の発達",
             "startPage": 533,
-            "endPage": 0
+            "endPage": 534
           }
-        ],
-        "summary": "時代変化と商法の適応"
+        ]
       },
       {
         "id": "chapter-6",
@@ -296,8 +291,7 @@
             "startPage": 571,
             "endPage": 573
           }
-        ],
-        "summary": "雇用関係の心得"
+        ]
       }
     ],
     "totalPages": 573,

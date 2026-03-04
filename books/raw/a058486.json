@@ -234,7 +234,9 @@
     ],
     "totalPages": 312,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "影男"
+    ]
   },
   "content": [
     {
@@ -248,8 +250,7 @@
       "pageNumber": 2,
       "content": "断末魔の雄獅子《おじし》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -303,8 +304,7 @@
       "pageNumber": 11,
       "content": "隠形術者",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -358,8 +358,7 @@
       "pageNumber": 20,
       "content": "どん底の人",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -407,8 +406,7 @@
       "pageNumber": 28,
       "content": "空飛ぶ夢",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -438,8 +436,7 @@
       "pageNumber": 33,
       "content": "善神悪神",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -505,8 +502,7 @@
       "pageNumber": 44,
       "content": "闘人",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -572,8 +568,7 @@
       "pageNumber": 55,
       "content": "女装男子",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -615,8 +610,7 @@
       "pageNumber": 62,
       "content": "逆のアリバイ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 63,
@@ -664,8 +658,7 @@
       "pageNumber": 70,
       "content": "死体隠匿術",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -701,8 +694,7 @@
       "pageNumber": 76,
       "content": "善良なる地主",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -732,8 +724,7 @@
       "pageNumber": 81,
       "content": "殺人会社",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -847,8 +838,7 @@
       "pageNumber": 100,
       "content": "底なし沼",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -902,8 +892,7 @@
       "pageNumber": 109,
       "content": "不思議な老人",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 110,
@@ -963,8 +952,7 @@
       "pageNumber": 119,
       "content": "地底の大洋",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,
@@ -1012,8 +1000,7 @@
       "pageNumber": 127,
       "content": "水中巨花",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 128,
@@ -1049,8 +1036,7 @@
       "pageNumber": 133,
       "content": "女体山脈",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1080,8 +1066,7 @@
       "pageNumber": 138,
       "content": "血笑記",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 139,
@@ -1117,8 +1102,7 @@
       "pageNumber": 144,
       "content": "最後の売り物",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 145,
@@ -1184,8 +1168,7 @@
       "pageNumber": 155,
       "content": "恋人誘拐業",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 156,
@@ -1233,8 +1216,7 @@
       "pageNumber": 163,
       "content": "蛇性《じゃせい》の人",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 164,
@@ -1288,8 +1270,7 @@
       "pageNumber": 172,
       "content": "二つの首",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 173,
@@ -1337,8 +1318,7 @@
       "pageNumber": 180,
       "content": "蜘蛛《くも》の糸",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 181,
@@ -1386,8 +1366,7 @@
       "pageNumber": 188,
       "content": "小男の来訪",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 189,
@@ -1447,8 +1426,7 @@
       "pageNumber": 198,
       "content": "殺人前奏曲",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 199,
@@ -1472,8 +1450,7 @@
       "pageNumber": 202,
       "content": "毒チョコレート",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 203,
@@ -1527,8 +1504,7 @@
       "pageNumber": 211,
       "content": "壁紙の下",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 212,
@@ -1588,8 +1564,7 @@
       "pageNumber": 221,
       "content": "消えうせたへや",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 222,
@@ -1631,8 +1606,7 @@
       "pageNumber": 228,
       "content": "海上の密談",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 229,
@@ -1692,8 +1666,7 @@
       "pageNumber": 238,
       "content": "おまえが被害者だ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 239,
@@ -1729,8 +1702,7 @@
       "pageNumber": 244,
       "content": "密室のなぞ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 245,
@@ -1826,8 +1798,7 @@
       "pageNumber": 260,
       "content": "裏の裏",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 261,
@@ -1899,8 +1870,7 @@
       "pageNumber": 272,
       "content": "艶樹《えんじゅ》の森",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 273,
@@ -1990,8 +1960,7 @@
       "pageNumber": 287,
       "content": "明智小五郎",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 288,
@@ -2057,8 +2026,7 @@
       "pageNumber": 298,
       "content": "この世の果て",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 299,
@@ -2088,8 +2056,7 @@
       "pageNumber": 303,
       "content": "肉体の雲",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 304,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "古事記　上《かみ》つ卷　序并はせたり",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 121,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -71,7 +71,7 @@
             "id": "chapter-1-section-9",
             "number": "〔八、鵜葺草葺合へずの命〕",
             "startPage": 121,
-            "endPage": 0
+            "endPage": 121
           }
         ]
       },
@@ -79,7 +79,7 @@
         "id": "chapter-2",
         "title": "古事記　中つ卷",
         "startPage": 122,
-        "endPage": 0,
+        "endPage": 249,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -121,7 +121,7 @@
             "id": "chapter-2-section-7",
             "number": "〔七、應神天皇〕",
             "startPage": 220,
-            "endPage": 0
+            "endPage": 249
           }
         ]
       },

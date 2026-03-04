@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ある手紙",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "旧友への戦時書簡"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 474,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ある手紙"
+    ]
   },
   "content": [
     {

@@ -18,28 +18,28 @@
         "id": "prologue",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 6,
         "summary": "三枚の写真についての前置き"
       },
       {
         "id": "ch1",
         "title": "第一の手記",
         "startPage": 7,
-        "endPage": 0,
+        "endPage": 22,
         "summary": "幼少期から青年期までの恥と道化の日々"
       },
       {
         "id": "ch2",
         "title": "第二の手記",
         "startPage": 23,
-        "endPage": 0,
+        "endPage": 73,
         "summary": "東京での学生生活、堀木との出会い、酒と女"
       },
       {
         "id": "ch3",
         "title": "第三の手記",
         "startPage": 74,
-        "endPage": 0,
+        "endPage": 131,
         "summary": "薬物中毒、精神病院、そして人間失格の宣告",
         "sections": [
           {
@@ -52,7 +52,7 @@
             "id": "section-二",
             "number": "二",
             "startPage": 105,
-            "endPage": 0
+            "endPage": 131
           }
         ]
       },

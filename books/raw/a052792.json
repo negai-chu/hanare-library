@@ -42,7 +42,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 294,
-    "chapterTitles": []
+    "chapterTitles": [
+      "喜劇考"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "KATA-KOMAS",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "KOMAZEIN",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -118,8 +118,7 @@
       "pageNumber": 12,
       "content": "KOMAZEIN ――の意は、「酒を飲んで騒ぎまはつて止め度がない。」といふほどのものである由だ。",
       "characters": 49,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -131,8 +130,7 @@
       "pageNumber": 14,
       "content": "KOMOIDAS",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -144,8 +142,7 @@
       "pageNumber": 16,
       "content": "KATA-KOMAS の「村から村へ」の語が源となつて、「酔ふて騒ぐ」の KOMAZEIN の単語を生じ、更にこれが転じて「喜劇的」或は「喜劇俳優」の意なる KOMOIDAS の言葉が生れたと云ひ伝へられる、この云ひ伝へは遠い昔ギリシヤ文明の発生期に起る。",
       "characters": 128,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

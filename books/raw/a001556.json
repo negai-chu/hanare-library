@@ -222,7 +222,9 @@
     ],
     "totalPages": 144,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "滝口入道"
+    ]
   },
   "content": [
     {
@@ -236,8 +238,7 @@
       "pageNumber": 2,
       "content": "第一",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -261,8 +262,7 @@
       "pageNumber": 6,
       "content": "第二",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -292,8 +292,7 @@
       "pageNumber": 11,
       "content": "第三",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -329,8 +328,7 @@
       "pageNumber": 17,
       "content": "第四",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -354,8 +352,7 @@
       "pageNumber": 21,
       "content": "第五",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -379,8 +376,7 @@
       "pageNumber": 25,
       "content": "第六",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -410,8 +406,7 @@
       "pageNumber": 30,
       "content": "第七",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -435,8 +430,7 @@
       "pageNumber": 34,
       "content": "第八",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -466,8 +460,7 @@
       "pageNumber": 39,
       "content": "第九",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -485,8 +478,7 @@
       "pageNumber": 42,
       "content": "第十",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -510,8 +502,7 @@
       "pageNumber": 46,
       "content": "第十一",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -535,8 +526,7 @@
       "pageNumber": 50,
       "content": "第十二",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -566,8 +556,7 @@
       "pageNumber": 55,
       "content": "第十三",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -591,8 +580,7 @@
       "pageNumber": 59,
       "content": "第十四",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -622,8 +610,7 @@
       "pageNumber": 64,
       "content": "第十五",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -653,8 +640,7 @@
       "pageNumber": 69,
       "content": "第十六",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -684,8 +670,7 @@
       "pageNumber": 74,
       "content": "第十七",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,
@@ -709,8 +694,7 @@
       "pageNumber": 78,
       "content": "第十八",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 79,
@@ -734,8 +718,7 @@
       "pageNumber": 82,
       "content": "第十九",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 83,
@@ -759,8 +742,7 @@
       "pageNumber": 86,
       "content": "第二十",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -784,8 +766,7 @@
       "pageNumber": 90,
       "content": "第二十一",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 91,
@@ -809,8 +790,7 @@
       "pageNumber": 94,
       "content": "第二十二",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -828,8 +808,7 @@
       "pageNumber": 97,
       "content": "第二十三",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -853,8 +832,7 @@
       "pageNumber": 101,
       "content": "第二十四",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -890,8 +868,7 @@
       "pageNumber": 107,
       "content": "第二十五",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -915,8 +892,7 @@
       "pageNumber": 111,
       "content": "第二十六",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
@@ -946,8 +922,7 @@
       "pageNumber": 116,
       "content": "第二十七",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,
@@ -977,8 +952,7 @@
       "pageNumber": 121,
       "content": "第二十八",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,
@@ -1002,8 +976,7 @@
       "pageNumber": 125,
       "content": "第二十九",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 126,
@@ -1021,8 +994,7 @@
       "pageNumber": 128,
       "content": "第三十",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1046,8 +1018,7 @@
       "pageNumber": 132,
       "content": "第三十一",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 133,
@@ -1065,8 +1036,7 @@
       "pageNumber": 135,
       "content": "第三十二",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 136,
@@ -1096,8 +1066,7 @@
       "pageNumber": 140,
       "content": "第三十三",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,

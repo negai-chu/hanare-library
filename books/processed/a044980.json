@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "風邪をひいたお猫さん",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "風邪をひいた猫の看病話"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 333,
-    "chapterTitles": []
+    "chapterTitles": [
+      "風邪をひいたお猫さん"
+    ]
   },
   "content": [
     {

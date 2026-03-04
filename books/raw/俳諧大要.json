@@ -72,7 +72,9 @@
     ],
     "totalPages": 102,
     "averageCharsPerPage": 519,
-    "chapterTitles": []
+    "chapterTitles": [
+      "俳諧大要"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 3,
       "content": "第一　俳句の標準",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -111,8 +112,7 @@
       "pageNumber": 6,
       "content": "第二　俳句と他の文学",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -130,8 +130,7 @@
       "pageNumber": 9,
       "content": "第三　俳句の種類",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -149,8 +148,7 @@
       "pageNumber": 12,
       "content": "第四　俳句と四季",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -186,8 +184,7 @@
       "pageNumber": 18,
       "content": "第五　修学第一期",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -367,8 +364,7 @@
       "pageNumber": 48,
       "content": "第六　修学第二期",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,
@@ -614,8 +610,7 @@
       "pageNumber": 89,
       "content": "第七　修学第三期",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -639,8 +634,7 @@
       "pageNumber": 93,
       "content": "第八　俳諧連歌",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,

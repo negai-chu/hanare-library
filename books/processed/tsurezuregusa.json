@@ -18,7 +18,7 @@
         "id": "chapter-1",
         "title": "序・一〜三〇",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "section-序",
@@ -212,7 +212,7 @@
         "id": "chapter-2",
         "title": "三一〜六〇",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 54,
         "sections": [
           {
             "id": "section-三一",
@@ -392,7 +392,7 @@
             "id": "section-六〇",
             "number": "六〇",
             "startPage": 52,
-            "endPage": 0
+            "endPage": 54
           }
         ]
       },
@@ -400,7 +400,7 @@
         "id": "chapter-3",
         "title": "六一〜九〇",
         "startPage": 55,
-        "endPage": 0,
+        "endPage": 76,
         "sections": [
           {
             "id": "section-六一",
@@ -580,7 +580,7 @@
             "id": "section-九〇",
             "number": "九〇",
             "startPage": 75,
-            "endPage": 0
+            "endPage": 76
           }
         ]
       },
@@ -588,7 +588,7 @@
         "id": "chapter-4",
         "title": "九一〜一二〇",
         "startPage": 77,
-        "endPage": 0,
+        "endPage": 99,
         "sections": [
           {
             "id": "section-九一",
@@ -768,7 +768,7 @@
             "id": "section-一二〇",
             "number": "一二〇",
             "startPage": 98,
-            "endPage": 0
+            "endPage": 99
           }
         ]
       },
@@ -776,7 +776,7 @@
         "id": "chapter-5",
         "title": "一二一〜一五〇",
         "startPage": 100,
-        "endPage": 0,
+        "endPage": 127,
         "sections": [
           {
             "id": "section-一二一",
@@ -956,7 +956,7 @@
             "id": "section-一五〇",
             "number": "一五〇",
             "startPage": 127,
-            "endPage": 0
+            "endPage": 127
           }
         ]
       },
@@ -964,7 +964,7 @@
         "id": "chapter-6",
         "title": "一五一〜一八〇",
         "startPage": 128,
-        "endPage": 0,
+        "endPage": 150,
         "sections": [
           {
             "id": "section-一五一",
@@ -1144,7 +1144,7 @@
             "id": "section-一八〇",
             "number": "一八〇",
             "startPage": 150,
-            "endPage": 0
+            "endPage": 150
           }
         ]
       },
@@ -1152,7 +1152,7 @@
         "id": "chapter-7",
         "title": "一八一〜二一〇",
         "startPage": 151,
-        "endPage": 0,
+        "endPage": 170,
         "sections": [
           {
             "id": "section-一八一",
@@ -1332,7 +1332,7 @@
             "id": "section-二一〇",
             "number": "二一〇",
             "startPage": 170,
-            "endPage": 0
+            "endPage": 170
           }
         ]
       },

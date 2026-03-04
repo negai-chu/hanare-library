@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "恋すちょう……",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 21
           }
         ]
       },
@@ -55,7 +55,7 @@
         "id": "chapter-2",
         "title": "若《わか》い鶯《うぐいす》",
         "startPage": 22,
-        "endPage": 0,
+        "endPage": 42,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -85,7 +85,7 @@
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 38,
-            "endPage": 0
+            "endPage": 42
           }
         ]
       },
@@ -93,7 +93,7 @@
         "id": "chapter-3",
         "title": "棒",
         "startPage": 43,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -129,7 +129,7 @@
             "id": "chapter-3-section-6",
             "number": "六",
             "startPage": 66,
-            "endPage": 0
+            "endPage": 71
           }
         ]
       },
@@ -137,13 +137,13 @@
         "id": "chapter-4",
         "title": "耳語眼笑《じごがんしょう》",
         "startPage": 72,
-        "endPage": 0,
+        "endPage": 73,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 73,
-            "endPage": 0
+            "endPage": 73
           }
         ]
       },
@@ -151,7 +151,7 @@
         "id": "chapter-5",
         "title": "汁講《しるこう》",
         "startPage": 74,
-        "endPage": 0,
+        "endPage": 132,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -205,7 +205,7 @@
             "id": "chapter-5-section-9",
             "number": "九",
             "startPage": 126,
-            "endPage": 0
+            "endPage": 132
           }
         ]
       },
@@ -213,7 +213,7 @@
         "id": "chapter-6",
         "title": "花と花",
         "startPage": 133,
-        "endPage": 0,
+        "endPage": 177,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -285,7 +285,7 @@
             "id": "chapter-6-section-12",
             "number": "十二",
             "startPage": 173,
-            "endPage": 0
+            "endPage": 177
           }
         ]
       },
@@ -293,7 +293,7 @@
         "id": "chapter-7",
         "title": "騒雲《そううん》",
         "startPage": 178,
-        "endPage": 0,
+        "endPage": 203,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -329,7 +329,7 @@
             "id": "chapter-7-section-6",
             "number": "六",
             "startPage": 199,
-            "endPage": 0
+            "endPage": 203
           }
         ]
       },
@@ -337,7 +337,7 @@
         "id": "chapter-8",
         "title": "蒼生《そうせい》",
         "startPage": 204,
-        "endPage": 0,
+        "endPage": 264,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -427,7 +427,7 @@
             "id": "chapter-8-section-15",
             "number": "十五",
             "startPage": 261,
-            "endPage": 0
+            "endPage": 264
           }
         ]
       },
@@ -435,7 +435,7 @@
         "id": "chapter-9",
         "title": "鬼哭《きこく》",
         "startPage": 265,
-        "endPage": 0,
+        "endPage": 286,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -465,7 +465,7 @@
             "id": "chapter-9-section-5",
             "number": "五",
             "startPage": 281,
-            "endPage": 0
+            "endPage": 286
           }
         ]
       },
@@ -473,7 +473,7 @@
         "id": "chapter-10",
         "title": "大義《たいぎ》大慈悲《だいじひ》",
         "startPage": 287,
-        "endPage": 0,
+        "endPage": 303,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -503,7 +503,7 @@
             "id": "chapter-10-section-5",
             "number": "五",
             "startPage": 301,
-            "endPage": 0
+            "endPage": 303
           }
         ]
       },
@@ -511,7 +511,7 @@
         "id": "chapter-11",
         "title": "世間《せけん》の神々《かみがみ》",
         "startPage": 304,
-        "endPage": 0,
+        "endPage": 326,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -547,7 +547,7 @@
             "id": "chapter-11-section-6",
             "number": "六",
             "startPage": 323,
-            "endPage": 0
+            "endPage": 326
           }
         ]
       },
@@ -555,7 +555,7 @@
         "id": "chapter-12",
         "title": "巷《ちまた》",
         "startPage": 327,
-        "endPage": 0,
+        "endPage": 359,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -615,7 +615,7 @@
             "id": "chapter-12-section-10",
             "number": "十",
             "startPage": 356,
-            "endPage": 0
+            "endPage": 359
           }
         ]
       },
@@ -623,7 +623,7 @@
         "id": "chapter-13",
         "title": "寵臣《ちょうしん》",
         "startPage": 360,
-        "endPage": 0,
+        "endPage": 364,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -635,7 +635,7 @@
             "id": "chapter-13-section-2",
             "number": "二",
             "startPage": 363,
-            "endPage": 0
+            "endPage": 364
           }
         ]
       },
@@ -643,7 +643,7 @@
         "id": "chapter-14",
         "title": "影",
         "startPage": 365,
-        "endPage": 0,
+        "endPage": 406,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -691,7 +691,7 @@
             "id": "chapter-14-section-8",
             "number": "八",
             "startPage": 403,
-            "endPage": 0
+            "endPage": 406
           }
         ]
       },
@@ -699,7 +699,7 @@
         "id": "chapter-15",
         "title": "銀河",
         "startPage": 407,
-        "endPage": 0,
+        "endPage": 434,
         "sections": [
           {
             "id": "chapter-15-section-1",
@@ -741,7 +741,7 @@
             "id": "chapter-15-section-7",
             "number": "七",
             "startPage": 431,
-            "endPage": 0
+            "endPage": 434
           }
         ]
       },
@@ -749,7 +749,7 @@
         "id": "chapter-16",
         "title": "空谷子《くうこくし》",
         "startPage": 435,
-        "endPage": 0,
+        "endPage": 446,
         "sections": [
           {
             "id": "chapter-16-section-1",
@@ -767,7 +767,7 @@
             "id": "chapter-16-section-3",
             "number": "三",
             "startPage": 442,
-            "endPage": 0
+            "endPage": 446
           }
         ]
       },
@@ -775,7 +775,7 @@
         "id": "chapter-17",
         "title": "春雷《しゅんらい》",
         "startPage": 447,
-        "endPage": 0,
+        "endPage": 530,
         "sections": [
           {
             "id": "chapter-17-section-1",
@@ -919,7 +919,7 @@
             "id": "chapter-17-section-24",
             "number": "二十四",
             "startPage": 526,
-            "endPage": 0
+            "endPage": 530
           }
         ]
       },

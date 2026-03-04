@@ -48,7 +48,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 419,
-    "chapterTitles": []
+    "chapterTitles": [
+      "屋根裏の犯人"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "晦日風呂",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 6,
       "content": "お神隠し",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "損の上の損",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -143,8 +142,7 @@
       "pageNumber": 15,
       "content": "恋の文づかい",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

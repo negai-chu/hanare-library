@@ -30,7 +30,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 518,
-    "chapterTitles": []
+    "chapterTitles": [
+      "明るく・暗く"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 12,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,

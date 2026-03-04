@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "年賀状",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "新年の恐怖と年賀状"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 483,
-    "chapterTitles": []
+    "chapterTitles": [
+      "年賀状"
+    ]
   },
   "content": [
     {

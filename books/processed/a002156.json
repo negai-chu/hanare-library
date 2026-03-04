@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "厨房日記",
         "startPage": 1,
-        "endPage": 40,
-        "summary": "厨房からの日記"
+        "endPage": 40
       }
     ],
     "totalPages": 40,
     "averageCharsPerPage": 568,
-    "chapterTitles": []
+    "chapterTitles": [
+      "厨房日記"
+    ]
   },
   "content": [
     {

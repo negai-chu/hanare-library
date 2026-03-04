@@ -54,7 +54,9 @@
     ],
     "totalPages": 21,
     "averageCharsPerPage": 362,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日本の文明"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "〔日本と東西両洋の文明〕",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 4,
       "content": "〔文明の発祥と東漸・西向〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -112,8 +112,7 @@
       "pageNumber": 9,
       "content": "〔日本開国による東西文明の邂逅〕",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -143,8 +142,7 @@
       "pageNumber": 14,
       "content": "〔日本における新文明〕",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -168,8 +166,7 @@
       "pageNumber": 18,
       "content": "〔文明の調和統一〕",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

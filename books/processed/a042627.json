@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "お月様の唄",
         "startPage": 1,
-        "endPage": 16,
-        "summary": "森の小人とお月様の童話"
+        "endPage": 16
       }
     ],
     "totalPages": 16,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "お月様の唄"
+    ]
   },
   "content": [
     {

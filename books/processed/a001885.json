@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "最後の丘",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "最後の丘の詩"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 89,
-    "chapterTitles": []
+    "chapterTitles": [
+      "最後の丘"
+    ]
   },
   "content": [
     {

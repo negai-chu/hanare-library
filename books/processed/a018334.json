@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "猿かに合戦",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "猿と蟹の仇討ち物語"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 400,
-    "chapterTitles": []
+    "chapterTitles": [
+      "猿かに合戦"
+    ]
   },
   "content": [
     {

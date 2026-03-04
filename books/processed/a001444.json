@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "旅行の今昔",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "昔と今の旅の比較"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 454,
-    "chapterTitles": []
+    "chapterTitles": [
+      "旅行の今昔"
+    ]
   },
   "content": [
     {

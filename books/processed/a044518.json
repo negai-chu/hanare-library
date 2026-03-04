@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "日記について",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "日記をつけない理由と逡巡"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 397,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記について"
+    ]
   },
   "content": [
     {

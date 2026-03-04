@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文章",
         "startPage": 1,
-        "endPage": 16,
-        "summary": "弔辞を巡る小さな物語"
+        "endPage": 16
       }
     ],
     "totalPages": 16,
     "averageCharsPerPage": 510,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文章"
+    ]
   },
   "content": [
     {

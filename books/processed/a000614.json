@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "明治三十七年",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-1-section-12",
             "number": "憶友歌",
             "startPage": 49,
-            "endPage": 0
+            "endPage": 50
           }
         ]
       },
@@ -97,7 +97,7 @@
         "id": "chapter-2",
         "title": "明治三十八年",
         "startPage": 51,
-        "endPage": 0,
+        "endPage": 101,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -181,7 +181,7 @@
             "id": "chapter-2-section-14",
             "number": "羇旅雜咏",
             "startPage": 75,
-            "endPage": 0
+            "endPage": 101
           }
         ]
       },
@@ -189,7 +189,7 @@
         "id": "chapter-3",
         "title": "明治三十九年",
         "startPage": 102,
-        "endPage": 0,
+        "endPage": 126,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -231,7 +231,7 @@
             "id": "chapter-3-section-7",
             "number": "雜詠",
             "startPage": 126,
-            "endPage": 0
+            "endPage": 126
           }
         ]
       },
@@ -239,7 +239,7 @@
         "id": "chapter-4",
         "title": "明治四十年",
         "startPage": 127,
-        "endPage": 0,
+        "endPage": 136,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -269,7 +269,7 @@
             "id": "chapter-4-section-5",
             "number": "鷽の歌",
             "startPage": 136,
-            "endPage": 0
+            "endPage": 136
           }
         ]
       },

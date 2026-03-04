@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "母の手毬歌",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -59,7 +59,7 @@
             "id": "chapter-1-section-7",
             "number": "七、伝承者ということ",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -67,7 +67,7 @@
         "id": "chapter-2",
         "title": "千駄焚き",
         "startPage": 20,
-        "endPage": 0,
+        "endPage": 60,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -157,7 +157,7 @@
             "id": "chapter-2-section-15",
             "number": "一五、勢祈祷",
             "startPage": 58,
-            "endPage": 0
+            "endPage": 60
           }
         ]
       },
@@ -165,7 +165,7 @@
         "id": "chapter-3",
         "title": "親棄山",
         "startPage": 61,
-        "endPage": 0,
+        "endPage": 80,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -227,7 +227,7 @@
         "id": "chapter-4",
         "title": "マハツブの話",
         "startPage": 81,
-        "endPage": 0,
+        "endPage": 98,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -269,7 +269,7 @@
             "id": "chapter-4-section-7",
             "number": "七、島の女性と労働",
             "startPage": 96,
-            "endPage": 0
+            "endPage": 98
           }
         ]
       },
@@ -277,7 +277,7 @@
         "id": "chapter-5",
         "title": "三角は飛ぶ",
         "startPage": 99,
-        "endPage": 0,
+        "endPage": 134,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -361,7 +361,7 @@
             "id": "chapter-5-section-14",
             "number": "一四、帝都の美観と安全",
             "startPage": 132,
-            "endPage": 0
+            "endPage": 134
           }
         ]
       },
@@ -369,7 +369,7 @@
         "id": "chapter-6",
         "title": "三度の食事",
         "startPage": 135,
-        "endPage": 0,
+        "endPage": 172,
         "sections": [
           {
             "id": "chapter-6-section-1",

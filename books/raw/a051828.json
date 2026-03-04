@@ -42,7 +42,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 504,
-    "chapterTitles": []
+    "chapterTitles": [
+      "犬は鎖に繋ぐべからず"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 6,
       "content": "第一場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -165,8 +166,7 @@
       "pageNumber": 20,
       "content": "第二場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -238,8 +238,7 @@
       "pageNumber": 32,
       "content": "第三場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,

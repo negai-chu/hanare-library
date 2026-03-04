@@ -17,366 +17,317 @@
         "id": "chapter-1",
         "title": "彼を待つもの",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 5,
-            "summary": "帰還への期待"
+            "endPage": 5
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 6,
-            "endPage": 10,
-            "summary": "変わり果てた故郷"
+            "endPage": 10
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 11,
-            "endPage": 16,
-            "summary": "再会の戸惑い"
+            "endPage": 16
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 17,
-            "endPage": 20,
-            "summary": "待つ者の覚悟"
+            "endPage": 20
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 21,
-            "endPage": 0,
-            "summary": "新たな出発点"
+            "endPage": 28
           }
-        ],
-        "summary": "帰還者を待ち受ける現実"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "はるかなる青春",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 53,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 30,
-            "endPage": 31,
-            "summary": "青春の記憶"
+            "endPage": 31
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 32,
-            "endPage": 40,
-            "summary": "若き日の情熱"
+            "endPage": 40
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 41,
-            "endPage": 49,
-            "summary": "夢と挫折"
+            "endPage": 49
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 50,
-            "endPage": 0,
-            "summary": "遠い日の約束"
+            "endPage": 53
           }
-        ],
-        "summary": "遠い日の青春の輝き"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "〔欠題〕",
         "startPage": 54,
-        "endPage": 0,
+        "endPage": 76,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 55,
-            "endPage": 57,
-            "summary": "語られぬ事情"
+            "endPage": 57
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 58,
-            "endPage": 63,
-            "summary": "沈黙の意味"
+            "endPage": 63
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 64,
-            "endPage": 67,
-            "summary": "隠された真相"
+            "endPage": 67
           },
           {
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 68,
-            "endPage": 0,
-            "summary": "言葉にならぬ思い"
+            "endPage": 76
           }
-        ],
-        "summary": "題なき章の秘められた物語"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "兄の立場",
         "startPage": 77,
-        "endPage": 0,
+        "endPage": 101,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 78,
-            "endPage": 85,
-            "summary": "兄の責務"
+            "endPage": 85
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 86,
-            "endPage": 91,
-            "summary": "家族の期待"
+            "endPage": 91
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 92,
-            "endPage": 96,
-            "summary": "弟妹への思い"
+            "endPage": 96
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 97,
-            "endPage": 0,
-            "summary": "立場の重さ"
+            "endPage": 101
           }
-        ],
-        "summary": "兄としての責任と苦悩"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "ある少女の役割",
         "startPage": 102,
-        "endPage": 0,
+        "endPage": 124,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 103,
-            "endPage": 109,
-            "summary": "少女の登場"
+            "endPage": 109
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 110,
-            "endPage": 113,
-            "summary": "無垢な視線"
+            "endPage": 113
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 114,
-            "endPage": 0,
-            "summary": "周囲への影響"
+            "endPage": 124
           }
-        ],
-        "summary": "少女が果たす思わぬ役割"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "父の孤独",
         "startPage": 125,
-        "endPage": 0,
+        "endPage": 150,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "一",
             "startPage": 126,
-            "endPage": 136,
-            "summary": "父の内面の孤独"
+            "endPage": 136
           },
           {
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 137,
-            "endPage": 0,
-            "summary": "家長の重荷"
+            "endPage": 150
           }
-        ],
-        "summary": "父の孤独な戦い"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "愛と死と生の戯れ",
         "startPage": 151,
-        "endPage": 0,
+        "endPage": 177,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 152,
-            "endPage": 157,
-            "summary": "生と死の境界"
+            "endPage": 157
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 158,
-            "endPage": 164,
-            "summary": "愛の力"
+            "endPage": 164
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 165,
-            "endPage": 0,
-            "summary": "運命の戯れ"
+            "endPage": 177
           }
-        ],
-        "summary": "愛と死と生が交錯する瞬間"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "運命に逆うもの",
         "startPage": 178,
-        "endPage": 0,
+        "endPage": 201,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "一",
             "startPage": 179,
-            "endPage": 185,
-            "summary": "運命への反抗"
+            "endPage": 185
           },
           {
             "id": "chapter-8-section-2",
             "number": "二",
             "startPage": 186,
-            "endPage": 194,
-            "summary": "抵抗の代償"
+            "endPage": 194
           },
           {
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 195,
-            "endPage": 0,
-            "summary": "逆らう者の末路"
+            "endPage": 201
           }
-        ],
-        "summary": "運命に抗う者たちの姿"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "変転の外に",
         "startPage": 202,
-        "endPage": 0,
+        "endPage": 222,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 203,
-            "endPage": 210,
-            "summary": "時代の激変"
+            "endPage": 210
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 211,
-            "endPage": 213,
-            "summary": "変わらぬもの"
+            "endPage": 213
           },
           {
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 214,
-            "endPage": 0,
-            "summary": "静かな抵抗"
+            "endPage": 222
           }
-        ],
-        "summary": "変転する世の中の外側で"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "この日あるがために",
         "startPage": 223,
-        "endPage": 0,
+        "endPage": 244,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 224,
-            "endPage": 229,
-            "summary": "積み重ねた日々"
+            "endPage": 229
           },
           {
             "id": "chapter-10-section-2",
             "number": "二",
             "startPage": 230,
-            "endPage": 238,
-            "summary": "決定的な瞬間"
+            "endPage": 238
           },
           {
             "id": "chapter-10-section-3",
             "number": "三",
             "startPage": 239,
-            "endPage": 0,
-            "summary": "覚悟の意味"
+            "endPage": 244
           }
-        ],
-        "summary": "この日のために生きてきた覚悟"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "二つの未来図",
         "startPage": 245,
-        "endPage": 0,
+        "endPage": 266,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 246,
-            "endPage": 253,
-            "summary": "分岐する未来"
+            "endPage": 253
           },
           {
             "id": "chapter-11-section-2",
             "number": "二",
             "startPage": 254,
-            "endPage": 259,
-            "summary": "一方の可能性"
+            "endPage": 259
           },
           {
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 260,
-            "endPage": 263,
-            "summary": "もう一方の道"
+            "endPage": 263
           },
           {
             "id": "chapter-11-section-4",
             "number": "四",
             "startPage": 264,
-            "endPage": 0,
-            "summary": "選び取る未来"
+            "endPage": 266
           }
-        ],
-        "summary": "二つの未来が示す選択"
+        ]
       },
       {
         "id": "chapter-12",
@@ -388,32 +339,27 @@
             "id": "chapter-12-section-1",
             "number": "一",
             "startPage": 268,
-            "endPage": 273,
-            "summary": "光の兆し"
+            "endPage": 273
           },
           {
             "id": "chapter-12-section-2",
             "number": "二",
             "startPage": 274,
-            "endPage": 282,
-            "summary": "希望の芽生え"
+            "endPage": 282
           },
           {
             "id": "chapter-12-section-3",
             "number": "三",
             "startPage": 283,
-            "endPage": 287,
-            "summary": "翼を広げて"
+            "endPage": 287
           },
           {
             "id": "chapter-12-section-4",
             "number": "四",
             "startPage": 288,
-            "endPage": 291,
-            "summary": "新しい地平へ"
+            "endPage": 291
           }
-        ],
-        "summary": "希望が翼を広げる結末"
+        ]
       }
     ],
     "totalPages": 291,

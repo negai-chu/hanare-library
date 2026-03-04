@@ -84,7 +84,9 @@
     ],
     "totalPages": 47,
     "averageCharsPerPage": 434,
-    "chapterTitles": []
+    "chapterTitles": [
+      "アパートの殺人"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "一　前がき",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 4,
       "content": "二　神村進の証言",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -166,8 +166,7 @@
       "pageNumber": 13,
       "content": "三　村井保の証言",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -215,8 +214,7 @@
       "pageNumber": 21,
       "content": "四　松木久作の証言",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -246,8 +244,7 @@
       "pageNumber": 26,
       "content": "五　植田欣子の証言",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -271,8 +268,7 @@
       "pageNumber": 30,
       "content": "六　ボーイ鷲尾の証言",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -284,8 +280,7 @@
       "pageNumber": 32,
       "content": "七　村井保の第二回目の証言",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -303,8 +298,7 @@
       "pageNumber": 35,
       "content": "八　松木久作の第二回目の証言",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -322,8 +316,7 @@
       "pageNumber": 38,
       "content": "九　植田欣子の二度目の証言",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -347,8 +340,7 @@
       "pageNumber": 42,
       "content": "一〇　最後の対質訊問",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,

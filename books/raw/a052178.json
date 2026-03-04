@@ -36,7 +36,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 528,
-    "chapterTitles": []
+    "chapterTitles": [
+      "蝸牛の角"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "（一）　芸術の検閲",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "（二）　一つの私事",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

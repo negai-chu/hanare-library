@@ -17,21 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0,
-        "summary": "翻訳の序文と方針"
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "緒言",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "時代の緒言と背景"
+        "endPage": 12
       },
       {
         "id": "chapter-3",
         "title": "第一巻　甦《よみがえ》る",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 107,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -67,16 +65,15 @@
             "id": "chapter-3-section-6",
             "number": "第六章　靴造り",
             "startPage": 87,
-            "endPage": 0
+            "endPage": 107
           }
-        ],
-        "summary": "囚人の甦りの物語"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第二巻　黄金《こがね》の糸",
         "startPage": 108,
-        "endPage": 0,
+        "endPage": 260,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -130,16 +127,15 @@
             "id": "chapter-4-section-9",
             "number": "第九章　ゴルゴンの首",
             "startPage": 239,
-            "endPage": 0
+            "endPage": 260
           }
-        ],
-        "summary": "黄金の糸で結ぶ運命"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "註",
         "startPage": 261,
-        "endPage": 0,
+        "endPage": 280,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -157,10 +153,9 @@
             "id": "chapter-5-section-3",
             "number": "〔第二巻　黄金の糸〕",
             "startPage": 269,
-            "endPage": 0
+            "endPage": 280
           }
-        ],
-        "summary": "訳註と補足説明"
+        ]
       },
       {
         "id": "chapter-6",
@@ -180,8 +175,7 @@
             "startPage": 287,
             "endPage": 297
           }
-        ],
-        "summary": "作品の解説と評価"
+        ]
       }
     ],
     "totalPages": 297,

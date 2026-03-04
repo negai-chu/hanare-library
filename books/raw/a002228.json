@@ -48,7 +48,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 402,
-    "chapterTitles": []
+    "chapterTitles": [
+      "聖徳太子"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 3,
       "content": "太子の外交方針",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -123,8 +124,7 @@
       "pageNumber": 12,
       "content": "太子の内政上の主義",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "佛教採用の一理由",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -155,8 +154,7 @@
       "pageNumber": 17,
       "content": "蘇我氏と太子",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,

@@ -60,7 +60,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 280,
-    "chapterTitles": []
+    "chapterTitles": [
+      "エンジンの響"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "想像を排す",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 6,
       "content": "『自然を深めよ』",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -112,8 +112,7 @@
       "pageNumber": 8,
       "content": "批評といふこと",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -131,8 +130,7 @@
       "pageNumber": 11,
       "content": "理想主義的自然主義",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -144,8 +142,7 @@
       "pageNumber": 13,
       "content": "物質と本能",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -157,8 +154,7 @@
       "pageNumber": 15,
       "content": "愛と慾",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

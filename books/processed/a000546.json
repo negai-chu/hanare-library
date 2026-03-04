@@ -17,37 +17,35 @@
         "id": "chapter-1",
         "title": "日本の子供たちに",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 8,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "はしがき",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 8
           }
-        ],
-        "summary": "日本の子供への序文"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "序詩",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "マザア・グウスの歌",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 16
           }
-        ],
-        "summary": "開幕の詩"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "まざあ・ぐうす",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -821,17 +819,15 @@
             "id": "chapter-3-section-129",
             "number": "おしまい",
             "startPage": 151,
-            "endPage": 0
+            "endPage": 1
           }
-        ],
-        "summary": "英国伝承童謡の数々"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "巻末に",
         "startPage": 152,
-        "endPage": 159,
-        "summary": "訳者あとがき"
+        "endPage": 159
       }
     ],
     "totalPages": 159,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 367,
-    "chapterTitles": []
+    "chapterTitles": [
+      "トーマス・エディソン"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "日常生活と発明",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 4,
       "content": "発明への出発",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -106,8 +106,7 @@
       "pageNumber": 9,
       "content": "エディソンの主要な発明",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -137,8 +136,7 @@
       "pageNumber": 14,
       "content": "エディソンの気質",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

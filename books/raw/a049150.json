@@ -36,7 +36,9 @@
     ],
     "totalPages": 46,
     "averageCharsPerPage": 494,
-    "chapterTitles": []
+    "chapterTitles": [
+      "哲学の現代的意義"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "思想の科学",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -219,8 +220,7 @@
       "pageNumber": 30,
       "content": "クリティシズムと科学的精神",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

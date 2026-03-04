@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "死の淵より",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -269,7 +269,7 @@
             "id": "chapter-1-section-42",
             "number": "庭で（二）",
             "startPage": 70,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -277,7 +277,7 @@
         "id": "chapter-2",
         "title": "「死の淵より」拾遺",
         "startPage": 72,
-        "endPage": 0,
+        "endPage": 88,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -337,7 +337,7 @@
             "id": "chapter-2-section-10",
             "number": "ケシの花",
             "startPage": 86,
-            "endPage": 0
+            "endPage": 88
           }
         ]
       },

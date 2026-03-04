@@ -36,7 +36,9 @@
     ],
     "totalPages": 63,
     "averageCharsPerPage": 591,
-    "chapterTitles": []
+    "chapterTitles": [
+      "回想録"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -219,8 +220,7 @@
       "pageNumber": 30,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

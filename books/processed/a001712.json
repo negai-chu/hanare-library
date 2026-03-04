@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "読書法",
         "startPage": 1,
-        "endPage": 235,
-        "summary": "読書の方法と自由"
+        "endPage": 235
       }
     ],
     "totalPages": 235,
     "averageCharsPerPage": 556,
-    "chapterTitles": []
+    "chapterTitles": [
+      "読書法"
+    ]
   },
   "content": [
     {

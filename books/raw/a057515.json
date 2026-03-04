@@ -42,7 +42,9 @@
     ],
     "totalPages": 64,
     "averageCharsPerPage": 571,
-    "chapterTitles": []
+    "chapterTitles": [
+      "悪霊"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "発表者の附記",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 8,
       "content": "第一信",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -238,8 +238,7 @@
       "pageNumber": 32,
       "content": "第二信",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,

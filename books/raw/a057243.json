@@ -72,7 +72,9 @@
     ],
     "totalPages": 81,
     "averageCharsPerPage": 502,
-    "chapterTitles": []
+    "chapterTitles": [
+      "何者"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 3,
       "content": "一、奇妙な盗賊",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -147,8 +148,7 @@
       "pageNumber": 12,
       "content": "二、消えた足跡",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -208,8 +208,7 @@
       "pageNumber": 22,
       "content": "三、金ピカの赤井さん",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,
@@ -257,8 +256,7 @@
       "pageNumber": 30,
       "content": "四、病床の素人探偵",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -336,8 +334,7 @@
       "pageNumber": 43,
       "content": "五、逮捕された黄金狂",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -409,8 +406,7 @@
       "pageNumber": 55,
       "content": "六、「算術の問題です」",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 56,
@@ -470,8 +466,7 @@
       "pageNumber": 65,
       "content": "七、砂丘の蔭",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -525,8 +520,7 @@
       "pageNumber": 74,
       "content": "八、THOU ART THE MAN",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 75,

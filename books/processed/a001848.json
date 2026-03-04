@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "秋日記",
         "startPage": 1,
-        "endPage": 19,
-        "summary": "病室に通う秋の日々"
+        "endPage": 19
       }
     ],
     "totalPages": 19,
     "averageCharsPerPage": 556,
-    "chapterTitles": []
+    "chapterTitles": [
+      "秋日記"
+    ]
   },
   "content": [
     {

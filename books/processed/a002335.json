@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ねずみと猫",
         "startPage": 1,
-        "endPage": 31,
-        "summary": "鼠と猫の攻防"
+        "endPage": 31
       }
     ],
     "totalPages": 31,
     "averageCharsPerPage": 553,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ねずみと猫"
+    ]
   },
   "content": [
     {

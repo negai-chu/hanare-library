@@ -17,43 +17,43 @@
         "id": "chapter-1",
         "title": "改訂版序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "序言",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-3",
         "title": "飛鳥寧楽時代の政治的理想",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 41
       },
       {
         "id": "chapter-4",
         "title": "推古時代における仏教受容の仕方について",
         "startPage": 42,
-        "endPage": 0
+        "endPage": 53
       },
       {
         "id": "chapter-5",
         "title": "仏像の相好についての一考察",
         "startPage": 54,
-        "endPage": 0
+        "endPage": 70
       },
       {
         "id": "chapter-6",
         "title": "推古天平美術の様式",
         "startPage": 71,
-        "endPage": 0
+        "endPage": 84
       },
       {
         "id": "chapter-7",
         "title": "白鳳天平の彫刻と『万葉』の短歌",
         "startPage": 85,
-        "endPage": 0,
+        "endPage": 104,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -83,7 +83,7 @@
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 103,
-            "endPage": 0
+            "endPage": 104
           }
         ]
       },
@@ -91,19 +91,19 @@
         "id": "chapter-8",
         "title": "『万葉集』の歌と『古今集』の歌との相違について",
         "startPage": 105,
-        "endPage": 0
+        "endPage": 124
       },
       {
         "id": "chapter-9",
         "title": "お伽噺としての『竹取物語』",
         "startPage": 125,
-        "endPage": 0
+        "endPage": 141
       },
       {
         "id": "chapter-10",
         "title": "『枕草紙』について",
         "startPage": 142,
-        "endPage": 0,
+        "endPage": 191,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -123,19 +123,19 @@
         "id": "chapter-11",
         "title": "『源氏物語』について",
         "startPage": 192,
-        "endPage": 0
+        "endPage": 212
       },
       {
         "id": "chapter-12",
         "title": "「もののあはれ」について",
         "startPage": 213,
-        "endPage": 0
+        "endPage": 231
       },
       {
         "id": "chapter-13",
         "title": "沙門道元",
         "startPage": 232,
-        "endPage": 0,
+        "endPage": 373,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -189,7 +189,7 @@
             "id": "chapter-13-section-9",
             "number": "九　道元の「真理」",
             "startPage": 323,
-            "endPage": 0
+            "endPage": 373
           }
         ]
       },

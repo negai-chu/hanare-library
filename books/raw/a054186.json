@@ -192,7 +192,9 @@
     ],
     "totalPages": 280,
     "averageCharsPerPage": 505,
-    "chapterTitles": []
+    "chapterTitles": [
+      "新・平家物語"
+    ]
   },
   "content": [
     {
@@ -206,8 +208,7 @@
       "pageNumber": 2,
       "content": "貧乏草",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -267,8 +268,7 @@
       "pageNumber": 12,
       "content": "わんわん市場",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -310,8 +310,7 @@
       "pageNumber": 19,
       "content": "胎児清盛",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -365,8 +364,7 @@
       "pageNumber": 28,
       "content": "祇園女御《ぎおんのにょご》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -426,8 +424,7 @@
       "pageNumber": 38,
       "content": "夜来風雨急",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -481,8 +478,7 @@
       "pageNumber": 47,
       "content": "去りゆく母",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -548,8 +544,7 @@
       "pageNumber": 58,
       "content": "競《くら》べ馬《うま》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -615,8 +610,7 @@
       "pageNumber": 69,
       "content": "袈裟御前《けさごぜ》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -682,8 +676,7 @@
       "pageNumber": 80,
       "content": "宿借《やどかり》の女御《にょご》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -749,8 +742,7 @@
       "pageNumber": 91,
       "content": "好色法皇",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -804,8 +796,7 @@
       "pageNumber": 100,
       "content": "祝杯《しゅくはい》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -883,8 +874,7 @@
       "pageNumber": 113,
       "content": "新妻月夜《にいづまづくよ》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -938,8 +928,7 @@
       "pageNumber": 122,
       "content": "栗鼠《りす》の夢《ゆめ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 123,
@@ -1005,8 +994,7 @@
       "pageNumber": 133,
       "content": "鬼影《きえい》",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1060,8 +1048,7 @@
       "pageNumber": 142,
       "content": "貞操百花図《ていそうひゃっかず》",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 143,
@@ -1109,8 +1096,7 @@
       "pageNumber": 150,
       "content": "馬上吟《ばじょうぎん》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 151,
@@ -1182,8 +1168,7 @@
       "pageNumber": 162,
       "content": "地下人《ちげびと》さかもり",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 163,
@@ -1243,8 +1228,7 @@
       "pageNumber": 172,
       "content": "鳥獣戯画",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 173,
@@ -1322,8 +1306,7 @@
       "pageNumber": 185,
       "content": "鶏持《とりも》ち小冠者《こかじゃ》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 186,
@@ -1395,8 +1378,7 @@
       "pageNumber": 197,
       "content": "染め糸の記",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1474,8 +1456,7 @@
       "pageNumber": 210,
       "content": "篝《かが》り火《び》談議《だんぎ》",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 211,
@@ -1523,8 +1504,7 @@
       "pageNumber": 218,
       "content": "歌使い",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 219,
@@ -1560,8 +1540,7 @@
       "pageNumber": 224,
       "content": "源氏の父子・平氏の父子",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 225,
@@ -1615,8 +1594,7 @@
       "pageNumber": 233,
       "content": "乳人《めのと》の恋《こい》",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 234,
@@ -1688,8 +1666,7 @@
       "pageNumber": 245,
       "content": "長恨宮",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 246,
@@ -1725,8 +1702,7 @@
       "pageNumber": 251,
       "content": "出離",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 252,
@@ -1768,8 +1744,7 @@
       "pageNumber": 258,
       "content": "女院と西行",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 259,
@@ -1865,8 +1840,7 @@
       "pageNumber": 274,
       "content": "六波羅開地《ろくはらかいち》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 275,

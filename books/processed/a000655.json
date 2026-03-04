@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "自画像",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 13,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,279 +53,241 @@
             "id": "chapter-1-section-6",
             "number": "（六）",
             "startPage": 11,
-            "endPage": 0
+            "endPage": 13
           }
-        ],
-        "summary": "動物の自画像の話"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "焼かれた魚《さかな》",
         "startPage": 14,
-        "endPage": 0,
-        "summary": "焼かれた魚の冒険"
+        "endPage": 22
       },
       {
         "id": "chapter-3",
         "title": "青い小父さんと魚《うを》",
         "startPage": 23,
-        "endPage": 0,
-        "summary": "青い小父さんと魚の出会い"
+        "endPage": 31
       },
       {
         "id": "chapter-4",
         "title": "お嫁さんの自画像",
         "startPage": 32,
-        "endPage": 0,
-        "summary": "お嫁さんが描く自画像"
+        "endPage": 40
       },
       {
         "id": "chapter-5",
         "title": "たばこの好きな漁師",
         "startPage": 41,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 42,
-            "endPage": 43,
-            "summary": "漁師の煙草への執着"
+            "endPage": 43
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 44,
-            "endPage": 46,
-            "summary": "海での冒険"
+            "endPage": 46
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 47,
-            "endPage": 0,
-            "summary": "煙草がもたらす結末"
+            "endPage": 50
           }
-        ],
-        "summary": "煙草好きの漁師の物語"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "親不孝なイソクソキ",
         "startPage": 51,
-        "endPage": 0,
-        "summary": "親不孝な鳥の話"
+        "endPage": 54
       },
       {
         "id": "chapter-7",
         "title": "珠を失くした牛",
         "startPage": 55,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 56,
-            "endPage": 56,
-            "summary": "牛が宝珠を失くす"
+            "endPage": 56
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 57,
-            "endPage": 59,
-            "summary": "珠を探す旅"
+            "endPage": 59
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 60,
-            "endPage": 0,
-            "summary": "珠の行方と結末"
+            "endPage": 62
           }
-        ],
-        "summary": "宝珠を失くした牛の旅"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "お月さまと馬賊",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "一",
             "startPage": 64,
-            "endPage": 64,
-            "summary": "月夜の馬賊の登場"
+            "endPage": 64
           },
           {
             "id": "chapter-8-section-2",
             "number": "二",
             "startPage": 65,
-            "endPage": 66,
-            "summary": "月との会話"
+            "endPage": 66
           },
           {
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 67,
-            "endPage": 0,
-            "summary": "馬賊の改心"
+            "endPage": 69
           }
-        ],
-        "summary": "月と馬賊の不思議な出会い"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "三人の騎士",
         "startPage": 70,
-        "endPage": 0,
+        "endPage": 80,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 71,
-            "endPage": 72,
-            "summary": "三人の騎士の旅立ち"
+            "endPage": 72
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 73,
-            "endPage": 73,
-            "summary": "最初の試練"
+            "endPage": 73
           },
           {
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 74,
-            "endPage": 74,
-            "summary": "二つ目の試練"
+            "endPage": 74
           },
           {
             "id": "chapter-9-section-4",
             "number": "四",
             "startPage": 75,
-            "endPage": 76,
-            "summary": "最後の試練"
+            "endPage": 76
           },
           {
             "id": "chapter-9-section-5",
             "number": "五",
             "startPage": 77,
-            "endPage": 0,
-            "summary": "騎士たちの帰還"
+            "endPage": 80
           }
-        ],
-        "summary": "三人の騎士の冒険譚"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "或る手品師の話",
         "startPage": 81,
-        "endPage": 0,
-        "summary": "手品師の不思議な物語"
+        "endPage": 88
       },
       {
         "id": "chapter-11",
         "title": "或る夫婦牛《めをとうし》の話",
         "startPage": 89,
-        "endPage": 0,
-        "summary": "夫婦の牛の愛情物語"
+        "endPage": 100
       },
       {
         "id": "chapter-12",
         "title": "トロちやんと爪切鋏",
         "startPage": 101,
-        "endPage": 0,
-        "summary": "トロちゃんと鋏の話"
+        "endPage": 108
       },
       {
         "id": "chapter-13",
         "title": "豚と青大将",
         "startPage": 109,
-        "endPage": 0,
-        "summary": "豚と蛇の対決"
+        "endPage": 117
       },
       {
         "id": "chapter-14",
         "title": "白い鰈の話",
         "startPage": 118,
-        "endPage": 0,
-        "summary": "白い鰈の不思議な話"
+        "endPage": 119
       },
       {
         "id": "chapter-15",
         "title": "緋牡丹《ひぼたん》姫",
         "startPage": 120,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-15-section-1",
             "number": "一",
             "startPage": 121,
-            "endPage": 121,
-            "summary": "姫の誕生と花の園"
+            "endPage": 121
           },
           {
             "id": "chapter-15-section-2",
             "number": "二",
             "startPage": 122,
-            "endPage": 123,
-            "summary": "姫の美しさと評判"
+            "endPage": 123
           },
           {
             "id": "chapter-15-section-3",
             "number": "三",
             "startPage": 124,
-            "endPage": 124,
-            "summary": "試練の始まり"
+            "endPage": 124
           },
           {
             "id": "chapter-15-section-4",
             "number": "四",
             "startPage": 125,
-            "endPage": 126,
-            "summary": "姫の勇気"
+            "endPage": 126
           },
           {
             "id": "chapter-15-section-5",
             "number": "五",
             "startPage": 127,
-            "endPage": 0,
-            "summary": "幸福な結末"
+            "endPage": 129
           }
-        ],
-        "summary": "緋牡丹の姫の物語"
+        ]
       },
       {
         "id": "chapter-16",
         "title": "狼と樫の木",
         "startPage": 130,
-        "endPage": 0,
-        "summary": "狼と樫の木の対話"
+        "endPage": 133
       },
       {
         "id": "chapter-17",
         "title": "マナイタの化けた話",
         "startPage": 134,
-        "endPage": 0,
-        "summary": "まな板が化ける怪談"
+        "endPage": 141
       },
       {
         "id": "chapter-18",
         "title": "タマネギになつたお話",
         "startPage": 142,
-        "endPage": 0,
-        "summary": "玉葱に変身する話"
+        "endPage": 150
       },
       {
         "id": "chapter-19",
         "title": "鶏のお婆さん",
         "startPage": 151,
-        "endPage": 159,
-        "summary": "鶏のお婆さんの物語"
+        "endPage": 159
       }
     ],
     "totalPages": 159,

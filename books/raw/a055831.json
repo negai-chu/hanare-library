@@ -42,7 +42,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 335,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ロマンスと縁談"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "大海に釣らん",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -159,8 +160,7 @@
       "pageNumber": 19,
       "content": "後から生れるロマンス",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -256,8 +256,7 @@
       "pageNumber": 35,
       "content": "行き方の違う恩師",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,

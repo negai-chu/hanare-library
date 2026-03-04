@@ -78,7 +78,9 @@
     ],
     "totalPages": 27,
     "averageCharsPerPage": 327,
-    "chapterTitles": []
+    "chapterTitles": [
+      "捨てる文化"
+    ]
   },
   "content": [
     {
@@ -92,8 +94,7 @@
       "pageNumber": 2,
       "content": "一　清潔・整頓・能率",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 4,
       "content": "二　捨てる文化",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -130,8 +130,7 @@
       "pageNumber": 8,
       "content": "三　ぼろのつくろい",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -143,8 +142,7 @@
       "pageNumber": 10,
       "content": "四　アメリカの土地",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -162,8 +160,7 @@
       "pageNumber": 13,
       "content": "五　沙漠の征服",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -187,8 +184,7 @@
       "pageNumber": 17,
       "content": "六　資源と資源化",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -200,8 +196,7 @@
       "pageNumber": 19,
       "content": "七　日本の場合",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -213,8 +208,7 @@
       "pageNumber": 21,
       "content": "八　文明への逆行",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -238,8 +232,7 @@
       "pageNumber": 25,
       "content": "九　精神と物質",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,

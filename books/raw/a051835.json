@@ -42,7 +42,9 @@
     ],
     "totalPages": 34,
     "averageCharsPerPage": 486,
-    "chapterTitles": []
+    "chapterTitles": [
+      "長閑なる反目"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "第一場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -135,8 +136,7 @@
       "pageNumber": 15,
       "content": "第二場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -196,8 +196,7 @@
       "pageNumber": 25,
       "content": "第三場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,

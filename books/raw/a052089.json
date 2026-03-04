@@ -36,7 +36,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 436,
-    "chapterTitles": []
+    "chapterTitles": [
+      "麺麭屋文六の思案（二場）"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 4,
       "content": "第一場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -123,8 +124,7 @@
       "pageNumber": 14,
       "content": "第二場",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

@@ -36,7 +36,9 @@
     ],
     "totalPages": 55,
     "averageCharsPerPage": 534,
-    "chapterTitles": []
+    "chapterTitles": [
+      "挿話"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 7,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -183,8 +184,7 @@
       "pageNumber": 24,
       "content": "五",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,

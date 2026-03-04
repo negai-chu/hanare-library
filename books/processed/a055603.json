@@ -17,26 +17,28 @@
         "id": "chapter-1",
         "title": "新世紀への伴奏",
         "startPage": 1,
-        "endPage": 7,
+        "endPage": 5,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "（１）",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "（２）",
-            "startPage": 5,
-            "endPage": 7
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 7,
-    "averageCharsPerPage": 56,
-    "chapterTitles": []
+    "totalPages": 5,
+    "averageCharsPerPage": 80,
+    "chapterTitles": [
+      "新世紀への伴奏"
+    ]
   },
   "content": [
     {
@@ -48,38 +50,24 @@
     },
     {
       "pageNumber": 2,
-      "content": "（１）",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　（１）\n\n　行け！　私達自然の教徒よ\n\n高く高く燃え燃ゆる自然の精霊の上へ\n\n人間の生命の魂を\n\n燃え《（ママ）》べくして燃えざりし炬火《きょか》を\n\n天日の情熱に投げこんで\n\n紅蓮《ぐれん》の焔を眺めつつ\n\n歌え、歌え、輝かせよ\n\n　（大地よ、ゆるぐべきものよ古哲の教授よ\n\n　　何と皮相なよろこびなる",
+      "characters": 153,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　行け！　私達自然の教徒よ\n\n高く高く燃え燃ゆる自然の精霊の上へ\n\n人間の生命の魂を\n\n燃え《（ママ）》べくして燃えざりし炬火《きょか》を\n\n天日の情熱に投げこんで\n\n紅蓮《ぐれん》の焔を眺めつつ\n\n歌え、歌え、輝かせよ\n\n　（大地よ、ゆるぐべきものよ古哲の教授よ\n\n　　何と皮相なよろこびなる",
-      "characters": 147,
+      "content": "　　草ものびる、私も育つ\n\n　　ああ、生長への伴奏よ\n\n　　葬送への奏楽ぞ）（２）",
+      "characters": 41,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "　　草ものびる、私も育つ\n\n　　ああ、生長への伴奏よ\n\n　　葬送への奏楽ぞ）",
-      "characters": 38,
-      "ruby": []
-    },
-    {
-      "pageNumber": 5,
-      "content": "（２）",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
       "content": "行け！　私達一切への戦士よ\n\n異国のはるかにへだてし虹霓《こうげい》の先端に\n\n露ぬるる髑髏《しゃれこうべ》の丘よ\n\n我等が人類への檄文を草せよ\n\n社会の高塔に輝く存在の栄誉の\n\n影を見事に失《う》せしめて\n\n歌え、歌え、歓喜せよ\n\n　（墓場深く埋ずもれし祖先の屍は\n\n　　今朽ち果てて",
       "characters": 143,
       "ruby": []
     },
     {
-      "pageNumber": 7,
+      "pageNumber": 5,
       "content": "　　宇宙の心に帰ろうとする\n\n　　魂ありしものの苦悶は\n\n　　地上にありし時の\n\n　　かなしき懺悔の苦戦である）",
       "characters": 56,
       "ruby": []

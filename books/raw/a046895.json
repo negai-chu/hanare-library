@@ -42,7 +42,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 197,
-    "chapterTitles": []
+    "chapterTitles": [
+      "童貞記"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "部屋の中で",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "月光を浴びたる森の下で",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -82,8 +82,7 @@
       "pageNumber": 6,
       "content": "月光を浴びたる歩道で",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

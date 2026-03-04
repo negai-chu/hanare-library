@@ -60,7 +60,9 @@
     ],
     "totalPages": 17,
     "averageCharsPerPage": 235,
-    "chapterTitles": []
+    "chapterTitles": [
+      "足柄の山水"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一　自稱判者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 7,
       "content": "二　洒水瀧",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -124,8 +124,7 @@
       "pageNumber": 10,
       "content": "三　白木綿瀑",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -137,8 +136,7 @@
       "pageNumber": 12,
       "content": "四　尼瀧",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -150,8 +148,7 @@
       "pageNumber": 14,
       "content": "五　箒澤の大杉",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -163,8 +160,7 @@
       "pageNumber": 16,
       "content": "六　湯觸の一葉松と内山の大楠",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,

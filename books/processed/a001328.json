@@ -17,29 +17,27 @@
         "id": "chapter-1",
         "title": "時代",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 5,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "【時代を知ること】",
             "startPage": 4,
-            "endPage": 0
+            "endPage": 5
           }
-        ],
-        "summary": "やきものの時代考"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "形",
         "startPage": 6,
-        "endPage": 0,
-        "summary": "器の形の妙味"
+        "endPage": 7
       },
       {
         "id": "chapter-3",
         "title": "釉",
         "startPage": 8,
-        "endPage": 0,
+        "endPage": 18,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -75,16 +73,15 @@
             "id": "chapter-3-section-6",
             "number": "【ロクロ】",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 18
           }
-        ],
-        "summary": "釉薬の奥深さ"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "古さ",
         "startPage": 19,
-        "endPage": 0,
+        "endPage": 25,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -102,90 +99,81 @@
             "id": "chapter-4-section-3",
             "number": "【作家をよく知れ】",
             "startPage": 23,
-            "endPage": 0
+            "endPage": 25
           }
-        ],
-        "summary": "古さの魅力"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "觸",
         "startPage": 26,
-        "endPage": 0,
+        "endPage": 27,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "【持ち方】",
             "startPage": 27,
-            "endPage": 0
+            "endPage": 27
           }
-        ],
-        "summary": "手触りの味わい"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "土味",
         "startPage": 28,
-        "endPage": 0,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "【手法】",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 31
           }
-        ],
-        "summary": "土の質感の鑑賞"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "歪",
         "startPage": 32,
-        "endPage": 0,
-        "summary": "歪みに宿る美"
+        "endPage": 34
       },
       {
         "id": "chapter-8",
         "title": "殘念物",
         "startPage": 35,
-        "endPage": 0,
-        "summary": "惜しまれる逸品"
+        "endPage": 39
       },
       {
         "id": "chapter-9",
         "title": "先づ得よ",
         "startPage": 40,
-        "endPage": 0,
-        "summary": "蒐集の第一歩"
+        "endPage": 41
       },
       {
         "id": "chapter-10",
         "title": "價",
         "startPage": 42,
-        "endPage": 0,
-        "summary": "価値と値段の考察"
+        "endPage": 45
       },
       {
         "id": "chapter-11",
         "title": "樂しみを謠ふ",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 50,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "鴛鴦の水滴",
             "startPage": 47,
-            "endPage": 0
+            "endPage": 50
           }
-        ],
-        "summary": "蒐集の喜びを謳う"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "窓繪の土瓶",
         "startPage": 51,
-        "endPage": 0,
-        "summary": "窓絵の土瓶の趣"
+        "endPage": 53
       },
       {
         "id": "chapter-13",
@@ -217,8 +205,7 @@
             "startPage": 61,
             "endPage": 61
           }
-        ],
-        "summary": "焼物にまつわる夜話"
+        ]
       }
     ],
     "totalPages": 61,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "文人囲碁会",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "文人たちの囲碁会"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 508,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文人囲碁会"
+    ]
   },
   "content": [
     {

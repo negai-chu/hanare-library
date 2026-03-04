@@ -60,7 +60,9 @@
     ],
     "totalPages": 125,
     "averageCharsPerPage": 203,
-    "chapterTitles": []
+    "chapterTitles": [
+      "五百五十句"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -87,8 +88,7 @@
       "pageNumber": 4,
       "content": "昭和十一年",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -208,8 +208,7 @@
       "pageNumber": 24,
       "content": "昭和十二年",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -341,8 +340,7 @@
       "pageNumber": 46,
       "content": "昭和十三年",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -480,8 +478,7 @@
       "pageNumber": 69,
       "content": "昭和十四年",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -643,8 +640,7 @@
       "pageNumber": 96,
       "content": "昭和十五年",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,

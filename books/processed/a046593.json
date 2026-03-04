@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一章　歴史の概念",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 62,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 48,
-            "endPage": 0
+            "endPage": 62
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-3",
         "title": "第二章　存在の歴史性",
         "startPage": 63,
-        "endPage": 0,
+        "endPage": 110,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -79,7 +79,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 91,
-            "endPage": 0
+            "endPage": 110
           }
         ]
       },
@@ -87,7 +87,7 @@
         "id": "chapter-4",
         "title": "第三章　歴史的發展",
         "startPage": 111,
-        "endPage": 0,
+        "endPage": 159,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -113,7 +113,7 @@
         "id": "chapter-5",
         "title": "第四章　歴史的時間",
         "startPage": 160,
-        "endPage": 0,
+        "endPage": 210,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 195,
-            "endPage": 0
+            "endPage": 210
           }
         ]
       },
@@ -139,7 +139,7 @@
         "id": "chapter-6",
         "title": "第五章　史觀の構造",
         "startPage": 211,
-        "endPage": 0,
+        "endPage": 257,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -157,7 +157,7 @@
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 246,
-            "endPage": 0
+            "endPage": 257
           }
         ]
       },

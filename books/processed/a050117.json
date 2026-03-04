@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "緒言",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "第一、周遊の目的および太平洋紀行の部",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 25,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -119,7 +119,7 @@
             "id": "chapter-2-section-16",
             "number": "第一六、造物主を立つるの非理",
             "startPage": 23,
-            "endPage": 0
+            "endPage": 25
           }
         ]
       },
@@ -127,7 +127,7 @@
         "id": "chapter-3",
         "title": "第二、米国ならびに大西洋紀行の部",
         "startPage": 26,
-        "endPage": 0,
+        "endPage": 52,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -331,7 +331,7 @@
             "id": "chapter-3-section-34",
             "number": "第五〇、音曲会",
             "startPage": 51,
-            "endPage": 0
+            "endPage": 52
           }
         ]
       },
@@ -339,7 +339,7 @@
         "id": "chapter-4",
         "title": "第三、英国地方紀行の部",
         "startPage": 53,
-        "endPage": 0,
+        "endPage": 83,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -651,7 +651,7 @@
             "id": "chapter-4-section-52",
             "number": "第一〇二、宣教師の予想",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 83
           }
         ]
       },
@@ -659,7 +659,7 @@
         "id": "chapter-5",
         "title": "第四、英国ロンドン紀行の部",
         "startPage": 84,
-        "endPage": 0,
+        "endPage": 103,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -887,7 +887,7 @@
             "id": "chapter-5-section-38",
             "number": "第一四〇、日本国の名称",
             "startPage": 103,
-            "endPage": 0
+            "endPage": 103
           }
         ]
       },
@@ -895,7 +895,7 @@
         "id": "chapter-6",
         "title": "第五、スコットランド紀行の部（付アイルランド）",
         "startPage": 104,
-        "endPage": 0,
+        "endPage": 107,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -949,7 +949,7 @@
             "id": "chapter-6-section-9",
             "number": "第一四九、僧侶の収入",
             "startPage": 107,
-            "endPage": 0
+            "endPage": 107
           }
         ]
       },
@@ -957,7 +957,7 @@
         "id": "chapter-7",
         "title": "第六、フランス紀行の部（付スイス、スペインおよびポルトガル）",
         "startPage": 108,
-        "endPage": 0,
+        "endPage": 117,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -1137,7 +1137,7 @@
             "id": "chapter-7-section-30",
             "number": "第一七九、ポルトガルの僧侶",
             "startPage": 117,
-            "endPage": 0
+            "endPage": 117
           }
         ]
       },
@@ -1145,7 +1145,7 @@
         "id": "chapter-8",
         "title": "第七、イタリア紀行の部（付ギリシアおよびトルコ）",
         "startPage": 118,
-        "endPage": 0,
+        "endPage": 129,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -1319,7 +1319,7 @@
             "id": "chapter-8-section-29",
             "number": "第二〇八、イスラム教の霊地",
             "startPage": 129,
-            "endPage": 0
+            "endPage": 129
           }
         ]
       },
@@ -1327,7 +1327,7 @@
         "id": "chapter-9",
         "title": "第八、オーストリア紀行の部（付ロシア）",
         "startPage": 130,
-        "endPage": 0,
+        "endPage": 139,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -1441,7 +1441,7 @@
             "id": "chapter-9-section-19",
             "number": "第二二七、ロシア宗会堂の他邦にあるもの",
             "startPage": 138,
-            "endPage": 0
+            "endPage": 139
           }
         ]
       },
@@ -1449,7 +1449,7 @@
         "id": "chapter-10",
         "title": "第九、ドイツ紀行の部（付スウェーデン、デンマーク、オランダ、ベルギー）",
         "startPage": 140,
-        "endPage": 0,
+        "endPage": 153,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -1665,7 +1665,7 @@
             "id": "chapter-10-section-36",
             "number": "第二六三、ベルギー政府の保護金",
             "startPage": 153,
-            "endPage": 0
+            "endPage": 153
           }
         ]
       },
@@ -1673,7 +1673,7 @@
         "id": "chapter-11",
         "title": "第一〇、インド洋帰行の部",
         "startPage": 154,
-        "endPage": 0,
+        "endPage": 186,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -1841,7 +1841,7 @@
             "id": "chapter-11-section-28",
             "number": "第二九一、哲学館の改良",
             "startPage": 183,
-            "endPage": 0
+            "endPage": 186
           }
         ]
       },
@@ -1849,7 +1849,7 @@
         "id": "chapter-12",
         "title": "○宗派名称（本書所用）",
         "startPage": 187,
-        "endPage": 0
+        "endPage": 194
       },
       {
         "id": "chapter-13",

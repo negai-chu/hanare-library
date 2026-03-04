@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "偶人物語",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "古い偶人形の怪異"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 320,
-    "chapterTitles": []
+    "chapterTitles": [
+      "偶人物語"
+    ]
   },
   "content": [
     {

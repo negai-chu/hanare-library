@@ -204,7 +204,9 @@
     ],
     "totalPages": 290,
     "averageCharsPerPage": 472,
-    "chapterTitles": []
+    "chapterTitles": [
+      "論語物語"
+    ]
   },
   "content": [
     {
@@ -218,8 +220,7 @@
       "pageNumber": 2,
       "content": "序文",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -237,8 +238,7 @@
       "pageNumber": 5,
       "content": "改版序",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -256,8 +256,7 @@
       "pageNumber": 8,
       "content": "富める子貢",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -317,8 +316,7 @@
       "pageNumber": 18,
       "content": "瑚",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -378,8 +376,7 @@
       "pageNumber": 28,
       "content": "伯牛疾あり",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 29,
@@ -433,8 +430,7 @@
       "pageNumber": 37,
       "content": "志を言う",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -476,8 +472,7 @@
       "pageNumber": 44,
       "content": "子路の舌",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 45,
@@ -519,8 +514,7 @@
       "pageNumber": 51,
       "content": "自らを限る者",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -574,8 +568,7 @@
       "pageNumber": 60,
       "content": "宰予の晝寢",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 61,
@@ -635,8 +628,7 @@
       "pageNumber": 70,
       "content": "觚觚ならず",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -666,8 +658,7 @@
       "pageNumber": 75,
       "content": "申の慾",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -697,8 +688,7 @@
       "pageNumber": 80,
       "content": "大廟に入りて",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 81,
@@ -764,8 +754,7 @@
       "pageNumber": 91,
       "content": "豚を贈られた孔子",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -801,8 +790,7 @@
       "pageNumber": 97,
       "content": "孝を問う",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -862,8 +850,7 @@
       "pageNumber": 107,
       "content": "楽長と孔子の眼",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -923,8 +910,7 @@
       "pageNumber": 117,
       "content": "犂牛の子",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 118,
@@ -990,8 +976,7 @@
       "pageNumber": 128,
       "content": "異聞を探る",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -1063,8 +1048,7 @@
       "pageNumber": 140,
       "content": "天の木鐸",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 141,
@@ -1130,8 +1114,7 @@
       "pageNumber": 151,
       "content": "磬を撃つ孔子",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 152,
@@ -1173,8 +1156,7 @@
       "pageNumber": 158,
       "content": "竈に媚びよ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 159,
@@ -1240,8 +1222,7 @@
       "pageNumber": 169,
       "content": "匡の変",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,
@@ -1343,8 +1324,7 @@
       "pageNumber": 186,
       "content": "司馬牛の悩み",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 187,
@@ -1392,8 +1372,7 @@
       "pageNumber": 194,
       "content": "孔子と葉公",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 195,
@@ -1465,8 +1444,7 @@
       "pageNumber": 206,
       "content": "渡場",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 207,
@@ -1556,8 +1534,7 @@
       "pageNumber": 221,
       "content": "陳蔡の野",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 222,
@@ -1629,8 +1606,7 @@
       "pageNumber": 233,
       "content": "病める孔子と子路",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 234,
@@ -1684,8 +1660,7 @@
       "pageNumber": 242,
       "content": "一以て貫く",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 243,
@@ -1775,8 +1750,7 @@
       "pageNumber": 257,
       "content": "行蔵の弁",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 258,
@@ -1830,8 +1804,7 @@
       "pageNumber": 266,
       "content": "永遠に流るるもの",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 267,
@@ -1855,8 +1828,7 @@
       "pageNumber": 270,
       "content": "泰山に立ちて",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 271,

@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "發端篇",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 24,
-            "endPage": 0
+            "endPage": 31
           }
         ]
       },

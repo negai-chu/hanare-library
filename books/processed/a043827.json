@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "大衆の知恵",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "映画の観衆が持つ知恵"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 500,
-    "chapterTitles": []
+    "chapterTitles": [
+      "大衆の知恵"
+    ]
   },
   "content": [
     {

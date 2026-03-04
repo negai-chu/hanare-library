@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "密林荘事件",
         "startPage": 1,
-        "endPage": 5,
-        "summary": "密林荘の自殺事件"
+        "endPage": 5
       }
     ],
     "totalPages": 5,
     "averageCharsPerPage": 450,
-    "chapterTitles": []
+    "chapterTitles": [
+      "密林荘事件"
+    ]
   },
   "content": [
     {

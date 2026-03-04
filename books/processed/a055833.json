@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "緒言",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "新年の部",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 10,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "雑",
             "startPage": 10,
-            "endPage": 0
+            "endPage": 10
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-3",
         "title": "春之部",
         "startPage": 11,
-        "endPage": 0,
+        "endPage": 30,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -79,7 +79,7 @@
             "id": "chapter-3-section-7",
             "number": "雑",
             "startPage": 27,
-            "endPage": 0
+            "endPage": 30
           }
         ]
       },
@@ -87,7 +87,7 @@
         "id": "chapter-4",
         "title": "夏之部",
         "startPage": 31,
-        "endPage": 0,
+        "endPage": 44,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -129,7 +129,7 @@
             "id": "chapter-4-section-7",
             "number": "雑",
             "startPage": 43,
-            "endPage": 0
+            "endPage": 44
           }
         ]
       },
@@ -137,7 +137,7 @@
         "id": "chapter-5",
         "title": "秋之部",
         "startPage": 45,
-        "endPage": 0,
+        "endPage": 65,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -179,7 +179,7 @@
             "id": "chapter-5-section-7",
             "number": "雑",
             "startPage": 61,
-            "endPage": 0
+            "endPage": 65
           }
         ]
       },

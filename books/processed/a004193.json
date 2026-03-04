@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "犬のはじまり",
         "startPage": 1,
-        "endPage": 10,
-        "summary": "幼少の犬の思い出"
+        "endPage": 10
       }
     ],
     "totalPages": 10,
     "averageCharsPerPage": 401,
-    "chapterTitles": []
+    "chapterTitles": [
+      "犬のはじまり"
+    ]
   },
   "content": [
     {

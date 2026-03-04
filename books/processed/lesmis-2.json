@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一編　ワーテルロー",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 115,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -131,7 +131,7 @@
             "id": "chapter-1-section-19",
             "number": "十九　戦場の夜",
             "startPage": 103,
-            "endPage": 0
+            "endPage": 115
           }
         ]
       },
@@ -139,7 +139,7 @@
         "id": "chapter-2",
         "title": "第二編　軍艦オリオン",
         "startPage": 116,
-        "endPage": 0,
+        "endPage": 145,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -165,7 +165,7 @@
         "id": "chapter-3",
         "title": "第三編　死者への約束の履行",
         "startPage": 146,
-        "endPage": 0,
+        "endPage": 253,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -239,7 +239,7 @@
         "id": "chapter-4",
         "title": "第四編　ゴルボー屋敷",
         "startPage": 254,
-        "endPage": 0,
+        "endPage": 285,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -269,7 +269,7 @@
             "id": "chapter-4-section-5",
             "number": "五　床に落ちた五フラン銀貨の響き",
             "startPage": 279,
-            "endPage": 0
+            "endPage": 285
           }
         ]
       },
@@ -277,7 +277,7 @@
         "id": "chapter-5",
         "title": "第五編　暗がりの追跡に無言の一組",
         "startPage": 286,
-        "endPage": 0,
+        "endPage": 344,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -337,7 +337,7 @@
             "id": "chapter-5-section-10",
             "number": "十　ジャヴェルの失敗の理由",
             "startPage": 328,
-            "endPage": 0
+            "endPage": 344
           }
         ]
       },
@@ -345,7 +345,7 @@
         "id": "chapter-6",
         "title": "第六編　プティー・ピクプュス",
         "startPage": 345,
-        "endPage": 0,
+        "endPage": 404,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -411,7 +411,7 @@
             "id": "chapter-6-section-11",
             "number": "十一　プティー・ピクプュスの終わり",
             "startPage": 401,
-            "endPage": 0
+            "endPage": 404
           }
         ]
       },
@@ -419,7 +419,7 @@
         "id": "chapter-7",
         "title": "第七編　余談",
         "startPage": 405,
-        "endPage": 0,
+        "endPage": 429,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -467,7 +467,7 @@
             "id": "chapter-7-section-8",
             "number": "八　信仰、法則",
             "startPage": 425,
-            "endPage": 0
+            "endPage": 429
           }
         ]
       },

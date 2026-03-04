@@ -42,7 +42,9 @@
     ],
     "totalPages": 136,
     "averageCharsPerPage": 597,
-    "chapterTitles": []
+    "chapterTitles": [
+      "金銭無情"
+    ]
   },
   "content": [
     {
@@ -344,8 +346,7 @@
       "pageNumber": 50,
       "content": "失恋難",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -531,8 +532,7 @@
       "pageNumber": 81,
       "content": "夜の王様",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,

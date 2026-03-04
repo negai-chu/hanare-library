@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "蕪村の俳句について",
         "startPage": 6,
-        "endPage": 0,
+        "endPage": 71,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-2-section-5",
             "number": "冬の部",
             "startPage": 52,
-            "endPage": 0
+            "endPage": 71
           }
         ]
       },

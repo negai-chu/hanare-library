@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "第一篇",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 115,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -53,7 +53,7 @@
             "id": "chapter-1-section-6",
             "number": "第六章",
             "startPage": 91,
-            "endPage": 0
+            "endPage": 115
           }
         ]
       },
@@ -61,7 +61,7 @@
         "id": "chapter-2",
         "title": "第二篇",
         "startPage": 116,
-        "endPage": 0,
+        "endPage": 275,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -115,7 +115,7 @@
             "id": "chapter-2-section-9",
             "number": "第九章",
             "startPage": 262,
-            "endPage": 0
+            "endPage": 275
           }
         ]
       },

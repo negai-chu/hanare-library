@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "登場人物",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "第一幕",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 20,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-2-section-2",
             "number": "第二場",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 20
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-3",
         "title": "第二幕",
         "startPage": 21,
-        "endPage": 0,
+        "endPage": 36,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -55,7 +55,7 @@
             "id": "chapter-3-section-2",
             "number": "第二場",
             "startPage": 34,
-            "endPage": 0
+            "endPage": 36
           }
         ]
       },

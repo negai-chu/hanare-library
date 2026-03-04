@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "図書館",
         "startPage": 1,
-        "endPage": 13,
-        "summary": "上野の図書館の記憶"
+        "endPage": 13
       }
     ],
     "totalPages": 13,
     "averageCharsPerPage": 518,
-    "chapterTitles": []
+    "chapterTitles": [
+      "図書館"
+    ]
   },
   "content": [
     {

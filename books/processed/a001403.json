@@ -17,951 +17,821 @@
         "id": "chapter-1",
         "title": "第一回",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 28,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 3,
-            "endPage": 7,
-            "summary": "物語の発端"
+            "endPage": 7
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
             "startPage": 8,
-            "endPage": 11,
-            "summary": "不穏な影の到来"
+            "endPage": 11
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
             "startPage": 12,
-            "endPage": 14,
-            "summary": "奇怪な噂の広がり"
+            "endPage": 14
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 15,
-            "endPage": 19,
-            "summary": "武士たちの探索"
+            "endPage": 19
           },
           {
             "id": "chapter-1-section-5",
             "number": "五",
             "startPage": 20,
-            "endPage": 23,
-            "summary": "異変の兆候"
+            "endPage": 23
           },
           {
             "id": "chapter-1-section-6",
             "number": "六",
             "startPage": 24,
-            "endPage": 0,
-            "summary": "深まる謎"
+            "endPage": 28
           }
-        ],
-        "summary": "纐纈城の謎の始まり"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "第二回",
         "startPage": 29,
-        "endPage": 0,
+        "endPage": 51,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 30,
-            "endPage": 34,
-            "summary": "闇に潜む者"
+            "endPage": 34
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 35,
-            "endPage": 37,
-            "summary": "追手の接近"
+            "endPage": 37
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 38,
-            "endPage": 41,
-            "summary": "危険な邂逅"
+            "endPage": 41
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 42,
-            "endPage": 46,
-            "summary": "逃走と策略"
+            "endPage": 46
           },
           {
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 47,
-            "endPage": 0,
-            "summary": "意外な同盟"
+            "endPage": 51
           }
-        ],
-        "summary": "忍びの追跡劇"
+        ]
       },
       {
         "id": "chapter-3",
         "title": "第三回",
         "startPage": 52,
-        "endPage": 0,
+        "endPage": 78,
         "sections": [
           {
             "id": "chapter-3-section-1",
             "number": "一",
             "startPage": 53,
-            "endPage": 55,
-            "summary": "秘伝の染色技法"
+            "endPage": 55
           },
           {
             "id": "chapter-3-section-2",
             "number": "二",
             "startPage": 56,
-            "endPage": 63,
-            "summary": "妖しき色彩の誕生"
+            "endPage": 63
           },
           {
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 64,
-            "endPage": 64,
-            "summary": "技の継承と葛藤"
+            "endPage": 64
           },
           {
             "id": "chapter-3-section-4",
             "number": "四",
             "startPage": 65,
-            "endPage": 70,
-            "summary": "対立する流派"
+            "endPage": 70
           },
           {
             "id": "chapter-3-section-5",
             "number": "五",
             "startPage": 71,
-            "endPage": 73,
-            "summary": "禁断の染料"
+            "endPage": 73
           },
           {
             "id": "chapter-3-section-6",
             "number": "六",
             "startPage": 74,
-            "endPage": 0,
-            "summary": "師弟の絆と裏切り"
+            "endPage": 78
           }
-        ],
-        "summary": "染物師の秘術"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "第四回",
         "startPage": 79,
-        "endPage": 0,
+        "endPage": 107,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "一",
             "startPage": 80,
-            "endPage": 84,
-            "summary": "深山への道行き"
+            "endPage": 84
           },
           {
             "id": "chapter-4-section-2",
             "number": "二",
             "startPage": 85,
-            "endPage": 88,
-            "summary": "隠された砦の発見"
+            "endPage": 88
           },
           {
             "id": "chapter-4-section-3",
             "number": "三",
             "startPage": 89,
-            "endPage": 92,
-            "summary": "城内の奇妙な風景"
+            "endPage": 92
           },
           {
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 93,
-            "endPage": 96,
-            "summary": "囚われの人々"
+            "endPage": 96
           },
           {
             "id": "chapter-4-section-5",
             "number": "五",
             "startPage": 97,
-            "endPage": 102,
-            "summary": "脱出への手がかり"
+            "endPage": 102
           },
           {
             "id": "chapter-4-section-6",
             "number": "六",
             "startPage": 103,
-            "endPage": 0,
-            "summary": "城の真の姿"
+            "endPage": 107
           }
-        ],
-        "summary": "山中の隠れ城"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "第五回",
         "startPage": 108,
-        "endPage": 0,
+        "endPage": 133,
         "sections": [
           {
             "id": "chapter-5-section-1",
             "number": "一",
             "startPage": 109,
-            "endPage": 113,
-            "summary": "術者との対峙"
+            "endPage": 113
           },
           {
             "id": "chapter-5-section-2",
             "number": "二",
             "startPage": 114,
-            "endPage": 119,
-            "summary": "幻惑の罠"
+            "endPage": 119
           },
           {
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 120,
-            "endPage": 122,
-            "summary": "剣士の覚悟"
+            "endPage": 122
           },
           {
             "id": "chapter-5-section-4",
             "number": "四",
             "startPage": 123,
-            "endPage": 125,
-            "summary": "激闘の渦中"
+            "endPage": 125
           },
           {
             "id": "chapter-5-section-5",
             "number": "五",
             "startPage": 126,
-            "endPage": 0,
-            "summary": "術破りの一閃"
+            "endPage": 133
           }
-        ],
-        "summary": "妖術と剣の戦い"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "第六回",
         "startPage": 134,
-        "endPage": 0,
+        "endPage": 155,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "一",
             "startPage": 135,
-            "endPage": 137,
-            "summary": "美しき囚人"
+            "endPage": 137
           },
           {
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 138,
-            "endPage": 140,
-            "summary": "宮廷の暗躍"
+            "endPage": 140
           },
           {
             "id": "chapter-6-section-3",
             "number": "三",
             "startPage": 141,
-            "endPage": 143,
-            "summary": "密書の発覚"
+            "endPage": 143
           },
           {
             "id": "chapter-6-section-4",
             "number": "四",
             "startPage": 144,
-            "endPage": 148,
-            "summary": "二重の裏切り"
+            "endPage": 148
           },
           {
             "id": "chapter-6-section-5",
             "number": "五",
             "startPage": 149,
-            "endPage": 151,
-            "summary": "逃亡の夜"
+            "endPage": 151
           },
           {
             "id": "chapter-6-section-6",
             "number": "六",
             "startPage": 152,
-            "endPage": 0,
-            "summary": "新たな同志"
+            "endPage": 155
           }
-        ],
-        "summary": "美姫と陰謀の渦"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "第七回",
         "startPage": 156,
-        "endPage": 0,
+        "endPage": 194,
         "sections": [
           {
             "id": "chapter-7-section-1",
             "number": "一",
             "startPage": 157,
-            "endPage": 163,
-            "summary": "地下道への降下"
+            "endPage": 163
           },
           {
             "id": "chapter-7-section-2",
             "number": "二",
             "startPage": 164,
-            "endPage": 167,
-            "summary": "暗闘の果て"
+            "endPage": 167
           },
           {
             "id": "chapter-7-section-3",
             "number": "三",
             "startPage": 168,
-            "endPage": 174,
-            "summary": "隠し部屋の発見"
+            "endPage": 174
           },
           {
             "id": "chapter-7-section-4",
             "number": "四",
             "startPage": 175,
-            "endPage": 183,
-            "summary": "古文書の秘密"
+            "endPage": 183
           },
           {
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 184,
-            "endPage": 189,
-            "summary": "地底湖の奇観"
+            "endPage": 189
           },
           {
             "id": "chapter-7-section-6",
             "number": "六",
             "startPage": 190,
-            "endPage": 0,
-            "summary": "脱出路の探索"
+            "endPage": 194
           }
-        ],
-        "summary": "地底の秘密空間"
+        ]
       },
       {
         "id": "chapter-8",
         "title": "第八回",
         "startPage": 195,
-        "endPage": 0,
+        "endPage": 215,
         "sections": [
           {
             "id": "chapter-8-section-1",
             "number": "一",
             "startPage": 196,
-            "endPage": 199,
-            "summary": "味方の中の敵"
+            "endPage": 199
           },
           {
             "id": "chapter-8-section-2",
             "number": "二",
             "startPage": 200,
-            "endPage": 203,
-            "summary": "暴かれた正体"
+            "endPage": 203
           },
           {
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 204,
-            "endPage": 205,
-            "summary": "信頼の崩壊"
+            "endPage": 205
           },
           {
             "id": "chapter-8-section-4",
             "number": "四",
             "startPage": 206,
-            "endPage": 209,
-            "summary": "真実への手がかり"
+            "endPage": 209
           },
           {
             "id": "chapter-8-section-5",
             "number": "五",
             "startPage": 210,
-            "endPage": 0,
-            "summary": "再起の決意"
+            "endPage": 215
           }
-        ],
-        "summary": "裏切りと真実"
+        ]
       },
       {
         "id": "chapter-9",
         "title": "第九回",
         "startPage": 216,
-        "endPage": 0,
+        "endPage": 250,
         "sections": [
           {
             "id": "chapter-9-section-1",
             "number": "一",
             "startPage": 217,
-            "endPage": 219,
-            "summary": "仲間の再集結"
+            "endPage": 219
           },
           {
             "id": "chapter-9-section-2",
             "number": "二",
             "startPage": 220,
-            "endPage": 222,
-            "summary": "作戦の立案"
+            "endPage": 222
           },
           {
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 223,
-            "endPage": 226,
-            "summary": "敵陣への潜入"
+            "endPage": 226
           },
           {
             "id": "chapter-9-section-4",
             "number": "四",
             "startPage": 227,
-            "endPage": 232,
-            "summary": "前哨戦の火蓋"
+            "endPage": 232
           },
           {
             "id": "chapter-9-section-5",
             "number": "五",
             "startPage": 233,
-            "endPage": 237,
-            "summary": "予想外の援軍"
+            "endPage": 237
           },
           {
             "id": "chapter-9-section-6",
             "number": "六",
             "startPage": 238,
-            "endPage": 243,
-            "summary": "戦況の逆転"
+            "endPage": 243
           },
           {
             "id": "chapter-9-section-7",
             "number": "七",
             "startPage": 244,
-            "endPage": 0,
-            "summary": "最終決戦の序章"
+            "endPage": 250
           }
-        ],
-        "summary": "決戦への道程"
+        ]
       },
       {
         "id": "chapter-10",
         "title": "第十回",
         "startPage": 251,
-        "endPage": 0,
+        "endPage": 279,
         "sections": [
           {
             "id": "chapter-10-section-1",
             "number": "一",
             "startPage": 252,
-            "endPage": 259,
-            "summary": "城門突破の攻撃"
+            "endPage": 259
           },
           {
             "id": "chapter-10-section-2",
             "number": "二",
             "startPage": 260,
-            "endPage": 266,
-            "summary": "城内の死闘"
+            "endPage": 266
           },
           {
             "id": "chapter-10-section-3",
             "number": "三",
             "startPage": 267,
-            "endPage": 270,
-            "summary": "秘宝の在処"
+            "endPage": 270
           },
           {
             "id": "chapter-10-section-4",
             "number": "四",
             "startPage": 271,
-            "endPage": 0,
-            "summary": "城主との対決"
+            "endPage": 279
           }
-        ],
-        "summary": "纐纈城の攻防"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "第十一回",
         "startPage": 280,
-        "endPage": 0,
+        "endPage": 301,
         "sections": [
           {
             "id": "chapter-11-section-1",
             "number": "一",
             "startPage": 281,
-            "endPage": 283,
-            "summary": "宿命の相手"
+            "endPage": 283
           },
           {
             "id": "chapter-11-section-2",
             "number": "二",
             "startPage": 284,
-            "endPage": 287,
-            "summary": "過去の因縁"
+            "endPage": 287
           },
           {
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 288,
-            "endPage": 290,
-            "summary": "壮絶な一騎打ち"
+            "endPage": 290
           },
           {
             "id": "chapter-11-section-4",
             "number": "四",
             "startPage": 291,
-            "endPage": 295,
-            "summary": "決着の瞬間"
+            "endPage": 295
           },
           {
             "id": "chapter-11-section-5",
             "number": "五",
             "startPage": 296,
-            "endPage": 0,
-            "summary": "勝者の代償"
+            "endPage": 301
           }
-        ],
-        "summary": "因縁の対決"
+        ]
       },
       {
         "id": "chapter-12",
         "title": "第十二回",
         "startPage": 302,
-        "endPage": 0,
+        "endPage": 332,
         "sections": [
           {
             "id": "chapter-12-section-1",
             "number": "一",
             "startPage": 303,
-            "endPage": 308,
-            "summary": "宝の正体"
+            "endPage": 308
           },
           {
             "id": "chapter-12-section-2",
             "number": "二",
             "startPage": 309,
-            "endPage": 312,
-            "summary": "三つ巴の戦い"
+            "endPage": 312
           },
           {
             "id": "chapter-12-section-3",
             "number": "三",
             "startPage": 313,
-            "endPage": 318,
-            "summary": "奪い合う者たち"
+            "endPage": 318
           },
           {
             "id": "chapter-12-section-4",
             "number": "四",
             "startPage": 319,
-            "endPage": 323,
-            "summary": "宝の呪い"
+            "endPage": 323
           },
           {
             "id": "chapter-12-section-5",
             "number": "五",
             "startPage": 324,
-            "endPage": 327,
-            "summary": "破壊と創造"
+            "endPage": 327
           },
           {
             "id": "chapter-12-section-6",
             "number": "六",
             "startPage": 328,
-            "endPage": 0,
-            "summary": "秘宝の行方"
+            "endPage": 332
           }
-        ],
-        "summary": "秘宝をめぐる争奪"
+        ]
       },
       {
         "id": "chapter-13",
         "title": "第十三回",
         "startPage": 333,
-        "endPage": 0,
+        "endPage": 357,
         "sections": [
           {
             "id": "chapter-13-section-1",
             "number": "一",
             "startPage": 334,
-            "endPage": 336,
-            "summary": "崩壊の予兆"
+            "endPage": 336
           },
           {
             "id": "chapter-13-section-2",
             "number": "二",
             "startPage": 337,
-            "endPage": 340,
-            "summary": "脱出の混乱"
+            "endPage": 340
           },
           {
             "id": "chapter-13-section-3",
             "number": "三",
             "startPage": 341,
-            "endPage": 344,
-            "summary": "犠牲と救出"
+            "endPage": 344
           },
           {
             "id": "chapter-13-section-4",
             "number": "四",
             "startPage": 345,
-            "endPage": 348,
-            "summary": "城の最期"
+            "endPage": 348
           },
           {
             "id": "chapter-13-section-5",
             "number": "五",
             "startPage": 349,
-            "endPage": 353,
-            "summary": "生き残った者たち"
+            "endPage": 353
           },
           {
             "id": "chapter-13-section-6",
             "number": "六",
             "startPage": 354,
-            "endPage": 0,
-            "summary": "新たな旅立ち"
+            "endPage": 357
           }
-        ],
-        "summary": "崩壊する城の運命"
+        ]
       },
       {
         "id": "chapter-14",
         "title": "第十四回",
         "startPage": 358,
-        "endPage": 0,
+        "endPage": 385,
         "sections": [
           {
             "id": "chapter-14-section-1",
             "number": "一",
             "startPage": 359,
-            "endPage": 361,
-            "summary": "追撃の狼煙"
+            "endPage": 361
           },
           {
             "id": "chapter-14-section-2",
             "number": "二",
             "startPage": 362,
-            "endPage": 365,
-            "summary": "敗残兵の反撃"
+            "endPage": 365
           },
           {
             "id": "chapter-14-section-3",
             "number": "三",
             "startPage": 366,
-            "endPage": 369,
-            "summary": "山中の伏兵"
+            "endPage": 369
           },
           {
             "id": "chapter-14-section-4",
             "number": "四",
             "startPage": 370,
-            "endPage": 378,
-            "summary": "最後の抵抗"
+            "endPage": 378
           },
           {
             "id": "chapter-14-section-5",
             "number": "五",
             "startPage": 379,
-            "endPage": 0,
-            "summary": "平定への道"
+            "endPage": 385
           }
-        ],
-        "summary": "残党との最後の戦い"
+        ]
       },
       {
         "id": "chapter-15",
         "title": "第十五回",
         "startPage": 386,
-        "endPage": 0,
+        "endPage": 421,
         "sections": [
           {
             "id": "chapter-15-section-1",
             "number": "一",
             "startPage": 387,
-            "endPage": 392,
-            "summary": "再会の喜び"
+            "endPage": 392
           },
           {
             "id": "chapter-15-section-2",
             "number": "二",
             "startPage": 393,
-            "endPage": 395,
-            "summary": "告白と真意"
+            "endPage": 395
           },
           {
             "id": "chapter-15-section-3",
             "number": "三",
             "startPage": 396,
-            "endPage": 400,
-            "summary": "揺れる心"
+            "endPage": 400
           },
           {
             "id": "chapter-15-section-4",
             "number": "四",
             "startPage": 401,
-            "endPage": 406,
-            "summary": "別離の選択"
+            "endPage": 406
           },
           {
             "id": "chapter-15-section-5",
             "number": "五",
             "startPage": 407,
-            "endPage": 410,
-            "summary": "愛の代償"
+            "endPage": 410
           },
           {
             "id": "chapter-15-section-6",
             "number": "六",
             "startPage": 411,
-            "endPage": 415,
-            "summary": "赦しの光"
+            "endPage": 415
           },
           {
             "id": "chapter-15-section-7",
             "number": "七",
             "startPage": 416,
-            "endPage": 0,
-            "summary": "新たな誓い"
+            "endPage": 421
           }
-        ],
-        "summary": "愛憎の果てに"
+        ]
       },
       {
         "id": "chapter-16",
         "title": "第十六回",
         "startPage": 422,
-        "endPage": 0,
+        "endPage": 454,
         "sections": [
           {
             "id": "chapter-16-section-1",
             "number": "一",
             "startPage": 423,
-            "endPage": 428,
-            "summary": "荒廃した土地"
+            "endPage": 428
           },
           {
             "id": "chapter-16-section-2",
             "number": "二",
             "startPage": 429,
-            "endPage": 434,
-            "summary": "民の帰還"
+            "endPage": 434
           },
           {
             "id": "chapter-16-section-3",
             "number": "三",
             "startPage": 435,
-            "endPage": 438,
-            "summary": "復興の槌音"
+            "endPage": 438
           },
           {
             "id": "chapter-16-section-4",
             "number": "四",
             "startPage": 439,
-            "endPage": 443,
-            "summary": "新しき秩序"
+            "endPage": 443
           },
           {
             "id": "chapter-16-section-5",
             "number": "五",
             "startPage": 444,
-            "endPage": 448,
-            "summary": "恩賞と処罰"
+            "endPage": 448
           },
           {
             "id": "chapter-16-section-6",
             "number": "六",
             "startPage": 449,
-            "endPage": 0,
-            "summary": "平和への祈り"
+            "endPage": 454
           }
-        ],
-        "summary": "戦後の世の再建"
+        ]
       },
       {
         "id": "chapter-17",
         "title": "第十七回",
         "startPage": 455,
-        "endPage": 0,
+        "endPage": 494,
         "sections": [
           {
             "id": "chapter-17-section-1",
             "number": "一",
             "startPage": 456,
-            "endPage": 1,
-            "summary": "別れの街道"
+            "endPage": 1
           },
           {
             "id": "chapter-17-section-2",
             "number": "二",
             "startPage": 1,
-            "endPage": 1,
-            "summary": "旅の道連れ"
+            "endPage": 1
           },
           {
             "id": "chapter-17-section-3",
             "number": "三",
             "startPage": 468,
-            "endPage": 474,
-            "summary": "宿場の一夜"
+            "endPage": 474
           },
           {
             "id": "chapter-17-section-4",
             "number": "四",
             "startPage": 475,
-            "endPage": 480,
-            "summary": "過去との訣別"
+            "endPage": 480
           },
           {
             "id": "chapter-17-section-5",
             "number": "五",
             "startPage": 481,
-            "endPage": 487,
-            "summary": "新天地への想い"
+            "endPage": 487
           },
           {
             "id": "chapter-17-section-6",
             "number": "六",
             "startPage": 488,
-            "endPage": 0,
-            "summary": "剣を置く日"
+            "endPage": 494
           }
-        ],
-        "summary": "漂泊の剣士の旅路"
+        ]
       },
       {
         "id": "chapter-18",
         "title": "第十八回",
         "startPage": 495,
-        "endPage": 0,
+        "endPage": 522,
         "sections": [
           {
             "id": "chapter-18-section-1",
             "number": "一",
             "startPage": 496,
-            "endPage": 500,
-            "summary": "伝承の危機"
+            "endPage": 500
           },
           {
             "id": "chapter-18-section-2",
             "number": "二",
             "startPage": 501,
-            "endPage": 504,
-            "summary": "継承者の選定"
+            "endPage": 504
           },
           {
             "id": "chapter-18-section-3",
             "number": "三",
             "startPage": 505,
-            "endPage": 508,
-            "summary": "技の伝授"
+            "endPage": 508
           },
           {
             "id": "chapter-18-section-4",
             "number": "四",
             "startPage": 509,
-            "endPage": 512,
-            "summary": "新たな誓約"
+            "endPage": 512
           },
           {
             "id": "chapter-18-section-5",
             "number": "五",
             "startPage": 513,
-            "endPage": 515,
-            "summary": "未来への託し"
+            "endPage": 515
           },
           {
             "id": "chapter-18-section-6",
             "number": "六",
             "startPage": 516,
-            "endPage": 0,
-            "summary": "秘伝の封印"
+            "endPage": 522
           }
-        ],
-        "summary": "纐纈の秘密の継承"
+        ]
       },
       {
         "id": "chapter-19",
         "title": "第十九回",
         "startPage": 523,
-        "endPage": 0,
+        "endPage": 546,
         "sections": [
           {
             "id": "chapter-19-section-1",
             "number": "一",
             "startPage": 524,
-            "endPage": 528,
-            "summary": "散り散りの仲間"
+            "endPage": 528
           },
           {
             "id": "chapter-19-section-2",
             "number": "二",
             "startPage": 529,
-            "endPage": 530,
-            "summary": "それぞれの道"
+            "endPage": 530
           },
           {
             "id": "chapter-19-section-3",
             "number": "三",
             "startPage": 531,
-            "endPage": 532,
-            "summary": "再会の約束"
+            "endPage": 532
           },
           {
             "id": "chapter-19-section-4",
             "number": "四",
             "startPage": 533,
-            "endPage": 537,
-            "summary": "時の流れ"
+            "endPage": 537
           },
           {
             "id": "chapter-19-section-5",
             "number": "五",
             "startPage": 538,
-            "endPage": 541,
-            "summary": "変わりゆく世"
+            "endPage": 541
           },
           {
             "id": "chapter-19-section-6",
             "number": "六",
             "startPage": 542,
-            "endPage": 0,
-            "summary": "物語の余韻"
+            "endPage": 546
           }
-        ],
-        "summary": "結末へ向かう物語"
+        ]
       },
       {
         "id": "chapter-20",
         "title": "第二十回",
         "startPage": 547,
-        "endPage": 0,
+        "endPage": 553,
         "sections": [
           {
             "id": "chapter-20-section-1",
             "number": "一",
             "startPage": 548,
-            "endPage": 0,
-            "summary": "静寂の中の決意"
+            "endPage": 553
           }
-        ],
-        "summary": "終幕への序章"
+        ]
       },
       {
         "id": "chapter-21",
@@ -973,11 +843,9 @@
             "id": "chapter-21-section-1",
             "number": "一",
             "startPage": 555,
-            "endPage": 558,
-            "summary": "物語の結び"
+            "endPage": 558
           }
-        ],
-        "summary": "大団円の幕引き"
+        ]
       }
     ],
     "totalPages": 558,

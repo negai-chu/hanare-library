@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "花のたより",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "映画と現実の花便り"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 529,
-    "chapterTitles": []
+    "chapterTitles": [
+      "花のたより"
+    ]
   },
   "content": [
     {

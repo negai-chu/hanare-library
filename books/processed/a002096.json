@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "材木の間から",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -59,16 +59,15 @@
             "id": "chapter-1-section-7",
             "number": "――７――",
             "startPage": 15,
-            "endPage": 0
+            "endPage": 16
           }
-        ],
-        "summary": "材木の間の事件"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "光明か暗黒か",
         "startPage": 17,
-        "endPage": 0,
+        "endPage": 36,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -182,10 +181,9 @@
             "id": "chapter-2-section-19",
             "number": "――19――",
             "startPage": 35,
-            "endPage": 0
+            "endPage": 36
           }
-        ],
-        "summary": "光明と暗黒の選択"
+        ]
       },
       {
         "id": "chapter-3",
@@ -295,8 +293,7 @@
             "startPage": 87,
             "endPage": 94
           }
-        ],
-        "summary": "怠け者の恋の顛末"
+        ]
       }
     ],
     "totalPages": 94,

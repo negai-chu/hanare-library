@@ -48,7 +48,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 504,
-    "chapterTitles": []
+    "chapterTitles": [
+      "特殊部落ということについて"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 5,
       "content": "緒言",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "特殊部落を区別することの悪結果",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -118,8 +118,7 @@
       "pageNumber": 11,
       "content": "特殊部落の人口増殖とその将来",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -137,8 +136,7 @@
       "pageNumber": 14,
       "content": "特殊部落区別撤廃の方法",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,

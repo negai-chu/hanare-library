@@ -84,7 +84,9 @@
     ],
     "totalPages": 60,
     "averageCharsPerPage": 438,
-    "chapterTitles": []
+    "chapterTitles": [
+      "西班牙の恋"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "一　熱病やみか狂人か",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 7,
       "content": "二　唯《ただ》一発で放《ぶ》ち殺すさ",
       "characters": 18,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -166,8 +166,7 @@
       "pageNumber": 13,
       "content": "三　幼馴染の親友",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -209,8 +208,7 @@
       "pageNumber": 20,
       "content": "四　微妙な銀笛の音色",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -246,8 +244,7 @@
       "pageNumber": 26,
       "content": "五　傷痕のない屍骸",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -295,8 +292,7 @@
       "pageNumber": 34,
       "content": "六　半人半獣の妖怪",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 35,
@@ -332,8 +328,7 @@
       "pageNumber": 40,
       "content": "七　探偵からの手紙",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -363,8 +358,7 @@
       "pageNumber": 45,
       "content": "八　美しい娘の声",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -400,8 +394,7 @@
       "pageNumber": 51,
       "content": "九　あの人を愛していた",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -431,8 +424,7 @@
       "pageNumber": 56,
       "content": "十　純な少女の呪詛《のろい》",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,

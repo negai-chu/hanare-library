@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "豹の血（小曲八篇）",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -65,219 +65,189 @@
             "id": "chapter-1-section-8",
             "number": "晝のおもひ",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 16
           }
-        ],
-        "summary": "激しい情念の小曲群"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "偶感",
         "startPage": 17,
-        "endPage": 0,
-        "summary": "ふと心に浮かぶ感懐"
+        "endPage": 18
       },
       {
         "id": "chapter-3",
         "title": "秋のこころ",
         "startPage": 19,
-        "endPage": 0,
-        "summary": "秋の心情の吐露"
+        "endPage": 21
       },
       {
         "id": "chapter-4",
         "title": "大河",
         "startPage": 22,
-        "endPage": 0,
-        "summary": "悠々と流れる大河"
+        "endPage": 25
       },
       {
         "id": "chapter-5",
         "title": "甕の水",
         "startPage": 26,
-        "endPage": 0,
-        "summary": "甕に湛えた水の静謐"
+        "endPage": 29
       },
       {
         "id": "chapter-6",
         "title": "朱のまだら",
         "startPage": 30,
-        "endPage": 0,
-        "summary": "朱の斑模様の幻視"
+        "endPage": 35
       },
       {
         "id": "chapter-7",
         "title": "坂路",
         "startPage": 36,
-        "endPage": 0,
-        "summary": "坂路を登る心象"
+        "endPage": 38
       },
       {
         "id": "chapter-8",
         "title": "不安",
         "startPage": 39,
-        "endPage": 0,
-        "summary": "拭えぬ不安の影"
+        "endPage": 42
       },
       {
         "id": "chapter-9",
         "title": "絶望",
         "startPage": 43,
-        "endPage": 0,
-        "summary": "深い絶望の底"
+        "endPage": 44
       },
       {
         "id": "chapter-10",
         "title": "燈火",
         "startPage": 45,
-        "endPage": 0,
-        "summary": "揺れる燈火の明滅"
+        "endPage": 50
       },
       {
         "id": "chapter-11",
         "title": "草びら",
         "startPage": 51,
-        "endPage": 0,
-        "summary": "草びらの繊細な詩"
+        "endPage": 53
       },
       {
         "id": "chapter-12",
         "title": "孤寂",
         "startPage": 54,
-        "endPage": 0,
-        "summary": "孤独に沈む心"
+        "endPage": 55
       },
       {
         "id": "chapter-13",
         "title": "この時",
         "startPage": 56,
-        "endPage": 0,
-        "summary": "この時の切迫した感情"
+        "endPage": 60
       },
       {
         "id": "chapter-14",
         "title": "音もなし",
         "startPage": 61,
-        "endPage": 0,
-        "summary": "音もない静寂の世界"
+        "endPage": 64
       },
       {
         "id": "chapter-15",
         "title": "夏の歌",
         "startPage": 65,
-        "endPage": 0,
-        "summary": "夏の季節の歌"
+        "endPage": 68
       },
       {
         "id": "chapter-16",
         "title": "秋の歌",
         "startPage": 69,
-        "endPage": 0,
-        "summary": "秋の季節の歌"
+        "endPage": 72
       },
       {
         "id": "chapter-17",
         "title": "苦惱",
         "startPage": 73,
-        "endPage": 0,
-        "summary": "苦悩の深淵"
+        "endPage": 75
       },
       {
         "id": "chapter-18",
         "title": "癡夢",
         "startPage": 76,
-        "endPage": 0,
-        "summary": "痴れた夢の幻影"
+        "endPage": 79
       },
       {
         "id": "chapter-19",
         "title": "滅の香",
         "startPage": 80,
-        "endPage": 0,
-        "summary": "滅びゆくものの香り"
+        "endPage": 85
       },
       {
         "id": "chapter-20",
         "title": "底の底",
         "startPage": 86,
-        "endPage": 0,
-        "summary": "底知れぬ深みへ"
+        "endPage": 89
       },
       {
         "id": "chapter-21",
         "title": "灰色",
         "startPage": 90,
-        "endPage": 0,
-        "summary": "灰色に覆われた世界"
+        "endPage": 92
       },
       {
         "id": "chapter-22",
         "title": "われ迷ふ",
         "startPage": 93,
-        "endPage": 0,
-        "summary": "迷いの中の彷徨"
+        "endPage": 96
       },
       {
         "id": "chapter-23",
         "title": "穎割葉",
         "startPage": 97,
-        "endPage": 0,
-        "summary": "穎割れる葉の象徴"
+        "endPage": 99
       },
       {
         "id": "chapter-24",
         "title": "沙は燬けぬ",
         "startPage": 100,
-        "endPage": 0,
-        "summary": "砂の燃えぬ不壊性"
+        "endPage": 105
       },
       {
         "id": "chapter-25",
         "title": "海蛆",
         "startPage": 106,
-        "endPage": 0,
-        "summary": "海の蛆の異形の詩"
+        "endPage": 109
       },
       {
         "id": "chapter-26",
         "title": "大鋸",
         "startPage": 110,
-        "endPage": 0,
-        "summary": "大鋸で断つ力強さ"
+        "endPage": 114
       },
       {
         "id": "chapter-27",
         "title": "淨妙華",
         "startPage": 115,
-        "endPage": 0,
-        "summary": "清浄なる妙華の詩"
+        "endPage": 117
       },
       {
         "id": "chapter-28",
         "title": "信樂",
         "startPage": 118,
-        "endPage": 0,
-        "summary": "信楽の悟りの境地"
+        "endPage": 121
       },
       {
         "id": "chapter-29",
         "title": "惡の祕所",
         "startPage": 122,
-        "endPage": 0,
-        "summary": "悪の潜む秘所"
+        "endPage": 128
       },
       {
         "id": "chapter-30",
         "title": "どくだみ",
         "startPage": 129,
-        "endPage": 0,
-        "summary": "毒草どくだみの詩"
+        "endPage": 134
       },
       {
         "id": "chapter-31",
         "title": "碑銘",
         "startPage": 135,
-        "endPage": 0,
+        "endPage": 139,
         "sections": [
           {
             "id": "chapter-31-section-1",
@@ -301,116 +271,101 @@
             "id": "chapter-31-section-4",
             "number": "其四",
             "startPage": 138,
-            "endPage": 0
+            "endPage": 139
           }
-        ],
-        "summary": "碑に刻む銘文"
+        ]
       },
       {
         "id": "chapter-32",
         "title": "かかる日を冬もこそゆけ",
         "startPage": 140,
-        "endPage": 0,
-        "summary": "冬をも往く覚悟"
+        "endPage": 143
       },
       {
         "id": "chapter-33",
         "title": "橡の雨",
         "startPage": 144,
-        "endPage": 0,
-        "summary": "橡の木に降る雨"
+        "endPage": 147
       },
       {
         "id": "chapter-34",
         "title": "皐月の歌",
         "startPage": 148,
-        "endPage": 0,
-        "summary": "皐月の清々しい歌"
+        "endPage": 150
       },
       {
         "id": "chapter-35",
         "title": "晩秋",
         "startPage": 151,
-        "endPage": 0,
-        "summary": "晩秋の寂寥感"
+        "endPage": 155
       },
       {
         "id": "chapter-36",
         "title": "序のしらべ",
         "startPage": 156,
-        "endPage": 0,
+        "endPage": 162,
         "sections": [
           {
             "id": "chapter-36-section-1",
             "number": "一",
             "startPage": 157,
-            "endPage": 157,
-            "summary": "旋律の始まり"
+            "endPage": 157
           },
           {
             "id": "chapter-36-section-2",
             "number": "二",
             "startPage": 158,
-            "endPage": 159,
-            "summary": "調べの展開"
+            "endPage": 159
           },
           {
             "id": "chapter-36-section-3",
             "number": "三",
             "startPage": 160,
-            "endPage": 0,
-            "summary": "序曲の終結"
+            "endPage": 162
           }
-        ],
-        "summary": "序曲の調べ"
+        ]
       },
       {
         "id": "chapter-37",
         "title": "やまうど",
         "startPage": 163,
-        "endPage": 0,
-        "summary": "山人の孤高の姿"
+        "endPage": 166
       },
       {
         "id": "chapter-38",
         "title": "鐘は鳴り出づ",
         "startPage": 167,
-        "endPage": 0,
-        "summary": "鐘の音の響き渡り"
+        "endPage": 173
       },
       {
         "id": "chapter-39",
         "title": "水のおも",
         "startPage": 174,
-        "endPage": 0,
-        "summary": "水面に映る心象"
+        "endPage": 180
       },
       {
         "id": "chapter-40",
         "title": "おもひで",
         "startPage": 181,
-        "endPage": 0,
-        "summary": "遠い日の思い出"
+        "endPage": 183
       },
       {
         "id": "chapter-41",
         "title": "眞晝",
         "startPage": 184,
-        "endPage": 0,
-        "summary": "真昼の白い光"
+        "endPage": 186
       },
       {
         "id": "chapter-42",
         "title": "聖燈",
         "startPage": 187,
-        "endPage": 0,
-        "summary": "聖なる燈の灯り"
+        "endPage": 189
       },
       {
         "id": "chapter-43",
         "title": "『ルバイヤット』より",
         "startPage": 190,
-        "endPage": 0,
+        "endPage": 193,
         "sections": [
           {
             "id": "chapter-43-section-1",
@@ -422,24 +377,21 @@
             "id": "chapter-43-section-2",
             "number": "其二",
             "startPage": 193,
-            "endPage": 0
+            "endPage": 193
           }
-        ],
-        "summary": "ルバイヤットからの訳詩"
+        ]
       },
       {
         "id": "chapter-44",
         "title": "蠅",
         "startPage": 194,
-        "endPage": 0,
-        "summary": "蠅の存在の詩"
+        "endPage": 197
       },
       {
         "id": "chapter-45",
         "title": "人魚の海",
         "startPage": 198,
-        "endPage": 222,
-        "summary": "人魚の棲む海の幻想"
+        "endPage": 222
       }
     ],
     "totalPages": 222,

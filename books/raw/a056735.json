@@ -48,7 +48,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 463,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ネバダ通信"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "「積雪水量測定の父」",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -93,8 +94,7 @@
       "pageNumber": 7,
       "content": "ネバダ大学にて",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -142,8 +142,7 @@
       "pageNumber": 15,
       "content": "沙漠中の塩湖",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -179,8 +178,7 @@
       "pageNumber": 21,
       "content": "シエラ雪研究所",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

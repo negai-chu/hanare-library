@@ -17,32 +17,34 @@
         "id": "chapter-1",
         "title": "山東へやった手紙",
         "startPage": 1,
-        "endPage": 15,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "１",
             "startPage": 2,
-            "endPage": 4
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "２",
-            "startPage": 5,
-            "endPage": 9
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "３",
-            "startPage": 10,
-            "endPage": 15
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 15,
-    "averageCharsPerPage": 80,
-    "chapterTitles": []
+    "totalPages": 12,
+    "averageCharsPerPage": 101,
+    "chapterTitles": [
+      "山東へやった手紙"
+    ]
   },
   "content": [
     {
@@ -54,87 +56,66 @@
     },
     {
       "pageNumber": 2,
-      "content": "１",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　１\n\n　甚太郎オジサン\n\nコノ袋ノ中ニワ\n\n仁丹ト　ウカイ散ト\n\n手ヌグイガ入ットル\n\nソレカラ、ノンキーガ入ットル\n\n昨日、裏ノ、オ染サント二人デ\n\n町カラ買ッテ来タモノデス。\n\nウカイ散ワ、\n\n腹ノ痛カ時ニ飲ムトデス。",
+      "characters": 112,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　甚太郎オジサン\n\nコノ袋ノ中ニワ\n\n仁丹ト　ウカイ散ト\n\n手ヌグイガ入ットル\n\nソレカラ、ノンキーガ入ットル\n\n昨日、裏ノ、オ染サント二人デ\n\n町カラ買ッテ来タモノデス。\n\nウカイ散ワ、\n\n腹ノ痛カ時ニ飲ムトデス。",
-      "characters": 108,
+      "content": "ソシテ、甚太郎オジサン\n\n剣ツキ鉄砲デ\n\n突キ殺ロサレンヨーニシナサイ２",
+      "characters": 36,
       "ruby": []
     },
     {
       "pageNumber": 4,
-      "content": "ソシテ、甚太郎オジサン\n\n剣ツキ鉄砲デ\n\n突キ殺ロサレンヨーニシナサイ",
-      "characters": 35,
-      "ruby": []
-    },
-    {
-      "pageNumber": 5,
-      "content": "２",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
       "content": "四五日前ニ、コチラデワ\n\n田植ヲ　ミンナ　スマセタ。\n\n土手ノワキノニ段田ヲ\n\n一バン終リニ　植エマシタ。\n\nナガセ　ガ　アンマリ長クテ\n\n一度、土手ガ切レソーニナリ\n\n二晩モ村ノ人達ワ、番ヲシマシタ。\n\n僕モ番ニ行ッタケレドモ\n\n今年カラ田植エノ手伝イヲシタノデ",
       "characters": 132,
       "ruby": []
     },
     {
-      "pageNumber": 7,
+      "pageNumber": 5,
       "content": "腰ガ折レソーニ痛カッタ。\n\nシカシ、土手ガ切レルト\n\n又、田ガ　メチャメチャ　ニナル\n\nスルト　米ガ　オサメラレンケン\n\n地主ノ鬼ガ　イジメル。\n\n米ヲ作ルノワ　僕達デ\n\nソレヲ取ルノワ　鬼ダ。\n\n暗イ土手ノ上カラ\n\n暗イ大川ノ水ヲ　ジット見テ",
       "characters": 122,
       "ruby": []
     },
     {
-      "pageNumber": 8,
+      "pageNumber": 6,
       "content": "ミンナデ　ジット　立ッテイタ\n\nミンナ　何ントモ　口ヲキカン\n\n僕ワ　涙ガ出ソーニナッタ。\n\n水ガ　ケダモノミタイニ\n\nウォーウォー　ト言ッテ流レタ。\n\nソレデモ　ソレデモ、\n\n僕達ワ　田ヲ作ランナラン\n\nダカラ　皆ワ　ダマッテ\n\n黒イ姿デ　水ヲ睨ンデイタ。",
       "characters": 129,
       "ruby": []
     },
     {
-      "pageNumber": 9,
-      "content": "帰ッテミタラ\n\n足ニ　ビルガ　三匹ツイテイタ。\n\n甚太郎オジサン\n\n殺サレンヨーニナサイヨ。",
-      "characters": 46,
+      "pageNumber": 7,
+      "content": "帰ッテミタラ\n\n足ニ　ビルガ　三匹ツイテイタ。\n\n甚太郎オジサン\n\n殺サレンヨーニナサイヨ。３",
+      "characters": 47,
       "ruby": []
     },
     {
-      "pageNumber": 10,
-      "content": "３",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 11,
+      "pageNumber": 8,
       "content": "オ染サンガ新聞ヲ読ンデクレタラ\n\n日本軍ガ合戦ニ勝ッタソーデスネ\n\nオジサンモ戦ッタノデスカ\n\nソシテ敵ヲ殺シタノデスカ。\n\nオジサンワ　言イマシタ\n\n支那ワ　ホントワ俺達ノ敵デワ無イヨ\n\nシカシ　出征シナンナラン\n\n行キタク無イノニ行カンナラン\n\n殺シタク無イノニ殺サンナラン",
       "characters": 139,
       "ruby": []
     },
     {
-      "pageNumber": 12,
+      "pageNumber": 9,
       "content": "ゾータンノゴト\n\nホントノ敵ハ支那ジャナカ\n\n殺サンナランノワ　外国ニワ居ラン\n\nソイデモ出征セニャナラン\n\n支那兵ヲ殺サンナラン\n\nゾータンノゴト。\n\nオジサンワ、ソー言ッタ\n\nシカシ、ヤッパリ殺シテイル\n\n歯ヲ食イシバッテ殺シテイル。",
       "characters": 119,
       "ruby": []
     },
     {
-      "pageNumber": 13,
+      "pageNumber": 10,
       "content": "甚太郎オジサン\n\n殺サンゴトシナサイ\n\n殺サンゴトシナサイ\n\nシカシ、ソレデモ、オジサンワ\n\n剣ツキ鉄砲デ突カンナラン。\n\nソシテ僕達ワ　ガーガー言ウ暗イ水ヲ睨ンデ、\n\n田ノ番ヲセンナラン\n\nコレワ、ドースレバヨイカ\n\nドンナコトヲスレバヨイカ",
       "characters": 122,
       "ruby": []
     },
     {
-      "pageNumber": 14,
+      "pageNumber": 11,
       "content": "学校ノ先生モ言ッテクレンケン\n\n修身ノ本ニモ書イテアリマセンケン\n\n甚太郎オジサン\n\nドースレバヨイカ\n\nソレヲ山東カラ書イテヨコシテクレ\n\nザンゴーノ中カラ\n\n殺シテワイケナイ支那兵ヲ\n\n殺シタ手デ\n\nカチカチ　フルエル手デ",
       "characters": 113,
       "ruby": []
     },
     {
-      "pageNumber": 15,
+      "pageNumber": 12,
       "content": "血ダラケニナッタ手デ。\n\nソレマデ　僕達ワ\n\nダマッテ\n\n地蔵サンノヨーニ立ッテ\n\n鬼共ノ田ヲ守ッテ\n\n土手ノ上カラ\n\nドブリドブリ　流レル\n\nニゴッタ水ヲ見ツメテオリマス。\n\n足ヲビルニ喰ワレテ立ッテイマス。（『戦旗』一九二八年七月号に発表　『新興文学全集』第十巻を底本）",
       "characters": 137,
       "ruby": []

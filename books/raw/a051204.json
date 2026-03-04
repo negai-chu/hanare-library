@@ -156,7 +156,9 @@
     ],
     "totalPages": 311,
     "averageCharsPerPage": 528,
-    "chapterTitles": []
+    "chapterTitles": [
+      "吉田松陰"
+    ]
   },
   "content": [
     {
@@ -176,8 +178,7 @@
       "pageNumber": 3,
       "content": "緒言",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -195,8 +196,7 @@
       "pageNumber": 6,
       "content": "吉田松陰年譜",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -220,8 +220,7 @@
       "pageNumber": 10,
       "content": "第一　誰ぞ　吉田松陰とは",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -239,8 +238,7 @@
       "pageNumber": 13,
       "content": "第二　家庭の児",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -282,8 +280,7 @@
       "pageNumber": 20,
       "content": "第三　徳川制度",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -415,8 +412,7 @@
       "pageNumber": 42,
       "content": "第四　鎖国的政策",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -518,8 +514,7 @@
       "pageNumber": 59,
       "content": "第五　天保時代",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -567,8 +562,7 @@
       "pageNumber": 67,
       "content": "第六　水野越前守の改革",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 68,
@@ -688,8 +682,7 @@
       "pageNumber": 87,
       "content": "第七　長防二州",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 88,
@@ -743,8 +736,7 @@
       "pageNumber": 96,
       "content": "第八　旅行",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -846,8 +838,7 @@
       "pageNumber": 113,
       "content": "第九　象山と松陰",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -991,8 +982,7 @@
       "pageNumber": 137,
       "content": "第十　攘夷",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 138,
@@ -1094,8 +1084,7 @@
       "pageNumber": 154,
       "content": "第十一　尊王",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 155,
@@ -1185,8 +1174,7 @@
       "pageNumber": 169,
       "content": "第十二　幕政の変局",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 170,
@@ -1354,8 +1342,7 @@
       "pageNumber": 197,
       "content": "第十三　松下村塾",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 198,
@@ -1451,8 +1438,7 @@
       "pageNumber": 213,
       "content": "第十四　打撃的運動",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 214,
@@ -1524,8 +1510,7 @@
       "pageNumber": 225,
       "content": "第十五　革命家としての松陰",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 226,
@@ -1585,8 +1570,7 @@
       "pageNumber": 235,
       "content": "第十六　最後",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 236,
@@ -1802,8 +1786,7 @@
       "pageNumber": 271,
       "content": "第十七　松陰とマヂニー",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 272,
@@ -1875,8 +1858,7 @@
       "pageNumber": 283,
       "content": "第十八　家庭における松陰",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 284,
@@ -1996,8 +1978,7 @@
       "pageNumber": 303,
       "content": "第十九　人物",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 304,
@@ -2039,8 +2020,7 @@
       "pageNumber": 310,
       "content": "第二十　事業と教訓",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 311,

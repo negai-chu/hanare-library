@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "附け文ごつこ",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 12,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-1-section-4",
             "number": "四",
             "startPage": 9,
-            "endPage": 0
+            "endPage": 12
           }
         ]
       },
@@ -49,13 +49,13 @@
         "id": "chapter-2",
         "title": "血の天井裏",
         "startPage": 13,
-        "endPage": 0,
+        "endPage": 14,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 14,
-            "endPage": 0
+            "endPage": 14
           }
         ]
       },
@@ -63,7 +63,7 @@
         "id": "chapter-3",
         "title": "お粂",
         "startPage": 15,
-        "endPage": 0,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -81,7 +81,7 @@
             "id": "chapter-3-section-3",
             "number": "三",
             "startPage": 21,
-            "endPage": 0
+            "endPage": 31
           }
         ]
       },
@@ -89,7 +89,7 @@
         "id": "chapter-4",
         "title": "孫右衞門夫妻",
         "startPage": 32,
-        "endPage": 0,
+        "endPage": 43,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -113,7 +113,7 @@
             "id": "chapter-4-section-4",
             "number": "四",
             "startPage": 41,
-            "endPage": 0
+            "endPage": 43
           }
         ]
       },
@@ -121,7 +121,7 @@
         "id": "chapter-5",
         "title": "小判で九百兩",
         "startPage": 44,
-        "endPage": 0,
+        "endPage": 51,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -139,7 +139,7 @@
             "id": "chapter-5-section-3",
             "number": "三",
             "startPage": 50,
-            "endPage": 0
+            "endPage": 51
           }
         ]
       },
@@ -147,7 +147,7 @@
         "id": "chapter-6",
         "title": "女小間物屋",
         "startPage": 52,
-        "endPage": 0,
+        "endPage": 59,
         "sections": [
           {
             "id": "chapter-6-section-1",
@@ -159,7 +159,7 @@
             "id": "chapter-6-section-2",
             "number": "二",
             "startPage": 57,
-            "endPage": 0
+            "endPage": 59
           }
         ]
       },
@@ -167,7 +167,7 @@
         "id": "chapter-7",
         "title": "惡鬼跳梁",
         "startPage": 60,
-        "endPage": 0,
+        "endPage": 75,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -197,7 +197,7 @@
             "id": "chapter-7-section-5",
             "number": "五",
             "startPage": 72,
-            "endPage": 0
+            "endPage": 75
           }
         ]
       },
@@ -205,7 +205,7 @@
         "id": "chapter-8",
         "title": "お玉の戀人",
         "startPage": 76,
-        "endPage": 0,
+        "endPage": 86,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -223,7 +223,7 @@
             "id": "chapter-8-section-3",
             "number": "三",
             "startPage": 82,
-            "endPage": 0
+            "endPage": 86
           }
         ]
       },
@@ -231,7 +231,7 @@
         "id": "chapter-9",
         "title": "殺しの虐《むご》さ",
         "startPage": 87,
-        "endPage": 0,
+        "endPage": 95,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -249,7 +249,7 @@
             "id": "chapter-9-section-3",
             "number": "三",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 95
           }
         ]
       },
@@ -257,7 +257,7 @@
         "id": "chapter-10",
         "title": "小紋縮緬",
         "startPage": 96,
-        "endPage": 0,
+        "endPage": 108,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -281,7 +281,7 @@
             "id": "chapter-10-section-4",
             "number": "四",
             "startPage": 105,
-            "endPage": 0
+            "endPage": 108
           }
         ]
       },
@@ -289,7 +289,7 @@
         "id": "chapter-11",
         "title": "恐怖の夜",
         "startPage": 109,
-        "endPage": 0,
+        "endPage": 118,
         "sections": [
           {
             "id": "chapter-11-section-1",
@@ -307,7 +307,7 @@
             "id": "chapter-11-section-3",
             "number": "三",
             "startPage": 116,
-            "endPage": 0
+            "endPage": 118
           }
         ]
       },
@@ -315,7 +315,7 @@
         "id": "chapter-12",
         "title": "灰吹の酒",
         "startPage": 119,
-        "endPage": 0,
+        "endPage": 126,
         "sections": [
           {
             "id": "chapter-12-section-1",
@@ -327,7 +327,7 @@
             "id": "chapter-12-section-2",
             "number": "二",
             "startPage": 123,
-            "endPage": 0
+            "endPage": 126
           }
         ]
       },
@@ -335,7 +335,7 @@
         "id": "chapter-13",
         "title": "三人目の死",
         "startPage": 127,
-        "endPage": 0,
+        "endPage": 133,
         "sections": [
           {
             "id": "chapter-13-section-1",
@@ -347,7 +347,7 @@
             "id": "chapter-13-section-2",
             "number": "二",
             "startPage": 130,
-            "endPage": 0
+            "endPage": 133
           }
         ]
       },
@@ -355,7 +355,7 @@
         "id": "chapter-14",
         "title": "謎の箱",
         "startPage": 134,
-        "endPage": 0,
+        "endPage": 144,
         "sections": [
           {
             "id": "chapter-14-section-1",
@@ -373,7 +373,7 @@
             "id": "chapter-14-section-3",
             "number": "三",
             "startPage": 141,
-            "endPage": 0
+            "endPage": 144
           }
         ]
       },
@@ -381,7 +381,7 @@
         "id": "chapter-15",
         "title": "最後の冐險",
         "startPage": 145,
-        "endPage": 0,
+        "endPage": 157,
         "sections": [
           {
             "id": "chapter-15-section-1",
@@ -405,7 +405,7 @@
             "id": "chapter-15-section-4",
             "number": "四",
             "startPage": 154,
-            "endPage": 0
+            "endPage": 157
           }
         ]
       },

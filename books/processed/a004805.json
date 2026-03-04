@@ -17,16 +17,15 @@
         "id": "chapter-1",
         "title": "楡の家",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "第一部",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 3
           }
-        ],
-        "summary": "母の日記と家の記憶"
+        ]
       },
       {
         "id": "chapter-2",
@@ -38,172 +37,147 @@
             "id": "chapter-2-section-1",
             "number": "一",
             "startPage": 62,
-            "endPage": 63,
-            "summary": "母の遺した日記"
+            "endPage": 63
           },
           {
             "id": "chapter-2-section-2",
             "number": "二",
             "startPage": 64,
-            "endPage": 67,
-            "summary": "楡の家の思い出"
+            "endPage": 67
           },
           {
             "id": "chapter-2-section-3",
             "number": "三",
             "startPage": 68,
-            "endPage": 72,
-            "summary": "療養所への道"
+            "endPage": 72
           },
           {
             "id": "chapter-2-section-4",
             "number": "四",
             "startPage": 73,
-            "endPage": 78,
-            "summary": "病室の窓辺"
+            "endPage": 78
           },
           {
             "id": "chapter-2-section-5",
             "number": "五",
             "startPage": 79,
-            "endPage": 81,
-            "summary": "夫との距離"
+            "endPage": 81
           },
           {
             "id": "chapter-2-section-6",
             "number": "六",
             "startPage": 82,
-            "endPage": 85,
-            "summary": "季節の移ろい"
+            "endPage": 85
           },
           {
             "id": "chapter-2-section-7",
             "number": "七",
             "startPage": 86,
-            "endPage": 88,
-            "summary": "孤独な夜"
+            "endPage": 88
           },
           {
             "id": "chapter-2-section-8",
             "number": "八",
             "startPage": 89,
-            "endPage": 91,
-            "summary": "看護婦との交流"
+            "endPage": 91
           },
           {
             "id": "chapter-2-section-9",
             "number": "九",
             "startPage": 92,
-            "endPage": 95,
-            "summary": "過去への回想"
+            "endPage": 95
           },
           {
             "id": "chapter-2-section-10",
             "number": "十",
             "startPage": 96,
-            "endPage": 97,
-            "summary": "春の訪れ"
+            "endPage": 97
           },
           {
             "id": "chapter-2-section-11",
             "number": "十一",
             "startPage": 98,
-            "endPage": 103,
-            "summary": "退院の予感"
+            "endPage": 103
           },
           {
             "id": "chapter-2-section-12",
             "number": "十二",
             "startPage": 104,
-            "endPage": 109,
-            "summary": "母の面影"
+            "endPage": 109
           },
           {
             "id": "chapter-2-section-13",
             "number": "十三",
             "startPage": 110,
-            "endPage": 112,
-            "summary": "庭の花々"
+            "endPage": 112
           },
           {
             "id": "chapter-2-section-14",
             "number": "十四",
             "startPage": 113,
-            "endPage": 118,
-            "summary": "心の揺れ"
+            "endPage": 118
           },
           {
             "id": "chapter-2-section-15",
             "number": "十五",
             "startPage": 119,
-            "endPage": 120,
-            "summary": "散歩の時間"
+            "endPage": 120
           },
           {
             "id": "chapter-2-section-16",
             "number": "十六",
             "startPage": 121,
-            "endPage": 123,
-            "summary": "手紙のやりとり"
+            "endPage": 123
           },
           {
             "id": "chapter-2-section-17",
             "number": "十七",
             "startPage": 124,
-            "endPage": 131,
-            "summary": "再びの別れ"
+            "endPage": 131
           },
           {
             "id": "chapter-2-section-18",
             "number": "十八",
             "startPage": 132,
-            "endPage": 135,
-            "summary": "秋の気配"
+            "endPage": 135
           },
           {
             "id": "chapter-2-section-19",
             "number": "十九",
             "startPage": 136,
-            "endPage": 137,
-            "summary": "静かな決意"
+            "endPage": 137
           },
           {
             "id": "chapter-2-section-20",
             "number": "二十",
             "startPage": 138,
-            "endPage": 144,
-            "summary": "冬の到来"
+            "endPage": 144
           },
           {
             "id": "chapter-2-section-21",
             "number": "二十一",
             "startPage": 145,
-            "endPage": 147,
-            "summary": "楡の家への帰還"
+            "endPage": 147
           },
           {
             "id": "chapter-2-section-22",
             "number": "二十二",
             "startPage": 148,
-            "endPage": 152,
-            "summary": "日記の終わり"
+            "endPage": 152
           },
           {
             "id": "chapter-2-section-23",
             "number": "二十三",
             "startPage": 153,
-            "endPage": 158,
-            "summary": "新たな出発"
+            "endPage": 158
           },
           {
             "id": "chapter-2-section-24",
             "number": "二十四",
             "startPage": 159,
-            "endPage": 166,
-            "summary": "母と娘の絆"
+            "endPage": 166
           }
-        ],
-        "summary": "娘の療養と内省の日々"
+        ]
       }
     ],
     "totalPages": 166,

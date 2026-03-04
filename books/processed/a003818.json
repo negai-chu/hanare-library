@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "詩集",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "若き詩人の処女詩集"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 314,
-    "chapterTitles": []
+    "chapterTitles": [
+      "詩集"
+    ]
   },
   "content": [
     {

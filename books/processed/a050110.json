@@ -17,37 +17,37 @@
         "id": "chapter-1",
         "title": "みつぎもの",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 2
       },
       {
         "id": "chapter-2",
         "title": "裏関所",
         "startPage": 3,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-3",
         "title": "丁か半か",
         "startPage": 4,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-4",
         "title": "室咲",
         "startPage": 33,
-        "endPage": 0
+        "endPage": 82
       },
       {
         "id": "chapter-5",
         "title": "日金颪",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 6
       },
       {
         "id": "chapter-6",
         "title": "神妙候",
         "startPage": 7,
-        "endPage": 0
+        "endPage": 7
       },
       {
         "id": "chapter-7",
@@ -79,7 +79,7 @@
         "id": "chapter-8",
         "title": "黒影、白気",
         "startPage": 83,
-        "endPage": 0,
+        "endPage": 103,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -97,7 +97,7 @@
             "id": "chapter-8-section-3",
             "number": "二十四",
             "startPage": 92,
-            "endPage": 0
+            "endPage": 103
           }
         ]
       },

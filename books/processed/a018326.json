@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "熊の足跡",
         "startPage": 1,
-        "endPage": 25,
-        "summary": "東北の海と山の紀行"
+        "endPage": 25
       }
     ],
     "totalPages": 25,
     "averageCharsPerPage": 560,
-    "chapterTitles": []
+    "chapterTitles": [
+      "熊の足跡"
+    ]
   },
   "content": [
     {

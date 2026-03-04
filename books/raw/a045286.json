@@ -36,7 +36,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 298,
-    "chapterTitles": []
+    "chapterTitles": [
+      "出発"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "（Ａ）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 6,
       "content": "（Ｂ）",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

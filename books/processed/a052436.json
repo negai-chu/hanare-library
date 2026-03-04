@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "はしがき",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "新平家落穂集――筆間茶話――",
         "startPage": 6,
-        "endPage": 0
+        "endPage": 147
       },
       {
         "id": "chapter-3",
         "title": "新平家雑感",
         "startPage": 148,
-        "endPage": 0,
+        "endPage": 152,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -41,7 +41,7 @@
             "id": "chapter-3-section-2",
             "number": "古い鏡と今日の顔",
             "startPage": 152,
-            "endPage": 0
+            "endPage": 152
           }
         ]
       },

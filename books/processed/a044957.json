@@ -17,43 +17,40 @@
         "id": "chapter-1",
         "title": "三匹　の　こぐまさん",
         "startPage": 1,
-        "endPage": 9,
+        "endPage": 2,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "一",
             "startPage": 2,
-            "endPage": 3,
-            "summary": "あひるさんの探し物"
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "二",
-            "startPage": 4,
-            "endPage": 5,
-            "summary": "こぐまたちの手伝い"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "三",
-            "startPage": 6,
-            "endPage": 7,
-            "summary": "見つかった宝物"
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "四",
-            "startPage": 8,
-            "endPage": 9,
-            "summary": "楽しい仲間との時間"
+            "startPage": 1,
+            "endPage": 1
           }
-        ],
-        "summary": "三匹のこぐまの遊び"
+        ]
       }
     ],
-    "totalPages": 9,
-    "averageCharsPerPage": 42,
-    "chapterTitles": []
+    "totalPages": 2,
+    "averageCharsPerPage": 190,
+    "chapterTitles": [
+      "三匹　の　こぐまさん"
+    ]
   },
   "content": [
     {
@@ -65,54 +62,8 @@
     },
     {
       "pageNumber": 2,
-      "content": "一",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 3,
-      "content": "　アヒルサンノトコロヘ、三匹ノコグマサンガアソビニユキマスト、アヒルサンハ、ナンダカ　シキリニ、サガシモノヲシテヰマシタ。",
-      "characters": 61,
-      "ruby": []
-    },
-    {
-      "pageNumber": 4,
-      "content": "二",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "　アヒルサンハ、三匹ノコグマサンニ、イヒマシタ。\n\n「イマ、オトナリノハタケムラカラ、ヂヤガイモサンガ、アソビニキテヰタノデスガ、キウニヰナクナツタノデス。サガシテ下サイ。」",
-      "characters": 87,
-      "ruby": []
-    },
-    {
-      "pageNumber": 6,
-      "content": "三",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 7,
-      "content": "　三匹ノコグマサンハ、ソレヲキイテ、方々サガシマシタ。ケレドモ、ミツカリマセンデシタ。\n\n　スルト、一匹ノコグマサンガ、パントテヲウツテイヒマシタ。\n\n「キツト、オナベノナカダ。オナベノナカダ。」",
-      "characters": 98,
-      "ruby": []
-    },
-    {
-      "pageNumber": 8,
-      "content": "四",
-      "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 9,
-      "content": "　ソコデ、ミンナ、ハシツテ、ダイドコロヘイツテ、オナベノフタヲトリマシタラ、ソノナカニ、ジヤガイモサンガヰマシタ。オユデ、ウダツタノデ、ジヤガイモサンハイロガマツシロニナツテ、イゼンヨリモ、ウツクシクナリマシタノデ、ミンナオホヨロコビ。",
-      "characters": 118,
+      "content": "　一\n\n　アヒルサンノトコロヘ、三匹ノコグマサンガアソビニユキマスト、アヒルサンハ、ナンダカ　シキリニ、サガシモノヲシテヰマシタ。二　アヒルサンハ、三匹ノコグマサンニ、イヒマシタ。\n\n「イマ、オトナリノハタケムラカラ、ヂヤガイモサンガ、アソビニキテヰタノデスガ、キウニヰナクナツタノデス。サガシテ下サイ。」三　三匹ノコグマサンハ、ソレヲキイテ、方々サガシマシタ。ケレドモ、ミツカリマセンデシタ。\n\n　スルト、一匹ノコグマサンガ、パントテヲウツテイヒマシタ。\n\n「キツト、オナベノナカダ。オナベノナカダ。」四　ソコデ、ミンナ、ハシツテ、ダイドコロヘイツテ、オナベノフタヲトリマシタラ、ソノナカニ、ジヤガイモサンガヰマシタ。オユデ、ウダツタノデ、ジヤガイモサンハイロガマツシロニナツテ、イゼンヨリモ、ウツクシクナリマシタノデ、ミンナオホヨロコビ。",
+      "characters": 371,
       "ruby": []
     }
   ]

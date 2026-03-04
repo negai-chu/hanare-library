@@ -30,7 +30,9 @@
     ],
     "totalPages": 16,
     "averageCharsPerPage": 544,
-    "chapterTitles": []
+    "chapterTitles": [
+      "身体検査"
+    ]
   },
   "content": [
     {
@@ -44,8 +46,7 @@
       "pageNumber": 2,
       "content": "前がき",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,

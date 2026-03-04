@@ -84,7 +84,9 @@
     ],
     "totalPages": 122,
     "averageCharsPerPage": 542,
-    "chapterTitles": []
+    "chapterTitles": [
+      "灰色の記憶"
+    ]
   },
   "content": [
     {
@@ -98,8 +100,7 @@
       "pageNumber": 2,
       "content": "プロローグ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 5,
       "content": "第一章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -196,8 +196,7 @@
       "pageNumber": 18,
       "content": "第二章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -281,8 +280,7 @@
       "pageNumber": 32,
       "content": "第三章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -360,8 +358,7 @@
       "pageNumber": 45,
       "content": "第四章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 46,
@@ -457,8 +454,7 @@
       "pageNumber": 61,
       "content": "第五章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 62,
@@ -548,8 +544,7 @@
       "pageNumber": 76,
       "content": "第六章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 77,
@@ -627,8 +622,7 @@
       "pageNumber": 89,
       "content": "第七章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 90,
@@ -742,8 +736,7 @@
       "pageNumber": 108,
       "content": "第八章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 109,
@@ -821,8 +814,7 @@
       "pageNumber": 121,
       "content": "エピローグ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 122,

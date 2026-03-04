@@ -42,7 +42,9 @@
     ],
     "totalPages": 8,
     "averageCharsPerPage": 159,
-    "chapterTitles": []
+    "chapterTitles": [
+      "怪談覚帳"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "四手網",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "天狗",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -82,8 +82,7 @@
       "pageNumber": 6,
       "content": "荒倉の狸",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

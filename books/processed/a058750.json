@@ -17,38 +17,40 @@
         "id": "chapter-1",
         "title": "詩四章",
         "startPage": 1,
-        "endPage": 10,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "春の計畫",
             "startPage": 2,
-            "endPage": 3
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-2",
             "number": "その昔",
-            "startPage": 4,
-            "endPage": 6
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-3",
             "number": "雪後",
-            "startPage": 7,
-            "endPage": 8
+            "startPage": 1,
+            "endPage": 1
           },
           {
             "id": "chapter-1-section-4",
             "number": "筆硯枯渇",
-            "startPage": 9,
-            "endPage": 10
+            "startPage": 1,
+            "endPage": 1
           }
         ]
       }
     ],
-    "totalPages": 10,
-    "averageCharsPerPage": 41,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 139,
+    "chapterTitles": [
+      "詩四章"
+    ]
   },
   "content": [
     {
@@ -60,59 +62,12 @@
     },
     {
       "pageNumber": 2,
-      "content": "春の計畫",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "content": "　春の計畫\n\n粉雪の中で　四十雀が啼いてゐる　春が眞近にせまつてきた\n谿間で風が鳴つてゐる　楢山毛欅櫟　それらの枯葉が　雪の上を走つてゐる\n山山よ　裸の木木よ　樂しい冬も　間もなく冬も終るだらう\n懷かしい私の友垣　風よ　雲よ　山山よ　私達の友情の　さて　春の計畫《プラン》を考へようその昔その昔　その山のその旅籠《はたご》へは　米も野菜も新聞も　煙草も手紙も電報も　牛の背中で運んできた\n\n谿に臨んだ細路に　のつと牝牛が顏を出す　午後二時三時\n\n山では仔牛が待つてゐた　踏みしだかれた草の香の　ほろほろ苦い牛小舍に雪後向ふの山で樹が伐られる　ああまた一本倒された\n\n微かな音も聞えない　小さな人が動いてゐる\n\nたぶんあそこの親爺《おやぢ》だらう……　息子《むすこ》かな\n\nヒュッテに煙がたつてゐる筆硯枯渇",
+      "characters": 352,
+      "ruby": []
     },
     {
       "pageNumber": 3,
-      "content": "　粉雪の中で　四十雀が啼いてゐる　春が眞近にせまつてきた\n谿間で風が鳴つてゐる　楢山毛欅櫟　それらの枯葉が　雪の上を走つてゐる\n山山よ　裸の木木よ　樂しい冬も　間もなく冬も終るだらう\n懷かしい私の友垣　風よ　雲よ　山山よ　私達の友情の　さて　春の計畫《プラン》を考へよう",
-      "characters": 135,
-      "ruby": []
-    },
-    {
-      "pageNumber": 4,
-      "content": "その昔",
-      "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 5,
-      "content": "その昔　その山のその旅籠《はたご》へは　米も野菜も新聞も　煙草も手紙も",
-      "characters": 35,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 6,
-      "content": "電報も　牛の背中で運んできた\n\n谿に臨んだ細路に　のつと牝牛が顏を出す　午後二時三時\n\n山では仔牛が待つてゐた　踏みしだかれた草の香の　ほろほろ苦い牛小舍に",
-      "characters": 78,
-      "ruby": []
-    },
-    {
-      "pageNumber": 7,
-      "content": "雪後",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 8,
-      "content": "向ふの山で樹が伐られる　ああまた一本倒された\n\n微かな音も聞えない　小さな人が動いてゐる\n\nたぶんあそこの親爺《おやぢ》だらう……　息子《むすこ》かな\n\nヒュッテに煙がたつてゐる",
-      "characters": 89,
-      "ruby": []
-    },
-    {
-      "pageNumber": 9,
-      "content": "筆硯枯渇",
-      "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 10,
       "content": "油が盡きた　ランプの焔が小さくなる\n\n後ろの山で風が鳴る\n\nやみなん　神《かみ》安息を垂れ給ふ\n\n萬年筆のインクが凍《し》みた",
       "characters": 63,
       "ruby": []

@@ -42,7 +42,9 @@
     ],
     "totalPages": 19,
     "averageCharsPerPage": 626,
-    "chapterTitles": []
+    "chapterTitles": [
+      "巴里の手紙"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "一　ルウ・アンドレアス・サロメに",
       "characters": 16,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -117,8 +118,7 @@
       "pageNumber": 12,
       "content": "二　妻クララに",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -136,8 +136,7 @@
       "pageNumber": 15,
       "content": "三　オオギュスト　ロダンに",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

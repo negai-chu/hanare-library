@@ -48,7 +48,9 @@
     ],
     "totalPages": 23,
     "averageCharsPerPage": 451,
-    "chapterTitles": []
+    "chapterTitles": [
+      "食魔に贈る"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "Larue《ラルュウ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 11,
       "content": "Foyot《フォワイヨ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -160,8 +160,7 @@
       "pageNumber": 18,
       "content": "蝸牛料理",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -179,8 +178,7 @@
       "pageNumber": 21,
       "content": "家鴨料理ツール・ダルジャン",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

@@ -48,7 +48,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 419,
-    "chapterTitles": []
+    "chapterTitles": [
+      "コロラド通信"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "一　半沙漠地帯の農業",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -99,8 +100,7 @@
       "pageNumber": 8,
       "content": "二　前田氏の農場",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -136,8 +136,7 @@
       "pageNumber": 14,
       "content": "三　畑を作る話",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -185,8 +184,7 @@
       "pageNumber": 22,
       "content": "四　ミズリイ流域の開発",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

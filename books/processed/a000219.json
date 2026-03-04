@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "在りし日の歌",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -269,10 +269,9 @@
             "id": "chapter-1-section-42",
             "number": "蜻蛉に寄す",
             "startPage": 93,
-            "endPage": 0
+            "endPage": 1
           }
-        ],
-        "summary": "失われた日々の歌"
+        ]
       },
       {
         "id": "chapter-2",
@@ -382,8 +381,7 @@
             "startPage": 131,
             "endPage": 132
           }
-        ],
-        "summary": "永訣の秋の詩"
+        ]
       }
     ],
     "totalPages": 132,

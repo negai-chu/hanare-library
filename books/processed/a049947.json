@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 3
       },
       {
         "id": "chapter-2",
         "title": "春の巻",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 267,
         "sections": [
           {
             "id": "chapter-2-section-1",

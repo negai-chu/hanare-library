@@ -234,7 +234,9 @@
     ],
     "totalPages": 122,
     "averageCharsPerPage": 384,
-    "chapterTitles": []
+    "chapterTitles": [
+      "絵のない絵本"
+    ]
   },
   "content": [
     {
@@ -266,8 +268,7 @@
       "pageNumber": 5,
       "content": "第一夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -285,8 +286,7 @@
       "pageNumber": 8,
       "content": "第二夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -304,8 +304,7 @@
       "pageNumber": 11,
       "content": "第三夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -323,8 +322,7 @@
       "pageNumber": 14,
       "content": "第四夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -342,8 +340,7 @@
       "pageNumber": 17,
       "content": "第五夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -367,8 +364,7 @@
       "pageNumber": 21,
       "content": "第六夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -386,8 +382,7 @@
       "pageNumber": 24,
       "content": "第七夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -417,8 +412,7 @@
       "pageNumber": 29,
       "content": "第八夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,
@@ -436,8 +430,7 @@
       "pageNumber": 32,
       "content": "第九夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 33,
@@ -461,8 +454,7 @@
       "pageNumber": 36,
       "content": "第十夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 37,
@@ -486,8 +478,7 @@
       "pageNumber": 40,
       "content": "第十一夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 41,
@@ -499,8 +490,7 @@
       "pageNumber": 42,
       "content": "第十二夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -524,8 +514,7 @@
       "pageNumber": 46,
       "content": "第十三夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 47,
@@ -555,8 +544,7 @@
       "pageNumber": 51,
       "content": "第十四夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 52,
@@ -574,8 +562,7 @@
       "pageNumber": 54,
       "content": "第十五夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -599,8 +586,7 @@
       "pageNumber": 58,
       "content": "第十六夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 59,
@@ -630,8 +616,7 @@
       "pageNumber": 63,
       "content": "第十七夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 64,
@@ -643,8 +628,7 @@
       "pageNumber": 65,
       "content": "第十八夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 66,
@@ -668,8 +652,7 @@
       "pageNumber": 69,
       "content": "第十九夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -693,8 +676,7 @@
       "pageNumber": 73,
       "content": "第二十夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -718,8 +700,7 @@
       "pageNumber": 77,
       "content": "第二十一夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -743,8 +724,7 @@
       "pageNumber": 81,
       "content": "第二十二夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -762,8 +742,7 @@
       "pageNumber": 84,
       "content": "第二十三夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 85,
@@ -775,8 +754,7 @@
       "pageNumber": 86,
       "content": "第二十四夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -806,8 +784,7 @@
       "pageNumber": 91,
       "content": "第二十五夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 92,
@@ -825,8 +802,7 @@
       "pageNumber": 94,
       "content": "第二十六夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 95,
@@ -838,8 +814,7 @@
       "pageNumber": 96,
       "content": "第二十七夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 97,
@@ -863,8 +838,7 @@
       "pageNumber": 100,
       "content": "第二十八夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -876,8 +850,7 @@
       "pageNumber": 102,
       "content": "第二十九夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 103,
@@ -895,8 +868,7 @@
       "pageNumber": 105,
       "content": "第三十夜",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 106,
@@ -908,8 +880,7 @@
       "pageNumber": 107,
       "content": "第三十一夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -927,8 +898,7 @@
       "pageNumber": 110,
       "content": "第三十二夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 111,
@@ -946,8 +916,7 @@
       "pageNumber": 113,
       "content": "第三十三夜",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -965,8 +934,7 @@
       "pageNumber": 116,
       "content": "解説",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 117,

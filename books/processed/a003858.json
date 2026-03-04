@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "この夏",
         "startPage": 1,
-        "endPage": 13,
-        "summary": "夏の漫筆"
+        "endPage": 13
       }
     ],
     "totalPages": 13,
     "averageCharsPerPage": 484,
-    "chapterTitles": []
+    "chapterTitles": [
+      "この夏"
+    ]
   },
   "content": [
     {

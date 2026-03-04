@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "私の探偵小説",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "探偵小説愛好の遍歴"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 459,
-    "chapterTitles": []
+    "chapterTitles": [
+      "私の探偵小説"
+    ]
   },
   "content": [
     {

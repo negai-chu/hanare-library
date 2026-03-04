@@ -42,7 +42,9 @@
     ],
     "totalPages": 12,
     "averageCharsPerPage": 327,
-    "chapterTitles": []
+    "chapterTitles": [
+      "札幌時代の石川啄木"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 3,
       "content": "私の札幌行の動機",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -81,8 +82,7 @@
       "pageNumber": 6,
       "content": "札幌へ来た頃の啄木",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -106,8 +106,7 @@
       "pageNumber": 10,
       "content": "北門新聞の校正",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,

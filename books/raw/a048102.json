@@ -60,7 +60,9 @@
     ],
     "totalPages": 20,
     "averageCharsPerPage": 334,
-    "chapterTitles": []
+    "chapterTitles": [
+      "文芸は進化するか、その他"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "一　文芸は進化するか？",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 7,
       "content": "二　文学作品と広告",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -124,8 +124,7 @@
       "pageNumber": 10,
       "content": "三　課題小説",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -143,8 +142,7 @@
       "pageNumber": 13,
       "content": "四　小説の危機",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -162,8 +160,7 @@
       "pageNumber": 16,
       "content": "五　ヴァン・ダインの探偵小説論",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -181,8 +178,7 @@
       "pageNumber": 19,
       "content": "六　新作家輩出時代",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,

@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "奪われてなるものか",
-        "startPage": 1,
-        "endPage": 5
+        "startPage": 5,
+        "endPage": 6
       }
     ],
-    "totalPages": 5,
-    "averageCharsPerPage": 136,
-    "chapterTitles": []
+    "totalPages": 6,
+    "averageCharsPerPage": 113,
+    "chapterTitles": [
+      "奪われてなるものか"
+    ]
   },
   "content": [
     {
@@ -52,8 +54,15 @@
     },
     {
       "pageNumber": 5,
-      "content": "奪われてなるものか\n\nそれが後に残った者達の重大な仕事だ。\n\nおれは耳を奪われたしかし\n\n君の文字が伝えてくれるおれたちプロレタリアの側の熱意が\n\nこんなにハッキリわかるのが実にうれしい\n\nおれには何時《いつ》知らず熱い涙が目尻《めじり》を流れていた\n\n――おお　おれたちの同志しっかり！\n\nおれもやるぞ！\n\n（一九三二年六月作『文学新聞』同年七月十五日付に発表）",
-      "characters": 182,
+      "content": "奪われてなるものか",
+      "characters": 9,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 6,
+      "content": "それが後に残った者達の重大な仕事だ。\n\nおれは耳を奪われたしかし\n\n君の文字が伝えてくれるおれたちプロレタリアの側の熱意が\n\nこんなにハッキリわかるのが実にうれしい\n\nおれには何時《いつ》知らず熱い涙が目尻《めじり》を流れていた\n\n――おお　おれたちの同志しっかり！\n\nおれもやるぞ！\n\n（一九三二年六月作『文学新聞』同年七月十五日付に発表）",
+      "characters": 171,
       "ruby": []
     }
   ]

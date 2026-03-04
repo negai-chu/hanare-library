@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "あつき手を挙ぐ",
-        "startPage": 1,
-        "endPage": 3
+        "startPage": 4,
+        "endPage": 4
       }
     ],
-    "totalPages": 3,
-    "averageCharsPerPage": 67,
-    "chapterTitles": []
+    "totalPages": 4,
+    "averageCharsPerPage": 50,
+    "chapterTitles": [
+      "あつき手を挙ぐ"
+    ]
   },
   "content": [
     {
@@ -40,9 +42,16 @@
     },
     {
       "pageNumber": 3,
-      "content": "先んじて旗振り、万歳を叫ぶ\n\n朝鮮の人たち\n\n朝鮮の人等\n\n手に力こもり、唇は叫びつつ\n\n心の底に徹し得ぬものがあるならん\n\n常にわれかく思い　心沈みし\n\n今\n\n朝鮮に徴兵制布かる\n\nこころ新たにあつき手を挙ぐ",
-      "characters": 105,
+      "content": "先んじて旗振り、万歳を叫ぶ\n\n朝鮮の人たち\n\n朝鮮の人等\n\n手に力こもり、唇は叫びつつ\n\n心の底に徹し得ぬものがあるならん\n\n常にわれかく思い　心沈みし\n\n今\n\n朝鮮に徴兵制布かる\n\nこころ新たに",
+      "characters": 98,
       "ruby": []
+    },
+    {
+      "pageNumber": 4,
+      "content": "あつき手を挙ぐ",
+      "characters": 7,
+      "ruby": [],
+      "displayType": "book-title"
     }
   ]
 }

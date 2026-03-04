@@ -17,20 +17,22 @@
         "id": "chapter-1",
         "title": "群集の人",
         "startPage": 1,
-        "endPage": 22,
+        "endPage": 21,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "訳注",
-            "startPage": 20,
-            "endPage": 22
+            "startPage": 2,
+            "endPage": 2
           }
         ]
       }
     ],
-    "totalPages": 22,
-    "averageCharsPerPage": 484,
-    "chapterTitles": []
+    "totalPages": 21,
+    "averageCharsPerPage": 507,
+    "chapterTitles": [
+      "群集の人"
+    ]
   },
   "content": [
     {
@@ -144,25 +146,18 @@
     },
     {
       "pageNumber": 19,
-      "content": "そこで私は後をつけるのをやめて、じっと黙想に耽った。「この老人は」と私はついに言った。「凶悪な犯罪の象徴であり権化であるのだ。彼は独りでいることができない。彼は群集の人なのだ。後をつけて行っても無駄なことだろう。これ以上私は、彼についても、彼の行為についても、知ることはあるまいから。この世の最悪の心は、Hortulus Animoe13などよりももっと気味の悪い書物だ。そして‘es lsst sich nicht lesen’14というのは、おそらく神の大きなお慈悲の一つなのであろう」",
-      "characters": 245,
+      "content": "そこで私は後をつけるのをやめて、じっと黙想に耽った。「この老人は」と私はついに言った。「凶悪な犯罪の象徴であり権化であるのだ。彼は独りでいることができない。彼は群集の人なのだ。後をつけて行っても無駄なことだろう。これ以上私は、彼についても、彼の行為についても、知ることはあるまいから。この世の最悪の心は、Hortulus Animoe13などよりももっと気味の悪い書物だ。そして‘es lsst sich nicht lesen’14というのは、おそらく神の大きなお慈悲の一つなのであろう」訳注",
+      "characters": 247,
       "ruby": []
     },
     {
       "pageNumber": 20,
-      "content": "訳注",
-      "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
-    },
-    {
-      "pageNumber": 21,
       "content": "１　「独りでいることのできぬこの大きな不幸」\n２　Jean de la Bruyre（一六四五―九八）――フランスの著述家。\n３　というのは、終りの方に出ている“Hortulus Animoe”のことである。\n４　“※χλ※ν ※π' ※φδαλμ※ν ※λον,※ πρ※ν π※εν”Homeros, Ieias, 5, 127. その意は「両眼からその上に以前に覆うていた翳を取除いた」\n５　Gottfried Wilhelm Leibniz（一六四六―一七一六）――有名なドイツの哲学者。\n６　Gorgias（前四八五頃―前三八〇頃）――ギリシアのソフィスト、修辞学者。プラトンの対話の一篇に“Gorgias”がある。\n７　deskism ―― desk と ism とを合せた作者の造語で、翻訳者を困らせる言葉である。ボードレールの“genre calicot”にならって「店者風《たなものふう》」とでもしてもよいだろうか。その他ドイツの訳者たちによって“Ladenschwengelichkeit”“Heringsbdigereifer”“Zopfigkeit”などと訳されている。\n８　Paros ――ギリシアの多島海の中の一小島。古来、白大理石の産地として有名である。\n９　Lucien ――二世紀のギリシアの有名な諷刺家。\n10　Tertullian Quintus Septimius Florens Tertullianus（一五〇？―二三〇？）――初期のラテン教会の師父の一人。主著“Apologeticus”の他“Ad Martyres”“De Baptismo”“De Poenitentia”など、宗教上の著述が多い。",
       "characters": 724,
       "ruby": []
     },
     {
-      "pageNumber": 22,
+      "pageNumber": 21,
       "content": "11　Moritz Retzsch（一七七九―一八五七）――ポオの時代に生きていたドイツの蝕鏤師《エクチャー》、画家。ゲーテやシルレルの作の插絵を描いた。\n12　Broadway ―― ニュー・ヨーク第一の大通り。中央公園《セントラル・パーク》からボーリング・グリーンの広場に至る。\n13　グリュニンゲルの Hortulus Animoe cum Oraituuculis Aliquibus Superaditis.（原）\n14　「それはそれ自身を読ましめぬ」",
       "characters": 231,
       "ruby": []

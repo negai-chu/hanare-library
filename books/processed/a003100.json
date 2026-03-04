@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "最初の問い",
         "startPage": 1,
-        "endPage": 2,
-        "summary": "子供の最初の問い"
+        "endPage": 2
       }
     ],
     "totalPages": 2,
     "averageCharsPerPage": 178,
-    "chapterTitles": []
+    "chapterTitles": [
+      "最初の問い"
+    ]
   },
   "content": [
     {

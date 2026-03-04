@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "雀の歌",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "雀の子への子守唄"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 66,
-    "chapterTitles": []
+    "chapterTitles": [
+      "雀の歌"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "巻頭言\r\n　この書の成るまで",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 8
       },
       {
         "id": "chapter-2",
         "title": "蒐集道の法三章",
         "startPage": 9,
-        "endPage": 0,
+        "endPage": 17,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -47,7 +47,7 @@
             "id": "chapter-2-section-4",
             "number": "十枚の蒐集にて可",
             "startPage": 17,
-            "endPage": 0
+            "endPage": 17
           }
         ]
       },
@@ -55,43 +55,43 @@
         "id": "chapter-3",
         "title": "ヴァイオリン",
         "startPage": 18,
-        "endPage": 0
+        "endPage": 22
       },
       {
         "id": "chapter-4",
         "title": "ピアノ",
         "startPage": 23,
-        "endPage": 0
+        "endPage": 90
       },
       {
         "id": "chapter-5",
         "title": "チェロ",
         "startPage": 91,
-        "endPage": 0
+        "endPage": 140
       },
       {
         "id": "chapter-6",
         "title": "室内楽",
         "startPage": 141,
-        "endPage": 0
+        "endPage": 168
       },
       {
         "id": "chapter-7",
         "title": "歌",
         "startPage": 169,
-        "endPage": 0
+        "endPage": 206
       },
       {
         "id": "chapter-8",
         "title": "管弦楽",
         "startPage": 207,
-        "endPage": 0
+        "endPage": 411
       },
       {
         "id": "chapter-9",
         "title": "器楽",
         "startPage": 412,
-        "endPage": 0,
+        "endPage": 512,
         "sections": [
           {
             "id": "chapter-9-section-1",
@@ -127,7 +127,7 @@
             "id": "chapter-9-section-6",
             "number": "ギター",
             "startPage": 511,
-            "endPage": 0
+            "endPage": 512
           }
         ]
       },
@@ -135,7 +135,7 @@
         "id": "chapter-10",
         "title": "巨匠の回顧",
         "startPage": 513,
-        "endPage": 0,
+        "endPage": 559,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -147,7 +147,7 @@
             "id": "chapter-10-section-2",
             "number": "その他の巨匠たち",
             "startPage": 556,
-            "endPage": 0
+            "endPage": 559
           }
         ]
       },

@@ -17,19 +17,19 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 45
       },
       {
         "id": "chapter-2",
         "title": "トリスタン・コルビエェル",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 48,
         "sections": [
           {
             "id": "chapter-2-section-1",
             "number": "蟾蜍",
             "startPage": 47,
-            "endPage": 0
+            "endPage": 48
           }
         ]
       },
@@ -37,7 +37,7 @@
         "id": "chapter-3",
         "title": "ジュル・ラフォルグ",
         "startPage": 49,
-        "endPage": 0,
+        "endPage": 77,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -79,7 +79,7 @@
             "id": "chapter-3-section-7",
             "number": "日曜日",
             "startPage": 73,
-            "endPage": 0
+            "endPage": 77
           }
         ]
       },
@@ -87,7 +87,7 @@
         "id": "chapter-4",
         "title": "モリス・マアテルリンク",
         "startPage": 78,
-        "endPage": 0,
+        "endPage": 100,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -129,7 +129,7 @@
             "id": "chapter-4-section-7",
             "number": "めつき",
             "startPage": 96,
-            "endPage": 0
+            "endPage": 100
           }
         ]
       },
@@ -137,7 +137,7 @@
         "id": "chapter-5",
         "title": "エミイル・ルハアレン",
         "startPage": 101,
-        "endPage": 0,
+        "endPage": 135,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -161,7 +161,7 @@
             "id": "chapter-5-section-4",
             "number": "俊傑",
             "startPage": 129,
-            "endPage": 0
+            "endPage": 135
           }
         ]
       },
@@ -169,13 +169,13 @@
         "id": "chapter-6",
         "title": "フェルナン・グレエグ",
         "startPage": 136,
-        "endPage": 0,
+        "endPage": 144,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "われは生きたり",
             "startPage": 137,
-            "endPage": 0
+            "endPage": 144
           }
         ]
       },
@@ -183,7 +183,7 @@
         "id": "chapter-7",
         "title": "ポオル・フォオル",
         "startPage": 145,
-        "endPage": 0,
+        "endPage": 152,
         "sections": [
           {
             "id": "chapter-7-section-1",
@@ -213,7 +213,7 @@
             "id": "chapter-7-section-5",
             "number": "夏の夜",
             "startPage": 151,
-            "endPage": 0
+            "endPage": 152
           }
         ]
       },
@@ -221,7 +221,7 @@
         "id": "chapter-8",
         "title": "ギイ・シャルル・クロオ",
         "startPage": 153,
-        "endPage": 0,
+        "endPage": 162,
         "sections": [
           {
             "id": "chapter-8-section-1",
@@ -239,7 +239,7 @@
             "id": "chapter-8-section-3",
             "number": "世間のある人人には……",
             "startPage": 159,
-            "endPage": 0
+            "endPage": 162
           }
         ]
       },

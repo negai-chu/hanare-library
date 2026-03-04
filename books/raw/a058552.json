@@ -42,7 +42,9 @@
     ],
     "totalPages": 13,
     "averageCharsPerPage": 397,
-    "chapterTitles": []
+    "chapterTitles": [
+      "平賀源内"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "科学と技術",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "平賀源内の生涯",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -100,8 +100,7 @@
       "pageNumber": 9,
       "content": "源内の遺業",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,

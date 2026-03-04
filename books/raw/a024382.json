@@ -60,7 +60,9 @@
     ],
     "totalPages": 207,
     "averageCharsPerPage": 750,
-    "chapterTitles": []
+    "chapterTitles": [
+      "死せる魂"
+    ]
   },
   "content": [
     {
@@ -74,8 +76,7 @@
       "pageNumber": 2,
       "content": "第一章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 11,
       "content": "第二章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 12,
@@ -322,8 +322,7 @@
       "pageNumber": 43,
       "content": "第三章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 44,
@@ -551,8 +550,7 @@
       "pageNumber": 81,
       "content": "第四章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -864,8 +862,7 @@
       "pageNumber": 133,
       "content": "第五章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 134,
@@ -1093,8 +1090,7 @@
       "pageNumber": 171,
       "content": "第六章",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 172,

@@ -54,7 +54,9 @@
     ],
     "totalPages": 26,
     "averageCharsPerPage": 424,
-    "chapterTitles": []
+    "chapterTitles": [
+      "妖影"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "一、暗号《コード》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -111,8 +112,7 @@
       "pageNumber": 9,
       "content": "二、妖瞳《ようどう》",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -136,8 +136,7 @@
       "pageNumber": 13,
       "content": "三、攣《ふる》える手",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -173,8 +172,7 @@
       "pageNumber": 19,
       "content": "四、白い手袋",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -198,8 +196,7 @@
       "pageNumber": 23,
       "content": "五、失神",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,

@@ -54,7 +54,9 @@
     ],
     "totalPages": 21,
     "averageCharsPerPage": 443,
-    "chapterTitles": []
+    "chapterTitles": [
+      "匈奴の森など"
+    ]
   },
   "content": [
     {
@@ -68,8 +70,7 @@
       "pageNumber": 2,
       "content": "一　秋になりました……",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -81,8 +82,7 @@
       "pageNumber": 4,
       "content": "二　主人と犬と",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -106,8 +106,7 @@
       "pageNumber": 8,
       "content": "三　村のひとびと",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -149,8 +148,7 @@
       "pageNumber": 15,
       "content": "四　匈奴の森",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -168,8 +166,7 @@
       "pageNumber": 18,
       "content": "五　熊",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,

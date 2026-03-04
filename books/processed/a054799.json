@@ -16,13 +16,15 @@
       {
         "id": "chapter-1",
         "title": "うたうたいは",
-        "startPage": 1,
-        "endPage": 2
+        "startPage": 2,
+        "endPage": 3
       }
     ],
-    "totalPages": 2,
-    "averageCharsPerPage": 46,
-    "chapterTitles": []
+    "totalPages": 3,
+    "averageCharsPerPage": 30,
+    "chapterTitles": [
+      "うたうたいは"
+    ]
   },
   "content": [
     {
@@ -34,8 +36,15 @@
     },
     {
       "pageNumber": 2,
-      "content": "　うたうたいは　うたうたえと　きみ言えど　口おもく　うたうたえず。うたうたいが　うたうたわざれば　死つるよりほか　すべなからんや。魚のごと　あぼあぼと　生きるこそ　悲しけれ。",
-      "characters": 87,
+      "content": "うたうたいは",
+      "characters": 6,
+      "ruby": [],
+      "displayType": "book-title"
+    },
+    {
+      "pageNumber": 3,
+      "content": "　うたうたえと　きみ言えど　口おもく　うたうたえず。うたうたいが　うたうたわざれば　死つるよりほか　すべなからんや。魚のごと　あぼあぼと　生きるこそ　悲しけれ。",
+      "characters": 80,
       "ruby": []
     }
   ]

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "『トルストーイ伝』",
         "startPage": 1,
-        "endPage": 4,
-        "summary": "トルストイ伝の紹介"
+        "endPage": 4
       }
     ],
     "totalPages": 4,
     "averageCharsPerPage": 405,
-    "chapterTitles": []
+    "chapterTitles": [
+      "『トルストーイ伝』"
+    ]
   },
   "content": [
     {

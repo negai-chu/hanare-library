@@ -36,7 +36,9 @@
     ],
     "totalPages": 33,
     "averageCharsPerPage": 553,
-    "chapterTitles": []
+    "chapterTitles": [
+      "二た面"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "送《おく》り猫《ねこ》",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -129,8 +130,7 @@
       "pageNumber": 15,
       "content": "よこしぶき",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "小説総論",
         "startPage": 1,
-        "endPage": 7,
-        "summary": "小説の定義と批評"
+        "endPage": 7
       }
     ],
     "totalPages": 7,
     "averageCharsPerPage": 495,
-    "chapterTitles": []
+    "chapterTitles": [
+      "小説総論"
+    ]
   },
   "content": [
     {

@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "ジャンの物語",
         "startPage": 1,
-        "endPage": 12,
-        "summary": "トルストイの孫の物語"
+        "endPage": 12
       }
     ],
     "totalPages": 12,
     "averageCharsPerPage": 528,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ジャンの物語"
+    ]
   },
   "content": [
     {

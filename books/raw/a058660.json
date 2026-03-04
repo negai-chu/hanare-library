@@ -42,7 +42,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 130,
-    "chapterTitles": []
+    "chapterTitles": [
+      "作文三篇"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "祝文",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "火ヲ愼ム文",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -82,8 +82,7 @@
       "pageNumber": 6,
       "content": "教育ヲ主トスル文",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

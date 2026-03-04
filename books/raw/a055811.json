@@ -42,7 +42,9 @@
     ],
     "totalPages": 30,
     "averageCharsPerPage": 311,
-    "chapterTitles": []
+    "chapterTitles": [
+      "首切り問答"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "仇討ちの決心",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 13,
       "content": "臥薪嘗胆",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -178,8 +178,7 @@
       "pageNumber": 22,
       "content": "張合のない本懐",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

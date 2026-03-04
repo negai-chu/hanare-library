@@ -96,7 +96,9 @@
     ],
     "totalPages": 132,
     "averageCharsPerPage": 501,
-    "chapterTitles": []
+    "chapterTitles": [
+      "長崎の鐘"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "その直前",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -147,8 +148,7 @@
       "pageNumber": 8,
       "content": "原子爆弾",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -190,8 +190,7 @@
       "pageNumber": 15,
       "content": "爆撃直後の情景",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -311,8 +310,7 @@
       "pageNumber": 35,
       "content": "救護",
       "characters": 2,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -420,8 +418,7 @@
       "pageNumber": 53,
       "content": "その夜",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 54,
@@ -457,8 +454,7 @@
       "pageNumber": 59,
       "content": "原子爆弾の力",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -542,8 +538,7 @@
       "pageNumber": 73,
       "content": "原子爆弾傷",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 74,
@@ -591,8 +586,7 @@
       "pageNumber": 81,
       "content": "三ツ山救護班",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -706,8 +700,7 @@
       "pageNumber": 100,
       "content": "原子病",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 101,
@@ -761,8 +754,7 @@
       "pageNumber": 109,
       "content": "原子病療法",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 110,
@@ -786,8 +778,7 @@
       "pageNumber": 113,
       "content": "壕舎の客",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 114,
@@ -865,8 +856,7 @@
       "pageNumber": 126,
       "content": "原子野の鐘",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 127,

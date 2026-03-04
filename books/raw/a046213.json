@@ -42,7 +42,9 @@
     ],
     "totalPages": 28,
     "averageCharsPerPage": 696,
-    "chapterTitles": []
+    "chapterTitles": [
+      "科学批判の課題"
+    ]
   },
   "content": [
     {
@@ -86,8 +88,7 @@
       "pageNumber": 7,
       "content": "一",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -135,8 +136,7 @@
       "pageNumber": 15,
       "content": "二",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -172,8 +172,7 @@
       "pageNumber": 21,
       "content": "三",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,

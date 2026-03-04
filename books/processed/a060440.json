@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "昨日の雨",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 16,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -175,7 +175,7 @@
         "id": "chapter-2",
         "title": "断章",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -319,7 +319,7 @@
             "id": "chapter-2-section-24",
             "number": "回想",
             "startPage": 45,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },

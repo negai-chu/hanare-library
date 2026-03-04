@@ -96,7 +96,9 @@
     ],
     "totalPages": 126,
     "averageCharsPerPage": 532,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日和下駄"
+    ]
   },
   "content": [
     {
@@ -110,8 +112,7 @@
       "pageNumber": 2,
       "content": "序",
       "characters": 1,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -123,8 +124,7 @@
       "pageNumber": 4,
       "content": "第一　日和下駄",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -190,8 +190,7 @@
       "pageNumber": 15,
       "content": "第二　淫祠",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -215,8 +214,7 @@
       "pageNumber": 19,
       "content": "第三　樹",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 20,
@@ -288,8 +286,7 @@
       "pageNumber": 31,
       "content": "第四　地図",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 32,
@@ -331,8 +328,7 @@
       "pageNumber": 38,
       "content": "第五　寺",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,
@@ -404,8 +400,7 @@
       "pageNumber": 50,
       "content": "第六　水　附渡船",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 51,
@@ -531,8 +526,7 @@
       "pageNumber": 71,
       "content": "第七　路地",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 72,
@@ -568,8 +562,7 @@
       "pageNumber": 77,
       "content": "第八　閑地",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 78,
@@ -689,8 +682,7 @@
       "pageNumber": 97,
       "content": "第九　崖",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 98,
@@ -774,8 +766,7 @@
       "pageNumber": 111,
       "content": "第十　坂",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 112,
@@ -823,8 +814,7 @@
       "pageNumber": 119,
       "content": "第十一　夕陽　附富士眺望",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 120,

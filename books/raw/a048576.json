@@ -42,7 +42,9 @@
     ],
     "totalPages": 10,
     "averageCharsPerPage": 297,
-    "chapterTitles": []
+    "chapterTitles": [
+      "ジャズ狂時代"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "お嬢さんはジャズがお好き",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -75,8 +76,7 @@
       "pageNumber": 5,
       "content": "超満員のホット・ジャズ",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -88,8 +88,7 @@
       "pageNumber": 7,
       "content": "法悦の夢想境",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,

@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "第一回",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "交換船",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 3
           }
         ]
       },
@@ -31,7 +31,7 @@
         "id": "chapter-2",
         "title": "第二回",
         "startPage": 4,
-        "endPage": 0,
+        "endPage": 103,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -79,7 +79,7 @@
             "id": "chapter-2-section-8",
             "number": "ノアの方舟",
             "startPage": 97,
-            "endPage": 0
+            "endPage": 103
           }
         ]
       },

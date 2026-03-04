@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 5
       },
       {
         "id": "chapter-2",
         "title": "随筆　宮本武蔵",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -173,7 +173,7 @@
             "id": "chapter-2-section-25",
             "number": "柳生の剣法・武蔵の剣法",
             "startPage": 184,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -181,7 +181,7 @@
         "id": "chapter-3",
         "title": "遺跡紀行",
         "startPage": 187,
-        "endPage": 0,
+        "endPage": 246,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -217,7 +217,7 @@
             "id": "chapter-3-section-6",
             "number": "小倉紀行",
             "startPage": 234,
-            "endPage": 0
+            "endPage": 246
           }
         ]
       },

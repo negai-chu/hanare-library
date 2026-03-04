@@ -48,7 +48,9 @@
     ],
     "totalPages": 45,
     "averageCharsPerPage": 228,
-    "chapterTitles": []
+    "chapterTitles": [
+      "田園情調あり"
+    ]
   },
   "content": [
     {
@@ -62,8 +64,7 @@
       "pageNumber": 2,
       "content": "秋晴れの清遊",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -153,8 +154,7 @@
       "pageNumber": 17,
       "content": "二つのグループ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 18,
@@ -208,8 +208,7 @@
       "pageNumber": 26,
       "content": "文学談話会",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -281,8 +280,7 @@
       "pageNumber": 38,
       "content": "同舟の客",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 39,

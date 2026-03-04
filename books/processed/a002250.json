@@ -17,29 +17,27 @@
         "id": "chapter-1",
         "title": "明治三十五年",
         "startPage": 2,
-        "endPage": 0,
+        "endPage": 3,
         "sections": [
           {
             "id": "chapter-1-section-1",
             "number": "ひと夜えにし",
             "startPage": 3,
-            "endPage": 0
+            "endPage": 3
           }
-        ],
-        "summary": "青春期の歌の萌芽"
+        ]
       },
       {
         "id": "chapter-2",
         "title": "明治三十六年",
         "startPage": 4,
-        "endPage": 0,
-        "summary": "感性が深まる初期の詠草"
+        "endPage": 13
       },
       {
         "id": "chapter-3",
         "title": "明治三十七年",
         "startPage": 14,
-        "endPage": 0,
+        "endPage": 19,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -51,16 +49,15 @@
             "id": "chapter-3-section-2",
             "number": "夏衣",
             "startPage": 18,
-            "endPage": 0
+            "endPage": 19
           }
-        ],
-        "summary": "戦時下の青年の心象"
+        ]
       },
       {
         "id": "chapter-4",
         "title": "明治三十八年",
         "startPage": 20,
-        "endPage": 0,
+        "endPage": 26,
         "sections": [
           {
             "id": "chapter-4-section-1",
@@ -72,16 +69,15 @@
             "id": "chapter-4-section-2",
             "number": "ろべりや",
             "startPage": 23,
-            "endPage": 0
+            "endPage": 26
           }
-        ],
-        "summary": "日露戦争期の歌"
+        ]
       },
       {
         "id": "chapter-5",
         "title": "明治三十九年",
         "startPage": 27,
-        "endPage": 0,
+        "endPage": 29,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -93,52 +89,47 @@
             "id": "chapter-5-section-2",
             "number": "ひまはりばな",
             "startPage": 28,
-            "endPage": 0
+            "endPage": 29
           }
-        ],
-        "summary": "自然と孤独の詠嘆"
+        ]
       },
       {
         "id": "chapter-6",
         "title": "明治四十一年",
         "startPage": 30,
-        "endPage": 0,
+        "endPage": 31,
         "sections": [
           {
             "id": "chapter-6-section-1",
             "number": "水市覺有秋",
             "startPage": 31,
-            "endPage": 0
+            "endPage": 31
           }
-        ],
-        "summary": "沈潜する内面の歌"
+        ]
       },
       {
         "id": "chapter-7",
         "title": "明治四十二年",
         "startPage": 32,
-        "endPage": 0,
-        "summary": "詩的感覚の深化と展開"
+        "endPage": 33
       },
       {
         "id": "chapter-8",
         "title": "明治四十三年",
         "startPage": 34,
-        "endPage": 0,
-        "summary": "都市生活と憂愁の歌"
+        "endPage": 37
       },
       {
         "id": "chapter-9",
         "title": "明治四十四年",
         "startPage": 38,
-        "endPage": 0,
-        "summary": "成熟する抒情の世界"
+        "endPage": 39
       },
       {
         "id": "chapter-10",
         "title": "大正二年",
         "startPage": 40,
-        "endPage": 0,
+        "endPage": 54,
         "sections": [
           {
             "id": "chapter-10-section-1",
@@ -180,17 +171,15 @@
             "id": "chapter-10-section-7",
             "number": "古今新調",
             "startPage": 51,
-            "endPage": 0
+            "endPage": 54
           }
-        ],
-        "summary": "大正期の新たな境地"
+        ]
       },
       {
         "id": "chapter-11",
         "title": "『草稿ノート』『書簡』より",
         "startPage": 55,
-        "endPage": 57,
-        "summary": "未発表の草稿と書簡の歌"
+        "endPage": 57
       }
     ],
     "totalPages": 57,

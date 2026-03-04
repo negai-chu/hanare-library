@@ -36,7 +36,9 @@
     ],
     "totalPages": 23,
     "averageCharsPerPage": 493,
-    "chapterTitles": []
+    "chapterTitles": [
+      "金談にからまる詩的要素の神秘性に就て"
+    ]
   },
   "content": [
     {
@@ -50,8 +52,7 @@
       "pageNumber": 2,
       "content": "一の巻",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -171,8 +172,7 @@
       "pageNumber": 22,
       "content": "二の巻",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

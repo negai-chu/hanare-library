@@ -66,7 +66,9 @@
     ],
     "totalPages": 32,
     "averageCharsPerPage": 424,
-    "chapterTitles": []
+    "chapterTitles": [
+      "動力革命と日本の科学者"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 2,
       "content": "一　科学者と政治家",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -105,8 +106,7 @@
       "pageNumber": 6,
       "content": "二　目に見えない科学",
       "characters": 10,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -130,8 +130,7 @@
       "pageNumber": 10,
       "content": "三　水力発電と原子力発電",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -167,8 +166,7 @@
       "pageNumber": 16,
       "content": "四　国情に即するということ",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -192,8 +190,7 @@
       "pageNumber": 20,
       "content": "五　電力の問題と科学者",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -223,8 +220,7 @@
       "pageNumber": 25,
       "content": "六　火力と原子力",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -248,8 +244,7 @@
       "pageNumber": 29,
       "content": "七　科学の本質",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 30,

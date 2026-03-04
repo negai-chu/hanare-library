@@ -17,13 +17,13 @@
         "id": "chapter-1",
         "title": "序",
         "startPage": 2,
-        "endPage": 0
+        "endPage": 4
       },
       {
         "id": "chapter-2",
         "title": "天王寺墓畔吟",
         "startPage": 5,
-        "endPage": 0,
+        "endPage": 45,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -35,7 +35,7 @@
             "id": "chapter-2-section-2",
             "number": "残暑",
             "startPage": 25,
-            "endPage": 0
+            "endPage": 45
           }
         ]
       },
@@ -43,7 +43,7 @@
         "id": "chapter-3",
         "title": "緑ヶ丘新唱",
         "startPage": 46,
-        "endPage": 0,
+        "endPage": 81,
         "sections": [
           {
             "id": "chapter-3-section-1",
@@ -55,7 +55,7 @@
             "id": "chapter-3-section-2",
             "number": "草の穂",
             "startPage": 65,
-            "endPage": 0
+            "endPage": 81
           }
         ]
       },
@@ -63,13 +63,13 @@
         "id": "chapter-4",
         "title": "世田ヶ谷風塵抄",
         "startPage": 82,
-        "endPage": 0,
+        "endPage": 116,
         "sections": [
           {
             "id": "chapter-4-section-1",
             "number": "篠むら",
             "startPage": 100,
-            "endPage": 0
+            "endPage": 116
           }
         ]
       },
@@ -77,7 +77,7 @@
         "id": "chapter-5",
         "title": "砧村雑唱",
         "startPage": 117,
-        "endPage": 0,
+        "endPage": 213,
         "sections": [
           {
             "id": "chapter-5-section-1",
@@ -89,7 +89,7 @@
             "id": "chapter-5-section-2",
             "number": "鶉飼",
             "startPage": 170,
-            "endPage": 0
+            "endPage": 213
           }
         ]
       },

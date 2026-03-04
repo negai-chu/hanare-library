@@ -60,7 +60,9 @@
     ],
     "totalPages": 33,
     "averageCharsPerPage": 410,
-    "chapterTitles": []
+    "chapterTitles": [
+      "アメリカの沙漠"
+    ]
   },
   "content": [
     {
@@ -80,8 +82,7 @@
       "pageNumber": 3,
       "content": "一　水に乏しい国アメリカ",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 4,
@@ -117,8 +118,7 @@
       "pageNumber": 9,
       "content": "二　沙漠の開発",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -154,8 +154,7 @@
       "pageNumber": 15,
       "content": "三　二十世紀の奇蹟",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 16,
@@ -185,8 +184,7 @@
       "pageNumber": 20,
       "content": "四　奇蹟の蔭にあるもの",
       "characters": 11,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -222,8 +220,7 @@
       "pageNumber": 26,
       "content": "五　花と根",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 27,
@@ -247,8 +244,7 @@
       "pageNumber": 30,
       "content": "六　日本の科学者へ",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,

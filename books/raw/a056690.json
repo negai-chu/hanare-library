@@ -174,7 +174,9 @@
     ],
     "totalPages": 141,
     "averageCharsPerPage": 384,
-    "chapterTitles": []
+    "chapterTitles": [
+      "おれは二十面相だ"
+    ]
   },
   "content": [
     {
@@ -188,8 +190,7 @@
       "pageNumber": 2,
       "content": "消えうせた大学生",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -231,8 +232,7 @@
       "pageNumber": 9,
       "content": "小林少年の冒険",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 10,
@@ -262,8 +262,7 @@
       "pageNumber": 14,
       "content": "やみの中の手",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -287,8 +286,7 @@
       "pageNumber": 18,
       "content": "白と黒",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -324,8 +322,7 @@
       "pageNumber": 24,
       "content": "ドアの秘密",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 25,
@@ -361,8 +358,7 @@
       "pageNumber": 30,
       "content": "電話の声",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -392,8 +388,7 @@
       "pageNumber": 35,
       "content": "電話の秘密",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -417,8 +412,7 @@
       "pageNumber": 39,
       "content": "生きた手首",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 40,
@@ -466,8 +460,7 @@
       "pageNumber": 47,
       "content": "空中の声",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 48,
@@ -509,8 +502,7 @@
       "pageNumber": 54,
       "content": "宙に浮く花びん",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 55,
@@ -540,8 +532,7 @@
       "pageNumber": 59,
       "content": "ふしぎな格闘",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 60,
@@ -571,8 +562,7 @@
       "pageNumber": 64,
       "content": "かわいい女の子",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 65,
@@ -608,8 +598,7 @@
       "pageNumber": 70,
       "content": "ふしぎな足跡",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 71,
@@ -639,8 +628,7 @@
       "pageNumber": 75,
       "content": "透明人間は家の中に",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 76,
@@ -676,8 +664,7 @@
       "pageNumber": 81,
       "content": "午後十時",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -707,8 +694,7 @@
       "pageNumber": 86,
       "content": "消えたゾウ",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 87,
@@ -762,8 +748,7 @@
       "pageNumber": 95,
       "content": "きみが二十面相だ",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 96,
@@ -799,8 +784,7 @@
       "pageNumber": 101,
       "content": "魔法の種",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 102,
@@ -836,8 +820,7 @@
       "pageNumber": 107,
       "content": "ふしぎな道具",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 108,
@@ -867,8 +850,7 @@
       "pageNumber": 112,
       "content": "さいごのなぞ",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 113,
@@ -904,8 +886,7 @@
       "pageNumber": 118,
       "content": "おもいもよらぬ",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 119,
@@ -935,8 +916,7 @@
       "pageNumber": 123,
       "content": "ポケット小僧",
       "characters": 6,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 124,
@@ -966,8 +946,7 @@
       "pageNumber": 128,
       "content": "小国人",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 129,
@@ -991,8 +970,7 @@
       "pageNumber": 132,
       "content": "美術室",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 133,
@@ -1016,8 +994,7 @@
       "pageNumber": 136,
       "content": "名探偵のおくの手",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 137,

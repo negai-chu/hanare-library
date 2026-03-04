@@ -90,7 +90,9 @@
     ],
     "totalPages": 57,
     "averageCharsPerPage": 931,
-    "chapterTitles": []
+    "chapterTitles": [
+      "血の文字"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 2,
       "content": "前置（著者の）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 4,
       "content": "第一回（怪しき客）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -154,8 +154,7 @@
       "pageNumber": 10,
       "content": "第二回（血の文字）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -173,8 +172,7 @@
       "pageNumber": 13,
       "content": "第三回（又不審）",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 14,
@@ -222,8 +220,7 @@
       "pageNumber": 21,
       "content": "第四回（白状）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -247,8 +244,7 @@
       "pageNumber": 25,
       "content": "第五回（種々《しゅ／″＼》の証拠）",
       "characters": 17,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -278,8 +274,7 @@
       "pageNumber": 30,
       "content": "第六回（犬と短銃《ぴすとる》）",
       "characters": 15,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 31,
@@ -297,8 +292,7 @@
       "pageNumber": 33,
       "content": "第七回（馬鹿か、否《いな》）",
       "characters": 14,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 34,
@@ -322,8 +316,7 @@
       "pageNumber": 37,
       "content": "第八回（太郎の妻）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -353,8 +346,7 @@
       "pageNumber": 42,
       "content": "第九回（詰らぬ事）",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 43,
@@ -390,8 +382,7 @@
       "pageNumber": 48,
       "content": "第十回（判然）",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 49,

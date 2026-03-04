@@ -42,7 +42,9 @@
     ],
     "totalPages": 7,
     "averageCharsPerPage": 502,
-    "chapterTitles": []
+    "chapterTitles": [
+      "児童語彙解説"
+    ]
   },
   "content": [
     {
@@ -56,8 +58,7 @@
       "pageNumber": 2,
       "content": "外遊び",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -69,8 +70,7 @@
       "pageNumber": 4,
       "content": "辻わざ",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -82,8 +82,7 @@
       "pageNumber": 6,
       "content": "鬼ごと",
       "characters": 3,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,

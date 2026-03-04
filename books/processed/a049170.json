@@ -17,7 +17,7 @@
         "id": "chapter-1",
         "title": "沙上の夢",
         "startPage": 1,
-        "endPage": 0,
+        "endPage": 1,
         "sections": [
           {
             "id": "chapter-1-section-1",
@@ -143,7 +143,7 @@
             "id": "chapter-1-section-21",
             "number": "榧の木",
             "startPage": 30,
-            "endPage": 0
+            "endPage": 1
           }
         ]
       },
@@ -151,7 +151,7 @@
         "id": "chapter-2",
         "title": "港の時雨",
         "startPage": 34,
-        "endPage": 0,
+        "endPage": 69,
         "sections": [
           {
             "id": "chapter-2-section-1",
@@ -313,7 +313,7 @@
             "id": "chapter-2-section-27",
             "number": "たそがれ",
             "startPage": 68,
-            "endPage": 0
+            "endPage": 69
           }
         ]
       },

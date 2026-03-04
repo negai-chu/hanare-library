@@ -90,7 +90,9 @@
     ],
     "totalPages": 24,
     "averageCharsPerPage": 358,
-    "chapterTitles": []
+    "chapterTitles": [
+      "婦人十一題"
+    ]
   },
   "content": [
     {
@@ -104,8 +106,7 @@
       "pageNumber": 2,
       "content": "一月《いちぐわつ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -117,8 +118,7 @@
       "pageNumber": 4,
       "content": "二月《にぐわつ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 5,
@@ -130,8 +130,7 @@
       "pageNumber": 6,
       "content": "三月《さんぐわつ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 7,
@@ -143,8 +142,7 @@
       "pageNumber": 8,
       "content": "四月《しぐわつ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 9,
@@ -156,8 +154,7 @@
       "pageNumber": 10,
       "content": "五月《ごぐわつ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -169,8 +166,7 @@
       "pageNumber": 12,
       "content": "六月《ろくぐわつ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -182,8 +178,7 @@
       "pageNumber": 14,
       "content": "七月《しちぐわつ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -195,8 +190,7 @@
       "pageNumber": 16,
       "content": "八月《はちぐわつ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -208,8 +202,7 @@
       "pageNumber": 18,
       "content": "九月《くぐわつ》",
       "characters": 8,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -221,8 +214,7 @@
       "pageNumber": 20,
       "content": "十月《じふぐわつ》",
       "characters": 9,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 21,
@@ -234,8 +226,7 @@
       "pageNumber": 22,
       "content": "十一月《じふいちぐわつ》",
       "characters": 12,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 23,

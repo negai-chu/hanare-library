@@ -17,13 +17,14 @@
         "id": "chapter-1",
         "title": "戦争について",
         "startPage": 1,
-        "endPage": 3,
-        "summary": "戦争と人間の変貌"
+        "endPage": 3
       }
     ],
     "totalPages": 3,
     "averageCharsPerPage": 213,
-    "chapterTitles": []
+    "chapterTitles": [
+      "戦争について"
+    ]
   },
   "content": [
     {

@@ -138,7 +138,9 @@
     ],
     "totalPages": 94,
     "averageCharsPerPage": 405,
-    "chapterTitles": []
+    "chapterTitles": [
+      "日記"
+    ]
   },
   "content": [
     {
@@ -152,8 +154,7 @@
       "pageNumber": 2,
       "content": "一月一日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 3,
@@ -171,8 +172,7 @@
       "pageNumber": 5,
       "content": "一月二日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 6,
@@ -184,8 +184,7 @@
       "pageNumber": 7,
       "content": "一月三日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 8,
@@ -203,8 +202,7 @@
       "pageNumber": 10,
       "content": "一月四日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 11,
@@ -216,8 +214,7 @@
       "pageNumber": 12,
       "content": "一月五日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 13,
@@ -229,8 +226,7 @@
       "pageNumber": 14,
       "content": "一月六日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 15,
@@ -242,8 +238,7 @@
       "pageNumber": 16,
       "content": "一月七日",
       "characters": 4,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 17,
@@ -255,8 +250,7 @@
       "pageNumber": 18,
       "content": "一月十四日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 19,
@@ -274,8 +268,7 @@
       "pageNumber": 21,
       "content": "一月十六日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 22,
@@ -287,8 +280,7 @@
       "pageNumber": 23,
       "content": "一月二十日",
       "characters": 5,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 24,
@@ -300,8 +292,7 @@
       "pageNumber": 25,
       "content": "〔一月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 26,
@@ -361,8 +352,7 @@
       "pageNumber": 35,
       "content": "〔二月の感想〕",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 36,
@@ -374,8 +364,7 @@
       "pageNumber": 37,
       "content": "〔二月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 38,
@@ -399,8 +388,7 @@
       "pageNumber": 41,
       "content": "〔金銭出納録〕",
       "characters": 7,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 42,
@@ -490,8 +478,7 @@
       "pageNumber": 56,
       "content": "〔三月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 57,
@@ -569,8 +556,7 @@
       "pageNumber": 69,
       "content": "〔四月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 70,
@@ -588,8 +574,7 @@
       "pageNumber": 72,
       "content": "〔五月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 73,
@@ -643,8 +628,7 @@
       "pageNumber": 81,
       "content": "〔六月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 82,
@@ -716,8 +700,7 @@
       "pageNumber": 93,
       "content": "〔七月中の重要なる出来事〕",
       "characters": 13,
-      "ruby": [],
-      "displayType": "section-title"
+      "ruby": []
     },
     {
       "pageNumber": 94,
